@@ -17,10 +17,9 @@ export default function ChatInterface({ conversationId, candidateName }) {
     if (!input.trim() || loading) return;
 
     const messageContent = input.trim();
-    setInput('');
-
     const userMsg = { role: 'user', content: messageContent, timestamp: new Date().toISOString() };
     setMessages(m => [...m, userMsg]);
+    setInput('');
     setLoading(true);
 
     const token = localStorage.getItem('token');

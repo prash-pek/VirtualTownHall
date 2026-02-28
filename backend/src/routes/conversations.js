@@ -49,7 +49,7 @@ router.post('/:id/messages', optionalAuth, async (req, res) => {
     const responseText = await chat(conversation.candidate_id, messages);
     messages.push({ role: 'assistant', content: responseText, timestamp: new Date().toISOString() });
 
-    db.prepare(`UPDATE conversations SET messages = ?, message_count = ?, updated_at = datetime('now') WHERE id = ?`).run(JSON.stringify(messages), messages.length, req.params.id);
+    db.prepare(`UPDATE conversations SET messages = ?, message_count = ? WHERE id = ?`).run(JSON.stringify(messages), messages.length, req.params.id);
 
     res.json({
       id: randomUUID(),
