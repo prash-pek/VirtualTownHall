@@ -26,7 +26,7 @@ export default function Login() {
     dispatch({ type: 'SET_AUTH', payload: { token: data.token, role, user: data } });
     localStorage.setItem('token', data.token);
     localStorage.setItem('role', role);
-    navigate(role === 'candidate' ? '/admin/dashboard' : '/');
+    navigate(role === 'candidate' ? '/admin/dashboard' : '/voter/dashboard');
   }
 
   return (

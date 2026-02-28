@@ -6,6 +6,7 @@ const path = require('path');
 const authRoutes = require('./routes/auth');
 const candidateRoutes = require('./routes/candidate');
 const constituentRoutes = require('./routes/constituent');
+const constituentProfileRoutes = require('./routes/constituentProfile');
 const conversationRoutes = require('./routes/conversations');
 const adminRoutes = require('./routes/admin');
 
@@ -19,6 +20,7 @@ app.use('/uploads', express.static(path.join(__dirname, '../uploads')));
 app.use('/api/auth', authRoutes);
 app.use('/api/candidate', candidateRoutes);
 app.use('/api/candidates', constituentRoutes);
+app.use('/api/constituent', constituentProfileRoutes);
 app.use('/api/conversations', conversationRoutes);
 app.use('/api/admin', adminRoutes);
 

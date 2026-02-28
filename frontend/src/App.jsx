@@ -6,6 +6,8 @@ import ChatPage from './pages/ChatPage';
 import AuditPage from './pages/AuditPage';
 import Login from './pages/auth/Login';
 import Register from './pages/auth/Register';
+import VoterOnboarding from './pages/voter/Onboarding';
+import VoterDashboard from './pages/voter/Dashboard';
 import Dashboard from './pages/admin/Dashboard';
 import Context from './pages/admin/Context';
 import ContextManager from './pages/admin/ContextManager';
@@ -21,6 +23,8 @@ export default function App() {
   return (
     <Routes>
       <Route path="/" element={<Landing />} />
+      <Route path="/onboarding" element={<VoterOnboarding />} />
+      <Route path="/voter/dashboard" element={<VoterDashboard />} />
       <Route path="/candidates" element={<CandidateList />} />
       <Route path="/candidate/:id" element={<CandidateProfilePage />} />
       <Route path="/candidate/:id/chat" element={<ChatPage />} />

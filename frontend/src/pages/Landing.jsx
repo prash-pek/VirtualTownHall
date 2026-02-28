@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import ZipSearch from '../components/ZipSearch';
@@ -87,6 +88,13 @@ const fadeUp = (delay = 0) => ({
 
 export default function Landing() {
   const navigate = useNavigate();
+  const [scrolled, setScrolled] = useState(false);
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 40);
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
 
   function handleSearch({ zip, topics }) {
     const params = new URLSearchParams({ zip });
@@ -102,32 +110,55 @@ export default function Landing() {
         initial={{ opacity: 0, y: -12 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.4 }}
-        className="flex items-center justify-between px-8 py-5"
-        style={{ borderBottom: '1px solid var(--border)' }}
+        className="sticky top-0 z-50 flex items-center justify-between px-8 py-4 transition-all duration-300"
+        style={{
+          background: scrolled ? 'var(--navy)' : 'var(--cream)',
+          borderBottom: scrolled ? '1px solid rgba(255,255,255,0.1)' : '1px solid var(--border)',
+          boxShadow: scrolled ? '0 2px 20px rgba(0,0,0,0.15)' : 'none',
+        }}
       >
         <div className="flex items-center gap-3">
-          <div className="w-7 h-7 flex items-center justify-center rounded-full" style={{ background: 'var(--navy)' }}>
+          <div className="w-7 h-7 flex items-center justify-center rounded-full" style={{ background: scrolled ? 'rgba(255,255,255,0.15)' : 'var(--navy)' }}>
             <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
               <circle cx="7" cy="4" r="2.5" fill="white"/>
               <path d="M2 12c0-2.76 2.24-5 5-5s5 2.24 5 5" stroke="white" strokeWidth="1.5" strokeLinecap="round"/>
             </svg>
           </div>
-          <span className="font-display font-bold text-lg tracking-tight" style={{ color: 'var(--navy)' }}>TownHall</span>
+          <span className="font-display font-bold text-lg tracking-tight" style={{ color: scrolled ? 'white' : 'var(--navy)' }}>TownHall</span>
           <span className="text-xs font-semibold px-1.5 py-0.5" style={{ background: 'var(--gold)', color: 'white', letterSpacing: '0.05em' }}>AI</span>
         </div>
         <div className="flex items-center gap-6">
-          <a href="#for-candidates" className="text-sm font-medium transition-colors" style={{ color: 'var(--text-muted)' }}
-             onMouseEnter={e => e.target.style.color = 'var(--navy)'}
-             onMouseLeave={e => e.target.style.color = 'var(--text-muted)'}>
+          <a href="#for-voters"
+            className="text-sm font-medium transition-colors"
+            style={{ color: scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)' }}
+            onMouseEnter={e => e.target.style.color = scrolled ? 'white' : 'var(--navy)'}
+            onMouseLeave={e => e.target.style.color = scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)'}
+          >
+            For Voters
+          </a>
+          <a href="#for-candidates"
+            className="text-sm font-medium transition-colors"
+            style={{ color: scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)' }}
+            onMouseEnter={e => e.target.style.color = scrolled ? 'white' : 'var(--navy)'}
+            onMouseLeave={e => e.target.style.color = scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)'}
+          >
             For Candidates
           </a>
-          <a href="/auth/login" className="text-sm font-medium transition-colors" style={{ color: 'var(--text-muted)' }}
-             onMouseEnter={e => e.target.style.color = 'var(--navy)'}
-             onMouseLeave={e => e.target.style.color = 'var(--text-muted)'}>
+          <a href="/auth/login"
+            className="text-sm font-medium transition-colors"
+            style={{ color: scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)' }}
+            onMouseEnter={e => e.target.style.color = scrolled ? 'white' : 'var(--navy)'}
+            onMouseLeave={e => e.target.style.color = scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)'}
+          >
             Sign In
           </a>
-          <a href="/auth/register" className="btn-primary text-xs py-2 px-4">
-            Register as Candidate
+          <a href="/onboarding"
+            className="text-xs py-2 px-5 font-semibold tracking-wide transition-all"
+            style={{ background: scrolled ? 'var(--gold)' : 'var(--navy)', color: 'white' }}
+            onMouseEnter={e => e.currentTarget.style.opacity = '0.85'}
+            onMouseLeave={e => e.currentTarget.style.opacity = '1'}
+          >
+            Get Started →
           </a>
         </div>
       </motion.nav>
@@ -190,7 +221,7 @@ export default function Landing() {
       </div>
 
       {/* ── How it works (voters) ── */}
-      <div className="max-w-6xl mx-auto px-8 py-16" style={{ borderTop: '1px solid var(--border)' }}>
+      <div id="for-voters" className="max-w-6xl mx-auto px-8 py-16" style={{ borderTop: '1px solid var(--border)' }}>
         <motion.p {...fadeUp()} className="section-label mb-10">For voters — how it works</motion.p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {[
