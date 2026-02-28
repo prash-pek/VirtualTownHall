@@ -87,13 +87,13 @@ export default function CandidateDashboard() {
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 0.3 }}
-      className="p-8"
+      className="p-5 sm:p-6 md:p-8"
     >
       {/* Header */}
-      <div className="flex items-start justify-between gap-6 mb-8">
+      <div className="flex flex-col sm:flex-row sm:items-start justify-between gap-4 sm:gap-6 mb-8">
         <div>
           <p className="section-label mb-2">Overview</p>
-          <h1 className="font-display text-3xl font-bold mb-1" style={{ color: 'var(--navy)' }}>
+          <h1 className="font-display text-2xl sm:text-3xl font-bold mb-1" style={{ color: 'var(--navy)' }}>
             Welcome back, {candidate.name.split(' ')[0]}.
           </h1>
           <p className="text-sm" style={{ color: 'var(--text-muted)' }}>
@@ -131,7 +131,7 @@ export default function CandidateDashboard() {
       </div>
 
       {/* Metrics */}
-      <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
         <MetricCard label="Total Conversations" value={analytics?.total_conversations ?? '—'} sub={analytics ? `${analytics.anonymous_conversations} anonymous` : null} delay={0.05} />
         <MetricCard label="Unique Voters" value={analytics?.unique_constituents ?? '—'} sub="reached" delay={0.1} />
         <MetricCard label="Alignment Score" value={candidate.alignment_score != null ? `${Math.round(candidate.alignment_score)}%` : '—'} sub="platform vs. public record" color={candidate.alignment_score != null ? scoreColor : undefined} delay={0.15} />
@@ -198,7 +198,7 @@ export default function CandidateDashboard() {
       {/* Quick links */}
       <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.35, duration: 0.35 }}>
         <p className="section-label mb-4">Quick actions</p>
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
           {QUICK_LINKS.map(item => (
             <Link key={item.to} to={item.to} className="card p-4 flex flex-col items-center gap-2 text-center hover:shadow-md transition-shadow group">
               <div style={{ color: 'var(--navy)', opacity: 0.6 }} className="group-hover:opacity-100 transition-opacity">{item.icon}</div>

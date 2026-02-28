@@ -22,20 +22,20 @@ export default function CandidateList() {
     <div className="min-h-screen" style={{ background: 'var(--cream)' }}>
       {/* Header bar */}
       <div style={{ background: 'var(--navy)', borderBottom: '1px solid rgba(255,255,255,0.1)' }}>
-        <div className="max-w-4xl mx-auto px-8 py-5 flex items-center justify-between">
+        <div className="max-w-4xl mx-auto px-5 sm:px-6 md:px-8 py-5 flex items-center justify-between">
           <Link to="/" className="font-display font-bold text-lg text-white tracking-tight flex items-center gap-2">
             ← TownHall
           </Link>
-          <div className="text-white text-sm opacity-70">
+          <div className="text-white text-xs sm:text-sm opacity-70 truncate ml-3">
             ZIP {zip}{topics && ` · ${topics.split(',').length} topic filter${topics.split(',').length > 1 ? 's' : ''}`}
           </div>
         </div>
       </div>
 
-      <div className="max-w-4xl mx-auto px-8 py-10">
+      <div className="max-w-4xl mx-auto px-5 sm:px-6 md:px-8 py-10">
         <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4 }}>
           <p className="section-label mb-2">Your ballot</p>
-          <h1 className="font-display text-4xl font-bold mb-1" style={{ color: 'var(--navy)' }}>
+          <h1 className="font-display text-3xl sm:text-4xl font-bold mb-1" style={{ color: 'var(--navy)' }}>
             Candidates in {zip}
           </h1>
           {!loading && (

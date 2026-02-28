@@ -50,13 +50,17 @@ export default function Login() {
       </motion.div>
 
       {/* Right: form */}
-      <div className="flex-1 flex items-center justify-center px-8">
+      <div className="flex-1 flex items-center justify-center px-5 sm:px-6 md:px-8">
         <motion.div
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.15, duration: 0.5 }}
           className="w-full max-w-sm"
         >
+          {/* Mobile branding */}
+          <div className="lg:hidden mb-8 text-center">
+            <span className="font-display text-xl font-bold" style={{ color: 'var(--navy)' }}>TownHall AI</span>
+          </div>
           <p className="section-label mb-2">Welcome back</p>
           <h2 className="font-display text-3xl font-bold mb-8" style={{ color: 'var(--navy)' }}>Sign in</h2>
 

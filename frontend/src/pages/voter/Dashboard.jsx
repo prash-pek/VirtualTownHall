@@ -118,70 +118,101 @@ export default function VoterDashboard() {
     navigate('/');
   }
 
+  const [sidebarOpen, setSidebarOpen] = useState(false);
   const displayZip = profile?.zip_code || zip;
   const displayTopics = profile?.interest_tags?.length ? profile.interest_tags : storedTopics;
 
-  return (
-    <div className="flex h-screen" style={{ background: 'var(--cream)' }}>
-      {/* ── Sidebar ── */}
-      <aside className="w-56 flex-shrink-0 flex flex-col" style={{ background: 'var(--navy)', minHeight: '100vh' }}>
-        {/* Logo */}
-        <div className="px-5 py-5" style={{ borderBottom: '1px solid rgba(255,255,255,0.1)' }}>
-          <Link to="/" className="flex items-center gap-2">
-            <div className="w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0" style={{ background: 'rgba(255,255,255,0.15)' }}>
-              <svg width="12" height="12" viewBox="0 0 14 14" fill="none">
-                <circle cx="7" cy="4" r="2.5" fill="white"/>
-                <path d="M2 12c0-2.76 2.24-5 5-5s5 2.24 5 5" stroke="white" strokeWidth="1.5" strokeLinecap="round"/>
-              </svg>
-            </div>
-            <span className="font-display font-bold text-white text-sm">TownHall AI</span>
-          </Link>
-          <p className="text-xs mt-1.5 font-medium uppercase tracking-widest" style={{ color: 'rgba(255,255,255,0.35)' }}>Voter Portal</p>
-        </div>
+  function handleNavClick(id) {
+    setActiveNav(id);
+    setSidebarOpen(false);
+    if (id === 'browse') {
+      setBrowseTopic(null);
+      const useZip = profile?.zip_code || zip;
+      if (useZip) loadAllCandidates(useZip, null);
+    }
+  }
 
-        {/* Nav */}
-        <nav className="flex-1 px-3 py-4 space-y-0.5">
-          {NAV_ITEMS.map(item => (
-            <button
-              key={item.id}
-              onClick={() => {
-                setActiveNav(item.id);
-                if (item.id === 'browse') {
-                  setBrowseTopic(null);
-                  const useZip = profile?.zip_code || zip;
-                  if (useZip) loadAllCandidates(useZip, null);
-                }
-              }}
-              className="w-full flex items-center gap-3 px-3 py-2.5 text-sm font-medium transition-all text-left"
-              style={{
-                background: activeNav === item.id ? 'rgba(255,255,255,0.1)' : 'transparent',
-                color: activeNav === item.id ? 'white' : 'rgba(255,255,255,0.55)',
-                borderLeft: activeNav === item.id ? '2px solid var(--gold)' : '2px solid transparent',
-              }}
-            >
-              {item.icon}
-              {item.label}
-            </button>
-          ))}
-        </nav>
-
-        {/* Bottom: ZIP badge + sign out */}
-        <div className="px-4 py-4" style={{ borderTop: '1px solid rgba(255,255,255,0.1)' }}>
-          {displayZip && (
-            <div className="flex items-center gap-2 mb-3">
-              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1a4 4 0 00-4 4c0 3 4 7 4 7s4-4 4-7a4 4 0 00-4-4z" stroke="rgba(255,255,255,0.4)" strokeWidth="1.2"/></svg>
-              <span className="text-xs" style={{ color: 'rgba(255,255,255,0.45)' }}>ZIP {displayZip}</span>
-            </div>
-          )}
+  const sidebarContent = (
+    <>
+      {/* Logo */}
+      <div className="px-5 py-5" style={{ borderBottom: '1px solid rgba(255,255,255,0.1)' }}>
+        <Link to="/" className="flex items-center gap-2">
+          <div className="w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0" style={{ background: 'rgba(255,255,255,0.15)' }}>
+            <svg width="12" height="12" viewBox="0 0 14 14" fill="none">
+              <circle cx="7" cy="4" r="2.5" fill="white"/>
+              <path d="M2 12c0-2.76 2.24-5 5-5s5 2.24 5 5" stroke="white" strokeWidth="1.5" strokeLinecap="round"/>
+            </svg>
+          </div>
+          <span className="font-display font-bold text-white text-sm">TownHall AI</span>
+        </Link>
+        <p className="text-xs mt-1.5 font-medium uppercase tracking-widest" style={{ color: 'rgba(255,255,255,0.35)' }}>Voter Portal</p>
+      </div>
+      {/* Nav */}
+      <nav className="flex-1 px-3 py-4 space-y-0.5">
+        {NAV_ITEMS.map(item => (
           <button
-            onClick={handleSignOut}
-            className="text-xs font-medium flex items-center gap-2 transition-opacity hover:opacity-100"
-            style={{ color: 'rgba(255,255,255,0.35)' }}
+            key={item.id}
+            onClick={() => handleNavClick(item.id)}
+            className="w-full flex items-center gap-3 px-3 py-2.5 text-sm font-medium transition-all text-left"
+            style={{
+              background: activeNav === item.id ? 'rgba(255,255,255,0.1)' : 'transparent',
+              color: activeNav === item.id ? 'white' : 'rgba(255,255,255,0.55)',
+              borderLeft: activeNav === item.id ? '2px solid var(--gold)' : '2px solid transparent',
+            }}
           >
-            <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M5 7h6M9 5l2 2-2 2" stroke="currentColor" strokeWidth="1.3" strokeLinecap="round" strokeLinejoin="round"/><path d="M9 2H3a1 1 0 00-1 1v8a1 1 0 001 1h6" stroke="currentColor" strokeWidth="1.3" strokeLinecap="round"/></svg>
-            Sign out
+            {item.icon}
+            {item.label}
           </button>
+        ))}
+      </nav>
+      {/* Bottom */}
+      <div className="px-4 py-4" style={{ borderTop: '1px solid rgba(255,255,255,0.1)' }}>
+        {displayZip && (
+          <div className="flex items-center gap-2 mb-3">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1a4 4 0 00-4 4c0 3 4 7 4 7s4-4 4-7a4 4 0 00-4-4z" stroke="rgba(255,255,255,0.4)" strokeWidth="1.2"/></svg>
+            <span className="text-xs" style={{ color: 'rgba(255,255,255,0.45)' }}>ZIP {displayZip}</span>
+          </div>
+        )}
+        <button onClick={handleSignOut} className="text-xs font-medium flex items-center gap-2 transition-opacity hover:opacity-100" style={{ color: 'rgba(255,255,255,0.35)' }}>
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M5 7h6M9 5l2 2-2 2" stroke="currentColor" strokeWidth="1.3" strokeLinecap="round" strokeLinejoin="round"/><path d="M9 2H3a1 1 0 00-1 1v8a1 1 0 001 1h6" stroke="currentColor" strokeWidth="1.3" strokeLinecap="round"/></svg>
+          Sign out
+        </button>
+      </div>
+    </>
+  );
+
+  return (
+    <div className="flex flex-col md:flex-row h-screen" style={{ background: 'var(--cream)' }}>
+      {/* ── Mobile top bar ── */}
+      <div className="md:hidden flex items-center justify-between px-4 py-3 flex-shrink-0" style={{ background: 'var(--navy)', borderBottom: '1px solid rgba(255,255,255,0.1)' }}>
+        <div className="flex items-center gap-2">
+          <div className="w-6 h-6 rounded-full flex items-center justify-center" style={{ background: 'rgba(255,255,255,0.15)' }}>
+            <svg width="12" height="12" viewBox="0 0 14 14" fill="none"><circle cx="7" cy="4" r="2.5" fill="white"/><path d="M2 12c0-2.76 2.24-5 5-5s5 2.24 5 5" stroke="white" strokeWidth="1.5" strokeLinecap="round"/></svg>
+          </div>
+          <span className="font-display font-bold text-white text-sm">TownHall AI</span>
+          <span className="text-xs font-medium uppercase tracking-widest" style={{ color: 'rgba(255,255,255,0.35)' }}>Voter</span>
         </div>
+        <button onClick={() => setSidebarOpen(v => !v)} className="p-2 -mr-2" aria-label="Toggle menu">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+            {sidebarOpen
+              ? <path d="M5 5l10 10M15 5L5 15" stroke="white" strokeWidth="2" strokeLinecap="round"/>
+              : <path d="M3 5h14M3 10h14M3 15h14" stroke="white" strokeWidth="2" strokeLinecap="round"/>
+            }
+          </svg>
+        </button>
+      </div>
+
+      {/* ── Mobile sidebar overlay ── */}
+      <div className={`fixed inset-0 z-40 md:hidden transition-all duration-300 ${sidebarOpen ? '' : 'pointer-events-none'}`}>
+        <div className={`absolute inset-0 bg-black transition-opacity duration-300 ${sidebarOpen ? 'opacity-50' : 'opacity-0'}`} onClick={() => setSidebarOpen(false)} />
+        <aside className={`absolute inset-y-0 left-0 w-64 flex flex-col transition-transform duration-300 ${sidebarOpen ? 'translate-x-0' : '-translate-x-full'}`} style={{ background: 'var(--navy)' }}>
+          {sidebarContent}
+        </aside>
+      </div>
+
+      {/* ── Desktop sidebar ── */}
+      <aside className="hidden md:flex w-56 flex-shrink-0 flex-col" style={{ background: 'var(--navy)' }}>
+        {sidebarContent}
       </aside>
 
       {/* ── Main content ── */}
@@ -194,12 +225,12 @@ export default function VoterDashboard() {
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0 }}
               transition={{ duration: 0.25 }}
-              className="p-8"
+              className="p-5 sm:p-6 md:p-8"
             >
               {/* Header */}
-              <div className="mb-8">
+              <div className="mb-6 md:mb-8">
                 <p className="section-label mb-2">Voter Dashboard</p>
-                <h1 className="font-display text-3xl font-bold mb-2" style={{ color: 'var(--navy)' }}>
+                <h1 className="font-display text-2xl sm:text-3xl font-bold mb-2" style={{ color: 'var(--navy)' }}>
                   Your Matched Candidates
                 </h1>
                 <div className="flex items-center gap-3 flex-wrap">
@@ -250,7 +281,7 @@ export default function VoterDashboard() {
                   <p className="text-sm mb-5" style={{ color: 'var(--text-muted)' }}>
                     {candidates.length} candidate{candidates.length !== 1 ? 's' : ''} found in your area
                   </p>
-                  <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                     {candidates.map((c, i) => (
                       <MatchedCandidateCard key={c.id} candidate={c} index={i} voterTopics={displayTopics} />
                     ))}
@@ -286,11 +317,11 @@ export default function VoterDashboard() {
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0 }}
               transition={{ duration: 0.25 }}
-              className="p-8"
+              className="p-5 sm:p-6 md:p-8"
             >
               <div className="mb-8">
                 <p className="section-label mb-2">Browse Candidates</p>
-                <h1 className="font-display text-3xl font-bold mb-2" style={{ color: 'var(--navy)' }}>
+                <h1 className="font-display text-2xl sm:text-3xl font-bold mb-2" style={{ color: 'var(--navy)' }}>
                   {browseTopic ? `Candidates on ${browseTopic.replace(/-/g, ' ')}` : `All Candidates in ${displayZip}`}
                 </h1>
                 {browseTopic && (
@@ -363,7 +394,7 @@ export default function VoterDashboard() {
                   <p className="text-sm mb-5" style={{ color: 'var(--text-muted)' }}>
                     {allCandidates.length} candidate{allCandidates.length !== 1 ? 's' : ''} found
                   </p>
-                  <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                     {allCandidates.map((c, i) => (
                       <MatchedCandidateCard key={c.id} candidate={c} index={i} voterTopics={displayTopics} />
                     ))}
@@ -380,7 +411,7 @@ export default function VoterDashboard() {
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0 }}
               transition={{ duration: 0.25 }}
-              className="p-8 max-w-lg"
+              className="p-5 sm:p-6 md:p-8 max-w-lg"
             >
               <p className="section-label mb-2">My Profile</p>
               <h1 className="font-display text-3xl font-bold mb-2" style={{ color: 'var(--navy)' }}>Voter Preferences</h1>

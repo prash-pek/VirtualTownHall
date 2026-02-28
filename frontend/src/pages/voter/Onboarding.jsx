@@ -67,7 +67,7 @@ export default function VoterOnboarding() {
   return (
     <div className="min-h-screen flex flex-col" style={{ background: 'var(--cream)' }}>
       {/* Top bar */}
-      <div className="flex items-center justify-between px-8 py-4" style={{ borderBottom: '1px solid var(--border)' }}>
+      <div className="flex items-center justify-between px-5 sm:px-6 md:px-8 py-4" style={{ borderBottom: '1px solid var(--border)' }}>
         <a href="/" className="flex items-center gap-2">
           <div className="w-6 h-6 rounded-full flex items-center justify-center" style={{ background: 'var(--navy)' }}>
             <svg width="12" height="12" viewBox="0 0 14 14" fill="none">
@@ -225,7 +225,7 @@ export default function VoterOnboarding() {
                     Click to rank your most important issues. This helps us surface the most relevant candidates first.
                   </p>
 
-                  <div className="grid grid-cols-2 gap-2 mb-4">
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 mb-4">
                     {topics.map(topic => {
                       const rank = priorities.indexOf(topic);
                       const isRanked = rank !== -1;

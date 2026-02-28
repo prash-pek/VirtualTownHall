@@ -283,7 +283,7 @@ export default function AdminAnalytics({ token }) {
     <div className="space-y-7">
 
       {/* Stat cards */}
-      <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
         {[
           { label: 'Total Conversations', value: total, sub: 'all time', accent: 'var(--navy)' },
           { label: 'Unique Voters', value: unique, sub: 'distinct constituents', accent: 'var(--gold)' },
@@ -306,8 +306,8 @@ export default function AdminAnalytics({ token }) {
       </div>
 
       {/* 14-day trend */}
-      <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3, duration: 0.4 }} className="card p-6">
-        <div className="flex items-start justify-between mb-6">
+      <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3, duration: 0.4 }} className="card p-4 sm:p-6 overflow-x-auto">
+        <div className="flex flex-col sm:flex-row sm:items-start justify-between gap-3 mb-6">
           <div>
             <p className="section-label mb-1">Activity Trend</p>
             <h3 className="font-display text-base font-semibold" style={{ color: 'var(--navy)' }}>
@@ -366,7 +366,7 @@ export default function AdminAnalytics({ token }) {
         className="card p-6" style={{ borderLeft: '3px solid var(--gold)' }}>
         <p className="section-label mb-2">AI Summary</p>
         <h3 className="font-display text-base font-semibold mb-5" style={{ color: 'var(--navy)' }}>What the data tells you</h3>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
           {[
             {
               icon: '📊',

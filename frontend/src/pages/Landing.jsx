@@ -89,6 +89,7 @@ const fadeUp = (delay = 0) => ({
 export default function Landing() {
   const navigate = useNavigate();
   const [scrolled, setScrolled] = useState(false);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);
@@ -110,62 +111,96 @@ export default function Landing() {
         initial={{ opacity: 0, y: -12 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.4 }}
-        className="sticky top-0 z-50 flex items-center justify-between px-8 py-4 transition-all duration-300"
+        className="sticky top-0 z-50 transition-all duration-300"
         style={{
           background: scrolled ? 'var(--navy)' : 'var(--cream)',
           borderBottom: scrolled ? '1px solid rgba(255,255,255,0.1)' : '1px solid var(--border)',
           boxShadow: scrolled ? '0 2px 20px rgba(0,0,0,0.15)' : 'none',
         }}
       >
-        <div className="flex items-center gap-3">
-          <div className="w-7 h-7 flex items-center justify-center rounded-full" style={{ background: scrolled ? 'rgba(255,255,255,0.15)' : 'var(--navy)' }}>
-            <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
-              <circle cx="7" cy="4" r="2.5" fill="white"/>
-              <path d="M2 12c0-2.76 2.24-5 5-5s5 2.24 5 5" stroke="white" strokeWidth="1.5" strokeLinecap="round"/>
-            </svg>
+        <div className="flex items-center justify-between px-5 sm:px-6 md:px-8 py-4">
+          <div className="flex items-center gap-3">
+            <div className="w-7 h-7 flex items-center justify-center rounded-full" style={{ background: scrolled ? 'rgba(255,255,255,0.15)' : 'var(--navy)' }}>
+              <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+                <circle cx="7" cy="4" r="2.5" fill="white"/>
+                <path d="M2 12c0-2.76 2.24-5 5-5s5 2.24 5 5" stroke="white" strokeWidth="1.5" strokeLinecap="round"/>
+              </svg>
+            </div>
+            <span className="font-display font-bold text-lg tracking-tight" style={{ color: scrolled ? 'white' : 'var(--navy)' }}>TownHall</span>
+            <span className="text-xs font-semibold px-1.5 py-0.5" style={{ background: 'var(--gold)', color: 'white', letterSpacing: '0.05em' }}>AI</span>
           </div>
-          <span className="font-display font-bold text-lg tracking-tight" style={{ color: scrolled ? 'white' : 'var(--navy)' }}>TownHall</span>
-          <span className="text-xs font-semibold px-1.5 py-0.5" style={{ background: 'var(--gold)', color: 'white', letterSpacing: '0.05em' }}>AI</span>
+          {/* Desktop nav */}
+          <div className="hidden md:flex items-center gap-6">
+            <a href="#for-voters"
+              className="text-sm font-medium transition-colors"
+              style={{ color: scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)' }}
+              onMouseEnter={e => e.target.style.color = scrolled ? 'white' : 'var(--navy)'}
+              onMouseLeave={e => e.target.style.color = scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)'}
+            >
+              For Voters
+            </a>
+            <a href="#for-candidates"
+              className="text-sm font-medium transition-colors"
+              style={{ color: scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)' }}
+              onMouseEnter={e => e.target.style.color = scrolled ? 'white' : 'var(--navy)'}
+              onMouseLeave={e => e.target.style.color = scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)'}
+            >
+              For Candidates
+            </a>
+            <Link to="/auth/login"
+              className="text-sm font-medium transition-colors"
+              style={{ color: scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)' }}
+              onMouseEnter={e => e.target.style.color = scrolled ? 'white' : 'var(--navy)'}
+              onMouseLeave={e => e.target.style.color = scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)'}
+            >
+              Sign In
+            </Link>
+            <Link to="/onboarding"
+              className="text-xs py-2 px-5 font-semibold tracking-wide transition-all"
+              style={{ background: scrolled ? 'var(--gold)' : 'var(--navy)', color: 'white' }}
+              onMouseEnter={e => e.currentTarget.style.opacity = '0.85'}
+              onMouseLeave={e => e.currentTarget.style.opacity = '1'}
+            >
+              Get Started →
+            </Link>
+          </div>
+          {/* Mobile hamburger */}
+          <button
+            className="md:hidden p-2 -mr-2"
+            onClick={() => setMobileMenuOpen(v => !v)}
+            aria-label="Toggle menu"
+          >
+            <svg width="22" height="22" viewBox="0 0 22 22" fill="none">
+              {mobileMenuOpen
+                ? <path d="M6 6l10 10M16 6L6 16" stroke={scrolled ? 'white' : 'var(--navy)'} strokeWidth="2" strokeLinecap="round"/>
+                : <path d="M4 6h14M4 11h14M4 16h14" stroke={scrolled ? 'white' : 'var(--navy)'} strokeWidth="2" strokeLinecap="round"/>
+              }
+            </svg>
+          </button>
         </div>
-        <div className="flex items-center gap-6">
-          <a href="#for-voters"
-            className="text-sm font-medium transition-colors"
-            style={{ color: scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)' }}
-            onMouseEnter={e => e.target.style.color = scrolled ? 'white' : 'var(--navy)'}
-            onMouseLeave={e => e.target.style.color = scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)'}
+        {/* Mobile dropdown */}
+        {mobileMenuOpen && (
+          <motion.div
+            initial={{ opacity: 0, height: 0 }}
+            animate={{ opacity: 1, height: 'auto' }}
+            className="md:hidden px-5 pb-5 flex flex-col gap-3"
+            style={{ borderTop: `1px solid ${scrolled ? 'rgba(255,255,255,0.1)' : 'var(--border)'}` }}
           >
-            For Voters
-          </a>
-          <a href="#for-candidates"
-            className="text-sm font-medium transition-colors"
-            style={{ color: scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)' }}
-            onMouseEnter={e => e.target.style.color = scrolled ? 'white' : 'var(--navy)'}
-            onMouseLeave={e => e.target.style.color = scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)'}
-          >
-            For Candidates
-          </a>
-          <Link to="/auth/login"
-            className="text-sm font-medium transition-colors"
-            style={{ color: scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)' }}
-            onMouseEnter={e => e.target.style.color = scrolled ? 'white' : 'var(--navy)'}
-            onMouseLeave={e => e.target.style.color = scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)'}
-          >
-            Sign In
-          </Link>
-          <Link to="/onboarding"
-            className="text-xs py-2 px-5 font-semibold tracking-wide transition-all"
-            style={{ background: scrolled ? 'var(--gold)' : 'var(--navy)', color: 'white' }}
-            onMouseEnter={e => e.currentTarget.style.opacity = '0.85'}
-            onMouseLeave={e => e.currentTarget.style.opacity = '1'}
-          >
-            Get Started →
-          </Link>
-        </div>
+            <a href="#for-voters" onClick={() => setMobileMenuOpen(false)}
+              className="text-sm font-medium py-2" style={{ color: scrolled ? 'rgba(255,255,255,0.8)' : 'var(--navy)' }}>For Voters</a>
+            <a href="#for-candidates" onClick={() => setMobileMenuOpen(false)}
+              className="text-sm font-medium py-2" style={{ color: scrolled ? 'rgba(255,255,255,0.8)' : 'var(--navy)' }}>For Candidates</a>
+            <Link to="/auth/login" onClick={() => setMobileMenuOpen(false)}
+              className="text-sm font-medium py-2" style={{ color: scrolled ? 'rgba(255,255,255,0.8)' : 'var(--navy)' }}>Sign In</Link>
+            <Link to="/onboarding" onClick={() => setMobileMenuOpen(false)}
+              className="btn-primary text-center py-3 text-sm mt-1">Get Started →</Link>
+          </motion.div>
+        )}
       </motion.nav>
 
       {/* ── Hero ── */}
-      <div className="max-w-6xl mx-auto px-8 pt-20 pb-16">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
+      <div className="max-w-6xl mx-auto px-5 sm:px-6 md:px-8 pt-12 sm:pt-16 md:pt-20 pb-12 md:pb-16">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-start">
           <div>
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.1 }} className="section-label mb-6">
               Civic Technology — Est. 2026
@@ -173,7 +208,7 @@ export default function Landing() {
             <motion.h1
               initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2, duration: 0.6, ease: 'easeOut' }}
-              className="font-display text-6xl lg:text-7xl leading-none tracking-tight mb-6"
+              className="font-display text-4xl sm:text-5xl lg:text-6xl xl:text-7xl leading-none tracking-tight mb-6"
               style={{ color: 'var(--navy)' }}
             >
               Every voter deserves a real conversation.
@@ -194,7 +229,7 @@ export default function Landing() {
             </motion.p>
             <motion.div
               initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.6 }}
-              className="flex gap-8 pt-8" style={{ borderTop: '1px solid var(--border)' }}
+              className="flex flex-wrap gap-6 lg:gap-8 pt-8" style={{ borderTop: '1px solid var(--border)' }}
             >
               {STATS.map((s, i) => (
                 <div key={i}>
@@ -209,11 +244,11 @@ export default function Landing() {
             initial={{ opacity: 0, x: 24 }} animate={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.35, duration: 0.6, ease: 'easeOut' }}
           >
-            <div className="px-8 pt-8 pb-6" style={{ background: 'var(--navy)' }}>
+            <div className="px-5 sm:px-6 md:px-8 pt-6 md:pt-8 pb-5 md:pb-6" style={{ background: 'var(--navy)' }}>
               <p className="section-label mb-2" style={{ color: 'rgba(255,255,255,0.5)' }}>Find your candidates</p>
               <h2 className="font-display text-2xl text-white">Who's on your ballot?</h2>
             </div>
-            <div className="p-8 card">
+            <div className="p-5 sm:p-6 md:p-8 card">
               <ZipSearch onSearch={handleSearch} />
             </div>
           </motion.div>
@@ -221,7 +256,7 @@ export default function Landing() {
       </div>
 
       {/* ── How it works (voters) ── */}
-      <div id="for-voters" className="max-w-6xl mx-auto px-8 py-16" style={{ borderTop: '1px solid var(--border)' }}>
+      <div id="for-voters" className="max-w-6xl mx-auto px-5 sm:px-6 md:px-8 py-12 md:py-16" style={{ borderTop: '1px solid var(--border)' }}>
         <motion.p {...fadeUp()} className="section-label mb-10">For voters — how it works</motion.p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {[
@@ -240,10 +275,10 @@ export default function Landing() {
 
       {/* ── The Problem (candidate pitch setup) ── */}
       <div style={{ background: 'var(--ink)' }} id="for-candidates">
-        <div className="max-w-6xl mx-auto px-8 py-20">
-          <motion.div {...fadeUp()} className="max-w-2xl mb-16">
+        <div className="max-w-6xl mx-auto px-5 sm:px-6 md:px-8 py-14 md:py-20">
+          <motion.div {...fadeUp()} className="max-w-2xl mb-12 md:mb-16">
             <p className="section-label mb-4" style={{ color: 'rgba(255,255,255,0.35)' }}>The problem</p>
-            <h2 className="font-display text-5xl font-bold text-white leading-tight mb-4">
+            <h2 className="font-display text-3xl sm:text-4xl md:text-5xl font-bold text-white leading-tight mb-4">
               Political communication is broken.
             </h2>
             <span className="block w-14 h-0.5 mb-6" style={{ background: 'var(--gold)' }} />
@@ -259,7 +294,7 @@ export default function Landing() {
               <motion.div
                 key={i}
                 {...fadeUp(i * 0.12)}
-                className="px-8 py-10"
+                className="px-5 sm:px-6 md:px-8 py-8 md:py-10"
                 style={{ background: 'var(--ink)' }}
               >
                 <div className="font-display text-5xl font-bold mb-3" style={{ color: 'var(--gold)' }}>{p.stat}</div>
@@ -272,11 +307,11 @@ export default function Landing() {
 
       {/* ── For Candidates: value prop ── */}
       <div style={{ background: 'var(--navy)' }}>
-        <div className="max-w-6xl mx-auto px-8 py-20">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start mb-16">
+        <div className="max-w-6xl mx-auto px-5 sm:px-6 md:px-8 py-14 md:py-20">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-start mb-12 md:mb-16">
             <motion.div {...fadeUp()}>
               <p className="section-label mb-4" style={{ color: 'rgba(255,255,255,0.35)' }}>For candidates</p>
-              <h2 className="font-display text-5xl font-bold text-white leading-tight mb-4">
+              <h2 className="font-display text-3xl sm:text-4xl md:text-5xl font-bold text-white leading-tight mb-4">
                 Scale your voice. Understand your voters.
               </h2>
               <span className="block w-14 h-0.5 mb-6" style={{ background: 'var(--gold)' }} />
@@ -292,7 +327,7 @@ export default function Landing() {
 
             {/* Pull quote */}
             <motion.div {...fadeUp(0.15)} className="lg:pt-8">
-              <div className="px-8 py-8" style={{ borderLeft: '4px solid var(--gold)' }}>
+              <div className="px-5 sm:px-6 md:px-8 py-6 md:py-8" style={{ borderLeft: '4px solid var(--gold)' }}>
                 <p className="font-display text-2xl italic text-white leading-snug mb-4">
                   "This is the positive use case for AI-generated likenesses — not deception, but deeper democratic access."
                 </p>
@@ -324,15 +359,15 @@ export default function Landing() {
 
       {/* ── How onboarding works (candidates) ── */}
       <div style={{ background: 'var(--cream)', borderTop: '1px solid var(--border)' }}>
-        <div className="max-w-6xl mx-auto px-8 py-20">
-          <motion.div {...fadeUp()} className="mb-14">
+        <div className="max-w-6xl mx-auto px-5 sm:px-6 md:px-8 py-14 md:py-20">
+          <motion.div {...fadeUp()} className="mb-10 md:mb-14">
             <p className="section-label mb-3">Candidate onboarding</p>
-            <h2 className="font-display text-4xl font-bold" style={{ color: 'var(--navy)' }}>
+            <h2 className="font-display text-3xl md:text-4xl font-bold" style={{ color: 'var(--navy)' }}>
               Live in minutes. Not months.
             </h2>
           </motion.div>
 
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
               { n: '01', title: 'Register', body: 'Create your candidate account with your office, district, and party.' },
               { n: '02', title: 'Upload your platform', body: 'Add PDFs, speeches, policy papers, or type positions directly.' },
@@ -354,9 +389,9 @@ export default function Landing() {
         {...fadeUp()}
         style={{ background: 'var(--gold)' }}
       >
-        <div className="max-w-6xl mx-auto px-8 py-14 flex flex-col md:flex-row items-center justify-between gap-6">
-          <div>
-            <h3 className="font-display text-3xl font-bold text-white mb-1">Ready to reach every voter?</h3>
+        <div className="max-w-6xl mx-auto px-5 sm:px-6 md:px-8 py-10 md:py-14 flex flex-col md:flex-row items-center justify-between gap-6">
+          <div className="text-center md:text-left">
+            <h3 className="font-display text-2xl sm:text-3xl font-bold text-white mb-1">Ready to reach every voter?</h3>
             <p className="text-sm" style={{ color: 'rgba(255,255,255,0.75)' }}>
               Free for local candidates. Get your AI representative live today.
             </p>
@@ -385,8 +420,8 @@ export default function Landing() {
       </motion.div>
 
       {/* ── Footer ── */}
-      <div className="px-8 py-6 text-xs" style={{ borderTop: '1px solid var(--border)', color: 'var(--text-muted)' }}>
-        <div className="max-w-6xl mx-auto flex items-center justify-between flex-wrap gap-3">
+      <div className="px-5 sm:px-6 md:px-8 py-6 text-xs" style={{ borderTop: '1px solid var(--border)', color: 'var(--text-muted)' }}>
+        <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-3 text-center sm:text-left">
           <span>© 2026 TownHall AI — AI-powered civic communication</span>
           <span>All AI conversations are grounded in candidate-provided materials only</span>
         </div>

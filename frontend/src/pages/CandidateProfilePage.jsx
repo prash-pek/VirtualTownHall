@@ -26,14 +26,14 @@ export default function CandidateProfilePage() {
     <div className="min-h-screen" style={{ background: 'var(--cream)' }}>
       {/* Back bar */}
       <div style={{ borderBottom: '1px solid var(--border)', background: 'white' }}>
-        <div className="max-w-3xl mx-auto px-8 py-4">
+        <div className="max-w-3xl mx-auto px-5 sm:px-6 md:px-8 py-4">
           <Link to={from} className="text-sm font-medium flex items-center gap-2 transition-opacity hover:opacity-70" style={{ color: 'var(--navy)' }}>
             {fromLabel}
           </Link>
         </div>
       </div>
 
-      <div className="max-w-3xl mx-auto px-8 py-8">
+      <div className="max-w-3xl mx-auto px-5 sm:px-6 md:px-8 py-8">
         <CandidateProfile candidate={candidate} />
 
         {/* Action buttons */}
@@ -41,12 +41,12 @@ export default function CandidateProfilePage() {
           initial={{ opacity: 0, y: 8 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.3, duration: 0.4 }}
-          className="mt-4 flex gap-3"
+          className="mt-4 flex flex-col sm:flex-row gap-3"
         >
           <Link to={`/candidate/${id}/chat`} state={{ from }} className="btn-primary flex-1 justify-center py-3.5 text-sm">
             Chat with {candidate.name}
           </Link>
-          <Link to={`/candidate/${id}/audit`} state={{ from }} className="btn-outline py-3.5 text-sm px-5">
+          <Link to={`/candidate/${id}/audit`} state={{ from }} className="btn-outline py-3.5 text-sm px-5 text-center">
             Audit Trail
           </Link>
         </motion.div>

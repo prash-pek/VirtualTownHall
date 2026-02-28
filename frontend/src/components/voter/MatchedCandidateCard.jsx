@@ -86,7 +86,7 @@ export default function MatchedCandidateCard({ candidate, index = 0, voterTopics
         </div>
 
         {/* Actions */}
-        <div className="flex gap-2 mt-4 pt-4" style={{ borderTop: '1px solid var(--border)' }}>
+        <div className="flex flex-col sm:flex-row gap-2 mt-4 pt-4" style={{ borderTop: '1px solid var(--border)' }}>
           <Link
             to={`/candidate/${id}/chat`}
             state={{ from: '/voter/dashboard' }}

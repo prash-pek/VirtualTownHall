@@ -44,7 +44,7 @@ export default function ChatPage() {
         transition={{ duration: 0.3 }}
         style={{ background: 'var(--navy)', borderBottom: '1px solid rgba(255,255,255,0.1)' }}
       >
-        <div className="max-w-3xl mx-auto px-6 py-4">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 py-4">
           <div className="flex items-center justify-between">
             <div>
               <Link
