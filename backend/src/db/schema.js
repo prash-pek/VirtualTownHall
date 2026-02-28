@@ -2,10 +2,7 @@ const Database = require('better-sqlite3');
 const path = require('path');
 require('dotenv').config();
 
-// Vercel functions have a read-only filesystem except /tmp
-const DB_PATH = process.env.NODE_ENV === 'production'
-  ? '/tmp/townhall.db'
-  : (process.env.DATABASE_PATH || './townhall.db');
+const DB_PATH = process.env.DATABASE_PATH || './townhall.db';
 
 const db = new Database(path.resolve(DB_PATH));
 
