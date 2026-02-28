@@ -11,6 +11,8 @@ const { randomUUID } = require('crypto');
 
 const KNOPE_ID = 'fd0541a4-f077-4e3a-97e6-5a5b68f4340b';
 
+function seedKnopeAnalytics() {
+
 // -- Insert mock constituent records so FK constraints pass --
 const CONSTITUENTS = Array.from({ length: 18 }, () => randomUUID());
 CONSTITUENTS.forEach((id, i) => {
@@ -229,18 +231,11 @@ DAILY_COUNTS.forEach((count, dayIndex) => {
   convoCount++;
 });
 
-console.log(`\n✓ Seeded ${convoCount} conversations for Leslie Knope`);
+  console.log(`\n✓ Seeded ${convoCount} conversations for Leslie Knope`);
+}
 
-// Verify
-const check = db.prepare('SELECT COUNT(*) as count FROM conversations WHERE candidate_id = ?').get(KNOPE_ID);
-console.log(`  DB count: ${check.count}`);
+module.exports = seedKnopeAnalytics;
 
-const topicCheck = db.prepare('SELECT topic_tags FROM conversations WHERE candidate_id = ?').all(KNOPE_ID);
-const topicCounts = {};
-topicCheck.forEach(c => {
-  JSON.parse(c.topic_tags || '[]').forEach(t => {
-    topicCounts[t] = (topicCounts[t] || 0) + 1;
-  });
-});
-console.log('\nTopic distribution:');
-Object.entries(topicCounts).sort(([,a],[,b]) => b-a).forEach(([t, c]) => console.log(`  ${t}: ${c}`));
+if (require.main === module) {
+  seedKnopeAnalytics();
+}

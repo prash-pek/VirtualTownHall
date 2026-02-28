@@ -30,7 +30,7 @@ function seed() {
   // ─────────────────────────────────────────────
   // 1. LESLIE KNOPE — City Council
   // ─────────────────────────────────────────────
-  const leslieId = randomUUID();
+  const leslieId = 'fd0541a4-f077-4e3a-97e6-5a5b68f4340b'; // pinned so analytics seed matches
   const leslieHash = bcrypt.hashSync('password123', 10);
   insertCandidate.run(
     leslieId,

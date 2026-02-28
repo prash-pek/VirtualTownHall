@@ -27,6 +27,8 @@ app.use('/api/admin', adminRoutes);
 const db = require('./db/schema');
 const seedBase = require('./db/seed');
 const seedDemo = require('./db/seed_demo');
+const seedKnopeAnalytics = require('./db/seed_knope_analytics');
+
 const candidateCount = db.prepare('SELECT COUNT(*) as count FROM candidates').get().count;
 console.log(`[startup] candidates in DB: ${candidateCount}`);
 if (candidateCount === 0) {
@@ -39,7 +41,13 @@ if (candidateCount === 0) {
     console.error('[startup] Seed failed:', e);
   }
 } else {
-  console.log('[startup] DB already has data, skipping seed.');
+  console.log('[startup] DB already has data, skipping candidate seed.');
+}
+
+const knopeConvoCount = db.prepare("SELECT COUNT(*) as count FROM conversations WHERE candidate_id = 'fd0541a4-f077-4e3a-97e6-5a5b68f4340b'").get().count;
+if (knopeConvoCount === 0) {
+  console.log('[startup] Seeding Knope analytics...');
+  try { seedKnopeAnalytics(); } catch (e) { console.error('[startup] Knope analytics seed failed:', e); }
 }
 
 app.get('/api/health', (req, res) => {
