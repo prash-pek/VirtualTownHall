@@ -100,15 +100,4 @@ db.exec(`
 `);
 
 console.log('Database schema initialized.');
-
-// In production, auto-seed demo data on cold start (fresh /tmp DB)
-if (process.env.NODE_ENV === 'production') {
-  const isEmpty = db.prepare('SELECT COUNT(*) as count FROM candidates').get().count === 0;
-  if (isEmpty) {
-    console.log('Production DB empty — running seed...');
-    require('./seed')().catch(e => console.error('Seed failed:', e));
-    require('./seed_demo')().catch(e => console.error('Demo seed failed:', e));
-  }
-}
-
 module.exports = db;
