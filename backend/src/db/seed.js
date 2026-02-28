@@ -2,7 +2,7 @@ const db = require('./schema');
 const { randomUUID } = require('crypto');
 const bcrypt = require('bcrypt');
 
-async function seed() {
+function seed() {
   console.log('Seeding database...');
 
   const candidates = [
@@ -75,7 +75,7 @@ async function seed() {
   `);
 
   for (const c of candidates) {
-    const hash = await bcrypt.hash(c.password, 10);
+    const hash = bcrypt.hashSync(c.password, 10);
     insertCandidate.run(c.id, c.email, hash, c.name, c.office, c.election_level, c.district, c.zip_codes, c.party, c.bio, c.persona_config, c.donation_url, c.is_verified, c.alignment_score);
   }
 
@@ -108,5 +108,5 @@ module.exports = seed;
 
 // Run directly if called via CLI
 if (require.main === module) {
-  seed().catch(console.error);
+  seed();
 }

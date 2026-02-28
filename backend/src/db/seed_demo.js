@@ -24,14 +24,14 @@ const insertBlocked = db.prepare(`
   VALUES (?, ?, ?, ?, ?, 1)
 `);
 
-async function seed() {
+function seed() {
   console.log('Seeding demo candidates for ZIP 97211...\n');
 
   // ─────────────────────────────────────────────
   // 1. LESLIE KNOPE — City Council
   // ─────────────────────────────────────────────
   const leslieId = randomUUID();
-  const leslieHash = await bcrypt.hash('password123', 10);
+  const leslieHash = bcrypt.hashSync('password123', 10);
   insertCandidate.run(
     leslieId,
     'leslie.knope@pawneegov.com',
@@ -103,7 +103,7 @@ I have a 94-page plan for my first 100 days. Available upon request. Actually, I
   // 2. RON SWANSON — Mayor
   // ─────────────────────────────────────────────
   const ronId = randomUUID();
-  const ronHash = await bcrypt.hash('password123', 10);
+  const ronHash = bcrypt.hashSync('password123', 10);
   insertCandidate.run(
     ronId,
     'ron.swanson@notthegovernment.com',
@@ -157,7 +157,7 @@ RON SWANSON'S COMMITMENT TO YOU: I will do as little as possible. That is my pro
   // 3. MICHAEL SCOTT — City Council
   // ─────────────────────────────────────────────
   const michaelId = randomUUID();
-  const michaelHash = await bcrypt.hash('password123', 10);
+  const michaelHash = bcrypt.hashSync('password123', 10);
   insertCandidate.run(
     michaelId,
     'michael.scott@worldsbestcandidate.com',
@@ -230,7 +230,7 @@ COMMUNITY VISION: I want Portland to be a place where anyone can afford to live.
   // 4. TED LASSO — School Board
   // ─────────────────────────────────────────────
   const tedId = randomUUID();
-  const tedHash = await bcrypt.hash('password123', 10);
+  const tedHash = bcrypt.hashSync('password123', 10);
   insertCandidate.run(
     tedId,
     'ted.lasso@believepdx.com',
@@ -319,7 +319,7 @@ Believe.`;
   // 5. DAENERYS TARGARYEN — State House
   // ─────────────────────────────────────────────
   const daenerysId = randomUUID();
-  const daenerysHash = await bcrypt.hash('password123', 10);
+  const daenerysHash = bcrypt.hashSync('password123', 10);
   insertCandidate.run(
     daenerysId,
     'daenerys.targaryen@breakthewheel.com',
@@ -415,7 +415,7 @@ The chains are everywhere, if you know how to look. I know how to look. I have a
   // 6. RAYMOND HOLT — Public Safety Commissioner
   // ─────────────────────────────────────────────
   const holtId = randomUUID();
-  const holtHash = await bcrypt.hash('password123', 10);
+  const holtHash = bcrypt.hashSync('password123', 10);
   insertCandidate.run(
     holtId,
     'raymond.holt@ninenineninetynine.com',
@@ -502,5 +502,5 @@ module.exports = seed;
 
 // Run directly if called via CLI
 if (require.main === module) {
-  seed().catch(console.error);
+  seed();
 }

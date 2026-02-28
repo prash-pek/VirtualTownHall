@@ -31,10 +31,13 @@ const candidateCount = db.prepare('SELECT COUNT(*) as count FROM candidates').ge
 console.log(`[startup] candidates in DB: ${candidateCount}`);
 if (candidateCount === 0) {
   console.log('[startup] DB empty — seeding now...');
-  seedBase()
-    .then(() => seedDemo())
-    .then(() => console.log('[startup] Seed complete.'))
-    .catch(e => console.error('[startup] Seed failed:', e));
+  try {
+    seedBase();
+    seedDemo();
+    console.log('[startup] Seed complete.');
+  } catch (e) {
+    console.error('[startup] Seed failed:', e);
+  }
 } else {
   console.log('[startup] DB already has data, skipping seed.');
 }
