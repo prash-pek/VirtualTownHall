@@ -1,13 +1,25 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import TopicSelector from '../TopicSelector';
 
-export default function AdminContextManager({ token, contexts, onUpload, onDelete }) {
+export default function AdminContextManager({ token, contexts: externalContexts, onUpload, onDelete }) {
   const [tab, setTab] = useState('upload');
   const [file, setFile] = useState(null);
   const [manualText, setManualText] = useState('');
   const [topics, setTopics] = useState([]);
   const [uploading, setUploading] = useState(false);
   const [message, setMessage] = useState('');
+  const [internalContexts, setInternalContexts] = useState([]);
+
+  const isSelfManaged = !externalContexts;
+  const contexts = isSelfManaged ? internalContexts : externalContexts;
+
+  function loadContexts() {
+    fetch('/api/candidate/context', { headers: { Authorization: `Bearer ${token}` } })
+      .then(r => r.json())
+      .then(data => setInternalContexts(Array.isArray(data) ? data : []));
+  }
+
+  useEffect(() => { if (isSelfManaged) loadContexts(); }, []);
 
   async function handleUpload(e) {
     e.preventDefault();
@@ -31,12 +43,17 @@ export default function AdminContextManager({ token, contexts, onUpload, onDelet
     if (res.ok) {
       setMessage('Uploaded successfully. Alignment score updating...');
       setFile(null); setManualText(''); setTopics([]);
-      onUpload();
+      isSelfManaged ? loadContexts() : onUpload();
     } else {
       const err = await res.json();
       setMessage(err.error?.message || 'Upload failed');
     }
     setUploading(false);
+  }
+
+  async function handleDelete(id) {
+    await fetch(`/api/candidate/context/${id}`, { method: 'DELETE', headers: { Authorization: `Bearer ${token}` } });
+    isSelfManaged ? loadContexts() : onDelete(id);
   }
 
   return (
@@ -70,7 +87,7 @@ export default function AdminContextManager({ token, contexts, onUpload, onDelet
               <p className="font-medium text-sm">{c.original_filename || 'Manual Entry'}</p>
               <p className="text-xs text-gray-400">{new Date(c.created_at).toLocaleDateString()} · {JSON.parse(c.topic_tags || '[]').join(', ')}</p>
             </div>
-            <button onClick={() => onDelete(c.id)} className="text-red-500 hover:text-red-700 text-sm">Remove</button>
+            <button onClick={() => handleDelete(c.id)} className="text-red-500 hover:text-red-700 text-sm">Remove</button>
           </div>
         ))}
       </div>

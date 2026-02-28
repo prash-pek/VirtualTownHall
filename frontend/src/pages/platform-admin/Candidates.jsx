@@ -24,17 +24,17 @@ export default function PlatformCandidates() {
         <table className="w-full">
           <thead className="bg-gray-50 text-sm text-gray-600"><tr>
             <th className="text-left px-4 py-3">Name</th>
-            <th className="text-left px-4 py-3">Office</th>
-            <th className="text-left px-4 py-3">Level</th>
-            <th className="text-left px-4 py-3">Verified</th>
+            <th className="text-left px-4 py-3">Party</th>
+            <th className="text-left px-4 py-3">District</th>
+            <th className="text-left px-4 py-3">Status</th>
             <th className="px-4 py-3"></th>
           </tr></thead>
           <tbody>{candidates.map(c => (
             <tr key={c.id} className="border-t">
               <td className="px-4 py-3 font-medium">{c.name}</td>
-              <td className="px-4 py-3 text-gray-600">{c.office}</td>
-              <td className="px-4 py-3 text-gray-600 capitalize">{c.election_level}</td>
-              <td className="px-4 py-3">{c.is_verified ? <span className="text-green-600 font-medium">✓ Yes</span> : <span className="text-gray-400">No</span>}</td>
+              <td className="px-4 py-3 text-gray-600">{c.party || '—'}</td>
+              <td className="px-4 py-3 text-gray-600">{c.district}</td>
+              <td className="px-4 py-3">{c.is_verified ? <span className="text-green-600 font-medium">Verified</span> : <span className="text-gray-500">Unverified</span>}</td>
               <td className="px-4 py-3">
                 <button onClick={() => toggleVerify(c.id, c.is_verified)} className={`px-3 py-1 rounded text-sm font-medium ${c.is_verified ? 'bg-red-100 text-red-700 hover:bg-red-200' : 'bg-green-100 text-green-700 hover:bg-green-200'}`}>
                   {c.is_verified ? 'Revoke' : 'Verify'}
