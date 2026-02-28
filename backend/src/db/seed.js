@@ -104,4 +104,9 @@ async function seed() {
   candidates.forEach(c => console.log(`  ${c.name}: ${c.email} / ${c.password}`));
 }
 
-seed().catch(console.error);
+module.exports = seed;
+
+// Run directly if called via CLI
+if (require.main === module) {
+  seed().catch(console.error);
+}

@@ -2,7 +2,11 @@ const Database = require('better-sqlite3');
 const path = require('path');
 require('dotenv').config();
 
-const DB_PATH = process.env.DATABASE_PATH || './townhall.db';
+// Vercel functions have a read-only filesystem except /tmp
+const DB_PATH = process.env.NODE_ENV === 'production'
+  ? '/tmp/townhall.db'
+  : (process.env.DATABASE_PATH || './townhall.db');
+
 const db = new Database(path.resolve(DB_PATH));
 
 db.pragma('journal_mode = WAL');
@@ -96,4 +100,15 @@ db.exec(`
 `);
 
 console.log('Database schema initialized.');
+
+// In production, auto-seed demo data on cold start (fresh /tmp DB)
+if (process.env.NODE_ENV === 'production') {
+  const isEmpty = db.prepare('SELECT COUNT(*) as count FROM candidates').get().count === 0;
+  if (isEmpty) {
+    console.log('Production DB empty — running seed...');
+    require('./seed')().catch(e => console.error('Seed failed:', e));
+    require('./seed_demo')().catch(e => console.error('Demo seed failed:', e));
+  }
+}
+
 module.exports = db;

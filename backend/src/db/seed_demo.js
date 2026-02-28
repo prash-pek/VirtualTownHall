@@ -498,4 +498,9 @@ I was asked to include something "personal" in this document to seem "relatable.
   console.log('  raymond.holt@ninenineninetynine.com    / password123  (Public Safety Commissioner, 94%)');
 }
 
-seed().catch(console.error);
+module.exports = seed;
+
+// Run directly if called via CLI
+if (require.main === module) {
+  seed().catch(console.error);
+}
