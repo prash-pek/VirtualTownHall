@@ -23,22 +23,26 @@ app.use('/api/constituent', constituentProfileRoutes);
 app.use('/api/conversations', conversationRoutes);
 app.use('/api/admin', adminRoutes);
 
-app.get('/api/health', (req, res) => res.json({ status: 'ok' }));
-
-// Auto-seed on cold start in production — schema.js must be fully loaded first
-if (process.env.NODE_ENV === 'production') {
-  const db = require('./db/schema');
-  const isEmpty = db.prepare('SELECT COUNT(*) as count FROM candidates').get().count === 0;
-  if (isEmpty) {
-    console.log('Cold start: DB empty, seeding demo data...');
-    const seedBase = require('./db/seed');
-    const seedDemo = require('./db/seed_demo');
-    seedBase()
-      .then(() => seedDemo())
-      .then(() => console.log('Demo seed complete.'))
-      .catch(e => console.error('Seed error:', e));
-  }
+// Seed on every cold start — INSERT OR IGNORE means duplicates are safe
+const db = require('./db/schema');
+const seedBase = require('./db/seed');
+const seedDemo = require('./db/seed_demo');
+const candidateCount = db.prepare('SELECT COUNT(*) as count FROM candidates').get().count;
+console.log(`[startup] candidates in DB: ${candidateCount}`);
+if (candidateCount === 0) {
+  console.log('[startup] DB empty — seeding now...');
+  seedBase()
+    .then(() => seedDemo())
+    .then(() => console.log('[startup] Seed complete.'))
+    .catch(e => console.error('[startup] Seed failed:', e));
+} else {
+  console.log('[startup] DB already has data, skipping seed.');
 }
+
+app.get('/api/health', (req, res) => {
+  const count = db.prepare('SELECT COUNT(*) as count FROM candidates').get().count;
+  res.json({ status: 'ok', candidates: count });
+});
 
 app.use((err, req, res, next) => {
   console.error(err.stack);
