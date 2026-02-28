@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
 import ChatMessage from './ChatMessage';
 import ConversationSummary from './ConversationSummary';
 
@@ -27,10 +28,14 @@ export default function ChatInterface({ conversationId, candidateName }) {
     if (token) headers.Authorization = `Bearer ${token}`;
 
     try {
-      const res = await fetch(`/api/conversations/${conversationId}/messages`, { method: 'POST', headers, body: JSON.stringify({ content: messageContent }) });
+      const res = await fetch(`/api/conversations/${conversationId}/messages`, {
+        method: 'POST', headers, body: JSON.stringify({ content: messageContent })
+      });
       const data = await res.json();
-      if (data.content) setMessages(m => [...m, { role: 'assistant', content: data.content, timestamp: data.timestamp }]);
-    } catch (err) {
+      if (data.content) {
+        setMessages(m => [...m, { role: 'assistant', content: data.content, timestamp: data.timestamp }]);
+      }
+    } catch {
       setMessages(m => [...m, { role: 'assistant', content: 'I encountered an error. Please try again.', timestamp: new Date().toISOString() }]);
     }
     setLoading(false);
@@ -49,32 +54,85 @@ export default function ChatInterface({ conversationId, candidateName }) {
 
   return (
     <div className="flex flex-col flex-1 min-h-0">
-      <div className="flex-1 overflow-y-auto space-y-4 py-4">
-        {messages.length === 0 && (
-          <p className="text-center text-gray-400 text-sm mt-8">Ask {candidateName}'s AI representative anything about their platform.</p>
-        )}
+      {/* Message thread */}
+      <div className="flex-1 overflow-y-auto space-y-4 py-6 px-4">
+        <AnimatePresence>
+          {messages.length === 0 && (
+            <motion.div
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              className="text-center pt-12"
+            >
+              <div className="font-display text-3xl font-bold mb-2" style={{ color: 'var(--border)' }}>Ask anything.</div>
+              <p className="text-sm" style={{ color: 'var(--text-muted)' }}>
+                What would you like to know about {candidateName}'s platform?
+              </p>
+            </motion.div>
+          )}
+        </AnimatePresence>
+
         {messages.map((m, i) => <ChatMessage key={i} message={m} />)}
-        {loading && <div className="flex justify-start"><div className="bg-gray-100 rounded-2xl px-4 py-3 text-gray-500 text-sm animate-pulse">Thinking...</div></div>}
+
+        {loading && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            className="flex justify-start"
+          >
+            <div className="flex-shrink-0 w-7 h-7 rounded-full flex items-center justify-center mr-2 text-white text-xs font-bold" style={{ background: 'var(--navy)' }}>AI</div>
+            <div className="px-4 py-3" style={{ border: '1px solid var(--border)', background: 'white' }}>
+              <div className="flex gap-1 items-center h-4">
+                {[0,1,2].map(i => (
+                  <motion.span
+                    key={i}
+                    className="w-1.5 h-1.5 rounded-full"
+                    style={{ background: 'var(--text-muted)' }}
+                    animate={{ opacity: [0.3, 1, 0.3], y: [0, -3, 0] }}
+                    transition={{ duration: 0.8, repeat: Infinity, delay: i * 0.15 }}
+                  />
+                ))}
+              </div>
+            </div>
+          </motion.div>
+        )}
         <div ref={bottomRef} />
       </div>
 
-      <form onSubmit={sendMessage} className="flex gap-3 pt-4 border-t">
-        <input
-          value={input}
-          onChange={e => setInput(e.target.value)}
-          placeholder="Ask about their platform..."
-          disabled={loading}
-          className="flex-1 border-2 border-gray-200 rounded-xl px-4 py-3 focus:border-blue-500 focus:outline-none"
-        />
-        <button type="submit" disabled={loading || !input.trim()} className="bg-blue-600 text-white px-5 py-3 rounded-xl font-semibold hover:bg-blue-700 disabled:opacity-50">
-          Send
-        </button>
-        {messages.length > 2 && (
-          <button type="button" onClick={endConversation} className="border border-gray-300 px-4 py-3 rounded-xl text-sm hover:bg-gray-50">
-            End & Summarize
-          </button>
+      {/* Input bar */}
+      <div style={{ borderTop: '1px solid var(--border)', background: 'var(--cream)' }}>
+        {messages.length >= 3 && (
+          <div className="px-4 pt-3 flex justify-end">
+            <button
+              onClick={endConversation}
+              disabled={loading}
+              className="text-xs font-medium px-3 py-1.5 transition-colors disabled:opacity-40"
+              style={{ border: '1px solid var(--border)', color: 'var(--text-muted)' }}
+              onMouseEnter={e => { e.target.style.borderColor = 'var(--navy)'; e.target.style.color = 'var(--navy)'; }}
+              onMouseLeave={e => { e.target.style.borderColor = 'var(--border)'; e.target.style.color = 'var(--text-muted)'; }}
+            >
+              End & get summary
+            </button>
+          </div>
         )}
-      </form>
+        <form onSubmit={sendMessage} className="flex gap-0 p-4">
+          <input
+            value={input}
+            onChange={e => setInput(e.target.value)}
+            placeholder={`Ask about ${candidateName}'s platform…`}
+            disabled={loading}
+            className="input-field flex-1 text-sm"
+            style={{ borderRight: 'none' }}
+          />
+          <button
+            type="submit"
+            disabled={loading || !input.trim()}
+            className="btn-primary text-sm disabled:opacity-40 disabled:cursor-not-allowed"
+            style={{ minWidth: '80px' }}
+          >
+            Send
+          </button>
+        </form>
+      </div>
     </div>
   );
 }

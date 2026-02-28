@@ -1,12 +1,36 @@
 export default function AlignmentBadge({ score, size = 'sm' }) {
-  const color = score >= 80 ? 'text-green-600' : score >= 60 ? 'text-yellow-600' : 'text-red-600';
-  const bg = score >= 80 ? 'bg-green-50 border-green-200' : score >= 60 ? 'bg-yellow-50 border-yellow-200' : 'bg-red-50 border-red-200';
-  const textSize = size === 'lg' ? 'text-2xl' : 'text-lg';
+  const color = score >= 80 ? 'var(--green)' : score >= 60 ? 'var(--gold)' : 'var(--red)';
+  const label = score >= 80 ? 'High' : score >= 60 ? 'Moderate' : 'Low';
+
+  if (size === 'lg') {
+    return (
+      <div className="text-center">
+        <div
+          className="relative inline-flex items-center justify-center w-20 h-20 rounded-full border-4"
+          style={{ borderColor: color }}
+        >
+          <span className="font-display font-bold text-xl" style={{ color }}>{Math.round(score)}</span>
+          <span className="absolute -bottom-0.5 text-xs font-semibold" style={{ color, fontSize: '10px' }}>%</span>
+        </div>
+        <div className="text-xs mt-1.5 font-semibold tracking-wide" style={{ color, textTransform: 'uppercase', letterSpacing: '0.08em' }}>{label} Alignment</div>
+      </div>
+    );
+  }
 
   return (
-    <div className={`border rounded-xl px-3 py-2 text-center ${bg}`}>
-      <div className={`font-bold ${color} ${textSize}`}>{Math.round(score)}%</div>
-      <div className="text-xs text-gray-500">Alignment</div>
+    <div
+      className="inline-flex items-center gap-1.5 px-2.5 py-1 text-xs font-semibold tracking-wide"
+      style={{
+        border: '1.5px solid',
+        borderColor: color,
+        color,
+        background: `${color}12`,
+        textTransform: 'uppercase',
+        letterSpacing: '0.05em',
+      }}
+    >
+      <span className="w-1.5 h-1.5 rounded-full" style={{ background: color }} />
+      {Math.round(score)}% aligned
     </div>
   );
 }

@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
+import { motion } from 'framer-motion';
 import CandidateProfile from '../components/CandidateProfile';
 
 export default function CandidateProfilePage() {
@@ -10,18 +11,42 @@ export default function CandidateProfilePage() {
     fetch(`/api/candidates/${id}/profile`).then(r => r.json()).then(setCandidate);
   }, [id]);
 
-  if (!candidate) return <div className="p-8 text-center">Loading...</div>;
+  if (!candidate) {
+    return (
+      <div className="min-h-screen flex items-center justify-center" style={{ background: 'var(--cream)' }}>
+        <div className="w-6 h-6 border-2 border-t-transparent rounded-full animate-spin" style={{ borderColor: 'var(--navy)', borderTopColor: 'transparent' }} />
+      </div>
+    );
+  }
 
   return (
-    <div className="max-w-3xl mx-auto p-6">
-      <CandidateProfile candidate={candidate} />
-      <div className="mt-6 flex gap-4">
-        <Link to={`/candidate/${id}/chat`} className="bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700">
-          Chat with {candidate.name}
-        </Link>
-        <Link to={`/candidate/${id}/audit`} className="border border-gray-300 px-6 py-3 rounded-lg hover:bg-gray-50">
-          View Audit Trail
-        </Link>
+    <div className="min-h-screen" style={{ background: 'var(--cream)' }}>
+      {/* Back bar */}
+      <div style={{ borderBottom: '1px solid var(--border)', background: 'white' }}>
+        <div className="max-w-3xl mx-auto px-8 py-4">
+          <Link to="/candidates" className="text-sm font-medium flex items-center gap-2 transition-opacity hover:opacity-70" style={{ color: 'var(--navy)' }}>
+            ← Back to candidates
+          </Link>
+        </div>
+      </div>
+
+      <div className="max-w-3xl mx-auto px-8 py-8">
+        <CandidateProfile candidate={candidate} />
+
+        {/* Action buttons */}
+        <motion.div
+          initial={{ opacity: 0, y: 8 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.3, duration: 0.4 }}
+          className="mt-4 flex gap-3"
+        >
+          <Link to={`/candidate/${id}/chat`} className="btn-primary flex-1 justify-center py-3.5 text-sm">
+            Chat with {candidate.name}
+          </Link>
+          <Link to={`/candidate/${id}/audit`} className="btn-outline py-3.5 text-sm px-5">
+            Audit Trail
+          </Link>
+        </motion.div>
       </div>
     </div>
   );

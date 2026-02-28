@@ -1,3 +1,117 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  :root {
+    --ink:    #0D1117;
+    --navy:   #0F2557;
+    --blue:   #1D4ED8;
+    --blue-light: #3B82F6;
+    --gold:   #D97706;
+    --gold-light: #FCD34D;
+    --cream:  #FAFAF7;
+    --mist:   #F1F0EB;
+    --border: #E2DFD6;
+    --text-muted: #6B6B6B;
+    --red:    #DC2626;
+    --green:  #16A34A;
+  }
+
+  html {
+    background-color: var(--cream);
+    color: var(--ink);
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: var(--cream);
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Grain overlay on body */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.035'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 9999;
+    opacity: 0.4;
+  }
+}
+
+@layer components {
+  .font-display {
+    font-family: 'Playfair Display', serif;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center gap-2 px-6 py-3 rounded-none font-semibold text-sm tracking-wide transition-all duration-200;
+    background-color: var(--navy);
+    color: white;
+  }
+  .btn-primary:hover {
+    background-color: var(--ink);
+    transform: translateY(-1px);
+  }
+
+  .btn-gold {
+    @apply inline-flex items-center gap-2 px-6 py-3 rounded-none font-semibold text-sm tracking-wide transition-all duration-200;
+    background-color: var(--gold);
+    color: white;
+  }
+  .btn-gold:hover {
+    filter: brightness(0.9);
+    transform: translateY(-1px);
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center gap-2 px-6 py-3 font-medium text-sm tracking-wide transition-all duration-200;
+    border: 1.5px solid var(--border);
+    color: var(--ink);
+    background: transparent;
+  }
+  .btn-outline:hover {
+    border-color: var(--navy);
+    color: var(--navy);
+  }
+
+  .card {
+    background: white;
+    border: 1px solid var(--border);
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 text-sm outline-none transition-all duration-150;
+    border: 1.5px solid var(--border);
+    background: white;
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+  }
+  .input-field:focus {
+    border-color: var(--navy);
+  }
+
+  .section-label {
+    @apply text-xs font-semibold tracking-widest uppercase;
+    color: var(--text-muted);
+  }
+
+  .divider {
+    border-color: var(--border);
+  }
+
+  /* Accent bar */
+  .accent-bar {
+    @apply block w-12 h-0.5 mt-3;
+    background-color: var(--gold);
+  }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #ccc; }

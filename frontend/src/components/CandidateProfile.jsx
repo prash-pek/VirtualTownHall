@@ -1,3 +1,4 @@
+import { motion } from 'framer-motion';
 import AlignmentBadge from './AlignmentBadge';
 import VerificationBadge from './VerificationBadge';
 
@@ -5,41 +6,76 @@ export default function CandidateProfile({ candidate }) {
   const topics = [...new Set((candidate.contexts || []).flatMap(c => JSON.parse(c.topic_tags || '[]')))];
 
   return (
-    <div className="bg-white rounded-xl shadow p-6">
-      <div className="flex items-start justify-between mb-4">
-        <div>
-          <div className="flex items-center gap-2 mb-1">
-            <h1 className="text-2xl font-bold">{candidate.name}</h1>
-            {candidate.is_verified === 1 && <VerificationBadge />}
+    <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }}>
+      {/* Hero strip */}
+      <div className="px-8 py-10" style={{ background: 'var(--navy)' }}>
+        <div className="flex items-start justify-between gap-6">
+          <div>
+            <div className="flex items-center gap-3 mb-3 flex-wrap">
+              <h1 className="font-display text-4xl font-bold text-white">{candidate.name}</h1>
+              {candidate.is_verified === 1 && <VerificationBadge showLabel />}
+            </div>
+            <p className="text-lg font-medium mb-1" style={{ color: 'rgba(255,255,255,0.8)' }}>{candidate.office}</p>
+            <p className="text-sm" style={{ color: 'rgba(255,255,255,0.5)' }}>
+              {candidate.district}{candidate.party && ` · ${candidate.party}`}
+            </p>
           </div>
-          <p className="text-gray-600">{candidate.office} — {candidate.district}</p>
-          {candidate.party && <p className="text-gray-400 text-sm">{candidate.party}</p>}
+          {candidate.alignment_score != null && (
+            <div className="flex-shrink-0">
+              <AlignmentBadge score={candidate.alignment_score} size="lg" />
+            </div>
+          )}
         </div>
-        {candidate.alignment_score != null && <AlignmentBadge score={candidate.alignment_score} size="lg" />}
       </div>
 
-      {candidate.bio && <p className="text-gray-700 mb-4">{candidate.bio}</p>}
-
-      {topics.length > 0 && (
-        <div className="mb-4">
-          <p className="text-sm font-medium text-gray-500 mb-2">Topics covered</p>
-          <div className="flex flex-wrap gap-2">
-            {topics.map(t => <span key={t} className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm">{t}</span>)}
+      {/* Body */}
+      <div className="card p-8 space-y-6">
+        {candidate.bio && (
+          <div>
+            <p className="section-label mb-2">About</p>
+            <p className="text-sm leading-relaxed" style={{ color: 'var(--ink)' }}>{candidate.bio}</p>
           </div>
-        </div>
-      )}
+        )}
 
-      {candidate.alignment_rationale && (
-        <div className="bg-gray-50 rounded-lg p-4 mb-4 text-sm text-gray-600">
-          <span className="font-medium">Alignment note: </span>{candidate.alignment_rationale}
-        </div>
-      )}
+        {topics.length > 0 && (
+          <div style={{ borderTop: '1px solid var(--border)', paddingTop: '1.5rem' }}>
+            <p className="section-label mb-3">Topics covered</p>
+            <div className="flex flex-wrap gap-2">
+              {topics.map(t => (
+                <span
+                  key={t}
+                  className="px-3 py-1 text-xs font-medium tracking-wide"
+                  style={{ border: '1.5px solid var(--navy)', color: 'var(--navy)', textTransform: 'capitalize' }}
+                >
+                  {t.replace(/-/g, ' ')}
+                </span>
+              ))}
+            </div>
+          </div>
+        )}
 
-      {candidate.donation_url && (
-        <a href={candidate.donation_url} target="_blank" rel="noopener noreferrer" className="inline-block bg-green-600 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-green-700">
-          Donate to {candidate.name}
-        </a>
-      )}
-    </div>
+        {candidate.alignment_rationale && (
+          <div style={{ borderTop: '1px solid var(--border)', paddingTop: '1.5rem' }}>
+            <p className="section-label mb-2">Alignment note</p>
+            <p className="text-sm leading-relaxed" style={{ color: 'var(--text-muted)' }}>
+              {candidate.alignment_rationale}
+            </p>
+          </div>
+        )}
+
+        {candidate.donation_url && (
+          <div style={{ borderTop: '1px solid var(--border)', paddingTop: '1.5rem' }}>
+            <a
+              href={candidate.donation_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-gold text-sm"
+            >
+              Donate to {candidate.name} →
+            </a>
+          </div>
+        )}
+      </div>
+    </motion.div>
   );
 }
