@@ -9,6 +9,9 @@ const NAV_ITEMS = [
   { id: 'dashboard', label: 'Dashboard', icon: (
     <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><rect x="1" y="1" width="6" height="6" rx="1" stroke="currentColor" strokeWidth="1.4"/><rect x="9" y="1" width="6" height="6" rx="1" stroke="currentColor" strokeWidth="1.4"/><rect x="1" y="9" width="6" height="6" rx="1" stroke="currentColor" strokeWidth="1.4"/><rect x="9" y="9" width="6" height="6" rx="1" stroke="currentColor" strokeWidth="1.4"/></svg>
   )},
+  { id: 'browse', label: 'Browse All', icon: (
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="6.5" stroke="currentColor" strokeWidth="1.4"/><path d="M5 8h6M9 6l2 2-2 2" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round"/></svg>
+  )},
   { id: 'profile', label: 'My Profile', icon: (
     <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="5.5" r="3" stroke="currentColor" strokeWidth="1.4"/><path d="M2 14c0-3.31 2.69-6 6-6s6 2.69 6 6" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round"/></svg>
   )},
@@ -24,6 +27,11 @@ export default function VoterDashboard() {
   const [candidates, setCandidates] = useState([]);
   const [loading, setLoading] = useState(true);
   const [profile, setProfile] = useState(null);
+
+  // Browse all state
+  const [allCandidates, setAllCandidates] = useState([]);
+  const [browseLoading, setBrowseLoading] = useState(false);
+  const [browseTopic, setBrowseTopic] = useState(null);
 
   // Edit profile state
   const [editZip, setEditZip] = useState('');
@@ -68,6 +76,22 @@ export default function VoterDashboard() {
     const res = await fetch(`/api/candidates?${params}`);
     if (res.ok) setCandidates(await res.json());
     setLoading(false);
+  }
+
+  async function loadAllCandidates(zipCode, topic) {
+    setBrowseLoading(true);
+    const params = new URLSearchParams({ zip: zipCode });
+    if (topic) params.set('topics', topic);
+    const res = await fetch(`/api/candidates?${params}`);
+    if (res.ok) setAllCandidates(await res.json());
+    setBrowseLoading(false);
+  }
+
+  function browseByTopic(topic) {
+    setBrowseTopic(topic);
+    setActiveNav('browse');
+    const useZip = profile?.zip_code || zip;
+    if (useZip) loadAllCandidates(useZip, topic);
   }
 
   async function saveProfile() {
@@ -120,7 +144,14 @@ export default function VoterDashboard() {
           {NAV_ITEMS.map(item => (
             <button
               key={item.id}
-              onClick={() => setActiveNav(item.id)}
+              onClick={() => {
+                setActiveNav(item.id);
+                if (item.id === 'browse') {
+                  setBrowseTopic(null);
+                  const useZip = profile?.zip_code || zip;
+                  if (useZip) loadAllCandidates(useZip, null);
+                }
+              }}
               className="w-full flex items-center gap-3 px-3 py-2.5 text-sm font-medium transition-all text-left"
               style={{
                 background: activeNav === item.id ? 'rgba(255,255,255,0.1)' : 'transparent',
@@ -132,16 +163,6 @@ export default function VoterDashboard() {
               {item.label}
             </button>
           ))}
-          <Link
-            to={displayZip ? `/candidates?zip=${displayZip}` : '/candidates'}
-            className="w-full flex items-center gap-3 px-3 py-2.5 text-sm font-medium transition-all"
-            style={{ color: 'rgba(255,255,255,0.55)', borderLeft: '2px solid transparent' }}
-            onMouseEnter={e => e.currentTarget.style.color = 'white'}
-            onMouseLeave={e => e.currentTarget.style.color = 'rgba(255,255,255,0.55)'}
-          >
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="6.5" stroke="currentColor" strokeWidth="1.4"/><path d="M5 8h6M9 6l2 2-2 2" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round"/></svg>
-            Browse All
-          </Link>
         </nav>
 
         {/* Bottom: ZIP badge + sign out */}
@@ -243,17 +264,111 @@ export default function VoterDashboard() {
                   <p className="section-label mb-4">Browse by issue</p>
                   <div className="flex flex-wrap gap-2">
                     {ALL_TOPICS.map(t => (
-                      <Link
+                      <button
                         key={t}
-                        to={`/candidates?zip=${displayZip}&topics=${t}`}
+                        onClick={() => browseByTopic(t)}
                         className="text-xs px-3 py-2 font-medium capitalize transition-all hover:opacity-80"
                         style={{ background: 'white', color: 'var(--navy)', border: '1px solid var(--border)' }}
                       >
                         {t.replace(/-/g, ' ')}
-                      </Link>
+                      </button>
                     ))}
                   </div>
                 </div>
+              )}
+            </motion.div>
+          )}
+
+          {activeNav === 'browse' && (
+            <motion.div
+              key="browse"
+              initial={{ opacity: 0, y: 8 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0 }}
+              transition={{ duration: 0.25 }}
+              className="p-8"
+            >
+              <div className="mb-8">
+                <p className="section-label mb-2">Browse Candidates</p>
+                <h1 className="font-display text-3xl font-bold mb-2" style={{ color: 'var(--navy)' }}>
+                  {browseTopic ? `Candidates on ${browseTopic.replace(/-/g, ' ')}` : `All Candidates in ${displayZip}`}
+                </h1>
+                {browseTopic && (
+                  <button
+                    onClick={() => { setBrowseTopic(null); const useZip = profile?.zip_code || zip; if (useZip) loadAllCandidates(useZip, null); }}
+                    className="text-sm font-medium mt-1 transition-opacity hover:opacity-70"
+                    style={{ color: 'var(--navy)' }}
+                  >
+                    ← Show all candidates
+                  </button>
+                )}
+              </div>
+
+              {/* Topic filter chips */}
+              <div className="flex flex-wrap gap-2 mb-6">
+                <button
+                  onClick={() => { setBrowseTopic(null); const useZip = profile?.zip_code || zip; if (useZip) loadAllCandidates(useZip, null); }}
+                  className="text-xs px-3 py-1.5 font-medium transition-all"
+                  style={{
+                    background: !browseTopic ? 'var(--navy)' : 'white',
+                    color: !browseTopic ? 'white' : 'var(--navy)',
+                    border: `1px solid ${!browseTopic ? 'var(--navy)' : 'var(--border)'}`,
+                  }}
+                >
+                  All
+                </button>
+                {ALL_TOPICS.map(t => (
+                  <button
+                    key={t}
+                    onClick={() => browseByTopic(t)}
+                    className="text-xs px-3 py-1.5 font-medium capitalize transition-all"
+                    style={{
+                      background: browseTopic === t ? 'var(--navy)' : 'white',
+                      color: browseTopic === t ? 'white' : 'var(--navy)',
+                      border: `1px solid ${browseTopic === t ? 'var(--navy)' : 'var(--border)'}`,
+                    }}
+                  >
+                    {t.replace(/-/g, ' ')}
+                  </button>
+                ))}
+              </div>
+
+              {browseLoading ? (
+                <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+                  {[1,2,3,4].map(i => (
+                    <div key={i} className="card p-5 animate-pulse">
+                      <div className="flex gap-4">
+                        <div className="flex-1 space-y-3">
+                          <div className="h-4 rounded" style={{ background: 'var(--border)', width: '55%' }} />
+                          <div className="h-3 rounded" style={{ background: 'var(--border)', width: '40%' }} />
+                          <div className="h-3 rounded" style={{ background: 'var(--border)', width: '70%' }} />
+                        </div>
+                        <div className="w-14 h-14 rounded-full" style={{ background: 'var(--border)' }} />
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              ) : allCandidates.length === 0 ? (
+                <div className="text-center py-16">
+                  <div className="font-display text-5xl mb-4" style={{ color: 'var(--navy)', opacity: 0.15 }}>—</div>
+                  <p className="font-medium mb-1" style={{ color: 'var(--navy)' }}>
+                    {browseTopic ? `No candidates found for "${browseTopic.replace(/-/g, ' ')}"` : `No candidates found in ZIP ${displayZip}`}
+                  </p>
+                  <p className="text-sm" style={{ color: 'var(--text-muted)' }}>
+                    {browseTopic ? 'Try a different topic or view all candidates.' : 'Try updating your ZIP code in My Profile.'}
+                  </p>
+                </div>
+              ) : (
+                <>
+                  <p className="text-sm mb-5" style={{ color: 'var(--text-muted)' }}>
+                    {allCandidates.length} candidate{allCandidates.length !== 1 ? 's' : ''} found
+                  </p>
+                  <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+                    {allCandidates.map((c, i) => (
+                      <MatchedCandidateCard key={c.id} candidate={c} index={i} voterTopics={displayTopics} />
+                    ))}
+                  </div>
+                </>
               )}
             </motion.div>
           )}
