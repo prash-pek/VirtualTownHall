@@ -34,6 +34,9 @@ export default function ChatInterface({ conversationId, candidateName }) {
       const data = await res.json();
       if (data.content) {
         setMessages(m => [...m, { role: 'assistant', content: data.content, timestamp: data.timestamp }]);
+      } else {
+        const msg = data.error?.message || 'I encountered an error. Please try again.';
+        setMessages(m => [...m, { role: 'assistant', content: msg, timestamp: new Date().toISOString() }]);
       }
     } catch {
       setMessages(m => [...m, { role: 'assistant', content: 'I encountered an error. Please try again.', timestamp: new Date().toISOString() }]);
