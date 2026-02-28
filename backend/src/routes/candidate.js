@@ -181,7 +181,37 @@ router.get('/analytics', requireAuth(['candidate']), (req, res) => {
     .slice(0, 10)
     .map(([topic, count]) => ({ topic, count }));
 
-  res.json({ total_conversations: total, authenticated_conversations: authenticated, anonymous_conversations: anonymous, unique_constituents: uniqueConstituents, avg_messages_per_conversation: parseFloat(avgMessages), top_questions: topQuestions, period: 'all_time' });
+  // Build 14-day daily trend
+  const daily_trend = [];
+  for (let i = 13; i >= 0; i--) {
+    const d = new Date();
+    d.setDate(d.getDate() - i);
+    const dateStr = d.toISOString().slice(0, 10);
+    const count = convos.filter(c => c.created_at && c.created_at.startsWith(dateStr)).length;
+    daily_trend.push({ date: dateStr, count });
+  }
+
+  // Completion rate (conversations with ended_at)
+  const completed = convos.filter(c => c.ended_at).length;
+  const completion_rate = total ? Math.round((completed / total) * 100) : 0;
+
+  // Average engagement: avg messages for completed convos
+  const avgEngagement = completed
+    ? (convos.filter(c => c.ended_at).reduce((s, c) => s + c.message_count, 0) / completed).toFixed(1)
+    : 0;
+
+  res.json({
+    total_conversations: total,
+    authenticated_conversations: authenticated,
+    anonymous_conversations: anonymous,
+    unique_constituents: uniqueConstituents,
+    avg_messages_per_conversation: parseFloat(avgMessages),
+    avg_engagement: parseFloat(avgEngagement),
+    completion_rate,
+    top_questions: topQuestions,
+    daily_trend,
+    period: 'all_time',
+  });
 });
 
 // GET /api/candidate/audit-log

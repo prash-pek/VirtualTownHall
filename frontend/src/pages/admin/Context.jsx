@@ -18,8 +18,9 @@ export default function Context() {
   }
 
   return (
-    <div className="max-w-4xl mx-auto p-6">
-      <h2 className="text-2xl font-bold mb-6">Context Documents</h2>
+    <div className="p-8 max-w-4xl">
+      <p className="section-label mb-2">Context Docs</p>
+      <h2 className="font-display text-3xl font-bold mb-8" style={{ color: 'var(--navy)' }}>Platform Materials</h2>
       <AdminContextManager token={token} contexts={contexts} onUpload={loadContexts} onDelete={handleDelete} />
     </div>
   );

@@ -11,8 +11,9 @@ export default function AdminAudit() {
   }, []);
 
   return (
-    <div className="max-w-3xl mx-auto p-6">
-      <h2 className="text-2xl font-bold mb-6">Your Audit Trail</h2>
+    <div className="p-8 max-w-3xl">
+      <p className="section-label mb-2">Audit Trail</p>
+      <h2 className="font-display text-3xl font-bold mb-8" style={{ color: 'var(--navy)' }}>Change History</h2>
       <AuditTimeline logs={logs} detailed />
     </div>
   );

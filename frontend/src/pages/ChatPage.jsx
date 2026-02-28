@@ -1,11 +1,13 @@
 import { useEffect, useState } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useLocation } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import ChatInterface from '../components/ChatInterface';
 import Disclaimer from '../components/Disclaimer';
 
 export default function ChatPage() {
   const { id: candidateId } = useParams();
+  const location = useLocation();
+  const from = location.state?.from || '/candidates';
   const [conversationId, setConversationId] = useState(null);
   const [candidate, setCandidate] = useState(null);
 
@@ -47,6 +49,7 @@ export default function ChatPage() {
             <div>
               <Link
                 to={`/candidate/${candidateId}`}
+                state={{ from }}
                 className="text-xs font-medium mb-1 flex items-center gap-1 transition-opacity hover:opacity-70"
                 style={{ color: 'rgba(255,255,255,0.5)' }}
               >

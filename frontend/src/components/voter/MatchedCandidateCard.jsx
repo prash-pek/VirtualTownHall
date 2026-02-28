@@ -89,6 +89,7 @@ export default function MatchedCandidateCard({ candidate, index = 0, voterTopics
         <div className="flex gap-2 mt-4 pt-4" style={{ borderTop: '1px solid var(--border)' }}>
           <Link
             to={`/candidate/${id}/chat`}
+            state={{ from: '/voter/dashboard' }}
             className="btn-primary flex-1 text-center py-2 text-sm"
             style={is_paused === 1 ? { opacity: 0.4, pointerEvents: 'none' } : {}}
           >
@@ -96,6 +97,7 @@ export default function MatchedCandidateCard({ candidate, index = 0, voterTopics
           </Link>
           <Link
             to={`/candidate/${id}`}
+            state={{ from: '/voter/dashboard' }}
             className="btn-outline flex-1 text-center py-2 text-sm"
           >
             View profile

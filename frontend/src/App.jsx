@@ -8,6 +8,7 @@ import Login from './pages/auth/Login';
 import Register from './pages/auth/Register';
 import VoterOnboarding from './pages/voter/Onboarding';
 import VoterDashboard from './pages/voter/Dashboard';
+import CandidateLayout from './components/admin/CandidateLayout';
 import Dashboard from './pages/admin/Dashboard';
 import Context from './pages/admin/Context';
 import ContextManager from './pages/admin/ContextManager';
@@ -31,15 +32,20 @@ export default function App() {
       <Route path="/candidate/:id/audit" element={<AuditPage />} />
       <Route path="/auth/login" element={<Login />} />
       <Route path="/auth/register" element={<Register />} />
-      <Route path="/admin/dashboard" element={<Dashboard />} />
-      <Route path="/admin/context" element={<Context />} />
-      <Route path="/admin/context-manager" element={<ContextManager />} />
-      <Route path="/admin/persona" element={<Persona />} />
-      <Route path="/admin/persona-editor" element={<PersonaEditor />} />
-      <Route path="/admin/blocked-topics" element={<BlockedTopics />} />
-      <Route path="/admin/analytics" element={<Analytics />} />
-      <Route path="/admin/audit" element={<AdminAudit />} />
-      <Route path="/admin/settings" element={<Settings />} />
+
+      {/* All candidate admin pages share the persistent sidebar layout */}
+      <Route element={<CandidateLayout />}>
+        <Route path="/admin/dashboard" element={<Dashboard />} />
+        <Route path="/admin/context" element={<Context />} />
+        <Route path="/admin/context-manager" element={<ContextManager />} />
+        <Route path="/admin/persona" element={<Persona />} />
+        <Route path="/admin/persona-editor" element={<PersonaEditor />} />
+        <Route path="/admin/blocked-topics" element={<BlockedTopics />} />
+        <Route path="/admin/analytics" element={<Analytics />} />
+        <Route path="/admin/audit" element={<AdminAudit />} />
+        <Route path="/admin/settings" element={<Settings />} />
+      </Route>
+
       <Route path="/platform-admin/candidates" element={<PlatformCandidates />} />
     </Routes>
   );

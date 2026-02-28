@@ -19,15 +19,28 @@ export default function Settings() {
   }
 
   return (
-    <div className="max-w-2xl mx-auto p-6">
-      <h2 className="text-2xl font-bold mb-6">Settings</h2>
-      <form onSubmit={handleSave} className="space-y-4 bg-white rounded-xl p-6 shadow">
-        <div><label className="block text-sm font-medium mb-1">Full Name</label><input value={form.name} onChange={e => setForm(f => ({ ...f, name: e.target.value }))} className="w-full border rounded-lg px-4 py-2" /></div>
-        <div><label className="block text-sm font-medium mb-1">Biography</label><textarea value={form.bio} onChange={e => setForm(f => ({ ...f, bio: e.target.value }))} rows={4} className="w-full border rounded-lg px-4 py-2" /></div>
-        <div><label className="block text-sm font-medium mb-1">Party Affiliation</label><input value={form.party} onChange={e => setForm(f => ({ ...f, party: e.target.value }))} className="w-full border rounded-lg px-4 py-2" /></div>
-        <div><label className="block text-sm font-medium mb-1">Donation Page URL</label><input type="url" value={form.donation_url} onChange={e => setForm(f => ({ ...f, donation_url: e.target.value }))} className="w-full border rounded-lg px-4 py-2" /></div>
-        <button type="submit" className="bg-blue-600 text-white px-6 py-2 rounded-lg font-semibold hover:bg-blue-700">
-          {saved ? 'Saved!' : 'Save Changes'}
+    <div className="p-8 max-w-2xl">
+      <p className="section-label mb-2">Settings</p>
+      <h2 className="font-display text-3xl font-bold mb-8" style={{ color: 'var(--navy)' }}>Profile & Settings</h2>
+      <form onSubmit={handleSave} className="space-y-4 card p-6">
+        <div>
+          <label className="block text-xs font-semibold uppercase tracking-widest mb-1.5" style={{ color: 'var(--navy)' }}>Full Name</label>
+          <input value={form.name} onChange={e => setForm(f => ({ ...f, name: e.target.value }))} className="input-field" />
+        </div>
+        <div>
+          <label className="block text-xs font-semibold uppercase tracking-widest mb-1.5" style={{ color: 'var(--navy)' }}>Biography</label>
+          <textarea value={form.bio} onChange={e => setForm(f => ({ ...f, bio: e.target.value }))} rows={4} className="input-field" style={{ resize: 'vertical' }} />
+        </div>
+        <div>
+          <label className="block text-xs font-semibold uppercase tracking-widest mb-1.5" style={{ color: 'var(--navy)' }}>Party Affiliation</label>
+          <input value={form.party} onChange={e => setForm(f => ({ ...f, party: e.target.value }))} className="input-field" />
+        </div>
+        <div>
+          <label className="block text-xs font-semibold uppercase tracking-widest mb-1.5" style={{ color: 'var(--navy)' }}>Donation Page URL</label>
+          <input type="url" value={form.donation_url} onChange={e => setForm(f => ({ ...f, donation_url: e.target.value }))} className="input-field" placeholder="https://..." />
+        </div>
+        <button type="submit" className="btn-primary px-8 py-3">
+          {saved ? '✓ Saved' : 'Save Changes'}
         </button>
       </form>
     </div>

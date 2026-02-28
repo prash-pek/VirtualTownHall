@@ -1,10 +1,13 @@
 import { useEffect, useState } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useLocation } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import CandidateProfile from '../components/CandidateProfile';
 
 export default function CandidateProfilePage() {
   const { id } = useParams();
+  const location = useLocation();
+  const from = location.state?.from || '/candidates';
+  const fromLabel = from === '/voter/dashboard' ? '← Back to your dashboard' : '← Back to candidates';
   const [candidate, setCandidate] = useState(null);
 
   useEffect(() => {
@@ -24,8 +27,8 @@ export default function CandidateProfilePage() {
       {/* Back bar */}
       <div style={{ borderBottom: '1px solid var(--border)', background: 'white' }}>
         <div className="max-w-3xl mx-auto px-8 py-4">
-          <Link to="/candidates" className="text-sm font-medium flex items-center gap-2 transition-opacity hover:opacity-70" style={{ color: 'var(--navy)' }}>
-            ← Back to candidates
+          <Link to={from} className="text-sm font-medium flex items-center gap-2 transition-opacity hover:opacity-70" style={{ color: 'var(--navy)' }}>
+            {fromLabel}
           </Link>
         </div>
       </div>
@@ -40,7 +43,7 @@ export default function CandidateProfilePage() {
           transition={{ delay: 0.3, duration: 0.4 }}
           className="mt-4 flex gap-3"
         >
-          <Link to={`/candidate/${id}/chat`} className="btn-primary flex-1 justify-center py-3.5 text-sm">
+          <Link to={`/candidate/${id}/chat`} state={{ from }} className="btn-primary flex-1 justify-center py-3.5 text-sm">
             Chat with {candidate.name}
           </Link>
           <Link to={`/candidate/${id}/audit`} className="btn-outline py-3.5 text-sm px-5">
