@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import ZipSearch from '../components/ZipSearch';
 
@@ -144,22 +144,22 @@ export default function Landing() {
           >
             For Candidates
           </a>
-          <a href="/auth/login"
+          <Link to="/auth/login"
             className="text-sm font-medium transition-colors"
             style={{ color: scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)' }}
             onMouseEnter={e => e.target.style.color = scrolled ? 'white' : 'var(--navy)'}
             onMouseLeave={e => e.target.style.color = scrolled ? 'rgba(255,255,255,0.65)' : 'var(--text-muted)'}
           >
             Sign In
-          </a>
-          <a href="/onboarding"
+          </Link>
+          <Link to="/onboarding"
             className="text-xs py-2 px-5 font-semibold tracking-wide transition-all"
             style={{ background: scrolled ? 'var(--gold)' : 'var(--navy)', color: 'white' }}
             onMouseEnter={e => e.currentTarget.style.opacity = '0.85'}
             onMouseLeave={e => e.currentTarget.style.opacity = '1'}
           >
             Get Started →
-          </a>
+          </Link>
         </div>
       </motion.nav>
 
@@ -285,9 +285,9 @@ export default function Landing() {
                 an always-available AI representative that engages voters in substantive policy conversations.
                 You upload your platform. We handle the conversations. You get the intelligence.
               </p>
-              <a href="/auth/register" className="btn-gold inline-flex">
+              <Link to="/auth/register" className="btn-gold inline-flex">
                 Register your candidacy →
-              </a>
+              </Link>
             </motion.div>
 
             {/* Pull quote */}
@@ -362,24 +362,24 @@ export default function Landing() {
             </p>
           </div>
           <div className="flex gap-4 flex-shrink-0">
-            <a
-              href="/auth/register"
+            <Link
+              to="/auth/register"
               className="inline-flex items-center gap-2 px-7 py-3.5 font-semibold text-sm tracking-wide transition-all"
               style={{ background: 'var(--navy)', color: 'white' }}
               onMouseEnter={e => e.currentTarget.style.background = 'var(--ink)'}
               onMouseLeave={e => e.currentTarget.style.background = 'var(--navy)'}
             >
               Register as Candidate
-            </a>
-            <a
-              href="/auth/login"
+            </Link>
+            <Link
+              to="/auth/login"
               className="inline-flex items-center gap-2 px-7 py-3.5 font-semibold text-sm tracking-wide transition-all"
               style={{ background: 'rgba(255,255,255,0.2)', color: 'white', border: '1.5px solid rgba(255,255,255,0.4)' }}
               onMouseEnter={e => e.currentTarget.style.background = 'rgba(255,255,255,0.3)'}
               onMouseLeave={e => e.currentTarget.style.background = 'rgba(255,255,255,0.2)'}
             >
               Sign In
-            </a>
+            </Link>
           </div>
         </div>
       </motion.div>

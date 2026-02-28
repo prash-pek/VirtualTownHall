@@ -46,7 +46,7 @@ export default function CandidateProfilePage() {
           <Link to={`/candidate/${id}/chat`} state={{ from }} className="btn-primary flex-1 justify-center py-3.5 text-sm">
             Chat with {candidate.name}
           </Link>
-          <Link to={`/candidate/${id}/audit`} className="btn-outline py-3.5 text-sm px-5">
+          <Link to={`/candidate/${id}/audit`} state={{ from }} className="btn-outline py-3.5 text-sm px-5">
             Audit Trail
           </Link>
         </motion.div>

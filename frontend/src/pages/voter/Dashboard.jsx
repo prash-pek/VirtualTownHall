@@ -133,7 +133,7 @@ export default function VoterDashboard() {
             </button>
           ))}
           <Link
-            to="/candidates"
+            to={displayZip ? `/candidates?zip=${displayZip}` : '/candidates'}
             className="w-full flex items-center gap-3 px-3 py-2.5 text-sm font-medium transition-all"
             style={{ color: 'rgba(255,255,255,0.55)', borderLeft: '2px solid transparent' }}
             onMouseEnter={e => e.currentTarget.style.color = 'white'}

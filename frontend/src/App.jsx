@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, Link } from 'react-router-dom';
 import Landing from './pages/Landing';
 import CandidateList from './pages/CandidateList';
 import CandidateProfilePage from './pages/CandidateProfilePage';
@@ -47,6 +47,18 @@ export default function App() {
       </Route>
 
       <Route path="/platform-admin/candidates" element={<PlatformCandidates />} />
+
+      {/* 404 catch-all */}
+      <Route path="*" element={
+        <div className="min-h-screen flex items-center justify-center" style={{ background: 'var(--cream)' }}>
+          <div className="text-center">
+            <p className="font-display text-6xl font-bold mb-4" style={{ color: 'var(--navy)', opacity: 0.15 }}>404</p>
+            <h1 className="font-display text-2xl font-bold mb-2" style={{ color: 'var(--navy)' }}>Page not found</h1>
+            <p className="text-sm mb-6" style={{ color: 'var(--text-muted)' }}>The page you're looking for doesn't exist.</p>
+            <Link to="/" className="btn-primary px-6 py-2.5 text-sm">Back to Home</Link>
+          </div>
+        </div>
+      } />
     </Routes>
   );
 }
