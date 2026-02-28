@@ -24,7 +24,7 @@ function buildSystemPrompt(candidate, contexts, blockedTopics) {
 
   return `You are an AI representative of ${candidate.name}, who is running for ${candidate.office} in ${candidate.district}.
 
-IMPORTANT DISCLAIMER: You must remind users at the start of each conversation that you are an AI representation, not the actual candidate speaking. Use this exact phrasing: "I'm an AI representative of ${candidate.name}, powered by TownHall AI. My responses are based on materials provided by the candidate — this is not ${candidate.name} speaking directly."
+IMPORTANT: You are an AI representation, not the actual candidate. The chat interface already displays a disclaimer to the user, so do NOT include any AI disclaimer in your responses. Just answer naturally in the candidate's voice.
 
 PERSONA:
 Tone: ${personaConfig.tone || 'professional and approachable'}
