@@ -4,7 +4,7 @@ import { useApp } from '../../context/AppContext';
 
 export default function Register() {
   const [role, setRole] = useState('constituent');
-  const [form, setForm] = useState({ email: '', password: '', zip_code: '', name: '', office: '', election_level: 'local', district: '' });
+  const [form, setForm] = useState({ email: '', password: '', zip_code: '', name: '', office: '', election_level: 'local', district: '', zip_codes: '' });
   const [error, setError] = useState('');
   const { dispatch } = useApp();
   const navigate = useNavigate();
@@ -15,7 +15,10 @@ export default function Register() {
     e.preventDefault();
     setError('');
     const endpoint = role === 'candidate' ? '/api/auth/candidate/register' : '/api/auth/constituent/register';
-    const res = await fetch(endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(form) });
+    const body = role === 'candidate'
+      ? { ...form, zip_codes: form.zip_codes ? form.zip_codes.split(',').map(z => z.trim()) : [] }
+      : form;
+    const res = await fetch(endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
     const data = await res.json();
 
     if (!res.ok) { setError(data.error?.message || 'Registration failed'); return; }
@@ -50,6 +53,7 @@ export default function Register() {
               <option value="national">National</option>
             </select>
             <input type="text" placeholder="District / Geography" value={form.district} onChange={e => update('district', e.target.value)} required className="w-full border rounded-lg px-4 py-2" />
+            <input type="text" placeholder="ZIP codes (comma-separated, e.g. 97201, 97202)" value={form.zip_codes} onChange={e => update('zip_codes', e.target.value)} className="w-full border rounded-lg px-4 py-2" />
           </>}
           <button type="submit" className="w-full bg-blue-600 text-white py-2 rounded-lg font-semibold hover:bg-blue-700">Create Account</button>
         </form>

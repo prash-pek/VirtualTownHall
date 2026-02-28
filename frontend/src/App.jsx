@@ -8,7 +8,9 @@ import Login from './pages/auth/Login';
 import Register from './pages/auth/Register';
 import Dashboard from './pages/admin/Dashboard';
 import Context from './pages/admin/Context';
+import ContextManager from './pages/admin/ContextManager';
 import Persona from './pages/admin/Persona';
+import PersonaEditor from './pages/admin/PersonaEditor';
 import BlockedTopics from './pages/admin/BlockedTopics';
 import Analytics from './pages/admin/Analytics';
 import AdminAudit from './pages/admin/Audit';
@@ -27,7 +29,9 @@ export default function App() {
       <Route path="/auth/register" element={<Register />} />
       <Route path="/admin/dashboard" element={<Dashboard />} />
       <Route path="/admin/context" element={<Context />} />
+      <Route path="/admin/context-manager" element={<ContextManager />} />
       <Route path="/admin/persona" element={<Persona />} />
+      <Route path="/admin/persona-editor" element={<PersonaEditor />} />
       <Route path="/admin/blocked-topics" element={<BlockedTopics />} />
       <Route path="/admin/analytics" element={<Analytics />} />
       <Route path="/admin/audit" element={<AdminAudit />} />

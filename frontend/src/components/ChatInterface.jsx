@@ -16,9 +16,11 @@ export default function ChatInterface({ conversationId, candidateName }) {
     e.preventDefault();
     if (!input.trim() || loading) return;
 
-    const userMsg = { role: 'user', content: input, timestamp: new Date().toISOString() };
-    setMessages(m => [...m, userMsg]);
+    const messageContent = input.trim();
     setInput('');
+
+    const userMsg = { role: 'user', content: messageContent, timestamp: new Date().toISOString() };
+    setMessages(m => [...m, userMsg]);
     setLoading(true);
 
     const token = localStorage.getItem('token');
@@ -26,7 +28,7 @@ export default function ChatInterface({ conversationId, candidateName }) {
     if (token) headers.Authorization = `Bearer ${token}`;
 
     try {
-      const res = await fetch(`/api/conversations/${conversationId}/messages`, { method: 'POST', headers, body: JSON.stringify({ content: input }) });
+      const res = await fetch(`/api/conversations/${conversationId}/messages`, { method: 'POST', headers, body: JSON.stringify({ content: messageContent }) });
       const data = await res.json();
       if (data.content) setMessages(m => [...m, { role: 'assistant', content: data.content, timestamp: data.timestamp }]);
     } catch (err) {
