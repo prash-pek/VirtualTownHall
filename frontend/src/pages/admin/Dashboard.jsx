@@ -45,6 +45,9 @@ export default function CandidateDashboard() {
   const [analytics, setAnalytics] = useState(null);
   const [auditLog, setAuditLog] = useState([]);
   const [togglingAI, setTogglingAI] = useState(false);
+  const [recomputing, setRecomputing] = useState(false);
+  const [recomputeMsg, setRecomputeMsg] = useState(null);
+  const [showDiscrepancies, setShowDiscrepancies] = useState(false);
 
   useEffect(() => {
     if (!token) { navigate('/auth/login'); return; }
@@ -59,6 +62,27 @@ export default function CandidateDashboard() {
       setAuditLog(Array.isArray(logs) ? logs.slice(0, 6) : []);
     });
   }, []);
+
+  async function recomputeAlignment() {
+    setRecomputing(true);
+    setRecomputeMsg(null);
+    try {
+      const res = await fetch('/api/candidate/alignment-score/recompute', {
+        method: 'POST',
+        headers: { Authorization: `Bearer ${token}` },
+      });
+      const data = await res.json();
+      if (!res.ok) {
+        setRecomputeMsg({ type: 'error', text: data.error?.message || 'Recompute failed.' });
+      } else {
+        setRecomputeMsg({ type: 'info', text: 'Recomputing… check back in ~30 seconds and refresh.' });
+      }
+    } catch {
+      setRecomputeMsg({ type: 'error', text: 'Network error.' });
+    } finally {
+      setRecomputing(false);
+    }
+  }
 
   async function toggleAI() {
     setTogglingAI(true);
@@ -137,6 +161,71 @@ export default function CandidateDashboard() {
         <MetricCard label="Alignment Score" value={candidate.alignment_score != null ? `${Math.round(candidate.alignment_score)}%` : '—'} sub="platform vs. public record" color={candidate.alignment_score != null ? scoreColor : undefined} delay={0.15} />
         <MetricCard label="AI Status" value={candidate.is_paused ? 'Paused' : 'Live'} sub={candidate.is_paused ? 'Responses disabled' : 'Responding to voters'} color={candidate.is_paused ? 'var(--red)' : 'var(--green)'} delay={0.2} />
       </div>
+
+      {/* Alignment Score detail + recompute */}
+      {candidate.alignment_score != null && (
+        <motion.div
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.22, duration: 0.35 }}
+          className="card p-5 mb-6"
+        >
+          <div className="flex items-start justify-between gap-4 flex-wrap">
+            <div className="flex-1 min-w-0">
+              <p className="section-label mb-1">Alignment Score</p>
+              <p className="text-sm leading-relaxed" style={{ color: 'var(--text-muted)' }}>
+                {candidate.alignment_rationale || 'No rationale available.'}
+              </p>
+              {recomputeMsg && (
+                <p className="text-xs mt-2 font-medium" style={{ color: recomputeMsg.type === 'error' ? 'var(--red)' : 'var(--gold)' }}>
+                  {recomputeMsg.text}
+                </p>
+              )}
+            </div>
+            <div className="flex flex-col items-end gap-2 flex-shrink-0">
+              <button
+                onClick={recomputeAlignment}
+                disabled={recomputing}
+                className="text-xs font-semibold px-3 py-1.5 transition-all disabled:opacity-50"
+                style={{ border: '1.5px solid var(--border)', color: 'var(--navy)', background: 'transparent' }}
+              >
+                {recomputing ? 'Starting…' : 'Recompute'}
+              </button>
+              {candidate.alignment_discrepancies && JSON.parse(candidate.alignment_discrepancies || '[]').length > 0 && (
+                <button
+                  onClick={() => setShowDiscrepancies(v => !v)}
+                  className="text-xs font-medium"
+                  style={{ color: 'var(--gold)' }}
+                >
+                  {showDiscrepancies ? 'Hide' : 'View'} discrepancies ({JSON.parse(candidate.alignment_discrepancies).length})
+                </button>
+              )}
+            </div>
+          </div>
+
+          {showDiscrepancies && candidate.alignment_discrepancies && (
+            <div className="mt-4 space-y-3" style={{ borderTop: '1px solid var(--border)', paddingTop: '1rem' }}>
+              {JSON.parse(candidate.alignment_discrepancies).map((d, i) => {
+                const severityColor = d.severity === 'high' ? 'var(--red)' : d.severity === 'medium' ? 'var(--gold)' : 'var(--text-muted)';
+                return (
+                  <div key={i} className="p-3 text-sm" style={{ background: 'rgba(0,0,0,0.02)', border: '1px solid var(--border)' }}>
+                    <div className="flex items-center justify-between mb-2">
+                      <span className="font-semibold capitalize" style={{ color: 'var(--navy)' }}>{d.topic}</span>
+                      <span className="text-xs font-bold uppercase tracking-wide" style={{ color: severityColor }}>{d.severity}</span>
+                    </div>
+                    <p className="text-xs mb-1" style={{ color: 'var(--text-muted)' }}>
+                      <span className="font-semibold" style={{ color: 'var(--navy)' }}>Public record: </span>{d.public_position}
+                    </p>
+                    <p className="text-xs" style={{ color: 'var(--text-muted)' }}>
+                      <span className="font-semibold" style={{ color: 'var(--navy)' }}>Platform says: </span>{d.uploaded_position}
+                    </p>
+                  </div>
+                );
+              })}
+            </div>
+          )}
+        </motion.div>
+      )}
 
       {/* Activity + Topics */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">

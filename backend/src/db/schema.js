@@ -25,6 +25,7 @@ db.exec(`
     donation_url TEXT,
     is_verified INTEGER DEFAULT 0,
     is_paused INTEGER DEFAULT 0,
+    is_seed INTEGER DEFAULT 0,
     alignment_score REAL,
     alignment_rationale TEXT,
     created_at TEXT DEFAULT (datetime('now')),
@@ -95,6 +96,15 @@ db.exec(`
 
   CREATE INDEX IF NOT EXISTS idx_audit_candidate ON audit_logs(candidate_id, created_at, action_type);
 `);
+
+// Migrate existing DBs that predate new columns
+const cols = db.pragma('table_info(candidates)').map(c => c.name);
+if (!cols.includes('is_seed')) {
+  db.exec('ALTER TABLE candidates ADD COLUMN is_seed INTEGER DEFAULT 0');
+}
+if (!cols.includes('alignment_discrepancies')) {
+  db.exec('ALTER TABLE candidates ADD COLUMN alignment_discrepancies TEXT');
+}
 
 console.log('Database schema initialized.');
 module.exports = db;

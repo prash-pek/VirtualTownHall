@@ -10,9 +10,10 @@ function hash(text) {
 
 const insertCandidate = db.prepare(`
   INSERT OR IGNORE INTO candidates
-  (id, email, password_hash, name, office, election_level, district, zip_codes, party, bio, persona_config, donation_url, is_verified, alignment_score, alignment_rationale)
-  VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+  (id, email, password_hash, name, office, election_level, district, zip_codes, party, bio, persona_config, donation_url, is_verified, alignment_score, alignment_rationale, is_seed)
+  VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1)
 `);
+// Note: alignment_discrepancies defaults to NULL for existing demo candidates — that's fine.
 
 const insertContext = db.prepare(`
   INSERT OR IGNORE INTO candidate_contexts (id, candidate_id, content_type, original_filename, content_text, topic_tags, content_hash)

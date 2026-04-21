@@ -70,8 +70,8 @@ function seed() {
 
   const insertCandidate = db.prepare(`
     INSERT OR IGNORE INTO candidates
-    (id, email, password_hash, name, office, election_level, district, zip_codes, party, bio, persona_config, donation_url, is_verified, alignment_score)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    (id, email, password_hash, name, office, election_level, district, zip_codes, party, bio, persona_config, donation_url, is_verified, alignment_score, is_seed)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1)
   `);
 
   for (const c of candidates) {

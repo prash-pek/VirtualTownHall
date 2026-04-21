@@ -4,6 +4,13 @@ const { logAudit } = require('../utils/audit');
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
+// Strip markdown code fences Claude sometimes wraps JSON in
+function extractJSON(text) {
+  const fenced = text.match(/```(?:json)?\s*([\s\S]*?)```/);
+  if (fenced) return fenced[1].trim();
+  return text.trim();
+}
+
 async function computeAlignmentScore(candidateId) {
   const candidate = db.prepare('SELECT * FROM candidates WHERE id = ?').get(candidateId);
   if (!candidate) return;
@@ -25,7 +32,7 @@ async function computeAlignmentScore(candidateId) {
       tools: [{ type: 'web_search_20250305', name: 'web_search' }],
       messages: [{
         role: 'user',
-        content: `Search for recent public statements, interviews, and positions by ${candidate.name} who is running for ${candidate.office} in ${candidate.district}. Collect key policy positions from at least 3 different sources.`
+        content: `Search for recent public statements, voting records, interviews, and documented policy positions by ${candidate.name} who is running for ${candidate.office} in ${candidate.district}. Collect specific factual policy positions from at least 3 different sources. Focus on verifiable claims and voting records, not campaign rhetoric.`
       }]
     });
 
@@ -33,32 +40,38 @@ async function computeAlignmentScore(candidateId) {
     publicRecord = textBlocks.map(b => b.text).join('\n');
   } catch (err) {
     console.error('Web search for alignment score failed:', err.message);
-    publicRecord = 'No public record data available — web search unavailable.';
+    publicRecord = 'Web search unavailable. Evaluate based on general knowledge of this candidate\'s public record.';
   }
 
   const comparisonResponse = await client.messages.create({
     model: 'claude-opus-4-6',
-    max_tokens: 1024,
+    max_tokens: 1500,
     messages: [{
       role: 'user',
-      content: `Analyze the alignment between a political candidate's publicly available statements and their uploaded platform context.
+      content: `You are a nonpartisan political fact-checker. Analyze the alignment between a political candidate's publicly documented record and their uploaded platform context.
 
-PUBLIC STATEMENTS AND RECORD:
+PUBLIC RECORD AND STATEMENTS:
 ${publicRecord}
 
-CANDIDATE'S UPLOADED CONTEXT:
+CANDIDATE'S UPLOADED PLATFORM CONTEXT:
 ${contextText}
 
-Evaluate on these dimensions:
-1. Policy positions: Do uploaded positions match public statements?
-2. Tone and emphasis: Are priorities presented consistently?
-3. Omissions: Are significant public positions missing from context?
-4. Contradictions: Are there direct conflicts between public record and uploaded context?
+Evaluate alignment across these dimensions:
+1. Policy positions: Do uploaded positions match documented public statements and voting record?
+2. Consistency: Are there flip-flops or contradictions between their public record and uploaded platform?
+3. Omissions: Are significant public positions or voting record items missing from the uploaded context?
+4. Accuracy: Are claims in the uploaded context factually accurate relative to their public record?
 
-Respond in JSON only:
+Scoring guide:
+- 85-100: Highly consistent — platform closely matches public record with minor gaps
+- 65-84: Moderate alignment — mostly consistent with some notable omissions or soft contradictions
+- 40-64: Significant discrepancies — multiple contradictions or misleading framing of record
+- 0-39: Low alignment — platform substantially misrepresents or contradicts documented record
+
+Respond in JSON only (no markdown fences):
 {
   "score": <0-100 integer>,
-  "rationale": "<2-3 sentence explanation>",
+  "rationale": "<2-3 sentence nonpartisan explanation of the score>",
   "discrepancies": [
     {"topic": "...", "public_position": "...", "uploaded_position": "...", "severity": "low|medium|high"}
   ]
@@ -68,19 +81,21 @@ Respond in JSON only:
 
   let result;
   try {
-    result = JSON.parse(comparisonResponse.content[0].text);
+    result = JSON.parse(extractJSON(comparisonResponse.content[0].text));
   } catch {
-    console.error('Failed to parse alignment score response');
+    console.error('Failed to parse alignment score response:', comparisonResponse.content[0].text.slice(0, 200));
     return;
   }
 
   db.prepare(`
-    UPDATE candidates SET alignment_score = ?, alignment_rationale = ?, updated_at = datetime('now') WHERE id = ?
-  `).run(result.score, result.rationale, candidateId);
+    UPDATE candidates
+    SET alignment_score = ?, alignment_rationale = ?, alignment_discrepancies = ?, updated_at = datetime('now')
+    WHERE id = ?
+  `).run(result.score, result.rationale, JSON.stringify(result.discrepancies || []), candidateId);
 
   logAudit(candidateId, 'alignment_score_computed', 'system', {
     score: result.score,
-    discrepancies: result.discrepancies
+    discrepancy_count: (result.discrepancies || []).length,
   });
 
   return result;

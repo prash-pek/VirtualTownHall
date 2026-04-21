@@ -1,9 +1,14 @@
+import { useState } from 'react';
 import { motion } from 'framer-motion';
 import AlignmentBadge from './AlignmentBadge';
 import VerificationBadge from './VerificationBadge';
 
 export default function CandidateProfile({ candidate }) {
   const topics = [...new Set((candidate.contexts || []).flatMap(c => JSON.parse(c.topic_tags || '[]')))];
+  const [showDiscrepancies, setShowDiscrepancies] = useState(false);
+  const discrepancies = (() => {
+    try { return JSON.parse(candidate.alignment_discrepancies || '[]'); } catch { return []; }
+  })();
 
   return (
     <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }}>
@@ -56,10 +61,42 @@ export default function CandidateProfile({ candidate }) {
 
         {candidate.alignment_rationale && (
           <div style={{ borderTop: '1px solid var(--border)', paddingTop: '1.5rem' }}>
-            <p className="section-label mb-2">Alignment note</p>
+            <div className="flex items-start justify-between gap-4 mb-2">
+              <p className="section-label">Alignment note</p>
+              {discrepancies.length > 0 && (
+                <button
+                  onClick={() => setShowDiscrepancies(v => !v)}
+                  className="text-xs font-medium flex-shrink-0"
+                  style={{ color: 'var(--gold)' }}
+                >
+                  {showDiscrepancies ? 'Hide' : 'Show'} {discrepancies.length} discrepanc{discrepancies.length === 1 ? 'y' : 'ies'}
+                </button>
+              )}
+            </div>
             <p className="text-sm leading-relaxed" style={{ color: 'var(--text-muted)' }}>
               {candidate.alignment_rationale}
             </p>
+            {showDiscrepancies && (
+              <div className="mt-4 space-y-3">
+                {discrepancies.map((d, i) => {
+                  const severityColor = d.severity === 'high' ? 'var(--red)' : d.severity === 'medium' ? 'var(--gold)' : 'var(--text-muted)';
+                  return (
+                    <div key={i} className="p-3 text-sm" style={{ background: 'rgba(0,0,0,0.02)', border: '1px solid var(--border)' }}>
+                      <div className="flex items-center justify-between mb-2">
+                        <span className="font-semibold" style={{ color: 'var(--navy)' }}>{d.topic}</span>
+                        <span className="text-xs font-bold uppercase tracking-wide" style={{ color: severityColor }}>{d.severity}</span>
+                      </div>
+                      <p className="text-xs mb-1" style={{ color: 'var(--text-muted)' }}>
+                        <span className="font-semibold" style={{ color: 'var(--navy)' }}>Public record: </span>{d.public_position}
+                      </p>
+                      <p className="text-xs" style={{ color: 'var(--text-muted)' }}>
+                        <span className="font-semibold" style={{ color: 'var(--navy)' }}>Platform says: </span>{d.uploaded_position}
+                      </p>
+                    </div>
+                  );
+                })}
+              </div>
+            )}
           </div>
         )}
 

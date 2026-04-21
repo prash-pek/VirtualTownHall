@@ -220,4 +220,15 @@ router.get('/audit-log', requireAuth(['candidate']), (req, res) => {
   res.json(logs);
 });
 
+// POST /api/candidate/alignment-score/recompute — candidate triggers their own recomputation
+router.post('/alignment-score/recompute', requireAuth(['candidate']), async (req, res) => {
+  const candidateId = req.user.candidateId;
+  const contexts = db.prepare('SELECT id FROM candidate_contexts WHERE candidate_id = ? AND is_active = 1').all(candidateId);
+  if (!contexts.length) {
+    return res.status(400).json({ error: { code: 'NO_CONTEXT', message: 'Upload at least one context document before computing alignment score.' } });
+  }
+  res.json({ status: 'processing', message: 'Alignment score recomputation started. Check back in ~30 seconds.' });
+  computeAlignmentScore(candidateId).catch(console.error);
+});
+
 module.exports = router;

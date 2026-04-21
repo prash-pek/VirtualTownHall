@@ -2,6 +2,7 @@ const express = require('express');
 const db = require('../db/schema');
 const { requireAuth } = require('../middleware/auth');
 const { logAudit } = require('../utils/audit');
+const { computeAlignmentScore } = require('../services/alignment');
 
 const router = express.Router();
 
@@ -26,6 +27,14 @@ router.delete('/candidates/:id/verify', requireAuth(['admin']), (req, res) => {
   db.prepare("UPDATE candidates SET is_verified = 0, updated_at = datetime('now') WHERE id = ?").run(req.params.id);
   logAudit(req.params.id, 'verification_revoked', req.user.id, {});
   res.json({ success: true });
+});
+
+// POST /api/admin/candidates/:id/alignment-score — trigger recompute for any candidate
+router.post('/candidates/:id/alignment-score', requireAuth(['admin']), async (req, res) => {
+  const candidate = db.prepare('SELECT id FROM candidates WHERE id = ?').get(req.params.id);
+  if (!candidate) return res.status(404).json({ error: { code: 'NOT_FOUND', message: 'Candidate not found.' } });
+  res.json({ status: 'processing' });
+  computeAlignmentScore(req.params.id).catch(console.error);
 });
 
 module.exports = router;
