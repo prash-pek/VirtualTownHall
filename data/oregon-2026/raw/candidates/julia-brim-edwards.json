@@ -175,6 +175,16 @@
   "collection_log": [
     {
       "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multco_chair_julia_brim-edwards/download",
+      "result": "blocked (scan, no machine-readable text); statement taken from large-print pamphlet"
+    },
+    {
+      "step": "1",
       "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
       "result": "blocked"
     },

@@ -6,6 +6,8 @@ A separate verifier agent will re-fetch every source you cite, so anything you
 cannot point to on a real page will be rejected.
 
 ## Tools
+- Known limits: congress.gov blocks automated fetches (use clerk.house.gov / senate.gov roll calls); many county
+  argument and certification PDFs are scans with no text; WebFetch quotes are capped at ~125 characters.
 - Use **WebSearch** and **WebFetch** only. `curl`/`wget` cannot reach the web from this container.
 - Only cite URLs that a WebSearch or WebFetch call actually returned. Never build or guess a URL.
 - WebFetch answers through a summarizing model. To get an excerpt, ask it to
@@ -17,7 +19,8 @@ cannot point to on a real page will be rejected.
 Run **the same steps for every candidate in a race** (and both sides of a measure), and log each in `collection_log`:
 
 Candidates:
-1. **Voters' pamphlet statement** (T1). Statewide/federal/legislative/judicial: the SOS statewide pamphlet
+1. **Voters' pamphlet statement** (T1). Multnomah county/local statements are linked one per candidate from the
+   Military & Overseas Online Voters' Guide (multco.us); full pamphlet PDFs truncate in WebFetch at ~120k chars. Statewide/federal/legislative/judicial: the SOS statewide pamphlet
    for the candidate's county edition (sos.oregon.gov/elections/Voters-Pamphlet). Local: the county pamphlet
    (Multnomah's is joint with the SOS book; Washington and Clackamas publish their own).
 2. **Official office page** (T1) if the candidate holds or held the office or another public office
@@ -25,10 +28,10 @@ Candidates:
 3. **Campaign website** (T2) — only if its domain is linked from the pamphlet, ORESTAR, an official page,
    or a T3 article. Record that page in `website_verified_via`. Otherwise leave `website_url` null.
 4. **WebSearch** `"<full name>" <office or city> 2026`.
-5. **WebSearch** with `allowed_domains`: opb.org, oregonlive.com, wweek.com, portlandmercury.com,
-   oregoncapitalchronicle.com, apnews.com, ballotpedia.org, vote411.org, kgw.com, koin.com, kptv.com,
-   pamplinmedia.com, portlandtribune.com, beavertonvalleytimes.com, lakeoswegoreview.com, kgw.com, katu.com.
-   Query: `"<full name>"`.
+5. **WebSearch** `"<full name>"` with `allowed_domains`, run as these fixed groups (the search tool rejects
+   oregonlive.com and apnews.com and long domain lists): (a) opb.org, oregoncapitalchronicle.com, wweek.com,
+   ballotpedia.org; (b) kgw.com, koin.com, kptv.com, katu.com; (c) portlandmercury.com, vote411.org,
+   pamplinmedia.com, portlandtribune.com. Same groups for every candidate.
 6. Optional, same for all in the race: one follow-up fetch per promising T3 result (max 4 per candidate).
 
 Measures:

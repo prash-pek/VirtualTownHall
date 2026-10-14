@@ -154,6 +154,32 @@
         "published_at": "2026-06-09",
         "retrieved_at": "2026-10-14"
       }
+    },
+    {
+      "id": "sharon-meieran-p8",
+      "topic": "taxes",
+      "statement": "In her voters' pamphlet statement, Meieran says the county can spend less while doing much more.",
+      "excerpt": "We can spend less but do so much more.",
+      "source": {
+        "url": "https://multco.us/file/multco_chair_sharon_meieran/download",
+        "publisher": "Multnomah County Elections (voters' pamphlet statement)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sharon-meieran-p9",
+      "topic": "social-services",
+      "statement": "Meieran's pamphlet statement says she wants a social service system in which neighborhoods are safe and businesses succeed.",
+      "excerpt": "I want to build a social service system where neighborhoods are safe, businesses succeed",
+      "source": {
+        "url": "https://multco.us/file/multco_chair_sharon_meieran/download",
+        "publisher": "Multnomah County Elections (voters' pamphlet statement)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
     }
   ],
   "gaps": [
@@ -162,6 +188,16 @@
     "No voting record collected for her prior District 1 term"
   ],
   "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multco_chair_sharon_meieran/download",
+      "result": "used"
+    },
     {
       "step": "1",
       "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
@@ -208,6 +244,6 @@
       "result": "used"
     }
   ],
-  "collection_notes": "The SOS Book 13 (Multnomah edition) PDF text is cut off by the fetch tool at ~120k characters (page 49), before the judicial and county sections; the county's large-print Multnomah pamphlet (pages 42-43 for Chair) was used instead. The fetch tool limits quotes to ~125 characters, so some excerpts are fragments. Meieran is a former District 1 Commissioner; not on current board roster, so incumbent=false. Pamphlet prints fixmultco.com (redirects to fix-multco.com, which links to SharonforChair.com); filing lists SharonforChair.com. Her pamphlet body text is mainly a critique of county performance; items p1 and p3 reflect that framing.",
+  "collection_notes": "The SOS Book 13 (Multnomah edition) PDF text is cut off by the fetch tool at ~120k characters (page 49), before the judicial and county sections; the county's large-print Multnomah pamphlet (pages 42-43 for Chair) was used instead. The fetch tool limits quotes to ~125 characters, so some excerpts are fragments. Meieran is a former District 1 Commissioner; not on current board roster, so incumbent=false. Pamphlet prints fixmultco.com (redirects to fix-multco.com, which links to SharonforChair.com); filing lists SharonforChair.com. Her pamphlet body text is mainly a critique of county performance; items p1 and p3 reflect that framing. The individual statement PDF (linked from the county's Military & Overseas Online Voters' Guide) supplied the latter part of her statement that the large-print pamphlet fetch cut off.",
   "voting_record": []
 }

@@ -136,6 +136,16 @@
   "collection_log": [
     {
       "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multco_dist_2_serena_cruz/download",
+      "result": "used (linked from the county Military & Overseas Online Voters' Guide)"
+    },
+    {
+      "step": "1",
       "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
       "result": "blocked"
     },

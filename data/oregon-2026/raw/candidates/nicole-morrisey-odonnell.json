@@ -124,9 +124,20 @@
     "2026 voters' pamphlet statement not readable (PDF fetch cut off before p. 48) and no separate statement file found",
     "No 2026 campaign website found in a T1/T3 source",
     "No 2026 T3 coverage of the Sheriff race found (only 2023-2025 coverage of her tenure)",
-    "Unopposed race"
+    "Unopposed race",
+    "Individual voters' pamphlet statement PDF on multco.us is a scan with no machine-readable text"
   ],
   "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multco_sheriff_nicole_morrisey_o'donnell/download",
+      "result": "blocked (scan, no machine-readable text)"
+    },
     {
       "step": "1",
       "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
