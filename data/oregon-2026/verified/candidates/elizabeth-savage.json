@@ -1,0 +1,64 @@
+{
+  "id": "elizabeth-savage",
+  "name": "Elizabeth Savage",
+  "name_variants": [],
+  "race_id": "or-circuit-court-4-pos-14",
+  "party": null,
+  "incumbent": false,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "elizabeth-savage-b1",
+      "topic": "custom:bio",
+      "statement": "Willamette Week describes Savage as a family law attorney and judge pro tem in Washington County.",
+      "excerpt": "Elizabeth Savage, a family law attorney and judge pro tem in Washington County.",
+      "source": {
+        "url": "https://www.wweek.com/news/county/2026/05/19/embattled-multnomah-county-circuit-judge-poised-to-lose-seat",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-05-19",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "elizabeth-savage-b2",
+      "topic": "custom:bio",
+      "statement": "Willamette Week reports Savage is a former teacher who became a family law attorney and part-time judge pro tem.",
+      "excerpt": "a former teacher-turned-family law attorney and part-time judge pro tem",
+      "source": {
+        "url": "https://wweek.com/news/2026/04/29/wws-may-2026-endorsements-circuit-court-judges",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-04-29",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "From WW's endorsement article; WW's evaluative phrase 'of good repute' is correctly omitted."
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement not readable (PDF fetch cut off before pp. 59-61)",
+    "No campaign website found in a T1/T3 source",
+    "Judicial candidate: no issue positions collected (judicial ethics)"
+  ],
+  "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Both candidates have two comparable T3 bio items from the same two Willamette Week articles; descriptive facts only (evaluative phrases omitted). Pamphlet statements not readable; oregonvotes.gov military-guide page for Hagedorn redirects (unreachable). File-level: incumbent set false per ballot directive (no incumbent for Position 14; WW reports Judge Amy Holmes Hehn leaving). Name matches."
+  }
+}

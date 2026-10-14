@@ -1,0 +1,137 @@
+{
+  "id": "bruce-broussard",
+  "name": "Bruce Broussard",
+  "name_variants": [],
+  "race_id": "multnomah-county-commissioner-d2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://multco.us/board",
+  "occupation": "Retired - Executive Administrator",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "bruce-broussard-b1",
+      "topic": "custom:bio",
+      "statement": "In his voters' pamphlet statement, Broussard lists his occupational background as 10 years in the U.S. Marine Corps, Vietnam veteran, and former owner/publisher of the Portland Observer.",
+      "excerpt": "10 Years - US Marine Corps, Vietnam Veteran, Former Owner/Publisher - Portland Observer Newspaper",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "bruce-broussard-b2",
+      "topic": "custom:bio",
+      "statement": "Broussard's pamphlet statement lists prior governmental experience on the Metro Solid Waste Advisory Board and a governor's appointment to a White House Small Business Conference task force.",
+      "excerpt": "Metro Solid Waste Advisory Board, Oregon Governor appointment to the White House Small Business Conference Task Force",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "bruce-broussard-b3",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports that Broussard and his wife run the nonprofit No Veterans Left Behind Oregon, Inc.",
+      "excerpt": "He and his wife now run a nonprofit called No Veterans Left Behind Oregon, Inc.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "bruce-broussard-b4",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports that Broussard previously served on Multnomah County's Charter Review Board.",
+      "excerpt": "he’s previously served on Multnomah County’s Charter Review Board",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "bruce-broussard-p1",
+      "topic": "housing",
+      "statement": "In his voters' pamphlet statement, Broussard says resources must be managed properly to address homeless camps and people with mental illness or drug addiction.",
+      "excerpt": "The right resources need to be managed properly to address homeless camps, the mentally ill and drug affected individuals.",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "bruce-broussard-p2",
+      "topic": "economy",
+      "statement": "Broussard's pamphlet statement says the cost of living has outpaced wages and low-income residents need better resources.",
+      "excerpt": "the rising cost of living has greatly outpaced wage increases and our low-income residents need better resources.",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [
+    "Portland Mercury profile covers his background only and states no policy positions for him",
+    "No campaign website found in a T1/T3 source",
+    "Candidate filing PDF not machine-readable",
+    "Individual voters' pamphlet statement PDF on multco.us is a scan with no machine-readable text"
+  ],
+  "voting_record": [],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Source-access disparity, not candidate disparity: the large-print/full pamphlet PDFs are only readable through Broussard and the start of Greene's statements, and the individual statement PDFs for Broussard, Greene, Williams, Ong Norris and Zaghloul are scans with no machine-readable text. Cruz and Robertson have readable individual statements, so they have T1 positions; Williams, Ong Norris and Zaghloul have only T3 (Portland Mercury 2026-09-26) items, and Broussard and Greene mix T1 bio with few positions. Verifier hit the same limits (PDF text truncated at Greene's statement). Same search effort appears applied to all seven; disparity is documented in each file's gaps. File-level: Gap text reworded: the Mercury does not say he has no positions; it simply reports none."
+  }
+}

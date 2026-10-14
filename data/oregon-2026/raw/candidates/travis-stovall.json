@@ -167,12 +167,25 @@
         "published_at": null,
         "retrieved_at": "2026-10-14"
       }
+    },
+    {
+      "id": "travis-stovall-p8",
+      "topic": "economy",
+      "statement": "In an October 2026 Portland Tribune article on a proposed Vance Property entertainment venue, Stovall says professional sports have long been desired in Gresham and that large projects depend on community economics.",
+      "excerpt": "\"As with many large project aspirations, it comes down to the community economics,\" said Mayor Travis Stovall.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/02/professional-baseball-and-hockey-why-not-gresham/",
+        "publisher": "Portland Tribune (Christopher Keizur)",
+        "tier": "T3",
+        "published_at": "2026-10-02",
+        "retrieved_at": "2026-10-14"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
     "No voting record collected (city council votes not in scope of fixed search set)",
-    "No 2026 T3 interview or article with dated policy quotes found; T3 results were from the 2020 and 2022 campaigns"
+    "Little 2026 T3 coverage with policy quotes; most T3 results were from the 2020 and 2022 campaigns"
   ],
   "collection_log": [
     {
@@ -218,8 +231,13 @@
     {
       "step": "6",
       "query_or_url": "https://www.koin.com/local/gresham-mayor-long-way-to-go-as-city-works-to-minimize-violence/",
-      "result": "nothing relevant"
+      "result": "nothing relevant (no date or byline)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2026/10/02/professional-baseball-and-hockey-why-not-gresham/",
+      "result": "used (found via the Sue Piazza step-5 search; quotes both mayoral candidates)"
     }
   ],
-  "collection_notes": "Pamphlet statement PDF has readable text. Campaign domain GreshamTogether.org is printed in the statement. T3 search results were all 2020-2022 coverage (2020 election, earlier interviews); the one KOIN item fetched had no date or byline and was not used. Step 6 limited to one fetch per candidate in this race. WebFetch caps quotes at ~120 characters so some excerpts are leading fragments of longer bullets."
+  "collection_notes": "Pamphlet statement PDF has readable text. Campaign domain GreshamTogether.org is printed in the statement. Most T3 search results were 2020-2022 coverage (2020 election, earlier interviews); the one KOIN item fetched had no date or byline and was not used. The Oct 2, 2026 Portland Tribune article (found in the Piazza search) quotes both mayoral candidates and is used for each. WebFetch caps quotes at ~120 characters so some excerpts are leading fragments of longer bullets."
 }

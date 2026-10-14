@@ -1,0 +1,103 @@
+{
+  "id": "nabil-zaghloul",
+  "name": "Nabil Zaghloul",
+  "name_variants": [],
+  "race_id": "multnomah-county-commissioner-d2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://multco.us/board",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "nabil-zaghloul-b1",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Zaghloul directs the Multnomah County social and economic program Bienestar de la Familia.",
+      "excerpt": "He’s currently the director of Multnomah County Social and Economic program Bienestar de la Familia",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-b2",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Zaghloul has worked for Multnomah County for over 32 years, according to his campaign website.",
+      "excerpt": "Zaghloul has worked for Multnomah County for over 32 years, according to his campaign website.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Attributed claim from his campaign website as reported by the Mercury; attribution kept in the statement."
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "nabil-zaghloul-p1",
+      "topic": "social-services",
+      "statement": "The Portland Mercury reports Zaghloul lists homelessness, behavioral health and public safety among his top priorities.",
+      "excerpt": "Zaghloul’s website lists homelessness, behavior health, and public safety as three of his top priorities.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-p2",
+      "topic": "custom:governance",
+      "statement": "Zaghloul emphasizes prevention, addressing problems before they become crises, according to the Portland Mercury.",
+      "excerpt": "focused on prevention, addressing problems before they become crises",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [
+    "Voters' pamphlet statement not readable (PDF fetch cut off before p. 46)",
+    "Campaign website mentioned by the Mercury but its domain not confirmed in a T1/T3 source",
+    "Candidate filing PDF had no readable fields",
+    "No T1 source for bio facts",
+    "Individual voters' pamphlet statement PDF on multco.us is a scan with no machine-readable text"
+  ],
+  "voting_record": [],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Source-access disparity, not candidate disparity: the large-print/full pamphlet PDFs are only readable through Broussard and the start of Greene's statements, and the individual statement PDFs for Broussard, Greene, Williams, Ong Norris and Zaghloul are scans with no machine-readable text. Cruz and Robertson have readable individual statements, so they have T1 positions; Williams, Ong Norris and Zaghloul have only T3 (Portland Mercury 2026-09-26) items, and Broussard and Greene mix T1 bio with few positions. Verifier hit the same limits (PDF text truncated at Greene's statement). Same search effort appears applied to all seven; disparity is documented in each file's gaps."
+  }
+}

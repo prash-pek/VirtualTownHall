@@ -1,0 +1,68 @@
+{
+  "id": "laura-maurer-rowan",
+  "name": "Laura Maurer Rowan",
+  "name_variants": [
+    "Laura M Rowan",
+    "Laura Mauer Rowan"
+  ],
+  "race_id": "or-circuit-court-4-pos-2",
+  "party": null,
+  "incumbent": false,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "laura-maurer-rowan-b1",
+      "topic": "custom:bio",
+      "statement": "Willamette Week describes Maurer Rowan as a senior assistant attorney general at the Oregon Department of Justice.",
+      "excerpt": "Maurer Rowan, a senior assistant attorney general at the Oregon Department of Justice.",
+      "source": {
+        "url": "https://www.wweek.com/news/county/2026/05/19/embattled-multnomah-county-circuit-judge-poised-to-lose-seat",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-05-19",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Article also reports polling; only the descriptive job title is used."
+      }
+    },
+    {
+      "id": "laura-maurer-rowan-b2",
+      "topic": "custom:bio",
+      "statement": "Willamette Week reports Maurer Rowan is the daughter of two judges.",
+      "excerpt": "The daughter of two judges",
+      "source": {
+        "url": "https://wweek.com/news/2026/04/29/wws-may-2026-endorsements-circuit-court-judges",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-04-29",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "From WW's endorsement article; the excerpt is a descriptive fact. The rest of WW's sentence ('largely worked on the law-and-order side of the ledger') is evaluative and correctly omitted."
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement not readable (PDF fetch cut off before pp. 59-61)",
+    "No campaign website found in a T1/T3 source",
+    "Judicial candidate: no issue positions collected (judicial ethics)"
+  ],
+  "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Both candidates have two comparable T3 bio items from the same two Willamette Week articles; descriptive facts only, no endorsement or polling content used. State voters' pamphlet judicial statements not readable by collector; oregonvotes.gov military-guide pages for these candidates now redirect (unreachable). Same-name risk for Diane Sykes (federal 7th Circuit judge) checked: no federal-judge content. File-level: incumbent set false per ballot directive (no incumbent designation for Position 2). Name matches ballot directive."
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "id": "nicole-morrisey-odonnell",
+  "name": "Nicole Morrisey O'Donnell",
+  "name_variants": [
+    "Nicole Morrisey O’Donnell"
+  ],
+  "race_id": "multnomah-county-sheriff",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.mcso.us/about-mcso/meet-sheriff",
+  "occupation": "Multnomah County Sheriff",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "nicole-morrisey-odonnell-b1",
+      "topic": "custom:bio",
+      "statement": "Morrisey O'Donnell is the 41st Multnomah County Sheriff and the first woman to hold the office.",
+      "excerpt": "Sheriff Nicole Morrisey O’Donnell is proud to serve as the first female sheriff, and the 41st, of Multnomah County.",
+      "source": {
+        "url": "https://www.mcso.us/about-mcso/meet-sheriff",
+        "publisher": "Multnomah County Sheriff's Office",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Bio fact from official agency page: T1 (government publication). Page last modified 2025-12-23."
+      }
+    },
+    {
+      "id": "nicole-morrisey-odonnell-b2",
+      "topic": "custom:bio",
+      "statement": "She began her career at the Multnomah County Sheriff's Office in 1996 as a corrections deputy.",
+      "excerpt": "She started her public safety career at the Multnomah County Sheriff’s Office in 1996, as a corrections deputy",
+      "source": {
+        "url": "https://www.mcso.us/about-mcso/meet-sheriff",
+        "publisher": "Multnomah County Sheriff's Office",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nicole-morrisey-odonnell-b3",
+      "topic": "custom:bio",
+      "statement": "She holds a criminal justice degree from the University of Portland, according to the MCSO website.",
+      "excerpt": "after graduating from the University of Portland with a degree in criminal justice.",
+      "source": {
+        "url": "https://www.mcso.us/about-mcso/meet-sheriff",
+        "publisher": "Multnomah County Sheriff's Office",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nicole-morrisey-odonnell-b4",
+      "topic": "custom:bio",
+      "statement": "She served in many roles at MCSO from deputy to undersheriff before becoming sheriff.",
+      "excerpt": "served in many capacities from deputy to undersheriff",
+      "source": {
+        "url": "https://www.mcso.us/about-mcso/meet-sheriff",
+        "publisher": "Multnomah County Sheriff's Office",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "nicole-morrisey-odonnell-p1",
+      "topic": "gun-policy",
+      "statement": "The sheriff's official page lists reducing gun violence through data-driven strategies and building bridges with affected communities as a priority.",
+      "excerpt": "reducing gun violence through data-driven strategies by building bridges with communities most impacted",
+      "source": {
+        "url": "https://www.mcso.us/about-mcso/meet-sheriff",
+        "publisher": "Multnomah County Sheriff's Office",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Official office page (mcso.us) for a sitting official: positions/priorities tiered T2 (policy §1 lists incumbents' official office pages as T2); biographical facts from the same page kept T1. Page last modified 2025-12-23."
+      }
+    },
+    {
+      "id": "nicole-morrisey-odonnell-p2",
+      "topic": "healthcare",
+      "statement": "The sheriff's official page lists investing in alternative service models for people struggling with mental health.",
+      "excerpt": "investing in alternative service models that provide better resources for those struggling with mental health",
+      "source": {
+        "url": "https://www.mcso.us/about-mcso/meet-sheriff",
+        "publisher": "Multnomah County Sheriff's Office",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Official office page; T2 per the consistent rule (see p1)."
+      }
+    },
+    {
+      "id": "nicole-morrisey-odonnell-p3",
+      "topic": "public-safety",
+      "statement": "The sheriff's official page lists investing in sustainable recruiting and retention strategies for the agency.",
+      "excerpt": "invest in sustainable recruiting and retention strategies to promote long-term agency growth and health of our employees",
+      "source": {
+        "url": "https://www.mcso.us/about-mcso/meet-sheriff",
+        "publisher": "Multnomah County Sheriff's Office",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Official office page; T2 per the consistent rule (see p1)."
+      }
+    },
+    {
+      "id": "nicole-morrisey-odonnell-p4",
+      "topic": "public-safety",
+      "statement": "In a March 2026 MCSO release, Morrisey O'Donnell said the corrections division is central to a well-functioning public safety system.",
+      "excerpt": "Our corrections division is central to a well-functioning public safety system.",
+      "source": {
+        "url": "https://www.mcso.us/news-information/sheriff-nicole-morrisey-odonnell-reports-50-increase-hiring-applauds-county",
+        "publisher": "Multnomah County Sheriff's Office",
+        "tier": "T2",
+        "published_at": "2026-03-19",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "MCSO release dated 2026-03-19, quote attributed to the sheriff; T2 per the consistent rule."
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "2026 voters' pamphlet statement not readable (PDF fetch cut off before p. 48)",
+    "No 2026 campaign website found in a T1/T3 source",
+    "No 2026 T3 coverage of the Sheriff race found (only 2023-2025 coverage of her tenure)",
+    "Unopposed race",
+    "Individual voters' pamphlet statement PDF on multco.us is a scan with no machine-readable text"
+  ],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Unopposed incumbent. Bio T1 and priorities T2 from mcso.us (official office page; consistent rule: bio facts T1, positions T2). 2026 pamphlet statement unreadable (scan); verifier spot-search found only the DPSST eligibility letter (no content) and pre-2026 coverage."
+  }
+}
