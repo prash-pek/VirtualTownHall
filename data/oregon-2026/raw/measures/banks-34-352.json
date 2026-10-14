@@ -1,0 +1,95 @@
+{
+  "id": "banks-34-352",
+  "jurisdiction_id": "banks",
+  "number": "34-352",
+  "title": "Levy to fund dedicated Washington County Law Enforcement Services",
+  "ballot_label": "Levy to fund dedicated Washington County Law Enforcement Services",
+  "summary": "The City of Banks asks voters to approve a local option property tax levy to fund dedicated law enforcement services from Washington County. The levy rate, term and estimated revenue are in the official ballot title, which could not be read in machine-readable form during collection.",
+  "yes_means": "A yes vote approves the City of Banks levy to fund dedicated Washington County law enforcement services, as described in the ballot caption.",
+  "no_means": "A no vote rejects the City of Banks levy to fund dedicated Washington County law enforcement services.",
+  "fiscal_impact": null,
+  "full_text_url": "https://www.washingtoncountyor.gov/elections/documents/34-352-levy-fund-dedicated-washington-county-law-enforcement-services/download?inline",
+  "arguments": [],
+  "topics": [
+    "public-safety",
+    "taxes"
+  ],
+  "gaps": [
+    "No YES arguments collected: the county voters' pamphlet measure page (WC-55) could not be read, and no attributed supporting statement for the 2026 measure was found.",
+    "No NO arguments collected: the pamphlet measure page could not be read, and no attributed opposition statement was found.",
+    "Ballot question, summary, levy rate, term and explanatory statement not collected: the county ballot-title PDF is a scanned image and no City of Banks web page for the measure was found."
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/current-voters-pamphlet",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/34-352-levy-fund-dedicated-washington-county-law-enforcement-services/download?inline",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (measure page WC-55)",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "WebSearch: City of Banks Oregon law enforcement levy November 2026 sheriff contract",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "WebSearch: cityofbanks.org law enforcement local option levy 2026 resolution",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "WebSearch: \"City of Banks\" Oregon \"local option levy\" law enforcement",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: Banks \"34-352\" law enforcement levy Washington County sheriff 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: bankspost.com levy law enforcement Banks city council November ballot",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.bankspost.com/banks-voters-on-track-to-approve-police-funding-measure",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.bankspost.com/?p=556",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: Banks Oregon city police levy renewal 2026 deputies Washington County Sheriff's Office",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: Banks Oregon \"Measure 34-352\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch allowed_domains (T3 list)",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Oregon local ballot titles have no official result-of-vote text; yes_means/no_means are neutral one-sentence descriptions written by the collector strictly from the official ballot caption/question. Only the caption is available; it is quoted from the Washington County current-election page link text and matches inventory.json. Number and jurisdiction (City of Banks) match the inventory. Context not used as content: a Banks Post article (Nov 2, 2021) reports that Banks voters approved a five-year levy (Measure 34-306) starting in 2022 to pay for Washington County Sheriff's deputies, which suggests 34-352 is a renewal, but no 2026 source confirms this. The Washington County Nov 3, 2026 voters' pamphlet lists this measure in its table of contents, but the fetchable text layer of the PDF ends at about page WC-29 (119,746 characters), so the measure pages (ballot title, explanatory statement, arguments) could not be read. The county ballot-title PDF linked from the current-election page is a scanned image with no machine-readable text. A verifier or human with a PDF/OCR viewer should check the pamphlet measure pages for filed arguments. The session-wide WebSearch budget ran out before the final per-side '\"Measure <number>\" <jurisdiction>' search could be run; the allowed_domains T3 search was rejected by the search proxy (HTTP 400) on every attempt, so T3 coverage relies on plain searches. Outlet-specific follow-up searches were not possible."
+}

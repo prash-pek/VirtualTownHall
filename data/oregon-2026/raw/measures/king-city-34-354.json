@@ -1,0 +1,121 @@
+{
+  "id": "king-city-34-354",
+  "jurisdiction_id": "king-city",
+  "number": "34-354",
+  "title": "City of King City Charter Modernization Amendment",
+  "ballot_label": "City of King City Charter Modernization Amendment",
+  "summary": "King City asks voters to amend its city charter. Your Oregon News reports the proposal would let the council consider councilor compensation through the budget process, keep the council's power to fill vacancies by appointment, allow creation of an urban renewal agency, remove the 2012 voter-approval requirement for rail transit spending, and shorten the preamble. If rejected, the current charter remains.",
+  "yes_means": "A yes vote adopts the City of King City Charter Modernization Amendment, changing the city charter.",
+  "no_means": "A no vote leaves the current King City charter in effect without the proposed amendment.",
+  "fiscal_impact": null,
+  "full_text_url": "https://www.washingtoncountyor.gov/elections/documents/34-354-city-king-city-charter-modernization-amendment/download?inline",
+  "arguments": [
+    {
+      "id": "king-city-34-354-n1",
+      "side": "no",
+      "kind": "argument",
+      "author": "Howard Suesserman, candidate for King City Council",
+      "topic": "custom:governance",
+      "statement": "In his voters' pamphlet candidate statement, King City Council candidate Howard Suesserman says Measure 34-354 would update the city charter but does not let citizens directly elect their mayor.",
+      "excerpt": "The November ballot includes Measure 34-354 to update the city charter, but it fails to let citizens directly elect their mayor.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-19)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "custom:governance"
+  ],
+  "gaps": [
+    "No YES arguments collected: the county voters' pamphlet measure pages (WC-57 to WC-58) could not be read, and no attributed supporting statement was found; Your Oregon News (Sept 28, 2026) reports council approval but quotes no one.",
+    "NO side has only one item, from a candidate statement rather than a filed measure argument; filed pamphlet arguments, if any, could not be read.",
+    "Ballot question, summary and explanatory statement not collected: the county ballot-title PDF is a scanned image and the city's charter page links only the current charter."
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/current-voters-pamphlet",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/34-354-city-king-city-charter-modernization-amendment/download?inline",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (measure pages WC-57-58)",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (candidate statements, WC-19)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.ci.king-city.or.us/government/mayor_and_council/city_charter.php",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.ci.king-city.or.us/news_detail_T11_R298.php",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: King City \"34-354\" charter modernization amendment 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: King City Oregon charter amendment November 2026 ballot mayor elected council",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: \"King City\" Oregon charter review committee 2026 charter modernization",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://youroregonnews.com/2026/09/28/king-city-to-ask-for-charter-amendments-on-filling-vacancies-possible-council-compensation/",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: \"King City\" Suesserman charter measure mayor directly elect",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: King City charter amendment November 2026 opposition rail transit urban renewal residents",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: King City Oregon charter measure 2026 council supports vote yes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch allowed_domains (T3 list)",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: \"Measure 34-354\" King City",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Oregon local ballot titles have no official result-of-vote text; yes_means/no_means are neutral one-sentence descriptions written by the collector strictly from the official ballot caption/question. Caption quoted from the Washington County current-election page link text; matches inventory.json; number and jurisdiction match. Summary content comes from Your Oregon News, Ray Pitz, Sept 28, 2026 (T3; youroregonnews.com is the Carpenter Media Group site that carries former Pamplin Media coverage; the article does not name the measure number but describes King City's Nov 3 charter measure). Verbatim support: compensation: 'would allow councilors to look at such a proposal and seek approval during the city’s annual budget process.'; urban renewal: 'ensures that the council is not prevented from creating an urban renewal agency.'; rail: 'That language has been entirely removed as part of the proposed charter amendments.'; rejection: 'If the measure does not pass, the current charter will remain in effect.' The NO-side item is from a council candidate's pamphlet statement, not a filed measure argument. A citizenportal.ai result (AI summary site, excluded) said the council debated enabling an elected mayor; not used. The Washington County Nov 3, 2026 voters' pamphlet lists this measure in its table of contents, but the fetchable text layer of the PDF ends at about page WC-29 (119,746 characters), so the measure pages (ballot title, explanatory statement, arguments) could not be read. The county ballot-title PDF linked from the current-election page is a scanned image with no machine-readable text. A verifier or human with a PDF/OCR viewer should check the pamphlet measure pages for filed arguments. The session-wide WebSearch budget ran out before the final per-side '\"Measure <number>\" <jurisdiction>' search could be run; the allowed_domains T3 search was rejected by the search proxy (HTTP 400) on every attempt, so T3 coverage relies on plain searches. Outlet-specific follow-up searches were not possible."
+}

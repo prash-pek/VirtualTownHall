@@ -1,0 +1,138 @@
+{
+  "id": "reynolds-sd-7-26-268",
+  "jurisdiction_id": "reynolds-sd-7",
+  "number": "26-268",
+  "title": "Bonds to Increase Safety, Security; Repair, Construct Schools; Increase Accessibility",
+  "ballot_label": "Caption: Bonds to Increase Safety, Security; Repair, Construct Schools; Increase Accessibility. Question: Shall District issue bonds, projected to maintain 2026 bond rate, to increase safety, repair, replace aging schools and increase accessibility? If the bonds are approved, they will be payable from taxes on property or property ownership that are not subject to the limits of sections 11 and 11b, Article XI of the Oregon Constitution.",
+  "summary": "Reynolds School District No. 7 asks to issue $162.5 million in general obligation bonds for capital projects: replacing Glenfair Elementary; districtwide roofing, HVAC, plumbing, electrical and water heater work; fire alarm, PA and perimeter security systems; ADA upgrades; and other projects including a turf field at Reynolds High School. A community oversight committee and regular audits would be required.",
+  "yes_means": "A yes vote authorizes Reynolds School District to issue $162.5 million in bonds, repaid from property taxes, for safety, security, school repair and replacement, and accessibility projects.",
+  "no_means": "A no vote does not authorize the district to issue the proposed bonds.",
+  "fiscal_impact": "Principal of $162.5 million. Projected to maintain the district's 2026 bond levy rate of $1.62 per $1,000 of assessed value, with no increase expected. If passed, the district would receive $8,168,000 in state matching funds through the Oregon School Capital Improvement Match Program.",
+  "full_text_url": "https://multco.us/file/measure_26-268/download",
+  "arguments": [
+    {
+      "id": "reynolds-sd-7-26-268-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Reynolds School District (explanatory statement)",
+      "topic": "education",
+      "statement": "The district's explanatory statement says the bond would replace the 72-year-old Glenfair school, which it describes as overcrowded, containing hazardous materials, and with building and security systems beyond repair.",
+      "excerpt": "Replace the 72-year-old school, which is overcrowded, contains hazardous materials, and has building and security systems beyond repair;",
+      "source": {
+        "url": "https://multco.us/info/measure-26-268-bonds-increase-safety-security-repair-construct-schools-increase-accessibility",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-y2",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Reynolds School District (explanatory statement)",
+      "topic": "education",
+      "statement": "The explanatory statement says the district would receive $8,168,000 in state matching funds only if the bond passes.",
+      "excerpt": "Additionally, the District would receive $8,168,000 in state matching funds through the Oregon School Capital Improvement Match Program, but only if the bond measure passes.",
+      "source": {
+        "url": "https://multco.us/info/measure-26-268-bonds-increase-safety-security-repair-construct-schools-increase-accessibility",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "education",
+    "taxes"
+  ],
+  "gaps": [
+    "No NO arguments found: no opposition statement in any reachable official source or T3 outlet; voters' pamphlet arguments section could not be read.",
+    "No T3 news coverage of the 2026 bond measure was found.",
+    "Official voters' pamphlet arguments (yes and no) could not be read: the county pamphlet PDF text is truncated before the measures section."
+  ],
+  "collection_notes": "Voters' pamphlet: the SOS Book 13 PDF text (120,052 chars) ends at the statewide section; the multco.us English (104,260 chars) and large-print (105,643 chars) county pamphlet PDFs are cut off by WebFetch text extraction in the candidate statements, before the Measures & Arguments section, so printed pamphlet arguments (if any) could not be read. The SOS Spanish-language Multnomah guide (ES-MUL-1126) was checked only to see whether arguments exist: per the fetch tool it prints the measure and an explanation for each of 26-265 to 26-269 but no argument sections; translated guides may omit arguments, so this is not conclusive. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction (Reynolds School District No. 7) match the multco.us page and filings list (filed 8/31/2026). The full question's constitutional-limits sentence is quoted in the ballot_label as paraphrased by the fetch tool from the measure page ('payable from taxes ... not subject to the limits of sections 11 and 11b, Article XI'); verifier should confirm exact wording. The Spanish guide names the explanatory statement's furnisher as Frank Caropelo, superintendent; not confirmed on the English page. The measure page refers voters to ReynoldsSchoolBond.org, but no fetchable page from that domain was returned by search, so it is not cited. Both y items come from the district-written explanatory statement (kind explainer), not filed arguments. The same search set was run for yes and no.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "result": "not found"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/ES-MUL-1126-vp.pdf",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/ballot-measure-filings-november-2026-general-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/measure-26-268-bonds-increase-safety-security-repair-construct-schools-increase-accessibility",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/notice-measure-referral-reynolds-school-district",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://multco.us/file/measure_26-268/download",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://multco.us/file/bonds_to_increase_safety,_security;_repair,_construct_schools;_increase_accessibility/download",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "reynolds.k12.or.us 2026 bond measure Glenfair replacement",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "\"Measure 26-268\" Reynolds School District bond",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Reynolds School District $162.5 million bond November 2026 Glenfair",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Reynolds School District bond 2026 opposition taxpayers vote no",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "ReynoldsSchoolBond.org",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://flashalert.net/id/RSD7/117025",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "T3 allowed-domain searches run singly (multi-domain rejected by proxy): opb.org, katu.com",
+      "result": "nothing relevant"
+    }
+  ]
+}
