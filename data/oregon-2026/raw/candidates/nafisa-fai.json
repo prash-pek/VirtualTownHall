@@ -7,8 +7,8 @@
   "incumbent": false,
   "incumbent_source_url": "https://www.washingtoncountyor.gov/bcc",
   "occupation": "Washington County Commissioner",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "https://nafisaforwashingtoncounty.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
   "bio": [
     {
       "id": "nafisa-fai-b1",
@@ -171,7 +171,6 @@
   ],
   "voting_record": [],
   "gaps": [
-    "No campaign website confirmed via an official or T3 source",
     "KOIN interview on data centers could not be fetched (client error)"
   ],
   "collection_log": [
@@ -192,8 +191,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "no campaign domain listed in pamphlet text returned by fetch",
-      "result": "not found"
+      "query_or_url": "https://nafisaforwashingtoncounty.com",
+      "result": "used"
     },
     {
       "step": "4",
@@ -231,5 +230,5 @@
       "result": "blocked"
     }
   ],
-  "collection_notes": "Board page (washingtoncountyor.gov/bcc) lists Fai as District 1 Commissioner and Treece as District 2 Commissioner; neither holds the at-large Chair seat, so incumbent=false for this race. The board page also reports Chair Kathryn Harrington announced her resignation (Sept 2026), so the Chair seat is vacant/pro tem until the election. Pamphlet quotes are capped at ~125 characters by the fetch tool, so items use short excerpts."
+  "collection_notes": "Board page (washingtoncountyor.gov/bcc) lists Fai as District 1 Commissioner and Treece as District 2 Commissioner; neither holds the at-large Chair seat, so incumbent=false for this race. The board page also reports Chair Kathryn Harrington announced her resignation (Sept 2026), so the Chair seat is vacant/pro tem until the election. Campaign domains are printed in the county pamphlet statements. Fai's site still describes her as running for a second term (2024 content), so no items were taken from it; Treece's site duplicated pamphlet themes, so no separate items. Pamphlet quotes are capped at ~125 characters by the fetch tool, so items use short excerpts."
 }
