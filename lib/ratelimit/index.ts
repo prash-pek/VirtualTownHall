@@ -3,7 +3,7 @@ import "server-only";
 import { Ratelimit } from "@upstash/ratelimit";
 import { Redis } from "@upstash/redis";
 
-import { env } from "@/lib/env";
+import { redisConfig } from "@/lib/env";
 
 import { limits, type LimitName } from "./limits";
 
@@ -13,10 +13,9 @@ const limiters = new Map<LimitName, Ratelimit>();
 function getLimiter(name: LimitName): Ratelimit {
   let limiter = limiters.get(name);
   if (!limiter) {
-    if (!env.UPSTASH_REDIS_REST_URL || !env.UPSTASH_REDIS_REST_TOKEN) {
-      throw new Error("Upstash Redis is not configured");
-    }
-    redis ??= new Redis({ url: env.UPSTASH_REDIS_REST_URL, token: env.UPSTASH_REDIS_REST_TOKEN });
+    const config = redisConfig();
+    if (!config) throw new Error("Upstash Redis is not configured");
+    redis ??= new Redis(config);
     const { tokens, window } = limits[name];
     limiter = new Ratelimit({ redis, limiter: Ratelimit.slidingWindow(tokens, window), prefix: `rl:${name}` });
     limiters.set(name, limiter);

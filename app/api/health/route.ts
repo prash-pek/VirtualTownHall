@@ -2,7 +2,7 @@ import { sql } from "drizzle-orm";
 import { NextResponse } from "next/server";
 
 import { getDb } from "@/lib/db/client";
-import { clerkEnabled, env } from "@/lib/env";
+import { clerkEnabled, env, redisConfig } from "@/lib/env";
 
 export const dynamic = "force-dynamic";
 
@@ -20,6 +20,6 @@ export async function GET() {
   return NextResponse.json({
     database,
     auth: clerkEnabled() ? "ok" : "unconfigured",
-    ratelimit: env.UPSTASH_REDIS_REST_URL && env.UPSTASH_REDIS_REST_TOKEN ? "ok" : "unconfigured",
+    ratelimit: redisConfig() ? "ok" : "unconfigured",
   });
 }
