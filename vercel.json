@@ -3,6 +3,8 @@
   "outputDirectory": "frontend/dist",
   "rewrites": [
     { "source": "/api/:path*", "destination": "https://virtualtownhall-production.up.railway.app/api/:path*" },
+    { "source": "/townhallai", "destination": "https://townhallai.outsetinno.com/townhallai" },
+    { "source": "/townhallai/:path*", "destination": "https://townhallai.outsetinno.com/townhallai/:path*" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
