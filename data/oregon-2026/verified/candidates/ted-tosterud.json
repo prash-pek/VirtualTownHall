@@ -13,7 +13,7 @@
     {
       "id": "ted-tosterud-b1",
       "topic": "custom:bio",
-      "statement": "In his voters' pamphlet statement, Tosterud lists his occupation as retired and past work at Quest Diagnostics and as owner of Northwest Medical Laboratories.",
+      "statement": "In his voters' pamphlet statement, Tosterud lists past work in operations at Quest Diagnostics and as owner of Northwest Medical Laboratories.",
       "excerpt": "Direction of Operations; Quest Diagnostics, Inc. Owner Northwest Medical Laboratories Inc.;",
       "source": {
         "url": "https://multco.us/file/fairview_pos_5_ted_tosterud/download",
@@ -23,9 +23,11 @@
         "retrieved_at": "2026-10-14"
       },
       "verification": {
-        "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt present (pamphlet reads 'Direction of Operations' as printed). Occupation 'Retired' confirmed.",
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt present ('Direction of Operations' as printed). Statement also said his occupation is retired, which is not in the excerpt (it is under a separate heading and is kept in the file-level occupation field); removed from the statement.",
         "verified_at": "2026-10-14"
       }
     },
@@ -172,8 +174,8 @@
     "Incumbency not determined (Fairview council roster unreadable)"
   ],
   "verification_summary": {
-    "verified": 8,
-    "corrected": 0,
+    "verified": 7,
+    "corrected": 1,
     "rejected": 0,
     "balance_notes": "Unopposed race (fairview-council-pos-5). Pamphlet-only profile; spot-search found no missed T1/T2/T3 material. Incumbency left null: statement lists 'Fairview City Councilor' under prior governmental experience with no dates, and Fairview's council roster cannot be fetched (robots). Statement email ttost@comcast.net; no website, consistent with the gap."
   }

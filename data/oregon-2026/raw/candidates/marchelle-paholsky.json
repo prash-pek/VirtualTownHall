@@ -1,0 +1,141 @@
+{
+  "id": "marchelle-paholsky",
+  "name": "Marchelle Paholsky",
+  "name_variants": [],
+  "race_id": "happy-valley-council-pos-1",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.happyvalleyor.gov/general-election-november-3-2026-open-positions/",
+  "occupation": "Non-Profit Director, Community Organizer",
+  "website_url": "https://www.marchelle4happyvalley.com",
+  "website_verified_via": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "marchelle-paholsky-b1",
+      "topic": "custom:bio",
+      "statement": "Paholsky's pamphlet statement lists work as director of strategy at the U.S. Department of Energy and grassroots organizing.",
+      "excerpt": "US Department of Energy - Director of Strategy; grassroots organizing in public and non-profit",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "marchelle-paholsky-b2",
+      "topic": "custom:bio",
+      "statement": "Paholsky's pamphlet statement lists service as a U.S. Army master sergeant and Happy Valley planning commissioner.",
+      "excerpt": "United States Army Master Sergeant, Happy Valley Planning Commissioner,",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "marchelle-paholsky-p1",
+      "topic": "custom:growth",
+      "statement": "In her voters' pamphlet statement, Paholsky says Happy Valley needs strong leadership to manage change in Oregon's fastest-growing city.",
+      "excerpt": "Happy Valley needs strong leadership to manage the inevitable changes in Oregon’s fastest growing city.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "marchelle-paholsky-p2",
+      "topic": "transportation",
+      "statement": "Paholsky's pamphlet statement says she would improve transportation corridors to reduce congestion, enhance safety and move commercial traffic to safer zones.",
+      "excerpt": "Improve our transportation corridors to reduce congestion, enhance safety, and move commercial traffic to safer zones.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "marchelle-paholsky-p3",
+      "topic": "environment",
+      "statement": "Paholsky's pamphlet statement says she would preserve natural resources and expand scenic trails connecting neighborhoods.",
+      "excerpt": "Preserve our natural resources and expand scenic trails that connect our neighborhoods to promote outdoor activities.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "marchelle-paholsky-p4",
+      "topic": "custom:governance",
+      "statement": "Paholsky's campaign site says residents deserve transparent, accountable leadership that listens first and plans wisely.",
+      "excerpt": "I believe residents deserve transparent, accountable leadership that listens first and plans wisely.",
+      "source": {
+        "url": "https://www.marchelle4happyvalley.com",
+        "publisher": "Marchelle Paholsky campaign",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No T3 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-27)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "Planning commissioner (appointed); no official office page found",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.happyvalleyor.gov/general-election-november-3-2026-open-positions/",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.marchelle4happyvalley.com",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Marchelle Paholsky\" Happy Valley 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Marchelle Paholsky\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "not found"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Marchelle Paholsky\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Marchelle Paholsky\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "not found"
+    }
+  ],
+  "collection_notes": "incumbent=false: city notice says Position 1 is held by Joshua Callahan. Pamphlet spells 'Graudate Studies' (sic). Pamphlet also lists precinct committee person and 2024 national delegate roles (party roles, not used)."
+}
