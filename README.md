@@ -43,6 +43,8 @@ Any Postgres 16+ with PostGIS works locally, for example `docker run -e POSTGRES
 ## Database
 
 - Edit `lib/db/schema.ts`, then `npm run db:generate` and commit the new file in `drizzle/`.
+- On Vercel, `vercel-build` runs `scripts/predeploy.ts` first: for the `v2` branch only, it applies migrations and re-runs the inventory import against Neon. Feature-branch previews never migrate the shared database.
+- The Neon integration is connected with the prefix `STORAGE1`, so the app reads `DATABASE_URL` or `STORAGE1_DATABASE_URL` (see `lib/env.ts`).
 - `audit_log` is append-only, enforced by a trigger.
 - Seed imports are idempotent upserts by slug. They never change the `status` of an existing row, so re-running after admin review is safe.
 

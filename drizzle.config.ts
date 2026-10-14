@@ -4,7 +4,13 @@ export default defineConfig({
   schema: "./lib/db/schema.ts",
   out: "./drizzle",
   dialect: "postgresql",
-  dbCredentials: { url: process.env.DATABASE_URL ?? "postgres://localhost:5432/townhall" },
+  dbCredentials: {
+    url:
+      process.env.DATABASE_URL_UNPOOLED ??
+      process.env.STORAGE1_DATABASE_URL_UNPOOLED ??
+      process.env.DATABASE_URL ??
+      "postgres://localhost:5432/townhall",
+  },
   // PostGIS owns these; never diff or drop them.
   extensionsFilters: ["postgis"],
   strict: true,

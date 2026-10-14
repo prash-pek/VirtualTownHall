@@ -3,9 +3,11 @@ import { drizzle } from "drizzle-orm/node-postgres";
 import { migrate } from "drizzle-orm/node-postgres/migrator";
 import { Pool } from "pg";
 
-const url = process.env.DATABASE_URL;
+import { databaseUrlUnpooled } from "../lib/env";
+
+const url = databaseUrlUnpooled();
 if (!url) {
-  console.error("DATABASE_URL is not set");
+  console.error("No database URL is set (DATABASE_URL or STORAGE1_DATABASE_URL)");
   process.exit(1);
 }
 

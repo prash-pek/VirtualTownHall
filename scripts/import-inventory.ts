@@ -14,13 +14,15 @@ import { sql } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/node-postgres";
 import { Pool } from "pg";
 
+import { databaseUrlUnpooled } from "../lib/env";
+
 import * as schema from "../lib/db/schema";
 import { checkInventoryIntegrity, inventorySchema, sortJurisdictionsParentFirst } from "../lib/seed/inventory";
 
 const path = process.argv[2] ?? "data/oregon-2026/inventory.json";
-const url = process.env.DATABASE_URL;
+const url = databaseUrlUnpooled();
 if (!url) {
-  console.error("DATABASE_URL is not set");
+  console.error("No database URL is set (DATABASE_URL or STORAGE1_DATABASE_URL)");
   process.exit(1);
 }
 

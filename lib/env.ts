@@ -6,7 +6,11 @@ import { z } from "zod";
  * each module checks what it needs when it's first used.
  */
 const serverEnv = z.object({
-  DATABASE_URL: z.url().optional(),
+  DATABASE_URL: z.string().min(1).optional(),
+  DATABASE_URL_UNPOOLED: z.string().min(1).optional(),
+  // The Neon integration on Vercel was connected with the prefix STORAGE1.
+  STORAGE1_DATABASE_URL: z.string().min(1).optional(),
+  STORAGE1_DATABASE_URL_UNPOOLED: z.string().min(1).optional(),
   CLERK_SECRET_KEY: z.string().min(1).optional(),
   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY: z.string().min(1).optional(),
   UPSTASH_REDIS_REST_URL: z.url().optional(),
@@ -29,4 +33,14 @@ export function redisConfig(): { url: string; token: string } | null {
   const url = env.UPSTASH_REDIS_REST_URL ?? env.KV_REST_API_URL;
   const token = env.UPSTASH_REDIS_REST_TOKEN ?? env.KV_REST_API_TOKEN;
   return url && token ? { url, token } : null;
+}
+
+/** Pooled Postgres URL for the app. */
+export function databaseUrl(): string | undefined {
+  return env.DATABASE_URL ?? env.STORAGE1_DATABASE_URL;
+}
+
+/** Direct (unpooled) Postgres URL for migrations and bulk imports; falls back to the pooled one. */
+export function databaseUrlUnpooled(): string | undefined {
+  return env.DATABASE_URL_UNPOOLED ?? env.STORAGE1_DATABASE_URL_UNPOOLED ?? databaseUrl();
 }

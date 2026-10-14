@@ -19,7 +19,8 @@
     "db:studio": "drizzle-kit studio",
     "seed:inventory": "tsx scripts/import-inventory.ts",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "vercel-build": "tsx scripts/predeploy.ts && next build"
   },
   "dependencies": {
     "@clerk/nextjs": "^7.9.15",
