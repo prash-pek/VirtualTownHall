@@ -172,7 +172,17 @@
       "step": "6",
       "query_or_url": "https://oregoncapitalchronicle.com/2026/07/22/these-lending-programs-are-helping-underserved-oregonians-buy-homes/",
       "result": "blocked (fetch error)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.greshamoregon.gov/government/elections",
+      "result": "used (city candidate list; links a filing packet per candidate)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.greshamoregon.gov/globalassets/government/candidate-teo-ramirez-seat-4.pdf",
+      "result": "blocked (scan, no machine-readable text)"
     }
   ],
-  "collection_notes": "Not the incumbent: Gresham Meet the Council lists Jerry Hinton in Position 4. Portland Tribune (Nov 2025) identifies Ramirez as a former City of Gresham employee, matching the pamphlet. The OCC lending-program article could not be fetched, so identity was not confirmed and it was not used."
+  "collection_notes": "Not the incumbent: Gresham Meet the Council lists Jerry Hinton in Position 4. Portland Tribune (Nov 2025) identifies Ramirez as a former City of Gresham employee, matching the pamphlet. The OCC lending-program article could not be fetched, so identity was not confirmed and it was not used. The City of Gresham elections page links a filing packet for each candidate; most are scans or forms with personal contact data, so none were used for any Gresham candidate."
 }

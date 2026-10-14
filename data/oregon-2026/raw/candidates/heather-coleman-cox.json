@@ -181,7 +181,17 @@
       "step": "5",
       "query_or_url": "\"Heather Coleman-Cox\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
       "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.greshamoregon.gov/government/elections",
+      "result": "used (city candidate list; links a filing packet per candidate)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.greshamoregon.gov/globalassets/government/candidate-heather-coleman-cox-seat-2.pdf",
+      "result": "nothing relevant (short candidate statement duplicating pamphlet themes; filing packets not used for any Gresham candidate)"
     }
   ],
-  "collection_notes": "Neither Position 2 candidate is the incumbent: Gresham Meet the Council lists Eddy Morales in Position 2. Step 4 returned a greshamoregon.gov PDF profile (candidate-heather-coleman-cox-seat-2.pdf) with no title, date or publisher; not used because no comparable document was found for her opponent. Step 5 results were 2020 Juneteenth and unrelated items. Pamphlet spells the school \"University of Maryand University College\" (typo in original)."
+  "collection_notes": "Neither Position 2 candidate is the incumbent: Gresham Meet the Council lists Eddy Morales in Position 2. Step 4 returned a greshamoregon.gov PDF profile (candidate-heather-coleman-cox-seat-2.pdf) with no title, date or publisher; not used because no comparable document was found for her opponent. Step 5 results were 2020 Juneteenth and unrelated items. Pamphlet spells the school \"University of Maryand University College\" (typo in original). The City of Gresham elections page links a filing packet for each candidate; most are scans or forms with personal contact data, so none were used for any Gresham candidate."
 }

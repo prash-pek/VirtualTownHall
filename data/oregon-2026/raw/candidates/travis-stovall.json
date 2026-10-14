@@ -237,7 +237,17 @@
       "step": "6",
       "query_or_url": "https://portlandtribune.com/2026/10/02/professional-baseball-and-hockey-why-not-gresham/",
       "result": "used (found via the Sue Piazza step-5 search; quotes both mayoral candidates)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.greshamoregon.gov/government/elections",
+      "result": "used (city candidate list; links a filing packet per candidate)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.greshamoregon.gov/globalassets/government/candidate-travis-stovall-mayor.pdf",
+      "result": "blocked (scan, no machine-readable text)"
     }
   ],
-  "collection_notes": "Pamphlet statement PDF has readable text. Campaign domain GreshamTogether.org is printed in the statement. Most T3 search results were 2020-2022 coverage (2020 election, earlier interviews); the one KOIN item fetched had no date or byline and was not used. The Oct 2, 2026 Portland Tribune article (found in the Piazza search) quotes both mayoral candidates and is used for each. WebFetch caps quotes at ~120 characters so some excerpts are leading fragments of longer bullets."
+  "collection_notes": "Pamphlet statement PDF has readable text. Campaign domain GreshamTogether.org is printed in the statement. Most T3 search results were 2020-2022 coverage (2020 election, earlier interviews); the one KOIN item fetched had no date or byline and was not used. The Oct 2, 2026 Portland Tribune article (found in the Piazza search) quotes both mayoral candidates and is used for each. WebFetch caps quotes at ~120 characters so some excerpts are leading fragments of longer bullets. The City of Gresham elections page links a filing packet for each candidate; most are scans or forms with personal contact data, so none were used for any Gresham candidate."
 }

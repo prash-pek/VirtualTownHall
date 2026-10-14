@@ -119,8 +119,21 @@
     {
       "id": "james-rhodes-p5",
       "topic": "taxes",
-      "statement": "In an October 2026 OPB article, Rhodes says he intends to own the sheriff's levy and aims to reduce it to a reasonable rate.",
-      "excerpt": "\"I intend to own the levy,\" Rhodes said. ... He said he aims to reduce the levy to a reasonable rate",
+      "statement": "In an October 2026 OPB article, Rhodes says he intends to own the sheriff's levy.",
+      "excerpt": "\"I intend to own the levy,\" Rhodes said.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/09/clackamas-county-sheriff-office-veterans-vie-for-top-position/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-09",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "james-rhodes-p6",
+      "topic": "taxes",
+      "statement": "OPB reports Rhodes said he aims to reduce the sheriff's levy to a reasonable rate.",
+      "excerpt": "He said he aims to reduce the levy to a reasonable rate",
       "source": {
         "url": "https://www.opb.org/article/2026/10/09/clackamas-county-sheriff-office-veterans-vie-for-top-position/",
         "publisher": "OPB",
@@ -184,5 +197,5 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Incumbent as appointed (interim) sheriff: county elections page lists 'Sheriff James Rhodes' among elected officials; OPB 2026-07-28 says the board appointed him after Sheriff Angela Brandenburg resigned, to serve until a new sheriff is sworn in after the November election. OPB also reports the deputies' union endorsed Rhodes (endorsement, not used). Items p5 excerpt joins two adjacent OPB sentences with an ellipsis."
+  "collection_notes": "Incumbent as appointed (interim) sheriff: county elections page lists 'Sheriff James Rhodes' among elected officials; OPB 2026-07-28 says the board appointed him after Sheriff Angela Brandenburg resigned, to serve until a new sheriff is sworn in after the November election. OPB also reports the deputies' union endorsed Rhodes (endorsement, not used)."
 }

@@ -1,7 +1,9 @@
 {
   "id": "will-delplato",
   "name": "Will DelPlato",
-  "name_variants": [],
+  "name_variants": [
+    "William DelPlato"
+  ],
   "race_id": "gresham-council-pos-2",
   "party": null,
   "incumbent": false,
@@ -188,7 +190,17 @@
       "step": "5",
       "query_or_url": "\"Will DelPlato\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
       "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.greshamoregon.gov/government/elections",
+      "result": "used (city candidate list; links a filing packet per candidate)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.greshamoregon.gov/globalassets/government/candidate-william-delplato-seat-2.pdf",
+      "result": "blocked (scan, no machine-readable text)"
     }
   ],
-  "collection_notes": "Not the incumbent: Gresham Meet the Council lists Eddy Morales in Position 2. All step-5 results were unrelated people/pages."
+  "collection_notes": "Not the incumbent: Gresham Meet the Council lists Eddy Morales in Position 2. All step-5 results were unrelated people/pages. The City of Gresham elections page links a filing packet for each candidate; most are scans or forms with personal contact data, so none were used for any Gresham candidate. City elections page lists him as \"William DelPlato\"."
 }

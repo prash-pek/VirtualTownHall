@@ -1,0 +1,153 @@
+{
+  "id": "marsha-kirk",
+  "name": "Marsha Kirk",
+  "name_variants": [],
+  "race_id": "banks-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.cityofbanks.org/vertical/sites/%7B9449421F-C29B-4D8D-BE42-4EB124C2CA36%7D/uploads/CC_Minutes_2025-02-11.pdf",
+  "occupation": "Mayor of Banks; School Bus Driver; Transportation Administration",
+  "website_url": "https://marshakirk.online",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+  "bio": [
+    {
+      "id": "marsha-kirk-b1",
+      "topic": "custom:bio",
+      "statement": "City council minutes from February 2025 list Kirk as mayor of Banks.",
+      "excerpt": "Mayor Marsha Kirk, Council President Peter Edison, and Councilors Don Giannetti, Marilyn McCalister,",
+      "source": {
+        "url": "https://www.cityofbanks.org/vertical/sites/%7B9449421F-C29B-4D8D-BE42-4EB124C2CA36%7D/uploads/CC_Minutes_2025-02-11.pdf",
+        "publisher": "City of Banks (City Council minutes, Feb. 11, 2025)",
+        "tier": "T1",
+        "published_at": "2025-02-11",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "marsha-kirk-b2",
+      "topic": "custom:bio",
+      "statement": "Kirk's pamphlet statement lists her prior service as mayor since 2025, councilor 2019-2024, and on planning and economic development bodies.",
+      "excerpt": "Mayor, 2025–present; Council, 2019–2024; Planning, 2016–2018; EDC, 2015–2018",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "marsha-kirk-b3",
+      "topic": "custom:bio",
+      "statement": "Kirk's pamphlet statement lists a background in public-sector administration, code compliance inspection and small business ownership.",
+      "excerpt": "Public-sector administration and records; Code Compliance Inspector; Small Business Owner",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "marsha-kirk-b4",
+      "topic": "custom:bio",
+      "statement": "Kirk's pamphlet statement lists an associate degree in criminal justice from Portland Community College.",
+      "excerpt": "Portland Community College; Associate Degree, Criminal Justice/Applied Science",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "marsha-kirk-p1",
+      "topic": "custom:growth",
+      "statement": "In her voters' pamphlet statement, Kirk says Banks planned for growth and that growth has now arrived.",
+      "excerpt": "Banks has planned for growth, and now it’s here.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "marsha-kirk-p2",
+      "topic": "custom:growth",
+      "statement": "Kirk's pamphlet statement says growth will change the size of Banks but does not have to change its character.",
+      "excerpt": "Growth will change the size of Banks. It doesn’t have to change our heart, too.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign website blocked automated fetch",
+    "No press coverage of her 2026 positions found",
+    "Pamphlet statement offers few specific policy positions"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.cityofbanks.org/meetmayor-council",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.cityofbanks.org/vertical/sites/%7B9449421F-C29B-4D8D-BE42-4EB124C2CA36%7D/uploads/CC_Minutes_2025-02-11.pdf",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://marshakirk.online",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Marsha Kirk\" Banks mayor 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Marsha Kirk\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Marsha Kirk\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Marsha Kirk\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.bankspost.com/mayor-marsha-kirk-files-for-reelection-setting-up-a-two-way-race/",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Banks certification letter PDF returned no machine-readable text, and the city's council roster page (cityofbanks.org/meetmayor-council) blocks automated fetch. Incumbency is taken from the City of Banks council minutes of Feb. 11, 2025 (T1), which list Mayor Marsha Kirk and Councilors Peter Edison, Don Giannetti, Marilyn McCalister, Niki Walters, Pearcia Bogroff and Stephanie Jones. Banks Post (bankspost.com, bylined local newspaper by Chas Hundley) is treated as T3. Step 5 searches found no coverage of Banks candidates in the fixed outlet groups. Banks Post (Aug. 6, 2026) also describes Kirk as the mayor filing for reelection to a two-year term. Campaign domain printed in her pamphlet statement."
+}

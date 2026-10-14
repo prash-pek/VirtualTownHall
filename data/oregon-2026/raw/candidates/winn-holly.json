@@ -1,0 +1,173 @@
+{
+  "id": "winn-holly",
+  "name": "Winn Holly",
+  "name_variants": [],
+  "race_id": "maywood-park-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://cityofmaywoodpark.com/government/council-staff",
+  "occupation": "Registered Nurse BSN",
+  "website_url": "https://winnholly.com",
+  "website_verified_via": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+  "bio": [
+    {
+      "id": "winn-holly-b1",
+      "topic": "custom:bio",
+      "statement": "In their voters' pamphlet statement, Holly lists their occupation as registered nurse and says they have worked as a nurse for 15 years.",
+      "excerpt": "I've worked as a registered nurse for 15 years,",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "winn-holly-b2",
+      "topic": "custom:bio",
+      "statement": "Holly's pamphlet statement lists work as an OFNHP union steward, a Nature in Neighborhood grant committee member, and AmeriCorps VISTA service.",
+      "excerpt": "OFNHP 5017 Union steward Nature in Neighborhood grant committee member Americorp VISTA with Habitat for Humanity",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "winn-holly-b3",
+      "topic": "custom:bio",
+      "statement": "Holly's pamphlet statement lists Creighton University School of Nursing as their education.",
+      "excerpt": "Creighton University School of Nursing",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "winn-holly-b4",
+      "topic": "custom:bio",
+      "statement": "Holly's pamphlet statement describes them as a queer, trans, nonbinary Maywood Park resident and parent of three grown children.",
+      "excerpt": "I'm a queer, trans, nonbinary resident of Maywood Park, proud parent of three grown children,",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "winn-holly-p1",
+      "topic": "environment",
+      "statement": "In their pamphlet statement, Holly lists sustainability investments that leave Maywood Park healthier and more resilient as a priority.",
+      "excerpt": "Sustainability — investments that leave Maywood Park healthier and more resilient than we found it",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "winn-holly-p2",
+      "topic": "taxes",
+      "statement": "Holly's pamphlet statement lists transparent spending accountable to residents as a priority.",
+      "excerpt": "Responsible budgeting — spending that's transparent and accountable to residents",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "winn-holly-p3",
+      "topic": "custom:governance",
+      "statement": "Holly's pamphlet statement lists community connection, making sure residents know their voice shapes the city.",
+      "excerpt": "Real community connection — making sure every resident isn't just welcomed, but knows their voice shapes",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "winn-holly-p4",
+      "topic": "custom:governance",
+      "statement": "Holly's pamphlet statement says local government works best when everyone has a voice.",
+      "excerpt": "I'm running because I believe local government works best when everyone has a voice,",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record (has not held public office)",
+    "No T3 coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "used (Candidate Index only)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://cityofmaywoodpark.com/government/council-staff",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "winnholly.com",
+      "result": "used (domain printed in pamphlet statement; recorded as website_url, site not fetched)"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Winn Holly\" Maywood Park 2026",
+      "result": "nothing relevant (Wikipedia excluded)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Winn Holly\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Winn Holly\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Winn Holly\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Not on the current council roster. Maywood Park council roster (council-staff page) lists Jim Akers, Kevin Bussema (Council President), Jeff Baltzell, Miriam Berman and Thomas Welander. Statement uses first person and describes the candidate as nonbinary; profile uses \"they/their\" and the surname."
+}

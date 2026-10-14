@@ -1,0 +1,77 @@
+{
+  "id": "dan-miller",
+  "name": "Dan Miller",
+  "name_variants": [
+    "Daniel Miller"
+  ],
+  "race_id": "gresham-council-pos-6",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.greshamoregon.gov/meet-the-council",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement filed (asterisk in the Nov 2026 county pamphlet Candidate Index; none in the Military & Overseas guide)",
+    "City filing packet PDF is a scan with no machine-readable text",
+    "No T3 coverage identifiable as this candidate (common name; results were other people)",
+    "No occupation, background or positions found in any T1/T2/T3 source",
+    "No campaign website found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "not found (no statement listed for Dan Miller under Gresham Position 6)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "used (Candidate Index marks him with asterisk: no statement filed)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.greshamoregon.gov/meet-the-council",
+      "result": "used (roster for incumbency)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.greshamoregon.gov/government/elections",
+      "result": "used (lists \"Daniel Miller\" as qualified for Position 6)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.greshamoregon.gov/globalassets/government/candidate-dan-miller-seat-6.pdf",
+      "result": "blocked (scan, no machine-readable text)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no domain in any T1/T3 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Dan Miller\" Gresham city council 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Dan Miller\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (other people)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Dan Miller\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (other people)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Dan Miller\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Not the incumbent: Gresham Meet the Council lists Janine Gladfelter in Position 6. City elections page lists him as \"Daniel Miller\". Because \"Dan Miller\" is a common name, the step-5 allowed-domain searches used \"Dan Miller\" Gresham rather than the bare name; all results were unrelated people. No statement filed in the voters' guide."
+}
