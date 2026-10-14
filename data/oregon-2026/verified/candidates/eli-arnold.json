@@ -1,0 +1,221 @@
+{
+  "id": "eli-arnold",
+  "name": "Eli Arnold",
+  "name_variants": [],
+  "race_id": "portland-council-d4",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "Bicycle Cop",
+  "website_url": "https://eliforportland.com",
+  "website_verified_via": "https://multco.us/file/portland_dist_4_eli_arnold/download",
+  "bio": [
+    {
+      "id": "eli-arnold-b1",
+      "topic": "custom:bio",
+      "statement": "Arnold's voters' pamphlet statement lists the occupation bicycle cop.",
+      "excerpt": "Bicycle Cop",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_eli_arnold/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eli-arnold-b2",
+      "topic": "custom:bio",
+      "statement": "Arnold's pamphlet statement lists a BS from Portland State University and training at the Military Intelligence Center and Oregon DPSST.",
+      "excerpt": "Portland State University, BS; Military Intelligence Center, Oregon Dept. Public Safety Standards and Training",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_eli_arnold/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eli-arnold-b3",
+      "topic": "custom:bio",
+      "statement": "Arnold's pamphlet statement lists experience as a Multnomah County Democrats precinct committee person, U.S. Army Blackhawk pilot and intelligence analyst, and 2016 Bernie Sanders delegate.",
+      "excerpt": "Multnomah County Democrats PCP, U.S. Army Blackhawk Pilot & Intelligence Analyst, 2016 Bernie Sanders Delegate",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_eli_arnold/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eli-arnold-b4",
+      "topic": "custom:bio",
+      "statement": "OPB reports Arnold is a Portland police officer who narrowly lost a District 4 race in 2024.",
+      "excerpt": "a Portland police officer who narrowly lost a District 4 seat in the 2024 election",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/portland-city-council-race-district-4/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eli-arnold-b5",
+      "topic": "custom:bio",
+      "statement": "OPB reports Arnold, as a downtown bike officer, has focused on high-volume fentanyl dealers and changing drug laws.",
+      "excerpt": "As a bike cop in downtown Portland, Arnold has spent much of his time focused on cracking down on high-volume fentanyl dealers and navigating ever-changing drug laws.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/portland-city-council-race-district-4/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "eli-arnold-p1",
+      "topic": "housing",
+      "statement": "In the voters' pamphlet statement, Arnold says the city should cut bureaucracy, get people into homes and move people from tents to shelter and services.",
+      "excerpt": "Let's cut the bureaucracy, get people into homes, and move people from tents to shelter and services.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_eli_arnold/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eli-arnold-p2",
+      "topic": "public-safety",
+      "statement": "Arnold's pamphlet statement says Arnold will prioritize staffing and coordination across police, fire, dispatch and behavioral health response.",
+      "excerpt": "I'll prioritize staffing and coordination across police, fire, dispatch, and behavioral health response",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_eli_arnold/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eli-arnold-p3",
+      "topic": "transportation",
+      "statement": "Arnold's pamphlet statement supports using existing clean energy resources to move toward fareless transit.",
+      "excerpt": "I support using existing clean energy resources to move toward fareless transit,",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_eli_arnold/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eli-arnold-p4",
+      "topic": "taxes",
+      "statement": "In the pamphlet statement, Arnold says they will not support raising taxes and fees.",
+      "excerpt": "I will not support raising taxes and fees.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_eli_arnold/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eli-arnold-p5",
+      "topic": "custom:government-oversight",
+      "statement": "Arnold's pamphlet statement says Arnold will push for accountability by measuring outcomes and reporting results.",
+      "excerpt": "I'll push for accountability—measuring outcomes, reporting results, and ensuring every dollar delivers real value.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_eli_arnold/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record (has not held elected office)"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "D4: 10 items (8 T1, 2 T3); comparable. Website EliforPortland.com printed in pamphlet. Incumbent false confirmed. Possible missed T3: Willamette Week 2025-11-08 'Portland cop Eli Arnold will run for City Council again'. No pronouns stated; gendered pronouns replaced."
+  }
+}

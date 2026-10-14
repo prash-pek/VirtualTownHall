@@ -1,0 +1,127 @@
+{
+  "id": "john-goldsmith",
+  "name": "John J Goldsmith",
+  "name_variants": [
+    "John J. Goldsmith",
+    "John Goldsmith"
+  ],
+  "race_id": "portland-council-d4",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "Security officer",
+  "website_url": "https://www.johngoldsmith4pdx.net",
+  "website_verified_via": "https://www.portland.gov/auditor/elections/documents/goldsmith-john-2026-aud-120-amendment-redacted/download",
+  "bio": [
+    {
+      "id": "john-goldsmith-b1",
+      "topic": "custom:bio",
+      "statement": "Goldsmith's city candidate filing form describes Goldsmith as a licensed, unionized Central City security officer for an international private security firm.",
+      "excerpt": "I am a licensed (DPSST) Central City unionized Security Officer for an International private security firm.",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/goldsmith-john-2026-aud-120-amendment-redacted/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "john-goldsmith-b2",
+      "topic": "custom:bio",
+      "statement": "Goldsmith's filing form lists past work as a Department of Justice analyst specializing in litigation support and electronic discovery.",
+      "excerpt": "Department of Justice Analyst (Paid/Union) specializing in litigation support, electronic discovery,",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/goldsmith-john-2026-aud-120-amendment-redacted/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "john-goldsmith-b3",
+      "topic": "custom:bio",
+      "statement": "Goldsmith's filing form lists an unpaid appointment to the San Francisco City and County Transportation Commission.",
+      "excerpt": "(Unpaid) Appointed to the San Francisco City and County Transportation Commission under Mayor London Breed.",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/goldsmith-john-2026-aud-120-amendment-redacted/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "john-goldsmith-b4",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports that in a Facebook video Goldsmith describes being an artist, advocate and essential worker.",
+      "excerpt": "he calls himself an artist, advocate, and essential worker",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording",
+          "attribution"
+        ],
+        "note": "The Mercury says this self-description is from a Facebook video; added. Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "john-goldsmith-b5",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Goldsmith also ran for City Council in 2024.",
+      "excerpt": "Goldsmith also mounted a run for City Council in 2024.",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement: the county pamphlet's candidate index marks this candidate with an asterisk ('did not file a candidate statement'), and no statement is linked in the county's Military & Overseas Online Voters' Guide",
+    "No policy positions found in T1/T2/T3 sources; OPB notes he did not submit information to the county voter guide",
+    "No voting record (has not held elected office in Oregon)"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "D4: 5 bio items (3 T1 filing form, 2 T3), no positions. Thin profile is a non-filer gap: the county pamphlet candidate index marks 'John J Goldsmith*' (asterisk = did not file a candidate statement) and OPB reports he did not submit voter-guide info. Name 'John J Goldsmith' matches ballot content. Website johngoldsmith4pdx.net printed on the amended AUD-120 (Q22). Incumbent false confirmed. Campaign website not fetched for positions (true of all D4 candidates)."
+  }
+}

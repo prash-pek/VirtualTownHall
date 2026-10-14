@@ -1,0 +1,233 @@
+{
+  "id": "simone-rede",
+  "name": "Simone Rede",
+  "name_variants": [],
+  "race_id": "portland-auditor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.portland.gov/auditor/simone-rede",
+  "occupation": "Portland City Auditor",
+  "website_url": "https://www.simoneforauditor.com",
+  "website_verified_via": "https://multco.us/file/portland_auditor_simone_rede/download",
+  "bio": [
+    {
+      "id": "simone-rede-b1",
+      "topic": "custom:bio",
+      "statement": "In her voters' pamphlet statement, Rede lists her occupational background as government performance auditor.",
+      "excerpt": "Government Performance Auditor",
+      "source": {
+        "url": "https://multco.us/file/portland_auditor_simone_rede/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "simone-rede-b2",
+      "topic": "custom:bio",
+      "statement": "Rede's pamphlet statement lists Grant High School, a BA in urban studies from Vassar College and an MS in public policy and management from Carnegie Mellon.",
+      "excerpt": "Grant High School; Vassar College, BA Urban Studies; Carnegie Mellon, MS Public Policy & Management;",
+      "source": {
+        "url": "https://multco.us/file/portland_auditor_simone_rede/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "simone-rede-b3",
+      "topic": "custom:bio",
+      "statement": "Rede's pamphlet statement lists prior experience as a state and Metro performance auditor and as a member of the Oregon Department of Corrections Audit Committee.",
+      "excerpt": "State & Metro performance auditor; Oregon Department of Corrections Audit Committee Member;",
+      "source": {
+        "url": "https://multco.us/file/portland_auditor_simone_rede/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "simone-rede-b4",
+      "topic": "custom:bio",
+      "statement": "The City of Portland says Rede is the elected City Auditor, re-elected in November 2024, with her current term beginning in January 2025.",
+      "excerpt": "Re-elected as City Auditor in November 2024 and began their current term of office in January 2025.",
+      "source": {
+        "url": "https://www.portland.gov/auditor/simone-rede",
+        "publisher": "City of Portland",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "simone-rede-b5",
+      "topic": "custom:bio",
+      "statement": "The City of Portland says Rede served as elected City Auditor from 2023 through 2024.",
+      "excerpt": "Served as elected City Auditor from 2023 through 2024.",
+      "source": {
+        "url": "https://www.portland.gov/auditor/simone-rede",
+        "publisher": "City of Portland",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "simone-rede-p1",
+      "topic": "public-safety",
+      "statement": "In her voters' pamphlet statement, Rede says she has worked to sustain improvements to 911 call wait times.",
+      "excerpt": "Sustain improvements to 911 call wait times for our community.",
+      "source": {
+        "url": "https://multco.us/file/portland_auditor_simone_rede/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "The excerpt is in a list introduced by 'As your accountability champion I have worked to:', so it describes past work, not a future aim. Reworded to past tense.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "simone-rede-p2",
+      "topic": "infrastructure",
+      "statement": "In her voters' pamphlet statement, Rede says she has worked to call attention to Portland's roads, parks and asset maintenance backlogs.",
+      "excerpt": "Call attention to Portland’s roads, parks, and asset maintenance backlogs.",
+      "source": {
+        "url": "https://multco.us/file/portland_auditor_simone_rede/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "The excerpt is in a list introduced by 'As your accountability champion I have worked to:', so it describes past work, not a future aim. Reworded to past tense.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "simone-rede-p3",
+      "topic": "custom:government-oversight",
+      "statement": "In her voters' pamphlet statement, Rede says she has worked to strengthen oversight of the Arts Access Fund and ensure the city follows through on climate commitments.",
+      "excerpt": "Strengthen oversight of the city’s Arts Access Fund and ensure the city follows through on climate commitments.",
+      "source": {
+        "url": "https://multco.us/file/portland_auditor_simone_rede/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "The excerpt is in a list introduced by 'As your accountability champion I have worked to:', so it describes past work, not a future aim. Reworded to past tense.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "simone-rede-p4",
+      "topic": "custom:government-oversight",
+      "statement": "In her voters' pamphlet statement, Rede says she will use her auditing authority to ensure fair opportunities and effective use of tax dollars.",
+      "excerpt": "apply my auditing authority and expertise to ensure fair opportunities and effective use of tax dollars.",
+      "source": {
+        "url": "https://multco.us/file/portland_auditor_simone_rede/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "simone-rede-p5",
+      "topic": "environment",
+      "statement": "In a statement reported by OPB in February 2026, Rede said Portland faces a climate emergency that demands effective action.",
+      "excerpt": "Portland is facing a climate emergency that demands effective action,",
+      "source": {
+        "url": "https://www.opb.org/article/2026/02/25/audit-portland-clear-direction-strategies-meet-climate-goals/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-02-25",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "simone-rede-p6",
+      "topic": "custom:government-oversight",
+      "statement": "In a news release reported by OPB in March 2026, Rede said conditions found in an audit increase the risk that Arts Tax funds are not used as intended.",
+      "excerpt": "These conditions increase the risk that Arts Tax funds are not used as intended.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/03/18/poor-management-plagues-portland-arts-tax-audit-finds/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-03-18",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record collected (the Auditor does not vote on City Council legislation)"
+  ],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 3,
+    "rejected": 0,
+    "balance_notes": "Unopposed race (ballot content lists one candidate; portland.gov 2026 city candidates page lists no write-in or withdrawn auditor candidates). Coverage: 9 T1 items (pamphlet statement + portland.gov auditor page) and 2 T3 (OPB). Incumbent true confirmed by portland.gov/auditor/simone-rede (re-elected Nov 2024); page lists she/her. Website simoneforauditor.com printed in pamphlet statement. Spot-search found no missed T1/T2/T3 text sources (only a City Cast podcast page). Items p1-p3 corrected: they describe past work ('I have worked to'), not future aims."
+  }
+}

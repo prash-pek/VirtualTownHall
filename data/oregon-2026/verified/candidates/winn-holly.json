@@ -1,0 +1,187 @@
+{
+  "id": "winn-holly",
+  "name": "Winn Holly",
+  "name_variants": [],
+  "race_id": "maywood-park-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://cityofmaywoodpark.com/government/council-staff",
+  "occupation": "Registered Nurse BSN",
+  "website_url": "https://winnholly.com",
+  "website_verified_via": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+  "bio": [
+    {
+      "id": "winn-holly-b1",
+      "topic": "custom:bio",
+      "statement": "Holly's voters' pamphlet statement says Holly has worked as a registered nurse for 15 years.",
+      "excerpt": "I've worked as a registered nurse for 15 years,",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Holly's statement describes Holly as queer, trans and nonbinary but states no pronouns; reworded to use the name rather than assign pronouns.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "winn-holly-b2",
+      "topic": "custom:bio",
+      "statement": "Holly's pamphlet statement lists work as an OFNHP union steward, a Nature in Neighborhood grant committee member, and AmeriCorps VISTA service.",
+      "excerpt": "OFNHP 5017 Union steward Nature in Neighborhood grant committee member Americorp VISTA with Habitat for Humanity",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "winn-holly-b3",
+      "topic": "custom:bio",
+      "statement": "Holly's pamphlet statement lists Creighton University School of Nursing under education.",
+      "excerpt": "Creighton University School of Nursing",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Holly's statement describes Holly as queer, trans and nonbinary but states no pronouns; reworded to use the name rather than assign pronouns.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "winn-holly-b4",
+      "topic": "custom:bio",
+      "statement": "Holly's pamphlet statement says Holly is a queer, trans, nonbinary Maywood Park resident and parent of three grown children.",
+      "excerpt": "I'm a queer, trans, nonbinary resident of Maywood Park, proud parent of three grown children,",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Holly's statement describes Holly as queer, trans and nonbinary but states no pronouns; reworded to use the name rather than assign pronouns.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "winn-holly-p1",
+      "topic": "environment",
+      "statement": "Holly's pamphlet statement lists sustainability investments that leave Maywood Park healthier and more resilient as a priority.",
+      "excerpt": "Sustainability — investments that leave Maywood Park healthier and more resilient than we found it",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Holly's statement describes Holly as queer, trans and nonbinary but states no pronouns; reworded to use the name rather than assign pronouns.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "winn-holly-p2",
+      "topic": "taxes",
+      "statement": "Holly's pamphlet statement lists transparent spending accountable to residents as a priority.",
+      "excerpt": "Responsible budgeting — spending that's transparent and accountable to residents",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "winn-holly-p3",
+      "topic": "custom:governance",
+      "statement": "Holly's pamphlet statement lists community connection, making sure residents know their voice shapes the city.",
+      "excerpt": "Real community connection — making sure every resident isn't just welcomed, but knows their voice shapes",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "winn-holly-p4",
+      "topic": "custom:governance",
+      "statement": "Holly's pamphlet statement says local government works best when everyone has a voice.",
+      "excerpt": "I'm running because I believe local government works best when everyone has a voice,",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record (has not held public office)",
+    "No T3 coverage found"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 4,
+    "rejected": 0,
+    "balance_notes": "Race maywood-park-council (vote for 3): Bussema 10, Collins 8, Holly 8, Ripley Feller 7, Akers 1 item; all T1 (pamphlet statements and city roster). Four filed readable statements and got comparable coverage. Akers's thin profile is a source-access gap, not missed effort: the county Candidate Index lists 'Jim Akers M-50' (no asterisk, so he filed), but his statement file is an image with no machine-readable text (verifier confirmed) and the full pamphlet text the fetch tool receives stops at M-34. No T3 coverage exists for any candidate (spot-searches returned only county documents). Roster (cityofmaywoodpark.com/government/council-staff) lists Jim Akers (Mayor), Kevin Bussema (Council President), Jeff Baltzell, Miriam Berman, Thomas Welander; Collins, Holly and Ripley Feller are absent, so incumbent=false is supported for them. Website winnholly.com printed in the statement. Pronouns: the statement gives none, so the profile now refers to Holly by name."
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "id": "josh-leake",
+  "name": "Josh Leake",
+  "name_variants": [
+    "Joshua J Leake"
+  ],
+  "race_id": "portland-council-d4",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "Finance Executive; Portland Film Festival Executive Director & Founder; Business Owner",
+  "website_url": "https://joshforportland.com",
+  "website_verified_via": "https://multco.us/file/portland_dist_4_josh_leake/download",
+  "bio": [
+    {
+      "id": "josh-leake-b1",
+      "topic": "custom:bio",
+      "statement": "OPB reports Leake is the founder and executive director of the Portland Film Festival.",
+      "excerpt": "is the founder and executive director of the Portland Film Festival",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/portland-city-council-race-district-4/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "josh-leake-b2",
+      "topic": "custom:bio",
+      "statement": "Leake's voters' pamphlet statement lists experience as a housing development specialist, community organizer, media producer and public advocacy coordinator.",
+      "excerpt": "Housing Development Specialist; Community Organizer; Media Producer; Public Advocacy Coordinator;",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_josh_leake/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "josh-leake-b3",
+      "topic": "custom:bio",
+      "statement": "Leake's pamphlet statement lists work as a City of Portland intern under Mayors Vera Katz and Sam Adams and 600-plus hours volunteering with first responders.",
+      "excerpt": "City of Portland Intern (Mayors Vera Katz & Sam Adams); 600+ hours volunteering with first responders",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_josh_leake/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "The trailing semicolon is not in the quoted page text; removed from the excerpt.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "josh-leake-b4",
+      "topic": "custom:bio",
+      "statement": "Leake's city filing form lists the role of president and licensed mortgage loan officer at Portland Mortgage.",
+      "excerpt": "Portland Mortgage, DBA of Plum Tree Mortgage, Inc., President & Licensed Mortgage Loan Officer",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/leake-josh-2026-aud-120-redacted/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "josh-leake-b5",
+      "topic": "custom:bio",
+      "statement": "OPB reports Leake ran for mayor in 2024.",
+      "excerpt": "Leake ran for mayor in 2024",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/portland-city-council-race-district-4/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "josh-leake-p1",
+      "topic": "public-safety",
+      "statement": "In the voters' pamphlet statement, Leake says the city must address property crime and public disorder through data-informed enforcement.",
+      "excerpt": "We must address property crime and public disorder through effective, data-informed enforcement",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_josh_leake/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "josh-leake-p2",
+      "topic": "social-services",
+      "statement": "Leake's pamphlet statement calls for treating unsheltered neighbors with dignity and recognizing that poverty is not a crime.",
+      "excerpt": "treating our unsheltered neighbors with dignity and recognizing that poverty is not a crime.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_josh_leake/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "josh-leake-p3",
+      "topic": "housing",
+      "statement": "On housing, Leake's pamphlet statement says Leake knows how to combine public resources, private investment and federal funding.",
+      "excerpt": "I know how to combine public resources, private investment, and federal funding",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_josh_leake/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "josh-leake-p4",
+      "topic": "economy",
+      "statement": "Leake's pamphlet statement says Leake will support workforce development and strengthen Portland's creative and technology economies.",
+      "excerpt": "I will support workforce development, strengthen Portland's creative and technology economies, activate our public spaces",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_josh_leake/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "josh-leake-p5",
+      "topic": "custom:governance",
+      "statement": "In the pamphlet statement, Leake says constituents should not need to donate to get a councilor's attention.",
+      "excerpt": "You should not need to make a donation to get your councilor's attention.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_josh_leake/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "josh-leake-p6",
+      "topic": "healthcare",
+      "statement": "The Portland Mercury reports Leake says the top priority is to end the drug emergency.",
+      "excerpt": "end the drug emergency",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Mercury writes that Leake's top priority is to 'end the drug emergency'; statement made more precise.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record (has not held elected office)"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 7,
+    "rejected": 0,
+    "balance_notes": "D4: 11 items (7 T1, 4 T3); comparable. Website JoshforPortland.com printed in pamphlet and AUD-120. Incumbent false confirmed. No pronouns stated; gendered pronouns replaced."
+  }
+}

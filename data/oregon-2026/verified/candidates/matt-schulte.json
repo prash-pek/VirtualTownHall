@@ -1,0 +1,193 @@
+{
+  "id": "matt-schulte",
+  "name": "Matt Schulte",
+  "name_variants": [],
+  "race_id": "portland-council-d4",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "Musician; filmmaker; philosopher",
+  "website_url": "https://mattschulte.org",
+  "website_verified_via": "https://multco.us/file/portland_dist_4_matt_schulte/download",
+  "bio": [
+    {
+      "id": "matt-schulte-b1",
+      "topic": "custom:bio",
+      "statement": "Schulte's voters' pamphlet statement lists the occupation musician, filmmaker and philosopher.",
+      "excerpt": "Musician; filmmaker; philosopher",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_matt_schulte/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "matt-schulte-b2",
+      "topic": "custom:bio",
+      "statement": "Schulte's pamphlet statement lists a background as founder of Lower Boom and Clarosophy and adjunct professor at WSU and PNCA.",
+      "excerpt": "Founder, Lower Boom; Founder, Clarosophy; Adjunct professor WSU and PNCA",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_matt_schulte/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "matt-schulte-p1",
+      "topic": "economy",
+      "statement": "In the voters' pamphlet statement, Schulte says downtown Portland is a resource the city should develop, not just a problem to be solved.",
+      "excerpt": "Downtown Portland is not just a problem to be solved. It is, in fact, a resource we should develop.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_matt_schulte/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "matt-schulte-p2",
+      "topic": "infrastructure",
+      "statement": "In the pamphlet statement, Schulte says the Northwest needs far more electrical capacity than it currently has.",
+      "excerpt": "the Northwest needs far more electrical capacity than it currently has.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_matt_schulte/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "matt-schulte-p3",
+      "topic": "infrastructure",
+      "statement": "Schulte's pamphlet statement describes a proposed 'Grid-Connected Core' that would partner with building owners to put downtown buildings back to work.",
+      "excerpt": "The Grid-Connected Core partners with building owners to put those buildings back to work",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_matt_schulte/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "matt-schulte-p4",
+      "topic": "social-services",
+      "statement": "Schulte's pamphlet statement describes a proposed 'ReBoot' effort connecting volunteers and professionals to help people navigate existing services.",
+      "excerpt": "ReBoot, connects volunteers and professionals to help people navigate existing services",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_matt_schulte/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "The page has a comma after 'ReBoot' ('ReBoot, connects'); excerpt corrected to match.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "matt-schulte-p5",
+      "topic": "custom:budget",
+      "statement": "In a candidate questionnaire quoted by the Portland Mercury, Schulte says they would require a citywide strategic plan before the next budget.",
+      "excerpt": "I would require a citywide strategic plan before the next budget,",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording",
+          "attribution"
+        ],
+        "note": "Mercury attributes the quote to Schulte's candidate questionnaire. Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "matt-schulte-p6",
+      "topic": "public-safety",
+      "statement": "In a candidate questionnaire quoted by the Portland Mercury, Schulte says the city should implement the 911 Call Allocation Working Group's recommendations within one year.",
+      "excerpt": "We should implement the 911 Call Allocation Working Group’s recommendations within one year",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Mercury quotes this from the same questionnaire answer; attribution clarified.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "City filing form (AUD-120) PDF had no readable candidate fields",
+    "No voting record (has not held public office)"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 7,
+    "rejected": 0,
+    "balance_notes": "D4 (12 candidates): 8 items (6 T1 pamphlet, 2 T3 Mercury); in line with the field. AUD-120 form confirmed to have no candidate-entered fields (source gap). Website mattschulte.org printed in pamphlet ('Mattschulte.org'). Incumbent false confirmed by portland.gov/council. No pronouns stated; gendered pronouns replaced."
+  }
+}

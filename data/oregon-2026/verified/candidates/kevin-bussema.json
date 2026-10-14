@@ -1,0 +1,219 @@
+{
+  "id": "kevin-bussema",
+  "name": "Kevin Bussema",
+  "name_variants": [],
+  "race_id": "maywood-park-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://cityofmaywoodpark.com/government/council-staff",
+  "occupation": "Small Business Owner",
+  "website_url": "https://kevinformaywood.com",
+  "website_verified_via": "https://multco.us/file/maywood_park_councilor_kevin_bussema/download",
+  "bio": [
+    {
+      "id": "kevin-bussema-b1",
+      "topic": "custom:bio",
+      "statement": "Maywood Park's council and staff page lists Kevin Bussema as council president.",
+      "excerpt": "Council President",
+      "source": {
+        "url": "https://cityofmaywoodpark.com/government/council-staff",
+        "publisher": "City of Maywood Park",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kevin-bussema-b2",
+      "topic": "custom:bio",
+      "statement": "In his voters' pamphlet statement, Bussema lists previous employment as a nonprofit executive and in governance, strategy and alignment.",
+      "excerpt": "Nonprofit Executive; Governance, Strategy & Alignment",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_kevin_bussema/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "'Small business owner' is his present occupation under a separate heading (kept in the file-level occupation field) and is not in the excerpt, which is his previous employment. Reworded.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kevin-bussema-b3",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists a BBA from Western Michigan University.",
+      "excerpt": "Western Michigan University, BBA",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_kevin_bussema/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kevin-bussema-b4",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists service as council president and on the Multnomah County Community Development Advisory Board.",
+      "excerpt": "Maywood Park City Council President; Multnomah County Community Development Advisory Board",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_kevin_bussema/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "kevin-bussema-p1",
+      "topic": "custom:governance",
+      "statement": "In his pamphlet statement, Bussema says he led the effort to set Maywood Park's first council-adopted goals and priorities.",
+      "excerpt": "I led the effort to establish Maywood Park’s first Council-adopted goals and priorities",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_kevin_bussema/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kevin-bussema-p2",
+      "topic": "custom:governance",
+      "statement": "His pamphlet statement says remaining an independent Oregon city means capable governance and responsible finances.",
+      "excerpt": "We're an Oregon city, and remaining independent means governing like one: capable governance, responsible finances,",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_kevin_bussema/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kevin-bussema-p3",
+      "topic": "infrastructure",
+      "statement": "His pamphlet statement names streets, trees, green spaces, infrastructure and safety as what make Maywood Park home.",
+      "excerpt": "Our streets, trees, green spaces, infrastructure, safety, and neighborhood character make Maywood Park home.",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_kevin_bussema/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kevin-bussema-p4",
+      "topic": "custom:governance",
+      "statement": "His pamphlet statement says he has advocated for more discipline in city operations and clearer structures for community involvement.",
+      "excerpt": "I’ve advocated for greater discipline across City operations and built clearer structures for community involvement.",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_kevin_bussema/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kevin-bussema-p5",
+      "topic": "custom:regional-relations",
+      "statement": "His pamphlet statement says he is rebuilding trust with regional partners.",
+      "excerpt": "I’m rebuilding trust with regional partners and reestablishing Maywood Park as a credible, constructive partner.",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_kevin_bussema/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kevin-bussema-p6",
+      "topic": "civil-rights",
+      "statement": "His pamphlet statement says there is room for everyone in Maywood Park.",
+      "excerpt": "I believe there is room for everyone in Maywood Park.",
+      "source": {
+        "url": "https://multco.us/file/maywood_park_councilor_kevin_bussema/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record collected",
+    "No T3 coverage found"
+  ],
+  "verification_summary": {
+    "verified": 9,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race maywood-park-council (vote for 3): Bussema 10, Collins 8, Holly 8, Ripley Feller 7, Akers 1 item; all T1 (pamphlet statements and city roster). Four filed readable statements and got comparable coverage. Akers's thin profile is a source-access gap, not missed effort: the county Candidate Index lists 'Jim Akers M-50' (no asterisk, so he filed), but his statement file is an image with no machine-readable text (verifier confirmed) and the full pamphlet text the fetch tool receives stops at M-34. No T3 coverage exists for any candidate (spot-searches returned only county documents). Roster (cityofmaywoodpark.com/government/council-staff) lists Jim Akers (Mayor), Kevin Bussema (Council President), Jeff Baltzell, Miriam Berman, Thomas Welander; Collins, Holly and Ripley Feller are absent, so incumbent=false is supported for them. Bussema incumbency (Council President) confirmed; website kevinformaywood.com printed in his statement."
+  }
+}
