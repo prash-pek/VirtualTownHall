@@ -1,0 +1,94 @@
+{
+  "id": "jacqualine-moritz",
+  "name": "Jacqualine (Jackie) Moritz",
+  "name_variants": [
+    "Jackie Moritz",
+    "Jacqualine Moritz"
+  ],
+  "race_id": "johnson-city-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://johnsoncityoregon.gov/news.php",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "jacqualine-moritz-b1",
+      "topic": "custom:bio",
+      "statement": "The City of Johnson City's officials list names Moritz as a city councilor.",
+      "excerpt": "Jackie Moritz",
+      "source": {
+        "url": "https://johnsoncityoregon.gov/news.php",
+        "publisher": "City of Johnson City",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jacqualine-moritz-b2",
+      "topic": "custom:bio",
+      "statement": "May 2026 council minutes record Councilor Moritz reporting she was working on a bicycle safety class.",
+      "excerpt": "Jackie Moritz reported that she is working on a bicycle safety class and plans to have it on June 13th.",
+      "source": {
+        "url": "https://www.johnsoncityoregon.gov/documents/Minutes05.May19.2026.pdf",
+        "publisher": "City of Johnson City (Council minutes, May 19, 2026)",
+        "tier": "T1",
+        "published_at": "2026-05-19",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No candidate statement in the county voters' pamphlet",
+    "No campaign website found",
+    "No T3 press coverage found",
+    "No public positions found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (no statement for this candidate)",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://johnsoncityoregon.gov/news.php",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.johnsoncityoregon.gov/documents/Minutes05.May19.2026.pdf",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website found",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Jackie Moritz\" OR \"Jacqualine Moritz\" Johnson City 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jackie Moritz\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jackie Moritz\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jackie Moritz\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Incumbent councilor per the city officials list and May 2026 minutes roll call. No pamphlet statement."
+}

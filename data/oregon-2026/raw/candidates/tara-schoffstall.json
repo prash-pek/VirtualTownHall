@@ -1,0 +1,137 @@
+{
+  "id": "tara-schoffstall",
+  "name": "Tara Schoffstall",
+  "name_variants": [],
+  "race_id": "johnson-city-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://johnsoncityoregon.gov/news.php",
+  "occupation": "Teacher",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "tara-schoffstall-b1",
+      "topic": "custom:bio",
+      "statement": "Schoffstall's pamphlet statement lists a geology B.S. and a secondary science M.Ed. from George Washington University.",
+      "excerpt": "George Washington University, Geology, BS; George Washington University, Secondary Science, MEd",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tara-schoffstall-b2",
+      "topic": "custom:bio",
+      "statement": "Schoffstall's pamphlet statement lists service as secretary of the Clackamas County Community Health Council.",
+      "excerpt": "Secretary, Clackamas County Community Health Council",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tara-schoffstall-b3",
+      "topic": "custom:bio",
+      "statement": "Schoffstall's pamphlet statement says she has attended all but two Johnson City council meetings since 2021 and is a CERT member.",
+      "excerpt": "Community Emergency Response Team (CERT); Attended all but two City Council meetings for Johnson City since 2021",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "tara-schoffstall-p1",
+      "topic": "custom:governance",
+      "statement": "In her voters' pamphlet statement, Schoffstall pledges to uphold the U.S. Constitution and state and county laws.",
+      "excerpt": "Uphold the US Constitution, as well as state and county laws.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tara-schoffstall-p2",
+      "topic": "custom:governance",
+      "statement": "Schoffstall's pamphlet statement says she would listen and respond to the concerns of all Johnson City residents.",
+      "excerpt": "Listen and respond to the concerns of ALL Johnson City residents.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tara-schoffstall-p3",
+      "topic": "custom:government-transparency",
+      "statement": "Schoffstall's pamphlet statement says council meetings should follow Public Meetings Law.",
+      "excerpt": "Council meetings follow Public Meetings Law.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 T3 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-28)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://johnsoncityoregon.gov/news.php (city officials list; not a current member)",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website listed in pamphlet",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Tara Schoffstall\" Johnson City 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tara Schoffstall\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tara Schoffstall\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tara Schoffstall\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "incumbent=false: the City of Johnson City officials list (Mayor Vince Whitehead; Councilors Luan Evans, Margaret McCrea, Jackie Moritz, Mike Tranquilla) does not include her. Pamplin/KOIN hits are 2022 items on other Johnson City matters; not used. Number of seats in this race still unknown (no city election notice found)."
+}
