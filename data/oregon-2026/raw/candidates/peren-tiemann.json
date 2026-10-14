@@ -1,0 +1,137 @@
+{
+  "id": "peren-tiemann",
+  "name": "Peren Tiemann",
+  "name_variants": [],
+  "race_id": "lake-oswego-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Law Clerk, Thomas, Coon, Newton & Frost",
+  "website_url": "https://perentiemann.com",
+  "website_verified_via": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "peren-tiemann-b1",
+      "topic": "custom:bio",
+      "statement": "Tiemann's pamphlet statement lists work as a law clerk at Oregon Law Center and roles with Everytown for Gun Safety and Reproductive Freedom for All.",
+      "excerpt": "Law Clerk, Oregon Law Center; Field Assistant, Everytown for Gun Safety; Organizing Intern, Reproductive Freedom for All",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "peren-tiemann-b2",
+      "topic": "custom:bio",
+      "statement": "Tiemann's pamphlet statement lists service as chair of Lake Oswego's Diversity, Equity, and Inclusion Advisory Board.",
+      "excerpt": "Chair, Diversity, Equity, and Inclusion Advisory Board, City of Lake Oswego; Precinct Committee Person",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "peren-tiemann-p1",
+      "topic": "housing",
+      "statement": "In their voters' pamphlet statement, Tiemann supports creating varied options for transit and housing.",
+      "excerpt": "Creating and supporting varied options for transit and housing",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "peren-tiemann-p2",
+      "topic": "economy",
+      "statement": "Tiemann's pamphlet statement lists keeping the cost of living low.",
+      "excerpt": "Keeping costs of living low",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "peren-tiemann-p3",
+      "topic": "public-safety",
+      "statement": "Tiemann's pamphlet statement lists prioritizing emergency preparedness.",
+      "excerpt": "Prioritizing emergency preparedness",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "peren-tiemann-p4",
+      "topic": "environment",
+      "statement": "Tiemann's pamphlet statement lists taking action to mitigate harm from climate change.",
+      "excerpt": "Taking action to mitigate harm from climate change",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign site perentiemann.com could not be fetched (robots disallowed)",
+    "No 2026 T3 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-30)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "No official Lake Oswego council roster found via search",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://perentiemann.com",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Peren Tiemann\" Lake Oswego 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Peren Tiemann\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "not found"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Peren Tiemann\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Peren Tiemann\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Incumbency null: no official Lake Oswego council roster was found; the pamphlet statement does not say the candidate serves on council. Race: vote for 4 (top three 4-year terms, fourth a 2-year term per city certification). KGW/KPTV/Pamplin hits are 2022-2023 student-activist coverage; not used as 2026 positions. Pronoun-neutral wording used ('their') because no source states pronouns."
+}

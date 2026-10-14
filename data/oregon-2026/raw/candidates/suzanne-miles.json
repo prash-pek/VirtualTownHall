@@ -1,0 +1,137 @@
+{
+  "id": "suzanne-miles",
+  "name": "Suzanne Miles",
+  "name_variants": [],
+  "race_id": "lake-oswego-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Attorney and Law Professor",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "suzanne-miles-b1",
+      "topic": "custom:bio",
+      "statement": "Miles's pamphlet statement lists service as an assistant U.S. attorney in the District of Oregon and as a University of Oregon law professor.",
+      "excerpt": "US Department of Justice, Assistant US Attorney, District of Oregon; Law Professor, University of Oregon School of Law",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-miles-b2",
+      "topic": "custom:bio",
+      "statement": "Miles's pamphlet statement lists prior work as a regulatory specialist at the U.S. Environmental Protection Agency.",
+      "excerpt": "US Environmental Protection Agency, Regulatory Specialist;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "suzanne-miles-p1",
+      "topic": "education",
+      "statement": "In her voters' pamphlet statement, Miles says she would foster city partnerships with school communities.",
+      "excerpt": "SCHOOLS: Maintaining excellence in our schools by fostering city partnerships with our school communities",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-miles-p2",
+      "topic": "public-safety",
+      "statement": "Miles's pamphlet statement supports local police and firefighters to keep the community safe.",
+      "excerpt": "SAFETY: Supporting our local police and firefighters to keep our community safe and welcoming",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-miles-p3",
+      "topic": "environment",
+      "statement": "Miles's pamphlet statement says she would nurture natural resources to keep Lake Oswego green.",
+      "excerpt": "ENVIRONMENT: Nurturing our natural resources to keep Lake Oswego green and thriving",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-miles-p4",
+      "topic": "local-business",
+      "statement": "Miles's pamphlet statement says she would partner with businesses and community groups to support the local economy.",
+      "excerpt": "SMALL BUSINESS: Partnering with businesses and community groups as the heart of our healthy local economy",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No T3 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-30)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "No official Lake Oswego council roster found via search",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website listed in pamphlet",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Suzanne Miles\" Lake Oswego 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Suzanne Miles\" Lake Oswego \"\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Suzanne Miles\" Lake Oswego \"\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Suzanne Miles\" Lake Oswego \"\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Incumbency null: no official Lake Oswego council roster was found; the pamphlet statement does not say the candidate serves on council. Race: vote for 4 (top three 4-year terms, fourth a 2-year term per city certification). Ballotpedia 'Suzanne Miles' result not checked as it appears to be a different person (no Lake Oswego link in result)."
+}
