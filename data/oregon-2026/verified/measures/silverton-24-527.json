@@ -1,0 +1,76 @@
+{
+  "id": "silverton-24-527",
+  "jurisdiction_id": "silverton",
+  "number": "24-527",
+  "title": "Proposed Amendments to City of Silverton Municipal Charter",
+  "ballot_label": "Proposed Amendments to City of Silverton Municipal Charter. Question: Shall the legal voters of the City of Silverton approve the proposed amendments to the municipal charter?",
+  "summary": "Asks Silverton voters to amend the city charter, last amended in 1985. According to the ballot summary, the amendments would remove or amend sections that may not comply with or unnecessarily duplicate state law, clarify certain City Council rights, duties and procedures, and clarify certain city manager responsibilities. The explanatory statement says some sections would be repealed, others added, and the Mayor section folded into another section. Amendments would take effect January 1, 2027.",
+  "yes_means": "A yes vote approves the proposed amendments to the City of Silverton charter, effective January 1, 2027.",
+  "no_means": "A no vote rejects the proposed amendments, leaving the current Silverton charter (last amended in 1985) unchanged.",
+  "fiscal_impact": null,
+  "full_text_url": "https://www.silverton.or.us/media/20201",
+  "arguments": [
+    {
+      "id": "silverton-24-527-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "City of Silverton (official ballot title summary)",
+      "topic": "custom:local-government",
+      "statement": "The official ballot summary, prepared by the City of Silverton, says many current charter provisions are outdated and hinder effective and efficient city operations.",
+      "excerpt": "Many current charter provisions are outdated and hinder effective and efficient municipal operations.",
+      "source": {
+        "url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+        "publisher": "Marion County Clerk's Office (Elections), Voters' Pamphlet Nov 3, 2026",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Excerpt verbatim in ballot summary, pamphlet p.37."
+      }
+    }
+  ],
+  "topics": [
+    "custom:local-government"
+  ],
+  "gaps": [
+    "NO arguments: the Marion County voters' pamphlet states 'NO ARGUMENTS WERE FILED IN SUPPORT OF OR IN OPPOSITION TO THIS MEASURE'; no attributed opposition statement found.",
+    "YES arguments: no filed pamphlet arguments; the only YES-side item is the sponsor's rationale from the official ballot summary.",
+    "No press coverage found; T3 allowed-domain search not run (search budget exhausted)."
+  ],
+  "ballot_label_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches pamphlet p.37."
+  },
+  "summary_verification": {
+    "status": "corrected",
+    "checks_failed": [
+      "paraphrase_faithful"
+    ],
+    "verified_at": "2026-10-14",
+    "note": "Explanatory statement says the existing section titled Mayor would be repealed and incorporated into the section 'Mayor's Function at Council Meetings', and lists other repealed sections (e.g. Nominations, Condemnation). Reworded so the Mayor section is not presented as simply removed."
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Explanatory statement: amendments take effect January 1, 2027 if approved."
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Ballot summary says charter last amended in 1985."
+  },
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "YES: 1 item, official ballot-title summary text (explainer); 0 filed arguments; 0 press. NO: 0 items. Explained: pamphlet p.37 states 'NO ARGUMENTS WERE FILED IN SUPPORT OF OR IN OPPOSITION TO THIS MEASURE' (documented). full_text_url (silverton.or.us/media/20201) is a city-hosted 'FINAL APPROVED CHARTER CHANGES - MARKUP' of the full charter; it does not itself name the election or resolution, but it is a T1 city page. Spot search found only city documents; no missed T1-T3 material."
+  }
+}

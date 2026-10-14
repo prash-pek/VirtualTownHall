@@ -1,0 +1,88 @@
+{
+  "id": "mt-angel-fire-district-24-526",
+  "jurisdiction_id": "mt-angel-fire-district",
+  "number": "24-526",
+  "title": "Dissolution of Mt. Angel Fire District Contingent Other Measures",
+  "ballot_label": "Dissolution of Mt. Angel Fire District Contingent Other Measures. Question: Shall the Mt. Angel Fire District be dissolved, contingent on formation of new district and dissolution of Monitor District?",
+  "summary": "Would dissolve the Mt. Angel Fire District and end its permanent tax rate, but only if voters also approve dissolving the Monitor Rural Fire Protection District (Clackamas Measure 3-640) and forming the Mt. Angel-Monitor Fire District (Measure 24-529). Employees, assets and liabilities would transfer to the new district, which would levy a permanent rate of $1.97 per $1,000 of assessed value. Dissolution effective December 31, 2026.",
+  "yes_means": "A yes vote dissolves the Mt. Angel Fire District and ends its tax rate, effective only if the Monitor district dissolution and the new Mt. Angel-Monitor Fire District formation also pass.",
+  "no_means": "A no vote keeps the Mt. Angel Fire District in place; without all three measures passing, the district continues to operate separately under its current tax rate.",
+  "fiscal_impact": "The Mt. Angel Fire District's permanent tax rate would no longer be levied; property would instead be subject to the new district's permanent rate of $1.97 per $1,000 of assessed value. The district carries no bonded debt or long-term financial obligations.",
+  "full_text_url": "https://www.co.marion.or.us/CO/elections/Results/Documents/20261103/Explanatory%20Statement%20-%2024-526%20Mt.%20Angel%20Fire%20Dissolution.pdf",
+  "contingent_on": [
+    "monitor-rfpd-3-640",
+    "mt-angel-monitor-fire-district-24-529"
+  ],
+  "arguments": [
+    {
+      "id": "mt-angel-fire-district-24-526-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Mt. Angel Fire District (official ballot title summary)",
+      "topic": "public-safety",
+      "statement": "The official ballot summary says the new district would provide services with career and volunteer members, add daytime staffing to address a daytime volunteer shortage, and replace apparatus reaching end-of-life around 2032.",
+      "excerpt": "January 1, 2027, fire protection and emergency medical services provided by new district career and volunteer members, with increased daytime staffing to address a daytime volunteer shortage and replacement of apparatus reaching end-of-life around 2032.",
+      "source": {
+        "url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+        "publisher": "Marion County Clerk's Office (Elections), Voters' Pamphlet Nov 3, 2026",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Excerpt verbatim in ballot summary, pamphlet p.18."
+      }
+    }
+  ],
+  "topics": [
+    "public-safety",
+    "taxes"
+  ],
+  "gaps": [
+    "NO arguments: no attributed opposition statement found; pamphlet argument pages could not be read to confirm whether any were filed.",
+    "YES arguments: no filed pamphlet argument confirmed; only YES-side item is the sponsor's rationale in the official ballot summary.",
+    "Marion County Board of Commissioners minutes (July 27, 2026 hearing) list seven public commenters but do not record their positions.",
+    "T3 allowed-domain search not run (search budget exhausted)."
+  ],
+  "ballot_label_verification": {
+    "status": "corrected",
+    "checks_failed": [
+      "paraphrase_faithful"
+    ],
+    "verified_at": "2026-10-14",
+    "note": "Official caption on pamphlet p.18 is 'Dissolution of Mt. Angel Fire District Contingent Other Measures'; the words 'Contingent Other Measures' were missing. Title field corrected to match too."
+  },
+  "summary_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches ballot summary (p.18), including 'Dissolution effective December 31, 2026' and the $1.97/$1,000 rate. Note: the explanatory statement says the territory becomes part of the new district effective January 1, 2027; both dates are official. Ballot texts do not cite measure numbers; linking 'Monitor' dissolution to Clackamas 3-640 is confirmed by the Clackamas County election page ('Dissolution of Monitor RFPD Contingent Other Measures')."
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Consistent with summary and explanatory statement ('take effect only if all three related measures are approved')."
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Consistent with explanatory statement: if not all pass, district keeps operating separately under its current tax rate."
+  },
+  "fiscal_impact_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches explanatory statement: permanent rate no longer levied; new district rate $1.97 per $1,000; 'carries no bonded debt or long-term financial obligations'."
+  },
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "YES: 1 item, official ballot-title summary text (explainer); 0 filed arguments; 0 press. NO: 0 items. Whether pamphlet arguments were filed could not be confirmed by the verifier either: the pamphlet's machine-readable text ends at p.38, and 24-526 does not appear on pp.36-38 (measures section runs pp.36-45). Gap is documented. Spot search found only county documents (ballot title, explanatory statement, July 27 2026 board materials); no missed T1-T3 arguments."
+  }
+}

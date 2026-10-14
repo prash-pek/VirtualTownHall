@@ -1,0 +1,102 @@
+{
+  "id": "stayton-fire-district-24-531",
+  "jurisdiction_id": "stayton-fire-district",
+  "number": "24-531",
+  "title": "Local Option Levy for Fire and Emergency Medical Services.",
+  "ballot_label": "Local Option Levy for Fire and Emergency Medical Services. Question: Shall the District levy $1.06 per $1,000 assessed value for five-years commencing fiscal year 2027-28? This measure may cause property taxes to increase more than three percent.",
+  "summary": "Stayton Fire District asks voters to replace its current levy with a five-year local option levy of $1.06 per $1,000 assessed value beginning fiscal 2027-28. The district says call volumes have increased and expenses surpass revenues; funding would maintain current staffing of 9 career Firefighter/EMTs, supported by volunteers, and help sustain response times. Estimated cost: $212 a year on a $200,000 assessed-value property.",
+  "yes_means": "A yes vote authorizes Stayton Fire District to levy $1.06 per $1,000 assessed value for five years starting in fiscal 2027-28, replacing its current levy.",
+  "no_means": "A no vote does not authorize the new five-year levy.",
+  "fiscal_impact": "Estimated revenue: $1,459,638 (2027-28), $1,503,427 (2028-29), $1,548,530 (2029-30), $1,594,986 (2030-31), $1,609,290 (2031-32). About $212/year (about $18/month) for a property assessed at $200,000; estimate only. May cause property taxes to increase more than three percent.",
+  "full_text_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+  "arguments": [
+    {
+      "id": "stayton-fire-district-24-531-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Stayton Fire District (official ballot title summary)",
+      "topic": "public-safety",
+      "statement": "The official ballot summary says calls for fires, crashes, medical emergencies and rescues have increased and that district operating expenses surpass current and projected revenues.",
+      "excerpt": "Calls for fires, vehicle crashes, medicals, and rescues have incrementally increased and operational expenses surpass current and projected future revenues.",
+      "source": {
+        "url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+        "publisher": "Marion County Clerk's Office (Elections), Voters' Pamphlet Nov 3, 2026",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Excerpt verbatim, pamphlet p.19."
+      }
+    },
+    {
+      "id": "stayton-fire-district-24-531-y2",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Stayton Fire District (official ballot title summary)",
+      "topic": "public-safety",
+      "statement": "The official ballot summary says the levy would maintain current Firefighter/EMT staffing and help sustain response times.",
+      "excerpt": "The District staffs 9 career Firefighter/EMTs supported by volunteers. The funding would maintain current Firefighter/EMT staffing and help sustain response times.",
+      "source": {
+        "url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+        "publisher": "Marion County Clerk's Office (Elections), Voters' Pamphlet Nov 3, 2026",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Excerpt verbatim, pamphlet p.19."
+      }
+    }
+  ],
+  "topics": [
+    "public-safety",
+    "taxes"
+  ],
+  "gaps": [
+    "NO arguments: no attributed opposition statement found; pamphlet argument pages could not be read to confirm whether any were filed.",
+    "YES arguments: no filed pamphlet argument confirmed; Statesman Journal coverage quotes no named supporters or opponents. YES-side items are the sponsor's rationale in the ballot summary.",
+    "Explanatory statement not readable (Marion PDF returns only 'Signature Redacted'; pamphlet page beyond readable range).",
+    "Stayton Fire District's own site not located; T3 allowed-domain search not run (search budget exhausted)."
+  ],
+  "ballot_label_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches pamphlet p.19 including the three-percent statement."
+  },
+  "summary_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches ballot summary p.19: 'would replace a current levy with a new five-year levy'; 9 career Firefighter/EMTs; $212 a year on $200,000 AV."
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14"
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14"
+  },
+  "fiscal_impact_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Confirmed: $1,459,638 (2027-28), $1,503,427 (2028-29), $1,548,530 (2029-30), $1,594,986 (2030-31), $1,609,290 (2031-32); $212/year (~$18/month) at $200,000 AV; 'ESTIMATE ONLY'; three-percent statement."
+  },
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "YES: 2 items, both official ballot-title summary text (explainers); 0 filed arguments; 0 press. NO: 0 items. Filing of pamphlet arguments could not be confirmed (24-531 is past the readable text). The explanatory statement PDF is not machine-readable. Statesman Journal coverage (Bill Poehler, about the earlier May 2026 levy at the same rate) names no supporters or opponents. Gap is documented."
+  }
+}
