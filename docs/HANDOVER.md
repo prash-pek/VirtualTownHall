@@ -16,8 +16,8 @@ This document hands TownHall AI v2 over to a new Claude project. Start any new c
 | TRD v2 (rebuild) | Written: [TownHall_AI_TRD_v2.md](TownHall_AI_TRD_v2.md) |
 | Data sourcing policy | Written: [data-sourcing-policy.md](data-sourcing-policy.md) |
 | Oregon seed data schema | Written: [../data/oregon-2026/README.md](../data/oregon-2026/README.md) |
-| Oregon ballot inventory | **In progress.** An inventory agent was building `data/oregon-2026/inventory.json` and `reports/inventory_report.md` from official sources. If those files aren't on the branch, re-run the inventory stage (§6). |
-| Candidate/measure collection + verification | Not started. Waits on the inventory. |
+| Oregon ballot inventory | **Done (first pass):** [inventory.json](../data/oregon-2026/inventory.json) has 148 jurisdictions, 199 races, 438 candidates, 23 measures, all from T1 sources; details in [inventory_report.md](../data/oregon-2026/reports/inventory_report.md). **Known gaps:** outside the Portland metro only Marion County is covered; no ZIP mappings; 194 candidates have unknown incumbency; some OCR'd names need checking. **The verifier must double-check:** "no statewide measures" (agent cites SOS Directive 2026-09) and "no statewide judicial contests". |
+| Candidate/measure collection + verification | Not started. Next step for the data pipeline thread. |
 | v2 app code | Not started. |
 
 ---
