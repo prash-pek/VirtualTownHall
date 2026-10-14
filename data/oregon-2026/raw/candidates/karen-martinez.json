@@ -1,0 +1,181 @@
+{
+  "id": "karen-martinez",
+  "name": "Karen Martinez",
+  "name_variants": [],
+  "race_id": "forest-grove-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://forestgrove-or.gov/362/Elections",
+  "occupation": "Registered Nurse",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "karen-martinez-b1",
+      "topic": "custom:bio",
+      "statement": "Forest Grove's elections page lists Councilor Karen Martinez's seat as up for election in November 2026.",
+      "excerpt": "Councilor Karen Martinez",
+      "source": {
+        "url": "https://forestgrove-or.gov/362/Elections",
+        "publisher": "City of Forest Grove (Elections page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "karen-martinez-b2",
+      "topic": "custom:bio",
+      "statement": "Martinez's pamphlet statement lists service on the Forest Grove City Council since 2023.",
+      "excerpt": "FG City Council 2023-Present",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "karen-martinez-b3",
+      "topic": "custom:bio",
+      "statement": "Martinez's pamphlet statement lists nursing education at the University of Portland School of Nursing.",
+      "excerpt": "Washington High School, Tacoma, WA; PCC; University of Portland School of Nursing Bachelor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "karen-martinez-b4",
+      "topic": "custom:bio",
+      "statement": "Martinez's pamphlet statement says Forest Grove has been her home for over 33 years.",
+      "excerpt": "Forest Grove has been my home for over 33 years.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "karen-martinez-p1",
+      "topic": "public-safety",
+      "statement": "In her voters' pamphlet statement, Martinez says she supports the bond for a new police station.",
+      "excerpt": "I support the bond for the new police station.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "karen-martinez-p2",
+      "topic": "public-safety",
+      "statement": "Martinez's pamphlet statement says police officers and firefighters deserve community support.",
+      "excerpt": "Police officers and firefighters deserve our support for putting their lives on the line to protect our community.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "karen-martinez-p3",
+      "topic": "housing",
+      "statement": "Martinez's pamphlet statement says closing homeless camps brought greater safety to Forest Grove.",
+      "excerpt": "Closing the camps brought greater safety to Forest Grove.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "karen-martinez-p4",
+      "topic": "taxes",
+      "statement": "Martinez's pamphlet statement calls for accounting for every expense.",
+      "excerpt": "Account for every expense.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "karen-martinez-p5",
+      "topic": "custom:parks-recreation",
+      "statement": "Martinez's pamphlet statement says she supported no field usage fees for youth sports.",
+      "excerpt": "Supported NO field usage fees for youth sports.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://forestgrove-or.gov/362/Elections",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.forestgrove-or.gov/611/Meet-the-Council",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign website printed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Karen Martinez\" Forest Grove council 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Karen Martinez\" Forest Grove (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Karen Martinez\" Forest Grove (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Karen Martinez\" Forest Grove (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Forest Grove Elections page (T1) lists the seats up Nov. 3, 2026: Mayor Malynda Wenzl, Councilor Mike Marshall, Councilor Karen Martinez and Council President Mariana Valenzuela; the Meet-the-Council page blocks automated fetch. Step 5 found only 2022-cycle Pamplin articles (not used, to keep treatment equal) and no 2026 coverage. "
+}

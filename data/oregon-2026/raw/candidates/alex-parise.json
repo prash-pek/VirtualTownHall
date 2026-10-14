@@ -1,0 +1,63 @@
+{
+  "id": "alex-parise",
+  "name": "Alex Parise",
+  "name_variants": [],
+  "race_id": "east-multnomah-swcd-at-large-2",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement filed (asterisk in the Nov 2026 county pamphlet Candidate Index)",
+    "No occupation, background or positions found in any T1/T2/T3 source",
+    "No campaign website or T3 coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "not found (no statement listed)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "used (Candidate Index)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://emswcd.org/about/board/",
+      "result": "used (stale roster; incumbency not set)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no domain in any T1/T3 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Alex Parise\" East Multnomah Soil and Water 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Alex Parise\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Alex Parise\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "not found"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Alex Parise\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "EMSWCD board page (emswcd.org/about/board/) is out of date (lists Mike Guebert in Zone 3 and Jasmine Zimmer-Stucky in At-Large 2, both terms up Nov 2026, and omits board member Ramona DeNies named by OPB in Oct 2025), so incumbency is left null for all EMSWCD candidates."
+}

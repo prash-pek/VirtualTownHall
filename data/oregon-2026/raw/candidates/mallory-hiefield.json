@@ -1,0 +1,168 @@
+{
+  "id": "mallory-hiefield",
+  "name": "Mallory Hiefield",
+  "name_variants": [],
+  "race_id": "forest-grove-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://forestgrove-or.gov/362/Elections",
+  "occupation": "Assistant Athletic Director",
+  "website_url": "https://votemalloryhiefield.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+  "bio": [
+    {
+      "id": "mallory-hiefield-b1",
+      "topic": "custom:bio",
+      "statement": "Hiefield's pamphlet statement lists a background in intramurals and recreation, fitness instruction and healthcare administration.",
+      "excerpt": "Intramurals and Recreation, Fitness Instructor, Healthcare Administration",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mallory-hiefield-b2",
+      "topic": "custom:bio",
+      "statement": "Hiefield's pamphlet statement lists a biology degree from Pacific University.",
+      "excerpt": "Pacific University, BS in Biology, Minor in Spanish and Outdoor Leadership",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mallory-hiefield-b3",
+      "topic": "custom:bio",
+      "statement": "Hiefield's pamphlet statement lists service on the Forest Grove Budget Committee.",
+      "excerpt": "City of Forest Grove Budget Committee Member",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "mallory-hiefield-p1",
+      "topic": "environment",
+      "statement": "In her voters' pamphlet statement, Hiefield says sustainability and growth do not have to be competing goals.",
+      "excerpt": "Sustainability and growth do not have to be competing goals.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mallory-hiefield-p2",
+      "topic": "agriculture",
+      "statement": "Hiefield's pamphlet statement says the growing city has a responsibility to protect natural resources and preserve agricultural land.",
+      "excerpt": "As our community grows we have a responsibility to protect our natural resources and preserve agricultural lan",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mallory-hiefield-p3",
+      "topic": "housing",
+      "statement": "Hiefield's pamphlet statement calls for a range of housing options for young people, families and seniors.",
+      "excerpt": "We need a range of housing options so that young people starting their careers, families, seniors and the peop",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mallory-hiefield-p4",
+      "topic": "local-business",
+      "statement": "Hiefield's pamphlet statement says she would support local businesses and invest in infrastructure that promotes job growth.",
+      "excerpt": "I would work hard to support our local businesses and invest in infrastructure that promotes job growth and be",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mallory-hiefield-p5",
+      "topic": "economy",
+      "statement": "Hiefield's pamphlet statement says a strong local economy lets residents work and live in the same city.",
+      "excerpt": "A strong local economy creates opportunities for residents to work and live in the same city.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No press coverage found",
+    "Campaign site's fetched text had no issue positions"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://forestgrove-or.gov/362/Elections",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.forestgrove-or.gov/611/Meet-the-Council",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://votemalloryhiefield.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Mallory Hiefield\" Forest Grove council 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mallory Hiefield\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mallory Hiefield\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mallory Hiefield\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Forest Grove Elections page (T1) lists the seats up Nov. 3, 2026: Mayor Malynda Wenzl, Councilor Mike Marshall, Councilor Karen Martinez and Council President Mariana Valenzuela; the Meet-the-Council page blocks automated fetch. Step 5 found only 2022-cycle Pamplin articles (not used, to keep treatment equal) and no 2026 coverage. Not among incumbents listed on the city's Elections page. Three pamphlet excerpts are truncated at ~110 characters by the fetch tool's quote limit."
+}

@@ -1,0 +1,158 @@
+{
+  "id": "matthew-knight",
+  "name": "Matthew S Knight",
+  "name_variants": [
+    "Matthew S. Knight",
+    "Matthew Knight"
+  ],
+  "race_id": "forest-grove-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://forestgrove-or.gov/362/Elections",
+  "occupation": "Business Owner, Knight LLC",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "matthew-knight-b1",
+      "topic": "custom:bio",
+      "statement": "Knight's pamphlet statement lists his occupation as owner of Knight LLC.",
+      "excerpt": "Business Owner, Knight LLC.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "matthew-knight-b2",
+      "topic": "custom:bio",
+      "statement": "Knight's pamphlet statement lists small business ownership and capital equipment sales from 2009 to 2021.",
+      "excerpt": "Small Business Owner; Capital Equipment Sales, 2009-2021",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "matthew-knight-b3",
+      "topic": "custom:bio",
+      "statement": "Knight's pamphlet statement lists a corrections certificate from Pioneer Pacific College and Portland Community College coursework.",
+      "excerpt": "Pioneer Pacific College, Certificate in Corrections; Portland Community College coursework; High School Diploma",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "matthew-knight-b4",
+      "topic": "custom:bio",
+      "statement": "Knight's pamphlet statement lists no prior governmental experience.",
+      "excerpt": "None",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "matthew-knight-p1",
+      "topic": "custom:growth",
+      "statement": "In his voters' pamphlet statement, Knight says the city can encourage responsible growth while protecting its character and quality of life.",
+      "excerpt": "We can encourage responsible growth while protecting the character and quality of life that makes Forest Grove special.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "matthew-knight-p2",
+      "topic": "custom:regional-cooperation",
+      "statement": "Knight's pamphlet statement says transportation, housing, infrastructure, economic development and public safety do not stop at city boundaries.",
+      "excerpt": "Transportation, housing, infrastructure, economic development, and public safety don't stop at city boundaries.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "matthew-knight-p3",
+      "topic": "custom:governance",
+      "statement": "Knight's pamphlet statement says he believes in a collaborative approach to problem-solving.",
+      "excerpt": "I believe in a collaborative approach to problem-solving.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://forestgrove-or.gov/362/Elections",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.forestgrove-or.gov/611/Meet-the-Council",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign website printed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Matthew Knight\" Forest Grove council 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Matthew Knight\" Forest Grove (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Matthew Knight\" Forest Grove (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Matthew Knight\" Forest Grove (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Forest Grove Elections page (T1) lists the seats up Nov. 3, 2026: Mayor Malynda Wenzl, Councilor Mike Marshall, Councilor Karen Martinez and Council President Mariana Valenzuela; the Meet-the-Council page blocks automated fetch. Step 5 found only 2022-cycle Pamplin articles (not used, to keep treatment equal) and no 2026 coverage. Ballot name per inventory 'Matthew S Knight'; pamphlet prints 'Matthew S. Knight'."
+}

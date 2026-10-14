@@ -1,0 +1,217 @@
+{
+  "id": "rw-smith",
+  "name": "R W Smith",
+  "name_variants": [
+    "R.W. Smith",
+    "Remy Smith"
+  ],
+  "race_id": "clackamas-county-commissioner-pos-4",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://clackamas.us/elections/localofficials.html",
+  "occupation": "Environmental Consultant; Environmental Ombudsman",
+  "website_url": "https://friendsofremysmith.org",
+  "website_verified_via": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "rw-smith-b1",
+      "topic": "custom:bio",
+      "statement": "Smith's pamphlet statement lists work as a lean production manager, shop supervisor, arborist assistant and caregiver for individuals with disabilities.",
+      "excerpt": "Lean Production Manager, Shop Supervisor, Arborist Assistant, Caregiver for Individuals with Disabilities",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rw-smith-b2",
+      "topic": "custom:bio",
+      "statement": "Smith's pamphlet statement lists current service on the county Community Action Board and Community Climate Action Committee.",
+      "excerpt": "Clackamas County Community Action Board (current), Community Climate Action Committee (current)",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "rw-smith-p1",
+      "topic": "technology",
+      "statement": "In his voters' pamphlet statement, Smith opposes bringing large-scale data centers into Clackamas County.",
+      "excerpt": "I oppose bringing large-scale data centers into Clackamas County.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rw-smith-p2",
+      "topic": "taxes",
+      "statement": "Smith's pamphlet statement says the county must stop wasting taxpayer dollars through poor planning and decisions made without public scrutiny.",
+      "excerpt": "We must stop wasting taxpayer dollars through poor planning and decisions made without public scrutiny.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rw-smith-p3",
+      "topic": "healthcare",
+      "statement": "Smith's pamphlet statement says he supports treatment for addiction and mental illness but insists on measurable outcomes.",
+      "excerpt": "I support treatment for addiction and mental illness, but I also insist on measurable outcomes.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rw-smith-p4",
+      "topic": "environment",
+      "statement": "Smith's pamphlet statement says families, farms and the environment must come before corporate demands.",
+      "excerpt": "Families, farms, and the environment must come before corporate demands.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rw-smith-p5",
+      "topic": "housing",
+      "statement": "Smith's campaign site says unhoused people should be moved off the streets into recovery-oriented care.",
+      "excerpt": "We must move unhoused neighbors off our streets and into recovery-oriented care.",
+      "source": {
+        "url": "https://friendsofremysmith.org",
+        "publisher": "R.W. Smith campaign",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "T2 confirmed: R W Smith's county pamphlet statement prints 'Learn more: friendsofremysmith.org'. The site heading reads 'R.W. Smith for Clackamas County Commissioner, Position 4'. 'Remy' is a nickname used in the domain; there is no same-name conflict. The site has no paid-for-by line (noted only)."
+      }
+    },
+    {
+      "id": "rw-smith-p6",
+      "topic": "healthcare",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Smith says the county should step in and reset expectations if ambulance response times are not met while costs rise.",
+      "excerpt": "If response times are not being met and costs are going up, the County needs to step in and reset expectations.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Smith_Clackamas%20County%20position%204_1777936706977.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": "2026-05-05",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Added May 2026 primary context. The answers are the candidate's own: OPB's 2026-05-05 article links this PDF as \"the candidates' complete answers to OPB's questions\" for the May 19, 2026 primary. The PDF itself is undated, so published_at reflects the article date. Excerpt verified verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rw-smith-p7",
+      "topic": "public-safety",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, on sheriff's office funding, Smith says the county should fund essential services, demand clear stewardship and show the public where the money goes.",
+      "excerpt": "Fund essential services, demand clear stewardship, and make sure the public can see where the money is going and why.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Smith_Clackamas%20County%20position%204_1777936706977.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": "2026-05-05",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Added May 2026 primary context. The answers are the candidate's own: OPB's 2026-05-05 article links this PDF as \"the candidates' complete answers to OPB's questions\" for the May 19, 2026 primary. The PDF itself is undated, so published_at reflects the article date. Excerpt verified verbatim. Added the question's subject (CCSO funding).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rw-smith-p8",
+      "topic": "economy",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Smith says people should be able to see how county decisions show up in their monthly bills.",
+      "excerpt": "People should be able to see how decisions made at the County level show up in their monthly bills.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Smith_Clackamas%20County%20position%204_1777936706977.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": "2026-05-05",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Added May 2026 primary context. The answers are the candidate's own: OPB's 2026-05-05 article links this PDF as \"the candidates' complete answers to OPB's questions\" for the May 19, 2026 primary. The PDF itself is undated, so published_at reflects the article date. Excerpt verified verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 3,
+    "rejected": 0,
+    "balance_notes": "Commissioner Pos 4: Smith and Helm have 10 items each, and each has one T2 campaign-site item and OPB primary questionnaire items (3 vs 2). Balanced. Same-name check: the ballot name 'R W Smith', the pamphlet (friendsofremysmith.org) and OPB ('R.W. Smith, environmental consultant') all refer to the same person. He is not related to former chair Tootie Smith, who appears in search results. This race fills the remainder of an unexpired term (May 2026 ballot: 'Completion of Unexpired 4 Year Term')."
+  }
+}

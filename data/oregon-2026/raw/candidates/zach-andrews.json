@@ -127,17 +127,17 @@
     },
     {
       "step": "5",
-      "query_or_url": "\"Zach Andrews\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "query_or_url": "\"Zach Andrews\" Troutdale (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
       "result": "nothing relevant"
     },
     {
       "step": "5",
-      "query_or_url": "\"Zach Andrews\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "query_or_url": "\"Zach Andrews\" Troutdale (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
       "result": "nothing relevant (see notes)"
     },
     {
       "step": "5",
-      "query_or_url": "\"Zach Andrews\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "query_or_url": "\"Zach Andrews\" Troutdale (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
       "result": "nothing relevant"
     }
   ],

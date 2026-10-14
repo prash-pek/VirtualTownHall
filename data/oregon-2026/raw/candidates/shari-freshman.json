@@ -1,0 +1,68 @@
+{
+  "id": "shari-freshman",
+  "name": "Shari Freshman",
+  "name_variants": [],
+  "race_id": "west-multnomah-swcd-zone-5",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://wmswcd.org/board-members/",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement PDF in the Military & Overseas guide is a scan with no machine-readable text; the full county pamphlet lists it at M-76 but the fetch tool truncates before that page",
+    "No occupation, background or positions found in any readable T1/T2/T3 source",
+    "No campaign website or T3 coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/wmswcd_zone_5_shari_freshman/download",
+      "result": "blocked (scan, no machine-readable text)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "used (Candidate Index only)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://wmswcd.org/board-members/",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no domain in any T1/T3 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Shari Freshman\" West Multnomah Soil and Water 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shari Freshman\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shari Freshman\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shari Freshman\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Not on the board roster. WMSWCD board page lists Zone 5 Terri Preeg Riggsby (Chair, term ends Dec 2026), Zone 4 Vacant, At Large Position 2 Shawn Looney (term ends Dec 2026), and Ronda Zakocs as an appointed Associate Director (2026-present)."
+}

@@ -1,0 +1,173 @@
+{
+  "id": "jeremy-wood",
+  "name": "Jeremy Wood",
+  "name_variants": [],
+  "race_id": "east-multnomah-swcd-at-large-2",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Senior Contracts Manager, American Forests",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "jeremy-wood-b1",
+      "topic": "custom:bio",
+      "statement": "In his voters' pamphlet statement, Wood lists his occupation as senior contracts manager at American Forests.",
+      "excerpt": "Senior Contracts Manager, American Forests",
+      "source": {
+        "url": "https://multco.us/file/emswcd_at-large_pos_2_jeremy_wood/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeremy-wood-b2",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists work as a water conservation program manager at Environmental Incentives.",
+      "excerpt": "Water Conservation Program Manager, Environmental Incentives;",
+      "source": {
+        "url": "https://multco.us/file/emswcd_at-large_pos_2_jeremy_wood/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeremy-wood-b3",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists a BA from Skidmore College and an MA from George Washington University.",
+      "excerpt": "BA, Skidmore College; MA, International Development & Education, George Washington University",
+      "source": {
+        "url": "https://multco.us/file/emswcd_at-large_pos_2_jeremy_wood/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeremy-wood-b4",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists work as a federal contractor for USFS, EPA and USAID.",
+      "excerpt": "Federal contractor: USFS, EPA, USAID;",
+      "source": {
+        "url": "https://multco.us/file/emswcd_at-large_pos_2_jeremy_wood/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "jeremy-wood-p1",
+      "topic": "environment",
+      "statement": "In his pamphlet statement, Wood says durable conservation work depends on the contracts and budgets behind it.",
+      "excerpt": "Durable conservation work is only as strong as the contracts and budgets behind it.",
+      "source": {
+        "url": "https://multco.us/file/emswcd_at-large_pos_2_jeremy_wood/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeremy-wood-p2",
+      "topic": "custom:budget",
+      "statement": "His pamphlet statement says he wants to bring steady, technical oversight to the board.",
+      "excerpt": "That's the steady, technical oversight I want to bring to this board",
+      "source": {
+        "url": "https://multco.us/file/emswcd_at-large_pos_2_jeremy_wood/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeremy-wood-p3",
+      "topic": "custom:budget",
+      "statement": "His pamphlet statement says he wants the district's work to stay funded regardless of federal changes.",
+      "excerpt": "so this district's work stays funded no matter what happens in Washington.",
+      "source": {
+        "url": "https://multco.us/file/emswcd_at-large_pos_2_jeremy_wood/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeremy-wood-p4",
+      "topic": "environment",
+      "statement": "His pamphlet statement cites work protecting whitebark pine in high-elevation forests.",
+      "excerpt": "protecting whitebark pine, a keystone species vanishing across high-elevation forests in Oregon and Washington",
+      "source": {
+        "url": "https://multco.us/file/emswcd_at-large_pos_2_jeremy_wood/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed in pamphlet statement",
+    "No T3 coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/emswcd_at-large_pos_2_jeremy_wood/download",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "used (Candidate Index)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://emswcd.org/about/board/",
+      "result": "used (stale roster; incumbency not set)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none listed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Jeremy Wood\" East Multnomah Soil and Water 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jeremy Wood\" soil water Multnomah (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jeremy Wood\" soil water Multnomah (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jeremy Wood\" soil water Multnomah (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "EMSWCD board page (emswcd.org/about/board/) is out of date (lists Mike Guebert in Zone 3 and Jasmine Zimmer-Stucky in At-Large 2, both terms up Nov 2026, and omits board member Ramona DeNies named by OPB in Oct 2025), so incumbency is left null for all EMSWCD candidates. Step-5 queries used \"Jeremy Wood\" soil water Multnomah because the bare name is common."
+}

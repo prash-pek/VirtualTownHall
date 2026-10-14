@@ -1,0 +1,173 @@
+{
+  "id": "silas-morgan",
+  "name": "Silas Morgan",
+  "name_variants": [],
+  "race_id": "east-multnomah-swcd-zone-3",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Farmer, Morgan Family Vineyards; Director of Business Development, TechForm Advanced Casting Technology",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "silas-morgan-b1",
+      "topic": "custom:bio",
+      "statement": "In his voters' pamphlet statement, Morgan lists his occupation as farmer at Morgan Family Vineyards.",
+      "excerpt": "Farmer, Morgan Family Vineyards",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_silas_morgan/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "silas-morgan-b2",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement also lists director of business development at TechForm Advanced Casting Technology.",
+      "excerpt": "Director of Business Development, TechForm Advanced Casting Technology",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_silas_morgan/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "silas-morgan-b3",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement says he holds a geology degree from Whitman College.",
+      "excerpt": "I hold a degree in geology from Whitman College, where I researched soil systems across the Columbia Basin.",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_silas_morgan/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "silas-morgan-b4",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists no prior governmental experience.",
+      "excerpt": "None",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_silas_morgan/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "silas-morgan-p1",
+      "topic": "agriculture",
+      "statement": "In his pamphlet statement, Morgan says his farming centers on building living soil through perennial cover cropping and minimizing compaction.",
+      "excerpt": "My work centers on building living soil through perennial cover cropping, minimizing compaction,",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_silas_morgan/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "silas-morgan-p2",
+      "topic": "environment",
+      "statement": "His pamphlet statement says he is running to help collectively steward healthy soil.",
+      "excerpt": "I'm running for the East Multnomah Soil and Water Conservation District board to help collectively steward healthy soil",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_silas_morgan/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "silas-morgan-p3",
+      "topic": "custom:budget",
+      "statement": "His pamphlet statement says his UC Davis finance MBA prepares him to help manage public funds responsibly.",
+      "excerpt": "I also hold an MBA in finance from UC Davis, which prepares me to help the district manage public funds responsibly",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_silas_morgan/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "silas-morgan-p4",
+      "topic": "custom:governance",
+      "statement": "His pamphlet statement says he would listen to farmers, landowners and communities and seek common ground.",
+      "excerpt": "In this role, I would listen to farmers, landowners, and communities across East Multnomah County, seek common ground,",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_silas_morgan/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed in pamphlet statement",
+    "No T3 coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/emswcd_zone_3_silas_morgan/download",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "used (Candidate Index)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://emswcd.org/about/board/",
+      "result": "used (stale roster; incumbency not set)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none listed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Silas Morgan\" East Multnomah Soil and Water 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Silas Morgan\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Silas Morgan\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "not found"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Silas Morgan\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "EMSWCD board page (emswcd.org/about/board/) is out of date (lists Mike Guebert in Zone 3 and Jasmine Zimmer-Stucky in At-Large 2, both terms up Nov 2026, and omits board member Ramona DeNies named by OPB in Oct 2025), so incumbency is left null for all EMSWCD candidates."
+}

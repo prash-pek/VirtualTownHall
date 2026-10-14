@@ -1,0 +1,202 @@
+{
+  "id": "keith-kudrna",
+  "name": "Keith A Kudrna",
+  "name_variants": [
+    "Keith Kudrna"
+  ],
+  "race_id": "fairview-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/fairview.aspx",
+  "occupation": "Residential Home Designer",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "keith-kudrna-b1",
+      "topic": "custom:bio",
+      "statement": "The Oregon Blue Book lists Keith Kudrna as mayor of Fairview.",
+      "excerpt": "Keith Kudrna",
+      "source": {
+        "url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/fairview.aspx",
+        "publisher": "Oregon Secretary of State (Oregon Blue Book)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "keith-kudrna-b2",
+      "topic": "custom:bio",
+      "statement": "In his voters' pamphlet statement, Kudrna lists his occupation as residential home designer.",
+      "excerpt": "Residential Home Designer",
+      "source": {
+        "url": "https://multco.us/file/fairview_mayor_keith_a_kudrna/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement said his present occupation was 'with Suntel House Plans'; the pamphlet lists Suntel House Plans, Inc under previous employment, not present occupation, and the excerpt does not mention it. Removed the employer from the statement.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "keith-kudrna-b3",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists the Fairview Planning Commission (2006-2016), City Council (2016-2023) and mayor (2023-2026).",
+      "excerpt": "Fairview Planning Commission 2006-2016, Fairview City Council 2016-2023, Mayor of Fairview 2023-2026",
+      "source": {
+        "url": "https://multco.us/file/fairview_mayor_keith_a_kudrna/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "keith-kudrna-b4",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists the Phoenix Institute of Technology as his education.",
+      "excerpt": "Phoenix Institute of Technology",
+      "source": {
+        "url": "https://multco.us/file/fairview_mayor_keith_a_kudrna/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "keith-kudrna-p1",
+      "topic": "transportation",
+      "statement": "In his pamphlet statement, Kudrna cites adding sidewalks along 223rd between Halsey and Bridge Street under public safety.",
+      "excerpt": "adding much needed sidewalks along 223 between Halsey and Bridge Street.",
+      "source": {
+        "url": "https://multco.us/file/fairview_mayor_keith_a_kudrna/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "keith-kudrna-p2",
+      "topic": "taxes",
+      "statement": "His pamphlet statement says Fairview passed a balanced budget with no deficit spending in 2026.",
+      "excerpt": "In 2026 we passed a balanced budget with no deficit spending.",
+      "source": {
+        "url": "https://multco.us/file/fairview_mayor_keith_a_kudrna/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "keith-kudrna-p3",
+      "topic": "custom:development",
+      "statement": "His pamphlet statement says growth should be done intentionally with future impact in mind.",
+      "excerpt": "it’s more important than ever to make sure that the growth is done intentionally with future impact in mind.",
+      "source": {
+        "url": "https://multco.us/file/fairview_mayor_keith_a_kudrna/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "keith-kudrna-p4",
+      "topic": "infrastructure",
+      "statement": "His pamphlet statement says funding city projects will require relationships he has built with regional leaders.",
+      "excerpt": "Providing funding for these projects will require relationships that I have built with regional leaders.",
+      "source": {
+        "url": "https://multco.us/file/fairview_mayor_keith_a_kudrna/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "keith-kudrna-p5",
+      "topic": "healthcare",
+      "statement": "In an October 2026 KATU report on Multnomah County ambulance response times, Kudrna calls differing response times for Fairview and Wood Village an inequity.",
+      "excerpt": "\"This is the inequity that we're looking at,\"",
+      "source": {
+        "url": "https://katu.com/news/local/plan-to-keep-8-minute-emergency-response-fails-in-close-multnomah-county-board-vote-county-chair-jessica-vega-pederson-fairview-mayor-keith-kudrna",
+        "publisher": "KATU (Tanvi Varma)",
+        "tier": "T3",
+        "published_at": "2026-10-01",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched; quote present, KATU byline Tanvi Varma, dated 2026-10-01. Article context: residents on the Wood Village/Fairview side of Glisan may wait longer for an ambulance than Gresham residents across the street.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record collected (council votes not in scope of fixed search set)",
+    "No campaign website listed in pamphlet statement (email only)"
+  ],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Unopposed race (fairview-mayor). Kudrna's statement plus Blue Book and one dated KATU quote; no balance comparison applicable. Spot-search found no missed T1/T2/T3 material. Incumbency (mayor) confirmed by Oregon Blue Book and his own statement ('Mayor of Fairview 2023-2026')."
+  }
+}

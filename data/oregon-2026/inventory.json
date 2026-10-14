@@ -5868,7 +5868,12 @@
       "race_id": "or-circuit-court-5-pos-5",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "name_variants": [
+        "Kara A. Brooks",
+        "Kara Brooks"
+      ]
     },
     {
       "id": "zohra-tourville",
@@ -6346,8 +6351,12 @@
       "name": "Keith A Kudrna",
       "race_id": "fairview-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/fairview.aspx",
+      "name_variants": [
+        "Keith Kudrna"
+      ]
     },
     {
       "id": "jenni-weber",
@@ -7379,7 +7388,8 @@
       "race_id": "clackamas-county-clerk",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/63a1590d-5ccc-448c-8eeb-ae2d5bdf5dd8"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/63a1590d-5ccc-448c-8eeb-ae2d5bdf5dd8",
+      "incumbent_source_url": "https://www.clackamas.us/clerk"
     },
     {
       "id": "mark-reaksecker",
@@ -7387,7 +7397,8 @@
       "race_id": "clackamas-county-clerk",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/b752a684-437a-4be3-a621-e5b130f54fa7"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/b752a684-437a-4be3-a621-e5b130f54fa7",
+      "incumbent_source_url": "https://www.clackamas.us/clerk"
     },
     {
       "id": "brian-nava",
@@ -7395,7 +7406,11 @@
       "race_id": "clackamas-county-treasurer",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/86ef06a3-6ab5-4387-b273-90b0a45b7d70"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/86ef06a3-6ab5-4387-b273-90b0a45b7d70",
+      "incumbent_source_url": "https://clackamas.us/treasurer",
+      "name_variants": [
+        "Brian Nava"
+      ]
     },
     {
       "id": "brad-oneil",
@@ -7403,7 +7418,8 @@
       "race_id": "clackamas-county-sheriff",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/da71af40-937e-4118-b9b6-f7447e28a1e5"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/da71af40-937e-4118-b9b6-f7447e28a1e5",
+      "incumbent_source_url": "https://www.opb.org/article/2026/07/28/clackamas-county-sheriffs-office-rhodes/"
     },
     {
       "id": "james-rhodes",
@@ -7411,7 +7427,8 @@
       "race_id": "clackamas-county-sheriff",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/331c31ae-30d8-4057-a14f-bacbc397fd40"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/331c31ae-30d8-4057-a14f-bacbc397fd40",
+      "incumbent_source_url": "https://www.clackamas.us/elections/november-3-2026-general-election"
     },
     {
       "id": "mark-shull",
@@ -7419,7 +7436,8 @@
       "race_id": "clackamas-county-commissioner-pos-2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/cd979d28-a5a7-4abc-9e7b-53049da4a439"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/cd979d28-a5a7-4abc-9e7b-53049da4a439",
+      "incumbent_source_url": "https://clackamas.us/elections/localofficials.html"
     },
     {
       "id": "paul-savas",
@@ -7436,7 +7454,12 @@
       "race_id": "clackamas-county-commissioner-pos-4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/ae9e8938-5dd7-499c-bc7b-e5519caf1ac1"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/ae9e8938-5dd7-499c-bc7b-e5519caf1ac1",
+      "incumbent_source_url": "https://clackamas.us/elections/localofficials.html",
+      "name_variants": [
+        "R.W. Smith",
+        "Remy Smith"
+      ]
     },
     {
       "id": "diana-helm",
@@ -7452,8 +7475,12 @@
       "name": "Kathleen Rastetter",
       "race_id": "clackamas-county-justice-of-the-peace",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/ef224ce9-ab84-489f-a690-02028b980b4e"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/ef224ce9-ab84-489f-a690-02028b980b4e",
+      "incumbent_source_url": "https://www.clackamas.us/news/2026-01-15/kathleen-rastetter-appointed-as-clackamas-county-justice-of-the-peace",
+      "name_variants": [
+        "Kathleen J. Rastetter"
+      ]
     },
     {
       "id": "brian-hodson",

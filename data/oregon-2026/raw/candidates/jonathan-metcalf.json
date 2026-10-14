@@ -1,0 +1,129 @@
+{
+  "id": "jonathan-metcalf",
+  "name": "Jonathan Metcalf",
+  "name_variants": [],
+  "race_id": "estacada-mayor",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.cityofestacada.org/?p=38999",
+  "occupation": "Business Owner, Barbarian Creative",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "jonathan-metcalf-b1",
+      "topic": "custom:bio",
+      "statement": "Metcalf's pamphlet statement lists work in construction and service as a U.S. Marine Corps combat veteran with two deployments to Afghanistan.",
+      "excerpt": "Construction; United States Marine Corps combat veteran; two deployments to Afghanistan",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jonathan-metcalf-b2",
+      "topic": "custom:bio",
+      "statement": "Metcalf's pamphlet statement lists service as an Estacada city councilor since 2023 and as council president.",
+      "excerpt": "Estacada City Councilor, 2023-present; Council President; Economic Development Commission Liaison",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "jonathan-metcalf-p1",
+      "topic": "infrastructure",
+      "statement": "In his voters' pamphlet statement, Metcalf says that as mayor he would pursue funding for roads, utilities and essential services.",
+      "excerpt": "As mayor, I will focus on practical solutions: pursuing funding for roads, utilities, and essential services;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jonathan-metcalf-p2",
+      "topic": "custom:governance",
+      "statement": "Metcalf's pamphlet statement says the community deserves a mayor who listens, communicates clearly and brings people together around shared goals.",
+      "excerpt": "Our community deserves a mayor who listens, communicates clearly, and brings people together around shared goals.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jonathan-metcalf-p3",
+      "topic": "taxes",
+      "statement": "Metcalf's pamphlet statement says he will approach decisions with discipline and respect for taxpayers.",
+      "excerpt": "I will approach each decision with discipline, common sense, and respect for taxpayers.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 campaign coverage in T3 outlets (OPB 2026-04 article concerns council appointments, not positions)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-20)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "No City of Estacada councilor profile page for Metcalf found via search",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website listed in pamphlet",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Jonathan Metcalf\" Estacada 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jonathan Metcalf\" Estacada \"\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jonathan Metcalf\" Estacada \"\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jonathan Metcalf\" Estacada \"\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/04/29/estacada-councilor-charges-vacancy-appointment-criminal-histories/",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "incumbent=false for the mayor race: the City of Estacada directory lists Sean Drinkwine as Mayor (term ends 2026-12-31). Metcalf is a sitting councilor per his pamphlet statement and OPB (elected Nov. 2024, term to 2028). OPB article covers councilors' criminal histories (Metcalf's DUII probation at appointment); not used as position evidence. Step-4/5 queries add 'Estacada' to disambiguate names, same for all Estacada candidates."
+}

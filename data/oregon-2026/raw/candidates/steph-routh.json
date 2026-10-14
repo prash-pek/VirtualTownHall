@@ -1,0 +1,127 @@
+{
+  "id": "steph-routh",
+  "name": "Steph Routh",
+  "name_variants": [],
+  "race_id": "east-multnomah-swcd-at-large-2",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "steph-routh-b1",
+      "topic": "custom:bio",
+      "statement": "An OPB 2024 Portland City Council District 1 candidate profile lists Routh's occupation as small business owner and PSU adjunct instructor.",
+      "excerpt": "Occupation: Small business owner; Adjunct instructor, PSU",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/26/portland-oregon-steph-routh-city-council-district-one-1/",
+        "publisher": "OPB (OPB staff)",
+        "tier": "T3",
+        "published_at": "2024-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "steph-routh-p1",
+      "topic": "housing",
+      "statement": "In a 2024 OPB candidate profile for Portland City Council, Routh says time and uncertainty in housing development are solvable problems.",
+      "excerpt": "Time and uncertainty are two expensive aspects of housing development, and these are solvable problems.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/26/portland-oregon-steph-routh-city-council-district-one-1/",
+        "publisher": "OPB (OPB staff)",
+        "tier": "T3",
+        "published_at": "2024-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steph-routh-p2",
+      "topic": "transportation",
+      "statement": "In the same 2024 OPB profile, Routh says Portland needs to fix its roads.",
+      "excerpt": "We need to fix the damn roads.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/26/portland-oregon-steph-routh-city-council-district-one-1/",
+        "publisher": "OPB (OPB staff)",
+        "tier": "T3",
+        "published_at": "2024-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steph-routh-p3",
+      "topic": "environment",
+      "statement": "In the 2024 OPB profile, Routh opposes putting Portland's Clean Energy Fund back on the ballot.",
+      "excerpt": "I do not support putting the Clean Energy Fund back on the ballot.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/26/portland-oregon-steph-routh-city-council-district-one-1/",
+        "publisher": "OPB (OPB staff)",
+        "tier": "T3",
+        "published_at": "2024-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement PDF in the Military & Overseas guide is a scan with no machine-readable text; the full county pamphlet lists it at M-72 but the fetch tool truncates before that page",
+    "No 2026 source on soil and water district positions; T3 items date from her 2024 Portland City Council campaign",
+    "No campaign website found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/emswcd_at-large_pos_2_steph_routh/download",
+      "result": "blocked (scan, no machine-readable text)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "used (Candidate Index)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://emswcd.org/about/board/",
+      "result": "used (stale roster; incumbency not set)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no domain in any T1/T3 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Steph Routh\" East Multnomah Soil and Water 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Steph Routh\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (2024 coverage)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Steph Routh\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (2024 coverage)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Steph Routh\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (2024 coverage)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2024/09/26/portland-oregon-steph-routh-city-council-district-one-1/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "EMSWCD board page (emswcd.org/about/board/) is out of date (lists Mike Guebert in Zone 3 and Jasmine Zimmer-Stucky in At-Large 2, both terms up Nov 2026, and omits board member Ramona DeNies named by OPB in Oct 2025), so incumbency is left null for all EMSWCD candidates. T3 items are from Routh's 2024 Portland City Council District 1 (East Portland) campaign and concern city issues, not district duties; they are labeled with their 2024 date. Identity match is by the distinctive name and East Portland location; the 2026 statement is a scan so it could not be cross-checked. Verifier should confirm."
+}
