@@ -1,0 +1,163 @@
+{
+  "id": "steve-gearhart",
+  "name": "Steve Gearhart",
+  "name_variants": [
+    "Stephen Gearhart",
+    "Steven Gearhart"
+  ],
+  "race_id": "king-city-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.ci.king-city.or.us/stephen_gearhart/index.php",
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "steve-gearhart-b1",
+      "topic": "custom:bio",
+      "statement": "King City's council bio page lists Gearhart as council president.",
+      "excerpt": "Steve Gearhart, Council President",
+      "source": {
+        "url": "https://www.ci.king-city.or.us/stephen_gearhart/index.php",
+        "publisher": "City of King City (Councilor bio)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-gearhart-b2",
+      "topic": "custom:bio",
+      "statement": "Gearhart's pamphlet statement lists 12 years in sales management.",
+      "excerpt": "Sales Management, 12 years",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-gearhart-b3",
+      "topic": "custom:bio",
+      "statement": "Gearhart's pamphlet statement lists HR management studies at Portland Community College.",
+      "excerpt": "PCC, HR Management",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "steve-gearhart-p1",
+      "topic": "transportation",
+      "statement": "In his voters' pamphlet statement, Gearhart cites more than 600 people asking the council not to let Fischer Road go through.",
+      "excerpt": "More than 600 people contacted City Council and said “Do not let Fischer Road go through”.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-gearhart-p2",
+      "topic": "transportation",
+      "statement": "Gearhart's pamphlet statement says the city hired a consultant on how to better control Fischer Road.",
+      "excerpt": "hired a consultant to determine how we can better control Fischer Road.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-gearhart-p3",
+      "topic": "custom:growth",
+      "statement": "Gearhart's pamphlet statement says rapid new growth makes listening to residents more critical.",
+      "excerpt": "With the rapid new growth, it’s even more critical to listen to our residents",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-gearhart-p4",
+      "topic": "custom:governance",
+      "statement": "Gearhart's pamphlet statement says he listens first and works through differences.",
+      "excerpt": "I listen first, work through differences, and help people find a way forward.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (offset 40000)",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.ci.king-city.or.us/city_council_candidate_filings/index.php",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.ci.king-city.or.us/councilors_-_bios.php",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign website printed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Steve Gearhart\" King City council 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Steve Gearhart\" King City (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Steve Gearhart\" King City (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Steve Gearhart\" King City (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.ci.king-city.or.us/stephen_gearhart/index.php",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "King City council bios page lists seven councilors: Rachel Kazmierski, Stephen Gearhart, Vince Arditi, Sandra Cunningham, Gary Mitchell, Linda Quanstrom, Jan Tysoe. The city's candidate-filings page lists completed filings for Dirksen, Cunningham, Gearhart, Suesserman (spelled 'Susserman') and Buehner, and James M Minor as a prospective petition. Step 4/5 searches returned only older (2016-2023) Pamplin/WW coverage or other King Cities; not used to keep treatment equal. Name on city site 'Stephen'/'Steven'. A 2023 WW article and Ballotpedia page on a 2023-24 King City recall surfaced; not fetched or used."
+}

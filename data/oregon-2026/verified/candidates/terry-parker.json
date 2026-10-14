@@ -1,0 +1,87 @@
+{
+  "id": "terry-parker",
+  "name": "Terry Parker",
+  "name_variants": [],
+  "race_id": "portland-council-d3",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "terry-parker-b1",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Parker is retired and previously worked as a national account representative for Yellow Pages.",
+      "excerpt": "Currently retired, Terry Parker previously worked as a national account rep for Yellow Pages",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Mercury (Mercury Election Strike Force, 2026-09-09), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "terry-parker-b2",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Parker has not held elected office but served on two ODOT citizen advisory committees.",
+      "excerpt": "Parker, 76, hasn’t held elected office, but he served on two ODOT citizen advisory committees",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Mercury (Mercury Election Strike Force, 2026-09-09), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "terry-parker-p1",
+      "topic": "public-safety",
+      "statement": "In a Portland Mercury candidate profile, Parker says Portland's police and fire bureaus need full funding, including more police officers.",
+      "excerpt": "Portland police and fire bureaus need full funding. This includes increasing the number of police officers",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Mercury (Mercury Election Strike Force, 2026-09-09), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement not readable: the individual statement PDF in the county's Military & Overseas Online Voters' Guide is a scan with no machine-readable text, and the full and large-print county pamphlet PDFs are cut off by the fetch tool (~105k characters) before the City of Portland section (pp. M-52 to M-66)",
+    "City filing form (AUD-120) PDF had no readable text",
+    "No campaign website found in a T1 source",
+    "Did not respond to the Portland Tribune candidate Q&A",
+    "No voting record (has not held elected office)"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race portland-council-d3 (21 candidates). Every candidate was searched in the same shared sources: the Mercury (2026-09-09), OPB (2026-10-07), the Tribune Q&A (2026-10-13), the Multnomah pamphlet and the 2026 AUD-120 forms. The pamphlet index lists a statement for this candidate, but the collector could not read it. The pamphlet PDF text is 104,260 characters and ends before the Portland section (M-53 to M-60), and the individual statement scan is not linked from the MOO guide page and could not be re-fetched. This is a source-access gap, confirmed. The AUD-120 has no readable text, and the 'did not respond to Tribune' gap is confirmed. Parker has 2 bio items and 1 position. Dated 2024 OPB and KATU profiles exist but were not used (2024 was excluded consistently). Incumbent=false confirmed."
+  }
+}

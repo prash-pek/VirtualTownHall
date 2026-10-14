@@ -1,0 +1,175 @@
+{
+  "id": "sandy-cunningham",
+  "name": "Sandy Cunningham",
+  "name_variants": [
+    "Sandra Cunningham"
+  ],
+  "race_id": "king-city-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.ci.king-city.or.us/new_page/sandra_cunningham-index.php",
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "sandy-cunningham-b1",
+      "topic": "custom:bio",
+      "statement": "King City's council bio page lists Cunningham's term as expiring at the end of 2026.",
+      "excerpt": "Term Expires: 12/31/2026",
+      "source": {
+        "url": "https://www.ci.king-city.or.us/new_page/sandra_cunningham-index.php",
+        "publisher": "City of King City (Councilor bio)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sandy-cunningham-b2",
+      "topic": "custom:bio",
+      "statement": "Cunningham's pamphlet statement says she is a current, appointed King City councilor.",
+      "excerpt": "Current King City Councilor (appointed)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sandy-cunningham-b3",
+      "topic": "custom:bio",
+      "statement": "Cunningham's pamphlet statement lists a background in legal administration, operations and financial oversight.",
+      "excerpt": "Legal Administration - managed operations, procedures, and financial oversight for legal organizations",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sandy-cunningham-b4",
+      "topic": "custom:bio",
+      "statement": "Cunningham's pamphlet statement lists business administration studies at Portland Community College.",
+      "excerpt": "Portland Community College - Business Administration",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "sandy-cunningham-p1",
+      "topic": "taxes",
+      "statement": "In her voters' pamphlet statement, Cunningham pledges to protect taxpayer dollars through responsible budgeting.",
+      "excerpt": "Protect taxpayer dollars through responsible budgeting.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sandy-cunningham-p2",
+      "topic": "custom:governance",
+      "statement": "Cunningham's pamphlet statement supports transparent and accountable local government.",
+      "excerpt": "Promote transparent and accountable local government.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sandy-cunningham-p3",
+      "topic": "public-safety",
+      "statement": "Cunningham's pamphlet statement supports public safety and high-quality city services.",
+      "excerpt": "Support public safety and maintain high-quality city services.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sandy-cunningham-p4",
+      "topic": "economy",
+      "statement": "Cunningham's pamphlet statement cites completing negotiations on an expired union contract for city employees.",
+      "excerpt": "completed negotiations on an expired union contract for city employees",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (offset 40000)",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.ci.king-city.or.us/city_council_candidate_filings/index.php",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.ci.king-city.or.us/councilors_-_bios.php",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign website printed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Sandy Cunningham\" King City council 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sandy Cunningham\" King City (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sandy Cunningham\" King City (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sandy Cunningham\" King City (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.ci.king-city.or.us/new_page/sandra_cunningham-index.php",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "King City council bios page lists seven councilors: Rachel Kazmierski, Stephen Gearhart, Vince Arditi, Sandra Cunningham, Gary Mitchell, Linda Quanstrom, Jan Tysoe. The city's candidate-filings page lists completed filings for Dirksen, Cunningham, Gearhart, Suesserman (spelled 'Susserman') and Buehner, and James M Minor as a prospective petition. Step 4/5 searches returned only older (2016-2023) Pamplin/WW coverage or other King Cities; not used to keep treatment equal. Listed as Sandra Cunningham on the city site."
+}

@@ -1,0 +1,105 @@
+{
+  "id": "guy-frankenstein",
+  "name": "Guy Frankenstein",
+  "name_variants": [],
+  "race_id": "portland-council-d3",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "Student",
+  "website_url": "https://guyfrankenstein.com",
+  "website_verified_via": "https://www.portland.gov/auditor/elections/documents/frankenstein-guy-aud-120-original/download",
+  "bio": [
+    {
+      "id": "guy-frankenstein-b1",
+      "topic": "custom:bio",
+      "statement": "Frankenstein's city candidate filing form lists his current occupation as student.",
+      "excerpt": "Student",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/frankenstein-guy-aud-120-original/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 City of Portland AUD-120 candidate filing form (Councilor District 3), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "guy-frankenstein-b2",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Frankenstein has a background in auto insurance and is currently in graduate school.",
+      "excerpt": "Frankenstein, 43, has a background in auto insurance, but is currently in grad school.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Mercury (Mercury Election Strike Force, 2026-09-09), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "guy-frankenstein-p1",
+      "topic": "custom:governance",
+      "statement": "In a Portland Mercury candidate profile, Frankenstein says he has no previous political experience and no desire to work within politics.",
+      "excerpt": "I have no previous political experience and have absolutely no desire to work within politics",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Mercury (Mercury Election Strike Force, 2026-09-09), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "guy-frankenstein-p2",
+      "topic": "custom:governance",
+      "statement": "In a Portland Mercury candidate profile, Frankenstein says he is not running to be an effective team player.",
+      "excerpt": "I’m not running for City Council to be an effective team player.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Mercury (Mercury Election Strike Force, 2026-09-09), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement: the county pamphlet's candidate index marks this candidate with an asterisk ('did not file a candidate statement'), and no statement is linked in the county's Military & Overseas Online Voters' Guide",
+    "No specific policy positions found in T1/T3 sources",
+    "Did not respond to the Portland Tribune candidate Q&A",
+    "No voting record (has not held elected office)"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race portland-council-d3 (21 candidates). Every candidate was searched in the same shared sources: the Mercury (2026-09-09), OPB (2026-10-07), the Tribune Q&A (2026-10-13), the Multnomah pamphlet and the 2026 AUD-120 forms. The pamphlet candidate index marks this candidate with an asterisk ('did not file a candidate statement'). The thin profile is a non-filer gap, not missed effort. Frankenstein has 2 bio and 2 position items. The 'did not respond to Tribune' gap is confirmed, and OPB does not name him. The website guyfrankenstein.com is confirmed on the form. Incumbent=false confirmed."
+  }
+}
