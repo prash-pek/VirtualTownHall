@@ -90,3 +90,15 @@ Verifier adds to every ITEM / argument / measure summary field:
 "verification": { "status": "verified|corrected|rejected", "checks_failed": [], "note": "...", "verified_at": "2026-10-13" }
 ```
 and at file level: `"verification_summary": { "verified": 0, "corrected": 0, "rejected": 0, "balance_notes": "..." }`.
+
+## Pipeline additions (2026-10-14)
+
+Fields added by the collector/verifier pipeline (`pipeline/`), all optional for importers:
+
+- Inventory candidates: `incumbent_source_url` (official page supporting `incumbent`), `name_variants` (other spellings; `name` is the printed-ballot spelling).
+- Raw candidates: `incumbent_source_url`, `name_variants`, `collection_log` (list of `{step, query_or_url, result}` showing the fixed search set was run), `collection_notes`. The last two are removed in `verified/`.
+- Measures: arguments carry `id` and `topic` like an ITEM. `kind: "explainer"` marks text from an official explanatory statement or the jurisdiction's own documents rather than a filed pamphlet argument. Oregon local ballot titles have no official result-of-vote text, so `yes_means`/`no_means` are neutral one-sentence descriptions of the ballot question.
+- Verified measures: `<field>_verification` objects for `ballot_label`, `summary`, `yes_means`, `no_means`, `fiscal_impact`.
+- `reports/inventory_fixes.json`: proposed inventory corrections with evidence; `pipeline/apply_fixes.py` applies the confirmed ones and verified incumbency.
+
+Run `python3 pipeline/validate.py status` for coverage, `validate.py raw|verified <files>` for checks.

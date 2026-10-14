@@ -3200,7 +3200,7 @@
       "jurisdiction_id": "north-plains",
       "office": "City Council",
       "district": null,
-      "seats": null,
+      "seats": 3,
       "partisan": false,
       "candidate_ids": [
         "anna-warrington",
@@ -3339,7 +3339,7 @@
         "jennie-hill",
         "katie-dunwell"
       ],
-      "source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026-0/download?inline",
+      "source_url": "https://docs.clackamas.us/documents/drupal/96f2dbbd-27d1-465a-a1ae-7923d725f7e8",
       "notes": "Washington County page mislabels this Wilsonville certification link as 'City of Tualatin'."
     },
     {
@@ -4134,7 +4134,11 @@
       "race_id": "or-us-senate",
       "party": "Republican",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "name_variants": [
+        "Brock Smith"
+      ]
     },
     {
       "id": "jeff-merkley",
@@ -4147,7 +4151,8 @@
         "Democrat",
         "Working Families"
       ],
-      "notes": "Incumbency per Oregon Blue Book (U.S. Senators)."
+      "notes": "Incumbency per Oregon Blue Book (U.S. Senators).",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "gary-lyndon-dye",
@@ -4155,7 +4160,11 @@
       "race_id": "or-us-senate",
       "party": "Libertarian",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "name_variants": [
+        "Gary Dye"
+      ]
     },
     {
       "id": "chris-henry",
@@ -4167,7 +4176,8 @@
       "nominating_parties": [
         "Progressive",
         "Pacific Green"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "barbara-kahl",
@@ -4175,7 +4185,11 @@
       "race_id": "or-us-house-1",
       "party": "Republican",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "name_variants": [
+        "Barbara Kahl"
+      ]
     },
     {
       "id": "suzanne-bonamici",
@@ -4187,7 +4201,8 @@
       "nominating_parties": [
         "Democrat",
         "Working Families"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "chris-beck",
@@ -4199,7 +4214,8 @@
       "nominating_parties": [
         "Democrat",
         "Independent"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf"
     },
     {
       "id": "cliff-bentz",
@@ -4207,7 +4223,8 @@
       "race_id": "or-us-house-2",
       "party": "Republican",
       "incumbent": true,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf"
     },
     {
       "id": "maxine-dexter",
@@ -4215,7 +4232,11 @@
       "race_id": "or-us-house-3",
       "party": "Democrat",
       "incumbent": true,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "name_variants": [
+        "Maxine Dexter"
+      ]
     },
     {
       "id": "loran-ayles",
@@ -4223,7 +4244,8 @@
       "race_id": "or-us-house-3",
       "party": "Republican",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "monique-despain",
@@ -4235,7 +4257,8 @@
       "nominating_parties": [
         "Republican",
         "Libertarian"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf"
     },
     {
       "id": "val-hoyle",
@@ -4247,7 +4270,8 @@
       "nominating_parties": [
         "Democrat",
         "Working Families"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf"
     },
     {
       "id": "justin-filip",
@@ -4259,7 +4283,8 @@
       "nominating_parties": [
         "Pacific Green",
         "Progressive"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf"
     },
     {
       "id": "janelle-bynum",
@@ -4267,7 +4292,11 @@
       "race_id": "or-us-house-5",
       "party": "Democrat",
       "incumbent": true,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "name_variants": [
+        "Janelle Bynum"
+      ]
     },
     {
       "id": "andrea-townsend",
@@ -4275,7 +4304,8 @@
       "race_id": "or-us-house-5",
       "party": "Pacific Green",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "patti-adair",
@@ -4287,7 +4317,8 @@
       "nominating_parties": [
         "Republican",
         "Libertarian"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "andrea-salinas",
@@ -4299,7 +4330,8 @@
       "nominating_parties": [
         "Democrat",
         "Independent"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf"
     },
     {
       "id": "david-russ",
@@ -4307,7 +4339,8 @@
       "race_id": "or-us-house-6",
       "party": "Republican",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf"
     },
     {
       "id": "brett-smith",
@@ -4315,7 +4348,8 @@
       "race_id": "or-governor",
       "party": "Pacific Green",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "tina-kotek",
@@ -4327,7 +4361,8 @@
       "nominating_parties": [
         "Democrat",
         "Working Families"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/state/executive/governor-bio.aspx"
     },
     {
       "id": "christine-drazan",
@@ -4339,7 +4374,8 @@
       "nominating_parties": [
         "Republican",
         "Libertarian"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/state/executive/governor-bio.aspx"
     },
     {
       "id": "denise-krause",
@@ -5737,7 +5773,11 @@
       "race_id": "or-circuit-court-4-pos-2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "name_variants": [
+        "Diane Sykes"
+      ]
     },
     {
       "id": "laura-maurer-rowan",
@@ -5745,7 +5785,12 @@
       "race_id": "or-circuit-court-4-pos-2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "name_variants": [
+        "Laura M Rowan",
+        "Laura Mauer Rowan"
+      ]
     },
     {
       "id": "elizabeth-savage",
@@ -5753,7 +5798,8 @@
       "race_id": "or-circuit-court-4-pos-14",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
     },
     {
       "id": "joseph-hagedorn",
@@ -5761,7 +5807,8 @@
       "race_id": "or-circuit-court-4-pos-14",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
     },
     {
       "id": "thaddeus-betz",
@@ -5809,7 +5856,11 @@
       "race_id": "or-circuit-court-4-pos-6",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "name_variants": [
+        "Sonia Montalbano"
+      ]
     },
     {
       "id": "kara-brooks",
@@ -5865,7 +5916,8 @@
       "race_id": "multnomah-county-chair",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/shannon_singleton_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/shannon_singleton_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "julia-brim-edwards",
@@ -5873,7 +5925,8 @@
       "race_id": "multnomah-county-chair",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/julia_brim-edwards_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/julia_brim-edwards_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "sharon-meieran",
@@ -5881,7 +5934,8 @@
       "race_id": "multnomah-county-chair",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/sharon_meieran_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/sharon_meieran_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "bruce-broussard",
@@ -5889,7 +5943,8 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/bruce_broussard_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/bruce_broussard_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "herman-greene",
@@ -5897,7 +5952,8 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/herman_greene_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/herman_greene_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "bri-williams",
@@ -5905,7 +5961,8 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/bri_williams_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/bri_williams_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "serena-cruz",
@@ -5913,7 +5970,8 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/serena_cruz_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/serena_cruz_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "nathan-ong-norris",
@@ -5921,7 +5979,8 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/nathan_ong_norris_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/nathan_ong_norris_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "nabil-zaghloul",
@@ -5929,7 +5988,8 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/nabil_zaghloul_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/nabil_zaghloul_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "tony-robertson",
@@ -5937,23 +5997,29 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/tony_robertson_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/tony_robertson_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "nicole-pexton",
       "name": "Nicole Pexton",
       "race_id": "multnomah-county-auditor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/nicole_pexton_candidate_filing/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/nicole_pexton_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/info/county-auditor-and-staff"
     },
     {
       "id": "nicole-morrisey-odonnell",
       "name": "Nicole Morrisey O'Donnell",
       "race_id": "multnomah-county-sheriff",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/nicole_morrisey_o'donnell_candidate_filing-0/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/nicole_morrisey_o'donnell_candidate_filing-0/download",
+      "incumbent_source_url": "https://www.mcso.us/about-mcso/meet-sheriff",
+      "name_variants": [
+        "Nicole Morrisey O’Donnell"
+      ]
     },
     {
       "id": "simone-rede",
@@ -7361,7 +7427,8 @@
       "race_id": "clackamas-county-commissioner-pos-2",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e9fa5be8-da4e-4597-86a1-ab8a98931eab"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e9fa5be8-da4e-4597-86a1-ab8a98931eab",
+      "incumbent_source_url": "https://clackamas.us/elections/localofficials.html"
     },
     {
       "id": "rw-smith",
@@ -7377,7 +7444,8 @@
       "race_id": "clackamas-county-commissioner-pos-4",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/a5ffc393-6380-41cb-9119-9a5c3d1edebe"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/a5ffc393-6380-41cb-9119-9a5c3d1edebe",
+      "incumbent_source_url": "https://clackamas.us/elections/localofficials.html"
     },
     {
       "id": "kathleen-rastetter",
@@ -7640,8 +7708,9 @@
       "name": "KC Bisenius",
       "race_id": "molalla-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5b0f9507-07da-4606-9959-252ac8ac8907"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5b0f9507-07da-4606-9959-252ac8ac8907",
+      "incumbent_source_url": "https://www.cityofmolalla.com/Departments/City-Recorders-Office/Elections"
     },
     {
       "id": "monica-bergmann",
@@ -7890,7 +7959,7 @@
     },
     {
       "id": "maria-hinojos-pressey",
-      "name": "Maria Hinojos Pressey",
+      "name": "Maria Hinojos Pressy",
       "race_id": "marion-county-commissioner-pos-2",
       "party": "Democrat",
       "incumbent": null,
@@ -7899,6 +7968,9 @@
         "Democrat",
         "Independent",
         "Working Families"
+      ],
+      "name_variants": [
+        "Maria Hinojos Pressey"
       ]
     },
     {
@@ -7906,8 +7978,9 @@
       "name": "Samual A Brentano",
       "race_id": "marion-county-treasurer",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
+      "incumbent": true,
+      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "incumbent_source_url": "https://co.marion.or.us/TO"
     }
   ],
   "coverage_notes": "Inventory built 2026-10-13 from Tier-1 sources only. STATE/FEDERAL: complete per Secretary of State Directive 2026-09 'Candidate Ballot Statement' (2026-09-03): US Senate, US House 1-6, Governor, 15 State Senate and 60 State House races, 7 circuit-court positions and 3 district-attorney races. No statewide measures and no statewide nonpartisan (e.g. BOLI) or appellate judicial contests are on the Nov 3 ballot per the same directive. PORTLAND METRO: Multnomah (official Ballot Content + RCV Ballot Content reports, 2026-09-22), Washington (county current-election page, city/SWCD certifications, voters' pamphlet) and Clackamas (county election page, filings, voters' pamphlet index) inventoried in full for county, city, SWCD, PUD, school and special-district contests and measures listed by those offices. No Metro (regional government) contests or measures appear on any of the three counties' November ballot lists. Washington/Clackamas legislative races are covered by the statewide SOS statement. REST OF STATE: only Marion County county-level races and Marion-filed measures were inventoried; Marion city races were NOT inventoried because the pamphlet's composite sample ballot text could not be reliably attributed to cities. All other counties' local races and measures (Lane, Deschutes, Jackson, Linn, Benton, etc.) are NOT inventoried. ZIP codes were left empty (no reliable official mapping read). Incumbency: set from oregonlegislature.gov rosters, Oregon Blue Book, portland.gov/council, multco.us/board, clackamas.us/bcc, judicial 'Incumbent' designations and city certification letters; null where no source read states it."
