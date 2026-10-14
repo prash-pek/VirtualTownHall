@@ -1,0 +1,167 @@
+{
+  "id": "tom-sollitt",
+  "name": "Tom Sollitt",
+  "name_variants": [
+    "Tom Sollett"
+  ],
+  "race_id": "portland-council-d3",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "Not employed (filing form)",
+  "website_url": "https://www.tomforpdx.com",
+  "website_verified_via": "https://www.portland.gov/auditor/elections/documents/sollitt-tom-2020-aud-120-form/download",
+  "bio": [
+    {
+      "id": "tom-sollitt-b1",
+      "topic": "custom:bio",
+      "statement": "Sollitt's city candidate filing form lists his occupational background as program and exhibit manager.",
+      "excerpt": "Program & Exhibit Manager",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/sollitt-tom-2020-aud-120-form/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tom-sollitt-b2",
+      "topic": "custom:bio",
+      "statement": "OPB describes Sollitt as a communications consultant who uses the city's small donor program.",
+      "excerpt": "Tom Sollitt, another small donor program user, is a communications consultant",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/what-to-know-about-portland-district-3-council-race/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "tom-sollitt-p1",
+      "topic": "custom:neighborhoods",
+      "statement": "OPB reports Sollitt wants the city to invest more in neighborhoods and improve relationships with other local governments.",
+      "excerpt": "the city invest more in neighborhoods, improve relationships with other local governments",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/what-to-know-about-portland-district-3-council-race/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tom-sollitt-p2",
+      "topic": "public-safety",
+      "statement": "In a Portland Mercury candidate profile, Sollitt says Portland needs more police staffing but should be intentional about where positions go.",
+      "excerpt": "Portland needs to increase police staffing, but we should be intentional about where those positions go",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tom-sollitt-p3",
+      "topic": "custom:governance",
+      "statement": "In a Portland Mercury candidate profile, Sollitt says Portlanders too often have their needs ignored.",
+      "excerpt": "Portlanders too often have their needs ignored",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement not readable: the individual statement PDF in the county's Military & Overseas Online Voters' Guide is a scan with no machine-readable text, and the full and large-print county pamphlet PDFs are cut off by the fetch tool (~105k characters) before the City of Portland section (pp. M-52 to M-66)",
+    "Did not respond to the Portland Tribune candidate Q&A",
+    "No voting record (has not held elected office)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/portland_dist_3_tom_sollett/download",
+      "result": "blocked (scan, no machine-readable text)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked (text extraction ends ~104k characters, before the City of Portland section)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked (text extraction ends ~106k characters, before the City of Portland section)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.portland.gov/auditor/elections/run4office/2026-city-candidates",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.portland.gov/auditor/elections/documents/sollitt-tom-2020-aud-120-form/download",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.portland.gov/council",
+      "result": "nothing relevant (not a current or former officeholder per official sources)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "tomforpdx.com (listed on the AUD-120 filing form)",
+      "result": "used (domain recorded; site not fetched)"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Tom Sollitt\" Portland City Council 2026",
+      "result": "nothing relevant (Wikipedia; bikeportland.org profile not on the T3 list)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tom Sollitt\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tom Sollitt\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tom Sollitt\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/10/07/what-to-know-about-portland-district-3-council-race/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-3-candidates-their-priorities-experience-and-fun-facts/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Steps run identically for all 21 District 3 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF (with the full and large-print county pamphlets tried where the statement PDF was a scan; the pamphlet's candidate index marks candidates who filed no statement) plus the City Auditor's AUD-120 candidate filing form linked from portland.gov's 2026 city candidates page; (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the three articles that cover the whole District 3 field: OPB 'What to know about Portland's District 3 council race' (2026-10-07), Portland Mercury 'Meet the Candidates For City Council District 3' (2026-09-09) and Portland Tribune 'Meet the Portland City Council District 3 candidates' (2026-10-13; Q&A — the Tribune says Sollitt, Pham, Parker, McCormick, Kelly and Frankenstein did not respond and Tucker withdrew). Multi-winner race: OPB states three council seats are available in District 3. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Spelling: ballot, filing form and Tribune use 'Sollitt'; the county Military & Overseas guide labels his statement file 'Tom Sollett'."
+}
