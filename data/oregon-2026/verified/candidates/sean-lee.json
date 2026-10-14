@@ -1,0 +1,109 @@
+{
+  "id": "sean-lee",
+  "name": "Sean Lee",
+  "name_variants": [],
+  "race_id": "durham-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://durham-oregon.us/city-council/",
+  "occupation": "Executive coaching and advisory practice",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "sean-lee-b1",
+      "topic": "custom:bio",
+      "statement": "Durham's council page says Lee serves on the city council.",
+      "excerpt": "He serves on the Durham City Council with a simple conviction: good decisions start with listening,",
+      "source": {
+        "url": "https://durham-oregon.us/city-council/",
+        "publisher": "City of Durham (City Council page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt ended mid-word ('understand'); trimmed to a word boundary.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sean-lee-b2",
+      "topic": "custom:bio",
+      "statement": "Durham's council page says Lee runs an executive coaching and advisory practice.",
+      "excerpt": "He also runs an executive coaching and advisory practice.",
+      "source": {
+        "url": "https://durham-oregon.us/city-council/",
+        "publisher": "City of Durham (City Council page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on City of Durham council page (re-fetched 2026-10-14).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sean-lee-b3",
+      "topic": "custom:bio",
+      "statement": "The January 2026 council agenda roll call lists Lee among Durham councilors.",
+      "excerpt": "(Mayor Joshua Drake, Council President: Leslie Gifford, Councilors Gary Paul, David Streicher and Sean Lee)",
+      "source": {
+        "url": "https://durham-oregon.us/wp-content/uploads/2026/01/2026-01-27-Agenda.pdf",
+        "publisher": "City of Durham (City Council agenda, Jan. 27, 2026)",
+        "tier": "T1",
+        "published_at": "2026-01-27",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Durham City Council agenda for Jan 27, 2026 (re-fetched 2026-10-14).",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "sean-lee-p1",
+      "topic": "public-safety",
+      "statement": "Lee's official council bio says he brings his approach to public safety, infrastructure and fiscal sustainability.",
+      "excerpt": "On the Council, he brings that approach to public safety, infrastructure, fiscal sustainability,",
+      "source": {
+        "url": "https://durham-oregon.us/city-council/",
+        "publisher": "City of Durham (City Council page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt ended mid-word ('protectin'); trimmed to a word boundary. The full sentence continues with protecting the city's character, which the statement does not claim.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement (Durham not in county pamphlet)",
+    "No campaign website found",
+    "No press coverage found",
+    "Date and manner (appointed or elected) of joining council not stated on official pages read"
+  ],
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Race durham-council (two seats, confirmed by durham-oregon.us 2026 election notice: 'voters in Durham will fill two City Council positions'). Drake has 3 bio and 0 positions; Lee has 3 bio and 1 position. All are T1 city pages, and neither filed a pamphlet statement (Durham is not in the county pamphlet). Coverage is comparable. The spot-search found only city election notices. Both are sitting councilors per the council page and the Jan 27, 2026 agenda, so incumbent=true is supported for this at-large race. File-level: name matches pamphlet/official listing. Incumbent true confirmed: Durham council page and Jan 27, 2026 agenda roll call list him as a councilor."
+  }
+}

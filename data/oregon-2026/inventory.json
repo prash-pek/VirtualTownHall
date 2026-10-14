@@ -6759,7 +6759,8 @@
       "race_id": "washington-county-commissioner-at-large",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/bcc"
     },
     {
       "id": "pam-treece",
@@ -6767,7 +6768,8 @@
       "race_id": "washington-county-commissioner-at-large",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/bcc"
     },
     {
       "id": "kipperlyn-sinclair",
@@ -6775,7 +6777,8 @@
       "race_id": "washington-county-commissioner-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/bcc"
     },
     {
       "id": "steve-callaway",
@@ -6783,31 +6786,35 @@
       "race_id": "washington-county-commissioner-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/bcc"
     },
     {
       "id": "evelyn-kocher",
       "name": "Evelyn Kocher",
       "race_id": "beaverton-council-pos-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "incumbent_source_url": "https://www.beavertonoregon.gov/832/Councilor-Position-1"
     },
     {
       "id": "rachel-philip",
       "name": "Rachel Philip",
       "race_id": "beaverton-council-pos-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "incumbent_source_url": "https://www.beavertonoregon.gov/832/Councilor-Position-1"
     },
     {
       "id": "jimmy-bogroff",
       "name": "Jimmy Bogroff",
       "race_id": "banks-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline"
     },
     {
       "id": "marsha-kirk",
@@ -6815,22 +6822,24 @@
       "race_id": "banks-mayor",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline"
     },
     {
       "id": "stewart-terrall",
       "name": "Stewart Terrall",
       "race_id": "banks-council-pos-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline"
     },
     {
       "id": "stephanie-jones",
       "name": "Stephanie Jones",
       "race_id": "banks-council-pos-1",
       "party": null,
-      "incumbent": true,
+      "incumbent": null,
       "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline"
     },
     {
@@ -6839,7 +6848,10 @@
       "race_id": "banks-council-pos-3",
       "party": null,
       "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline",
+      "name_variants": [
+        "Debra L Berry"
+      ]
     },
     {
       "id": "cody-kollar",
@@ -6854,7 +6866,7 @@
       "name": "Pearcia Bogroff",
       "race_id": "banks-council-pos-5",
       "party": null,
-      "incumbent": true,
+      "incumbent": null,
       "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline"
     },
     {
@@ -6871,31 +6883,39 @@
       "race_id": "cornelius-mayor",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-cornelius-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-cornelius-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://corneliusor.gov/citycouncil",
+      "name_variants": [
+        "Jeffrey C. Dalin",
+        "Jeff Dalin"
+      ]
     },
     {
       "id": "edgar-baker",
       "name": "Edgar Baker",
       "race_id": "cornelius-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-cornelius-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-cornelius-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://corneliusor.gov/citycouncil"
     },
     {
       "id": "joshua-drake",
       "name": "Joshua Drake",
       "race_id": "durham-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-durham-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-durham-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://durham-oregon.us/city-council/"
     },
     {
       "id": "sean-lee",
       "name": "Sean Lee",
       "race_id": "durham-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-durham-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-durham-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://durham-oregon.us/city-council/"
     },
     {
       "id": "malynda-wenzl",

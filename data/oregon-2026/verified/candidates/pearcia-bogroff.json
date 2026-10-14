@@ -1,0 +1,163 @@
+{
+  "id": "pearcia-bogroff",
+  "name": "Pearcia Bogroff",
+  "name_variants": [],
+  "race_id": "banks-council-pos-5",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Chief Operating Officer, Fearless Influence; RealRoots Guide",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "pearcia-bogroff-b1",
+      "topic": "custom:bio",
+      "statement": "City council minutes from February 2025 list Bogroff as a Banks city councilor.",
+      "excerpt": "Niki Walters (Zoom), Pearcia Bogroff, and Stephanie Jones",
+      "source": {
+        "url": "https://www.cityofbanks.org/vertical/sites/%7B9449421F-C29B-4D8D-BE42-4EB124C2CA36%7D/uploads/CC_Minutes_2025-02-11.pdf",
+        "publisher": "City of Banks (City Council minutes, Feb. 11, 2025)",
+        "tier": "T1",
+        "published_at": "2025-02-11",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Banks City Council minutes of Feb 11, 2025 (re-fetched 2026-10-14); statement is dated to Feb 2025.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "pearcia-bogroff-b2",
+      "topic": "custom:bio",
+      "statement": "A December 2024 Banks Post article on Bogroff's council appointment reports that the term expires Dec. 31, 2026.",
+      "excerpt": "The term expires Dec. 31, 2026.",
+      "source": {
+        "url": "https://www.bankspost.com/banks-city-council-appoints-pearcia-bogroff-to-fill-empty-council-seat/",
+        "publisher": "Banks Post (Chas Hundley)",
+        "tier": "T3",
+        "published_at": "2024-12-10",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt only states the term expiry; statement reworded so it does not add more than the excerpt (appointment taken from the article's subject/headline). Article confirmed: seat vacated by Catherine Sawyer's resignation.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "pearcia-bogroff-b3",
+      "topic": "custom:bio",
+      "statement": "Bogroff's pamphlet statement lists prior work as a regional director for Premier Designs Jewelry and executive pastor at Resound Church.",
+      "excerpt": "Regional Director, Premier Designs Jewelry; Executive Pastor, Resound Church",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "pearcia-bogroff-b4",
+      "topic": "custom:bio",
+      "statement": "Bogroff's pamphlet statement lists a master's in educational leadership and a bachelor's in special education/deaf studies.",
+      "excerpt": "Golden Gate Seminary, MA Educational Leadership; Western Oregon University, BA Special Education/Deaf Studies",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "pearcia-bogroff-b5",
+      "topic": "custom:bio",
+      "statement": "Bogroff's pamphlet statement lists service as city councilor and on the urban renewal agency and budget committee.",
+      "excerpt": "City Councilor; Urban Renewal Agency; Budget Committee",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "pearcia-bogroff-p1",
+      "topic": "custom:governance",
+      "statement": "In her voters' pamphlet statement, Bogroff says good local government is not about choosing sides.",
+      "excerpt": "I do not believe good local government is about choosing sides.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "pearcia-bogroff-p2",
+      "topic": "custom:governance",
+      "statement": "Bogroff's pamphlet statement says that on the urban renewal agency she helped work through disagreements and find common ground.",
+      "excerpt": "On the Urban Renewal Agency, I helped navigate disagreements and find common ground.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No press coverage of her positions found",
+    "Pamphlet statement offers few specific policy positions"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race banks-council-pos-5. Bogroff has 5 bio and 2 positions (T1 pamphlet and minutes, T3 Banks Post). Blake has 0 items: no pamphlet statement, website or coverage (documented). The spot-search found only the Banks Post filing notice (Aug 18, 2026), which has no background on Blake. The disparity reflects the public record. File-level: name matches pamphlet/official listing. Incumbent set to null. The Feb 11, 2025 minutes list Bogroff as a councilor but give no position numbers and are 20 months old. Only T3 supports Position 5: Banks Post (Aug 18, 2026) says incumbent Pearcia Bogroff filed for reelection for CC5. The county certified-candidate PDF cited in the inventory is image-only. Restore to true if it is read."
+  }
+}
