@@ -1,0 +1,111 @@
+{
+  "id": "leslie-wright",
+  "name": "Leslie Wright",
+  "name_variants": [],
+  "race_id": "milwaukie-mayor",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://milwaukieoregon.gov/node/124341",
+  "occupation": "The Janitorial King, starting up multiple businesses all over the country (per pamphlet)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "leslie-wright-b1",
+      "topic": "custom:bio",
+      "statement": "Wright's pamphlet statement lists service in the U.S. Marine Corps and Washington State Guard.",
+      "excerpt": "USMC- US Marine Corps; WSG-Washington State Guard; USV-SSC- United Services Joint Serviced Command",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "leslie-wright-b2",
+      "topic": "custom:bio",
+      "statement": "Wright's pamphlet statement says he retired from the military in 2019 and has continued serving his community.",
+      "excerpt": "I retired from the military in 2019 and have continued serving my community.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "leslie-wright-b3",
+      "topic": "custom:bio",
+      "statement": "Wright's pamphlet statement says he is building a worldwide janitorial business.",
+      "excerpt": "Today, I continue building a worldwide janitorial business and inspiring others through my experience.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "leslie-wright-b4",
+      "topic": "local-business",
+      "statement": "Wright's pamphlet statement says he has helped start more than 2,000 businesses.",
+      "excerpt": "I have helped start more than 2,000 businesses.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement contains no policy priorities",
+    "No campaign website listed",
+    "No 2026 T3 coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-32)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "No current public office",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website listed in pamphlet",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Leslie Wright\" Milwaukie mayor 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Leslie Wright\" Milwaukie \"\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Leslie Wright\" Milwaukie \"\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Leslie Wright\" Milwaukie \"\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "incumbent=false: Lisa Batey is mayor per city page. KOIN/KATU/Pamplin hits concern a 2021-2022 Oregon City mayoral candidacy by a Leslie Wright (Jr.); the 2021 Oregon City pamphlet lists 'Leslie Wright Jr.' as a retired Washington State Guard sergeant major, consistent with this candidate, but not used because it is not 2026 Milwaukie content."
+}

@@ -1,0 +1,217 @@
+{
+  "id": "randy-lauer",
+  "name": "Randy Lauer",
+  "name_variants": [],
+  "race_id": "troutdale-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721",
+  "occupation": "Local Small Business Owner, 3-46 GRIT CrossFit",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "randy-lauer-b1",
+      "topic": "custom:bio",
+      "statement": "Lauer's voters' pamphlet statement lists present employment as local small business owner, 3-46 GRIT CrossFit.",
+      "excerpt": "Local Small Business Owner, 3-46 GRIT CrossFit",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_randy_lauer/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "randy-lauer-b2",
+      "topic": "custom:bio",
+      "statement": "Lauer's pamphlet statement lists service as Troutdale mayor from 2021 to 2024.",
+      "excerpt": "Troutdale Mayor - 2021-2024",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_randy_lauer/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "randy-lauer-b3",
+      "topic": "custom:bio",
+      "statement": "Lauer's pamphlet statement lists service as a Troutdale city councilor from 2017 to 2020.",
+      "excerpt": "Troutdale City Councilor - 2017-2020",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_randy_lauer/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "randy-lauer-b4",
+      "topic": "custom:bio",
+      "statement": "Lauer's pamphlet statement lists past work as a retired public utility worker for the Portland, Troutdale, Wood Village and Fairview public works departments.",
+      "excerpt": "\"Retired\" Public Utility Worker | Portland, Troutdale, Wood Village, and Fairview Public Works Departments",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_randy_lauer/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "randy-lauer-b5",
+      "topic": "custom:bio",
+      "statement": "Ballotpedia reports Lauer ran for Oregon House District 49 and lost in the November 2022 general election.",
+      "excerpt": "Randy Lauer (Republican Party) ran for election to the Oregon House of Representatives to represent District 49. He lost in the general election on November 8, 2022.",
+      "source": {
+        "url": "https://ballotpedia.org/Randy_Lauer",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Statement named House District 49, which was not in the excerpt; excerpt extended with the preceding sentence on the page. Same person confirmed: the page quotes him as 'the current Mayor of Troutdale'."
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "randy-lauer-p1",
+      "topic": "public-safety",
+      "statement": "In a voters' pamphlet statement, Lauer lists evaluating the current law enforcement model and the city's Multnomah County Sheriff's Office contract.",
+      "excerpt": "This includes evaluating the current law enforcement model and the contract with the Multnomah County Sheriff's Office.",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_randy_lauer/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "randy-lauer-p2",
+      "topic": "taxes",
+      "statement": "Lauer's pamphlet statement says fiscal responsibility at every level of city management is essential.",
+      "excerpt": "Fiscal responsibility at every level of city management is essential.",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_randy_lauer/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "randy-lauer-p3",
+      "topic": "local-business",
+      "statement": "Lauer's pamphlet statement says supporting growth means making it easier to start, operate, permit and expand a business.",
+      "excerpt": "Supporting that growth means making it easier to start, operate, permit, and expand a business.",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_randy_lauer/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "randy-lauer-p4",
+      "topic": "custom:governance",
+      "statement": "Lauer's pamphlet statement says leadership at every level exists to serve the people clearly and measurably.",
+      "excerpt": "Leadership at every level, local, regional, and state, exists to serve the people clearly and measurably.",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_randy_lauer/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed in pamphlet statement",
+    "No 2026 T3 coverage found; press results were 2020-2023",
+    "No voting record collected from his earlier mayoral/council service"
+  ],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 9,
+    "rejected": 0,
+    "balance_notes": "Full T1 profile from pamphlet statement plus one dated T3 item; comparable to Glantz and Wunn."
+  }
+}

@@ -6606,40 +6606,48 @@
       "name": "Sandy Glantz",
       "race_id": "troutdale-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721"
     },
     {
       "id": "sheri-winters",
       "name": "Sheri Winters",
       "race_id": "troutdale-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721"
     },
     {
       "id": "geoffrey-wunn",
       "name": "Geoffrey Wunn",
       "race_id": "troutdale-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721",
+      "name_variants": [
+        "Geoffery Wunn"
+      ]
     },
     {
       "id": "zach-andrews",
       "name": "Zach Andrews",
       "race_id": "troutdale-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721"
     },
     {
       "id": "randy-lauer",
       "name": "Randy Lauer",
       "race_id": "troutdale-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721"
     },
     {
       "id": "charlene-gothard",
