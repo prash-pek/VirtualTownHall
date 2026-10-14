@@ -1,0 +1,95 @@
+{
+  "id": "canby-3-642",
+  "jurisdiction_id": "canby",
+  "number": "3-642",
+  "title": "Amend City of Canby City Charter Chapter V Section 2",
+  "ballot_label": "Caption: Amend City of Canby City Charter Chapter V Section 2. Question: Shall Canby amend Charter Chapter V Section 2, City Administrator residency requirement? Summary: This measure would amend the City’s Charter. The Charter currently requires the City Administrator position to live within Canby. If adopted, this measure would amend the Charter to give the City Council the authority to waive or modify this residency requirement and would require the City Council to adopt rules to govern its authority to waive or modify this residency requirement. If this measure is not adopted, the City’s Charter would remain the same.",
+  "summary": "Canby's charter requires the City Administrator to live within the city. This council-referred amendment would let the City Council waive or modify that residency requirement, and would require the Council to adopt rules governing any waiver or modification.",
+  "yes_means": "A yes vote amends the charter to let the City Council waive or modify the City Administrator residency requirement under rules it must adopt.",
+  "no_means": "A no vote leaves the charter unchanged, keeping the requirement that the City Administrator live within Canby.",
+  "fiscal_impact": null,
+  "full_text_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/ordinance/32201/res_1465.pdf",
+  "arguments": [
+    {
+      "id": "canby-3-642-y1",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Canby City Council (Resolution No. 1465)",
+      "topic": "custom:local-government",
+      "statement": "In Resolution No. 1465 referring the measure, the Canby City Council states the Charter Review Subcommittee recommended the change to help with City Administrator recruitment.",
+      "excerpt": "the Subcommittee recommended that Chapter V, Section 2 of the Charter be revised to give the City Council authority to waive or modify this residency requirement in accordance with rules for the purpose of assisting in City Administrator recruitment;",
+      "source": {
+        "url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/ordinance/32201/res_1465.pdf",
+        "publisher": "City of Canby",
+        "tier": "T1",
+        "published_at": "2026-07-15",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "custom:local-government"
+  ],
+  "gaps": [
+    "No NO argument found: no opposition statements in T1/T3 sources (pamphlet arguments unreadable; Woodburn Independent coverage quotes no one).",
+    "YES side represented only by the referring council's resolution rationale; no campaign or pamphlet argument found."
+  ],
+  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. County voters' pamphlet (https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513) lists this measure in its index, but WebFetch text extraction ends at page C-33 (~117k chars), before the measure section, so the pamphlet's explanatory statement and any filed arguments could not be read. The county ballot-title PDF linked from the election page returned only the multilingual accommodations notice (likely an image scan). Ballot title text verbatim from Resolution No. 1465 (adopted July 15, 2026). City explainer page (https://www.canbyoregon.gov/node/32230) consistent. The yes item is the referring body's stated purpose (T1), not a filed pamphlet argument. Inventory title matches county caption.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.clackamas.us/elections/november-3-2026-general-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/f09b0539-70a1-4b4b-a7d7-b3f76b4eea56",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/ordinance/32201/res_1465.pdf",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.canbyoregon.gov/node/32230",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Canby charter amendment measure \"3-642\" OR \"3-643\" November 2026",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Canby charter amendment Canby Utility water Chapter X November 2026 ballot",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Canby city administrator residency requirement charter measure 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://woodburnindependent.com/2026/09/06/candidates-and-measures-ready-to-go-for-november-general-election/",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.canbyoregon.gov/city-recorder/page/ballot-titles",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.canbyoregon.gov/node/32224",
+      "result": "nothing relevant"
+    }
+  ]
+}

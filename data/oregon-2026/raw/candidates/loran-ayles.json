@@ -1,0 +1,63 @@
+{
+  "id": "loran-ayles",
+  "name": "Loran Ayles",
+  "race_id": "or-us-house-3",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement: the pamphlet marks him with an asterisk, 'Candidate chose not to submit a voters' pamphlet statement.'",
+    "No official office page: no current or prior public office found",
+    "No campaign website found in T1 or T3 sources (Ballotpedia lists none)",
+    "No biography or public positions on any topic found; Ballotpedia says he has not completed its 2026 Candidate Connection survey and lists no campaign themes"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf (marked '*' = no statement)",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office identified",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain in any T1 or T3 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Loran Ayles\" Congress Oregon 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Loran Ayles\" allowed_domains=opb.org,oregoncapitalchronicle.com,wweek.com,ballotpedia.org",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Loran Ayles\" allowed_domains=kgw.com,koin.com,kptv.com,katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Loran Ayles\" allowed_domains=portlandmercury.com,vote411.org,pamplinmedia.com,portlandtribune.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Loran_Ayles",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Steps 4-6 (open-web and T3 press searches) could not be completed for every candidate because the WebSearch budget shared by all agents in this run ran out (searches marked 'blocked' in collection_log were not run); searches that did run produced no items that were used. To keep effort equal, no T3 items are included for any candidate in the US Senate, US House 1-6 or Governor races: every item comes from the T1 voters' pamphlet, official .gov pages or official roll-call pages. Campaign websites are recorded from the pamphlet but were not fetched for positions, for any candidate. oregonlive.com and apnews.com are rejected by the search proxy as allowed_domains and could not be searched for anyone. incumbent=false because the pamphlet edition cited in incumbent_source_url lists another candidate in this race as the sitting officeholder. Pamphlet (Multnomah and Clackamas editions) marks Ayles with '*'. Step 4/5 results only list him in 2026 primary result/voter-guide roundups (KGW, OCC, Mercury) with no biography or positions. Name and party match inventory."
+}

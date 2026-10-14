@@ -1,0 +1,75 @@
+{
+  "id": "north-clackamas-sd-3-639",
+  "jurisdiction_id": "north-clackamas-sd",
+  "number": "3-639",
+  "title": "Bonds to increase safety, security; repair schools, update classrooms",
+  "ballot_label": "Caption: Bonds to increase safety, security; repair schools, update classrooms (Question and summary not retrievable; see collection_notes.)",
+  "summary": "North Clackamas School District general obligation bond measure. The district describes a proposed $245 million Capital Construction Bond to upgrade technology, cooling and roofing systems at every district school, which it says would not increase the current tax rate.",
+  "yes_means": "A yes vote authorizes the North Clackamas School District to issue general obligation bonds for school safety, security, repairs and classroom updates.",
+  "no_means": "A no vote does not authorize the bonds.",
+  "fiscal_impact": "District states: proposed $245 million Capital Construction Bond, 'without increasing your current tax rate' (district bond page, published 2026-07-06). Official ballot-title estimate not retrieved.",
+  "full_text_url": null,
+  "arguments": [],
+  "topics": [
+    "education",
+    "infrastructure",
+    "public-safety"
+  ],
+  "gaps": [
+    "No YES argument found in T1/T3 sources (pamphlet arguments unreadable; no press coverage of the 2026 bond found outside AI-generated citizenportal.ai summaries, which are excluded).",
+    "No NO argument found in T1/T3 sources (same searches; no opposition statements found)."
+  ],
+  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. County voters' pamphlet (https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513) lists this measure in its index, but WebFetch text extraction ends at page C-33 (~117k chars), before the measure section, so the pamphlet's explanatory statement and any filed arguments could not be read. The county ballot-title PDF linked from the election page returned only the multilingual accommodations notice (likely an image scan). Ballot question, summary and official bond amount not found on a readable official page; amount and tax-rate statement come from the district's Clackamas High bond page (published 2026-07-06, before the board's final June/July action, so verify against the ballot title). Main district bond page (https://www.nclack.k12.or.us/about-ncsd/bond2026) renders no body text to WebFetch. Several citizenportal.ai items report a $245M no-rate-increase bond approved for the Nov. 3 ballot; excluded as AI summaries. Inventory title matches county caption.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.clackamas.us/elections/november-3-2026-general-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/42dbda66-f9a6-4e52-b5d7-3ebb7a0c2143",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.nclack.k12.or.us/about-ncsd/bond2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.nclack.k12.or.us/about-ncsd/bond2026/other",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://chs.nclack.k12.or.us/bond-2026",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "\"3-639\" North Clackamas School District bond 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "North Clackamas School District bond Measure 3-639 November 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "North Clackamas school bond $245 million milwaukiereview OR clackamasreview OR happyvalleynews 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "North Clackamas schools bond November 2026 oppose OR opposition OR critics",
+      "result": "nothing relevant"
+    }
+  ]
+}

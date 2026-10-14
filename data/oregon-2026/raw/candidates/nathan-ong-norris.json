@@ -1,0 +1,118 @@
+{
+  "id": "nathan-ong-norris",
+  "name": "Nathan Ong Norris",
+  "name_variants": [],
+  "race_id": "multnomah-county-commissioner-d2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://multco.us/board",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "nathan-ong-norris-b1",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Norris holds a master's degree in Emergency Management & Community Resilience from Portland State University.",
+      "excerpt": "He has a master’s degree in Emergency Management & Community Resilience from Portland State University.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "nathan-ong-norris-p1",
+      "topic": "environment",
+      "statement": "The Portland Mercury reports Norris vows to be the county's \"Climate Justice Commissioner.\"",
+      "excerpt": "vowing to be the “Climate Justice Commissioner.”",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nathan-ong-norris-p2",
+      "topic": "social-services",
+      "statement": "The Portland Mercury lists Preschool for All, libraries and emergency management among the county programs in Norris's priorities.",
+      "excerpt": "including Preschool for All, libraries, emergency management, and more.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nathan-ong-norris-p3",
+      "topic": "environment",
+      "statement": "The Portland Mercury reports Norris supports policies providing clean water, clean air, and fully funded libraries and public schools.",
+      "excerpt": "policies that provide clean water, clean air, fully funded libraries and public schools",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [
+    "Voters' pamphlet statement not readable (PDF fetch cut off before p. 46); no separate statement file found",
+    "No campaign website found in a T1/T3 source",
+    "Candidate filing PDF had no readable fields",
+    "No T1 source for bio facts"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/nathan_ong_norris_candidate_filing/download",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://multco.us/board",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain found in a T1/T3 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Nathan Ong Norris\" Multnomah County commissioner 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Nathan Ong Norris\" (allowed_domains opb.org, wweek.com, portlandmercury.com)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Filing signature line reads 'Nathan Norris'; ballot name is Nathan Ong Norris. Steps run identically for all 7 District 2 candidates. Voters' pamphlet: the SOS Book 13 and the county's regular and large-print Multnomah pamphlet PDFs are cut off by the fetch tool (~105-120k characters); the large-print text ends partway through Herman Greene's statement (p. 44), so pamphlet statements for Bri Williams, Serena Cruz, Nathan Ong Norris, Nabil Zaghloul and Tony Robertson (pp. 45-47) could not be read there. Individual JCVP-01 statement submission files on multco.us were found by search only for Serena Cruz and Tony Robertson; none surfaced for the others. SEL 101 candidate filings were machine-readable only for Cruz and Robertson (others scanned/empty). The Portland Mercury District 2 profile (2026-09-26) covers all 7 candidates and is the common T3 source. Step 5 ran with allowed_domains limited to opb.org, wweek.com, portlandmercury.com because the proxy rejected longer domain lists. Incumbency: the current District 2 commissioner is Shannon Singleton (multco.us/board), who is running for Chair, so no D2 candidate is the incumbent. The fetch tool limits verbatim quotes to ~125 characters, so some excerpts are fragments.",
+  "voting_record": []
+}

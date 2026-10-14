@@ -1,0 +1,230 @@
+{
+  "id": "maxine-dexter",
+  "name": "Maxine E Dexter",
+  "race_id": "or-us-house-3",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": "U.S. Representative",
+  "website_url": "https://www.MaxineforOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "bio": [
+    {
+      "id": "maxine-dexter-b1",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Dexter lists her occupation as U.S. Representative.",
+      "excerpt": "U.S. Representative",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-b2",
+      "topic": "custom:background",
+      "statement": "Her pamphlet statement lists past work as a pulmonary and critical care physician and as a grocery worker.",
+      "excerpt": "Pulmonary/Critical Care Physician, Grocery Worker",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-b3",
+      "topic": "education",
+      "statement": "Her pamphlet statement lists a B.A. and M.D. from the University of Washington.",
+      "excerpt": "University of Washington, B.A., M.D.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-b4",
+      "topic": "custom:background",
+      "statement": "Her official House biography says she was elected to the U.S. House in 2024.",
+      "excerpt": "In 2024, Dexter was honored to be elected to the U.S. House of Representatives.",
+      "source": {
+        "url": "https://dexter.house.gov/about",
+        "publisher": "Office of U.S. Rep. Maxine Dexter",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-b5",
+      "topic": "healthcare",
+      "statement": "Her official biography says she practiced for over 15 years as a lung and critical care physician at Kaiser Permanente.",
+      "excerpt": "She practiced for over 15 years as a lung and critical care physician at Kaiser Permanente.",
+      "source": {
+        "url": "https://dexter.house.gov/about",
+        "publisher": "Office of U.S. Rep. Maxine Dexter",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "maxine-dexter-p1",
+      "topic": "healthcare",
+      "statement": "Dexter's pamphlet statement calls healthcare a human right and supports high-quality, accessible and affordable care for all.",
+      "excerpt": "Healthcare is a human right: High quality, accessible and affordable care for all.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-p2",
+      "topic": "economy",
+      "statement": "Dexter lists good schools, living wages, union jobs, affordable housing and childcare as priorities for working families.",
+      "excerpt": "Good schools, living wages, union jobs, affordable housing and childcare.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-p3",
+      "topic": "immigration",
+      "statement": "Dexter's statement calls for no more wars, restoring humanitarian aid, expanding legal immigration and protecting clean air and water.",
+      "excerpt": "No more wars. Restore humanitarian aid. Expand legal immigration. Protect clean air and water.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-p4",
+      "topic": "civil-rights",
+      "statement": "Dexter says she would protect voting rights, end corruption and get dark money out of politics.",
+      "excerpt": "Protect voting rights. End corruption. Defend our communities from authoritarianism. Get dark money out of politics.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-p5",
+      "topic": "environment",
+      "statement": "Dexter supports investing in clean, affordable, renewable energy.",
+      "excerpt": "Invest in clean, affordable, renewable energy.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "maxine-dexter-v1",
+      "topic": "taxes",
+      "statement": "Dexter voted No on the House motion to concur in the Senate amendment to H.R. 1, the One Big Beautiful Bill Act, on July 3, 2025 (Roll Call 190, 218-214).",
+      "excerpt": "QUESTION: On Motion to Concur in the Senate Amendment … BILL TITLE: One Big Beautiful Bill Act … ---- NOES 214 --- … Dexter",
+      "source": {
+        "url": "https://clerk.house.gov/evs/2025/roll190",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-07-03",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-v2",
+      "topic": "immigration",
+      "statement": "Dexter voted Nay on House passage of S. 5, the Laken Riley Act, on January 22, 2025 (Roll Call 23, 263-156).",
+      "excerpt": "Roll Call 23, Bill Number: S. 5, 119th Congress, 1st Session … On Passage … Laken Riley Act … Dexter Nay",
+      "source": {
+        "url": "https://clerk.house.gov/Votes/2025023",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-01-22",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://dexter.house.gov/about",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://clerk.house.gov/evs/2025/roll190",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://clerk.house.gov/Votes/2025023",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "www.MaxineforOregon.com (listed in pamphlet; not fetched)",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Maxine Dexter\" Congress 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Maxine Dexter\" allowed_domains=opb.org,oregoncapitalchronicle.com,wweek.com,ballotpedia.org",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Maxine Dexter\" allowed_domains=kgw.com,koin.com,kptv.com,katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Maxine Dexter\" allowed_domains=portlandmercury.com,vote411.org,pamplinmedia.com,portlandtribune.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "no T3 follow-up (counterpart Ballotpedia fetch for opponent found nothing; no T3 items used in this race)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Steps 4-6 (open-web and T3 press searches) could not be completed for every candidate because the WebSearch budget shared by all agents in this run ran out (searches marked 'blocked' in collection_log were not run); searches that did run produced no items that were used. To keep effort equal, no T3 items are included for any candidate in the US Senate, US House 1-6 or Governor races: every item comes from the T1 voters' pamphlet, official .gov pages or official roll-call pages. Campaign websites are recorded from the pamphlet but were not fetched for positions, for any candidate. oregonlive.com and apnews.com are rejected by the search proxy as allowed_domains and could not be searched for anyone. Incumbency: pamphlet occupation 'U.S. Representative' and dexter.house.gov. Ballot spelling 'Maxine E Dexter' matches inventory; official pages use 'Maxine Dexter'.",
+  "name_variants": [
+    "Maxine Dexter"
+  ]
+}

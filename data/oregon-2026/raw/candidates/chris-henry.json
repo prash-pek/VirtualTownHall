@@ -170,17 +170,17 @@
     {
       "step": "5",
       "query_or_url": "\"Chris Henry\" allowed_domains=opb.org,oregoncapitalchronicle.com,wweek.com,ballotpedia.org",
-      "result": "blocked"
+      "result": "nothing relevant"
     },
     {
       "step": "5",
       "query_or_url": "\"Chris Henry\" allowed_domains=kgw.com,koin.com,kptv.com,katu.com",
-      "result": "blocked"
+      "result": "nothing relevant"
     },
     {
       "step": "5",
       "query_or_url": "\"Chris Henry\" allowed_domains=portlandmercury.com,vote411.org,pamplinmedia.com,portlandtribune.com",
-      "result": "blocked"
+      "result": "nothing relevant"
     },
     {
       "step": "6",
@@ -188,7 +188,7 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Steps 4-6 (open-web and T3 press searches) could not be completed for every candidate because the WebSearch budget shared by all agents in this run ran out (searches marked 'blocked' in collection_log were not run); searches that did run produced no items that were used. To keep effort equal, no T3 items are included for any candidate in the US Senate, US House 1-6 or Governor races: every item comes from the T1 voters' pamphlet, official .gov pages or official roll-call pages. Campaign websites are recorded from the pamphlet but were not fetched for positions, for any candidate. oregonlive.com and apnews.com are rejected by the search proxy as allowed_domains and could not be searched for anyone. incumbent=false because the pamphlet edition cited in incumbent_source_url lists another candidate in this race as the sitting officeholder. Pamphlet lists Henry as Progressive, Pacific Green; matches inventory (party Progressive, nominating Progressive + Pacific Green). Step 5 searches for Henry were not run (budget exhausted) while they ran for the other three Senate candidates; no T3 items were used for any of them.",
+  "collection_notes": "Steps 4-6 (open-web and T3 press searches) could not be completed for every candidate because the WebSearch budget shared by all agents in this run ran out (searches marked 'blocked' in collection_log were not run); searches that did run produced no items that were used. To keep effort equal, no T3 items are included for any candidate in the US Senate, US House 1-6 or Governor races: every item comes from the T1 voters' pamphlet, official .gov pages or official roll-call pages. Campaign websites are recorded from the pamphlet but were not fetched for positions, for any candidate. oregonlive.com and apnews.com are rejected by the search proxy as allowed_domains and could not be searched for anyone. incumbent=false because the pamphlet edition cited in incumbent_source_url lists another candidate in this race as the sitting officeholder. Pamphlet lists Henry as Progressive, Pacific Green; matches inventory (party Progressive, nominating Progressive + Pacific Green). Step 5 results for 'Chris Henry' concern his 2024 Portland City Council District 4 candidacy (OPB, WW, KATU, KOIN, Mercury); none addressed the 2026 Senate race, so none were used. That he is the same person is not confirmed by an official source.",
   "nominating_parties": [
     "Progressive",
     "Pacific Green"
