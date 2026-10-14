@@ -58,6 +58,7 @@ Prefer spreading positions across distinct topics over many items on one topic.
 - `retrieved_at`: today's date (YYYY-MM-DD).
 
 ## Output
+- Write each file as soon as that candidate or measure is done, not in a batch at the end, so work survives an interruption.
 - Candidates: `data/oregon-2026/raw/candidates/<candidate-id>.json`; measures: `data/oregon-2026/raw/measures/<measure-id>.json`.
   IDs are the inventory IDs. Item IDs: `<candidate-id>-b1`, `-p1`, `-v1`; measure arguments `<measure-id>-y1`, `-n1`.
 - Add `collection_log`: list of `{ "step": "1".."6", "query_or_url": "...", "result": "used|nothing relevant|not found|blocked" }`.
