@@ -1,0 +1,173 @@
+{
+  "id": "rachel-philip",
+  "name": "Rachel Philip",
+  "name_variants": [],
+  "race_id": "beaverton-council-pos-1",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.beavertonoregon.gov/832/Councilor-Position-1",
+  "occupation": "Software Developer",
+  "website_url": "https://rachelforbeaverton.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+  "bio": [
+    {
+      "id": "rachel-philip-b1",
+      "topic": "custom:bio",
+      "statement": "Philip's pamphlet statement lists her background as software developer and auditor.",
+      "excerpt": "Software Developer; Auditor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rachel-philip-b2",
+      "topic": "custom:bio",
+      "statement": "Philip's pamphlet statement lists a master of science from Portland State and a business degree from the University of Portland.",
+      "excerpt": "Masters of Science, Portland State University; Bachelors of Business Administration, University of Portland",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rachel-philip-b3",
+      "topic": "custom:bio",
+      "statement": "Philip's pamphlet statement lists service on the Beaverton Budget Committee and as a transportation ambassador.",
+      "excerpt": "Beaverton Budget Committee; Transportation Ambassador; Downtown Loop Community Committee",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "rachel-philip-p1",
+      "topic": "housing",
+      "statement": "In her voters' pamphlet statement, Philip calls for expanding housing choices including apartments, townhomes and starter homes.",
+      "excerpt": "Expand housing choices, including apartments, townhomes, and starter homes",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rachel-philip-p2",
+      "topic": "transportation",
+      "statement": "Philip's pamphlet statement says she will prioritize safer routes to schools and traffic calming on streets she describes as hazardous.",
+      "excerpt": "I will prioritize safer routes to schools and calming dangerous streets.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rachel-philip-p3",
+      "topic": "environment",
+      "statement": "Philip's pamphlet statement calls for protecting trees and green spaces and preparing for heat waves and wildfire smoke.",
+      "excerpt": "Protect trees and green spaces and prepare for extreme heat, wildfire smoke, and other emergencies.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rachel-philip-p4",
+      "topic": "taxes",
+      "statement": "Philip's pamphlet statement calls for protecting essential services, setting clear priorities and transparent budget decisions.",
+      "excerpt": "Protect essential services, set clear priorities, and make budget decisions transparent.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "rachel-philip-p5",
+      "topic": "custom:campaign",
+      "statement": "In a 2026 OPB article, Philip says Beaverton's challenges will not be solved by dividing the community into ideological camps.",
+      "excerpt": "Beaverton's challenges will not be solved by dividing our community into ideological camps,",
+      "source": {
+        "url": "https://www.opb.org/article/2026/09/25/data-centers-ice-and-the-dsa-election-tensions-rise-in-washington-county/",
+        "publisher": "OPB (Bryce Dole, Holly Bartholomew)",
+        "tier": "T3",
+        "published_at": "2026-09-28",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign website blocked automated fetch",
+    "No other press coverage of her 2026 race found beyond OPB"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.beavertonoregon.gov/832/Councilor-Position-1",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.beavertonoregon.gov/1168/City-Council-Members",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://rachelforbeaverton.com",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Rachel Philip\" Beaverton council 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Rachel Philip\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Rachel Philip\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Rachel Philip\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/09/25/data-centers-ice-and-the-dsa-election-tensions-rise-in-washington-county/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "City's Council Position 1 page names Ashley (first name only; joined council fall 2021) as the Position 1 councilor, so neither runoff candidate is the incumbent; the page is undated. Campaign domain is printed in the county pamphlet statement but the site blocked automated fetch (robots). Pamphlet quotes capped ~125 chars."
+}

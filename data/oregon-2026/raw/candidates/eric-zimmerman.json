@@ -1,0 +1,205 @@
+{
+  "id": "eric-zimmerman",
+  "name": "Eric Zimmerman",
+  "name_variants": [
+    "Eric J. Zimmerman"
+  ],
+  "race_id": "portland-council-d4",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.portland.gov/council/districts/4/eric-zimmerman",
+  "occupation": "City Councilor",
+  "website_url": "https://www.ez4pdx.com",
+  "website_verified_via": "https://www.portland.gov/auditor/elections/documents/zimmerman-eric-aud-120redacted/download",
+  "bio": [
+    {
+      "id": "eric-zimmerman-b1",
+      "topic": "custom:bio",
+      "statement": "The City of Portland says Zimmerman was elected District 4 city councilor in November 2024 and began his term in January 2025.",
+      "excerpt": "Elected as City Councilor for District 4 in November 2024 and began their term of office in January 2025.",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/4/eric-zimmerman",
+        "publisher": "City of Portland",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eric-zimmerman-b2",
+      "topic": "custom:bio",
+      "statement": "Zimmerman's city candidate filing form lists past roles as Multnomah County chief of staff, City of Portland senior advisor and Medford deputy city manager.",
+      "excerpt": "Chief of Staff, Multnomah County; Senior Advisor, City of Portland; Deputy City Manager, City of Medford;",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/zimmerman-eric-aud-120redacted/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eric-zimmerman-b3",
+      "topic": "custom:bio",
+      "statement": "Zimmerman's filing form lists service in the Oregon Army National Guard and U.S. Army.",
+      "excerpt": "Oregon Army National Guard/U.S. Army.",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/zimmerman-eric-aud-120redacted/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "eric-zimmerman-p1",
+      "topic": "public-safety",
+      "statement": "On his City of Portland council page, Zimmerman says he is committed to promoting livability, public safety and growth.",
+      "excerpt": "I am committed to promoting livability, public safety, and growth throughout Portland.",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/4/eric-zimmerman",
+        "publisher": "City of Portland",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eric-zimmerman-p2",
+      "topic": "public-safety",
+      "statement": "OPB reports that if re-elected Zimmerman promises to prioritize funding public safety, cutting taxes and fixing potholes.",
+      "excerpt": "If elected a second term, Zimmerman promises to prioritize funding public safety, cutting taxes and fixing potholes.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/portland-city-council-race-district-4/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eric-zimmerman-p3",
+      "topic": "housing",
+      "statement": "OPB reports that as a councilor Zimmerman has pushed for a more expedited permitting system for new construction.",
+      "excerpt": "As a councilor, he’s pushed for a more expedited permitting system for new construction",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/portland-city-council-race-district-4/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eric-zimmerman-p4",
+      "topic": "social-services",
+      "statement": "In a Portland Mercury candidate profile, Zimmerman says ending unsanctioned camping as quickly as possible is a must.",
+      "excerpt": "(e)nding unsanctioned camping as quickly as possible is a must for Portland.",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "eric-zimmerman-p5",
+      "topic": "social-services",
+      "statement": "In a Portland Mercury candidate profile, Zimmerman says the city needs to implement a 'Shelter Now' policy.",
+      "excerpt": "we need to implement a ‘Shelter Now’ policy.",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement not readable: the individual statement PDF in the county's Military & Overseas Online Voters' Guide is a scan with no machine-readable text, and the full and large-print county pamphlet PDFs are cut off by the fetch tool (~105k characters) before the City of Portland section (pp. M-52 to M-66)",
+    "No council voting record collected"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/portland_dist_4_eric_zimmerman/download",
+      "result": "blocked (scan, no machine-readable text)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked (text extraction ends ~104k characters, before the City of Portland section)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked (text extraction ends ~106k characters, before the City of Portland section)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.portland.gov/auditor/elections/run4office/2026-city-candidates",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.portland.gov/auditor/elections/documents/zimmerman-eric-aud-120redacted/download",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.portland.gov/council",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.portland.gov/council/districts/4/eric-zimmerman",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "ez4pdx.com (listed on the AUD-120 filing form)",
+      "result": "used (domain recorded; site not fetched)"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Eric Zimmerman\" Portland City Council 2026",
+      "result": "nothing relevant (council agendas; unrelated)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Eric Zimmerman\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Eric Zimmerman\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Eric Zimmerman\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/10/07/portland-city-council-race-district-4/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Steps run identically for all 12 District 4 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF plus the City Auditor's AUD-120 candidate filing form (linked from portland.gov 2026 city candidates page); (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the two articles that profile every District 4 candidate: OPB 'What to know about Portland's District 4 council race' (2026-10-07) and Portland Mercury 'Meet the Candidates For City Council District 4' (2026-09-11). Multi-winner race: OPB states three District 4 seats are on the ballot. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Incumbent per portland.gov/council. Pamphlet statement PDF is a scan; bio facts come from the AUD-120 filing form instead."
+}
