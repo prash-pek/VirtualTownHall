@@ -1,0 +1,54 @@
+{
+  "id": "estacada-3-638",
+  "jurisdiction_id": "estacada",
+  "number": "3-638",
+  "title": "Prohibits new marijuana production, processing, and wholesaling businesses in Estacada.",
+  "ballot_label": "Caption: Prohibits new marijuana production, processing, and wholesaling businesses in Estacada. (Question and summary not retrieved.)",
+  "summary": "City of Estacada referral of Ordinance 2026-008, which would prohibit new marijuana production, processing and wholesaling businesses in the city. Per the City, it takes effect only if voters adopt it, starting on certification of the November 2026 election. A September 2026 Your Oregon News report says it does not affect existing businesses or retail shops and dispensaries; the City's FAQ says a related ordinance (2026-009), effective only if this one is, could affect currently operating businesses.",
+  "yes_means": "A yes vote adopts the prohibition on new marijuana production, processing, and wholesaling businesses in Estacada.",
+  "no_means": "A no vote rejects the prohibition, and new marijuana production, processing, and wholesaling businesses would not be barred by this measure.",
+  "fiscal_impact": null,
+  "full_text_url": "https://www.cityofestacada.org/business-2/cannabis-businesses-faqs/",
+  "arguments": [],
+  "topics": [
+    "local-business",
+    "custom:cannabis"
+  ],
+  "gaps": [
+    "No YES argument found in T1/T3 sources: pamphlet arguments unreadable; the City FAQ gives no rationale; the Sept 2026 Outlook and Oct 2026 Estacada News articles quote no supporters.",
+    "No NO argument found in T1/T3 sources: the only opposing statements found were a Mule Extracts press release (24-7 Press Release Newswire, Oct 13, 2026) and an MMJDaily aggregation of an OregonLive article (OregonLive blocked to fetch); neither used.",
+    "Verifier: an OregonLive article (Sept 2026, 'Why one Oregon city is pushing to ban new cannabis businesses...') reportedly paraphrases a supporter (Councilor Michael McElroy) and opponents (attorney Amy Margolis; John Sampson, Mule Extracts; Eric Sale, Northwest Technologies). OregonLive is blocked to WebFetch here, so it could not be verified or used; worth manual retrieval for both sides."
+  ],
+  "ballot_label_verification": {
+    "status": "corrected",
+    "checks_failed": [],
+    "note": "Caption confirmed against the inventory title from the Clackamas County Nov 3, 2026 election page measure list; the county ballot-title PDF returned only a translation/accommodation notice to WebFetch, so the question and summary could not be checked. Removed the pointer to collection_notes, which are stripped from verified output.",
+    "verified_at": "2026-10-14"
+  },
+  "summary_verification": {
+    "status": "corrected",
+    "checks_failed": [
+      "paraphrase_faithful"
+    ],
+    "note": "City FAQ (cityofestacada.org, published 2026-05-21) confirms Ord. 2026-008 and the effective-date wording, but also says existing businesses could be affected 'Not right away but potentially in the future' and that Ord. 2026-009, which takes effect only if 2026-008 does, 'could impact currently operating businesses.' The press claim (Your Oregon News, Christopher Keizur, Sept 25, 2026) is now attributed by name and the City's statement added so the summary does not present the contested point one-sidedly.",
+    "verified_at": "2026-10-14"
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Faithful to the caption; neutral.",
+    "verified_at": "2026-10-14"
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Faithful to the caption; neutral.",
+    "verified_at": "2026-10-14"
+  },
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "No arguments on either side: 0 official, 0 pamphlet, 0 press. Both absences documented in gaps. The collector excluded a Mule Extracts press release (24-7 Press Release) and an MMJDaily repost; exclusion is consistent with policy. A T3 OregonLive article with paraphrased positions on both sides exists but is blocked here (see gaps). Clackamas pamphlet measure pages (approx. C-42 to C-59) are beyond the extractable text, so filed arguments could not be checked."
+  }
+}

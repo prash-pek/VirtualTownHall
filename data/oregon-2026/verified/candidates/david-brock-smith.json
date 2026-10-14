@@ -1,0 +1,180 @@
+{
+  "id": "david-brock-smith",
+  "name": "David Brock Smith",
+  "race_id": "or-us-senate",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": "State Senator, Small Business Owner",
+  "website_url": "https://www.DavidBrockSmithforOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "bio": [
+    {
+      "id": "david-brock-smith-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Brock Smith lists his occupation as State Senator and small business owner.",
+      "excerpt": "State Senator, Small Business Owner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "david-brock-smith-b2",
+      "topic": "custom:background",
+      "statement": "His pamphlet statement lists prior work as a state representative, county commissioner, small business owner and economic development director.",
+      "excerpt": "State Representative, County Commissioner, Small Business Owner/Business Manager, Director-Economic Development",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "david-brock-smith-b3",
+      "topic": "custom:background",
+      "statement": "The Oregon Legislature lists Brock Smith as a Republican senator for District 1, based in Port Orford, and as Senate Deputy Leader.",
+      "excerpt": "Republican - District 1 - Port Orford - Deputy Leader",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/SmithD",
+        "publisher": "Oregon State Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim on the cited official page (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "david-brock-smith-p1",
+      "topic": "taxes",
+      "statement": "Brock Smith's pamphlet statement says he opposed the governor's gas tax and new tax increases.",
+      "excerpt": "David fought Kotek's-Gas-Tax, stopped new tax-hikes, and continues his work on eliminating fraud,",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "david-brock-smith-p2",
+      "topic": "economy",
+      "statement": "Brock Smith says he works to eliminate fraud and reduce unnecessary government spending.",
+      "excerpt": "continues his work on eliminating fraud, while reducing unnecessary government spending.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "david-brock-smith-p3",
+      "topic": "social-services",
+      "statement": "Brock Smith says he will push for treatment and accountability on homelessness and an end to permanent street camping.",
+      "excerpt": "David has and will continue to fight for treatment and accountability, and bring an end to permanent street camping.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "david-brock-smith-p4",
+      "topic": "technology",
+      "statement": "Brock Smith says data centers strain Oregon's water, farmland, energy costs and communities.",
+      "excerpt": "David is concerned data centers strain Oregon’s water, farmland, energy costs, and communities.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "david-brock-smith-p5",
+      "topic": "economy",
+      "statement": "Brock Smith says economic development should help residents rather than burden families.",
+      "excerpt": "Economic development must help residents, not burden families.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No federal voting record (not a member of Congress); state legislative votes not collected"
+  ],
+  "name_variants": [
+    "Brock Smith"
+  ],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race or-us-senate: Merkley 4 bio/6 pos/2 votes, Brock Smith 3/5/0, Henry 3/7/0, Dye 0/0/0. All items T1 (pamphlet, official pages, senate.gov). Uneven counts are explained by documented gaps: Dye filed no pamphlet statement; only Merkley holds federal office. Brock Smith's state Senate votes were not collected, consistent with the same gap for Drazan and Kotek's past House votes. Incumbent=false confirmed (pamphlet lists him as State Senator; Merkley holds the seat). Website confirmed in pamphlet. Spot-search found T3 coverage (OPB 2026-03-04 and 2026-05-22 profiles, KOIN interview) that was not collected for him or any other candidate in this race."
+  }
+}

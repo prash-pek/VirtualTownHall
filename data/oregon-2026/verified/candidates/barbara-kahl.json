@@ -1,0 +1,181 @@
+{
+  "id": "barbara-kahl",
+  "name": "Barbara J Kahl",
+  "race_id": "or-us-house-1",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": "Veterinarian",
+  "website_url": "https://Drkahlforcongress.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "bio": [
+    {
+      "id": "barbara-kahl-b1",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Kahl lists her occupation as veterinarian.",
+      "excerpt": "Veterinarian",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "barbara-kahl-b2",
+      "topic": "custom:background",
+      "statement": "Her pamphlet statement describes a 40-year career in business and medicine.",
+      "excerpt": "40 year career Business/Medicine",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "barbara-kahl-b3",
+      "topic": "education",
+      "statement": "Her pamphlet statement lists a doctorate from OSU.",
+      "excerpt": "OSU Doctorate",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "barbara-kahl-b4",
+      "topic": "custom:background",
+      "statement": "Her pamphlet statement lists prior governmental experience as writing legislation and testimony.",
+      "excerpt": "Written legislation and testimony",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "barbara-kahl-p1",
+      "topic": "education",
+      "statement": "Kahl's pamphlet statement calls for restoring high standards in reading, math, STEM, civics and the trades.",
+      "excerpt": "Restore top standards in reading, math, STEM, civics, and the trades so every child has a future.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "barbara-kahl-p2",
+      "topic": "economy",
+      "statement": "Kahl proposes cutting redundant federal regulations and taxes and reviving timber, tech, agriculture and maritime industries.",
+      "excerpt": "Cut redundant federal regulations and taxes, revive our timber, tech, agriculture, and maritime industries",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "barbara-kahl-p3",
+      "topic": "custom:government-spending",
+      "statement": "Kahl says she would track taxpayer dollars and end open-ended funding for NGOs and special interests.",
+      "excerpt": "Track taxpayer dollars, no more blank checks for NGOs or special interests.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "barbara-kahl-p4",
+      "topic": "agriculture",
+      "statement": "Kahl says she is running for families facing rising costs, farmers and coastal fishermen.",
+      "excerpt": "I'm running for families balancing rising costs, farmers growing for our communities, fishermen working our coast,",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record: has not held federal or state elected office (pamphlet lists none)",
+    "No position found on healthcare, immigration or environment in T1 sources"
+  ],
+  "name_variants": [
+    "Barbara Kahl"
+  ],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-1: Bonamici 5 bio/5 pos/2 votes, Kahl 4/4/0; all T1. The disparity reflects incumbency (official .gov bio, roll calls) and is documented in gaps. Name 'Barbara J Kahl' matches the pamphlet; website Drkahlforcongress.com confirmed in pamphlet. Spot-search found an Oregon Capital Chronicle 2026 primary voter guide (T3) that was not collected; it was not collected for either candidate."
+  }
+}

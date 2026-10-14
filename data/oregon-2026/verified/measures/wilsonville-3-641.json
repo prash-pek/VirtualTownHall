@@ -1,0 +1,198 @@
+{
+  "id": "wilsonville-3-641",
+  "jurisdiction_id": "wilsonville",
+  "number": "3-641",
+  "title": "Vote to approve the Wilsonville Town Center Development District",
+  "ballot_label": "Caption: Vote to approve the Wilsonville Town Center Development District. Question: Should the City adopt proposed Ordinance No. 905 establishing the Wilsonville Town Center Development District, an urban renewal district?",
+  "summary": "Asks Wilsonville voters whether to adopt Ordinance No. 905 creating the Town Center Development District, an urban renewal district using tax increment financing to fund gathering spaces and parking, small-business incentives and infrastructure in Town Center. The plan sets maximum indebtedness of $152 million ($85.5 million in today's dollars) over a 28-year duration. The ballot summary states TIF is not a new tax or tax rate increase.",
+  "yes_means": "A yes vote approves adoption of Ordinance No. 905, establishing the Wilsonville Town Center Development District as an urban renewal district.",
+  "no_means": "A no vote rejects Ordinance No. 905, and the Town Center Development District urban renewal district would not be formed.",
+  "fiscal_impact": "Per the ballot title and city ordinance page: maximum indebtedness (spending cap) of $152 million ($85.5 M in today's dollars), structured as smaller borrowings, 28-year duration with tax increment collection anticipated through fiscal year 2056; the measure would not establish a new property tax or increase existing tax rates.",
+  "full_text_url": "https://www.wilsonvilleoregon.gov/ord-905",
+  "arguments": [
+    {
+      "id": "wilsonville-3-641-y1",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Mark Smith, Wilsonville (letter to the editor)",
+      "topic": "economy",
+      "statement": "In a September 19, 2026 letter to the editor of the Wilsonville Spokesman, Mark Smith of Wilsonville urges a yes vote on Measure 3-641 to approve the Wilsonville Town Center Development District.",
+      "excerpt": "There are many reasons to vote YES on Measure 3-641 to approve the Wilsonville Town Center Development District.",
+      "source": {
+        "url": "https://wilsonvillespokesman.com/2026/09/19/letters-to-the-editor-readers-advocate-for-candidates-measures-in-wilsonville-and-lake-oswego/",
+        "publisher": "Wilsonville Spokesman",
+        "tier": "T3",
+        "published_at": "2026-09-19",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt verbatim on the dated letters page (letter signed Mark Smith, Wilsonville). Statement trimmed: gathering spaces, employment and food carts appear in the letter but not in the excerpt.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-y2",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Mark Smith, Wilsonville (letter to the editor)",
+      "topic": "taxes",
+      "statement": "In the same letter, Mark Smith writes that urban renewal will fund infrastructure, not residents' property taxes.",
+      "excerpt": "urban renewal will fund infrastructure, not our property taxes",
+      "source": {
+        "url": "https://wilsonvillespokesman.com/2026/09/19/letters-to-the-editor-readers-advocate-for-candidates-measures-in-wilsonville-and-lake-oswego/",
+        "publisher": "Wilsonville Spokesman",
+        "tier": "T3",
+        "published_at": "2026-09-19",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt verbatim. Statement trimmed: the 'hurts the city budget' framing is in the surrounding sentence, not in the excerpt.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-n1",
+      "side": "no",
+      "kind": "argument",
+      "author": "Eric Winters, Wilsonville resident (opinion column)",
+      "topic": "housing",
+      "statement": "In an October 2026 Wilsonville Spokesman opinion column, Eric Winters says the city's feasibility study projects 96.4% of new housing would be apartments, mostly market-rate.",
+      "excerpt": "By the city’s own feasibility study, 96.4% will be apartments. Not affordable housing for Wilsonville’s low-income families, but premium market-rate apartments for thousands of new residents.",
+      "source": {
+        "url": "https://wilsonvillespokesman.com/2026/10/01/opinion-they-didnt-trust-you-can-you-trust-them/",
+        "publisher": "Wilsonville Spokesman",
+        "tier": "T3",
+        "published_at": "2026-10-01",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim in 'OPINION: They didn't trust you. Can you trust them?' by Eric Winters, Wilsonville Spokesman Opinion section, Oct 1, 2026; urges 'Vote no on Measure 3-641'. Column identifies Winters as a chief petitioner of the May 2026 measure requiring public votes on urban renewal.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-n2",
+      "side": "no",
+      "kind": "argument",
+      "author": "Eric Winters, Wilsonville resident (opinion column)",
+      "topic": "transportation",
+      "statement": "Winters says new residents would add traffic to Wilsonville Road and the I-5 interchange, which he describes as already congested with no funded state fix.",
+      "excerpt": "Thousands of new residents and their cars would funnel onto Wilsonville Road and the I-5 interchange, already the most congested corridor in the city, with no state fix funded and no timeline.",
+      "source": {
+        "url": "https://wilsonvillespokesman.com/2026/10/01/opinion-they-didnt-trust-you-can-you-trust-them/",
+        "publisher": "Wilsonville Spokesman",
+        "tier": "T3",
+        "published_at": "2026-10-01",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim (same column); attributed framing.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-n3",
+      "side": "no",
+      "kind": "argument",
+      "author": "Eric Winters, Wilsonville resident (opinion column)",
+      "topic": "taxes",
+      "statement": "Winters notes the plan could involve up to $152 million repaid by diverting property tax growth through 2056.",
+      "excerpt": "Up to $152 million, repaid by diverting property tax growth through 2056.",
+      "source": {
+        "url": "https://wilsonvillespokesman.com/2026/10/01/opinion-they-didnt-trust-you-can-you-trust-them/",
+        "publisher": "Wilsonville Spokesman",
+        "tier": "T3",
+        "published_at": "2026-10-01",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim (same column); figures consistent with the official $152M cap through FY2056.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-n4",
+      "side": "no",
+      "kind": "argument",
+      "author": "Doris Wehler, Wilsonville (letter to the editor)",
+      "topic": "housing",
+      "statement": "In a September 2026 letter to the Wilsonville Spokesman, Doris Wehler of Wilsonville says the city does not advertise that 2,381 housing units would be required to finance the urban renewal project.",
+      "excerpt": "What the city doesn't advertise is the 2,381 housing units that will be required to finance this urban renewal project.",
+      "source": {
+        "url": "https://wilsonvillespokesman.com/2026/09/19/letters-to-the-editor-readers-advocate-for-candidates-measures-in-wilsonville-and-lake-oswego/",
+        "publisher": "Wilsonville Spokesman",
+        "tier": "T3",
+        "published_at": "2026-09-19",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt verbatim (letter signed Doris Wehler, Wilsonville, Sept 19, 2026). Statement trimmed: 'taxpayers don't need to underwrite this plan' is a separate sentence not in the excerpt.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "economy",
+    "taxes",
+    "housing"
+  ],
+  "gaps": [
+    "Official county voters' pamphlet explanatory statement and any filed YES/NO arguments could not be read (pamphlet text extraction truncated before the measure pages, in both the Clackamas and Washington County pamphlets).",
+    "No YES argument from a named campaign committee or city official on the merits found in T1/T3 sources; YES side is represented only by one letter to the editor.",
+    "Verifier: the Washington County Nov 3, 2026 voters' pamphlet table of contents lists Measure 3-641 at pages WC-47 to WC-50 (four pages, which suggests filed arguments beyond the explanatory statement); those pages lie past the ~117k-character extraction limit and could not be read."
+  ],
+  "ballot_label_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Caption and question match the Ballot Title on wilsonvilleoregon.gov/ord-905 (city page; the Clackamas ballot-title PDF returned only an accommodation notice).",
+    "verified_at": "2026-10-14"
+  },
+  "summary_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Matches the ballot summary on wilsonvilleoregon.gov/ord-905: fund categories, $152M ($85.5M today's dollars), 28-year duration, 'TIF is not a new tax or tax rate increase.'",
+    "verified_at": "2026-10-14"
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Faithful to the ballot question; neutral.",
+    "verified_at": "2026-10-14"
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Faithful to the ballot question; neutral.",
+    "verified_at": "2026-10-14"
+  },
+  "fiscal_impact_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Matches city page summary and explanatory statement: $152M spending cap, smaller borrowings, 28 years through FY2056, no new tax or rate increase.",
+    "verified_at": "2026-10-14"
+  },
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 3,
+    "rejected": 0,
+    "balance_notes": "YES: 2 items, both press/letters (one letter to the editor, Mark Smith); 0 official text, 0 filed pamphlet arguments. NO: 4 items, all press/letters (3 from one bylined opinion column by Eric Winters, 1 from a letter by Doris Wehler); 0 official, 0 pamphlet. All press items are from the Wilsonville Spokesman, dated Sept 19 and Oct 1, 2026, name their authors, are attributed as letter/opinion in the statements, and explicitly concern Measure 3-641 (not the May 2026 measure). Disparity (2 vs 4 items; 1 vs 2 authors) is documented in gaps; spot search found no fall-2026 T1/T3 yes-side statement missed. Likely completeness gap: Washington County pamphlet devotes WC-47 to WC-50 to 3-641; filed arguments there (if any) are unread."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "loran-ayles",
+  "name": "Loran Ayles",
+  "race_id": "or-us-house-3",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement: the pamphlet marks him with an asterisk, 'Candidate chose not to submit a voters' pamphlet statement.'",
+    "No official office page: no current or prior public office found",
+    "No campaign website found in T1 or T3 sources (Ballotpedia lists none)",
+    "No biography or public positions on any topic found; Ballotpedia says he has not completed its 2026 Candidate Connection survey and lists no campaign themes"
+  ],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-3: empty file. Pamphlet asterisk confirmed. Ballotpedia (re-fetched) lists no website, biography or themes, and the survey was not completed. The spot-search found only prediction-market and aggregator pages. No T1/T2 missed; the empty file is justified."
+  }
+}

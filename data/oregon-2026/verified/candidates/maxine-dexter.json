@@ -1,0 +1,259 @@
+{
+  "id": "maxine-dexter",
+  "name": "Maxine E Dexter",
+  "race_id": "or-us-house-3",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": "U.S. Representative",
+  "website_url": "https://www.MaxineforOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "bio": [
+    {
+      "id": "maxine-dexter-b1",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Dexter lists her occupation as U.S. Representative.",
+      "excerpt": "U.S. Representative",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-b2",
+      "topic": "custom:background",
+      "statement": "Her pamphlet statement lists past work as a pulmonary and critical care physician and as a grocery worker.",
+      "excerpt": "Pulmonary/Critical Care Physician, Grocery Worker",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-b3",
+      "topic": "education",
+      "statement": "Her pamphlet statement lists a B.A. and M.D. from the University of Washington.",
+      "excerpt": "University of Washington, B.A., M.D.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-b4",
+      "topic": "custom:background",
+      "statement": "Her official House biography says she was elected to the U.S. House in 2024.",
+      "excerpt": "In 2024, Dexter was honored to be elected to the U.S. House of Representatives.",
+      "source": {
+        "url": "https://dexter.house.gov/about",
+        "publisher": "Office of U.S. Rep. Maxine Dexter",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim on the cited official page (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-b5",
+      "topic": "healthcare",
+      "statement": "Her official biography says she practiced for over 15 years as a lung and critical care physician at Kaiser Permanente.",
+      "excerpt": "She practiced for over 15 years as a lung and critical care physician at Kaiser Permanente",
+      "source": {
+        "url": "https://dexter.house.gov/about",
+        "publisher": "Office of U.S. Rep. Maxine Dexter",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt trimmed: the page sentence continues after 'Permanente', not a period.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "maxine-dexter-p1",
+      "topic": "healthcare",
+      "statement": "Dexter's pamphlet statement calls healthcare a human right and supports high-quality, accessible and affordable care for all.",
+      "excerpt": "Healthcare is a human right: High quality, accessible and affordable care for all.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-p2",
+      "topic": "economy",
+      "statement": "Dexter's pamphlet statement lists good schools, living wages, union jobs, affordable housing and childcare among things she will continue fighting for.",
+      "excerpt": "Good schools, living wages, union jobs, affordable housing and childcare.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement reworded: the pamphlet introduces this list with 'I will continue fighting for:'; the phrase 'for working families' was not in the excerpt.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-p3",
+      "topic": "immigration",
+      "statement": "Dexter's statement calls for no more wars, restoring humanitarian aid, expanding legal immigration and protecting clean air and water.",
+      "excerpt": "No more wars. Restore humanitarian aid. Expand legal immigration. Protect clean air and water.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-p4",
+      "topic": "civil-rights",
+      "statement": "Dexter says she would protect voting rights, end corruption and get dark money out of politics.",
+      "excerpt": "Protect voting rights. End corruption. Defend our communities from authoritarianism. Get dark money out of politics.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-p5",
+      "topic": "environment",
+      "statement": "Dexter supports investing in clean, affordable, renewable energy.",
+      "excerpt": "Invest in clean, affordable, renewable energy.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "maxine-dexter-v1",
+      "topic": "taxes",
+      "statement": "Dexter voted No on the House motion to concur in the Senate amendment to H.R. 1, the One Big Beautiful Bill Act, on July 3, 2025 (Roll Call 190, 218-214).",
+      "excerpt": "QUESTION: On Motion to Concur in the Senate Amendment … BILL TITLE: One Big Beautiful Bill Act … ---- NOES 214 --- … Dexter",
+      "source": {
+        "url": "https://clerk.house.gov/evs/2025/roll190",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-07-03",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "House Clerk roll call 190 re-fetched: July 3, 2025, 'On Motion to Concur in the Senate Amendment', H.R. 1, 'One Big Beautiful Bill Act', Ayes 218, Noes 214; member's position confirmed as stated.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "maxine-dexter-v2",
+      "topic": "immigration",
+      "statement": "Dexter voted Nay on House passage of S. 5, the Laken Riley Act, on January 22, 2025 (Roll Call 23, 263-156).",
+      "excerpt": "Roll Call 23, Bill Number: S. 5, 119th Congress, 1st Session … On Passage … Laken Riley Act … Dexter Nay",
+      "source": {
+        "url": "https://clerk.house.gov/Votes/2025023",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-01-22",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "House Clerk roll call 23 re-fetched: January 22, 2025, S. 5 (119th Congress, 1st session), 'On Passage', Laken Riley Act, Yea 263, Nay 156; member's vote confirmed as stated.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [],
+  "name_variants": [
+    "Maxine Dexter"
+  ],
+  "verification_summary": {
+    "verified": 10,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-3: Dexter 5 bio/5 pos/2 votes, Ayles 0/0/0; all T1. The disparity is documented: Ayles filed no pamphlet statement (asterisk confirmed) and has no web presence. Votes: same two roll calls as other House incumbents, both confirmed. Incumbent=true confirmed (pamphlet, dexter.house.gov). One statement corrected ('for working families' was not in the text) and one excerpt trimmed."
+  }
+}

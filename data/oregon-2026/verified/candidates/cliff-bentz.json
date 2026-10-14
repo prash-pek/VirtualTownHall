@@ -1,0 +1,254 @@
+{
+  "id": "cliff-bentz",
+  "name": "Cliff Bentz",
+  "race_id": "or-us-house-2",
+  "party": "Republican",
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf",
+  "occupation": "U.S. Congressman, Farmer, Businessman",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "cliff-bentz-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Bentz lists his occupation as U.S. congressman, farmer and businessman.",
+      "excerpt": "U.S. Congressman, Farmer, Businessman",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Deschutes County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "cliff-bentz-b2",
+      "topic": "custom:background",
+      "statement": "His pamphlet statement lists service in Congress since 2021, the Oregon Senate from 2018 to 2020 and the Oregon House from 2008 to 2018.",
+      "excerpt": "U.S. Congressman (2021-present), Oregon State Senator (2018-2020), Oregon State Representative (2008-2018)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Deschutes County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "cliff-bentz-b3",
+      "topic": "education",
+      "statement": "His pamphlet statement lists a law degree from Lewis and Clark College and a B.S. from Eastern Oregon State College.",
+      "excerpt": "J.D. Lewis and Clark College, B.S. Eastern Oregon State College",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Deschutes County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "cliff-bentz-b4",
+      "topic": "custom:background",
+      "statement": "His official House biography says he was elected to represent Oregon's Second Congressional District on November 3, 2020.",
+      "excerpt": "On November 3, 2020, Bentz was elected to represent Oregon’s Second Congressional District.",
+      "source": {
+        "url": "https://bentz.house.gov/about",
+        "publisher": "Office of U.S. Rep. Cliff Bentz",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim on the cited official page (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "cliff-bentz-b5",
+      "topic": "custom:background",
+      "statement": "His official biography says he practiced as an attorney specializing in ranch reorganizations and water law.",
+      "excerpt": "As an attorney, he specialized in ranch reorganizations and water law.",
+      "source": {
+        "url": "https://bentz.house.gov/about",
+        "publisher": "Office of U.S. Rep. Cliff Bentz",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim on the cited official page (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "cliff-bentz-p1",
+      "topic": "agriculture",
+      "statement": "Bentz's pamphlet statement says he supports reservoir storage, additional hydropower, retaining dams and water for irrigation.",
+      "excerpt": "is fighting for reservoir storage, additional hydropower, retention of dams, water for irrigation",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Deschutes County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "cliff-bentz-p2",
+      "topic": "environment",
+      "statement": "Bentz's statement lists delisting the wolf and increasing timber harvest among his goals.",
+      "excerpt": "delisting of the wolf, and increased timber harvest.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Deschutes County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "cliff-bentz-p3",
+      "topic": "veterans",
+      "statement": "Bentz says he supports veterans, more energy generation, lower taxes, a secure border and private property rights.",
+      "excerpt": "supports veterans, more energy generation, lower taxes, a secure border, private property rights",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Deschutes County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "cliff-bentz-p4",
+      "topic": "custom:legislative-record",
+      "statement": "Bentz's statement says he voted for the Save America Act, the Secure America Act, the Fix Our Forests Act and the Farm Bill.",
+      "excerpt": "voted for the Save America Act, for the Secure America Act, for the Fix Our Forests Act, and for the Farm Bill.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Deschutes County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "cliff-bentz-p5",
+      "topic": "healthcare",
+      "statement": "Bentz's statement lists personal freedom and rural healthcare among his priorities.",
+      "excerpt": "personal freedom and rural Healthcare.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Deschutes County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "cliff-bentz-v1",
+      "topic": "taxes",
+      "statement": "Bentz voted Aye on the House motion to concur in the Senate amendment to H.R. 1, the One Big Beautiful Bill Act, on July 3, 2025 (Roll Call 190, 218-214).",
+      "excerpt": "QUESTION: On Motion to Concur in the Senate Amendment … BILL TITLE: One Big Beautiful Bill Act … ---- AYES 218 --- … Bentz",
+      "source": {
+        "url": "https://clerk.house.gov/evs/2025/roll190",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-07-03",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "House Clerk roll call 190 re-fetched: July 3, 2025, 'On Motion to Concur in the Senate Amendment', H.R. 1, 'One Big Beautiful Bill Act', Ayes 218, Noes 214; member's position confirmed as stated.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "cliff-bentz-v2",
+      "topic": "immigration",
+      "statement": "Bentz voted Yea on House passage of S. 5, the Laken Riley Act, on January 22, 2025 (Roll Call 23, 263-156).",
+      "excerpt": "Roll Call 23, Bill Number: S. 5, 119th Congress, 1st Session … On Passage … Laken Riley Act … Bentz Yea",
+      "source": {
+        "url": "https://clerk.house.gov/Votes/2025023",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-01-22",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "House Clerk roll call 23 re-fetched: January 22, 2025, S. 5 (119th Congress, 1st session), 'On Passage', Laken Riley Act, Yea 263, Nay 156; member's vote confirmed as stated.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [
+    "No campaign website listed in the voters' pamphlet statement; none confirmed via T1/T3"
+  ],
+  "verification_summary": {
+    "verified": 12,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-2: Bentz 5/5/2, Beck 4/5/0; all T1. Votes: roll calls 190 (Aye) and 23 (Yea), both confirmed on clerk.house.gov; same two votes as every other House incumbent. His pamphlet cites votes for the Save America, Secure America and Fix Our Forests Acts and the Farm Bill, which could be verified as roll calls if the selection is broadened. Incumbent=true confirmed (pamphlet, bentz.house.gov). No website in the pamphlet (closing line 'furnished by Cliff Bentz for Congress'), and the spot-search found only bentz.house.gov, so website_url=null is correct."
+  }
+}

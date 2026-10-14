@@ -1,0 +1,260 @@
+{
+  "id": "andrea-salinas",
+  "name": "Andrea Salinas",
+  "race_id": "or-us-house-6",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+  "occupation": "U.S. Congresswoman",
+  "website_url": "https://AndreaSalinasForOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+  "bio": [
+    {
+      "id": "andrea-salinas-b1",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Salinas lists her occupation as U.S. congresswoman.",
+      "excerpt": "U.S. Congresswoman",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Marion County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "andrea-salinas-b2",
+      "topic": "custom:background",
+      "statement": "Her pamphlet statement lists prior service as an Oregon state representative and on the Oregon Complete Count Committee, PEBB and the Oregon Commission on Hispanic Affairs.",
+      "excerpt": "Oregon State Representative, Oregon Complete Count Committee, PEBB Member, Oregon Commission on Hispanic Affairs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Marion County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "andrea-salinas-b3",
+      "topic": "education",
+      "statement": "Her pamphlet statement lists a BA from the University of California, Berkeley.",
+      "excerpt": "University of California, Berkeley, BA",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Marion County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "andrea-salinas-b4",
+      "topic": "agriculture",
+      "statement": "Her official House page says she serves on the House Agriculture and Science, Space, and Technology committees.",
+      "excerpt": "Andrea is proud to serve on the House Agriculture and House Science, Space, and Technology Committees",
+      "source": {
+        "url": "https://salinas.house.gov/about",
+        "publisher": "Office of U.S. Rep. Andrea Salinas",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt trimmed: the page sentence continues (', where she crafts policies...'), not a period.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "andrea-salinas-b5",
+      "topic": "custom:background",
+      "statement": "Her official page says she previously worked as a congressional aide and policy advisor to Senator Harry Reid and Congressman Pete Stark.",
+      "excerpt": "as a US congressional aide and policy advisor to Senator Harry Reid and Congressman Pete Stark",
+      "source": {
+        "url": "https://salinas.house.gov/about",
+        "publisher": "Office of U.S. Rep. Andrea Salinas",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim on the cited official page (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "andrea-salinas-p1",
+      "topic": "economy",
+      "statement": "Salinas's pamphlet statement says many Oregonians are struggling with expenses.",
+      "excerpt": "Andrea knows too many Oregonians are struggling with expenses.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Marion County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "andrea-salinas-p2",
+      "topic": "healthcare",
+      "statement": "Salinas says she is working to cap prescription drug costs and strengthen hospital price transparency.",
+      "excerpt": "Andrea is fighting to cap the cost of prescription drugs, strengthen price transparency at hospitals,",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Marion County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "andrea-salinas-p3",
+      "topic": "housing",
+      "statement": "Salinas's statement says she worked to secure federal funding for housing projects.",
+      "excerpt": "she fought to secure federal funding for housing projects,",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Marion County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "andrea-salinas-p4",
+      "topic": "civil-rights",
+      "statement": "Salinas says she will protect abortion access and LGBTQ+ rights.",
+      "excerpt": "Andrea will always fight to protect abortion access and LGBTQ+ rights.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Marion County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "andrea-salinas-p5",
+      "topic": "civil-rights",
+      "statement": "Salinas's statement says the main responsibility of members of Congress is to defend Americans' rights and freedoms.",
+      "excerpt": "The paramount responsibility of members of Congress is to defend American rights and freedoms.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Marion County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "andrea-salinas-v1",
+      "topic": "taxes",
+      "statement": "Salinas voted No on the House motion to concur in the Senate amendment to H.R. 1, the One Big Beautiful Bill Act, on July 3, 2025 (Roll Call 190, 218-214).",
+      "excerpt": "QUESTION: On Motion to Concur in the Senate Amendment … BILL TITLE: One Big Beautiful Bill Act … ---- NOES 214 --- … Salinas",
+      "source": {
+        "url": "https://clerk.house.gov/evs/2025/roll190",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-07-03",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "House Clerk roll call 190 re-fetched: July 3, 2025, 'On Motion to Concur in the Senate Amendment', H.R. 1, 'One Big Beautiful Bill Act', Ayes 218, Noes 214; member's position confirmed as stated.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "andrea-salinas-v2",
+      "topic": "immigration",
+      "statement": "Salinas voted Nay on House passage of S. 5, the Laken Riley Act, on January 22, 2025 (Roll Call 23, 263-156).",
+      "excerpt": "Roll Call 23, Bill Number: S. 5, 119th Congress, 1st Session … On Passage … Laken Riley Act … Salinas Nay",
+      "source": {
+        "url": "https://clerk.house.gov/Votes/2025023",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-01-22",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "House Clerk roll call 23 re-fetched: January 22, 2025, S. 5 (119th Congress, 1st session), 'On Passage', Laken Riley Act, Yea 263, Nay 156; member's vote confirmed as stated.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [
+    "Official House 'about' page does not state when her service began"
+  ],
+  "nominating_parties": [
+    "Democrat",
+    "Independent"
+  ],
+  "verification_summary": {
+    "verified": 11,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-6: Salinas 5 bio/5 pos/2 votes, Russ 4/5/0; all T1. The disparity reflects incumbency. Votes: same two roll calls as other House incumbents, both confirmed. Incumbent=true confirmed (pamphlet, salinas.house.gov). One excerpt trimmed."
+  }
+}

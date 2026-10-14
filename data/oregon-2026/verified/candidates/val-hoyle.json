@@ -1,0 +1,261 @@
+{
+  "id": "val-hoyle",
+  "name": "Val Hoyle",
+  "race_id": "or-us-house-4",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+  "occupation": "US Congresswoman",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "val-hoyle-b1",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Hoyle lists her occupation as U.S. congresswoman.",
+      "excerpt": "US Congresswoman",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "val-hoyle-b2",
+      "topic": "custom:background",
+      "statement": "Her pamphlet statement lists prior service as Oregon commissioner and state representative, and chair of the Federal Export Council of Oregon.",
+      "excerpt": "Oregon Commissioner; State Representative; Chair, Federal Export Council of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "val-hoyle-b3",
+      "topic": "custom:background",
+      "statement": "Her pamphlet statement lists an occupational background in domestic and international sales and manufacturing distribution.",
+      "excerpt": "Domestic and International Sales, Manufacturing Distribution",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "val-hoyle-b4",
+      "topic": "custom:background",
+      "statement": "Her official House biography says she was sworn into the 118th Congress in January 2023 representing Oregon's Fourth District.",
+      "excerpt": "In January 2023, Val was sworn into the 118th U.S. Congress representing Oregon's Fourth Congressional District.",
+      "source": {
+        "url": "https://hoyle.house.gov/about/about-val",
+        "publisher": "Office of U.S. Rep. Val Hoyle",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim on the cited official page (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "val-hoyle-b5",
+      "topic": "custom:background",
+      "statement": "Her official biography says she was elected to the Oregon House in 2010, representing West Eugene and Junction City.",
+      "excerpt": "Val was elected to the Oregon House of Representatives in 2010 representing West Eugene and Junction City",
+      "source": {
+        "url": "https://hoyle.house.gov/about/about-val",
+        "publisher": "Office of U.S. Rep. Val Hoyle",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt trimmed: the page sentence continues (', and eventually served as Majority Leader'), not a period.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "val-hoyle-p1",
+      "topic": "social-services",
+      "statement": "Hoyle's pamphlet statement says she is working to expand Social Security and Medicare and protect them from cuts.",
+      "excerpt": "Val is working to expand Social Security and Medicare and protect them from devastating cuts",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "val-hoyle-p2",
+      "topic": "healthcare",
+      "statement": "Hoyle says she is working to lower health care costs and take on large pharmaceutical companies.",
+      "excerpt": "In Congress, she is working to lower health care costs and taking on big pharmaceutical companies",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "val-hoyle-p3",
+      "topic": "civil-rights",
+      "statement": "Hoyle's statement says she works to protect legal access to abortion, birth control and reproductive health care.",
+      "excerpt": "Val is a leader in protecting legal access to abortion, birth control and reproductive health care.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "val-hoyle-p4",
+      "topic": "economy",
+      "statement": "Hoyle's statement says she opposes tariffs she describes as illegal and as raising costs.",
+      "excerpt": "including fighting illegal tariffs that are raising costs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "val-hoyle-p5",
+      "topic": "economy",
+      "statement": "Hoyle's statement says that in Oregon she expanded apprenticeship programs, raised the minimum wage and secured paid sick leave.",
+      "excerpt": "In Oregon, Val expanded apprenticeship programs, raised the minimum wage and secured paid sick leave.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "val-hoyle-v1",
+      "topic": "taxes",
+      "statement": "Hoyle voted No on the House motion to concur in the Senate amendment to H.R. 1, the One Big Beautiful Bill Act, on July 3, 2025 (Roll Call 190, 218-214).",
+      "excerpt": "QUESTION: On Motion to Concur in the Senate Amendment … BILL TITLE: One Big Beautiful Bill Act … ---- NOES 214 --- … Hoyle (OR)",
+      "source": {
+        "url": "https://clerk.house.gov/evs/2025/roll190",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-07-03",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "House Clerk roll call 190 re-fetched: July 3, 2025, 'On Motion to Concur in the Senate Amendment', H.R. 1, 'One Big Beautiful Bill Act', Ayes 218, Noes 214; member's position confirmed as stated.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "val-hoyle-v2",
+      "topic": "immigration",
+      "statement": "Hoyle voted Nay on House passage of S. 5, the Laken Riley Act, on January 22, 2025 (Roll Call 23, 263-156).",
+      "excerpt": "Roll Call 23, Bill Number: S. 5, 119th Congress, 1st Session … On Passage … Laken Riley Act … Hoyle (OR) Nay",
+      "source": {
+        "url": "https://clerk.house.gov/Votes/2025023",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-01-22",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "House Clerk roll call 23 re-fetched: January 22, 2025, S. 5 (119th Congress, 1st session), 'On Passage', Laken Riley Act, Yea 263, Nay 156; member's vote confirmed as stated.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [
+    "No campaign website listed in her voters' pamphlet statement (credited to 'Friends of Val Hoyle'); none confirmed via T1/T3",
+    "Official House 'about' page does not list committee assignments"
+  ],
+  "nominating_parties": [
+    "Democrat",
+    "Working Families"
+  ],
+  "verification_summary": {
+    "verified": 11,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-4: Hoyle 5/5/2, DeSpain 3/5/0, Filip 2/6/0; all T1. Votes: same two roll calls as other House incumbents, both confirmed (Hoyle (OR) No / Nay). Incumbent=true confirmed (pamphlet, hoyle.house.gov). No website in the pamphlet (credited to 'Friends of Val Hoyle'), so website_url=null is consistent. One excerpt trimmed. Note: p4's source sentence continues with 'opposing the Trump Administration's war in Iran', which was not collected."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "north-clackamas-sd-3-639",
+  "jurisdiction_id": "north-clackamas-sd",
+  "number": "3-639",
+  "title": "Bonds to increase safety, security; repair schools, update classrooms",
+  "ballot_label": "Caption: Bonds to increase safety, security; repair schools, update classrooms (Question and summary not retrieved.)",
+  "summary": "North Clackamas School District general obligation bond measure. The district describes a proposed $245 million Capital Construction Bond to upgrade technology, cooling and roofing systems at every district school, which it says would not increase the current tax rate.",
+  "yes_means": "A yes vote authorizes the North Clackamas School District to issue general obligation bonds for school safety, security, repairs and classroom updates.",
+  "no_means": "A no vote does not authorize the bonds.",
+  "fiscal_impact": "District states: proposed $245 million Capital Construction Bond, 'without increasing your current tax rate' (district bond page, published 2026-07-06). Official ballot-title estimate not retrieved.",
+  "full_text_url": null,
+  "arguments": [],
+  "topics": [
+    "education",
+    "infrastructure",
+    "public-safety"
+  ],
+  "gaps": [
+    "No YES argument found in T1/T3 sources (pamphlet arguments unreadable; no press coverage of the 2026 bond found outside AI-generated citizenportal.ai summaries, which are excluded).",
+    "No NO argument found in T1/T3 sources (same searches; no opposition statements found)."
+  ],
+  "ballot_label_verification": {
+    "status": "corrected",
+    "checks_failed": [],
+    "note": "Caption confirmed against the inventory title from the Clackamas County Nov 3, 2026 election page measure list; the county ballot-title PDF returned only a translation/accommodation notice to WebFetch, so the question and summary could not be checked. Removed the pointer to collection_notes, which are stripped from verified output.",
+    "verified_at": "2026-10-14"
+  },
+  "summary_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "District bond page (ardenwald.nclack.k12.or.us/bond-2026, 2026-07-06): 'proposed $245 million Capital Construction Bond', 'upgrade critical technology, cooling, and roofing systems at every district school', 'without increasing your current tax rate'. Attributed to the district.",
+    "verified_at": "2026-10-14"
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Generic but faithful to the caption; neutral.",
+    "verified_at": "2026-10-14"
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Neutral.",
+    "verified_at": "2026-10-14"
+  },
+  "fiscal_impact_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Quote 'without increasing your current tax rate' and $245M confirmed on the district page dated 2026-07-06; attributed to the district.",
+    "verified_at": "2026-10-14"
+  },
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "No arguments on either side: 0 official, 0 pamphlet, 0 press. Both absences documented in gaps. Verifier spot search found only district pages and excluded aggregators (citizenportal.ai); no T3 coverage of the 2026 bond. Clackamas pamphlet measure pages unreadable, so filed arguments could not be checked."
+  }
+}

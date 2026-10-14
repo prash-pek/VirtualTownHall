@@ -1,0 +1,73 @@
+{
+  "id": "canby-3-642",
+  "jurisdiction_id": "canby",
+  "number": "3-642",
+  "title": "Amend City of Canby City Charter Chapter V Section 2",
+  "ballot_label": "Caption: Amend City of Canby City Charter Chapter V Section 2. Question: Shall Canby amend Charter Chapter V Section 2, City Administrator residency requirement? Summary: This measure would amend the City’s Charter. The Charter currently requires the City Administrator position to live within Canby. If adopted, this measure would amend the Charter to give the City Council the authority to waive or modify this residency requirement and would require the City Council to adopt rules to govern its authority to waive or modify this residency requirement. If this measure is not adopted, the City’s Charter would remain the same.",
+  "summary": "Canby's charter requires the City Administrator to live within the city. This council-referred amendment would let the City Council waive or modify that residency requirement, and would require the Council to adopt rules governing any waiver or modification.",
+  "yes_means": "A yes vote amends the charter to let the City Council waive or modify the City Administrator residency requirement under rules it must adopt.",
+  "no_means": "A no vote leaves the charter unchanged, keeping the requirement that the City Administrator live within Canby.",
+  "fiscal_impact": null,
+  "full_text_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/ordinance/32201/res_1465.pdf",
+  "arguments": [
+    {
+      "id": "canby-3-642-y1",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Canby City Council (Resolution No. 1465)",
+      "topic": "custom:local-government",
+      "statement": "In Resolution No. 1465 referring the measure, the Canby City Council states the Charter Review Subcommittee recommended the change to help with City Administrator recruitment.",
+      "excerpt": "the Subcommittee recommended that Chapter V, Section 2 of the Charter be revised to give the City Council authority to waive or modify this residency requirement in accordance with rules for the purpose of assisting in City Administrator recruitment;",
+      "source": {
+        "url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/ordinance/32201/res_1465.pdf",
+        "publisher": "City of Canby",
+        "tier": "T1",
+        "published_at": "2026-07-15",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "WHEREAS clause verbatim in Resolution No. 1465 (City of Canby, adopted 2026-07-15). This is the referring council's stated rationale, not a campaign or pamphlet argument; attributed as such.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "custom:local-government"
+  ],
+  "gaps": [
+    "No NO argument found: no opposition statements in T1/T3 sources (pamphlet arguments unreadable; Woodburn Independent coverage quotes no one).",
+    "YES side represented only by the referring council's resolution rationale; no campaign or pamphlet argument found."
+  ],
+  "ballot_label_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Caption, question and summary match Exhibit A of Resolution No. 1465 (adopted July 15, 2026).",
+    "verified_at": "2026-10-14"
+  },
+  "summary_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Faithful to the ballot summary.",
+    "verified_at": "2026-10-14"
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Faithful; neutral.",
+    "verified_at": "2026-10-14"
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Faithful; neutral.",
+    "verified_at": "2026-10-14"
+  },
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "YES: 1 item, official text (council resolution rationale); 0 pamphlet, 0 press. NO: 0 items; absence documented in gaps. Spot search found only City of Canby pages (incl. an informational page, canbyoregon.gov/node/32230); no opposition located. Clackamas pamphlet measure pages unreadable, so filed arguments could not be checked."
+  }
+}

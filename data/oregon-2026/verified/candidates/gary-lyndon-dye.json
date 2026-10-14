@@ -1,0 +1,29 @@
+{
+  "id": "gary-lyndon-dye",
+  "name": "Gary Lyndon Dye",
+  "race_id": "or-us-senate",
+  "party": "Libertarian",
+  "incumbent": false,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement: the pamphlet marks the candidate with an asterisk, 'Candidate chose not to submit a voters' pamphlet statement.'",
+    "No official office page found",
+    "No campaign website confirmed via a T1 or T3 source",
+    "No public positions on any topic found in T1 sources; T3 searches run (OPB/Capital Chronicle/WW/Ballotpedia, local TV, Mercury/Vote411/Pamplin) returned only older or unrelated items"
+  ],
+  "name_variants": [
+    "Gary Dye"
+  ],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race or-us-senate: empty file. The pamphlet (Book 13) marks Dye with an asterisk ('chose not to submit'), which confirms the documented gap. The spot-search '\"Gary Lyndon Dye\" US Senate Oregon 2026' returned only Wikipedia, ivoterguide, theballotbrief (excluded) and a county ballot file. No T1/T2 or campaign site found. The empty file is justified."
+  }
+}

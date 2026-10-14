@@ -1,0 +1,258 @@
+{
+  "id": "suzanne-bonamici",
+  "name": "Suzanne Bonamici",
+  "race_id": "or-us-house-1",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": "U.S. Representative",
+  "website_url": "https://www.BonamiciForCongress.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "bio": [
+    {
+      "id": "suzanne-bonamici-b1",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Bonamici lists her occupation as U.S. Representative.",
+      "excerpt": "U.S. Representative",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-b2",
+      "topic": "custom:background",
+      "statement": "Her pamphlet statement lists prior service as an Oregon state legislator and at the Federal Trade Commission.",
+      "excerpt": "Oregon State Legislator; Federal Trade Commission",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-b3",
+      "topic": "education",
+      "statement": "Her pamphlet statement lists degrees from Lane Community College and the University of Oregon.",
+      "excerpt": "Lane Community College, AS; University of Oregon, BA, JD",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-b4",
+      "topic": "custom:background",
+      "statement": "Her official House biography says she represents Oregon's First Congressional District.",
+      "excerpt": "Congresswoman Suzanne Bonamici represents the First Congressional District of Oregon",
+      "source": {
+        "url": "https://bonamici.house.gov/biography",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt trimmed: the page sentence continues with a comma (', which includes large portions of Washington and Multnomah Counties'), not a period.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-b5",
+      "topic": "custom:background",
+      "statement": "Her official biography says she was an attorney at the Federal Trade Commission after law school.",
+      "excerpt": "After law school, Suzanne was an attorney at the Federal Trade Commission in Washington, D.C.",
+      "source": {
+        "url": "https://bonamici.house.gov/biography",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim on the cited official page (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "suzanne-bonamici-p1",
+      "topic": "immigration",
+      "statement": "Bonamici's pamphlet statement says ICE is terrorizing communities and that she is leading legislation to end what she calls abuse.",
+      "excerpt": "ICE is terrorizing communities. Suzanne is leading legislation to end the abuse",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-p2",
+      "topic": "healthcare",
+      "statement": "Bonamici says she supports lowering premiums, Medicare for All, and access to contraception and abortion care.",
+      "excerpt": "Suzanne supports lowering skyrocketing premiums, Medicare for All, and access to contraception and abortion care.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-p3",
+      "topic": "economy",
+      "statement": "Bonamici says she is working to raise wages and help Oregonians afford housing, groceries and prescriptions.",
+      "excerpt": "Suzanne is working to raise wages and help Oregonians afford housing, groceries, prescriptions, and more.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-p4",
+      "topic": "custom:government-ethics",
+      "statement": "Bonamici supports banning congressional stock trading and passing campaign finance reform.",
+      "excerpt": "banning Congressional stock trading and passing campaign finance reform.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-p5",
+      "topic": "foreign-policy",
+      "statement": "Bonamici says she advocates for peace and opposes the president's war and military budget.",
+      "excerpt": "Suzanne advocates for peace and opposes Trump's immoral war and military budget.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "suzanne-bonamici-v1",
+      "topic": "taxes",
+      "statement": "Bonamici voted No on the House motion to concur in the Senate amendment to H.R. 1, the One Big Beautiful Bill Act, on July 3, 2025 (Roll Call 190, 218-214).",
+      "excerpt": "QUESTION: On Motion to Concur in the Senate Amendment … BILL TITLE: One Big Beautiful Bill Act … ---- NOES 214 --- … Bonamici",
+      "source": {
+        "url": "https://clerk.house.gov/evs/2025/roll190",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-07-03",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "House Clerk roll call 190 re-fetched: July 3, 2025, 'On Motion to Concur in the Senate Amendment', H.R. 1, 'One Big Beautiful Bill Act', Ayes 218, Noes 214; member's position confirmed as stated.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-v2",
+      "topic": "immigration",
+      "statement": "Bonamici voted Nay on House passage of S. 5, the Laken Riley Act, on January 22, 2025 (Roll Call 23, 263-156).",
+      "excerpt": "Roll Call 23, Bill Number: S. 5, 119th Congress, 1st Session … On Passage … Laken Riley Act … Bonamici Nay",
+      "source": {
+        "url": "https://clerk.house.gov/Votes/2025023",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-01-22",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "House Clerk roll call 23 re-fetched: January 22, 2025, S. 5 (119th Congress, 1st session), 'On Passage', Laken Riley Act, Yea 263, Nay 156; member's vote confirmed as stated.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [],
+  "nominating_parties": [
+    "Democrat",
+    "Working Families"
+  ],
+  "verification_summary": {
+    "verified": 11,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-1: Bonamici 5/5/2, Kahl 4/4/0; all T1. Voting record = House roll calls 190 (H.R. 1 concur) and 23 (S. 5 Laken Riley), the same two used for all six House incumbents. The selection is applied consistently and neutrally, but only two votes, both on 2025 Republican-led bills, is a narrow sample. Incumbent=true confirmed by pamphlet and bonamici.house.gov. One excerpt was corrected (trailing period)."
+  }
+}
