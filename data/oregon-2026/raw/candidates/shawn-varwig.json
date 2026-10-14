@@ -1,0 +1,59 @@
+{
+  "id": "shawn-varwig",
+  "name": "Shawn Varwig",
+  "name_variants": [],
+  "race_id": "canby-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No candidate statement in the county voters' pamphlet (marked as not purchasing space)",
+    "No campaign website found",
+    "No 2026 T3 press coverage found",
+    "No public positions found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (no statement for this candidate)",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf (roster; not a current member)",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website found",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Shawn Varwig\" Canby 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shawn Varwig\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shawn Varwig\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shawn Varwig\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Pamphlet index marks him as not purchasing space. incumbent=false: not on the Jan. 2026 Canby council roster (Hensley, Waterman, Stearns, Padden, Davis, Maldonado). Step-5 hits (KOIN/Pamplin 2021) concern a prior council term and allegations; not position evidence, not used."
+}

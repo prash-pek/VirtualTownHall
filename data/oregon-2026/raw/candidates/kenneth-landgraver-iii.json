@@ -1,0 +1,185 @@
+{
+  "id": "kenneth-landgraver-iii",
+  "name": "Kenneth (Kent) R Landgraver III",
+  "name_variants": [
+    "Kenneth (Kent) R. Landgraver III",
+    "Kent Landgraver",
+    "Kenneth R. Landgraver III",
+    "Kenneth Landgraver"
+  ],
+  "race_id": "portland-council-d3",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "Scientific Instrument Technician; State of Oregon",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "kenneth-landgraver-iii-b1",
+      "topic": "custom:bio",
+      "statement": "Landgraver's voters' pamphlet statement lists his occupation as scientific instrument technician for the State of Oregon.",
+      "excerpt": "Scientific Instrument Technician; State of Oregon",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_kenneth_kent_r_landgraver_iii/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kenneth-landgraver-iii-b2",
+      "topic": "custom:bio",
+      "statement": "Landgraver's pamphlet statement lists work as a civilian electronics mechanic for the Oregon Army National Guard and as an electronics operations manager.",
+      "excerpt": "Electronics Mechanic (civilian), Oregon Army National Guard; Operations Manager, Electronics manufacturer & service.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_kenneth_kent_r_landgraver_iii/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kenneth-landgraver-iii-b3",
+      "topic": "custom:bio",
+      "statement": "Landgraver's city filing form lists 31 years in the Oregon Army National Guard, now retired.",
+      "excerpt": "Oregon Army National Guard - 31 years - Retired",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/landgraver-kenenth-2026-aud-120-form-original/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "kenneth-landgraver-iii-p1",
+      "topic": "custom:governance",
+      "statement": "In his voters' pamphlet statement, Landgraver says council votes affecting the city should be unanimous.",
+      "excerpt": "Council votes affecting the city should be unanimous.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_kenneth_kent_r_landgraver_iii/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kenneth-landgraver-iii-p2",
+      "topic": "custom:governance",
+      "statement": "Landgraver's pamphlet statement says he wants to stop what he calls the rebranding of the old commission system.",
+      "excerpt": "I want to stop the rebranding of the old commission system.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_kenneth_kent_r_landgraver_iii/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kenneth-landgraver-iii-p3",
+      "topic": "custom:budget",
+      "statement": "Landgraver's pamphlet statement says his goal is to ensure every tax dollar goes to doing the people's work.",
+      "excerpt": "My goal is to ensure every tax dollar goes to doing the people’s work.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_kenneth_kent_r_landgraver_iii/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kenneth-landgraver-iii-p4",
+      "topic": "public-safety",
+      "statement": "In a Portland Tribune Q&A, Landgraver says he wants to right-size sworn officers and integrate supportive services with mental health and street medicine.",
+      "excerpt": "I want to right-size sworn officers and integrate supportive services with mental health and street medicine.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-3-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website in the pamphlet statement or filing form",
+    "No voting record (has not held elected office)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/portland_dist_3_kenneth_kent_r_landgraver_iii/download",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.portland.gov/auditor/elections/run4office/2026-city-candidates",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.portland.gov/auditor/elections/documents/landgraver-kenenth-2026-aud-120-form-original/download",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.portland.gov/council",
+      "result": "nothing relevant (not a current or former officeholder per official sources)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no website printed in the pamphlet statement or filing form",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Kent Landgraver\" Portland City Council 2026",
+      "result": "nothing relevant (Wikipedia, excluded bluevoterguide.org/350pdx, 2024 coverage)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Kent Landgraver\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Kent Landgraver\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Kent Landgraver\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/10/07/what-to-know-about-portland-district-3-council-race/",
+      "result": "nothing relevant (fetched; candidate not mentioned or nothing usable beyond other sources)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+      "result": "nothing relevant (fetched; candidate not mentioned or nothing usable beyond other sources)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-3-candidates-their-priorities-experience-and-fun-facts/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Steps run identically for all 21 District 3 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF (with the full and large-print county pamphlets tried where the statement PDF was a scan; the pamphlet's candidate index marks candidates who filed no statement) plus the City Auditor's AUD-120 candidate filing form linked from portland.gov's 2026 city candidates page; (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the three articles that cover the whole District 3 field: OPB 'What to know about Portland's District 3 council race' (2026-10-07), Portland Mercury 'Meet the Candidates For City Council District 3' (2026-09-09) and Portland Tribune 'Meet the Portland City Council District 3 candidates' (2026-10-13; Q&A — the Tribune says Sollitt, Pham, Parker, McCormick, Kelly and Frankenstein did not respond and Tucker withdrew). Multi-winner race: OPB states three council seats are available in District 3. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Ballot name 'Kenneth (Kent) R Landgraver III'; pamphlet statement and filing form use 'Kenneth (Kent) R. Landgraver III'; searches used 'Kent Landgraver'. The Mercury notes he has no campaign website."
+}

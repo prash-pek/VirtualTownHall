@@ -206,7 +206,7 @@
     {
       "step": "6",
       "query_or_url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
-      "result": "used"
+      "result": "nothing relevant (fetched; candidate not mentioned or nothing usable beyond other sources)"
     }
   ],
   "collection_notes": "Steps run identically for all 12 District 4 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF plus the City Auditor's AUD-120 candidate filing form (linked from portland.gov 2026 city candidates page); (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the two articles that profile every District 4 candidate: OPB 'What to know about Portland's District 4 council race' (2026-10-07) and Portland Mercury 'Meet the Candidates For City Council District 4' (2026-09-11). Multi-winner race: OPB states three District 4 seats are on the ballot. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Filing form gives occupation 'Police Officer'."
