@@ -1,0 +1,84 @@
+{
+  "id": "elizabeth-savage",
+  "name": "Elizabeth Savage",
+  "name_variants": [],
+  "race_id": "or-circuit-court-4-pos-14",
+  "party": null,
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "elizabeth-savage-b1",
+      "topic": "custom:bio",
+      "statement": "Willamette Week describes Savage as a family law attorney and judge pro tem in Washington County.",
+      "excerpt": "Elizabeth Savage, a family law attorney and judge pro tem in Washington County.",
+      "source": {
+        "url": "https://www.wweek.com/news/county/2026/05/19/embattled-multnomah-county-circuit-judge-poised-to-lose-seat",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-05-19",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "elizabeth-savage-b2",
+      "topic": "custom:bio",
+      "statement": "Willamette Week reports Savage is a former teacher who became a family law attorney and part-time judge pro tem.",
+      "excerpt": "a former teacher-turned-family law attorney and part-time judge pro tem",
+      "source": {
+        "url": "https://wweek.com/news/2026/04/29/wws-may-2026-endorsements-circuit-court-judges",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-04-29",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement not readable (PDF fetch cut off before pp. 59-61)",
+    "No campaign website found in a T1/T3 source",
+    "Judicial candidate: no issue positions collected (judicial ethics)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no OJD/official page found naming this candidate",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain found in a T1/T3 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Elizabeth Savage\" Multnomah circuit court judge position 14 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "race query (allowed_domains opb.org, wweek.com, portlandmercury.com)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.wweek.com/news/county/2026/05/19/embattled-multnomah-county-circuit-judge-poised-to-lose-seat",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://wweek.com/news/2026/04/29/wws-may-2026-endorsements-circuit-court-judges",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "A search result titled as an OregonLive candidate profile for Savage was hosted on an unrelated domain (community.peacecorpsconnect.org) and was excluded as a red-flag mirror. Incumbency left null (no official source); inventory had false. Judicial candidate: bio/qualifications only; no issue positions sought. Voters' pamphlet: Book 13 lists 4th District judges on pp. 59-61, but the PDF text is cut off by the fetch tool at ~120k characters (p. 49), so judicial statements could not be read; oregonvotes.gov military voters' guide pages surfaced by search for Sykes and Hagedorn redirect to the SOS elections home page (302), so they were not usable. Step 5 ran with allowed_domains limited to opb.org, wweek.com, portlandmercury.com because the proxy rejected longer domain lists. Bio items from WW's April 2026 endorsement piece are descriptive facts only; no endorsement content is used."
+}
