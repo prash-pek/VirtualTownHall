@@ -7,10 +7,11 @@ import { getDb } from "@/lib/db/client";
 import { ballotMeasures, candidates, jurisdictions, races } from "@/lib/db/schema";
 
 import type { JurisdictionRef } from "./districts";
+import { compareMeasureNumbers, measureLevel, raceLevel, sortByLevel } from "./order";
 import type { Catalog, CatalogRace } from "./types";
 
 /**
- * Every race and measure in the inventory, in ballot order. Candidate names and parties come from
+ * Every race and measure in the inventory, in printed-ballot order (lib/ballot/order.ts). Candidate names and parties come from
  * official filings and are shown before content review; profiles stay behind the review queue.
  */
 export const getCatalog = cache(async (): Promise<Catalog> => {
@@ -24,6 +25,7 @@ export const getCatalog = cache(async (): Promise<Catalog> => {
         districtLabel: races.districtLabel,
         jurisdiction: jurisdictions.name,
         jurisdictionSlug: jurisdictions.slug,
+        jurisdictionType: jurisdictions.type,
       })
       .from(races)
       .innerJoin(jurisdictions, eq(races.jurisdictionId, jurisdictions.id))
@@ -31,6 +33,7 @@ export const getCatalog = cache(async (): Promise<Catalog> => {
     db
       .select({
         raceId: candidates.raceId,
+        slug: candidates.slug,
         name: candidates.name,
         party: candidates.party,
         incumbent: candidates.incumbent,
@@ -44,6 +47,7 @@ export const getCatalog = cache(async (): Promise<Catalog> => {
         title: ballotMeasures.title,
         jurisdiction: jurisdictions.name,
         jurisdictionSlug: jurisdictions.slug,
+        jurisdictionType: jurisdictions.type,
       })
       .from(ballotMeasures)
       .innerJoin(jurisdictions, eq(ballotMeasures.jurisdictionId, jurisdictions.id))
@@ -52,12 +56,31 @@ export const getCatalog = cache(async (): Promise<Catalog> => {
 
   const byRace = Map.groupBy(candidateRows, (c) => c.raceId);
   return {
-    races: raceRows.map(({ id, ...r }): CatalogRace => ({
-      ...r,
+    races: sortByLevel(raceRows, raceLevel).map((r): CatalogRace => ({
       key: `race:${r.slug}`,
-      candidates: (byRace.get(id) ?? []).map(({ name, party, incumbent }) => ({ name, party, incumbent })),
+      slug: r.slug,
+      office: r.office,
+      districtLabel: r.districtLabel,
+      jurisdiction: r.jurisdiction,
+      jurisdictionSlug: r.jurisdictionSlug,
+      candidates: (byRace.get(r.id) ?? []).map(({ slug, name, party, incumbent }) => ({
+        slug,
+        name,
+        party,
+        incumbent,
+      })),
     })),
-    measures: measureRows.map((m) => ({ ...m, key: `measure:${m.slug}` as const })),
+    measures: sortByLevel(
+      [...measureRows].sort((a, b) => compareMeasureNumbers(a.number, b.number)),
+      measureLevel,
+    ).map((m) => ({
+      key: `measure:${m.slug}` as const,
+      slug: m.slug,
+      number: m.number,
+      title: m.title,
+      jurisdiction: m.jurisdiction,
+      jurisdictionSlug: m.jurisdictionSlug,
+    })),
   };
 });
 

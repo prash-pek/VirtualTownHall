@@ -4,59 +4,52 @@ import { defaultState, usStates } from "@/lib/ballot/states";
 
 export default function Home() {
   return (
-    <main className="mx-auto flex max-w-3xl flex-col gap-6 px-4 py-16">
-      <h1 className="flex items-center gap-3 text-4xl font-semibold tracking-tight">
-        {/* eslint-disable-next-line @next/next/no-img-element -- static SVG, no optimization needed */}
-        <img src="/logo.svg" alt="" width={40} height={40} />
-        TownHall AI
-      </h1>
-      <p className="text-lg text-slate-700 dark:text-slate-300">
-        Oregon General Election, November 3, 2026. Enter your address for a suggested ballot, then add or remove any
-        race or measure you want to follow, with sources for everything we show.
-      </p>
-      <form action="/ballot" method="get" className="flex flex-col gap-2 sm:flex-row">
-        <label htmlFor="address" className="sr-only">
-          Your address
+    <main className="page gap-10 py-16">
+      <div>
+        <p className="eyebrow">Oregon General Election · November 3, 2026</p>
+        <h1 className="mt-2 font-display text-4xl leading-tight font-semibold tracking-tight sm:text-5xl">
+          Get ready to fill out your Oregon ballot
+        </h1>
+        <div className="title-rule" />
+        <p className="mt-4 text-lg text-muted">
+          Go through your ballot one race and measure at a time, with sources for everything we show. Finish with a
+          summary of your own choices to fill out your paper ballot from. We never tell you how to vote.
+        </p>
+      </div>
+      <form action="/ballot" method="get" className="card flex flex-col gap-3">
+        <label htmlFor="address" className="eyebrow">
+          Where do you live?
         </label>
-        <input
-          id="address"
-          name="address"
-          required
-          minLength={5}
-          maxLength={200}
-          placeholder="Street address, city, ZIP"
-          className="flex-1 rounded-md border border-slate-300 px-3 py-2 dark:border-slate-700 dark:bg-slate-900"
-        />
-        <label htmlFor="state" className="sr-only">
-          State
-        </label>
-        <select
-          id="state"
-          name="state"
-          defaultValue={defaultState}
-          autoComplete="address-level1"
-          className="rounded-md border border-slate-300 px-3 py-2 dark:border-slate-700 dark:bg-slate-900"
-        >
-          {usStates.map(([code, name]) => (
-            <option key={code} value={code}>
-              {name}
-            </option>
-          ))}
-        </select>
-        <button
-          type="submit"
-          className="rounded-md bg-slate-900 px-4 py-2 text-white dark:bg-white dark:text-slate-900"
-        >
-          Build my ballot
-        </button>
+        <div className="flex flex-col gap-2 sm:flex-row">
+          <input
+            id="address"
+            name="address"
+            required
+            minLength={5}
+            maxLength={200}
+            placeholder="Street address, city, ZIP"
+            autoComplete="street-address"
+            className="input flex-1"
+          />
+          <label htmlFor="state" className="sr-only">
+            State
+          </label>
+          <select id="state" name="state" defaultValue={defaultState} autoComplete="address-level1" className="input">
+            {usStates.map(([code, name]) => (
+              <option key={code} value={code}>
+                {name}
+              </option>
+            ))}
+          </select>
+          <button type="submit" className="btn-primary">
+            Start
+          </button>
+        </div>
+        <p className="note">We use your address once to find your ballot, then throw it away.</p>
       </form>
-      <p className="text-sm text-slate-600 dark:text-slate-400">
-        We don&apos;t store your address. Or{" "}
-        <Link href="/ballot" className="underline">
-          browse every Oregon race and measure
-        </Link>
-        .
-      </p>
+      <Link href="/ballot" className="link self-start">
+        Just browse
+      </Link>
     </main>
   );
 }

@@ -6,20 +6,23 @@ import { SiteHeader } from "@/components/site-header";
 import { afterAuthUrl, signInUrl, signUpUrl } from "@/lib/auth/urls";
 import { clerkEnabled } from "@/lib/env";
 
+import "@fontsource-variable/dm-sans";
+import "@fontsource/playfair-display/600.css";
+import "@fontsource/playfair-display/700.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
   title: "TownHall AI",
   description:
-    "See your exact Oregon ballot for November 3, 2026, with sourced information on every candidate and measure.",
+    "Get ready to fill out your Oregon ballot for November 3, 2026: walk through every race and measure, with sources for everything we show.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const body = (
     <html lang="en">
-      <body className="min-h-dvh bg-white text-slate-900 antialiased dark:bg-slate-950 dark:text-slate-100">
+      <body className="flex min-h-dvh flex-col bg-cream font-sans text-ink antialiased">
         <SiteHeader />
-        {children}
+        <div className="flex-1">{children}</div>
         <Disclaimer />
       </body>
     </html>
