@@ -1,0 +1,57 @@
+{
+  "id": "pat-hubbell",
+  "name": "Pat Hubbell",
+  "race_id": "or-house-40",
+  "party": "Independent",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/hartman/Pages/default.aspx",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement not retrieved: HD40 pages truncated in fetch tool",
+    "No public biography or positions found (no primary voter-guide entry)",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+      "result": "nothing relevant (text truncated before HD40 statements; candidate list only)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Pat Hubbell\" Oregon House District 40 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Pat Hubbell\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Pat Hubbell\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (pharmacy stories, unrelated)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Pat Hubbell\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (unrelated pharmacy stories)"
+    }
+  ],
+  "collection_notes": "Statewide Voters' Pamphlet, Clackamas County edition (Book14): WebFetch text truncates before the State Representative District 40 statements (index lists pp. 50-51; text cuts off at p. 43). incumbent_source_url is the HD40 incumbent's official page (Hartman). Matches inventory."
+}

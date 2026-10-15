@@ -1,0 +1,142 @@
+{
+  "id": "glenn-lancaster",
+  "name": "Glenn Lancaster",
+  "race_id": "or-senate-13",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/neron/Pages/default.aspx",
+  "occupation": "Retired business owner, electric utility industry",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "glenn-lancaster-b1",
+      "topic": "custom:background",
+      "statement": "In his pamphlet statement, Lancaster lists his occupation as retired business owner in the electric utility industry.",
+      "excerpt": "Occupation: Retired Business Owner, Electric Utility Industry",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Washington County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "glenn-lancaster-b2",
+      "topic": "custom:background",
+      "statement": "His pamphlet statement says he has 40+ years in utility sales and electrical engineering and retired in 2020.",
+      "excerpt": "40+ years in utility sales and electrical engineering. Retired 2020.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Washington County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "glenn-lancaster-b3",
+      "topic": "custom:background",
+      "statement": "His pamphlet statement lists prior governmental experience as precinct committeeperson, county special committee chair and state party delegate.",
+      "excerpt": "Prior Governmental Experience: Precinct Committeeperson; County Special Committee Chair; State Party Delegate.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Washington County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "glenn-lancaster-p1",
+      "topic": "taxes",
+      "statement": "In his pamphlet statement, Lancaster says he will stop the next tax increase and protect the kicker refund.",
+      "excerpt": "I'll stop the next tax increase and protect your kicker refund.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Washington County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "glenn-lancaster-p2",
+      "topic": "education",
+      "statement": "In his pamphlet statement, Lancaster says he will put reading, writing and math back at the center of children's education.",
+      "excerpt": "I'll put reading, writing, and math back at the center of your child's education.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Washington County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "glenn-lancaster-p3",
+      "topic": "public-safety",
+      "statement": "In his pamphlet statement, Lancaster says he will strengthen pretrial-release laws and hold violent criminals accountable.",
+      "excerpt": "I'll strengthen pretrial-release laws and make sure violent criminals are held accountable.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Washington County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Not a current officeholder: no voting record",
+    "No campaign website verified",
+    "Positions on housing, healthcare, environment not found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder (pamphlet lists party offices only)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Glenn Lancaster\" Oregon Senate District 13 2026",
+      "result": "nothing relevant (Ballotready, Ballotpedia, news lists)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Glenn Lancaster\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (Ballotpedia page listed; fetch blocked by robots)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Glenn Lancaster\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Glenn Lancaster\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Glenn_Lancaster",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "incumbent_source_url points to the Senate District 13 incumbent's official page (held by Neron Misslin), supporting incumbent=false. WW fall 2026 endorsement page surfaced in search; endorsements excluded. A pamplinmedia business listing 'Friends of Glenn Lancaster' is not a campaign website. Matches inventory."
+}

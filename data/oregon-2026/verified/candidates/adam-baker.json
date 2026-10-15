@@ -1,0 +1,45 @@
+{
+  "id": "adam-baker",
+  "name": "Adam Baker",
+  "race_id": "or-house-40",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/hartman/Pages/default.aspx",
+  "occupation": "Realtor",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "adam-baker-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Capital Chronicle's 2026 primary voter guide describes Baker as a Realtor and former police officer and hostage negotiator who narrowly lost to Hartman in 2022.",
+      "excerpt": "Adam Baker is a Realtor and former police officer and hostage negotiator who narrowly lost to Hartman in 2022.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-40/",
+        "publisher": "Oregon Capital Chronicle 2026 voter guide (Republican primary, House District 40)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement not retrieved: HD40 pages truncated in fetch tool",
+    "No policy positions found: did not answer Capital Chronicle questionnaire",
+    "No campaign website verified"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Baker did not answer the Capital Chronicle questionnaire (confirmed). Pamphlet not reached."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "michael-sugar",
+  "name": "Michael W Sugar",
+  "name_variants": [
+    "Michael Sugar"
+  ],
+  "race_id": "or-house-40",
+  "party": "Democrat",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/hartman/Pages/default.aspx",
+  "occupation": "High school history teacher",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "michael-sugar-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Capital Chronicle's 2026 primary voter guide describes Sugar as a high school history teacher and longtime volunteer for political campaigns.",
+      "excerpt": "Michael Sugar is a high school history teacher and longtime volunteer for political campaigns.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-40/",
+        "publisher": "Oregon Capital Chronicle 2026 voter guide (Democratic primary, House District 40)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "michael-sugar-p1",
+      "topic": "housing",
+      "statement": "In the Capital Chronicle voter guide, Sugar says Oregon must address corporate home ownership and expand housing for families.",
+      "excerpt": "Housing: we must address corporate home ownership in Oregon, and expand on housing for families.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-40/",
+        "publisher": "Oregon Capital Chronicle 2026 voter guide (Democratic primary, House District 40)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michael-sugar-p2",
+      "topic": "transportation",
+      "statement": "In the Capital Chronicle voter guide, Sugar says he would explore more flexible use of gas tax revenue if needed to stabilize ODOT.",
+      "excerpt": "I would explore more flexible use of gas tax revenue if needed to stabilize ODOT.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-40/",
+        "publisher": "Oregon Capital Chronicle 2026 voter guide (Democratic primary, House District 40)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michael-sugar-p3",
+      "topic": "immigration",
+      "statement": "In the Capital Chronicle voter guide, Sugar says Oregon must uphold its sanctuary laws.",
+      "excerpt": "On immigration, we must uphold our sanctuary laws.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-40/",
+        "publisher": "Oregon Capital Chronicle 2026 voter guide (Democratic primary, House District 40)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michael-sugar-p4",
+      "topic": "environment",
+      "statement": "In the Capital Chronicle voter guide, Sugar says he is open to strategic logging in places where it could add fire barriers to protect communities.",
+      "excerpt": "I am open to strategic logging, especially in areas where logging could add fire barriers to protect communities.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-40/",
+        "publisher": "Oregon Capital Chronicle 2026 voter guide (Democratic primary, House District 40)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michael-sugar-p5",
+      "topic": "education",
+      "statement": "In his Ballotpedia survey response, Sugar says every Oregonian deserves access to quality education and affordable health care.",
+      "excerpt": "I believe every Oregonian deserves access to quality education, affordable health care",
+      "source": {
+        "url": "https://ballotpedia.org/Michael_Sugar",
+        "publisher": "Ballotpedia (candidate-submitted Candidate Connection survey)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement not retrieved: HD40 pages truncated in fetch tool",
+    "Not a current officeholder: no voting record",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+      "result": "nothing relevant (text truncated before HD40 statements; candidate list only)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Michael Sugar\" Oregon House District 40 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Michael Sugar\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (Capital Chronicle voter guide, Ballotpedia)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Michael Sugar\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Michael Sugar\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (race roundups only)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-40/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Michael_Sugar",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Statewide Voters' Pamphlet, Clackamas County edition (Book14): WebFetch text truncates before the State Representative District 40 statements (index lists pp. 50-51; text cuts off at p. 43). HD40 incumbent per official page is Annessa Hartman (not on this ballot); incumbent_source_url is that page. Capital Chronicle guide is for the May 2026 Democratic primary. Matches inventory."
+}

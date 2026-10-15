@@ -23,3 +23,13 @@ The Opus baselines per candidate:
 - Multnomah cities collector: cache_write 29.9k, cache_read 720k, output 3.1k.
 
 Token volume is similar or lower. Most of the saving comes from Sonnet's lower per-token price.
+
+Larger test on Sonnet (Senate 13, House 26, House 40; 9 candidates), per candidate:
+- Collector: cache_write 13.2k, cache_read 229k, output 1.2k.
+- Verifier: cache_write 5.7k, cache_read 127k, output 0.4k.
+
+Opus verifier baselines per candidate:
+- Clackamas County: cache_write 9.8k, cache_read 329k, output 2.7k.
+- Portland D4: cache_write 14.3k, cache_read 224k, output 1.9k.
+
+Quality: the collector wrongly logged the House 26 pamphlet as truncated. The statements are readable at a WebFetch offset of 60000. The verifier caught the miss.

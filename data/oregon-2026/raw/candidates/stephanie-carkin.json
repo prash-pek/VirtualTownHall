@@ -1,0 +1,57 @@
+{
+  "id": "stephanie-carkin",
+  "name": "Stephanie Carkin",
+  "race_id": "or-house-26",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/riekesmith/Pages/default.aspx",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement not retrieved: HD26 pages truncated in fetch tool",
+    "No public biography or positions found",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+      "result": "nothing relevant (text truncated before HD26 statements)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Stephanie Carkin\" House District 26 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Stephanie Carkin\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Stephanie Carkin\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Stephanie Carkin\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Statewide Voters' Pamphlet, Washington County edition (Book12): WebFetch text truncates before the State Representative District 26 statements (index lists pp. 46-47; text cuts off at p. 43). incumbent_source_url is the HD26 incumbent's official page (Rieke Smith). Matches inventory (nominated by Republican and Libertarian parties)."
+}

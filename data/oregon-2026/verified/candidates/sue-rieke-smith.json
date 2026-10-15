@@ -1,0 +1,108 @@
+{
+  "id": "sue-rieke-smith",
+  "name": "Sue R Rieke Smith",
+  "name_variants": [
+    "Sue Rieke Smith"
+  ],
+  "race_id": "or-house-26",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/riekesmith/Pages/default.aspx",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "sue-rieke-smith-b1",
+      "topic": "education",
+      "statement": "Her official biography says she earned an Ed.D. in Educational Leadership and Policy at the University of Oregon in 2015.",
+      "excerpt": "Representative Sue Rieke Smith earned her Ed.D. in Educational Leadership and Policy at the University of Oregon in 2015.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/riekesmith/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sue-rieke-smith-b2",
+      "topic": "custom:background",
+      "statement": "Her official biography says she began in trauma and public health nursing.",
+      "excerpt": "She began with trauma and public health nursing",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/riekesmith/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sue-rieke-smith-b3",
+      "topic": "education",
+      "statement": "Her official biography says she served as superintendent of the Tigard-Tualatin School District and Springfield Public Schools.",
+      "excerpt": "She served as superintendent for both the Tigard-Tualatin School District and Springfield Public Schools",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/riekesmith/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sue-rieke-smith-b4",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says she was appointed to House District 26 on June 6, 2025, to replace Courtney Neron.",
+      "excerpt": "appointed Rieke Smith to the Oregon House of Representatives District 26 on June 6, 2025 to replace Courtney Neron.",
+      "source": {
+        "url": "https://ballotpedia.org/Sue_Rieke_Smith",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Original statement overstated (Washington County commissioners only; Ballotpedia names Washington, Clackamas and Yamhill boards) and excerpt covered only the office-start date; excerpt replaced with the appointment sentence fragment actually on the page.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement not retrieved: HD26 pages truncated in fetch tool",
+    "No public policy positions found in sources used",
+    "No roll-call votes or sponsored bills retrieved: OLIS member page (member/374) shows no bill list to the fetch tool",
+    "No campaign website verified"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "HD26: Rieke Smith 4 items, Carkin 0, Terrio 0. Collector recorded pamphlet as truncated, but the HD26 statements for all three are reachable in Book12 (WebFetch offset 60000) and Book14; missed T1 material for all three candidates, applied equally but is a source-access miss. Also missed: OPB 2025-06-10 appointment article with Rieke Smith positions (T3)."
+  }
+}
