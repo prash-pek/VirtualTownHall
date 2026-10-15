@@ -1,0 +1,1 @@
+ALTER TABLE "profiles" ADD COLUMN "ballot_items" text[] DEFAULT '{}'::text[] NOT NULL;

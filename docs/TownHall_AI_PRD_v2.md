@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Version** | 2.0 |
-| **Date** | October 13, 2026 |
+| **Version** | 2.1 |
+| **Date** | October 15, 2026 (2.1: voter-curated My Ballot) |
 | **Supersedes** | PRD v1.0 (Feb 28, 2026) — v1 remains the reference for anything not changed here |
 | **Target** | November 3, 2026 US general (midterm) election, one launch region |
 | **Launch region** | Oregon — every contest on any Oregon ballot; Portland metro (Multnomah, Washington, Clackamas, Metro, City of Portland) is the priority focus |
@@ -85,8 +85,13 @@ Primary sources in priority order: official state/county voter guide → legisla
 
 ## 5. Voter experience
 
-1. Landing → enter address (or ZIP, with district disambiguation when a ZIP spans districts).
-2. **My Ballot**: every race and measure on their ballot, in ballot order.
+1. Landing → enter an address for a suggested ballot, or skip it and browse.
+2. **My Ballot** is the voter's own list, and they control it:
+   - The address fills it with suggested races and measures for where they live. Suggestions are a helpful starting point, not a verified ballot.
+   - Special districts that may apply (water, fire, parks and similar) are offered for one-tap adding, since we can't place an address in them precisely.
+   - The voter can browse or search every Oregon race and measure and add any of them, and remove anything.
+   - **We are not the arbiters of what someone can vote on.** No eligibility checks and no limits on what a voter follows. We always link to the official Oregon "My Vote" page for the authoritative ballot.
+   - The address is used only for the lookup and is never stored. The list is kept in the browser, and saved to the voter's account when signed in.
 3. Optional Values Match quiz → match indicators appear on the ballot.
 4. Race → candidate cards (badge: Claimed & Verified / Unclaimed public record; alignment score) → profile → chat.
 5. Measure → summary, YES/NO effects, fiscal impact, arguments, sources → Issue Explainer chat.

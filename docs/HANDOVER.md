@@ -10,7 +10,7 @@ This document hands TownHall AI v2 over to a new Claude project. Start any new c
 
 | Item | Status |
 |---|---|
-| v1 codebase (`main`) | Working hackathon app: Vite/React frontend on Vercel, Express/SQLite backend on Railway. **Reference only**; it will be replaced. |
+| v1 codebase | Archived on the `v1` branch (Vite/React + Express/SQLite). Replaced by v2 on `main` on 2026-10-15. |
 | v1 code evaluation | Done (§4). Verdict: real security and robustness gaps. We chose a ground-up rebuild. |
 | PRD v2 | Written: [TownHall_AI_PRD_v2.md](TownHall_AI_PRD_v2.md) |
 | TRD v2 (rebuild) | Written: [TownHall_AI_TRD_v2.md](TownHall_AI_TRD_v2.md) |
@@ -18,14 +18,14 @@ This document hands TownHall AI v2 over to a new Claude project. Start any new c
 | Oregon seed data schema | Written: [../data/oregon-2026/README.md](../data/oregon-2026/README.md) |
 | Oregon ballot inventory | **Done (first pass):** [inventory.json](../data/oregon-2026/inventory.json) has 148 jurisdictions, 199 races, 438 candidates, 23 measures, all from T1 sources; details in [inventory_report.md](../data/oregon-2026/reports/inventory_report.md). **Known gaps:** outside the Portland metro only Marion County is covered; no ZIP mappings; 194 candidates have unknown incumbency; some OCR'd names need checking. **The verifier must double-check:** "no statewide measures" (agent cites SOS Directive 2026-09) and "no statewide judicial contests". |
 | Candidate/measure collection + verification | Not started. Next step for the data pipeline thread. |
-| v2 app code | Not started. |
+| v2 app code | On `main`, live at https://townhallai.outsetinno.com. Phase 1 (Foundation) done; phase 2 (voter-curated My Ballot: address suggestions, browse and add, saved list, race and measure pages) built. Clerk is still the dev instance; a production instance is needed before public launch. |
 
 ---
 
 ## 2. What we're building
 
 A civic platform for the **Oregon general election on November 3, 2026**:
-- Voters see their **exact ballot** (candidates and ballot measures) from their address.
+- Voters build **My Ballot**: their address suggests the candidates and measures for where they live, and they add or remove anything they want to follow (TRD §4).
 - They chat with AI about each option and compare options against their own priorities.
 - **Candidates are the primary customers.** They can claim their profile, add materials and control their AI representation.
 - For this first election, profiles are **seeded from verified public sources**.
@@ -56,6 +56,7 @@ A civic platform for the **Oregon general election on November 3, 2026**:
     - The verifier independently re-fetches each source and confirms the excerpt verbatim.
     - It checks attribution, neutrality and balance.
     - It rejects AI-generated, fake or look-alike sources.
+12. **My Ballot is voter-curated** (2026-10-15). The address only suggests; voters add or remove any race or measure. We don't verify eligibility or decide what someone can vote on.
 
 ## 4. v1 evaluation summary (why we're rebuilding)
 
@@ -149,7 +150,7 @@ Working style: concise and concrete. When a thread's output changes a decision o
 ## 8. Kickoff prompt (first thread)
 
 ```
-Let's kick off the TownHall AI v2 rebuild. Read docs/HANDOVER.md on the v2 branch of https://github.com/prash-pek/VirtualTownHall, then the PRD v2, TRD v2 and data-sourcing policy it links.
+Let's kick off the TownHall AI v2 rebuild. Read docs/HANDOVER.md on the main branch of https://github.com/prash-pek/VirtualTownHall, then the PRD v2, TRD v2 and data-sourcing policy it links.
 
 1. Give me a short readback (10 bullets max) of what we're building and the key constraints, so I can confirm we're aligned.
 2. Propose how to split the work into parallel threads in this project, starting from HANDOVER.md §5. For each thread: goal, inputs it needs, outputs/handoff artifacts, dependencies on other threads, and a ready-to-paste opening prompt.
