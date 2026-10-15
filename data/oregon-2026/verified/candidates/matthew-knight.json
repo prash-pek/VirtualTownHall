@@ -1,0 +1,163 @@
+{
+  "id": "matthew-knight",
+  "name": "Matthew S Knight",
+  "name_variants": [
+    "Matthew S. Knight",
+    "Matthew Knight"
+  ],
+  "race_id": "forest-grove-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://forestgrove-or.gov/362/Elections",
+  "occupation": "Business Owner, Knight LLC",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "matthew-knight-b1",
+      "topic": "custom:bio",
+      "statement": "Knight's pamphlet statement lists his occupation as owner of Knight LLC.",
+      "excerpt": "Business Owner, Knight LLC.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matthew-knight-b2",
+      "topic": "custom:bio",
+      "statement": "Knight's pamphlet statement lists small business ownership and capital equipment sales from 2009 to 2021.",
+      "excerpt": "Small Business Owner; Capital Equipment Sales, 2009-2021",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matthew-knight-b3",
+      "topic": "custom:bio",
+      "statement": "Knight's pamphlet statement lists a corrections certificate from Pioneer Pacific College and Portland Community College coursework.",
+      "excerpt": "Pioneer Pacific College, Certificate in Corrections; Portland Community College coursework; High School Diploma",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matthew-knight-b4",
+      "topic": "custom:bio",
+      "statement": "Knight's pamphlet statement lists no prior governmental experience.",
+      "excerpt": "None",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt \"None\" is verbatim (Prior Government Experience line) and matches the News-Times report that his filing lists none; kept as a short fragment.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "matthew-knight-p1",
+      "topic": "custom:growth",
+      "statement": "In his voters' pamphlet statement, Knight says the city can encourage responsible growth while protecting its character and quality of life.",
+      "excerpt": "We can encourage responsible growth while protecting the character and quality of life that makes Forest Grove special.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matthew-knight-p2",
+      "topic": "custom:regional-cooperation",
+      "statement": "Knight's pamphlet statement says transportation, housing, infrastructure, economic development and public safety do not stop at city boundaries.",
+      "excerpt": "Transportation, housing, infrastructure, economic development, and public safety don't stop at city boundaries.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matthew-knight-p3",
+      "topic": "custom:governance",
+      "statement": "Knight's pamphlet statement says he believes in a collaborative approach to problem-solving.",
+      "excerpt": "I believe in a collaborative approach to problem-solving.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "2026 press coverage exists but was not collected: Forest Grove News-Times candidate roster (2026-09-03) and council candidate Q&A (2026-09-25); News in the Grove questionnaire also exists"
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Full pamphlet statement collected. Incumbent=false supported by roster (not a member) and News-Times. Press not collected."
+  }
+}

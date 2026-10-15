@@ -1,0 +1,163 @@
+{
+  "id": "mariana-valenzuela",
+  "name": "Mariana E Valenzuela",
+  "name_variants": [
+    "Mariana E. Valenzuela",
+    "Mariana Valenzuela"
+  ],
+  "race_id": "forest-grove-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://forestgrove-or.gov/362/Elections",
+  "occupation": "Assistant Professor at Pacific University",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "mariana-valenzuela-b1",
+      "topic": "custom:bio",
+      "statement": "Forest Grove's elections page lists Council President Mariana Valenzuela's seat as up for election in November 2026.",
+      "excerpt": "Council President Mariana Valenzuela",
+      "source": {
+        "url": "https://forestgrove-or.gov/362/Elections",
+        "publisher": "City of Forest Grove (Elections page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Elections page lists Council President Mariana Valenzuela among the seats up in Nov 2026; page is stale but consistent with pamphlet.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mariana-valenzuela-b2",
+      "topic": "custom:bio",
+      "statement": "Valenzuela's pamphlet statement lists service on the Forest Grove City Council since 2020.",
+      "excerpt": "Forest Grove City Council, 2020-present",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mariana-valenzuela-b3",
+      "topic": "custom:bio",
+      "statement": "Valenzuela's pamphlet statement lists an MBA from Pacific University and degrees from New Mexico State University.",
+      "excerpt": "Pacific University, MBA; New Mexico State University, BA & MA.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mariana-valenzuela-b4",
+      "topic": "custom:bio",
+      "statement": "Valenzuela's pamphlet statement lists prior work with Centro Cultural of Washington County and several colleges.",
+      "excerpt": "Centro Cultural of Washington County; Portland Community College; Clark College; Idaho State University",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "mariana-valenzuela-p1",
+      "topic": "social-services",
+      "statement": "In her voters' pamphlet statement, Valenzuela says she seeks a full term to keep advocating for youth and elderly residents.",
+      "excerpt": "I am seeking a full term to have the opportunity to continue advocating on behalf of our youth, our elderly,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt is a verbatim fragment ending at \"our elderly,\"; remainder of the sentence also mentions working families and widening the range of voices; statement is within the fragment.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mariana-valenzuela-p2",
+      "topic": "public-safety",
+      "statement": "Valenzuela's pamphlet statement cites ensuring the well-being and security of all residents.",
+      "excerpt": "ensuring the well-being and security of all our residents.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mariana-valenzuela-p3",
+      "topic": "economy",
+      "statement": "Valenzuela's pamphlet statement says Forest Grove is well positioned to continue to grow and thrive.",
+      "excerpt": "I believe Forest Grove is well positioned to continue to grow and thrive in the coming years.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "2026 press coverage exists but was not collected: Forest Grove News-Times candidate roster (2026-09-03) and council candidate Q&A (2026-09-25); News in the Grove questionnaire also exists"
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Full pamphlet statement collected. Incumbent=true supported by roster (Council President, elected 2022). Press and News in the Grove questionnaire not collected."
+  }
+}
