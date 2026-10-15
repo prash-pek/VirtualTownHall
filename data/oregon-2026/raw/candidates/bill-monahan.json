@@ -121,7 +121,8 @@
     "No public position found on housing",
     "No public position found on transportation",
     "Campaign website (citizenstoelectbillmonahan.com) could not be fetched (robots disallowed); only the pamphlet statement was available",
-    "No Pamplin 2026 candidate Q&A readable (pamplinmedia.com blocks automated fetch)"
+    "No Pamplin 2026 candidate Q&A readable (pamplinmedia.com blocks automated fetch)",
+    "No endorsers listed in pamphlet statement"
   ],
   "collection_log": [
     {
@@ -165,5 +166,6 @@
       "result": "used (KATU); Pamplin blocked"
     }
   ],
-  "collection_notes": "Not an incumbent per available sources (no official page lists him). incumbent left null. Ballotpedia 'Bill Monahan' page is a different person (Pennsylvania) and was not used. Pamphlet extract file contains both mayors' text on page 35; only Monahan's right-column statement used."
+  "collection_notes": "Not an incumbent per available sources (no official page lists him). incumbent left null. Ballotpedia 'Bill Monahan' page is a different person (Pennsylvania) and was not used. Pamphlet extract file contains both mayors' text on page 35; only Monahan's right-column statement used.",
+  "endorsements": []
 }

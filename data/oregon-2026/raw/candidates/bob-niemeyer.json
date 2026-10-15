@@ -175,5 +175,21 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Challenger. Same Ballotpedia page shows a 2016 governor campaign (not used; different office). Incumbent null: no official source consulted stating non-incumbency. Not found in a Capital Chronicle guide. Search (b) returned only Bob's Red Mill results. Pamphlet statement: SOS Washington edition p. 44 (same text in other editions)."
+  "collection_notes": "Challenger. Same Ballotpedia page shows a 2016 governor campaign (not used; different office). Incumbent null: no official source consulted stating non-incumbency. Not found in a Capital Chronicle guide. Search (b) returned only Bob's Red Mill results. Pamphlet statement: SOS Washington edition p. 44 (same text in other editions).",
+  "endorsements": [
+    {
+      "id": "bob-niemeyer-e1",
+      "endorser": "Darrel Gulstrom, AKA “The Annoying Child”",
+      "endorser_type": "person",
+      "statement": "Bob Niemeyer's pamphlet statement lists Darrel Gulstrom, AKA “The Annoying Child” as an endorser.",
+      "excerpt": "Darrel Gulstrom, AKA “The Annoying Child”",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
 }

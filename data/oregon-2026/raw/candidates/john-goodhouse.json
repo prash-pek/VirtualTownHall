@@ -107,7 +107,8 @@
   "gaps": [
     "Campaign website not identified; pamphlet directs to a Facebook page (social media not cited)",
     "No public position found on taxes or budget",
-    "No Pamplin (Tigard Times) 2026 candidate Q&A readable (pamplinmedia.com blocks automated fetch)"
+    "No Pamplin (Tigard Times) 2026 candidate Q&A readable (pamplinmedia.com blocks automated fetch)",
+    "Pamphlet statement names no endorsers; it refers readers to a Facebook page (not cited)"
   ],
   "collection_log": [
     {
@@ -151,5 +152,6 @@
       "result": "blocked"
     }
   ],
-  "collection_notes": "Pamphlet states prior (past) Tigard City Council service; no official page lists him as current councilor; incumbent null. Pamphlet spelled name 'John Goodhouse' (name occupies two lines)."
+  "collection_notes": "Pamphlet states prior (past) Tigard City Council service; no official page lists him as current councilor; incumbent null. Pamphlet spelled name 'John Goodhouse' (name occupies two lines).",
+  "endorsements": []
 }

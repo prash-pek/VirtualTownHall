@@ -200,5 +200,63 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Incumbency per oregonlegislature.gov biography (first-term representative, HD33). Matches inventory. Ballotpedia has no 2026 content and no policy positions. Capital Chronicle HD33 guide page not found. Pamphlet statement: SOS Washington edition p. 53 (same text in other editions)."
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (first-term representative, HD33). Matches inventory. Ballotpedia has no 2026 content and no policy positions. Capital Chronicle HD33 guide page not found. Pamphlet statement: SOS Washington edition p. 53 (same text in other editions).",
+  "endorsements": [
+    {
+      "id": "shannon-jones-isadore-e1",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Shannon Jones Isadore's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "shannon-jones-isadore-e2",
+      "endorser": "Stand for Children",
+      "endorser_type": "organization",
+      "statement": "Shannon Jones Isadore's pamphlet statement lists Stand for Children as an endorser.",
+      "excerpt": "Stand for Children",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "shannon-jones-isadore-e3",
+      "endorser": "Senator Lisa Reynolds",
+      "endorser_type": "official",
+      "statement": "Shannon Jones Isadore's pamphlet statement lists Senator Lisa Reynolds as an endorser.",
+      "excerpt": "Senator Lisa Reynolds",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "shannon-jones-isadore-e4",
+      "endorser": "Portland City Councilor Eric Zimmerman",
+      "endorser_type": "official",
+      "statement": "Shannon Jones Isadore's pamphlet statement lists Portland City Councilor Eric Zimmerman as an endorser.",
+      "excerpt": "Portland City Councilor Eric Zimmerman",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
 }

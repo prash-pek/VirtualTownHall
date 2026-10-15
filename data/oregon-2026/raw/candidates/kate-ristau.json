@@ -164,5 +164,172 @@
       "result": "blocked"
     }
   ],
-  "collection_notes": "Not an incumbent councilor per the Tigard Meet the Council page, but no official source explicitly states non-incumbency, so incumbent left null. Pamphlet endorsement list not used. Tigard Library Board service is a public office (not verified on a .gov page)."
+  "collection_notes": "Not an incumbent councilor per the Tigard Meet the Council page, but no official source explicitly states non-incumbency, so incumbent left null. Pamphlet endorsement list recorded in endorsements only. Tigard Library Board service is a public office (not verified on a .gov page).",
+  "endorsements": [
+    {
+      "id": "kate-ristau-e1",
+      "topic": "custom:endorsement",
+      "statement": "Ristau's pamphlet statement lists Jake Schlack, Tigard City Councilor as an endorser.",
+      "excerpt": "Jake Schlack, Tigard City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Jake Schlack, Tigard City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "kate-ristau-e2",
+      "topic": "custom:endorsement",
+      "statement": "Ristau's pamphlet statement lists Jason Snider, Washington County Commissioner as an endorser.",
+      "excerpt": "Jason Snider, Washington County Commissioner, Former Tigard Mayor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Jason Snider, Washington County Commissioner",
+      "endorser_type": "official"
+    },
+    {
+      "id": "kate-ristau-e3",
+      "topic": "custom:endorsement",
+      "statement": "Ristau's pamphlet statement lists John Cook, Former Tigard Mayor as an endorser.",
+      "excerpt": "John Cook, Former Tigard Mayor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "John Cook, Former Tigard Mayor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "kate-ristau-e4",
+      "topic": "custom:endorsement",
+      "statement": "Ristau's pamphlet statement lists Pam Treece, Washington County Commissioner as an endorser.",
+      "excerpt": "Pam Treece, Washington County Commissioner",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Pam Treece, Washington County Commissioner",
+      "endorser_type": "official"
+    },
+    {
+      "id": "kate-ristau-e5",
+      "topic": "custom:endorsement",
+      "statement": "Ristau's pamphlet statement lists John Dugger, Beaverton City Council President as an endorser.",
+      "excerpt": "John Dugger, Beaverton City Council President",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "John Dugger, Beaverton City Council President",
+      "endorser_type": "official"
+    },
+    {
+      "id": "kate-ristau-e6",
+      "topic": "custom:endorsement",
+      "statement": "Ristau's pamphlet statement lists Ashley Hartmeier-Prigg, Beaverton City Councilor as an endorser.",
+      "excerpt": "Ashley Hartmeier-Prigg, Beaverton City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Ashley Hartmeier-Prigg, Beaverton City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "kate-ristau-e7",
+      "topic": "custom:endorsement",
+      "statement": "Ristau's pamphlet statement lists Kevin Teater, Beaverton City Councilor as an endorser.",
+      "excerpt": "Kevin Teater, Beaverton City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Kevin Teater, Beaverton City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "kate-ristau-e8",
+      "topic": "custom:endorsement",
+      "statement": "Ristau's pamphlet statement lists Jenny Stoffel, Tigard Library Board Vice Chair as an endorser.",
+      "excerpt": "Jenny Stoffel, Tigard Library Board Vice Chair",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Jenny Stoffel, Tigard Library Board Vice Chair",
+      "endorser_type": "person"
+    },
+    {
+      "id": "kate-ristau-e9",
+      "topic": "custom:endorsement",
+      "statement": "Ristau's pamphlet statement lists Pam Michael, Tigard Library Board Member as an endorser.",
+      "excerpt": "Pam Michael, Tigard Library Board Member",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Pam Michael, Tigard Library Board Member",
+      "endorser_type": "person"
+    },
+    {
+      "id": "kate-ristau-e10",
+      "topic": "custom:endorsement",
+      "statement": "Ristau's pamphlet statement lists Mary Bogert, Former Tigard Library Board Chair as an endorser.",
+      "excerpt": "Mary Bogert, Former Tigard Library Board Chair",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Mary Bogert, Former Tigard Library Board Chair",
+      "endorser_type": "person"
+    },
+    {
+      "id": "kate-ristau-e11",
+      "topic": "custom:endorsement",
+      "statement": "Ristau's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization"
+    }
+  ]
 }

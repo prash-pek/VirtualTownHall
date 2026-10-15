@@ -176,5 +176,63 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent. Pamphlet Book14 p.42-43 (pending). Item p1 is from 2023 school-board context. Pamphlet statement: SOS Clackamas edition p. 42 (same text in other editions)."
+  "collection_notes": "Inventory consistent. Pamphlet Book14 p.42-43 (pending). Item p1 is from 2023 school-board context. Pamphlet statement: SOS Clackamas edition p. 42 (same text in other editions).",
+  "endorsements": [
+    {
+      "id": "michele-stroh-e1",
+      "endorser": "Christine Drazan, State Senator",
+      "endorser_type": "official",
+      "statement": "Michele Stroh's pamphlet statement lists Christine Drazan, State Senator as an endorser.",
+      "excerpt": "Christine Drazan, State Senator",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michele-stroh-e2",
+      "endorser": "Bruce Starr, Senate Minority Leader",
+      "endorser_type": "official",
+      "statement": "Michele Stroh's pamphlet statement lists Bruce Starr, Senate Minority Leader as an endorser.",
+      "excerpt": "Bruce Starr, Senate Minority Leader",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michele-stroh-e3",
+      "endorser": "Bill Kennemer, retired Oregon State Senator",
+      "endorser_type": "official",
+      "statement": "Michele Stroh's pamphlet statement lists Bill Kennemer, retired Oregon State Senator as an endorser.",
+      "excerpt": "Bill Kennemer, retired Oregon State Senator",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michele-stroh-e4",
+      "endorser": "The Taxpayer Association of Oregon",
+      "endorser_type": "organization",
+      "statement": "Michele Stroh's pamphlet statement lists The Taxpayer Association of Oregon as an endorser.",
+      "excerpt": "The Taxpayer Association of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
 }

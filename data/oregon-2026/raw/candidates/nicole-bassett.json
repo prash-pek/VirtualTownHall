@@ -157,7 +157,8 @@
   "voting_record": [],
   "gaps": [
     "No education or taxes position found outside the pamphlet",
-    "No campaign website confirmed"
+    "No campaign website confirmed",
+    "Pamphlet statement says 'Dozens more at bassettfororegon.com' (not recorded)."
   ],
   "collection_log": [
     {
@@ -201,5 +202,147 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent. Voter guide page has no publication date (published_at null). Searches by 'Nicole Bassett' return unrelated people on KOIN/Pamplin. Pamphlet Book14 p.44 (pending). Pamphlet statement: SOS Clackamas edition p. 44 (same text in other editions)."
+  "collection_notes": "Inventory consistent. Voter guide page has no publication date (published_at null). Searches by 'Nicole Bassett' return unrelated people on KOIN/Pamplin. Pamphlet Book14 p.44 (pending). Pamphlet statement: SOS Clackamas edition p. 44 (same text in other editions).",
+  "endorsements": [
+    {
+      "id": "nicole-bassett-e1",
+      "endorser": "Teamsters Joint Council No. 37",
+      "endorser_type": "organization",
+      "statement": "Nicole Bassett's pamphlet statement lists Teamsters Joint Council No. 37 as an endorser.",
+      "excerpt": "Teamsters Joint Council No. 37",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-e2",
+      "endorser": "Nurses and Friends for Single Payer",
+      "endorser_type": "organization",
+      "statement": "Nicole Bassett's pamphlet statement lists Nurses and Friends for Single Payer as an endorser.",
+      "excerpt": "Nurses and Friends for Single Payer",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-e3",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Nicole Bassett's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-e4",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Nicole Bassett's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-e5",
+      "endorser": "American Federation of Teachers-Oregon",
+      "endorser_type": "organization",
+      "statement": "Nicole Bassett's pamphlet statement lists American Federation of Teachers-Oregon as an endorser.",
+      "excerpt": "American Federation of Teachers-Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-e6",
+      "endorser": "Oregon Consumer League Action Fund",
+      "endorser_type": "organization",
+      "statement": "Nicole Bassett's pamphlet statement lists Oregon Consumer League Action Fund as an endorser.",
+      "excerpt": "Oregon Consumer League Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-e7",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Nicole Bassett's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-e8",
+      "endorser": "Yvon Chouinard - Founder of Patagonia",
+      "endorser_type": "person",
+      "statement": "Nicole Bassett's pamphlet statement lists Yvon Chouinard - Founder of Patagonia as an endorser.",
+      "excerpt": "Yvon Chouinard - Founder of Patagonia",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-e9",
+      "endorser": "Matthew Ellis - Hood River Cty. District Attorney",
+      "endorser_type": "official",
+      "statement": "Nicole Bassett's pamphlet statement lists Matthew Ellis - Hood River Cty. District Attorney as an endorser.",
+      "excerpt": "Matthew Ellis - Hood River Cty. District Attorney",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-e10",
+      "endorser": "Kara Davis - Wasco Cty. District Attorney",
+      "endorser_type": "official",
+      "statement": "Nicole Bassett's pamphlet statement lists Kara Davis - Wasco Cty. District Attorney as an endorser.",
+      "excerpt": "Kara Davis - Wasco Cty. District Attorney",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
 }

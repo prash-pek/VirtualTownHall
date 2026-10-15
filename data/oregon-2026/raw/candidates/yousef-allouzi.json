@@ -167,5 +167,262 @@
   "collection_notes": "Ballot spelling 'Yousef K Allouzi' (county certified list); pamphlet prints 'Yousef Allouzi'. _index.json lists as loose match (first+last name) but page 38 prints the full name. Homepage item p5 sourced from site fetch; the site's quote text was returned by the fetch tool.",
   "name_variants": [
     "Yousef Allouzi"
+  ],
+  "endorsements": [
+    {
+      "id": "yousef-allouzi-e1",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Washington County Democrats",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "yousef-allouzi-e2",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "yousef-allouzi-e3",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists APANO Action Fund as an endorser.",
+      "excerpt": "APANO Action Fund",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "APANO Action Fund",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "yousef-allouzi-e4",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Oregon Futures Lab & Color PAC as an endorser.",
+      "excerpt": "Oregon Futures Lab & Color PAC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Oregon Futures Lab & Color PAC",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "yousef-allouzi-e5",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists The Ebony Collective Coalition as an endorser.",
+      "excerpt": "The Ebony Collective Coalition",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "The Ebony Collective Coalition",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "yousef-allouzi-e6",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Juan Carlos Gonzalez, Metro Council President as an endorser.",
+      "excerpt": "Metro Council President Juan Carlos Gonzalez",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Juan Carlos Gonzalez, Metro Council President",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e7",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Duncan Hwang, Metro Councilor as an endorser.",
+      "excerpt": "Metro Councilor Duncan Hwang",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Duncan Hwang, Metro Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e8",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Kayse Jama, State Senator as an endorser.",
+      "excerpt": "State Senator Kayse Jama",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Kayse Jama, State Senator",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e9",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Myrna Muñoz, State Senate Democratic Nominee as an endorser.",
+      "excerpt": "State Senate Democratic Nominee Myrna Muñoz",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Myrna Muñoz, State Senate Democratic Nominee",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e10",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Mari Watanabe, State Representative as an endorser.",
+      "excerpt": "State Representative Mari Watanabe",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Mari Watanabe, State Representative",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e11",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Tammy Carpenter, State House Democratic Nominee as an endorser.",
+      "excerpt": "State House Democratic Nominee Tammy Carpenter",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Tammy Carpenter, State House Democratic Nominee",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e12",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Mohamed Alyajouri, Mount Hood Community College Board Member as an endorser.",
+      "excerpt": "Mohamed Alyajouri",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Mohamed Alyajouri, Mount Hood Community College Board Member",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e13",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Jairaj Singh, Former Tigard City Councilor as an endorser.",
+      "excerpt": "Former Tigard City Councilor Jairaj Singh",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Jairaj Singh, Former Tigard City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e14",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Edward Kimmi, Beaverton City Councilor as an endorser.",
+      "excerpt": "Beaverton City Councilors Edward Kimmi",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Edward Kimmi, Beaverton City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e15",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Nadia Hasan, Beaverton City Councilor as an endorser.",
+      "excerpt": "Nadia Hasan",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Nadia Hasan, Beaverton City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e16",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Crystal Weston, Tigard–Tualatin School Board Member as an endorser.",
+      "excerpt": "Crystal Weston",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Crystal Weston, Tigard–Tualatin School Board Member",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e17",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists David Jaimes, Tigard–Tualatin School Board Member as an endorser.",
+      "excerpt": "David Jaimes",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "David Jaimes, Tigard–Tualatin School Board Member",
+      "endorser_type": "official"
+    }
   ]
 }

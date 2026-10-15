@@ -107,7 +107,8 @@
   "gaps": [
     "No campaign website linked from pamphlet or official page",
     "No public position found on public safety, policing or transportation",
-    "No Pamplin (Tigard Times) 2026 candidate Q&A readable (pamplinmedia.com blocks automated fetch)"
+    "No Pamplin (Tigard Times) 2026 candidate Q&A readable (pamplinmedia.com blocks automated fetch)",
+    "No endorsers listed in pamphlet statement"
   ],
   "collection_log": [
     {
@@ -151,5 +152,6 @@
       "result": "blocked"
     }
   ],
-  "collection_notes": "Incumbency unknown (not on Tigard council roster; null). Pamphlet endorsement-free statement used in full."
+  "collection_notes": "Incumbency unknown (not on Tigard council roster; null). Pamphlet endorsement list recorded in endorsements only.",
+  "endorsements": []
 }

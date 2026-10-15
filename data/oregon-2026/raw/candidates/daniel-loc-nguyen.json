@@ -261,5 +261,301 @@
       "result": "used (checked for campaign link: none; only social media links)"
     }
   ],
-  "collection_notes": "Ballot spelling per inventory is 'Daniel Loc Nguyen'; Capital Chronicle uses 'Daniel Nguyễn'; official page 'Daniel Nguyen'. Fetched danielfororegon.com (news, priorities, about) but did not cite it because step 3 requires the domain to be linked from the pamphlet, ORESTAR, an official page or a T3 article; the pamphlet statement may confirm it, so a later pass can add its positions (it states support for a public option, AI guardrails, reproductive rights, climate goals). The legislature page links only social media. Capital Chronicle HD38 guide covers the Democratic primary (opponent Wasielewski, who is not on the November ballot). Matches inventory (unopposed in November). Pamphlet statement: SOS Clackamas edition p. 49 (same text in other editions)."
+  "collection_notes": "Ballot spelling per inventory is 'Daniel Loc Nguyen'; Capital Chronicle uses 'Daniel Nguyễn'; official page 'Daniel Nguyen'. Fetched danielfororegon.com (news, priorities, about) but did not cite it because step 3 requires the domain to be linked from the pamphlet, ORESTAR, an official page or a T3 article; the pamphlet statement may confirm it, so a later pass can add its positions (it states support for a public option, AI guardrails, reproductive rights, climate goals). The legislature page links only social media. Capital Chronicle HD38 guide covers the Democratic primary (opponent Wasielewski, who is not on the November ballot). Matches inventory (unopposed in November). Pamphlet statement: SOS Clackamas edition p. 49 (same text in other editions).",
+  "endorsements": [
+    {
+      "id": "daniel-loc-nguyen-e1",
+      "endorser": "U.S. Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists U.S. Senator Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e2",
+      "endorser": "U.S. Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists U.S. Senator Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e3",
+      "endorser": "Congresswoman Janelle Bynum",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Congresswoman Janelle Bynum as an endorser.",
+      "excerpt": "Congresswoman Janelle Bynum",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e4",
+      "endorser": "Congresswoman Suzanne Bonamici",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Congresswoman Suzanne Bonamici as an endorser.",
+      "excerpt": "Congresswoman Suzanne Bonamici",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e5",
+      "endorser": "Congresswoman Maxine Dexter",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Congresswoman Maxine Dexter as an endorser.",
+      "excerpt": "Congresswoman Maxine Dexter",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e6",
+      "endorser": "Rob Wagner",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Rob Wagner as an endorser.",
+      "excerpt": "Senators Rob Wagner & Kate Lieber",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e7",
+      "endorser": "Kate Lieber",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Kate Lieber as an endorser.",
+      "excerpt": "Senators Rob Wagner & Kate Lieber",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e8",
+      "endorser": "Representative Tawna Sanchez",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Representative Tawna Sanchez as an endorser.",
+      "excerpt": "Representative Tawna Sanchez",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e9",
+      "endorser": "Mayor Keith Wilson",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Mayor Keith Wilson as an endorser.",
+      "excerpt": "Mayor Keith Wilson",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e10",
+      "endorser": "Mayor Joe Buck",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Mayor Joe Buck as an endorser.",
+      "excerpt": "Mayor Joe Buck",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e11",
+      "endorser": "Olivia Clark",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Olivia Clark as an endorser.",
+      "excerpt": "City Councilors Olivia Clark & Eric Zimmerman",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e12",
+      "endorser": "Eric Zimmerman",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Eric Zimmerman as an endorser.",
+      "excerpt": "City Councilors Olivia Clark & Eric Zimmerman",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e13",
+      "endorser": "Riverdale School Board Member Ali Lanenga",
+      "endorser_type": "official",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Riverdale School Board Member Ali Lanenga as an endorser.",
+      "excerpt": "Riverdale School Board Member Ali Lanenga",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e14",
+      "endorser": "OR Labor Federation AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists OR Labor Federation AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e15",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e16",
+      "endorser": "Oregon Building Trades Unions",
+      "endorser_type": "organization",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Oregon Building Trades Unions as an endorser.",
+      "excerpt": "Oregon Building Trades Unions",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e17",
+      "endorser": "Multifamily NW",
+      "endorser_type": "organization",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Multifamily NW as an endorser.",
+      "excerpt": "Multifamily NW",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e18",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e19",
+      "endorser": "Stand For Children",
+      "endorser_type": "organization",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Stand For Children as an endorser.",
+      "excerpt": "Stand For Children",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e20",
+      "endorser": "Teamsters Joint Council No. 37",
+      "endorser_type": "organization",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists Teamsters Joint Council No. 37 as an endorser.",
+      "excerpt": "Teamsters Joint Council No. 37",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-e21",
+      "endorser": "UFCW 555",
+      "endorser_type": "organization",
+      "statement": "Daniel Loc Nguyen's pamphlet statement lists UFCW 555 as an endorser.",
+      "excerpt": "UFCW 555",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
 }

@@ -81,7 +81,8 @@
   "gaps": [
     "No public position found on growth, urban growth boundary expansion or data centers",
     "No Pamplin/Hillsboro News-Times 2026 candidate Q&A found",
-    "No campaign website identified"
+    "No campaign website identified",
+    "No endorsers listed in pamphlet statement"
   ],
   "collection_log": [
     {
@@ -128,5 +129,6 @@
   "collection_notes": "Pamphlet prints 'Matt Blancas' (page 23, left column); inventory 'Matthew Blancas'. _index.json flagged surname-only match: the page's statement is signed 'Matt Blancas', matching the candidate. Incumbency unknown (null). Occupation per pamphlet.",
   "name_variants": [
     "Matt Blancas"
-  ]
+  ],
+  "endorsements": []
 }

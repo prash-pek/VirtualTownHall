@@ -221,5 +221,91 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Incumbency per oregonlegislature.gov biography (first term). Inventory lists unopposed with nominating parties Democrat, Republican, Independent; not checked. Matches inventory. Pamphlet statement: SOS Clackamas edition p. 49 (same text in other editions)."
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (first term). Inventory lists unopposed with nominating parties Democrat, Republican, Independent; not checked. Matches inventory. Pamphlet statement: SOS Clackamas edition p. 49 (same text in other editions).",
+  "endorsements": [
+    {
+      "id": "april-dobson-e1",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "April Dobson's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-e2",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "April Dobson's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-e3",
+      "endorser": "Oregon Coalition of Police and Sheriffs (ORCOPS)",
+      "endorser_type": "organization",
+      "statement": "April Dobson's pamphlet statement lists Oregon Coalition of Police and Sheriffs (ORCOPS) as an endorser.",
+      "excerpt": "Oregon Coalition of Police and Sheriffs (ORCOPS)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-e4",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "April Dobson's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-e5",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "April Dobson's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-e6",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "April Dobson's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
 }

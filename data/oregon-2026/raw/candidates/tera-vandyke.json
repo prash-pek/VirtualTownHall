@@ -94,7 +94,8 @@
   "gaps": [
     "No public position found on housing or public safety",
     "No Pamplin/Hillsboro News-Times 2026 candidate Q&A found",
-    "No campaign website identified"
+    "No campaign website identified",
+    "No endorsers listed in pamphlet statement"
   ],
   "collection_log": [
     {
@@ -138,5 +139,6 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Incumbent null (pamphlet lists Budget Committee service only). Pamphlet endorsement list not used."
+  "collection_notes": "Incumbent null (pamphlet lists Budget Committee service only). Pamphlet endorsement list recorded in endorsements only.",
+  "endorsements": []
 }

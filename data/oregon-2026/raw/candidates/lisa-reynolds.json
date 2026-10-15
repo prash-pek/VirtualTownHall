@@ -259,5 +259,245 @@
     }
   ],
   "collection_notes": "Inventory consistent (incumbent true; page lists Senate District 17). Pamphlet Book13 p.42-43, also Washington Book12 p.42 (pending script extract). Pamphlet statement: SOS Washington edition p. 42 (same text in other editions).",
-  "incumbent_source_url": "https://www.oregonlegislature.gov/reynolds/Pages/default.aspx"
+  "incumbent_source_url": "https://www.oregonlegislature.gov/reynolds/Pages/default.aspx",
+  "endorsements": [
+    {
+      "id": "lisa-reynolds-e1",
+      "endorser": "US Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Lisa Reynolds's pamphlet statement lists US Senator Ron Wyden as an endorser.",
+      "excerpt": "US Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e2",
+      "endorser": "US Congresswoman Suzanne Bonamici",
+      "endorser_type": "official",
+      "statement": "Lisa Reynolds's pamphlet statement lists US Congresswoman Suzanne Bonamici as an endorser.",
+      "excerpt": "US Congresswoman Suzanne Bonamici",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e3",
+      "endorser": "Oregon Attorney General Dan Rayfield",
+      "endorser_type": "official",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon Attorney General Dan Rayfield as an endorser.",
+      "excerpt": "Oregon Attorney General Dan Rayfield",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e4",
+      "endorser": "State Representative Mari Watanabe",
+      "endorser_type": "official",
+      "statement": "Lisa Reynolds's pamphlet statement lists State Representative Mari Watanabe as an endorser.",
+      "excerpt": "State Representative Mari Watanabe",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e5",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e6",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e7",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e8",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e9",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e10",
+      "endorser": "OR Labor Federation, AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists OR Labor Federation, AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation, AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e11",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e12",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e13",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e14",
+      "endorser": "United Food and Commercial Workers Local 555",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists United Food and Commercial Workers Local 555 as an endorser.",
+      "excerpt": "United Food and Commercial Workers Local 555",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e15",
+      "endorser": "Basic Rights Oregon PAC",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Basic Rights Oregon PAC as an endorser.",
+      "excerpt": "Basic Rights Oregon PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e16",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e17",
+      "endorser": "OFNHP AFT-5017",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists OFNHP AFT-5017 as an endorser.",
+      "excerpt": "OFNHP AFT-5017",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
 }

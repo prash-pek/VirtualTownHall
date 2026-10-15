@@ -105,7 +105,8 @@
   "voting_record": [],
   "gaps": [
     "No sourced bio or positions: KOIN pages located in search could not be fetched (fetch errors)",
-    "No campaign website found"
+    "No campaign website found",
+    "Pamphlet statement says 'More at www.KaufmannforOregon.com' (not recorded)."
   ],
   "collection_log": [
     {
@@ -154,5 +155,119 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Challenger (Independent; also nominated by Working Families and Democratic parties per inventory). KOIN URLs from search that failed to fetch and may be worth retrying: https://www.koin.com/nwpolitics/roy-kaufmann-discusses-oregon-house-district-18-campaign/ , https://www.koin.com/nwpolitics/oregon-house-candidate-kaufmann , https://www.koin.com/nwpolitics/communications-expert-roy-kaufmann-oregon-political-climate-02232025/ . Not listed in Capital Chronicle HD 18 Republican primary guide (expected). Pamphlet statement: SOS Clackamas edition p. 45 (same text in other editions)."
+  "collection_notes": "Challenger (Independent; also nominated by Working Families and Democratic parties per inventory). KOIN URLs from search that failed to fetch and may be worth retrying: https://www.koin.com/nwpolitics/roy-kaufmann-discusses-oregon-house-district-18-campaign/ , https://www.koin.com/nwpolitics/oregon-house-candidate-kaufmann , https://www.koin.com/nwpolitics/communications-expert-roy-kaufmann-oregon-political-climate-02232025/ . Not listed in Capital Chronicle HD 18 Republican primary guide (expected). Pamphlet statement: SOS Clackamas edition p. 45 (same text in other editions).",
+  "endorsements": [
+    {
+      "id": "roy-kaufmann-e1",
+      "endorser": "Former Oregon Governor John Kitzhaber",
+      "endorser_type": "official",
+      "statement": "Roy Kaufmann's pamphlet statement lists Former Oregon Governor John Kitzhaber as an endorser.",
+      "excerpt": "Former Oregon Governor John Kitzhaber",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e2",
+      "endorser": "Aurora Mayor Brian Asher",
+      "endorser_type": "official",
+      "statement": "Roy Kaufmann's pamphlet statement lists Aurora Mayor Brian Asher as an endorser.",
+      "excerpt": "Aurora Mayor Brian Asher",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e3",
+      "endorser": "Silverton Mayor Jason Freilinger",
+      "endorser_type": "official",
+      "statement": "Roy Kaufmann's pamphlet statement lists Silverton Mayor Jason Freilinger as an endorser.",
+      "excerpt": "Silverton Mayor Jason Freilinger",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e4",
+      "endorser": "Silverton City Council President April Newton",
+      "endorser_type": "official",
+      "statement": "Roy Kaufmann's pamphlet statement lists Silverton City Council President April Newton as an endorser.",
+      "excerpt": "Silverton City Council President April Newton",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e5",
+      "endorser": "Jim Gilbert, Northwoods Nursery (Molalla)",
+      "endorser_type": "person",
+      "statement": "Roy Kaufmann's pamphlet statement lists Jim Gilbert, Northwoods Nursery (Molalla) as an endorser.",
+      "excerpt": "Jim Gilbert, Northwoods Nursery (Molalla)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e6",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Roy Kaufmann's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e7",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "Roy Kaufmann's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e8",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Roy Kaufmann's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
 }

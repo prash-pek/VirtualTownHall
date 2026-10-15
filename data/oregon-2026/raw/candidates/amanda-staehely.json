@@ -180,5 +180,119 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Capital Chronicle HD 18 Republican primary guide lists her as occupation 'nursery owner with agricultural advocacy experience' and no questionnaire response. OAN is a trade-association publication (T3). Incumbent null (open seat; Rep. Lewis retiring per CC guide, not an official source). Pamphlet statement: SOS Clackamas edition p. 45 (same text in other editions)."
+  "collection_notes": "Capital Chronicle HD 18 Republican primary guide lists her as occupation 'nursery owner with agricultural advocacy experience' and no questionnaire response. OAN is a trade-association publication (T3). Incumbent null (open seat; Rep. Lewis retiring per CC guide, not an official source). Pamphlet statement: SOS Clackamas edition p. 45 (same text in other editions).",
+  "endorsements": [
+    {
+      "id": "amanda-staehely-e1",
+      "endorser": "Oregon Nurseries' PAC",
+      "endorser_type": "organization",
+      "statement": "Amanda Staehely's pamphlet statement lists Oregon Nurseries' PAC as an endorser.",
+      "excerpt": "Oregon Nurseries' PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-e2",
+      "endorser": "Oregon Farm Bureau",
+      "endorser_type": "organization",
+      "statement": "Amanda Staehely's pamphlet statement lists Oregon Farm Bureau as an endorser.",
+      "excerpt": "Oregon Farm Bureau",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-e3",
+      "endorser": "AG-PAC",
+      "endorser_type": "organization",
+      "statement": "Amanda Staehely's pamphlet statement lists AG-PAC as an endorser.",
+      "excerpt": "AG-PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-e4",
+      "endorser": "Defend Small Business PAC",
+      "endorser_type": "organization",
+      "statement": "Amanda Staehely's pamphlet statement lists Defend Small Business PAC as an endorser.",
+      "excerpt": "Defend Small Business PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-e5",
+      "endorser": "Oregon Chiefs of Police Association",
+      "endorser_type": "organization",
+      "statement": "Amanda Staehely's pamphlet statement lists Oregon Chiefs of Police Association as an endorser.",
+      "excerpt": "Oregon Chiefs of Police Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-e6",
+      "endorser": "Oregon’s Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Amanda Staehely's pamphlet statement lists Oregon’s Sheriffs as an endorser.",
+      "excerpt": "Oregon’s Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-e7",
+      "endorser": "Representative Rick Lewis",
+      "endorser_type": "official",
+      "statement": "Amanda Staehely's pamphlet statement lists Representative Rick Lewis as an endorser.",
+      "excerpt": "Representative Rick Lewis",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-e8",
+      "endorser": "Oregon Right to Life PAC",
+      "endorser_type": "organization",
+      "statement": "Amanda Staehely's pamphlet statement lists Oregon Right to Life PAC as an endorser.",
+      "excerpt": "Oregon Right to Life PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
 }

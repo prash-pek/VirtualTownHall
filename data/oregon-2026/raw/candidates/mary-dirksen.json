@@ -144,5 +144,77 @@
       "result": "nothing relevant (search returned unrelated 'Dirksen' Metro Council items)"
     }
   ],
-  "collection_notes": "Inventory consistent. Pamphlet Book13 p.43 / Book14 p.41 (pending). Pamphlet statement: SOS Clackamas edition p. 41 (same text in other editions)."
+  "collection_notes": "Inventory consistent. Pamphlet Book13 p.43 / Book14 p.41 (pending). Pamphlet statement: SOS Clackamas edition p. 41 (same text in other editions).",
+  "endorsements": [
+    {
+      "id": "mary-dirksen-e1",
+      "endorser": "Julie Parrish, Former HD37 State Representative, Attorney",
+      "endorser_type": "official",
+      "statement": "Mary Dirksen's pamphlet statement lists Julie Parrish, Former HD37 State Representative, Attorney as an endorser.",
+      "excerpt": "Julie Parrish, Former HD37 State Representative, Attorney",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mary-dirksen-e2",
+      "endorser": "Oregon Small Business Association",
+      "endorser_type": "organization",
+      "statement": "Mary Dirksen's pamphlet statement lists Oregon Small Business Association as an endorser.",
+      "excerpt": "Oregon Small Business Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mary-dirksen-e3",
+      "endorser": "Taxpayers Association of Oregon",
+      "endorser_type": "organization",
+      "statement": "Mary Dirksen's pamphlet statement lists Taxpayers Association of Oregon as an endorser.",
+      "excerpt": "Taxpayers Association of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mary-dirksen-e4",
+      "endorser": "Brian and Jamie Smith, Albina Co. Inc, Tualatin",
+      "endorser_type": "person",
+      "statement": "Mary Dirksen's pamphlet statement lists Brian and Jamie Smith, Albina Co. Inc, Tualatin as an endorser.",
+      "excerpt": "Brian and Jamie Smith, Albina Co. Inc, Tualatin",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mary-dirksen-e5",
+      "endorser": "Dr. Jo Nielsen, Ret. Pediatrician",
+      "endorser_type": "person",
+      "statement": "Mary Dirksen's pamphlet statement lists Dr. Jo Nielsen, Ret. Pediatrician as an endorser.",
+      "excerpt": "Dr. Jo Nielsen, Ret. Pediatrician",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
 }

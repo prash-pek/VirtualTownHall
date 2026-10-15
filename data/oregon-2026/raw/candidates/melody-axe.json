@@ -126,5 +126,157 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Pamphlet endorsement list not used. Incumbent null."
+  "collection_notes": "Pamphlet endorsement list recorded in endorsements only. Incumbent null.",
+  "endorsements": [
+    {
+      "id": "melody-axe-e1",
+      "topic": "custom:endorsement",
+      "statement": "Axe's pamphlet statement lists Friends of Smart Growth as an endorser.",
+      "excerpt": "Friends of Smart Growth",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Friends of Smart Growth",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "melody-axe-e2",
+      "topic": "custom:endorsement",
+      "statement": "Axe's pamphlet statement lists Save Helvetia as an endorser.",
+      "excerpt": "Save Helvetia",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Save Helvetia",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "melody-axe-e3",
+      "topic": "custom:endorsement",
+      "statement": "Axe's pamphlet statement lists Lora Dexheimer as an endorser.",
+      "excerpt": "Lora Dexheimer",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Lora Dexheimer",
+      "endorser_type": "person"
+    },
+    {
+      "id": "melody-axe-e4",
+      "topic": "custom:endorsement",
+      "statement": "Axe's pamphlet statement lists Oregon Data Center Defiance as an endorser.",
+      "excerpt": "Oregon Data Center Defiance",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Oregon Data Center Defiance",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "melody-axe-e5",
+      "topic": "custom:endorsement",
+      "statement": "Axe's pamphlet statement lists Dean Moberg, director, Tualatin Conservation District as an endorser.",
+      "excerpt": "Dean Moberg and Elaine Stewart: directors, Tualatin Conservation District",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Dean Moberg, director, Tualatin Conservation District",
+      "endorser_type": "official"
+    },
+    {
+      "id": "melody-axe-e6",
+      "topic": "custom:endorsement",
+      "statement": "Axe's pamphlet statement lists Elaine Stewart, director, Tualatin Conservation District as an endorser.",
+      "excerpt": "Dean Moberg and Elaine Stewart: directors, Tualatin Conservation District",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Elaine Stewart, director, Tualatin Conservation District",
+      "endorser_type": "official"
+    },
+    {
+      "id": "melody-axe-e7",
+      "topic": "custom:endorsement",
+      "statement": "Axe's pamphlet statement lists Mark DeForge, North Plains City Councilor as an endorser.",
+      "excerpt": "Mark DeForge, Don Weber and Anna Warrington: North Plains City Councilors",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Mark DeForge, North Plains City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "melody-axe-e8",
+      "topic": "custom:endorsement",
+      "statement": "Axe's pamphlet statement lists Don Weber, North Plains City Councilor as an endorser.",
+      "excerpt": "Mark DeForge, Don Weber and Anna Warrington: North Plains City Councilors",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Don Weber, North Plains City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "melody-axe-e9",
+      "topic": "custom:endorsement",
+      "statement": "Axe's pamphlet statement lists Anna Warrington, North Plains City Councilor as an endorser.",
+      "excerpt": "Mark DeForge, Don Weber and Anna Warrington: North Plains City Councilors",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Anna Warrington, North Plains City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "melody-axe-e10",
+      "topic": "custom:endorsement",
+      "statement": "Axe's pamphlet statement lists Cheri Olson, Former North Plains Mayor as an endorser.",
+      "excerpt": "Cheri Olson, Former North Plains Mayor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Cheri Olson, Former North Plains Mayor",
+      "endorser_type": "official"
+    }
+  ]
 }

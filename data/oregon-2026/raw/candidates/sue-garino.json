@@ -150,5 +150,157 @@
       "result": "blocked"
     }
   ],
-  "collection_notes": "Not on current council roster; incumbent null. Garino's website links Instagram/Facebook pages (social media not cited). Pamphlet endorsements (police and firefighter unions) not used."
+  "collection_notes": "Not on current council roster; incumbent null. Garino's website links Instagram/Facebook pages (social media not cited). Pamphlet endorsement list recorded in endorsements only.",
+  "endorsements": [
+    {
+      "id": "sue-garino-e1",
+      "topic": "custom:endorsement",
+      "statement": "Garino's pamphlet statement lists Tualatin Valley Firefighters Union IAFF Local 1660 as an endorser.",
+      "excerpt": "Tualatin Valley Firefighters Union IAFF Local 1660",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Tualatin Valley Firefighters Union IAFF Local 1660",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "sue-garino-e2",
+      "topic": "custom:endorsement",
+      "statement": "Garino's pamphlet statement lists Tigard Police Officers’ Association as an endorser.",
+      "excerpt": "Tigard Police Officers’ Association",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Tigard Police Officers’ Association",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "sue-garino-e3",
+      "topic": "custom:endorsement",
+      "statement": "Garino's pamphlet statement lists Maureen Wolf, Tigard City Council President as an endorser.",
+      "excerpt": "Maureen Wolf, Tigard City Council President",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Maureen Wolf, Tigard City Council President",
+      "endorser_type": "official"
+    },
+    {
+      "id": "sue-garino-e4",
+      "topic": "custom:endorsement",
+      "statement": "Garino's pamphlet statement lists Jeanette Shaw, Tigard City Councilor as an endorser.",
+      "excerpt": "Jeanette Shaw, Tigard City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Jeanette Shaw, Tigard City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "sue-garino-e5",
+      "topic": "custom:endorsement",
+      "statement": "Garino's pamphlet statement lists Jake Schlack, Tigard City Councilor as an endorser.",
+      "excerpt": "Jake Schlack, Tigard City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Jake Schlack, Tigard City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "sue-garino-e6",
+      "topic": "custom:endorsement",
+      "statement": "Garino's pamphlet statement lists Jason Snider, Washington County Commissioner as an endorser.",
+      "excerpt": "Jason Snider, Washington County Commissioner, Former Tigard Mayor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Jason Snider, Washington County Commissioner",
+      "endorser_type": "official"
+    },
+    {
+      "id": "sue-garino-e7",
+      "topic": "custom:endorsement",
+      "statement": "Garino's pamphlet statement lists John Cook, Former Tigard Mayor as an endorser.",
+      "excerpt": "John Cook, Former Tigard Mayor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "John Cook, Former Tigard Mayor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "sue-garino-e8",
+      "topic": "custom:endorsement",
+      "statement": "Garino's pamphlet statement lists Valerie Pratt, Tualatin City Council President as an endorser.",
+      "excerpt": "Valerie Pratt, Tualatin City Council President",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Valerie Pratt, Tualatin City Council President",
+      "endorser_type": "official"
+    },
+    {
+      "id": "sue-garino-e9",
+      "topic": "custom:endorsement",
+      "statement": "Garino's pamphlet statement lists Jamey McDonald, Ret. Tigard Police Chief as an endorser.",
+      "excerpt": "Jamey McDonald, Ret. Tigard Police Chief",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Jamey McDonald, Ret. Tigard Police Chief",
+      "endorser_type": "person"
+    },
+    {
+      "id": "sue-garino-e10",
+      "topic": "custom:endorsement",
+      "statement": "Garino's pamphlet statement lists Kathy McAlpine, Ret. Tigard Police Chief as an endorser.",
+      "excerpt": "Kathy McAlpine, Ret. Tigard Police Chief",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Kathy McAlpine, Ret. Tigard Police Chief",
+      "endorser_type": "person"
+    }
+  ]
 }
