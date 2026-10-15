@@ -1,0 +1,116 @@
+{
+ "id": "laura-graham",
+ "name": "Laura Graham",
+ "race_id": "tualatin-swcd-zone-5",
+ "party": null,
+ "incumbent": false,
+ "incumbent_source_url": "https://tualatinswcd.org/our-story/our-board/",
+ "occupation": "Retired",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "laura-graham-b1",
+   "topic": "custom:background",
+   "statement": "Graham says she has managed 40 acres of timber forest on family-owned land in Washington County for nine years.",
+   "excerpt": "For the past nine years, I have managed 40 acres of timber",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "laura-graham-b2",
+   "topic": "custom:background",
+   "statement": "Graham's pamphlet statement lists no prior governmental experience.",
+   "excerpt": "Prior Governmental Experience: None",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "laura-graham-p1",
+   "topic": "environment",
+   "statement": "In her pamphlet statement, Graham names increasing wildfire risk, invasive species and water availability as concerns for forests and watersheds.",
+   "excerpt": "increasing wildfire risk, invasive species, water availability, and",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "laura-graham-p2",
+   "topic": "agriculture",
+   "statement": "In her pamphlet statement, Graham says successful conservation depends on cooperation and programs should be practical and accessible.",
+   "excerpt": "depends on cooperation. Programs need to be practical",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "No campaign website found",
+  "No news coverage found"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (extract washington-county/laura-graham.txt, p.45)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://tualatinswcd.org/our-story/our-board/",
+   "result": "used (Zone 5 seat held by Luke VanderZanden)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain linked",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Laura Graham\" Tualatin soil and water conservation district Zone 5 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (a) opb/oregoncapitalchronicle/wweek/ballotpedia: Laura Graham",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (b) kgw/koin/kptv/katu: Laura Graham",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (c) portlandmercury/vote411/pamplinmedia/portlandtribune: Laura Graham",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "6",
+   "query_or_url": "none promising",
+   "result": "nothing relevant"
+  }
+ ],
+ "collection_notes": "Incumbent=false: district board page lists Luke VanderZanden as Zone 5 director, not Graham. Matches inventory."
+}
