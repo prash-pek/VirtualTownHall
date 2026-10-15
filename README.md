@@ -12,9 +12,10 @@ Next.js 16 (App Router, TypeScript strict) on Vercel · Neon Postgres + PostGIS 
 
 ```
 app/                 routes: (voter), (candidate)/admin, (platform)/ops, api/
-components/          shared UI (layout-level disclaimer)
+components/          shared UI (layout-level disclaimer, ballot builder)
 lib/db/              Drizzle schema (TRD §3) and client
 lib/auth/            roles and guards
+lib/ballot/          My ballot: Census geocoder, district matching, catalog (TRD §4)
 lib/ratelimit/       Upstash limits (TRD §10)
 lib/seed/            inventory.json schema and integrity checks
 scripts/             migrate, import-inventory

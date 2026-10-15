@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Version** | 2.0 |
-| **Date** | October 13, 2026 |
+| **Version** | 2.1 |
+| **Date** | October 15, 2026 (2.1: voter-curated My ballot, as-built foundation details) |
 | **Implements** | [PRD v2](TownHall_AI_PRD_v2.md) |
 | **Data policy** | [data-sourcing-policy.md](data-sourcing-policy.md) |
 | **Replaces** | v1 TRD and the v1 codebase (Vite SPA + Express + SQLite) |
@@ -99,12 +99,12 @@ All ids are UUIDv7. All tables have `created_at`, `updated_at`. `status` columns
 ### 3.1 Geography & ballot
 - `elections` (id, slug, name, date, state)
 - `jurisdictions` (id, slug, name, type, parent_id, boundary `geometry(MultiPolygon, 4326)` nullable, census_geoid nullable)
-- `races` (id, election_id, jurisdiction_id, slug, office, district_label, seats, partisan, ballot_order)
+- `races` (id, election_id, jurisdiction_id, slug, office, district_label, seats nullable (null when the filing doesn't state it), partisan, ranked_choice, ballot_order)
 - `ballot_measures` (id, election_id, jurisdiction_id, slug, number, title, ballot_label, summary, yes_means, no_means, fiscal_impact, full_text_url, ballot_order, status)
 - `measure_arguments` (id, measure_id, side `yes|no`, kind `argument|rebuttal|explainer`, author, statement, excerpt, source_id, status)
 
 ### 3.2 Candidates
-- `candidates` (id, race_id, slug, name, party, incumbent, occupation, website_url, profile_source `public_seed|candidate`, owner_user_id nullable, claimed_at, is_verified, is_paused, donation_url, persona_config jsonb, status `draft|in_review|published|withdrawn`)
+- `candidates` (id, race_id, slug, name, party, incumbent, ballot_order, occupation, website_url, profile_source `public_seed|candidate`, owner_user_id nullable, claimed_at, is_verified, is_paused, donation_url, persona_config jsonb, status `draft|in_review|published|withdrawn`)
 - `candidate_items` (id, candidate_id, kind `bio|position|voting_record|upload_chunk|manual`, topic, statement, excerpt, source_id nullable, upload_id nullable, is_active, content_hash, status)
 - `uploads` (id, candidate_id, blob_key, filename, mime, size, sha256, extracted_text_status)
 - `blocked_topics` (id, candidate_id, topic, redirect_message, redirect_url, is_active)
@@ -122,24 +122,27 @@ All ids are UUIDv7. All tables have `created_at`, `updated_at`. `status` columns
 - `voter_values` (user_id, statement_id, answer -2..2, weight 0..3)
 
 ### 3.5 Users, conversations, analytics, audit
-- Users live in Clerk; `profiles` (user_id, role, zip, address_hash, interest_tags) mirrors what the app needs. Raw addresses are never stored — only resolved jurisdiction ids and a salted hash.
+- Users live in Clerk; `profiles` (user_id, role, zip, address_hash, jurisdiction_ids, interest_tags, ballot_items) mirrors what the app needs. `ballot_items` is the voter's own "My ballot": an ordered list of `race:<slug>` / `measure:<slug>` keys (max 300). Raw addresses are never stored.
 - `conversations` (id, subject_type `candidate|measure`, subject_id, owner_user_id nullable, anon_session_id nullable, CHECK exactly one owner, summary, topic_tags, message_count, ended_at)
 - `messages` (id, conversation_id, role, content, citations jsonb, blocked_topic_id nullable, model, input_tokens, output_tokens, created_at) — a table, not a JSON blob
 - `ai_calls` (id, route, model, effort, input/output/cache tokens, latency_ms, stop_reason, refusal_category, cost_usd, created_at)
-- `audit_log` (id, subject_type, subject_id, seq, action, actor_id, payload jsonb, prev_hash, hash, created_at; UNIQUE(subject_type, subject_id, seq)); DB role used by the app has INSERT only on this table
+- `audit_log` (id, subject_type, subject_id, seq, action, actor_id, payload jsonb, prev_hash, hash, created_at; UNIQUE(subject_type, subject_id, seq)); append-only, enforced by a trigger that rejects UPDATE and DELETE (migration 0002) in addition to app-role grants
 
 ---
 
-## 4. Ballot lookup
+## 4. My ballot (voter-curated)
 
-1. Voter enters address (or ZIP).
-2. **US Census Geocoder** (`geographies/onelineaddress`) returns lat/lon plus congressional district, state legislative districts, county and place.
-3. Lat/lon is matched with PostGIS against local boundary layers we load for the Portland region: City of Portland council districts, Metro boundary, school districts, special districts (sources: portland.gov GIS, Oregon Metro RLIS, county GIS — recorded in `sources`).
-4. Resolved jurisdiction ids → races + measures for the election, in ballot order.
-5. ZIP-only: return the union of contests for jurisdictions intersecting the ZIP and show "Enter your full address to see your exact ballot" where contests differ.
-6. Always link to the official Oregon "My Vote" page as the authoritative ballot check.
+The voter owns their ballot list. An address gives a suggested starting point; the voter adds or removes any Oregon race or measure. We do not verify eligibility or limit what a voter can follow.
 
-The address is used for the lookup and discarded; only the resolved jurisdiction set is kept (and only for signed-in voters who opt in).
+1. Voter enters an address on `/` or `/ballot` (or skips it and browses).
+2. `POST /api/ballot/suggest` calls the **US Census Geocoder** (`geographies/onelineaddress`, benchmark `Public_AR_Current`, vintage `Current_Current`, all layers). Layer names carry a vintage prefix, so they are matched by suffix. We read county, incorporated place, congressional district, state senate and house districts, and school districts.
+3. Those are matched to our `jurisdictions` by type and name (`lib/ballot/districts.ts`, unit-tested): the state, the county, "City of <place>", `or-cd/sd/hd-N`, school districts by normalized name, and county-wide "other" jurisdictions such as the circuit court. Races and measures in matched jurisdictions are **suggested** and added to the list.
+4. Special districts in the voter's county are returned as **"may apply"**, because Census has no maps for them. The voter adds the ones they want with one tap.
+5. Browse and search cover every race and measure in the election, so anything can be added by hand.
+6. The list is kept in browser storage, and also in `profiles.ballot_items` when signed in (merged on sign-in).
+7. Always link to the official Oregon "My Vote" page as the authoritative ballot check.
+
+No PostGIS boundary layers are needed for suggestions. `jurisdictions.boundary` stays in the schema for later use (e.g. council-district maps). The address is used for the lookup and discarded; it is not logged or stored. The lookup is rate-limited per IP (`ballotLookupPerIp`, 30/hour, fails closed).
 
 ---
 
@@ -221,7 +224,9 @@ inventory (T1 only) → collect (per candidate / measure) → verify (independen
 ## 9. API surface (route handlers / server actions)
 
 Voter (anonymous allowed unless noted):
-- `GET /api/ballot?address=` → contests for the resolved jurisdictions
+- `POST /api/ballot/suggest` {address} → {matchedAddress, suggested[], nearby[]} ballot keys (rate-limited per IP; address not stored)
+- `GET` / `PUT /api/me/ballot` (signed-in) → the voter's saved ballot keys
+- Pages: `/ballot` (My ballot builder, `?address=` runs a lookup), `/races/:slug`, `/measures/:slug`
 - `GET /api/races/:slug`, `/api/candidates/:slug`, `/api/measures/:slug`
 - `POST /api/conversations` {subject_type, subject_id} → owner-bound conversation
 - `POST /api/conversations/:id/messages` → SSE stream (owner check, rate limit, BotID)
@@ -265,12 +270,12 @@ All inputs are zod-validated. Errors use `{error: {code, message}}`.
 
 - **Port**: visual design and component patterns, chat UX, admin panel information architecture, prompt intent (grounding, disclaimer, kill switch).
 - **Drop**: Express backend, SQLite, `api/`, Docker/compose files, Railway, all v1 seed data (fictional and real-politician personas), duplicate admin pages.
-- v1 stays on `main` until v2 reaches parity; v2 is built on a `v2` branch in a `v2/` working tree or a fresh app directory, then replaces it.
+- Done (2026-10-15): v2 replaced the repo root on `main`, which is production. The v1 code is archived on the `v1` branch. The app is served at the root of townhallai.outsetinno.com (no basePath; old `/townhallai/*` URLs redirect). Migrations and the inventory import run in `predeploy` for production deploys only.
 
 ## 13. Build phases
 
 1. **Foundation**: Next.js app, Vercel project, Neon/Clerk/Upstash provisioned, Drizzle schema + migrations, auth roles, CI.
-2. **Ballot core**: elections/jurisdictions/races/measures, Census geocoder + PostGIS boundaries, Oregon seed import, ballot UI.
+2. **Ballot core**: elections/jurisdictions/races/measures, Oregon seed import, voter-curated My ballot (Census-geocoder suggestions, browse and add, saved list), race and measure pages.
 3. **Content & review**: sources/verifications, admin review queue, publish flow, audit chain.
 4. **Conversations**: classifyTurn, candidateChat (both voices), measureExplainer, summaries, rate limits, BotID.
 5. **Scores**: alignment (identity + computed), values statements, mappings, Values Match UI.
@@ -279,7 +284,7 @@ All inputs are zod-validated. Errors use `{error: {code, message}}`.
 
 ## 14. Open technical questions
 
-1. Boundary data coverage for school/special districts outside the Portland metro: load statewide shapefiles, or fall back to ZIP-level union for those?
+1. ~~Boundary data coverage for school/special districts~~ Resolved 2026-10-15: school districts come from Census layers statewide; special districts are offered as "may apply" in the voter's county, and voters add what they want.
 2. Retrieval: is Postgres full-text enough for claimed candidates with large uploads, or add pgvector embeddings in phase 6?
 3. Should anonymous voters' Values Match answers be storable server-side via an opt-in anonymous profile?
 4. Spend cap level and alert channel.
