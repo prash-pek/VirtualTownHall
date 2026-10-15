@@ -1,0 +1,126 @@
+{
+  "id": "nathan-sosa",
+  "name": "Nathan Sosa",
+  "race_id": "or-house-30",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+  "occupation": "Attorney",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "nathan-sosa-b1",
+      "topic": "custom:background",
+      "statement": "His official page says he chairs the House Committee on Commerce and Consumer Protection.",
+      "excerpt": "I serve as chair of the House Committee on Commerce and Consumer Protection",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/sosa",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-b2",
+      "topic": "custom:background",
+      "statement": "His official page says he served four years on the Oregon Government Ethics Commission and chaired it in 2020.",
+      "excerpt": "I also served for four years on the Oregon Government Ethics Commission and was chair of the commission in 2020.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/sosa",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-b3",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says Sosa began working as an attorney in 2009.",
+      "excerpt": "Sosa began working as an attorney in 2009.",
+      "source": {
+        "url": "https://ballotpedia.org/Nathan_Sosa_(Oregon)",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "nathan-sosa-p1",
+      "topic": "economy",
+      "statement": "KATU reports Sosa supported a 2025 bill (HB 2561) on out-of-state lender interest rates, describing it as closing a loophole.",
+      "excerpt": "closing the loophole that has allowed these out-of-state lenders",
+      "source": {
+        "url": "https://katu.com/news/local/oregon-house-approves-bill-to-curb-predatory-lending-practices",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2025-03-01",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "Few sourced positions: campaign site nathansosa.com (policy priorities) not usable because the domain is not linked from an official page or T3 source consulted",
+    "Voting record not collected (phase 1 scope)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/sosa",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://nathansosa.com/",
+      "result": "blocked"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Nathan_Sosa_(Oregon)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://katu.com/news/local/oregon-house-approves-bill-to-curb-predatory-lending-practices",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Nathan Sosa\" Oregon House 30 Hillsboro 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Nathan Sosa\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Nathan Sosa\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Nathan Sosa\"",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Incumbent per House roster (appointed to the seat per Banks Post/Washington County; appointment details not itemized). Inventory consistent. nathansosa.com content was fetched (T2) but its domain is only evidenced via an email address on Ballotpedia, so website_url left null; a reviewer may add it if verified. KATU article's HB 2561 date is the article date 2025-03-01; it does not state sponsorship."
+}

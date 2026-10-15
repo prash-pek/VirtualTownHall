@@ -1,0 +1,81 @@
+{
+  "id": "brian-schimmel",
+  "name": "Brian Schimmel",
+  "race_id": "or-house-29",
+  "party": "Independent",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "brian-schimmel-b1",
+      "topic": "custom:background",
+      "statement": "A 2026 Capital Chronicle commentary says the Independent Party nominated Schimmel, a Forest Grove city council member active in area nonprofit groups.",
+      "excerpt": "The IPO has nominated Brian Schimmel of Forest Grove, a city council member there and long active in area non-profit groups.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/2026/04/16/a-measure-of-independence-in-oregons-political-parties/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": "2026-04-16",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "No policy positions found",
+    "No campaign website found",
+    "City of Forest Grove official page not checked for council service"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "Forest Grove council page not searched",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/2026/04/16/a-measure-of-independence-in-oregons-political-parties/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://pamplinmedia.com/fgnt/36-news/556388-445283-amazing-neighbors-an-engineer-brain-for-social-problems-in-fg",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Brian Schimmel\" Oregon House 29 Hillsboro 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Brian Schimmel\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Brian Schimmel\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Brian Schimmel\"",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Challenger; nominated by Independent Party and Republican per inventory. Commentary source (opinion column, Randy Stapilus). A Pamplin 'Amazing Neighbors' piece appeared in search but is robots-blocked."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "charles-ross",
+  "name": "Charles A Ross",
+  "race_id": "or-house-30",
+  "party": "Republican",
+  "incumbent": null,
+  "name_variants": [
+    "Charles Ross"
+  ],
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "No bio, positions or website found for this candidate"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office found",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Charles A Ross\" Oregon House 30 Hillsboro 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Charles A Ross\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Charles A Ross\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Charles A Ross\"",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Ballot spelling 'Charles A Ross'. Search hits were other people named Charles Ross or a Vote411 index with no details (not used)."
+}

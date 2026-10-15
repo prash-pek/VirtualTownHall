@@ -1,0 +1,83 @@
+{
+  "id": "tom-forest",
+  "name": "Tom L Forest",
+  "race_id": "or-house-31",
+  "party": "Democrat",
+  "incumbent": null,
+  "name_variants": [
+    "Tom Forest"
+  ],
+  "occupation": "Software engineer",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "tom-forest-b1",
+      "topic": "custom:background",
+      "statement": "The Capital Chronicle guide says Forest is a software engineer who previously worked for Nike, Intel and Portland General Electric.",
+      "excerpt": "Tom Forest is a software engineer who previously worked for Nike, Intel and Portland General Electric.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-house-district-31/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "No policy positions: did not respond to the Capital Chronicle questionnaire",
+    "No campaign website found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office found",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-house-district-31/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.wweek.com/news/2026/04/29/wws-may-2026-endorsements-oregon-house/",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Tom Forest\" Oregon House 31 Columbia County 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Tom Forest\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Tom Forest\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Tom Forest\"",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Challenger; ballot spelling 'Tom L Forest'. Willamette Week (2026-04-29) also summarizes his priorities (school funding, corporate tax change, rural transit) but without quotable text; not itemized. Capital Chronicle guide undated."
+}

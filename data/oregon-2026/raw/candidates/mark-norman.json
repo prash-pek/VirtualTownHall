@@ -1,0 +1,63 @@
+{
+  "id": "mark-norman",
+  "name": "G Mark Norman",
+  "race_id": "or-house-27",
+  "party": "Republican",
+  "incumbent": null,
+  "name_variants": [
+    "Mark Norman"
+  ],
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "No bio, positions or website found; only press mention is that he ran unopposed in the Republican primary"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office found",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.wweek.com/news/2026/04/29/wws-may-2026-endorsements-oregon-house/",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"G Mark Norman\" Oregon House 27 Beaverton 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"G Mark Norman\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"G Mark Norman\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"G Mark Norman\"",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Inventory name 'G Mark Norman'; searches also tried 'Mark Norman'. Only hit: Willamette Week May 2026 endorsements (no background). Not in Capital Chronicle HD 27 Democratic guide (expected). Ballotready listing appeared in search but is not an allowed source."
+}

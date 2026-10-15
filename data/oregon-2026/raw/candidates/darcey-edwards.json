@@ -1,0 +1,150 @@
+{
+  "id": "darcey-edwards",
+  "name": "Darcey Edwards",
+  "race_id": "or-house-31",
+  "party": "Republican",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+  "occupation": "Real estate agency owner",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "darcey-edwards-b1",
+      "topic": "custom:background",
+      "statement": "Her official page says she represents residents of Columbia County and parts of Multnomah, Washington and Yamhill counties.",
+      "excerpt": "It\u2019s an honor to serve and represent the people of Columbia County and parts of Multnomah, Washington, and Yamhill Counties",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/edwards",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "darcey-edwards-b2",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says her career experience includes owning a real estate agency.",
+      "excerpt": "Darcey Edwards' career experience includes owning a real estate agency.",
+      "source": {
+        "url": "https://ballotpedia.org/Darcey_Edwards",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [
+    {
+      "id": "darcey-edwards-v1",
+      "topic": "public-safety",
+      "statement": "Her March 2026 session summary lists HB 4151, which it says holds individuals accountable for using emergency services to harass political opponents.",
+      "excerpt": "Holds individuals accountable for using emergency services to harass political opponents.",
+      "source": {
+        "url": "https://content.govdelivery.com/accounts/ORLEG/bulletins/40cba6e",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": "2026-03-06",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "darcey-edwards-v2",
+      "topic": "housing",
+      "statement": "Her March 2026 session summary lists SB 1561, a disaster-rebuilding bill allowing homeowners to restore or replace homes through a streamlined process.",
+      "excerpt": "Allows homeowners to restore or replace homes lost to disaster through a streamlined administrative process.",
+      "source": {
+        "url": "https://content.govdelivery.com/accounts/ORLEG/bulletins/40cba6e",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": "2026-03-06",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "darcey-edwards-v3",
+      "topic": "social-services",
+      "statement": "Her March 2026 session summary lists SB 1573, which it says prohibits syringe service programs from mobile or temporary locations within 2,000 feet of schools and childcare.",
+      "excerpt": "Prohibits syringe service programs from operating mobile or temporary locations within 2,000 feet.",
+      "source": {
+        "url": "https://content.govdelivery.com/accounts/ORLEG/bulletins/40cba6e",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": "2026-03-06",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "No sourced position statements: campaign site darceyfororegon.com found in search but not linked from her official page or a T3 source, so not used",
+    "Whether she chief-sponsored the listed bills is not stated; items are 'key work' she highlights",
+    "No 2026 questionnaire (Capital Chronicle guide covers only the Democratic primary)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/edwards/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/edwards",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.darceyfororegon.com/about-darcey",
+      "result": "blocked"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://content.govdelivery.com/accounts/ORLEG/bulletins/40cba6e",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Darcey_Edwards",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-house-district-31/",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Darcey Edwards\" Oregon House 31 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Darcey Edwards\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Darcey Edwards\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Darcey Edwards\"",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Incumbent per House roster. Inventory consistent. Bulletin date in header reads March 6, 2024 (typo) but sent 2026-03-06. Campaign site candidate darceyfororegon.com left null/unverified. Her official bio page lists committees (Behavioral Health vice chair, Climate Energy & Environment, Housing & Homelessness) - not itemized for lack of exact excerpts."
+}

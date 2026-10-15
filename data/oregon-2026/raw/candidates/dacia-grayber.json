@@ -1,0 +1,159 @@
+{
+  "id": "dacia-grayber",
+  "name": "Dacia Grayber",
+  "race_id": "or-house-28",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+  "occupation": "Firefighter/paramedic",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "dacia-grayber-b1",
+      "topic": "custom:background",
+      "statement": "Her official legislative page has Grayber describing a career as a firefighter.",
+      "excerpt": "As a firefighter, I have spent my life serving the community, one call at a time.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/grayber",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "dacia-grayber-b2",
+      "topic": "custom:background",
+      "statement": "Her official page describes House District 28 as parts of Southwest Portland, Garden Home, Hillsdale, Raleigh Hills and Beaverton.",
+      "excerpt": "Our house district is made up of parts of Southwest Portland, Garden Home, Hillsdale, Raleigh Hills, and Beaverton.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/grayber",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "dacia-grayber-p1",
+      "topic": "environment",
+      "statement": "In her 2024 Ballotpedia Candidate Connection survey, Grayber said Oregon should protect its future through climate resilience.",
+      "excerpt": "Let's protect Oregon's future through climate resilience",
+      "source": {
+        "url": "https://ballotpedia.org/Dacia_Grayber",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "dacia-grayber-p2",
+      "topic": "social-services",
+      "statement": "In her 2024 Ballotpedia survey, Grayber said communities suffering from addiction should be helped to heal.",
+      "excerpt": "Let's heal our communities suffering from addiction.",
+      "source": {
+        "url": "https://ballotpedia.org/Dacia_Grayber",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "dacia-grayber-p3",
+      "topic": "economy",
+      "statement": "In her 2024 Ballotpedia survey, Grayber said the state must work to elevate the lives of working families.",
+      "excerpt": "We must work relentlessly to elevate the lives of working families.",
+      "source": {
+        "url": "https://ballotpedia.org/Dacia_Grayber",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "dacia-grayber-v1",
+      "topic": "healthcare",
+      "statement": "KGW reports Grayber is chief sponsor of House Bill 4113, on firefighter cancer protections.",
+      "excerpt": "Representative Dacia Grayber is chief sponsor of the bill.",
+      "source": {
+        "url": "https://www.kgw.com/article/news/local/bill-firefighter-cancer-protections-works-compensation-oregon/283-b70b7197-d9d3-4be8-98c1-d8bc4df42182",
+        "publisher": "KGW",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "No 2026 questionnaire answers; HD 28 Capital Chronicle guide not located",
+    "No public position found on housing, taxes, education",
+    "Voting items limited to one sponsorship (phase 1 scope)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/grayber",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Dacia_Grayber",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/2024/10/14/lawmaker-forges-path-into-firefighting-then-brings-those-concerns-to-legislature/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.kgw.com/article/news/local/bill-firefighter-cancer-protections-works-compensation-oregon/283-b70b7197-d9d3-4be8-98c1-d8bc4df42182",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Dacia Grayber\" Oregon House 28 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Dacia Grayber\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Dacia Grayber\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Dacia Grayber\"",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Incumbent per House roster. KGW article is undated (HB 4113, firefighter cancer protections); published_at null, year to be confirmed by verifier. Inventory consistent. 2020 campaign site DaciaForOregon.com appears on Ballotpedia only; not verified, left null. No official-page committee list was captured."
+}

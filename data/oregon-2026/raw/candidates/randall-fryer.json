@@ -1,0 +1,60 @@
+{
+  "id": "randall-fryer",
+  "name": "Randall Fryer",
+  "race_id": "or-house-28",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "No bio, positions or website found for this candidate"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office found",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Randall Fryer\" Oregon House 28 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Randall Fryer\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Randall Fryer\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Randall Fryer\"",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Searches returned only unrelated results (a 2026 Portland Tribune item mentions a Randall Fryer as a candidate for Portland City Council District 4/other offices; identity not confirmed, not used). WW fall 2026 endorsements page mentions the name but the fetch failed."
+}

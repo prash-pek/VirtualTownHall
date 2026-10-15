@@ -1,0 +1,176 @@
+{
+  "id": "tammy-carpenter",
+  "name": "Tammy Carpenter",
+  "race_id": "or-house-27",
+  "party": "Democrat",
+  "incumbent": null,
+  "occupation": "Anesthesiologist",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "tammy-carpenter-b1",
+      "topic": "custom:background",
+      "statement": "Willamette Week describes Carpenter as an anesthesiologist for two decades.",
+      "excerpt": "an anesthesiologist for two decades",
+      "source": {
+        "url": "https://www.wweek.com/news/2026/04/29/wws-may-2026-endorsements-oregon-house/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-04-29",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tammy-carpenter-b2",
+      "topic": "education",
+      "statement": "Ballotpedia says Carpenter earned an M.D. from the University of Chicago in 2003.",
+      "excerpt": "an M.D. from the University of Chicago in 2003",
+      "source": {
+        "url": "https://ballotpedia.org/Tammy_Carpenter_(Oregon)",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "tammy-carpenter-p1",
+      "topic": "healthcare",
+      "statement": "In the Capital Chronicle questionnaire, Carpenter says she will champion a universal healthcare package covering every Oregonian.",
+      "excerpt": "will champion a universal healthcare package that guarantees care to every Oregonian.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p2",
+      "topic": "housing",
+      "statement": "In the Capital Chronicle questionnaire, Carpenter says the state needs to explore social housing.",
+      "excerpt": "I believe we need to explore social housing.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p3",
+      "topic": "taxes",
+      "statement": "In the Capital Chronicle questionnaire, Carpenter says she plans to introduce a wealth tax to fund universal childcare and schools.",
+      "excerpt": "I plan to introduce a wealth tax that will fund universal childcare and strong Oregon schools.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p4",
+      "topic": "education",
+      "statement": "In the Capital Chronicle questionnaire, Carpenter says schools can be fully funded only with revenue system reform.",
+      "excerpt": "We must fully fund our schools and we can only do that with revenue system reform",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p5",
+      "topic": "transportation",
+      "statement": "In the Capital Chronicle questionnaire, Carpenter says she will vote only on a transportation package focused on the basics.",
+      "excerpt": "I will only vote on a transportation package focused on the basics.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p6",
+      "topic": "immigration",
+      "statement": "In the Capital Chronicle questionnaire, Carpenter says Oregon must uphold its status as a sanctuary state.",
+      "excerpt": "We must uphold our status as a sanctuary state",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "No public position found on public safety (guide did not quote one)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no official office page fetched (Beaverton school board)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.wweek.com/news/2026/04/29/wws-may-2026-endorsements-oregon-house/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Tammy_Carpenter_(Oregon)",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Tammy Carpenter\" Oregon House 27 Beaverton 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Tammy Carpenter\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Tammy Carpenter\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Tammy Carpenter\"",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Challenger for open seat (Rep. Helm retiring per press). Capital Chronicle guide undated, published_at null. Beaverton school board seat noted in CC/WW but no exact-quote excerpt captured, so not itemized; no official page fetched for school board service. Campaign site not found."
+}

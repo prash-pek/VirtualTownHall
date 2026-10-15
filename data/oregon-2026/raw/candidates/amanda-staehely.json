@@ -1,0 +1,93 @@
+{
+  "id": "amanda-staehely",
+  "name": "Amanda Staehely",
+  "race_id": "or-house-18",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": "Nursery owner (per Capital Chronicle voter guide)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "amanda-staehely-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Association of Nurseries news site says Staehely spent most of her life pursuing a ballet career before moving to Pilates and the family nursery business.",
+      "excerpt": "spent most of her life pursuing a ballet career",
+      "source": {
+        "url": "https://www.oan.org/news/717449/From-ballet-to-politics-Amanda-Staehely-is-en-pointe.htm",
+        "publisher": "Oregon Association of Nurseries (Nursery News)",
+        "tier": "T3",
+        "published_at": "2026-01-05",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-b2",
+      "topic": "agriculture",
+      "statement": "The same article says she advocated for the nursery industry before the Oregon Legislature, Congress and federal agencies as an association leader.",
+      "excerpt": "advocated for the industry in the halls of the Oregon Legislature, U.S. Congress",
+      "source": {
+        "url": "https://www.oan.org/news/717449/From-ballet-to-politics-Amanda-Staehely-is-en-pointe.htm",
+        "publisher": "Oregon Association of Nurseries (Nursery News)",
+        "tier": "T3",
+        "published_at": "2026-01-05",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "No policy positions found: she did not respond to the Capital Chronicle questionnaire",
+    "No campaign website found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office found",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-18/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.oan.org/news/717449/From-ballet-to-politics-Amanda-Staehely-is-en-pointe.htm",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Amanda Staehely\" Oregon House 18 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Amanda Staehely\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Amanda Staehely\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Amanda Staehely\"",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Capital Chronicle HD 18 Republican primary guide lists her as occupation 'nursery owner with agricultural advocacy experience' and no questionnaire response. OAN is a trade-association publication (T3). Incumbent null (open seat; Rep. Lewis retiring per CC guide, not an official source)."
+}

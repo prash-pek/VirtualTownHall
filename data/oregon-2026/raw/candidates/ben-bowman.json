@@ -1,0 +1,190 @@
+{
+  "id": "ben-bowman",
+  "name": "Ben Bowman",
+  "race_id": "or-house-25",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+  "occupation": "School district administrator",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "ben-bowman-b1",
+      "topic": "custom:background",
+      "statement": "His official legislative biography says he works as a school district administrator.",
+      "excerpt": "In his day job, he works as a school district administrator.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/bowman/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ben-bowman-b2",
+      "topic": "education",
+      "statement": "His official biography says he earned a bachelor's degree from the University of Oregon and a master's degree from Stanford University.",
+      "excerpt": "he earned his bachelor's degree from the University of Oregon and his master's degree from Stanford University.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/bowman/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ben-bowman-b3",
+      "topic": "custom:background",
+      "statement": "His official biography says he represents House District 25, covering Tigard, Metzger and South Beaverton.",
+      "excerpt": "representing House District 25 (Tigard, Metzger, and South Beaverton).",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/bowman/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "ben-bowman-p1",
+      "topic": "housing",
+      "statement": "In his 2022 Ballotpedia Candidate Connection survey, Bowman said the state must build more housing and make purchasing easier for first-time home buyers.",
+      "excerpt": "We must build more housing, make purchasing easier for first-time home buyers,",
+      "source": {
+        "url": "https://ballotpedia.org/Ben_Bowman",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ben-bowman-p2",
+      "topic": "healthcare",
+      "statement": "In his 2022 Ballotpedia Candidate Connection survey, Bowman said he supports reducing healthcare and prescription drug costs and expanding affordable childcare.",
+      "excerpt": "I support reducing the cost of healthcare and prescription drugs, expanding affordable childcare options",
+      "source": {
+        "url": "https://ballotpedia.org/Ben_Bowman",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ben-bowman-p3",
+      "topic": "immigration",
+      "statement": "In his March 2026 session newsletter, Bowman is quoted saying the session positioned Oregon as a national leader on standing up for immigrant communities.",
+      "excerpt": "The work that we did this session has positioned Oregon as a national leader on standing up for our immigrant communities.",
+      "source": {
+        "url": "https://content.govdelivery.com/accounts/ORLEG/bulletins/40f2127",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": "2026-03-19",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ben-bowman-p4",
+      "topic": "housing",
+      "statement": "His March 2026 newsletter quotes Bowman on a home-buying bill, saying Oregonians should not be competing with Wall Street to buy a home.",
+      "excerpt": "The premise of this bill is simple: Oregonians should not be competing with Wall Street to buy a home.",
+      "source": {
+        "url": "https://content.govdelivery.com/accounts/ORLEG/bulletins/40f2127",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": "2026-03-19",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "ben-bowman-v1",
+      "topic": "healthcare",
+      "statement": "His March 2026 newsletter says Bowman was lead author of Senate Bill 951, a 2025 law on the corporate practice of medicine.",
+      "excerpt": "was lead author of Senate Bill 951, a 2025 law designed to prevent the corporate practice of medicine in Oregon.",
+      "source": {
+        "url": "https://content.govdelivery.com/accounts/ORLEG/bulletins/40f2127",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": "2026-03-19",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "No 2026 questionnaire answers (Capital Chronicle guide for HD 25 not located in search); positions rely on a 2022 survey and a March 2026 newsletter",
+    "No roll-call voting items collected (phase 1 scope)",
+    "No public position found on taxes, public safety, transportation, environment"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/bowman/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/bowman/Pages/bills.aspx",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://content.govdelivery.com/accounts/ORLEG/bulletins/40f2127",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Ben_Bowman",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "Capital Chronicle HD 25 voter guide (search for district guides)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Ben Bowman\" Tigard 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Ben Bowman\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Ben Bowman\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Ben Bowman\"",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Incumbent per official House roster. Inventory consistent. Campaign website not found/verified, left null. Newsletter quotes are press quotes reproduced by his office. The 2022 survey items are dated; verifier should check."
+}

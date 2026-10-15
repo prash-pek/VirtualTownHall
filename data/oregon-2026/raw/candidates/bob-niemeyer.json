@@ -1,0 +1,88 @@
+{
+  "id": "bob-niemeyer",
+  "name": "Bob Niemeyer",
+  "race_id": "or-house-25",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": "Business (mechanical engineer, founded engineering company)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "bob-niemeyer-b1",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says Niemeyer grew up in Silverton, Oregon, and is the son of a dentist.",
+      "excerpt": "Niemeyer is the son of a dentist and grew up in Silverton, Oregon.",
+      "source": {
+        "url": "https://ballotpedia.org/Bob_Niemeyer",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "bob-niemeyer-b2",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says he is a licensed professional mechanical engineer who founded his own engineering company in 1988.",
+      "excerpt": "He is a licensed professional mechanical engineer and, in 1988, founded his own engineering company.",
+      "source": {
+        "url": "https://ballotpedia.org/Bob_Niemeyer",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "No 2026 policy positions found; Ballotpedia lists none for 2026 and he did not complete its 2026 survey",
+    "No campaign website found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office found",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Bob_Niemeyer",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Bob Niemeyer\" Oregon House 25 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Bob Niemeyer\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Bob Niemeyer\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Bob Niemeyer\"",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Challenger. Same Ballotpedia page shows a 2016 governor campaign (not used; different office). Incumbent null: no official source consulted stating non-incumbency. Not found in a Capital Chronicle guide. Search (b) returned only Bob's Red Mill results."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "roy-kaufmann",
+  "name": "Roy Kaufmann",
+  "race_id": "or-house-18",
+  "party": "Independent",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement: pending script extract",
+    "No sourced bio or positions: KOIN pages located in search could not be fetched (fetch errors)",
+    "No campaign website found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office found",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.koin.com/nwpolitics/roy-kaufmann-discusses-oregon-house-district-18-campaign/",
+      "result": "blocked"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.koin.com/nwpolitics/oregon-house-candidate-kaufmann",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Roy Kaufmann\" Oregon House 18 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Roy Kaufmann\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Roy Kaufmann\"",
+      "result": "blocked"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Roy Kaufmann\"",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Challenger (Independent; also nominated by Working Families and Democratic parties per inventory). KOIN URLs from search that failed to fetch and may be worth retrying: https://www.koin.com/nwpolitics/roy-kaufmann-discusses-oregon-house-district-18-campaign/ , https://www.koin.com/nwpolitics/oregon-house-candidate-kaufmann , https://www.koin.com/nwpolitics/communications-expert-roy-kaufmann-oregon-political-climate-02232025/ . Not listed in Capital Chronicle HD 18 Republican primary guide (expected)."
+}
