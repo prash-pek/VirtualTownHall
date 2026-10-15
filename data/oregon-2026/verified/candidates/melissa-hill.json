@@ -1,0 +1,105 @@
+{
+  "id": "melissa-hill",
+  "name": "Melissa A Hill",
+  "name_variants": [
+    "Melissa Hill"
+  ],
+  "race_id": "estacada-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.cityofestacada.org/city-council-election/",
+  "occupation": "Local Business Owner; Children's Book Author; Estacada City Councilor",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "melissa-hill-b1",
+      "topic": "custom:bio",
+      "statement": "Hill's pamphlet statement lists work as an IT support specialist, publication services manager, event manager and home care worker.",
+      "excerpt": "IT Support Specialist; Publication Services Manager; Event Manager; Home Care Worker",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "melissa-hill-b2",
+      "topic": "custom:bio",
+      "statement": "Hill's pamphlet statement lists service as an Estacada city councilor since 2025 and as council liaison to the library board.",
+      "excerpt": "Estacada City Councilor, 2025-present; Estacada Public Library Board, Council Liaison;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "melissa-hill-p1",
+      "topic": "social-services",
+      "statement": "In her voters' pamphlet statement, Hill says children, seniors and veterans are at the heart of her service.",
+      "excerpt": "At the heart of my service are our children, seniors, and veterans",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "melissa-hill-p2",
+      "topic": "custom:governance",
+      "statement": "Hill's pamphlet statement says she will keep asking questions, listening, learning, building relationships and showing up.",
+      "excerpt": "But I'll keep asking questions, listening, learning, building relationships, and showing up.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 campaign coverage in T3 outlets"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Estacada council: Hill 4, Austin 4, Tipton 3; all pamphlet-only, no websites listed, no T3 coverage; differences reflect statement length."
+  }
+}

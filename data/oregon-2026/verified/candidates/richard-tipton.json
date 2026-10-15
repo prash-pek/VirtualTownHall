@@ -1,0 +1,86 @@
+{
+  "id": "richard-tipton",
+  "name": "Richard L Tipton",
+  "name_variants": [
+    "Richard Tipton"
+  ],
+  "race_id": "estacada-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.cityofestacada.org/city-council-election/",
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "richard-tipton-b1",
+      "topic": "custom:bio",
+      "statement": "Tipton's pamphlet statement lists a background in customer service, purchasing and logistics.",
+      "excerpt": "Customer Service, Purchasing, Logistics",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "richard-tipton-p1",
+      "topic": "transportation",
+      "statement": "In his voters' pamphlet statement, Tipton lists traffic safety and responsible growth among his priorities.",
+      "excerpt": "My priorities include traffic safety, responsible growth,",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "richard-tipton-p2",
+      "topic": "custom:governance",
+      "statement": "Tipton's pamphlet statement says he believes in listening to residents and working with others in making decisions.",
+      "excerpt": "I believe in listening to our residents, working with others, and making decisions based on common sense.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No T3 press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Estacada council: Hill 4, Austin 4, Tipton 3; all pamphlet-only, no websites listed, no T3 coverage; differences reflect statement length."
+  }
+}

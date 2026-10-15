@@ -1,0 +1,161 @@
+{
+  "id": "scott-cantonwine",
+  "name": "Scott Cantonwine",
+  "name_variants": [],
+  "race_id": "canby-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf",
+  "occupation": "President, CWC Investment Company (Real estate investment/asset management)",
+  "website_url": "https://scottcantonwine.com",
+  "website_verified_via": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "scott-cantonwine-b1",
+      "topic": "custom:bio",
+      "statement": "Cantonwine's pamphlet statement lists an MBA and a BA in civic communication from Willamette University.",
+      "excerpt": "Willamette University, Business/Management, MBA; Willamette University, Civic Communication, BA",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "scott-cantonwine-b2",
+      "topic": "custom:bio",
+      "statement": "Cantonwine's pamphlet statement lists appointed service as vice chair of the Canby Budget Committee since 2026.",
+      "excerpt": "Vice Chair, City of Canby Budget Committee (appointed, 2026-present);",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "scott-cantonwine-b3",
+      "topic": "custom:bio",
+      "statement": "Cantonwine's pamphlet statement lists appointed service on the Clackamas County Planning Commission since 2025.",
+      "excerpt": "Clackamas County Planning Commission (appointed, 2025-present);",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "scott-cantonwine-p1",
+      "topic": "taxes",
+      "statement": "In his voters' pamphlet statement, Cantonwine says every tax dollar comes from someone else's wallet and should be used as efficiently as possible.",
+      "excerpt": "Recognizing that every tax dollar comes from someone else's wallet and using those dollars as efficiently as possible.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Fixed 'someone's wallet' to 'someone else's wallet' to match excerpt.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "scott-cantonwine-p2",
+      "topic": "custom:governance",
+      "statement": "Cantonwine's pamphlet statement says he will build consensus while being willing to make difficult decisions for Canby's long-term interests.",
+      "excerpt": "I will work to build consensus while remaining willing to make difficult decisions when Canby's long term interests require it.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "scott-cantonwine-p3",
+      "topic": "housing",
+      "statement": "Cantonwine's pamphlet statement lists managing growth thoughtfully as a priority.",
+      "excerpt": "Managing growth thoughtfully.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "scott-cantonwine-p4",
+      "topic": "custom:local-control",
+      "statement": "Cantonwine's campaign site says local control should be a focus in reimagining how Oregon government works.",
+      "excerpt": "Local control needs to be a focus point in reimagining how Oregon government works.",
+      "source": {
+        "url": "https://scottcantonwine.com",
+        "publisher": "Scott Cantonwine campaign",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Campaign site re-fetched 2026-10-15; excerpt present verbatim; site belongs to this candidate (domain printed in the pamphlet statement).",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No 2026 T3 press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Canby council: Cantonwine 7, Thompson 6, Ayres 6; Mullins and Varwig have 0 items because the pamphlet marks them as not purchasing space (*Not all candidates choose to purchase space) and no website/press was found; applied equally."
+  }
+}
