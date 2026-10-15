@@ -34,9 +34,9 @@ npm run seed:inventory          # imports data/oregon-2026/inventory.json as dra
 npm run dev
 ```
 
-The app is served under the base path `/townhallai` (see `lib/base-path.ts`), so locally it's http://localhost:3000/townhallai and `/` redirects there. `next/link` adds the prefix automatically; raw URLs such as `<img src>` and Clerk redirect URLs must use `withBasePath()`.
+The app is served at the root of townhallai.outsetinno.com; old `/townhallai/...` links redirect to the root.
 
-The app builds and runs without provider keys. `/townhallai/api/health` reports what is configured. Until Clerk keys exist, `/townhallai/admin` and `/townhallai/ops` return 503.
+The app builds and runs without provider keys. `/api/health` reports what is configured. Until Clerk keys exist, `/admin` and `/ops` return 503.
 
 Any Postgres 16+ with PostGIS works locally, for example `docker run -e POSTGRES_PASSWORD=postgres -p 5432:5432 postgis/postgis:17-3.5`.
 
