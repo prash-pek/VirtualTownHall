@@ -1,0 +1,86 @@
+{
+  "id": "nicholas-engels",
+  "name": "Nicholas Engels",
+  "name_variants": [],
+  "race_id": "rockwood-water-pud-sub-district-4",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://multco.us/file/nicholas_engels_candidate_filing/download",
+  "occupation": "Member of the Rockwood Board of Directors",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "nicholas-engels-b1",
+      "topic": "custom:bio",
+      "statement": "On his candidate filing, Engels marks himself as the incumbent Rockwood Water PUD Sub-District 4 director.",
+      "excerpt": "Incumbent: Yes",
+      "source": {
+        "url": "https://multco.us/file/nicholas_engels_candidate_filing/download",
+        "publisher": "Multnomah County Elections (candidate filing form SEL 101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicholas-engels-b2",
+      "topic": "custom:bio",
+      "statement": "His candidate filing lists previous work as a brewer and cellar worker and as a U.S. Navy hospital corpsman.",
+      "excerpt": "United States Navy Hospital Corpsman",
+      "source": {
+        "url": "https://multco.us/file/nicholas_engels_candidate_filing/download",
+        "publisher": "Multnomah County Elections (candidate filing form SEL 101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicholas-engels-b3",
+      "topic": "custom:bio",
+      "statement": "His candidate filing lists Oregon State University as a school attended.",
+      "excerpt": "Oregon State University",
+      "source": {
+        "url": "https://multco.us/file/nicholas_engels_candidate_filing/download",
+        "publisher": "Multnomah County Elections (candidate filing form SEL 101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement also claimed a PCC associate degree not in the excerpt; narrowed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement filed (asterisk in the Nov 2026 county pamphlet Candidate Index; none in the Military & Overseas guide)",
+    "No positions found in any T1/T2/T3 source",
+    "No campaign website or T3 coverage found"
+  ],
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Pamphlet non-filer (asterisk confirmed); only filing-form items available."
+  }
+}

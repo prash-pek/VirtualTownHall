@@ -1,0 +1,183 @@
+{
+  "id": "elizabeth-offensend",
+  "name": "Elizabeth Offensend",
+  "name_variants": [],
+  "race_id": "west-multnomah-swcd-zone-4",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://wmswcd.org/board-members/",
+  "occupation": "Outreach Manager",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "elizabeth-offensend-b1",
+      "topic": "custom:bio",
+      "statement": "In her voters' pamphlet statement, Offensend lists her occupation as outreach manager.",
+      "excerpt": "Outreach Manager",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_4_elizabeth_offensend/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement also claimed a sustainability-consultant background not in the excerpt; narrowed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "elizabeth-offensend-b2",
+      "topic": "custom:bio",
+      "statement": "Her pamphlet statement lists an MS from Portland State University.",
+      "excerpt": "Portland State University, MS",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_4_elizabeth_offensend/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement also claimed a University of Wisconsin-Madison BA not in the excerpt; narrowed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "elizabeth-offensend-b3",
+      "topic": "custom:bio",
+      "statement": "Her pamphlet statement says she has spent more than two decades in conservation and sustainability.",
+      "excerpt": "I have spent more than two decades working in conservation and sustainability.",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_4_elizabeth_offensend/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "elizabeth-offensend-b4",
+      "topic": "custom:bio",
+      "statement": "Under governmental experience, her pamphlet statement says her household has worked with the district on its own property.",
+      "excerpt": "We have worked with WMWSCD on our own property",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_4_elizabeth_offensend/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "elizabeth-offensend-p1",
+      "topic": "environment",
+      "statement": "In her pamphlet statement, Offensend says her household is restoring native habitat with an emphasis on oak savanna.",
+      "excerpt": "we are actively restoring native habitat with an emphasis on oak savanna.",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_4_elizabeth_offensend/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "elizabeth-offensend-p2",
+      "topic": "education",
+      "statement": "Her pamphlet statement says she cares deeply about conservation education.",
+      "excerpt": "I care deeply about conservation education",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_4_elizabeth_offensend/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "elizabeth-offensend-p3",
+      "topic": "environment",
+      "statement": "Her pamphlet statement says conservation programs should be useful and accessible to people who live and work on the land.",
+      "excerpt": "make conservation programs useful, accessible, and relevant to the people who live and work on the land.",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_4_elizabeth_offensend/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "elizabeth-offensend-p4",
+      "topic": "environment",
+      "statement": "Her pamphlet statement names healthy forests, soil, water, wildlife habitat and wildfire resilience as values.",
+      "excerpt": "healthy forests, soil, water, wildlife habitat, wildfire resilience, and thoughtful land stewardship.",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_4_elizabeth_offensend/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed in pamphlet statement",
+    "No T3 coverage found"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Pamphlet filer; item count in line with other filers. No missed T1/T2 material found in spot-search."
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "brad-hunter",
+  "name": "Brad Hunter",
+  "name_variants": [],
+  "race_id": "east-multnomah-swcd-zone-3",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+  "occupation": "Senior Lender, Craft3",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "brad-hunter-b1",
+      "topic": "custom:bio",
+      "statement": "In his voters' pamphlet statement, Hunter lists his occupation as senior lender at Craft3.",
+      "excerpt": "Senior Lender, Craft3",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement also claimed a forester background not covered by the excerpt (page lists 'Forester' as previous employment); narrowed to the excerpt.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brad-hunter-b2",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists a master's in forestry from Yale University.",
+      "excerpt": "Master in Forestry from Yale University",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement also claimed a UNC MBA not covered by the excerpt (page lists it); narrowed to the excerpt.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brad-hunter-b3",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement says he was appointed Zone 3 director and has served on the EMSWCD board since January 2026.",
+      "excerpt": "I was appointed the Zone 3 Director and have been serving on the EMSWCD board since January of 2026.",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Verified; also consistent with the page's Prior Governmental Experience field 'Currently serve as Director East Multnomah SWCD (Appointed in 2026)'.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brad-hunter-b4",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists service as budget chair for the Corbett School District.",
+      "excerpt": "Served as Budget Chair for Corbett School District",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "brad-hunter-p1",
+      "topic": "environment",
+      "statement": "In his pamphlet statement, Hunter says he would protect and restore watersheds that support soil and water quality and wildlife.",
+      "excerpt": "Protect and restore critical watersheds that support improved soil and water quality, healthy wildlife",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brad-hunter-p2",
+      "topic": "agriculture",
+      "statement": "His pamphlet statement says he would protect farmland and give farmers tools to succeed.",
+      "excerpt": "Protect farmland and provide farmers with the tools they need to be successful",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brad-hunter-p3",
+      "topic": "custom:parks",
+      "statement": "His pamphlet statement says he would increase investment in green space, parks and access to nature in East County.",
+      "excerpt": "Increase investments in green space/parks and opportunities for access to nature for everyone in East County",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed in pamphlet statement",
+    "No T3 coverage found",
+    "Appointment not confirmed on a fetchable official page"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Incumbent set true (was null): his pamphlet statement Prior Governmental Experience reads 'Currently serve as Director East Multnomah SWCD (Appointed in 2026)'. The EMSWCD board page could not be fetched (robots)."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "charlene-gothard",
+  "name": "Charlene Gothard",
+  "name_variants": [],
+  "race_id": "wood-village-council-pos-1",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.woodvillageor.gov/government/city-council/",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "charlene-gothard-b1",
+      "topic": "custom:bio",
+      "statement": "Wood Village's city council page lists Charlene Gothard as a councilor whose term ends December 31, 2026.",
+      "excerpt": "Term Ends 12/31/2026",
+      "source": {
+        "url": "https://www.woodvillageor.gov/government/city-council/",
+        "publisher": "City of Wood Village",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement filed (asterisk in the Nov 2026 county pamphlet Candidate Index; none in the Military & Overseas guide)",
+    "No occupation, background or positions found in any T1/T2/T3 source",
+    "No campaign website or T3 coverage found"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Pamphlet non-filer (asterisk confirmed). Incumbency supported by city council roster (term ends 12/31/2026)."
+  }
+}
