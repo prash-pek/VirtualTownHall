@@ -1,0 +1,143 @@
+{
+  "id": "howard-suesserman",
+  "name": "Howard Suesserman",
+  "name_variants": [
+    "Howard Susserman"
+  ],
+  "race_id": "king-city-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.ci.king-city.or.us/councilors_-_bios.php",
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "howard-suesserman-b1",
+      "topic": "custom:bio",
+      "statement": "Suesserman's pamphlet statement lists a background with the U.S. Postal Service.",
+      "excerpt": "United States Postal Service",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "howard-suesserman-b2",
+      "topic": "custom:bio",
+      "statement": "Suesserman's pamphlet statement lists 35 years of service including 10 years as a postal supervisor.",
+      "excerpt": "35 years with distinction 10 years as Postal Supervisor overseeing 70-90 FTE",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "howard-suesserman-b3",
+      "topic": "custom:bio",
+      "statement": "Suesserman's pamphlet statement lists Cerritos Junior College.",
+      "excerpt": "Cerritos Junior college",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "howard-suesserman-p1",
+      "topic": "taxes",
+      "statement": "In his voters' pamphlet statement, Suesserman says the city must stop spending without public input.",
+      "excerpt": "We must stop spending without public input.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "howard-suesserman-p2",
+      "topic": "custom:governance",
+      "statement": "Suesserman's pamphlet statement says the commission must reflect the residents and HOAs within city boundaries.",
+      "excerpt": "I believe the commission must reflect the residents and HOAs that actually exist within our city boundaries.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "howard-suesserman-p3",
+      "topic": "custom:governance",
+      "statement": "Suesserman's pamphlet statement says decisions affecting all residents should not be set by a few special interests.",
+      "excerpt": "Decisions that affect us all cannot be determined by a few special interests.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "King City: pamphlet-only for all six candidates (WC-19 to WC-22), 5-8 items each; no websites or 2026 press found for any. Balanced."
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "james-minor-sr",
+  "name": "James Minor Sr",
+  "name_variants": [
+    "James Minor Sr.",
+    "James M Minor"
+  ],
+  "race_id": "king-city-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.ci.king-city.or.us/councilors_-_bios.php",
+  "occupation": "Senior Technical Writer",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "james-minor-sr-b1",
+      "topic": "custom:bio",
+      "statement": "Minor's pamphlet statement says he began his career as a technician for about 10 years.",
+      "excerpt": "I began my career as a technician, working in that field for approximately 10 years",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "james-minor-sr-b2",
+      "topic": "custom:bio",
+      "statement": "Minor's pamphlet statement lists an associate degree in mathematics and physics from Macomb County Community College.",
+      "excerpt": "Associate degree from Macomb County Community College, with a major in Mathematics and Physics.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "james-minor-sr-b3",
+      "topic": "custom:bio",
+      "statement": "Minor's pamphlet statement says he served on the board of the King City Civic Association.",
+      "excerpt": "I served on the board of the King City Civic Association (KCCA)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "james-minor-sr-p1",
+      "topic": "custom:growth",
+      "statement": "In his voters' pamphlet statement, Minor says growth should be managed responsibly considering its impact on residents, taxes and infrastructure.",
+      "excerpt": "growth needs to be managed responsibly while considering its impact on residents, taxes, infrastructure",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "james-minor-sr-p2",
+      "topic": "custom:governance",
+      "statement": "Minor's pamphlet statement says the council should build on previous councils' work rather than starting over.",
+      "excerpt": "I also believe we should build on the work of previous councils rather than continually starting over.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "james-minor-sr-p3",
+      "topic": "custom:governance",
+      "statement": "Minor's pamphlet statement says he will work collaboratively with council members, staff and residents.",
+      "excerpt": "As a council member, I will work collaboratively with the other council members, city staff, and residents.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "King City: pamphlet-only for all six candidates (WC-19 to WC-22), 5-8 items each; no websites or 2026 press found for any. Balanced."
+  }
+}

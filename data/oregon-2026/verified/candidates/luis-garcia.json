@@ -1,0 +1,160 @@
+{
+  "id": "luis-garcia",
+  "name": "Luis Garcia",
+  "name_variants": [],
+  "race_id": "hillsboro-council-ward-1a",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000",
+  "occupation": "Health Information Systems Designer, Kaiser Permanente",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "luis-garcia-b1",
+      "topic": "custom:bio",
+      "statement": "Garcia's pamphlet statement lists 30 years in computer science and technology, including process design at Cisco.",
+      "excerpt": "30 years in Computer Science and Technology; Process Design, Cisco Systems",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "luis-garcia-b2",
+      "topic": "custom:bio",
+      "statement": "Garcia's pamphlet statement lists a computer science education at Cal State East Bay.",
+      "excerpt": "Cal State East Bay, Computer Science",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "luis-garcia-b3",
+      "topic": "custom:bio",
+      "statement": "Garcia's pamphlet statement lists service on the Hillsboro Police Chief's Advisory Committee.",
+      "excerpt": "City of Hillsboro Police Chief’s Advisory Committee; Government Systems Data Management, Cisco Systems",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "luis-garcia-p1",
+      "topic": "agriculture",
+      "statement": "In his voters' pamphlet statement, Garcia calls for protecting farmland from the impacts of semiconductors and data centers.",
+      "excerpt": "protect farmland from the impacts of semiconductors and data centers",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "luis-garcia-p2",
+      "topic": "infrastructure",
+      "statement": "Garcia's pamphlet statement lists the basics as good roads, clean water and affordable housing.",
+      "excerpt": "The basics: good roads, clean water and affordable housing",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "luis-garcia-p3",
+      "topic": "custom:governance",
+      "statement": "Garcia's pamphlet statement calls for decisions based on science and data.",
+      "excerpt": "Informed decisions: based on science and data, not assumptions and fear",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "luis-garcia-p4",
+      "topic": "social-services",
+      "statement": "Garcia's pamphlet statement calls for strengthening the systems that support families.",
+      "excerpt": "STENGTHEN the systems that support our families",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No press coverage found (common name; searches returned other people)"
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Ward 1A: Salgado 8 items, Garcia 7, Marugg 8, Jackson 9 (incl. one T2 site item and one T3 OPB item). All four filed pamphlet statements; Salgado, Garcia have no website; Jackson alone has press (OPB 2026-09-28 names her). Disparities reflect source availability, applied equally."
+  }
+}
