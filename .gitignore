@@ -39,3 +39,12 @@ Thumbs.db
 
 # Testing
 coverage/
+
+# Next.js / Vercel
+.next/
+out/
+next-env.d.ts
+.vercel
+.env*
+!.env.example
+*.tsbuildinfo
