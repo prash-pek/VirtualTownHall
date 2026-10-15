@@ -4,7 +4,7 @@
   pamphlet_extract.py <pamphlet.pdf> <source_url> <out_dir> <candidate-id>...
 
 Reads inventory names (and name_variants), finds the pages that mention each
-candidate, and writes <out_dir>/<candidate-id>.txt with the page text and page
+candidate (or, for a measure id, its measure number), and writes <out_dir>/<candidate-id>.txt with the page text and page
 numbers, plus <out_dir>/_index.json. Collectors quote from these files instead
 of paging through the PDF with WebFetch; the citation is still <source_url>.
 Pages with no text layer (scans) are listed as such so the gap is logged the
@@ -20,7 +20,10 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CANDIDATES = {c["id"]: c for c in json.loads((ROOT / "inventory.json").read_text())["candidates"]}
+INVENTORY = json.loads((ROOT / "inventory.json").read_text())
+CANDIDATES = {c["id"]: c for c in INVENTORY["candidates"]}
+# Measure ids work too: their pages are found by measure number (e.g. "26-267").
+CANDIDATES.update({m["id"]: {"name": m["number"], "label": f"Measure {m['number']}"} for m in INVENTORY["measures"]})
 
 
 def pages(pdf):
@@ -31,6 +34,10 @@ def pages(pdf):
 
 def norm(s):
     return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
+
+
+def find(normed, names):
+    return sorted({i + 1 for i, t in enumerate(normed) for n in names if f" {norm(n)} " in f" {t} "})
 
 
 def main(argv):
@@ -46,9 +53,17 @@ def main(argv):
     for cid in argv[4:]:
         c = CANDIDATES[cid]
         names = [c["name"], *c.get("name_variants", [])]
-        hits = sorted({i + 1 for i, t in enumerate(normed) for n in names if f" {norm(n)} " in f" {t} "})
+        hits, match = find(normed, names), "full name"
+        parts = norm(c["name"]).split()
+        if not hits and "label" not in c and len(parts) > 2:  # pamphlet may drop a middle name
+            hits, match = find(normed, [f"{parts[0]} {parts[-1]}"]), "first + last name"
+        if not hits and "label" not in c and len(parts[-1]) > 3:  # nickname or spelling variant: check by hand
+            hits, match = find(normed, [parts[-1]]), "surname only (check it is this candidate)"
         index["candidates"][cid] = hits
-        body = [f"source_url: {url}", f"candidate: {c['name']} ({cid})", f"pages: {hits or 'none found'}", ""]
+        if hits and match != "full name":
+            index.setdefault("loose_matches", {})[cid] = match
+        body = [f"source_url: {url}", f"candidate: {c.get('label', c['name'])} ({cid})",
+                f"pages: {hits or 'none found'}" + (f"  [matched by {match}]" if hits and match != "full name" else ""), ""]
         for p in hits:
             body += [f"===== page {p} =====", texts[p - 1].rstrip(), ""]
         (out / f"{cid}.txt").write_text("\n".join(body))
