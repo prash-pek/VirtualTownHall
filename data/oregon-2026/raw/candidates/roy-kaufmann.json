@@ -5,21 +5,113 @@
   "party": "Independent",
   "incumbent": null,
   "occupation": null,
-  "website_url": null,
-  "website_verified_via": null,
-  "bio": [],
-  "positions": [],
+  "website_url": "http://www.KaufmannforOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+  "bio": [
+    {
+      "id": "roy-kaufmann-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Kaufmann lists his occupation as communications adviser, with communications work for local and state governments, nonprofits and higher education.",
+      "excerpt": "Occupation: Communications Adviser Occupational Background: Communications for local and state governments, nonprofits, and higher education.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-b2",
+      "topic": "custom:background",
+      "statement": "Kaufmann lists a bachelor's from UC Davis and a master's from the University of San Diego.",
+      "excerpt": "Educational Background: Bachelor's, UC Davis; Master's, University of San Diego",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-b3",
+      "topic": "custom:background",
+      "statement": "Kaufmann lists no prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: None",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "roy-kaufmann-p1",
+      "topic": "healthcare",
+      "statement": "Kaufmann says he will fight for a single-payer health plan covering every Oregonian.",
+      "excerpt": "I'll fight for a single-payer health plan that covers every Oregonian",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p2",
+      "topic": "economy",
+      "statement": "Kaufmann says he will fight for a state bank.",
+      "excerpt": "I'll fight for a state bank, to keep more of our wealth here.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p3",
+      "topic": "technology",
+      "statement": "Kaufmann says he will keep farmland growing food instead of data centers.",
+      "excerpt": "I'll keep our farmlands growing food instead of data centers.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p4",
+      "topic": "gun-policy",
+      "statement": "Kaufmann says he owns guns and believes people can agree on measures to reduce gun violence.",
+      "excerpt": "I own guns, I respect the people who do, and I’m confident we can still agree on measures that reduce gun violence.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
   "voting_record": [],
   "gaps": [
-    "Pamphlet statement: pending script extract",
     "No sourced bio or positions: KOIN pages located in search could not be fetched (fetch errors)",
     "No campaign website found"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract roy-kaufmann.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 45)"
     },
     {
       "step": "2",
@@ -28,8 +120,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.KaufmannforOregon.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "6",
@@ -62,5 +154,5 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Challenger (Independent; also nominated by Working Families and Democratic parties per inventory). KOIN URLs from search that failed to fetch and may be worth retrying: https://www.koin.com/nwpolitics/roy-kaufmann-discusses-oregon-house-district-18-campaign/ , https://www.koin.com/nwpolitics/oregon-house-candidate-kaufmann , https://www.koin.com/nwpolitics/communications-expert-roy-kaufmann-oregon-political-climate-02232025/ . Not listed in Capital Chronicle HD 18 Republican primary guide (expected)."
+  "collection_notes": "Challenger (Independent; also nominated by Working Families and Democratic parties per inventory). KOIN URLs from search that failed to fetch and may be worth retrying: https://www.koin.com/nwpolitics/roy-kaufmann-discusses-oregon-house-district-18-campaign/ , https://www.koin.com/nwpolitics/oregon-house-candidate-kaufmann , https://www.koin.com/nwpolitics/communications-expert-roy-kaufmann-oregon-political-climate-02232025/ . Not listed in Capital Chronicle HD 18 Republican primary guide (expected). Pamphlet statement: SOS Clackamas edition p. 45 (same text in other editions)."
 }

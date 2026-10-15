@@ -5,8 +5,8 @@
   "party": "Democrat",
   "incumbent": null,
   "occupation": "Business owner and sustainability leader",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://bassettfororegon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
   "bio": [
     {
       "id": "nicole-bassett-b1",
@@ -17,6 +17,32 @@
         "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-26/",
         "publisher": "Oregon Capital Chronicle",
         "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-b2",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Bassett lists her occupation as small business owner, and co-founder and CEO of The Renewal Workshop in Cascade Locks.",
+      "excerpt": "Occupation: Small business owner Occupational Background: Co-Founder and CEO, The Renewal Workshop, Cascade Locks",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-b3",
+      "topic": "custom:background",
+      "statement": "Bassett lists York University and Simon Fraser University as her educational background.",
+      "excerpt": "Educational Background: York University, Simon Fraser University.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
@@ -74,19 +100,70 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "nicole-bassett-p5",
+      "topic": "economy",
+      "statement": "Bassett says she will take on corporate consolidation and policies that raise the cost of rent and essentials, and defend against big tech overreach.",
+      "excerpt": "I’ll take on corporate consolidation and policies that drive up the cost of rent and essentials and defend against big tech overreach.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-p6",
+      "topic": "healthcare",
+      "statement": "Bassett says she will work for affordable, accessible healthcare, protect reproductive healthcare access and oppose cuts that threaten rural hospitals.",
+      "excerpt": "I’ll collaborate to create more affordable and accessible healthcare options, protect access to reproductive healthcare, and oppose cuts that threaten our rural hospitals.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-p7",
+      "topic": "education",
+      "statement": "Bassett says she will support more funding for career and technical education, smaller class sizes and more mental health support in schools.",
+      "excerpt": "I’ll support increased funding for career and technical education, smaller class sizes, and more mental health support",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-p8",
+      "topic": "environment",
+      "statement": "Bassett says she will prioritize wildfire prevention, support first responders and invest in solutions that keep people, land and homes safe.",
+      "excerpt": "I’ll prioritize wildfire prevention, support first responders, and invest in proven solutions that keep people, land, and homes safe.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
     "No education or taxes position found outside the pamphlet",
     "No campaign website confirmed"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "pending script extract"
+      "query_or_url": "SOS state voters pamphlet extract nicole-bassett.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 44)"
     },
     {
       "step": "2",
@@ -95,8 +172,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
-      "result": "not found"
+      "query_or_url": "campaign website http://bassettfororegon.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -124,5 +201,5 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent. Voter guide page has no publication date (published_at null). Searches by 'Nicole Bassett' return unrelated people on KOIN/Pamplin. Pamphlet Book14 p.44 (pending)."
+  "collection_notes": "Inventory consistent. Voter guide page has no publication date (published_at null). Searches by 'Nicole Bassett' return unrelated people on KOIN/Pamplin. Pamphlet Book14 p.44 (pending). Pamphlet statement: SOS Clackamas edition p. 44 (same text in other editions)."
 }

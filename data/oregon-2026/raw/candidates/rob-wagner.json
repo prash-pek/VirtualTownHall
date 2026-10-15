@@ -5,8 +5,8 @@
   "party": "Democrat",
   "incumbent": true,
   "occupation": "Oregon Senate President",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://RobWagnerForOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
   "bio": [
     {
       "id": "rob-wagner-b1",
@@ -16,6 +16,45 @@
       "source": {
         "url": "https://www.oregonlegislature.gov/wagner/Pages/default.aspx",
         "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-b2",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Wagner lists his occupation as Oregon Senate President, with a background as an associate vice president at Portland Community College.",
+      "excerpt": "Occupation: Oregon Senate President Occupational Background: Portland Community College (Associate Vice President)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-b3",
+      "topic": "custom:background",
+      "statement": "Wagner lists an MA from George Washington University and a BA from Portland State University.",
+      "excerpt": "Educational Background: George Washington University (MA), Portland State University (BA), Lake Oswego HS",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-b4",
+      "topic": "custom:background",
+      "statement": "Wagner lists state senator and Lake Oswego School Board as his prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: State Senator, Lake Oswego School Board",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
         "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
@@ -48,19 +87,70 @@
         "published_at": "2026-01-23",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "rob-wagner-p3",
+      "topic": "education",
+      "statement": "Wagner lists education, jobs and workforce training, environment and parks, health care, public safety, housing and quality of life as his priorities.",
+      "excerpt": "I prioritize things that are most important to our community and state: education, jobs and workforce training, environment and parks, health care, public safety, housing, and quality of life.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p4",
+      "topic": "environment",
+      "statement": "Wagner says Oregon must protect clean air, land and water, build resilience to wildfires and heat waves, and defend natural places.",
+      "excerpt": "we must protect our clean air, land, and water; build resilience amidst wildfires and heat waves; and defend our natural places",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p5",
+      "topic": "healthcare",
+      "statement": "Wagner says he will protect health care for seniors, low-income families and children and ensure Planned Parenthood provides preventive and reproductive care.",
+      "excerpt": "we must protect health care for Oregonians, including seniors, low-income families, and children; and ensure that Planned Parenthood provides preventive and reproductive health care",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p6",
+      "topic": "economy",
+      "statement": "Wagner says Oregon must invest in education, infrastructure, public safety, jobs and economic development.",
+      "excerpt": "We must invest in Oregon: education, infrastructure, public safety, jobs, and economic development",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
     "No sponsored-bill or roll-call items collected (phase 1: official page lists none)",
     "No sourced positions on housing, education, environment beyond pamphlet"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "pending script extract"
+      "query_or_url": "SOS state voters pamphlet extract rob-wagner.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 41)"
     },
     {
       "step": "2",
@@ -69,8 +159,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
-      "result": "not found"
+      "query_or_url": "campaign website http://RobWagnerForOregon.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -98,6 +188,6 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent (incumbent true). Official page does not state party. Pamphlet Book13 p.43 / Book14 p.41 (pending).",
+  "collection_notes": "Inventory consistent (incumbent true). Official page does not state party. Pamphlet Book13 p.43 / Book14 p.41 (pending). Pamphlet statement: SOS Clackamas edition p. 41 (same text in other editions).",
   "incumbent_source_url": "https://www.oregonlegislature.gov/wagner/Pages/default.aspx"
 }

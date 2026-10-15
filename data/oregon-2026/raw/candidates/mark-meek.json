@@ -5,8 +5,8 @@
   "party": "Democrat",
   "incumbent": true,
   "occupation": "Small business owner; State Senator",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.VoteMarkMeek.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
   "bio": [
     {
       "id": "mark-meek-b1",
@@ -16,6 +16,45 @@
       "source": {
         "url": "https://www.oregonlegislature.gov/meek/Pages/biography.aspx",
         "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-b2",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Meek lists his occupation as small business owner and state senator, and owner of Avid Real Estate Executives, LLC.",
+      "excerpt": "Occupation: Small Business Owner; State Senator Occupational Background: Owner, Avid Real Estate Executives, LLC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-b3",
+      "topic": "custom:background",
+      "statement": "Meek lists a B.S. in management/CIS from Park College.",
+      "excerpt": "Educational Background: B.S. Management/CIS – Park College",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-b4",
+      "topic": "custom:background",
+      "statement": "Meek lists the Oregon House, Clackamas County Planning Commission and Economic Development Commission, and U.S. Air Force service as a staff sergeant, 1983-1990.",
+      "excerpt": "Prior Governmental Experience: Oregon House of Representatives; Clackamas County Planning Commission; Clackamas County Economic Development Commission Military Experience: Staff Sergeant (Security Police), U.S. Air Force (1983-1990)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
         "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
@@ -35,11 +74,62 @@
         "published_at": "2025-07-01",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "mark-meek-p2",
+      "topic": "economy",
+      "statement": "A supporter quoted in Meek's statement says he will lower costs and make life more affordable.",
+      "excerpt": "lower costs and make life more affordable",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-p3",
+      "topic": "transportation",
+      "statement": "Meek's statement quotes a supporter crediting him with stopping tolling on I-205.",
+      "excerpt": "Mark stopped tolling on I-205, saving families thousands of dollars each year.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-p4",
+      "topic": "healthcare",
+      "statement": "Meek's statement says he believes high-quality, affordable healthcare should be available to everyone.",
+      "excerpt": "Mark believes high-quality, affordable healthcare should be available to everyone.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-p5",
+      "topic": "education",
+      "statement": "A parent quoted in Meek's statement says he will improve schools, raise graduation rates and keep families safe.",
+      "excerpt": "Mark Meek is the only candidate I trust to improve schools, raise graduation rates, and keep our families safe.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
     "No sponsored-bill or roll-call items collected (phase 1)",
     "Official biography page lists no committees",
     "2026 campaign-period positions not found"
@@ -47,8 +137,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "pending script extract"
+      "query_or_url": "SOS state voters pamphlet extract mark-meek.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 42)"
     },
     {
       "step": "2",
@@ -57,8 +147,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.VoteMarkMeek.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -86,6 +176,6 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent (incumbent true). Pamphlet Book14 p.42 (pending). Press covers 2025 dispute with Senate President Wagner over transportation bill (OPB/WW headlines only; not collected).",
+  "collection_notes": "Inventory consistent (incumbent true). Pamphlet Book14 p.42 (pending). Press covers 2025 dispute with Senate President Wagner over transportation bill (OPB/WW headlines only; not collected). Pamphlet statement: SOS Clackamas edition p. 42 (same text in other editions).",
   "incumbent_source_url": "https://www.oregonlegislature.gov/meek/Pages/biography.aspx"
 }

@@ -12,18 +12,18 @@
   "positions": [],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "No bio found in any source searched",
     "No public positions found",
     "Capital Chronicle 2026 primary voter guide: no page found for this district (HD35 and HD38 pages only; other districts' guide pages could not be fetched)",
     "Not an officeholder: no voting record",
-    "No campaign website verified"
+    "No campaign website verified",
+    "Voters' pamphlet statement: none filed (name marked with an asterisk, 'Candidate chose not to submit a voters' pamphlet statement', in the SOS pamphlet candidate list)"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet candidate list (page 26/27 of the county editions): https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+      "result": "not found (no statement filed)"
     },
     {
       "step": "2",

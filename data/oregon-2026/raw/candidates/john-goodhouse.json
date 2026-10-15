@@ -1,0 +1,155 @@
+{
+  "id": "john-goodhouse",
+  "name": "John Goodhouse",
+  "race_id": "tigard-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Independent Insurance Broker, Owner",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "john-goodhouse-b1",
+      "topic": "custom:background",
+      "statement": "Goodhouse's pamphlet statement lists past Tigard City Council president, Planning Commission and Chamber of Commerce government and public policy service.",
+      "excerpt": "Prior Governmental Experience: Tigard City Council, Past Council President; Tigard Planning Commission; Tigard Chamber of Commerce Government & Public Policy",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "john-goodhouse-b2",
+      "topic": "custom:background",
+      "statement": "He lists his occupation as independent insurance broker and owner, with a background as a downtown Tigard small business owner.",
+      "excerpt": "Occupation: Independent Insurance Broker, Owner Occupational Background: Small Business Owner, Downtown Tigard",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "john-goodhouse-b3",
+      "topic": "custom:background",
+      "statement": "The pamphlet lists committee appointments including the National League of Cities Transportation Committee and chair of the Willamette River Water Coalition board.",
+      "excerpt": "Committee Appointments: National League of Cities Transportation Committee; Board Chair-Willamette River Water Coalition",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "john-goodhouse-p1",
+      "topic": "local-business",
+      "statement": "Goodhouse's pamphlet statement lists supporting new and existing businesses in Tigard as a priority.",
+      "excerpt": "-Support New and Existing businesses in Tigard",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "john-goodhouse-p2",
+      "topic": "public-safety",
+      "statement": "His pamphlet statement lists supporting the Police Department to make the community safer.",
+      "excerpt": "-Supporting our Police Department to make our community a safer place to live, get around and raise our families",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "john-goodhouse-p3",
+      "topic": "housing",
+      "statement": "His pamphlet statement lists working with builders and city planning to lower housing costs by streamlining the building process.",
+      "excerpt": "-Work with builders and city planning to make the cost of housing more affordable to streamline the process of building homes",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "john-goodhouse-p4",
+      "topic": "transportation",
+      "statement": "His pamphlet statement lists improving transportation, including sidewalks, bike lanes, trails and traffic congestion.",
+      "excerpt": "-Improve transportation throughout Tigard, from sidewalks, bike lanes, trails connecting neighborhoods and traffic congestion",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign website not identified; pamphlet directs to a Facebook page (social media not cited)",
+    "No public position found on taxes or budget",
+    "No Pamplin (Tigard Times) 2026 candidate Q&A readable (pamplinmedia.com blocks automated fetch)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (extract john-goodhouse.txt)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder (not listed on https://www.tigard-or.gov/your-government/council/meet-the-council)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: pamphlet links only a Facebook page (excluded)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"John Goodhouse\" Tigard City Council 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"John Goodhouse\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (Ballotpedia hit is a 2012 House candidate, Tigard link not stated)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"John Goodhouse\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (no results)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"John Goodhouse\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (older Pamplin Tigard council stories; blocked)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "Pamplin Tigard Times 2026 council candidate articles (pamplinmedia.com blocks automated fetch)",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Pamphlet states prior (past) Tigard City Council service; no official page lists him as current councilor; incumbent null. Pamphlet spelled name 'John Goodhouse' (name occupies two lines)."
+}

@@ -1,0 +1,130 @@
+{
+  "id": "melody-axe",
+  "name": "Melody Axe",
+  "race_id": "north-plains-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Direct Support Specialist for people with persistent mental illness",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "melody-axe-b1",
+      "topic": "custom:background",
+      "statement": "Axe's pamphlet statement lists prior experience on Washington County's Partnership for Student Success Leadership Council, Children's System of Care Advisory Committee and Mental Health Quality Assurance Committee.",
+      "excerpt": "Prior Governmental Experience: Washington County Partnership for Student Success Leadership Council Washington County Children’s System of Care Advisory Committee Washington County Mental Health Quality Assurance Committee",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "melody-axe-b2",
+      "topic": "custom:background",
+      "statement": "The pamphlet lists her background as family advocate, programs manager at NAMI Washington County and Department of Human Services human services specialist.",
+      "excerpt": "Occupational Background: Community Action: Family Advocate throughout local and statewide systems National Alliance For Mental Illness Washington County: Programs Manager",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "melody-axe-p1",
+      "topic": "economy",
+      "statement": "Axe's pamphlet statement supports reasonable, intentional growth that does not sacrifice what makes North Plains special.",
+      "excerpt": "I believe reasonable, intentional growth should help North Plains thrive without sacrificing what makes it special.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "melody-axe-p2",
+      "topic": "agriculture",
+      "statement": "Her pamphlet statement calls protecting surrounding farmland, natural beauty and local businesses essential.",
+      "excerpt": "Protecting surrounding farmland is essential, as are our natural beauty, local businesses, and sense of community.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "melody-axe-p3",
+      "topic": "custom:governance",
+      "statement": "Her pamphlet statement says her decisions will be rooted in community engagement and that she will work for residents rather than outside land speculators and developers.",
+      "excerpt": "I pledge to work for you, not for outside land speculators and developers.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-25)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No public position found on data centers beyond growth statements",
+    "No public position found on public safety or housing",
+    "No Pamplin/Hillsboro News-Times 2026 candidate Q&A found",
+    "No campaign website identified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (extract melody-axe.txt)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: no official North Plains roster page could be fetched (city site robots-disallowed; search surfaced no .gov roster)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked from pamphlet (pamphlet links only friendsofsmartgrowth.org, an endorsing group)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Melody Axe\" North Plains City Council 2026",
+      "result": "nothing relevant (OPB/KPTV Aug 2026 North Plains stories do not name this candidate)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Melody Axe\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Melody Axe\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Melody Axe\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "OPB 2026-08-26 Think Out Loud article; KPTV 2026-08-22; Hillsboro News-Times tag page; Portland Mercury growth article (none name the candidate)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Pamphlet endorsement list not used. Incumbent null."
+}

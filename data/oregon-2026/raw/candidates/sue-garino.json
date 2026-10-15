@@ -1,0 +1,154 @@
+{
+  "id": "sue-garino",
+  "name": "Sue Garino",
+  "race_id": "tigard-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Retired Public Servant",
+  "website_url": "https://www.suefortigard.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (pamphlet p. WC-36 prints www.suefortigard.com)",
+  "bio": [
+    {
+      "id": "sue-garino-b1",
+      "topic": "custom:background",
+      "statement": "Garino's pamphlet statement lists her occupation as retired public servant and notes an executive board role with the Tigard Police Officers' Association.",
+      "excerpt": "Occupation: Retired Public Servant Occupational Background: Executive Board Member, Tigard Police Officers’ Association; Tigard Police Department",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sue-garino-b2",
+      "topic": "custom:background",
+      "statement": "The pamphlet lists her prior government experience as Tigard Police Department property and evidence specialist, community service officer and records specialist.",
+      "excerpt": "Property & Evidence Specialist; Community Service Officer; Records Specialist",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sue-garino-b3",
+      "topic": "custom:background",
+      "statement": "Her campaign website says she has called Tigard home for more than a decade.",
+      "excerpt": "Sue Garino has called Tigard home for more than a decade",
+      "source": {
+        "url": "https://www.suefortigard.com/",
+        "publisher": "Sue Garino campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "sue-garino-p1",
+      "topic": "taxes",
+      "statement": "Garino's pamphlet statement lists limiting growth of taxes, fees and spending, focusing on essential services and requiring measurable results from new spending.",
+      "excerpt": "Limit the growth of taxes, fees, and spending. Focus taxpayer dollars on essential services. Stop using one-time money for ongoing programs. Require measurable results from new spending.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sue-garino-p2",
+      "topic": "public-safety",
+      "statement": "Her pamphlet statement lists prioritizing emergency services and responders and maintaining streets, parks, infrastructure and clean water access.",
+      "excerpt": "Strengthen essential city services. Prioritize emergency services and responders. Maintain streets, parks, and infrastructure. Ensure reliable access to clean water.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sue-garino-p3",
+      "topic": "custom:city-services",
+      "statement": "Her pamphlet statement lists streamlining city processes and improving customer service so residents get a prompt answer or follow-up.",
+      "excerpt": "Make City Hall work for residents. Streamline city processes. Improve customer service.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sue-garino-p4",
+      "topic": "social-services",
+      "statement": "Her pamphlet statement lists promoting accessible housing and transportation options for aging residents and protecting the senior center.",
+      "excerpt": "Advocate for Tigard’s aging residents. Promote accessible housing and transportation options. Protect our senior center.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No public position found on housing supply or zoning beyond senior accessibility",
+    "No Pamplin (Tigard Times) 2026 candidate Q&A readable (pamplinmedia.com blocks automated fetch)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (extract sue-garino.txt)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder (not listed on https://www.tigard-or.gov/your-government/council/meet-the-council)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.suefortigard.com (homepage, about; no issues subpage links; domain printed in pamphlet p. WC-36)",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Sue Garino\" Tigard City Council 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sue Garino\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (no results)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sue Garino\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (unrelated KOIN video)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sue Garino\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (unrelated vote411 results)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "Pamplin Tigard Times 2026 council candidate articles (pamplinmedia.com blocks automated fetch)",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Not on current council roster; incumbent null. Garino's website links Instagram/Facebook pages (social media not cited). Pamphlet endorsements (police and firefighter unions) not used."
+}

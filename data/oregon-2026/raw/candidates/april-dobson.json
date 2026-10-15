@@ -6,8 +6,8 @@
   "incumbent": true,
   "incumbent_source_url": "https://www.oregonlegislature.gov/dobson/Pages/biography.aspx",
   "occupation": "State Representative; nonprofit professional; North Clackamas School Board member",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.aprildobson.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
   "bio": [
     {
       "id": "april-dobson-b1",
@@ -34,6 +34,45 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "april-dobson-b3",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Dobson lists her occupation as state representative, with a background in nonprofit program management.",
+      "excerpt": "Occupation: State Representative and Mom Occupational Background: Non-profit Program Management",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-b4",
+      "topic": "custom:background",
+      "statement": "Dobson lists Scappoose High School and a B.A. from the University of Oregon.",
+      "excerpt": "Educational Background: Scappoose High School; B.A., University of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-b5",
+      "topic": "custom:background",
+      "statement": "Dobson lists the North Clackamas School Board.",
+      "excerpt": "Prior Governmental Experience: North Clackamas School Board",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "positions": [
@@ -49,11 +88,88 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "april-dobson-p2",
+      "topic": "taxes",
+      "statement": "Dobson says she is focused on reducing taxes for working families and stopping tolling in Clackamas County.",
+      "excerpt": "Reducing taxes for working families and stopping tolling in Clackamas County.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-p3",
+      "topic": "technology",
+      "statement": "Dobson says she is focused on lowering energy bills by making data centers pay their fair share for power.",
+      "excerpt": "Lowering energy bills by making data centers pay their fair share for the power they use.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-p4",
+      "topic": "housing",
+      "statement": "Dobson says she is focused on putting homeownership in reach of young families and stopping private equity from buying homes before Oregonians can make an offer.",
+      "excerpt": "Putting homeownership in reach of young families and stopping private equity from buying homes before Oregonians have a chance to make an offer.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-p5",
+      "topic": "healthcare",
+      "statement": "Dobson says she is focused on protecting access to healthcare and defending fundamental rights.",
+      "excerpt": "Protecting access to healthcare and defending our fundamental rights.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-p6",
+      "topic": "local-business",
+      "statement": "Dobson says she is focused on cutting red tape for businesses and offering targeted relief for small businesses affected by tariffs.",
+      "excerpt": "Cutting red tape for Oregon businesses and offering targeted relief for small-businesses impacted by tariffs.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-p7",
+      "topic": "education",
+      "statement": "Dobson says she is focused on higher standards for public schools and more time in class.",
+      "excerpt": "Higher standards for public schools and more time in class so students can succeed.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "Position found is from a 2024 survey; no 2026 statement found (unopposed; no Capital Chronicle guide page)",
     "No voting or sponsorship items surfaced in steps 2-5",
     "No campaign website verified"
@@ -61,8 +177,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract april-dobson.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 49)"
     },
     {
       "step": "2",
@@ -71,8 +187,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.aprildobson.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -105,5 +221,5 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Incumbency per oregonlegislature.gov biography (first term). Inventory lists unopposed with nominating parties Democrat, Republican, Independent; not checked. Matches inventory."
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (first term). Inventory lists unopposed with nominating parties Democrat, Republican, Independent; not checked. Matches inventory. Pamphlet statement: SOS Clackamas edition p. 49 (same text in other editions)."
 }

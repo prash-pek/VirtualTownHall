@@ -5,8 +5,8 @@
   "party": "Democrat",
   "incumbent": null,
   "occupation": null,
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "https://www.SenateDistrict16.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
   "bio": [
     {
       "id": "rachel-armitage-b1",
@@ -20,12 +20,129 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "rachel-armitage-b2",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Armitage lists her occupation as K-12 education, with a background as state senator, program officer at the Oregon Community Foundation, Reed College advancement and early childhood educator.",
+      "excerpt": "Occupation: K-12 Education Occupational Background: State Senator • North Coast Program Officer, Oregon Community Foundation • Reed College Advancement • Early Childhood Educator",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rachel-armitage-b3",
+      "topic": "custom:background",
+      "statement": "Armitage lists a B.A. from the University of Oregon.",
+      "excerpt": "Educational Background: B.A., University of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rachel-armitage-b4",
+      "topic": "custom:background",
+      "statement": "Armitage lists state senator, Columbia County Port budget committee and legislative aide as her prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: State Senator • Columbia County Port Budget Committee • Legislative Aide",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
-  "positions": [],
+  "positions": [
+    {
+      "id": "rachel-armitage-p1",
+      "topic": "economy",
+      "statement": "Armitage says she will fight policies that raise costs for rural working families.",
+      "excerpt": "Fight back against nickel-and-dime policies that raise costs for rural working families",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rachel-armitage-p2",
+      "topic": "local-business",
+      "statement": "Armitage says she will create good-paying jobs and help small businesses thrive.",
+      "excerpt": "Create good-paying jobs and make sure our small businesses thrive",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rachel-armitage-p3",
+      "topic": "gun-policy",
+      "statement": "Armitage says she will defend rights to hunt, farm and fish.",
+      "excerpt": "ALWAYS defend our God-given rights to hunt, farm, and fish!",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rachel-armitage-p4",
+      "topic": "healthcare",
+      "statement": "Armitage cites expanding healthcare for rural veterans as a past result.",
+      "excerpt": "Expanded healthcare for rural veterans",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rachel-armitage-p5",
+      "topic": "social-services",
+      "statement": "Armitage cites funding food banks and senior meal programs as a past result.",
+      "excerpt": "Funded food banks and senior meal programs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rachel-armitage-p6",
+      "topic": "housing",
+      "statement": "A Tillamook County commissioner quoted in Armitage's statement says Armitage can deliver on housing and health care.",
+      "excerpt": "We trust her to deliver on housing and health care because she’s done it before.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
     "No sourced policy positions outside the pamphlet",
     "Did not respond to Oregon Capital Chronicle questionnaire",
     "No official page confirming current or past Senate service fetched",
@@ -34,8 +151,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "pending script extract"
+      "query_or_url": "SOS state voters pamphlet extract rachel-armitage.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 41)"
     },
     {
       "step": "2",
@@ -44,8 +161,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
-      "result": "not found"
+      "query_or_url": "campaign website https://www.SenateDistrict16.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -78,5 +195,5 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Inventory consistent (incumbent false). Armitage was appointed to SD16 in 2022 and is described as a former senator; no 2026 official source fetched, so incumbent left null. Pamphlet Book13 p.41 (pending)."
+  "collection_notes": "Inventory consistent (incumbent false). Armitage was appointed to SD16 in 2022 and is described as a former senator; no 2026 official source fetched, so incumbent left null. Pamphlet Book13 p.41 (pending). Pamphlet statement: SOS Washington edition p. 41 (same text in other editions)."
 }

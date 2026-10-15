@@ -6,8 +6,8 @@
   "incumbent": true,
   "incumbent_source_url": "https://www.oregonlegislature.gov/watanabe",
   "occupation": "State Representative; former nonprofit executive director",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://mariwatanabe.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
   "bio": [
     {
       "id": "mari-watanabe-b1",
@@ -34,12 +34,116 @@
         "published_at": "2025-01-22",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "mari-watanabe-b3",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Watanabe lists her occupation as state representative, with a background in community empowerment and corporate leadership at Nike, the Portland Business Alliance, Partners in Diversity and the Oregon Nikkei Endowment.",
+      "excerpt": "Occupation: State Representative Occupational Background: Community Empowerment and Corporate Leadership, Nike, Inc.; Portland Business Alliance, Partners in Diversity, Oregon Nikkei Endowment",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mari-watanabe-b4",
+      "topic": "custom:background",
+      "statement": "Watanabe lists a BA from Washington State University.",
+      "excerpt": "Educational Background: BA, Washington State University",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mari-watanabe-b5",
+      "topic": "custom:background",
+      "statement": "Watanabe lists the Portland Community College Board and the Oregon Commission on Asian and Pacific Islander Affairs.",
+      "excerpt": "Prior Governmental Experience: Portland Community College Board; Oregon Commission on Asian and Pacific Islander Affairs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
-  "positions": [],
+  "positions": [
+    {
+      "id": "mari-watanabe-p1",
+      "topic": "technology",
+      "statement": "Watanabe cites requiring data centers to pay their fair share of electricity through the POWER Act.",
+      "excerpt": "REQUIRED data centers to pay their fair share of electricity through the POWER ACT",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mari-watanabe-p2",
+      "topic": "veterans",
+      "statement": "Watanabe cites strengthening support for veterans.",
+      "excerpt": "STRENGTHENED support for veterans",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mari-watanabe-p3",
+      "topic": "immigration",
+      "statement": "Watanabe cites cutting red tape for highly skilled immigrants and refugees to get certified and work in Oregon.",
+      "excerpt": "CUT RED TAPE for highly skilled immigrants and refugees with advanced degrees to get certified and start working in Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mari-watanabe-p4",
+      "topic": "economy",
+      "statement": "Watanabe cites providing long-term funding for BOLI to investigate wage theft and civil rights violations.",
+      "excerpt": "PROVIDED long term funding for BOLI to conduct wage theft and civil rights violations",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mari-watanabe-p5",
+      "topic": "healthcare",
+      "statement": "Watanabe cites reducing prescription drug costs.",
+      "excerpt": "REDUCED medical prescription costs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "No public policy positions found (Ballotpedia lists none; no Capital Chronicle HD34 guide page; her official page lacks a bio and committee detail)",
     "No voting or sponsorship items surfaced in steps 2-5",
     "No campaign website verified"
@@ -47,8 +151,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract mari-watanabe.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 54)"
     },
     {
       "step": "2",
@@ -57,8 +161,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
-      "result": "not found"
+      "query_or_url": "campaign website http://mariwatanabe.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -96,5 +200,5 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Incumbency per oregonlegislature.gov/watanabe (Representative, District 34). Appointed January 2025. Matches inventory."
+  "collection_notes": "Incumbency per oregonlegislature.gov/watanabe (Representative, District 34). Appointed January 2025. Matches inventory. Pamphlet statement: SOS Washington edition p. 54 (same text in other editions)."
 }

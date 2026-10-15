@@ -33,20 +33,111 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "bob-niemeyer-b3",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Niemeyer lists his occupation as engineer and president of New Ventures Engineering.",
+      "excerpt": "Occupation: Engineer Occupational Background: President New Ventures Engineering",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "bob-niemeyer-b4",
+      "topic": "custom:background",
+      "statement": "Niemeyer lists a BS in mechanical engineering from Oregon State University and registered professional engineer status.",
+      "excerpt": "Educational Background: BS Mecahnical Engineering Oregon State University, Registered Professional Engineer",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "bob-niemeyer-b5",
+      "topic": "custom:background",
+      "statement": "Niemeyer lists mentoring the Tigard High School First Robotics program as his prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Mentor Tigard HS First Robotics Program",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
-  "positions": [],
+  "positions": [
+    {
+      "id": "bob-niemeyer-p1",
+      "topic": "civil-rights",
+      "statement": "Niemeyer says in-person voting with photo ID is the only way to get government to listen to citizens again.",
+      "excerpt": "The only way to get our government to listen to American Citizens again is in-person voting with photo ID.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "bob-niemeyer-p2",
+      "topic": "transportation",
+      "statement": "Niemeyer says toll roads are an example of government not listening to people, and that tolls are only necessary to fund government.",
+      "excerpt": "Toll roads are the next example of NOT listening to the People because tolls are only necessary to fund government, not our roads.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "bob-niemeyer-p3",
+      "topic": "housing",
+      "statement": "Niemeyer says state fees, taxes and regulations on new housing construction amount to deficit spending.",
+      "excerpt": "Our government has also found ways to “deficit-spend” with fees, taxes, and regulations on all new construction of housing.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "bob-niemeyer-p4",
+      "topic": "taxes",
+      "statement": "Niemeyer cites the successful effort to stop the gas tax as evidence that government is not listening to people.",
+      "excerpt": "We ALL know how we successfully stopped the Gas Tax.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
   "voting_record": [],
   "gaps": [
-    "Pamphlet statement: pending script extract",
     "No 2026 policy positions found; Ballotpedia lists none for 2026 and he did not complete its 2026 survey",
     "No campaign website found"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract bob-niemeyer.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 44)"
     },
     {
       "step": "2",
@@ -84,5 +175,5 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Challenger. Same Ballotpedia page shows a 2016 governor campaign (not used; different office). Incumbent null: no official source consulted stating non-incumbency. Not found in a Capital Chronicle guide. Search (b) returned only Bob's Red Mill results."
+  "collection_notes": "Challenger. Same Ballotpedia page shows a 2016 governor campaign (not used; different office). Incumbent null: no official source consulted stating non-incumbency. Not found in a Capital Chronicle guide. Search (b) returned only Bob's Red Mill results. Pamphlet statement: SOS Washington edition p. 44 (same text in other editions)."
 }

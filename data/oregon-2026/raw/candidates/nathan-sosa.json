@@ -6,8 +6,8 @@
   "incumbent": true,
   "incumbent_source_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
   "occupation": "Attorney",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.nathansosa.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
   "bio": [
     {
       "id": "nathan-sosa-b1",
@@ -47,6 +47,32 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "nathan-sosa-b4",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Sosa lists his occupation as state representative, small business owner and attorney.",
+      "excerpt": "Occupation: State Representative, Small Business Owner, Attorney Occupational Background: Attorney",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-b5",
+      "topic": "custom:background",
+      "statement": "Sosa lists a law degree and a bachelor's degree in history from UNLV.",
+      "excerpt": "Educational Background: Law degree and bachelor’s degree in history, UNLV",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "positions": [
@@ -62,19 +88,70 @@
         "published_at": "2025-03-01",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "nathan-sosa-p2",
+      "topic": "economy",
+      "statement": "Sosa says he has championed bills on affordability for consumer loans and utility rates, and wants to continue with auto and home insurance and retail pricing.",
+      "excerpt": "I have championed bills on affordability for consumer loans and utility rates. Now I want to continue this work on affordability for auto / home insurance and retail pricing.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p3",
+      "topic": "economy",
+      "statement": "Sosa says he has devoted his career to consumer protection and wants to hold insurance companies accountable and stop crypto scams.",
+      "excerpt": "I have devoted my career to consumer protection. Now I want to stop crypto scams and hold insurance companies accountable if they treat people unfairly.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p4",
+      "topic": "housing",
+      "statement": "Sosa says his family has experienced ever-rising rents and that he wants to protect people from needless eviction lawsuits.",
+      "excerpt": "My family has experienced the burden of ever-rising rents and the feeling that home ownership is out of reach. Now I want to protect people from needless eviction lawsuits.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p5",
+      "topic": "local-business",
+      "statement": "Sosa says he is a small business owner and wants to cut regulatory red tape so small businesses can grow.",
+      "excerpt": "I am a small business owner and spent years as a volunteer ambassador with the Washington County Chamber. Now I want to cut regulatory red tape to make it easier for small businesses to grow and thrive.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Pamphlet statement: pending script extract",
     "Few sourced positions: campaign site nathansosa.com (policy priorities) not usable because the domain is not linked from an official page or T3 source consulted",
     "Voting record not collected (phase 1 scope)"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract nathan-sosa.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 51)"
     },
     {
       "step": "2",
@@ -88,8 +165,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "https://nathansosa.com/",
-      "result": "blocked"
+      "query_or_url": "campaign website http://www.nathansosa.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "6",
@@ -122,5 +199,5 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Incumbent per House roster (appointed to the seat per Banks Post/Washington County; appointment details not itemized). Inventory consistent. nathansosa.com content was fetched (T2) but its domain is only evidenced via an email address on Ballotpedia, so website_url left null; a reviewer may add it if verified. KATU article's HB 2561 date is the article date 2025-03-01; it does not state sponsorship."
+  "collection_notes": "Incumbent per House roster (appointed to the seat per Banks Post/Washington County; appointment details not itemized). Inventory consistent. nathansosa.com content was fetched (T2) but its domain is only evidenced via an email address on Ballotpedia, so website_url left null; a reviewer may add it if verified. KATU article's HB 2561 date is the article date 2025-03-01; it does not state sponsorship. Pamphlet statement: SOS Washington edition p. 51 (same text in other editions)."
 }

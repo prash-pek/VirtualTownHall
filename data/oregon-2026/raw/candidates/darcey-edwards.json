@@ -6,14 +6,14 @@
   "incumbent": true,
   "incumbent_source_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
   "occupation": "Real estate agency owner",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.DarceyForOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
   "bio": [
     {
       "id": "darcey-edwards-b1",
       "topic": "custom:background",
       "statement": "Her official page says she represents residents of Columbia County and parts of Multnomah, Washington and Yamhill counties.",
-      "excerpt": "It\u2019s an honor to serve and represent the people of Columbia County and parts of Multnomah, Washington, and Yamhill Counties",
+      "excerpt": "It’s an honor to serve and represent the people of Columbia County and parts of Multnomah, Washington, and Yamhill Counties",
       "source": {
         "url": "https://www.oregonlegislature.gov/edwards",
         "publisher": "Oregon Legislature",
@@ -34,9 +34,101 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "darcey-edwards-b3",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Edwards lists her occupation as state representative, small business owner and principal broker, with a background in housing, economic development and chamber of commerce work.",
+      "excerpt": "Occupation: State Representative; Small business owner; Principal Broker, Edwards Realty Trust Occupational Background: Housing, Economic development, Chamber of Commerce",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "darcey-edwards-b4",
+      "topic": "custom:background",
+      "statement": "Edwards lists Banks High School as her education and state representative as her prior governmental experience.",
+      "excerpt": "Educational Background: Banks High School Prior Governmental Experience: State Representative",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
-  "positions": [],
+  "positions": [
+    {
+      "id": "darcey-edwards-p1",
+      "topic": "public-safety",
+      "statement": "Edwards cites helping pass legislation to protect students and law enforcement from false emergency reports.",
+      "excerpt": "helped pass legislation that will protect students and law enforcement from dangerous false emergency reports",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "darcey-edwards-p2",
+      "topic": "technology",
+      "statement": "Edwards cites helping pass a ban on AI tools from hostile foreign companies on state systems.",
+      "excerpt": "ban AI tools from hostile foreign companies on state systems",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "darcey-edwards-p3",
+      "topic": "housing",
+      "statement": "Edwards cites helping cut red tape so families can rebuild homes lost to disasters more quickly.",
+      "excerpt": "cut unnecessary red tape so families can rebuild homes lost to disasters more quickly",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "darcey-edwards-p4",
+      "topic": "agriculture",
+      "statement": "Edwards cites passing a law helping family forestland owners keep land across generations, and says she will defend farming, timber, hunting and fishing.",
+      "excerpt": "I also passed a law helping family forestland owners keep their land across generations instead of being forced to sell to pay estate taxes",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "darcey-edwards-p5",
+      "topic": "public-safety",
+      "statement": "Edwards cites helping secure funding for local services including the Banks Fire District and the Amani Center.",
+      "excerpt": "Delivering Where It Counts. I helped secure funding for important local services like the Banks Fire District",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
   "voting_record": [
     {
       "id": "darcey-edwards-v1",
@@ -79,7 +171,6 @@
     }
   ],
   "gaps": [
-    "Pamphlet statement: pending script extract",
     "No sourced position statements: campaign site darceyfororegon.com found in search but not linked from her official page or a T3 source, so not used",
     "Whether she chief-sponsored the listed bills is not stated; items are 'key work' she highlights",
     "No 2026 questionnaire (Capital Chronicle guide covers only the Democratic primary)"
@@ -87,8 +178,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract darcey-edwards.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 52)"
     },
     {
       "step": "2",
@@ -107,8 +198,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "https://www.darceyfororegon.com/about-darcey",
-      "result": "blocked"
+      "query_or_url": "campaign website http://www.DarceyForOregon.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "6",
@@ -146,5 +237,5 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Incumbent per House roster. Inventory consistent. Bulletin date in header reads March 6, 2024 (typo) but sent 2026-03-06. Campaign site candidate darceyfororegon.com left null/unverified. Her official bio page lists committees (Behavioral Health vice chair, Climate Energy & Environment, Housing & Homelessness) - not itemized for lack of exact excerpts."
+  "collection_notes": "Incumbent per House roster. Inventory consistent. Bulletin date in header reads March 6, 2024 (typo) but sent 2026-03-06. Campaign site candidate darceyfororegon.com left null/unverified. Her official bio page lists committees (Behavioral Health vice chair, Climate Energy & Environment, Housing & Homelessness) - not itemized for lack of exact excerpts. Pamphlet statement: SOS Washington edition p. 52 (same text in other editions)."
 }

@@ -6,8 +6,8 @@
   "incumbent": true,
   "incumbent_source_url": "https://www.oregonlegislature.gov/walters/Pages/biography.aspx",
   "occupation": "State Representative; former mayor of West Linn",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.votejules.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
   "bio": [
     {
       "id": "jules-walters-b1",
@@ -34,6 +34,45 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "jules-walters-b3",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Walters lists her occupation as state representative for House District 37, with a background as a small business owner.",
+      "excerpt": "Occupation: State Representative, HD 37 Occupational Background: Small business owner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-b4",
+      "topic": "custom:background",
+      "statement": "Walters lists the University of San Francisco and the University of Oregon.",
+      "excerpt": "Educational Background: University of San Francisco, University of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-b5",
+      "topic": "custom:background",
+      "statement": "Walters lists West Linn city councilor and mayor, and state representative for House District 37.",
+      "excerpt": "Prior Governmental Experience: City Councilor and Mayor, City of West Linn; State Representative HD 37",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "positions": [
@@ -47,6 +86,58 @@
         "publisher": "Portland Tribune (The Lund Report)",
         "tier": "T3",
         "published_at": "2025-03-13",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-p2",
+      "topic": "civil-rights",
+      "statement": "Walters lists protecting the LGBTQ+ community, upholding immigrant and BIPOC rights and defending women's reproductive care among her values.",
+      "excerpt": "Protecting the LGBTQ+ community • Upholding Immigrant and BIPOC rights • Defending Women’s Reproductive Care",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-p3",
+      "topic": "education",
+      "statement": "Walters says she is working to make Oregon's schools safer and more accountable.",
+      "excerpt": "Making Oregon’s schools safer and more accountable.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-p4",
+      "topic": "social-services",
+      "statement": "Walters says as chair of the Early Childhood Committee her top priority is early learning and affordable childcare for all Oregonians.",
+      "excerpt": "As Chair of the Early Childhood Committee, her top priority is making early learning and quality, affordable childcare available for all Oregonians.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-p5",
+      "topic": "taxes",
+      "statement": "Walters says she is working to make taxes fair and affordable as leader of the Measures 5/50 Study Group.",
+      "excerpt": "Working to make our taxes fair and affordable as leader of the Measures 5/50 Study Group.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
         "retrieved_at": "2026-10-15"
       }
     }
@@ -67,7 +158,6 @@
     }
   ],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "No 2026 policy statements found (Ballotpedia campaign themes empty; no Capital Chronicle HD37 guide page)",
     "No roll-call votes collected (phase 1 scope)",
     "No campaign website verified"
@@ -75,8 +165,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract jules-walters.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 48)"
     },
     {
       "step": "2",
@@ -85,8 +175,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.votejules.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -124,5 +214,5 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Incumbency per oregonlegislature.gov biography (started in the legislature in 2023). Matches inventory."
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (started in the legislature in 2023). Matches inventory. Pamphlet statement: SOS Clackamas edition p. 48 (same text in other editions)."
 }

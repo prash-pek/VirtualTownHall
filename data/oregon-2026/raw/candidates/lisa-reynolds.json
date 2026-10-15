@@ -5,8 +5,8 @@
   "party": "Democrat",
   "incumbent": true,
   "occupation": "Pediatrician; State Senator",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.LisaForOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
   "bio": [
     {
       "id": "lisa-reynolds-b1",
@@ -29,6 +29,45 @@
       "source": {
         "url": "https://www.oregonlegislature.gov/reynolds/Pages/default.aspx",
         "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-b3",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Reynolds lists her occupation as pediatrician and state senator, with The Children's Clinic since 1995, state representative 2021-2024 and state senator since 2024.",
+      "excerpt": "Occupation: Pediatrician, State Senator Occupational Background: The Children’s Clinic, 1995-present; Oregon State Representative, 2021-2024; Oregon State Senator, 2024-present.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-b4",
+      "topic": "custom:background",
+      "statement": "Reynolds lists a BA from the University of Chicago and an MD from the UCLA School of Medicine.",
+      "excerpt": "Educational Background: University of Chicago, BA; UCLA School of Medicine, MD",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-b5",
+      "topic": "custom:background",
+      "statement": "Reynolds lists legislator and Multnomah County Citizen Budget Advisory Committee as her prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Legislator; Citizen Budget Advisory Committee, Multnomah County",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
         "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
@@ -87,19 +126,96 @@
         "published_at": "2026-08-20",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "lisa-reynolds-p5",
+      "topic": "healthcare",
+      "statement": "Reynolds cites legislation protecting patients, children in schools and people in their homes in response to the Trump administration.",
+      "excerpt": "Responded to the Trump administration with policies that protect patients in hospitals, children in schools, and people in their homes.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p6",
+      "topic": "education",
+      "statement": "Reynolds cites supporting the highest K-12 budget in Oregon history, including early literacy funding.",
+      "excerpt": "Supported the highest K-12 budget expenditure in Oregon history, including funding for early literacy programs.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p7",
+      "topic": "social-services",
+      "statement": "Reynolds cites establishing the Oregon Child Tax Credit and fighting for affordable childcare.",
+      "excerpt": "Established the Oregon Child Tax Credit and fought for affordable childcare.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p8",
+      "topic": "healthcare",
+      "statement": "Reynolds cites championing access to abortion services and protections and funding for providers.",
+      "excerpt": "Championed access to abortion services and bolstered protections and funding for providers.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p9",
+      "topic": "gun-policy",
+      "statement": "Reynolds cites passing gun safety legislation that outlawed bump stocks.",
+      "excerpt": "Passed gun safety legislation, protecting children from gun violence and outlawing bump stocks.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p10",
+      "topic": "healthcare",
+      "statement": "Reynolds cites keeping vaccines widely available in Oregon.",
+      "excerpt": "Kept vaccines widely available in our state in the face of federal threats.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
     "No sponsored-bill or roll-call items collected (phase 1: official page lists none)",
     "Education: no question in questionnaire"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "pending script extract"
+      "query_or_url": "SOS state voters pamphlet extract lisa-reynolds.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 42)"
     },
     {
       "step": "2",
@@ -108,8 +224,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.LisaForOregon.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -142,6 +258,6 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent (incumbent true; page lists Senate District 17). Pamphlet Book13 p.42-43, also Washington Book12 p.42 (pending script extract).",
+  "collection_notes": "Inventory consistent (incumbent true; page lists Senate District 17). Pamphlet Book13 p.42-43, also Washington Book12 p.42 (pending script extract). Pamphlet statement: SOS Washington edition p. 42 (same text in other editions).",
   "incumbent_source_url": "https://www.oregonlegislature.gov/reynolds/Pages/default.aspx"
 }

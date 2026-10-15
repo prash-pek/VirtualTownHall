@@ -1,0 +1,129 @@
+{
+  "id": "anna-warrington",
+  "name": "Anna Warrington",
+  "race_id": "north-plains-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Retired team lead and project manager",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "anna-warrington-b1",
+      "topic": "custom:background",
+      "statement": "Warrington's pamphlet statement lists prior governmental experience as North Plains City Councilor 2026 and calls herself an appointed councilor.",
+      "excerpt": "Prior Governmental Experience: North Plains City Councilor 2026",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-b2",
+      "topic": "custom:background",
+      "statement": "She says she has been a North Plains resident for two decades and is a retired team lead and project manager.",
+      "excerpt": "As a North Plains resident for two decades and a retired Team Lead and Project Manager, I am proud to serve as your appointed City Councilor.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "anna-warrington-p1",
+      "topic": "economy",
+      "statement": "Warrington's pamphlet statement says her focus is on constant, high-quality development over rapid expansion that reflects what residents want.",
+      "excerpt": "My focus is on constant, high-quality development over rapid expansion that reflects what North Plains residents want.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-p2",
+      "topic": "local-business",
+      "statement": "Her pamphlet statement says she is focused on Urban Renewal Agency funding that can help local businesses thrive.",
+      "excerpt": "I’m focused on our Urban Renewal Agency fundings that can help our local businesses thrive.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-p3",
+      "topic": "taxes",
+      "statement": "Her pamphlet statement calls addressing overdue city audits her top priority and says she will keep working on remaining reports until current.",
+      "excerpt": "Addressing overdue audits is our top priority.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No public position found on housing, public safety or data centers",
+    "No Pamplin/Hillsboro News-Times 2026 candidate Q&A found",
+    "No campaign website identified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (extract anna-warrington.txt)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: no official North Plains roster page could be fetched (city site robots-disallowed; search surfaced no .gov roster)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked from pamphlet (pamphlet links only friendsofsmartgrowth.org, an endorsing group)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Anna Warrington\" North Plains City Council 2026",
+      "result": "nothing relevant (OPB/KPTV Aug 2026 North Plains stories do not name this candidate)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Anna Warrington\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Anna Warrington\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Anna Warrington\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "OPB 2026-08-26 Think Out Loud article; KPTV 2026-08-22; Hillsboro News-Times tag page; Portland Mercury growth article (none name the candidate)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Incumbency NOT set: pamphlet says she is an 'appointed City Councilor' (candidate-supplied; no official North Plains roster fetched). Needs official confirmation. Pamphlet endorsement list not used."
+}

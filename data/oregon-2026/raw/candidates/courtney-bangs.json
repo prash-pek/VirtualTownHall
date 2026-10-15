@@ -5,8 +5,8 @@
   "party": "Republican",
   "incumbent": null,
   "occupation": "Clatsop County commissioner",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "https://www.CourtneyBangs.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
   "bio": [
     {
       "id": "courtney-bangs-b1",
@@ -17,6 +17,45 @@
         "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-sd16/",
         "publisher": "Oregon Capital Chronicle",
         "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-bangs-b2",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Bangs lists her occupation as substitute teacher, with a background as an academic director, teacher, dance instructor and agriculture education teacher.",
+      "excerpt": "Occupation: Substitute Teacher Occupational Background: Academic Director; Teacher; Dance Instructor; Agriculture Education Teacher; FFA Advisor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 40",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-bangs-b3",
+      "topic": "custom:background",
+      "statement": "Bangs lists a master's in agriculture education and a bachelor's in animal science from Oregon State University.",
+      "excerpt": "Educational Background: Master's in Agriculture Education & Bachelor's in Animal Science at OSU",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 40",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-bangs-b4",
+      "topic": "custom:background",
+      "statement": "Bangs lists Clatsop County commissioner as her prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Clatsop County Commissioner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 40",
+        "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
@@ -35,11 +74,62 @@
         "published_at": "2025-07-09",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "courtney-bangs-p2",
+      "topic": "public-safety",
+      "statement": "Bangs says she has backed law enforcement.",
+      "excerpt": "I’ve followed through on my promises to back law enforcement",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 40",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-bangs-p3",
+      "topic": "social-services",
+      "statement": "Bangs says she worked to end the childcare desert working families faced.",
+      "excerpt": "end the childcare desert working families faced",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 40",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-bangs-p4",
+      "topic": "taxes",
+      "statement": "Bangs says she worked to stop the $4.3 billion gas tax.",
+      "excerpt": "stop Tina Kotek's $4.3 billion gas tax",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 40",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-bangs-p5",
+      "topic": "housing",
+      "statement": "Bangs says she has pushed back against state regulations that she says slow job creation and housing development.",
+      "excerpt": "While the politicians in Salem have pushed regulations that kill jobs and slow housing development, I've continued to fight back",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 40",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
     "No public position found on housing, health care, taxes beyond pamphlet",
     "Did not respond to Oregon Capital Chronicle questionnaire",
     "Clatsop County official page not fetched",
@@ -48,8 +138,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "pending script extract"
+      "query_or_url": "SOS state voters pamphlet extract courtney-bangs.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 40)"
     },
     {
       "step": "2",
@@ -58,8 +148,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
-      "result": "not found"
+      "query_or_url": "campaign website https://www.CourtneyBangs.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -97,5 +187,5 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Inventory consistent. Pamphlet Multnomah Book13 p.41 (SD16 appears in Multnomah/Washington books; pending script extract). Oct 9 2026 CC article on SD16 could not be fetched."
+  "collection_notes": "Inventory consistent. Pamphlet Multnomah Book13 p.41 (SD16 appears in Multnomah/Washington books; pending script extract). Oct 9 2026 CC article on SD16 could not be fetched. Pamphlet statement: SOS Washington edition p. 40 (same text in other editions)."
 }

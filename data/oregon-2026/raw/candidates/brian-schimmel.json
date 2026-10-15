@@ -20,12 +20,155 @@
         "published_at": "2026-04-16",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "brian-schimmel-b2",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Schimmel lists his occupation as city councilor and small business owner, with a background including a family dairy farm, Intel Corporation, Centro Cultural and nonprofit boards.",
+      "excerpt": "Occupation: City Councilor; Small Business Owner - Capital Project Manager, Asset Management Specialist Occupational Background: Family Dairy Farm; Intel Corporation; Centro Cultural; Non-profit Board Leadership",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brian-schimmel-b3",
+      "topic": "custom:background",
+      "statement": "Schimmel lists a B.S. from Oregon State University and Naval Reserve Officer Training Corps.",
+      "excerpt": "Educational Background: B.S., Oregon State University; Naval Reserve Officer Training Corps.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brian-schimmel-b4",
+      "topic": "custom:background",
+      "statement": "Schimmel lists the Urban Renewal Agency Board, the TV Highway Transit and Safety Project committee, the Economic Development Commission and chairing the Sustainability Commission.",
+      "excerpt": "Prior Governmental Experience: Urban Renewal Agency Board; Tualatin Valley (TV) Highway Transit & Safety Project Policy & Budget Committee (P&B); Economic Development Commission and Chamber of Commerce Board Liaison; Sustainability Commission Chair",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
-  "positions": [],
+  "positions": [
+    {
+      "id": "brian-schimmel-p1",
+      "topic": "education",
+      "statement": "Schimmel lists strong schools with stable funding as a priority.",
+      "excerpt": "Strong schools with stable funding",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brian-schimmel-p2",
+      "topic": "economy",
+      "statement": "Schimmel lists lower costs for working families as a priority.",
+      "excerpt": "Lower costs for working families",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brian-schimmel-p3",
+      "topic": "housing",
+      "statement": "Schimmel lists housing people can afford as a priority.",
+      "excerpt": "Housing people can afford",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brian-schimmel-p4",
+      "topic": "civil-rights",
+      "statement": "Schimmel lists safe and inclusive communities as a priority.",
+      "excerpt": "Safe and inclusive communities",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brian-schimmel-p5",
+      "topic": "local-business",
+      "statement": "Schimmel lists support for local businesses as a priority.",
+      "excerpt": "Support for local businesses",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brian-schimmel-p6",
+      "topic": "transportation",
+      "statement": "Schimmel lists accessible transportation as a priority.",
+      "excerpt": "Accessible transportation",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brian-schimmel-p7",
+      "topic": "infrastructure",
+      "statement": "Schimmel lists resilient infrastructure as a priority.",
+      "excerpt": "Resilient infrastructure",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "brian-schimmel-p8",
+      "topic": "taxes",
+      "statement": "Schimmel lists responsible use of taxpayer dollars as a priority.",
+      "excerpt": "Responsible use of taxpayer dollars",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
   "voting_record": [],
   "gaps": [
-    "Pamphlet statement: pending script extract",
     "No policy positions found",
     "No campaign website found",
     "City of Forest Grove official page not checked for council service"
@@ -33,8 +176,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract brian-schimmel.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 50)"
     },
     {
       "step": "2",
@@ -77,5 +220,5 @@
       "result": "blocked"
     }
   ],
-  "collection_notes": "Challenger; nominated by Independent Party and Republican per inventory. Commentary source (opinion column, Randy Stapilus). A Pamplin 'Amazing Neighbors' piece appeared in search but is robots-blocked."
+  "collection_notes": "Challenger; nominated by Independent Party and Republican per inventory. Commentary source (opinion column, Randy Stapilus). A Pamplin 'Amazing Neighbors' piece appeared in search but is robots-blocked. Pamphlet statement: SOS Washington edition p. 50 (same text in other editions)."
 }

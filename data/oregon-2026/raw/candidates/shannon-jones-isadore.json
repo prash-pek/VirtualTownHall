@@ -34,12 +34,116 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "shannon-jones-isadore-b3",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Isadore lists her occupation as state representative, business owner and CEO, with a background in behavioral health and finance.",
+      "excerpt": "Occupation: State Representative, Business Owner and CEO Occupational Background: Behavioral Health and Finance",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "shannon-jones-isadore-b4",
+      "topic": "custom:background",
+      "statement": "Isadore lists a B.S. in psychology from Clark Atlanta University and a master's in family psychotherapy from Loma Linda University.",
+      "excerpt": "Educational Background: Lincoln High School; Bachelor of Science in Psychology, Clark Atlanta University; Master of Science in Family Psychotherapy, Loma Linda University",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "shannon-jones-isadore-b5",
+      "topic": "custom:background",
+      "statement": "Isadore lists U.S. Marine Corps service and Oregon state representative as her prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: United States Marine Corps, Oregon State Representative",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
-  "positions": [],
+  "positions": [
+    {
+      "id": "shannon-jones-isadore-p1",
+      "topic": "economy",
+      "statement": "Isadore cites securing $10 million for downtown Portland's James Beard Market.",
+      "excerpt": "Secured a generational investment of $10 million in downtown Portland’s James Beard Market",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "shannon-jones-isadore-p2",
+      "topic": "infrastructure",
+      "statement": "Isadore cites passing legislation to prepare Oregon's critical energy infrastructure for emergency response and recovery.",
+      "excerpt": "Passed legislation to prepare Oregon’s Critical Energy Infrastructure for emergency response and damage recovery",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "shannon-jones-isadore-p3",
+      "topic": "housing",
+      "statement": "Isadore cites securing $1.4 million for 23 units of cohousing in St. Johns.",
+      "excerpt": "Secured $1.4 million in funding for 23 units of cohousing in St. John’s",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "shannon-jones-isadore-p4",
+      "topic": "economy",
+      "statement": "Isadore cites passing legislation to fund renovations to the Moda Center so the Blazers remain in Portland.",
+      "excerpt": "Passed legislation to fund major renovations to the MODA Center to support the Blazers remaining in Portland",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "shannon-jones-isadore-p5",
+      "topic": "social-services",
+      "statement": "Isadore cites turning a motel into 37 units of recovery housing.",
+      "excerpt": "Turned a dilapidated motel into 37 units of recovery housing",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "No public policy positions found for 2026 (Ballotpedia campaign themes empty; no Capital Chronicle HD33 guide page)",
     "No voting or sponsorship items surfaced in steps 2-5",
     "No campaign website verified"
@@ -47,8 +151,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract shannon-jones-isadore.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 53)"
     },
     {
       "step": "2",
@@ -96,5 +200,5 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Incumbency per oregonlegislature.gov biography (first-term representative, HD33). Matches inventory. Ballotpedia has no 2026 content and no policy positions. Capital Chronicle HD33 guide page not found."
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (first-term representative, HD33). Matches inventory. Ballotpedia has no 2026 content and no policy positions. Capital Chronicle HD33 guide page not found. Pamphlet statement: SOS Washington edition p. 53 (same text in other editions)."
 }

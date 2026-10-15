@@ -5,15 +5,55 @@
   "party": "Republican",
   "incumbent": null,
   "occupation": null,
-  "website_url": null,
-  "website_verified_via": null,
-  "bio": [],
+  "website_url": "http://VoteStroh.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+  "bio": [
+    {
+      "id": "michele-stroh-b1",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Stroh lists her occupation as childcare provider, with a background in banking.",
+      "excerpt": "Occupation: Childcare Provider Occupational Background: Banking",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michele-stroh-b2",
+      "topic": "custom:background",
+      "statement": "Stroh lists early childhood education as her educational background.",
+      "excerpt": "Educational Background: Early Childhood Education",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michele-stroh-b3",
+      "topic": "custom:background",
+      "statement": "Stroh lists twice-elected Oregon City school board director as her prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Twice Elected- Oregon City School Board Director",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
   "positions": [
     {
       "id": "michele-stroh-p1",
       "topic": "public-safety",
       "statement": "In a December 2023 OPB interview as an Oregon City school board member, Stroh spoke about acting on fentanyl risks before a school incident occurs.",
-      "excerpt": "I don\u2019t want to wait for the first accident to happen in our school before we do something.",
+      "excerpt": "I don’t want to wait for the first accident to happen in our school before we do something.",
       "source": {
         "url": "https://www.opb.org/article/2023/12/20/oregon-city-schools-fentanyl-naloxone/",
         "publisher": "OPB",
@@ -21,11 +61,75 @@
         "published_at": "2023-12-20",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "michele-stroh-p2",
+      "topic": "public-safety",
+      "statement": "Stroh lists public safety as a priority: fully fund law enforcement and restore consequences.",
+      "excerpt": "PUBLIC SAFETY: Fully fund law enforcement; restore real consequences.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michele-stroh-p3",
+      "topic": "education",
+      "statement": "Stroh lists education as a priority: restore academic standards and hold schools accountable for results.",
+      "excerpt": "EDUCATION THAT WORKS: Restore academic standards; hold schools accountable for results.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michele-stroh-p4",
+      "topic": "housing",
+      "statement": "Stroh lists housing as a priority: cut bureaucracy and make homeownership a reality.",
+      "excerpt": "Cut the bureaucracy and make homeownership a reality.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michele-stroh-p5",
+      "topic": "taxes",
+      "statement": "Stroh says it is time Oregon got serious about addiction and recovery.",
+      "excerpt": "NO NEW TAXES: Oregon is among the highest taxed states in the nation. Oregon doesn't have a revenue problem; it has a spending problem.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michele-stroh-p6",
+      "topic": "social-services",
+      "statement": "Stroh says Oregon should take addiction and recovery more seriously, citing her work on school Narcan policy and fentanyl education legislation.",
+      "excerpt": "It's time Oregon got serious about addiction and recovery",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
     "No 2026 campaign-period sourced positions found",
     "The 2023 OPB item predates the campaign",
     "No campaign website confirmed"
@@ -33,8 +137,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "pending script extract"
+      "query_or_url": "SOS state voters pamphlet extract michele-stroh.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 42)"
     },
     {
       "step": "2",
@@ -43,8 +147,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
-      "result": "not found"
+      "query_or_url": "campaign website http://VoteStroh.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -72,5 +176,5 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent. Pamphlet Book14 p.42-43 (pending). Item p1 is from 2023 school-board context."
+  "collection_notes": "Inventory consistent. Pamphlet Book14 p.42-43 (pending). Item p1 is from 2023 school-board context. Pamphlet statement: SOS Clackamas edition p. 42 (same text in other editions)."
 }

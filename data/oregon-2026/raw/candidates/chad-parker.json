@@ -6,13 +6,92 @@
   "incumbent": false,
   "incumbent_source_url": "https://www.oregonlegislature.gov/walters/Pages/biography.aspx",
   "occupation": null,
-  "website_url": null,
-  "website_verified_via": null,
-  "bio": [],
-  "positions": [],
+  "website_url": "http://www.voteforchadparker.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+  "bio": [
+    {
+      "id": "chad-parker-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Parker lists his occupation as small business owner, with a background as president of Haloumi Creative and Always Outdoors and a producer for Nickelodeon Television.",
+      "excerpt": "Occupation: Small Business Owner Occupational Background: President, Haloumi Creative & Always Outdoors; Producer, Nickelodeon Television",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "chad-parker-b2",
+      "topic": "custom:background",
+      "statement": "Parker lists the University of Oregon School of Journalism.",
+      "excerpt": "Educational Background: University of Oregon, School of Journalism",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "chad-parker-b3",
+      "topic": "custom:background",
+      "statement": "Parker lists the Clackamas County Roads Advisory Board, the Clackamas County Parks Advisory Board and River Grove PTO.",
+      "excerpt": "Prior Governmental Experience: Clackamas County Roads Advisory Board; Clackamas County Parks Advisory Board; River Grove PTO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "chad-parker-p1",
+      "topic": "education",
+      "statement": "Parker says he will raise reading proficiency and clear barriers so small businesses can grow.",
+      "excerpt": "Focus on Home: Raise reading proficiency so every child has a real shot, and clear barriers so small businesses can grow.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "chad-parker-p2",
+      "topic": "taxes",
+      "statement": "Parker says he will deliver tax relief for working families and fund roads without new tax increases.",
+      "excerpt": "Put Optimism into Action: Deliver real tax relief for working families, fund reliable roads without new tax increases",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "chad-parker-p3",
+      "topic": "public-safety",
+      "statement": "Parker says he will build trust across the political spectrum, cut the impact of inflation and strengthen public safety.",
+      "excerpt": "Reject Division: Build trust across the political spectrum to cut inflations bite, strengthen public safety",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "No bio found in any source searched",
     "No public positions found",
     "Capital Chronicle 2026 primary voter guide: no page found for this district (HD35 and HD38 pages only; other districts' guide pages could not be fetched)",
@@ -22,8 +101,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract chad-parker.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 48)"
     },
     {
       "step": "2",
@@ -32,8 +111,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.voteforchadparker.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -61,5 +140,5 @@
       "result": "blocked (server error on two attempts)"
     }
   ],
-  "collection_notes": "No usable information. incumbent_source_url is the HD37 incumbent's page. Matches inventory."
+  "collection_notes": "No usable information. incumbent_source_url is the HD37 incumbent's page. Matches inventory. Pamphlet statement: SOS Clackamas edition p. 48 (same text in other editions)."
 }

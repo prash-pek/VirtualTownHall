@@ -6,8 +6,8 @@
   "incumbent": true,
   "incumbent_source_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
   "occupation": "State Representative (former classroom teacher and Metro councilor)",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.SusanMcLain.org",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
   "bio": [
     {
       "id": "susan-mclain-b1",
@@ -44,6 +44,32 @@
         "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-29/",
         "publisher": "Oregon Capital Chronicle",
         "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-b4",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, McLain lists her occupation as retired teacher and state representative, with a background as a Glencoe High School teacher of speech, debate and English.",
+      "excerpt": "Occupation: Retired Teacher, State Representative Occupational Background: Glencoe High School Teacher - Speech, Debate, English",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-b5",
+      "topic": "custom:background",
+      "statement": "McLain lists a B.S. from Oregon College of Education, and prior experience as Metro councilor 1991-2006 and state representative since 2015.",
+      "excerpt": "Educational Background: B.S., Oregon College of Education Prior Governmental Experience: Metro Councilor, 1991-2006, State Representative 2015-present",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
@@ -114,6 +140,71 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "susan-mclain-p6",
+      "topic": "taxes",
+      "statement": "McLain cites expanding the Earned Income Tax Credit to lower taxes for more than 200,000 working families.",
+      "excerpt": "Expanded the Earned Income Tax Credit to lower taxes for 200,000+ working families",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p7",
+      "topic": "technology",
+      "statement": "McLain cites banning data centers from passing energy costs to consumers and protecting farmland.",
+      "excerpt": "Banned data centers from passing energy costs to consumers and protected our world-class farmland",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p8",
+      "topic": "healthcare",
+      "statement": "McLain cites working to cap insulin prices and require insurers to cover additional screenings.",
+      "excerpt": "Worked to cap insulin prices, require insurers to cover additional screenings, and stand up to big pharma",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p9",
+      "topic": "housing",
+      "statement": "McLain cites stopping corporations from competing with Oregonians trying to buy a single-family home.",
+      "excerpt": "Stopped corporations from competing with Oregonians trying to buy a single-family home",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p10",
+      "topic": "education",
+      "statement": "McLain cites championing historic investments in K-12 and higher education.",
+      "excerpt": "Championed historic investments in K-12 and Higher Education, including summer learning",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [
@@ -145,15 +236,14 @@
     }
   ],
   "gaps": [
-    "Pamphlet statement: pending script extract",
     "No public position found on public safety beyond immigration enforcement",
     "Voting items are self-reported in the questionnaire; no roll calls collected (phase 1 scope)"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract susan-mclain.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 50)"
     },
     {
       "step": "2",
@@ -167,8 +257,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.SusanMcLain.org printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "6",
@@ -196,5 +286,5 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Incumbent per House roster. Inventory consistent. Capital Chronicle HD 29 Democratic primary guide (primary opponent Mark Watson) is the main source; guide undated. Official page gave committee roles."
+  "collection_notes": "Incumbent per House roster. Inventory consistent. Capital Chronicle HD 29 Democratic primary guide (primary opponent Mark Watson) is the main source; guide undated. Official page gave committee roles. Pamphlet statement: SOS Washington edition p. 50 (same text in other editions)."
 }

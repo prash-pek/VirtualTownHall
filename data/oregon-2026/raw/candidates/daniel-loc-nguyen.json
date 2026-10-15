@@ -10,8 +10,8 @@
   "incumbent": true,
   "incumbent_source_url": "https://www.oregonlegislature.gov/nguyend/Pages/biography.aspx",
   "occupation": "State Representative; founder and owner of Bambuza Hospitality Group",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.DanielForOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
   "bio": [
     {
       "id": "daniel-loc-nguyen-b1",
@@ -35,6 +35,45 @@
         "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-38/",
         "publisher": "Oregon Capital Chronicle 2026 voter guide (Democratic primary, House District 38)",
         "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-b3",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Nguyen lists his occupation as local business owner and state legislator, with a background as a restaurant owner and worker.",
+      "excerpt": "Occupation: Local Business Owner, State Legislator Occupational Background: Restaurant Owner/Worker",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-b4",
+      "topic": "custom:background",
+      "statement": "Nguyen lists a BA from the University of Puget Sound and an MBA from Marylhurst University.",
+      "excerpt": "Educational Background: BA, University of Puget Sound; MBA, Marylhurst University",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-b5",
+      "topic": "custom:background",
+      "statement": "Nguyen lists state representative, Lake Oswego city councilor, the Oregon Innovation Council and the Oregon Retirement Savings Board.",
+      "excerpt": "Prior Governmental Experience: State Representative, Lake Oswego City Councilor, Oregon Innovation Council, Oregon Retirement Savings Board",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
@@ -79,11 +118,88 @@
         "published_at": "2025-10-02",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "daniel-loc-nguyen-p4",
+      "topic": "economy",
+      "statement": "Nguyen cites leading efforts in 2026 to grow jobs and the economy.",
+      "excerpt": "In 2026 Daniel led efforts to: Grow jobs and our economy",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-p5",
+      "topic": "immigration",
+      "statement": "Nguyen cites leading efforts to strengthen laws protecting Oregonians from ICE.",
+      "excerpt": "Strengthen laws protecting Oregonians from ICE at the door, in hospitals, and on the street",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-p6",
+      "topic": "economy",
+      "statement": "Nguyen cites leading efforts to balance the state budget to protect education and avoid agency cuts.",
+      "excerpt": "Balance the state budget to protect education and avoid agency cuts and mass layoffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-p7",
+      "topic": "housing",
+      "statement": "Nguyen cites leading efforts to stop corporations from driving up housing costs.",
+      "excerpt": "Stop corporations from driving up housing costs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-p8",
+      "topic": "public-safety",
+      "statement": "Nguyen cites leading efforts to streamline behavioral health and invest in public safety.",
+      "excerpt": "Streamline behavioral health and invest in public safety",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-p9",
+      "topic": "healthcare",
+      "statement": "Nguyen cites leading efforts to protect healthcare and reproductive freedom.",
+      "excerpt": "Protect healthcare and reproductive freedom",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "Campaign site danielfororegon.com appeared in search results but its domain is not linked from an official page, pamphlet or T3 source seen, so it was not used or recorded",
     "No voting or sponsorship items surfaced in steps 2-5",
     "Capital Chronicle questionnaire answers were only partly quotable (WebFetch quote cap)"
@@ -91,8 +207,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract daniel-loc-nguyen.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 49)"
     },
     {
       "step": "2",
@@ -101,8 +217,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.DanielForOregon.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -145,5 +261,5 @@
       "result": "used (checked for campaign link: none; only social media links)"
     }
   ],
-  "collection_notes": "Ballot spelling per inventory is 'Daniel Loc Nguyen'; Capital Chronicle uses 'Daniel Nguyễn'; official page 'Daniel Nguyen'. Fetched danielfororegon.com (news, priorities, about) but did not cite it because step 3 requires the domain to be linked from the pamphlet, ORESTAR, an official page or a T3 article; the pamphlet statement may confirm it, so a later pass can add its positions (it states support for a public option, AI guardrails, reproductive rights, climate goals). The legislature page links only social media. Capital Chronicle HD38 guide covers the Democratic primary (opponent Wasielewski, who is not on the November ballot). Matches inventory (unopposed in November)."
+  "collection_notes": "Ballot spelling per inventory is 'Daniel Loc Nguyen'; Capital Chronicle uses 'Daniel Nguyễn'; official page 'Daniel Nguyen'. Fetched danielfororegon.com (news, priorities, about) but did not cite it because step 3 requires the domain to be linked from the pamphlet, ORESTAR, an official page or a T3 article; the pamphlet statement may confirm it, so a later pass can add its positions (it states support for a public option, AI guardrails, reproductive rights, climate goals). The legislature page links only social media. Capital Chronicle HD38 guide covers the Democratic primary (opponent Wasielewski, who is not on the November ballot). Matches inventory (unopposed in November). Pamphlet statement: SOS Clackamas edition p. 49 (same text in other editions)."
 }

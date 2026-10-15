@@ -25,15 +25,15 @@
   "positions": [],
   "voting_record": [],
   "gaps": [
-    "Pamphlet statement: pending script extract",
     "No policy positions or occupation found",
-    "No campaign website found"
+    "No campaign website found",
+    "Voters' pamphlet statement: none filed (name marked with an asterisk, 'Candidate chose not to submit a voters' pamphlet statement', in the SOS pamphlet candidate list)"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet candidate list (page 26/27 of the county editions): https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+      "result": "not found (no statement filed)"
     },
     {
       "step": "2",

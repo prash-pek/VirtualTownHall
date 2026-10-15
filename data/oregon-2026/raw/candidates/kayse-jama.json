@@ -5,8 +5,8 @@
   "party": "Democrat",
   "incumbent": true,
   "occupation": "State Senator",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.kaysejama.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
   "bio": [
     {
       "id": "kayse-jama-b1",
@@ -33,6 +33,45 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "kayse-jama-b3",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Jama lists his occupation as Oregon state senator, with a background as a nonprofit leader.",
+      "excerpt": "Occupation: Oregon State Senator Occupational Background: Nonprofit Leader",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "kayse-jama-b4",
+      "topic": "custom:background",
+      "statement": "Jama lists a B.A. from Marylhurst University.",
+      "excerpt": "Educational Background: Marylhurst University, B.A.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "kayse-jama-b5",
+      "topic": "custom:background",
+      "statement": "Jama lists Oregon Senate Majority Leader, chair of the Senate Committee on Housing and Development and the Oregon Commission on Black Affairs.",
+      "excerpt": "Prior Governmental Experience: Oregon Senate Majority Leader; Chair, Senate Committee on Housing & Development; Oregon Commission on Black Affairs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "positions": [
@@ -48,19 +87,70 @@
         "published_at": "2026-10-09",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "kayse-jama-p2",
+      "topic": "housing",
+      "statement": "Jama says he is focused on lowering everyday costs, building affordable housing, expanding health care access and investing in clean energy.",
+      "excerpt": "I’m focused on lowering everyday costs, building more affordable housing, expanding access to healthcare, and investing in clean energy that protects Oregon’s environment.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "kayse-jama-p3",
+      "topic": "civil-rights",
+      "statement": "Jama says he will defend reproductive healthcare access, protect LGBTQ+ rights and keep Oregon welcoming to immigrants and refugees.",
+      "excerpt": "I will continue defending access to reproductive healthcare, protecting LGBTQ+ rights, and ensuring Oregon remains a welcoming home for immigrants and refugees.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "kayse-jama-p4",
+      "topic": "education",
+      "statement": "Jama says he will keep fighting for classroom investment, support for educators and opportunity for every student.",
+      "excerpt": "I will keep fighting for classroom investment, support for educators, and opportunity for every student.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "kayse-jama-p5",
+      "topic": "social-services",
+      "statement": "Jama cites expanding access to free and low-cost childcare as a past result.",
+      "excerpt": "Expanded access to free and low-cost childcare",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
     "No sponsored-bill or roll-call items collected (phase 1)",
     "No sourced positions on housing, childcare, health care outside the pamphlet"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "pending script extract"
+      "query_or_url": "SOS state voters pamphlet extract kayse-jama.txt (Multnomah edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf)",
+      "result": "used (statement found, p. 44)"
     },
     {
       "step": "2",
@@ -69,8 +159,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.kaysejama.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -98,6 +188,6 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent (incumbent true, unopposed). OPB (2026-10-09) reports she will not seek another term as caucus leader (and describes her as Senate Majority Leader); official page shows 'Democratic Leader' in navigation and Rules chair. Pamphlet Book13 p.44 / Book14 p.43 (pending).",
+  "collection_notes": "Inventory consistent (incumbent true, unopposed). OPB (2026-10-09) reports she will not seek another term as caucus leader (and describes her as Senate Majority Leader); official page shows 'Democratic Leader' in navigation and Rules chair. Pamphlet Book13 p.44 / Book14 p.43 (pending). Pamphlet statement: SOS Multnomah edition p. 44 (same text in other editions).",
   "incumbent_source_url": "https://www.oregonlegislature.gov/Jama/Pages/biography.aspx"
 }

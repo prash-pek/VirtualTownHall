@@ -5,9 +5,49 @@
   "party": "Democrat",
   "incumbent": null,
   "occupation": null,
-  "website_url": null,
-  "website_verified_via": null,
-  "bio": [],
+  "website_url": "https://myrnaforsenate.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+  "bio": [
+    {
+      "id": "myrna-munoz-b1",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Munoz lists her occupation as educator, small business owner, university adjunct and bi-literacy coach, with a background as a bilingual educator, school principal and education specialist.",
+      "excerpt": "Occupation: Educator, Small Business Owner, University Adjunct, Bi-literacy Coach Occupational Background: Bilingual Educator: Preschool through Graduate School, Public school principal, Education specialist, Small business owner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "myrna-munoz-b2",
+      "topic": "custom:background",
+      "statement": "Munoz lists a bachelor's degree from UC Berkeley, a master's from Concordia and an educational leadership credential from Portland State University.",
+      "excerpt": "Educational Background: A/B (UC Berkeley), MA (Concordia), Educational Leadership Credential (PSU)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "myrna-munoz-b3",
+      "topic": "custom:background",
+      "statement": "Munoz lists precinct committee person as her prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Precinct Committee Person",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
   "positions": [
     {
       "id": "myrna-munoz-p1",
@@ -21,11 +61,88 @@
         "published_at": "2026-05-29",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "myrna-munoz-p2",
+      "topic": "education",
+      "statement": "In her voters' pamphlet statement, Munoz says she will fight for public schools, citing her background as an educator.",
+      "excerpt": "As an educator from a family of educators, I understand quality education, & I'll fight for our public schools.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "myrna-munoz-p3",
+      "topic": "immigration",
+      "statement": "Munoz says she will stand up against ICE and federal overreach.",
+      "excerpt": "I will stand up against ICE and federal overreach and protect our healthcare system and access to abortion.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "myrna-munoz-p4",
+      "topic": "healthcare",
+      "statement": "Munoz says she will protect the healthcare system and access to abortion.",
+      "excerpt": "protect our healthcare system and access to abortion",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "myrna-munoz-p5",
+      "topic": "taxes",
+      "statement": "Munoz says she will close tax loopholes and have large corporations pay their fair share, to invest in schools, healthcare and affordable housing.",
+      "excerpt": "I'll close tax loopholes and make sure large corporations pay their fair share so we can invest in schools, healthcare and affordable housing",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "myrna-munoz-p6",
+      "topic": "economy",
+      "statement": "Munoz says she will work to shift the economy toward one that works for working people and protects the environment.",
+      "excerpt": "I will work to shift our economy to one that works for working people and protects the environment",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "myrna-munoz-p7",
+      "topic": "technology",
+      "statement": "Munoz says she wants to keep Oregon away from data centers.",
+      "excerpt": "keeping us away from dangerous threats like data centers",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
     "No public position found on housing, education, health care, transportation",
     "Did not respond to Oregon Capital Chronicle questionnaire",
     "No campaign website confirmed"
@@ -33,8 +150,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "pending script extract"
+      "query_or_url": "SOS state voters pamphlet extract myrna-munoz.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 39)"
     },
     {
       "step": "2",
@@ -43,8 +160,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
-      "result": "not found"
+      "query_or_url": "campaign website https://myrnaforsenate.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -82,9 +199,9 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Inventory consistent. Ballot name 'Myrna A Munoz'; press use 'Myrna Mu\u00f1oz' (name_variants). Pamphlet: Washington Book12 p.39 per index (not read for content). Won the May 2026 Democratic primary over incumbent Sen. Janeen Sollman per WW/OPB headlines; not incumbent.",
+  "collection_notes": "Inventory consistent. Ballot name 'Myrna A Munoz'; press use 'Myrna Muñoz' (name_variants). Pamphlet: Washington Book12 p.39 per index (not read for content). Won the May 2026 Democratic primary over incumbent Sen. Janeen Sollman per WW/OPB headlines; not incumbent. Pamphlet statement: SOS Washington edition p. 39 (same text in other editions).",
   "name_variants": [
-    "Myrna Mu\u00f1oz",
+    "Myrna Muñoz",
     "Myrna Munoz"
   ]
 }

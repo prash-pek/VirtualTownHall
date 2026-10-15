@@ -5,8 +5,8 @@
   "party": "Republican",
   "incumbent": null,
   "occupation": "Nursery owner (per Capital Chronicle voter guide)",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.amandaforor.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
   "bio": [
     {
       "id": "amanda-staehely-b1",
@@ -33,20 +33,111 @@
         "published_at": "2026-01-05",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "amanda-staehely-b3",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Staehely lists her occupation as farmer and nursery owner of Columbia Nursery, and past president of the Oregon Association of Nurseries.",
+      "excerpt": "Occupation: Farmer/Nursery Owner, Columbia Nursery Occupational Background: Small Business Owner, Nursery Owner, Past President of Oregon Association of Nurseries",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-b4",
+      "topic": "custom:background",
+      "statement": "Staehely lists Canby High School as her educational background.",
+      "excerpt": "Educational Background: Canby High School",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-b5",
+      "topic": "custom:background",
+      "statement": "Staehely lists no prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: None",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
-  "positions": [],
+  "positions": [
+    {
+      "id": "amanda-staehely-p1",
+      "topic": "taxes",
+      "statement": "Staehely says Salem has developed a habit of solving problems with taxes and that government should prioritize core functions by reducing non-essential spending.",
+      "excerpt": "GOOD GOVERNANCE Salem has developed a nasty habit of solving problems with taxes.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-p2",
+      "topic": "local-business",
+      "statement": "Staehely says that when businesses thrive, families and communities do too.",
+      "excerpt": "When businesses thrive, families and communities do too.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-p3",
+      "topic": "education",
+      "statement": "Staehely says one-size-fits-all policies inhibit learning.",
+      "excerpt": "one-size-fits-all policies inhibit learning",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-p4",
+      "topic": "agriculture",
+      "statement": "Staehely says Salem makes farming too expensive and challenging to navigate for family farms.",
+      "excerpt": "Salem ties the hands of family farms; farming has gotten too expensive and challenging to navigate.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
   "voting_record": [],
   "gaps": [
-    "Pamphlet statement: pending script extract",
     "No policy positions found: she did not respond to the Capital Chronicle questionnaire",
     "No campaign website found"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract amanda-staehely.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 45)"
     },
     {
       "step": "2",
@@ -55,8 +146,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.amandaforor.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "6",
@@ -89,5 +180,5 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Capital Chronicle HD 18 Republican primary guide lists her as occupation 'nursery owner with agricultural advocacy experience' and no questionnaire response. OAN is a trade-association publication (T3). Incumbent null (open seat; Rep. Lewis retiring per CC guide, not an official source)."
+  "collection_notes": "Capital Chronicle HD 18 Republican primary guide lists her as occupation 'nursery owner with agricultural advocacy experience' and no questionnaire response. OAN is a trade-association publication (T3). Incumbent null (open seat; Rep. Lewis retiring per CC guide, not an official source). Pamphlet statement: SOS Clackamas edition p. 45 (same text in other editions)."
 }

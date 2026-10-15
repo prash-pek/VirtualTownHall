@@ -6,8 +6,8 @@
   "incumbent": true,
   "incumbent_source_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
   "occupation": "School district administrator",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.BenForOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
   "bio": [
     {
       "id": "ben-bowman-b1",
@@ -43,6 +43,32 @@
       "source": {
         "url": "https://www.oregonlegislature.gov/bowman/Pages/biography.aspx",
         "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ben-bowman-b4",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Bowman lists his occupation as senior fellow at Lewis & Clark College and House Majority Leader, with a background as a Gladstone school district administrator and Oregon Department of Education policy analyst.",
+      "excerpt": "Occupation: Senior Fellow, Lewis & Clark College; Majority Leader of the Oregon House of Representatives Occupational Background: School District Administrator, Gladstone School District; Policy Analyst, Oregon Department of Education",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ben-bowman-b5",
+      "topic": "custom:background",
+      "statement": "Bowman lists an MA from Stanford University and a BA from the University of Oregon.",
+      "excerpt": "Educational Background: MA, Stanford University; BA, University of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
         "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
@@ -101,6 +127,84 @@
         "published_at": "2026-03-19",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "ben-bowman-p5",
+      "topic": "economy",
+      "statement": "Bowman cites voting to cut taxes for 200,000 working Oregonians under the heading of lowering costs.",
+      "excerpt": "Lowering Your Costs: Ben voted to cut taxes for 200,000 working Oregonians.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ben-bowman-p6",
+      "topic": "healthcare",
+      "statement": "Bowman cites passing a law barring corporations and private equity from controlling physician practices.",
+      "excerpt": "Keeping Healthcare Local: Ben passed a first-in-the-nation law barring corporations and private equity from controlling physician practices",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ben-bowman-p7",
+      "topic": "education",
+      "statement": "Bowman says he supports a well-funded, outcomes-oriented education system.",
+      "excerpt": "Improving Our Schools: Ben is a champion for a well-funded, outcomes-oriented education system.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ben-bowman-p8",
+      "topic": "immigration",
+      "statement": "Bowman cites backing laws protecting Oregonians' due process and privacy rights against federal immigration enforcement.",
+      "excerpt": "He backed laws protecting Oregonians' due process and privacy rights against federal immigration enforcement.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ben-bowman-p9",
+      "topic": "public-safety",
+      "statement": "Bowman cites votes for stronger penalties for fentanyl dealing, removing the statute of limitations for child sexual abuse and increasing punishment for domestic violence.",
+      "excerpt": "Making Oregon Safer: Ben voted for stronger penalties for those dealing fentanyl, removing the statute of limitations for child sexual abuse, and increasing the punishment for domestic violence.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ben-bowman-p10",
+      "topic": "housing",
+      "statement": "Bowman cites supporting record investments in affordable housing and speeding up permitting for housing construction.",
+      "excerpt": "Addressing Homelessness, Building Housing: Ben supported record investments in affordable housing.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [
@@ -119,7 +223,6 @@
     }
   ],
   "gaps": [
-    "Pamphlet statement: pending script extract",
     "No 2026 questionnaire answers (Capital Chronicle guide for HD 25 not located in search); positions rely on a 2022 survey and a March 2026 newsletter",
     "No roll-call voting items collected (phase 1 scope)",
     "No public position found on taxes, public safety, transportation, environment"
@@ -127,8 +230,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract ben-bowman.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 44)"
     },
     {
       "step": "2",
@@ -147,8 +250,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.BenForOregon.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "6",
@@ -186,5 +289,5 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Incumbent per official House roster. Inventory consistent. Campaign website not found/verified, left null. Newsletter quotes are press quotes reproduced by his office. The 2022 survey items are dated; verifier should check."
+  "collection_notes": "Incumbent per official House roster. Inventory consistent. Campaign website not found/verified, left null. Newsletter quotes are press quotes reproduced by his office. The 2022 survey items are dated; verifier should check. Pamphlet statement: SOS Washington edition p. 44 (same text in other editions)."
 }

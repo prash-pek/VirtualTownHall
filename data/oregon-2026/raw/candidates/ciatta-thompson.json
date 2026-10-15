@@ -24,6 +24,45 @@
         "published_at": "2024-09-27",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "ciatta-thompson-b2",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Thompson lists her occupation as hotel front office manager, with a background as a small business owner and travel and hospitality professional.",
+      "excerpt": "Occupation: Hotel Front Office Manager Occupational Background: Small Business Owner; Travel & Hospitality Professional",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ciatta-thompson-b3",
+      "topic": "custom:background",
+      "statement": "Thompson lists coursework in urban planning at Florida Atlantic University.",
+      "excerpt": "Educational Background: Coursework in Urban Planning, Florida Atlantic University",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ciatta-thompson-b4",
+      "topic": "custom:background",
+      "statement": "Thompson lists the NW Parking District Stakeholder Advisory Committee, 2nd vice chair of the Multnomah County Democrats and the Wilton Manors Community Affairs Advisory Board.",
+      "excerpt": "Prior Governmental Experience: NW Parking District Stakeholder Advisory Committee (2026); Former 2nd Vice Chair of the Multnomah County Democrats (2025); Wilton Manors Community Affairs Advisory Board (Florida)(2018-2020)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "positions": [
@@ -56,8 +95,8 @@
     {
       "id": "ciatta-thompson-p3",
       "topic": "public-safety",
-      "statement": "In the same 2024 OPB profile, Thompson said she would focus on fully funding Portland Street Response and Portland Fire & Rescue.",
-      "excerpt": "I’d focus on fully funding the Portland Street Response and Portland Fire & Rescue.",
+      "statement": "Thompson cites people struggling with addiction and mental illness on the streets, and rising taxes and fees, as concerns.",
+      "excerpt": "people struggling with addiction and mental illness left to languish on our streets—all while taxes and fees keep rising.",
       "source": {
         "url": "https://www.opb.org/article/2024/09/27/portland-oregon-politics-city-council-district-4-ciatta-thompson/",
         "publisher": "OPB",
@@ -65,11 +104,49 @@
         "published_at": "2024-09-27",
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "ciatta-thompson-p4",
+      "topic": "public-safety",
+      "statement": "Thompson says Oregon can fully staff first responders and build a behavioral health system focused on treatment, recovery and measurable outcomes.",
+      "excerpt": "We can fully staff first responders and build a world-class behavioral health system focused on treatment, recovery, and measurable outcomes.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ciatta-thompson-p5",
+      "topic": "economy",
+      "statement": "Thompson says public safety and public health are the foundation of economic recovery.",
+      "excerpt": "PUBLIC SAFETY AND PUBLIC HEALTH ARE THE FOUNDATION OF ECONOMIC RECOVERY.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ciatta-thompson-p6",
+      "topic": "taxes",
+      "statement": "Thompson cites rising taxes and fees among her concerns.",
+      "excerpt": "all while taxes and fees keep rising",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "All positions found are from a 2024 Portland City Council candidacy, not a 2026 House District 33 statement",
     "Capital Chronicle 2026 primary voter guide: no page found for this district (HD35 and HD38 pages only; other districts' guide pages could not be fetched)",
     "No public position found on housing, education, or healthcare for the state House race",
@@ -79,8 +156,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract ciatta-thompson.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 53)"
     },
     {
       "step": "2",
@@ -123,5 +200,5 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Ballot name 'Ciatta R Thompson'. incumbent_source_url is the HD33 incumbent's official page. Positions are from her 2024 Portland City Council District 4 run; the KOIN questionnaire could not be fetched. Matches inventory."
+  "collection_notes": "Ballot name 'Ciatta R Thompson'. incumbent_source_url is the HD33 incumbent's official page. Positions are from her 2024 Portland City Council District 4 run; the KOIN questionnaire could not be fetched. Matches inventory. Pamphlet statement: SOS Washington edition p. 53 (same text in other editions)."
 }

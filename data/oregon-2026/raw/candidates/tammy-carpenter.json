@@ -5,8 +5,8 @@
   "party": "Democrat",
   "incumbent": null,
   "occupation": "Anesthesiologist",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.TammyforOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
   "bio": [
     {
       "id": "tammy-carpenter-b1",
@@ -30,6 +30,45 @@
         "url": "https://ballotpedia.org/Tammy_Carpenter_(Oregon)",
         "publisher": "Ballotpedia",
         "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tammy-carpenter-b3",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Carpenter lists her occupation as retired, with a background as an anesthesiologist and executive board member of the Oregon Society of Anesthesiologists.",
+      "excerpt": "Occupation: Retired Occupational Background: Anesthesiologist, Oregon Society of Anesthesiologists, Executive Board; American Society of Anesthesiologists, Delegate",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tammy-carpenter-b4",
+      "topic": "custom:background",
+      "statement": "Carpenter lists a BS from Washington University in St. Louis and an MD from the University of Chicago.",
+      "excerpt": "Educational Background: Washington University St. Louis, BS; University of Chicago, MD",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tammy-carpenter-b5",
+      "topic": "custom:background",
+      "statement": "Carpenter lists Beaverton School Board member as her prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Beaverton School Board Member",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
@@ -113,18 +152,69 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "tammy-carpenter-p7",
+      "topic": "taxes",
+      "statement": "Carpenter says she will tax the wealthy and corporations to fund public services.",
+      "excerpt": "Tax the rich and corporations to fund public services",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p8",
+      "topic": "healthcare",
+      "statement": "Carpenter says she will guarantee universal healthcare for all Oregonians.",
+      "excerpt": "Guarantee universal healthcare for all Oregonians",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p9",
+      "topic": "education",
+      "statement": "Carpenter says she will fund high-quality education and make college free.",
+      "excerpt": "Fund high-quality education and make college free",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p10",
+      "topic": "transportation",
+      "statement": "Carpenter says she will expand public transportation.",
+      "excerpt": "Expand public transportation",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Pamphlet statement: pending script extract",
     "No public position found on public safety (guide did not quote one)"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract tammy-carpenter.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 48)"
     },
     {
       "step": "2",
@@ -133,8 +223,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.TammyforOregon.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "6",
@@ -172,5 +262,5 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Challenger for open seat (Rep. Helm retiring per press). Capital Chronicle guide undated, published_at null. Beaverton school board seat noted in CC/WW but no exact-quote excerpt captured, so not itemized; no official page fetched for school board service. Campaign site not found."
+  "collection_notes": "Challenger for open seat (Rep. Helm retiring per press). Capital Chronicle guide undated, published_at null. Beaverton school board seat noted in CC/WW but no exact-quote excerpt captured, so not itemized; no official page fetched for school board service. Campaign site not found. Pamphlet items omitted for item caps: Carpenter says she will freeze rent and ; Carpenter says she will pass a Green New; Carpenter says she will put a moratorium; Carpenter says she will abolish ICE and . Pamphlet statement: SOS Washington edition p. 48 (same text in other editions)."
 }

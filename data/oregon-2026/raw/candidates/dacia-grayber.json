@@ -34,6 +34,45 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "dacia-grayber-b3",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Grayber lists her occupation as professional firefighter-paramedic and state representative, with a background in emergency management and education.",
+      "excerpt": "Occupation: Professional Firefighter-Paramedic, State Representative Occupational Background: Emergency Management, Educator",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "dacia-grayber-b4",
+      "topic": "custom:background",
+      "statement": "Grayber lists a B.S. in homeland security and emergency management from Concordia University and Columbia University.",
+      "excerpt": "Educational Background: B.S, Homeland Security/ Emergency Management, Concordia University; Columbia University",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "dacia-grayber-b5",
+      "topic": "custom:background",
+      "statement": "Grayber lists precinct committee person as her prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: PCP",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "positions": [
@@ -75,6 +114,71 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "dacia-grayber-p4",
+      "topic": "environment",
+      "statement": "Grayber says she will keep fighting for climate legislation to keep Oregonians safe and communities resilient.",
+      "excerpt": "Climate change is here. I'll continue fighting for innovative legislation to keep Oregonians safe and communities resilient.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "dacia-grayber-p5",
+      "topic": "housing",
+      "statement": "Grayber says Oregonians deserve generational stability and safe, affordable places to call home.",
+      "excerpt": "Struggling Oregonians deserve generational stability, and safe, affordable places to call home.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "dacia-grayber-p6",
+      "topic": "education",
+      "statement": "Grayber says she is fighting for neighborhood schools with needed funding and accountability.",
+      "excerpt": "I’m fighting for the neighborhood schools our kids deserve, ensuring needed funding and accountability to deliver results.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "dacia-grayber-p7",
+      "topic": "economy",
+      "statement": "Grayber says a fair economy is essential, citing workforce development and small business supports.",
+      "excerpt": "A fair economy is essential for our prosperity.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "dacia-grayber-p8",
+      "topic": "taxes",
+      "statement": "Grayber says corporations and the ultra-wealthy must pay their fair share and that she opposes tax breaks that don't benefit working Oregonians.",
+      "excerpt": "Corporations and the ultra-wealthy must pay thieir fair share. No more tax breaks that don’t benefit working Oregonians.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [
@@ -93,7 +197,6 @@
     }
   ],
   "gaps": [
-    "Pamphlet statement: pending script extract",
     "No 2026 questionnaire answers; HD 28 Capital Chronicle guide not located",
     "No public position found on housing, taxes, education",
     "Voting items limited to one sponsorship (phase 1 scope)"
@@ -101,8 +204,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract dacia-grayber.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 49)"
     },
     {
       "step": "2",
@@ -155,5 +258,5 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Incumbent per House roster. KGW article is undated (HB 4113, firefighter cancer protections); published_at null, year to be confirmed by verifier. Inventory consistent. 2020 campaign site DaciaForOregon.com appears on Ballotpedia only; not verified, left null. No official-page committee list was captured."
+  "collection_notes": "Incumbent per House roster. KGW article is undated (HB 4113, firefighter cancer protections); published_at null, year to be confirmed by verifier. Inventory consistent. 2020 campaign site DaciaForOregon.com appears on Ballotpedia only; not verified, left null. No official-page committee list was captured. Pamphlet statement: SOS Washington edition p. 49 (same text in other editions)."
 }

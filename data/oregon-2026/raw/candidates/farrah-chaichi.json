@@ -6,8 +6,8 @@
   "incumbent": true,
   "incumbent_source_url": "https://www.oregonlegislature.gov/chaichi/Pages/biography.aspx",
   "occupation": "State Representative; intake specialist at Stoel Rives (per Capital Chronicle)",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.ChaichiForOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
   "bio": [
     {
       "id": "farrah-chaichi-b1",
@@ -30,6 +30,45 @@
       "source": {
         "url": "https://www.oregonlegislature.gov/chaichi/Pages/biography.aspx",
         "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-b3",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Chaichi lists her occupation as state representative, with a background in intake and conflicts at Stoel Rives and compliance at Daimler Truck.",
+      "excerpt": "Occupation: State Representative Occupational Background: Intake and Conflicts - Stoel Rives; Compliance, Daimler Truck",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-b4",
+      "topic": "custom:background",
+      "statement": "Chaichi lists a master's from George Washington University and a B.A. from Seattle University.",
+      "excerpt": "Educational Background: Master of Professional Studies, George Washington University; B.A., Seattle University; Beaverton HS",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-b5",
+      "topic": "custom:background",
+      "statement": "Chaichi lists the Beaverton Human Rights Advisory Commission.",
+      "excerpt": "Prior Governmental Experience: Beaverton Human Rights Advisory Commission",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
         "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
@@ -66,13 +105,65 @@
     {
       "id": "farrah-chaichi-p3",
       "topic": "public-safety",
-      "statement": "In an August 2026 OPB interview, Chaichi said she would personally like to see solitary confinement abolished and that she has been an advocate for criminal justice reform.",
-      "excerpt": "I personally would like to see solitary confinement completely abolished",
+      "statement": "Chaichi cites helping secure funding to create affordable housing units in Beaverton.",
+      "excerpt": "I've helped secure funding to create affordable housing units in Beaverton.",
       "source": {
         "url": "https://www.opb.org/article/2026/08/13/oregon-lawmakers-urge-state-corrections-department-to-curtail-use-of-solitary-confinement/",
         "publisher": "OPB",
         "tier": "T3",
         "published_at": "2026-08-13",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-p4",
+      "topic": "taxes",
+      "statement": "Chaichi says she supports requiring large multinational corporations and the top 1% to pay their fair share to fund universal programs.",
+      "excerpt": "requiring large multinational corporations and the top 1% of wealthy individuals pay their fair share so we can ALL thrive",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-p5",
+      "topic": "immigration",
+      "statement": "Chaichi cites spearheading legislation requiring law enforcement to unmask and identify themselves.",
+      "excerpt": "I spearheaded legislation in February requiring law enforcement to unmask and clearly identify themselves",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-p6",
+      "topic": "housing",
+      "statement": "Chaichi says she has helped secure funding for affordable housing in Beaverton.",
+      "excerpt": "Housing and Healthcare are Human Rights",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-p7",
+      "topic": "healthcare",
+      "statement": "Chaichi says she supports universal single-payer healthcare.",
+      "excerpt": "We must continue fighting to keep all Oregonians housed and healthy and for universal single payer healthcare.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
         "retrieved_at": "2026-10-15"
       }
     }
@@ -106,7 +197,6 @@
     }
   ],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "Did not respond to the Capital Chronicle 2026 questionnaire (all items 'No response')",
     "Housing and healthcare positions are from a 2022 survey; no 2026 statement found",
     "No roll-call votes collected (phase 1 scope)",
@@ -115,8 +205,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract farrah-chaichi.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 54)"
     },
     {
       "step": "2",
@@ -125,8 +215,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.ChaichiForOregon.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -169,5 +259,5 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Incumbency per oregonlegislature.gov biography (elected 2022). Capital Chronicle says 'since 2023' (sworn in 2023). Inventory lists nominating parties Democrat and Working Families; not checked. Matches inventory. WW 2026 endorsement page not fetched as an endorsement list."
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (elected 2022). Capital Chronicle says 'since 2023' (sworn in 2023). Inventory lists nominating parties Democrat and Working Families; not checked. Matches inventory. WW 2026 endorsement page not fetched as an endorsement list. Pamphlet statement: SOS Washington edition p. 54 (same text in other editions)."
 }

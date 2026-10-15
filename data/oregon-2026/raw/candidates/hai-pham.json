@@ -6,8 +6,8 @@
   "incumbent": true,
   "incumbent_source_url": "https://www.oregonlegislature.gov/phamh",
   "occupation": "State Representative; pediatric dentist",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "http://www.haifororegon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
   "bio": [
     {
       "id": "hai-pham-b1",
@@ -17,6 +17,45 @@
       "source": {
         "url": "https://www.oregonlegislature.gov/phamh",
         "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-b2",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Pham lists his occupation as state representative and pediatric dentist, with a background as a small business owner and pediatric dentistry chair at Randall Children's Hospital.",
+      "excerpt": "Occupation: State Representative, Pediatric Dentist Occupational Background: Small Business Owner; Pediatric Dentistry Chair, Randall Children's Hospital",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-b3",
+      "topic": "custom:background",
+      "statement": "Pham lists a BS from Oregon State and a DMD from OHSU.",
+      "excerpt": "Educational Background: Oregon State, BS; OHSU, DMD",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-b4",
+      "topic": "custom:background",
+      "statement": "Pham lists the Governor's Children Cabinet and the Oregon Board of Dentistry.",
+      "excerpt": "Prior Governmental Experience: Governor’s Children Cabinet, Oregon Board of Dentistry",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
         "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
@@ -33,6 +72,71 @@
         "url": "https://ballotpedia.org/Hai_Pham",
         "publisher": "Ballotpedia",
         "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p2",
+      "topic": "economy",
+      "statement": "Pham says he will continue to reduce the high costs of living.",
+      "excerpt": "Reduce the high costs of living so that every family has the opportunity to build generational wealth.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p3",
+      "topic": "public-safety",
+      "statement": "Pham says he will ensure every neighborhood is a safe place to live, work and raise a family.",
+      "excerpt": "Ensure that every neighborhood is a safe place to live, work, and raise a family.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p4",
+      "topic": "healthcare",
+      "statement": "Pham says he will build an accessible and affordable healthcare system.",
+      "excerpt": "Build an accessible and affordable healthcare system so that every Oregonian can get the care that they need.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p5",
+      "topic": "economy",
+      "statement": "Pham says he will invest in jobs and grow the regional economy.",
+      "excerpt": "Invest in jobs and grow our regional economy through innovation and opportunity.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p6",
+      "topic": "civil-rights",
+      "statement": "Pham says he will defend civil rights and uphold democracy.",
+      "excerpt": "Defend our civil rights and uphold our democracy.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
@@ -54,7 +158,6 @@
     }
   ],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "Pham did not complete Ballotpedia's 2024 survey; only a 2022 position found; no 2026 statement",
     "Capital Chronicle 2026 primary voter guide: no page found for this district (HD35 and HD38 pages only; other districts' guide pages could not be fetched)",
     "No roll-call votes collected (phase 1 scope)",
@@ -63,8 +166,8 @@
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract hai-pham.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 55)"
     },
     {
       "step": "2",
@@ -73,8 +176,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
-      "result": "not found"
+      "query_or_url": "campaign website http://www.haifororegon.com printed in voters pamphlet statement",
+      "result": "pending fetch"
     },
     {
       "step": "4",
@@ -112,5 +215,5 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Incumbency per oregonlegislature.gov page. Flavored tobacco article gives no explicit date (about early 2023). Matches inventory."
+  "collection_notes": "Incumbency per oregonlegislature.gov page. Flavored tobacco article gives no explicit date (about early 2023). Matches inventory. Pamphlet statement: SOS Washington edition p. 55 (same text in other editions)."
 }
