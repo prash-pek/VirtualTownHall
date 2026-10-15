@@ -152,6 +152,45 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "jeff-helfrich-p8",
+      "topic": "taxes",
+      "statement": "Helfrich's campaign website says Oregon needs a balanced budget and tax relief for families.",
+      "excerpt": "We need to balance our budget and provide tax relief for Oregon families.",
+      "source": {
+        "url": "https://www.helfrichfororegon.com/priorities",
+        "publisher": "Jeff Helfrich campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jeff-helfrich-p9",
+      "topic": "public-safety",
+      "statement": "Helfrich's campaign website says it is critical to fund and support law enforcement.",
+      "excerpt": "it’s critical that we properly fund and support law enforcement.",
+      "source": {
+        "url": "https://www.helfrichfororegon.com/priorities",
+        "publisher": "Jeff Helfrich campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jeff-helfrich-p10",
+      "topic": "local-business",
+      "statement": "Helfrich's campaign website says small businesses are the backbone of the economy.",
+      "excerpt": "Small businesses are the backbone of our economy.",
+      "source": {
+        "url": "https://www.helfrichfororegon.com/priorities",
+        "publisher": "Jeff Helfrich campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -173,8 +212,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.HelfrichforOregon.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.HelfrichforOregon.com (printed in pamphlet statement); fetched https://www.helfrichfororegon.com/priorities",
+      "result": "used"
     },
     {
       "step": "4",

@@ -140,6 +140,71 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "nathan-sosa-p6",
+      "topic": "taxes",
+      "statement": "Sosa's campaign website lists increasing the state Earned Income Tax Credit to help working families.",
+      "excerpt": "Increasing the state’s Earned Income Tax Credit to help working families.",
+      "source": {
+        "url": "https://www.nathansosa.com/policy-priorities-1",
+        "publisher": "Nathan Sosa campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p7",
+      "topic": "social-services",
+      "statement": "Sosa's campaign website lists ensuring access to affordable, quality childcare.",
+      "excerpt": "Ensuring access to affordable, quality childcare",
+      "source": {
+        "url": "https://www.nathansosa.com/policy-priorities-1",
+        "publisher": "Nathan Sosa campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p8",
+      "topic": "local-business",
+      "statement": "Sosa's campaign website lists fostering small business growth through start-up and expansion assistance.",
+      "excerpt": "Fostering the growth of successful small businesses through start-up and expansion assistance.",
+      "source": {
+        "url": "https://www.nathansosa.com/policy-priorities-1",
+        "publisher": "Nathan Sosa campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p9",
+      "topic": "education",
+      "statement": "Sosa's campaign website lists a statewide youth apprenticeship program for high school students.",
+      "excerpt": "Creating a statewide youth apprenticeship program so that high school students can jumpstart their careers.",
+      "source": {
+        "url": "https://www.nathansosa.com/policy-priorities-1",
+        "publisher": "Nathan Sosa campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p10",
+      "topic": "civil-rights",
+      "statement": "Sosa's campaign website lists increasing funding for legal aid centers to ensure equal access to justice.",
+      "excerpt": "Ensuring equal access to justice by increasing funding for legal aid centers",
+      "source": {
+        "url": "https://www.nathansosa.com/policy-priorities-1",
+        "publisher": "Nathan Sosa campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -165,8 +230,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.nathansosa.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.nathansosa.com (printed in pamphlet statement); fetched https://www.nathansosa.com/policy-priorities-1",
+      "result": "used"
     },
     {
       "step": "6",

@@ -196,6 +196,19 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "daniel-loc-nguyen-p10",
+      "topic": "healthcare",
+      "statement": "Nguyen's campaign website lists a healthy community that works for everyone as a priority.",
+      "excerpt": "A healthy community is one that works for everyone",
+      "source": {
+        "url": "http://www.DanielForOregon.com",
+        "publisher": "Daniel Nguyen campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -217,8 +230,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.DanielForOregon.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.DanielForOregon.com (printed in pamphlet statement); fetched http://www.DanielForOregon.com",
+      "result": "used"
     },
     {
       "step": "4",
@@ -261,7 +274,7 @@
       "result": "used (checked for campaign link: none; only social media links)"
     }
   ],
-  "collection_notes": "Ballot spelling per inventory is 'Daniel Loc Nguyen'; Capital Chronicle uses 'Daniel Nguyễn'; official page 'Daniel Nguyen'. Fetched danielfororegon.com (news, priorities, about) but did not cite it because step 3 requires the domain to be linked from the pamphlet, ORESTAR, an official page or a T3 article; the pamphlet statement may confirm it, so a later pass can add its positions (it states support for a public option, AI guardrails, reproductive rights, climate goals). The legislature page links only social media. Capital Chronicle HD38 guide covers the Democratic primary (opponent Wasielewski, who is not on the November ballot). Matches inventory (unopposed in November). Pamphlet statement: SOS Clackamas edition p. 49 (same text in other editions).",
+  "collection_notes": "Ballot spelling per inventory is 'Daniel Loc Nguyen'; Capital Chronicle uses 'Daniel Nguyễn'; official page 'Daniel Nguyen'. Fetched danielfororegon.com (news, priorities, about) but did not cite it because step 3 requires the domain to be linked from the pamphlet, ORESTAR, an official page or a T3 article; the pamphlet statement may confirm it, so a later pass can add its positions (it states support for a public option, AI guardrails, reproductive rights, climate goals). The legislature page links only social media. Capital Chronicle HD38 guide covers the Democratic primary (opponent Wasielewski, who is not on the November ballot). Matches inventory (unopposed in November). Pamphlet statement: SOS Clackamas edition p. 49 (same text in other editions). Site also lists children's future and smart planning priorities; omitted for the 10-position cap.",
   "endorsements": [
     {
       "id": "daniel-loc-nguyen-e1",

@@ -257,8 +257,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.SusanMcLain.org printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.SusanMcLain.org (printed in pamphlet statement)",
+      "result": "not used (positions cap of 10 reached with pamphlet items)"
     },
     {
       "step": "6",
@@ -286,7 +286,7 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Incumbent per House roster. Inventory consistent. Capital Chronicle HD 29 Democratic primary guide (primary opponent Mark Watson) is the main source; guide undated. Official page gave committee roles. Pamphlet statement: SOS Washington edition p. 50 (same text in other editions).",
+  "collection_notes": "Incumbent per House roster. Inventory consistent. Capital Chronicle HD 29 Democratic primary guide (primary opponent Mark Watson) is the main source; guide undated. Official page gave committee roles. Pamphlet statement: SOS Washington edition p. 50 (same text in other editions). Campaign website printed in pamphlet but not fetched: positions already at the cap of 10.",
   "endorsements": [
     {
       "id": "susan-mclain-e1",

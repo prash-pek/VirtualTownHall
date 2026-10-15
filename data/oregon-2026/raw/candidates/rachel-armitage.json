@@ -161,8 +161,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website https://www.SenateDistrict16.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website https://www.SenateDistrict16.com (printed in pamphlet statement)",
+      "result": "nothing relevant"
     },
     {
       "step": "4",
@@ -195,7 +195,7 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Inventory consistent (incumbent false). Armitage was appointed to SD16 in 2022 and is described as a former senator; no 2026 official source fetched, so incumbent left null. Pamphlet Book13 p.41 (pending). Pamphlet statement: SOS Washington edition p. 41 (same text in other editions).",
+  "collection_notes": "Inventory consistent (incumbent false). Armitage was appointed to SD16 in 2022 and is described as a former senator; no 2026 official source fetched, so incumbent left null. Pamphlet Book13 p.41 (pending). Pamphlet statement: SOS Washington edition p. 41 (same text in other editions). Campaign site home has no issue content (only a one-line tagline); no T2 items.",
   "endorsements": [
     {
       "id": "rachel-armitage-e1",

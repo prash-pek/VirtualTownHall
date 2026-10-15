@@ -166,6 +166,45 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "april-dobson-p8",
+      "topic": "healthcare",
+      "statement": "Dobson's campaign website says she is fighting to defend and expand access to reproductive healthcare, including abortion and IVF.",
+      "excerpt": "I'm fighting to defend and expand access to reproductive healthcare, including abortion and IVF.",
+      "source": {
+        "url": "https://www.aprildobson.com/issues",
+        "publisher": "April Dobson campaign website (Issues)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-p9",
+      "topic": "social-services",
+      "statement": "Dobson's campaign website says she will work with anyone to find solutions to homelessness and addiction.",
+      "excerpt": "I will work with anyone willing to leave politics at the door and find real solutions to homelessness and addiction.",
+      "source": {
+        "url": "https://www.aprildobson.com/issues",
+        "publisher": "April Dobson campaign website (Issues)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-p10",
+      "topic": "public-safety",
+      "statement": "Dobson's campaign website says keeping the community safe is her top priority.",
+      "excerpt": "Keeping our community safe is my top priority.",
+      "source": {
+        "url": "https://www.aprildobson.com/issues",
+        "publisher": "April Dobson campaign website (Issues)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -187,8 +226,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.aprildobson.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.aprildobson.com (printed in pamphlet statement); fetched https://www.aprildobson.com/issues",
+      "result": "used"
     },
     {
       "step": "4",

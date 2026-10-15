@@ -116,6 +116,32 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "tom-forest-p5",
+      "topic": "taxes",
+      "statement": "Forest's campaign website proposes disconnecting Oregon's tax code from the federal code and selectively reconnecting.",
+      "excerpt": "Let’s completely disconnect Oregon’s tax code from the federal code and selectively reconnect.",
+      "source": {
+        "url": "https://GoingDeepForOregon.org",
+        "publisher": "Tom Forest campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tom-forest-p6",
+      "topic": "civil-rights",
+      "statement": "Forest's campaign website lists getting corporate money out of politics as an issue.",
+      "excerpt": "Get Corporate Money out of Politics",
+      "source": {
+        "url": "https://GoingDeepForOregon.org",
+        "publisher": "Tom Forest campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -136,8 +162,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website https://GoingDeepForOregon.org printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website https://GoingDeepForOregon.org (printed in pamphlet statement); fetched https://GoingDeepForOregon.org",
+      "result": "used"
     },
     {
       "step": "6",
@@ -170,5 +196,5 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Challenger; ballot spelling 'Tom L Forest'. Willamette Week (2026-04-29) also summarizes his priorities (school funding, corporate tax change, rural transit) but without quotable text; not itemized. Capital Chronicle guide undated. Pamphlet statement: SOS Washington edition p. 52 (same text in other editions)."
+  "collection_notes": "Challenger; ballot spelling 'Tom L Forest'. Willamette Week (2026-04-29) also summarizes his priorities (school funding, corporate tax change, rural transit) but without quotable text; not itemized. Capital Chronicle guide undated. Pamphlet statement: SOS Washington edition p. 52 (same text in other editions). Site issue pages (education, rural Oregon, environment, resilience, progress) not fetched."
 }

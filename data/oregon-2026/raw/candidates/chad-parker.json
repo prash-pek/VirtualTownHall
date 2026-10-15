@@ -88,6 +88,58 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "chad-parker-p4",
+      "topic": "education",
+      "statement": "Parker's campaign website lists making Oregon the best place to get an education.",
+      "excerpt": "Making Oregon THE Best Place to Get an Education",
+      "source": {
+        "url": "http://www.voteforchadparker.com",
+        "publisher": "Chad Parker campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "chad-parker-p5",
+      "topic": "economy",
+      "statement": "Parker's campaign website lists making Oregon the best place to work and grow a business.",
+      "excerpt": "Making Oregon THE Best Place to Work and Grow a Business",
+      "source": {
+        "url": "http://www.voteforchadparker.com",
+        "publisher": "Chad Parker campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "chad-parker-p6",
+      "topic": "transportation",
+      "statement": "Parker's campaign website lists safe, efficient roads and transportation for House District 37.",
+      "excerpt": "Making Oregon House District 37 THE Best Place for Safe, Efficient Roads and Transportation",
+      "source": {
+        "url": "http://www.voteforchadparker.com",
+        "publisher": "Chad Parker campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "chad-parker-p7",
+      "topic": "taxes",
+      "statement": "Parker's campaign website cites the Corporate Activity Tax on growing small businesses and overlapping regulations as hindering growth.",
+      "excerpt": "Corporate Activity Tax (CAT) on growing small businesses, overlapping regulations that hinder growth",
+      "source": {
+        "url": "http://www.voteforchadparker.com",
+        "publisher": "Chad Parker campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -111,8 +163,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.voteforchadparker.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.voteforchadparker.com (printed in pamphlet statement); fetched http://www.voteforchadparker.com",
+      "result": "used"
     },
     {
       "step": "4",

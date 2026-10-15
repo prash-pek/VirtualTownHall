@@ -166,6 +166,45 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "farrah-chaichi-p8",
+      "topic": "housing",
+      "statement": "Chaichi's campaign website lists a right to rest, renter protections and lifting the prohibition on local rent control.",
+      "excerpt": "Establishing a right to rest, renter protections, and lifting the prohibition on local rent control",
+      "source": {
+        "url": "https://www.chaichifororegon.com/the-issues",
+        "publisher": "Farrah Chaichi campaign website (The Issues)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-p9",
+      "topic": "healthcare",
+      "statement": "Chaichi's campaign website says she will not compromise on access to reproductive healthcare, including abortion.",
+      "excerpt": "I will not compromise on access to reproductive healthcare, including abortion.",
+      "source": {
+        "url": "https://www.chaichifororegon.com/the-issues",
+        "publisher": "Farrah Chaichi campaign website (The Issues)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-p10",
+      "topic": "environment",
+      "statement": "Chaichi's campaign website calls for a just green transition away from fossil fuels.",
+      "excerpt": "make a just green transition away from fossil fuels now",
+      "source": {
+        "url": "https://www.chaichifororegon.com/the-issues",
+        "publisher": "Farrah Chaichi campaign website (The Issues)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [
@@ -215,8 +254,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.ChaichiForOregon.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.ChaichiForOregon.com (printed in pamphlet statement); fetched https://www.chaichifororegon.com/the-issues",
+      "result": "used"
     },
     {
       "step": "4",
@@ -259,7 +298,7 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Incumbency per oregonlegislature.gov biography (elected 2022). Capital Chronicle says 'since 2023' (sworn in 2023). Inventory lists nominating parties Democrat and Working Families; not checked. Matches inventory. WW 2026 endorsement page not fetched as an endorsement list. Pamphlet statement: SOS Washington edition p. 54 (same text in other editions).",
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (elected 2022). Capital Chronicle says 'since 2023' (sworn in 2023). Inventory lists nominating parties Democrat and Working Families; not checked. Matches inventory. WW 2026 endorsement page not fetched as an endorsement list. Pamphlet statement: SOS Washington edition p. 54 (same text in other editions). Site also lists unionization and education positions; omitted for the 10-position cap.",
   "endorsements": [
     {
       "id": "farrah-chaichi-e1",

@@ -250,8 +250,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.BenForOregon.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.BenForOregon.com (printed in pamphlet statement)",
+      "result": "not used (positions cap of 10 reached with pamphlet items)"
     },
     {
       "step": "6",
@@ -289,7 +289,7 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Incumbent per official House roster. Inventory consistent. Campaign website not found/verified, left null. Newsletter quotes are press quotes reproduced by his office. The 2022 survey items are dated; verifier should check. Pamphlet statement: SOS Washington edition p. 44 (same text in other editions).",
+  "collection_notes": "Incumbent per official House roster. Inventory consistent. Campaign website not found/verified, left null. Newsletter quotes are press quotes reproduced by his office. The 2022 survey items are dated; verifier should check. Pamphlet statement: SOS Washington edition p. 44 (same text in other editions). Campaign website printed in pamphlet but not fetched: positions already at the cap of 10.",
   "endorsements": [
     {
       "id": "ben-bowman-e1",

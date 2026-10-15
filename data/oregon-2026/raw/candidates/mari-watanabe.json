@@ -140,6 +140,32 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "mari-watanabe-p6",
+      "topic": "education",
+      "statement": "Watanabe's campaign website names quality public education as a priority.",
+      "excerpt": "She is a champion for quality public education",
+      "source": {
+        "url": "http://mariwatanabe.com",
+        "publisher": "Mari Watanabe campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mari-watanabe-p7",
+      "topic": "social-services",
+      "statement": "Watanabe's campaign website names protecting the future of older adults and people with disabilities as a priority.",
+      "excerpt": "protecting the future of older adults and individuals living with disabilities",
+      "source": {
+        "url": "http://mariwatanabe.com",
+        "publisher": "Mari Watanabe campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -161,8 +187,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://mariwatanabe.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://mariwatanabe.com (printed in pamphlet statement); fetched http://mariwatanabe.com",
+      "result": "used"
     },
     {
       "step": "4",
@@ -200,7 +226,7 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Incumbency per oregonlegislature.gov/watanabe (Representative, District 34). Appointed January 2025. Matches inventory. Pamphlet statement: SOS Washington edition p. 54 (same text in other editions).",
+  "collection_notes": "Incumbency per oregonlegislature.gov/watanabe (Representative, District 34). Appointed January 2025. Matches inventory. Pamphlet statement: SOS Washington edition p. 54 (same text in other editions). Priorities page fetch failed; home page only.",
   "endorsements": [
     {
       "id": "mari-watanabe-e1",

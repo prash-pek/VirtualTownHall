@@ -161,8 +161,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website https://myrnaforsenate.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website https://myrnaforsenate.com (printed in pamphlet statement)",
+      "result": "blocked (WebFetch ROBOTS_DISALLOWED)"
     },
     {
       "step": "4",
@@ -200,7 +200,7 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Inventory consistent. Ballot name 'Myrna A Munoz'; press use 'Myrna Muñoz' (name_variants). Pamphlet: Washington Book12 p.39 per index (not read for content). Won the May 2026 Democratic primary over incumbent Sen. Janeen Sollman per WW/OPB headlines; not incumbent. Pamphlet statement: SOS Washington edition p. 39 (same text in other editions).",
+  "collection_notes": "Inventory consistent. Ballot name 'Myrna A Munoz'; press use 'Myrna Muñoz' (name_variants). Pamphlet: Washington Book12 p.39 per index (not read for content). Won the May 2026 Democratic primary over incumbent Sen. Janeen Sollman per WW/OPB headlines; not incumbent. Pamphlet statement: SOS Washington edition p. 39 (same text in other editions). Campaign site printed in pamphlet but could not be fetched (robots.txt); no T2 items.",
   "name_variants": [
     "Myrna Muñoz",
     "Myrna Munoz"

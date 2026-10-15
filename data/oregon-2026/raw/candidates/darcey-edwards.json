@@ -127,6 +127,71 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "darcey-edwards-p6",
+      "topic": "public-safety",
+      "statement": "Edwards's campaign website says Oregonians deserve real safety, not just headlines or slogans.",
+      "excerpt": "Oregonians deserve real safety — not just headlines, slogans, or hollow policy wins.",
+      "source": {
+        "url": "https://darceyfororegon.com/priorities/",
+        "publisher": "Darcey Edwards campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "darcey-edwards-p7",
+      "topic": "social-services",
+      "statement": "Edwards's campaign website says homelessness response needs real standards and treatment tied to action.",
+      "excerpt": "We need real standards. We need treatment tied to action.",
+      "source": {
+        "url": "https://darceyfororegon.com/priorities/",
+        "publisher": "Darcey Edwards campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "darcey-edwards-p8",
+      "topic": "taxes",
+      "statement": "Edwards's campaign website says Oregon has a spending problem rather than a revenue problem.",
+      "excerpt": "Oregon doesn't have a revenue problem — it has a spending problem.",
+      "source": {
+        "url": "https://darceyfororegon.com/priorities/",
+        "publisher": "Darcey Edwards campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "darcey-edwards-p9",
+      "topic": "environment",
+      "statement": "Edwards's campaign website says forests and lands can be responsibly managed without harming the rural communities that depend on them.",
+      "excerpt": "We can responsibly manage our forests and lands without destroying the rural communities that depend on them.",
+      "source": {
+        "url": "https://darceyfororegon.com/priorities/",
+        "publisher": "Darcey Edwards campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "darcey-edwards-p10",
+      "topic": "gun-policy",
+      "statement": "Edwards's campaign website says she will fight to preserve the constitutional right to keep and bear arms.",
+      "excerpt": "I'll always fight to preserve your constitutional right to keep and bear arms.",
+      "source": {
+        "url": "https://darceyfororegon.com/priorities/",
+        "publisher": "Darcey Edwards campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [
@@ -198,8 +263,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.DarceyForOregon.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.DarceyForOregon.com (printed in pamphlet statement); fetched https://darceyfororegon.com/priorities/",
+      "result": "used"
     },
     {
       "step": "6",

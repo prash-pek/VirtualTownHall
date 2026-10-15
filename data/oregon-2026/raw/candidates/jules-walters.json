@@ -175,8 +175,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.votejules.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.votejules.com (printed in pamphlet statement)",
+      "result": "blocked (WebFetch ROBOTS_DISALLOWED)"
     },
     {
       "step": "4",
@@ -214,7 +214,7 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Incumbency per oregonlegislature.gov biography (started in the legislature in 2023). Matches inventory. Pamphlet statement: SOS Clackamas edition p. 48 (same text in other editions).",
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (started in the legislature in 2023). Matches inventory. Pamphlet statement: SOS Clackamas edition p. 48 (same text in other editions). Campaign site printed in pamphlet but could not be fetched (robots.txt); no T2 items.",
   "endorsements": [
     {
       "id": "jules-walters-e1",

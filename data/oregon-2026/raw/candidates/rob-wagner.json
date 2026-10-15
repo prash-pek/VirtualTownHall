@@ -139,6 +139,58 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "rob-wagner-p7",
+      "topic": "economy",
+      "statement": "Wagner's campaign website says across-the-board tariffs are making everything more expensive.",
+      "excerpt": "unconstitutional and irresponsible across-the-board tariffs are making everything more expensive",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p8",
+      "topic": "healthcare",
+      "statement": "Wagner's campaign website says healthcare providers should be able to do their jobs without unnecessary government interference.",
+      "excerpt": "healthcare providers should be able to do their jobs without unnecessary government interference",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p9",
+      "topic": "education",
+      "statement": "Wagner's campaign website says public education is crucial for upward mobility and training the workforce.",
+      "excerpt": "Public education is crucial for empowering upward mobility and training our workforce.",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p10",
+      "topic": "environment",
+      "statement": "Wagner's campaign website says he strongly supports defending the environment and natural resources.",
+      "excerpt": "I strongly support defending our environment and natural resources as we face the reality of a changing climate.",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -159,8 +211,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://RobWagnerForOregon.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://RobWagnerForOregon.com (printed in pamphlet statement); fetched https://www.robwagnerfororegon.com/priorities/",
+      "result": "used"
     },
     {
       "step": "4",
@@ -188,7 +240,7 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent (incumbent true). Official page does not state party. Pamphlet Book13 p.43 / Book14 p.41 (pending). Pamphlet statement: SOS Clackamas edition p. 41 (same text in other editions).",
+  "collection_notes": "Inventory consistent (incumbent true). Official page does not state party. Pamphlet Book13 p.43 / Book14 p.41 (pending). Pamphlet statement: SOS Clackamas edition p. 41 (same text in other editions). Site Priorities page also lists housing/homelessness and gun safety; omitted for the 10-position cap.",
   "incumbent_source_url": "https://www.oregonlegislature.gov/wagner/Pages/default.aspx",
   "endorsements": [
     {

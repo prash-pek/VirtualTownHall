@@ -140,6 +140,58 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "hai-pham-p7",
+      "topic": "healthcare",
+      "statement": "Pham's campaign website says medical and dental coverage for all is a right, not a privilege.",
+      "excerpt": "Medical and dental coverage for all is a right, not a privilege.",
+      "source": {
+        "url": "https://haifororegon.com/policy-priorities",
+        "publisher": "Hai Pham campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p8",
+      "topic": "education",
+      "statement": "Pham's campaign website says he wants all Oregon residents to have high quality education.",
+      "excerpt": "Dr. Pham wants all residents of Oregon to have the same high quality education that transformed his life.",
+      "source": {
+        "url": "https://haifororegon.com/policy-priorities",
+        "publisher": "Hai Pham campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p9",
+      "topic": "economy",
+      "statement": "Pham's campaign website says he wants to create more jobs that provide living wages with strong benefits.",
+      "excerpt": "create more jobs that provide living wages with strong benefits.",
+      "source": {
+        "url": "https://haifororegon.com/policy-priorities",
+        "publisher": "Hai Pham campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p10",
+      "topic": "environment",
+      "statement": "Pham's campaign website says he will support legislation to fight climate change and protect Oregon's resources.",
+      "excerpt": "will support legislation to fight climate change and protect Oregon’s beauty and resources for future generations.",
+      "source": {
+        "url": "https://haifororegon.com/policy-priorities",
+        "publisher": "Hai Pham campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [
@@ -176,8 +228,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.haifororegon.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.haifororegon.com (printed in pamphlet statement); fetched https://haifororegon.com/policy-priorities",
+      "result": "used"
     },
     {
       "step": "4",

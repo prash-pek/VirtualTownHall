@@ -126,6 +126,58 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "michele-stroh-p7",
+      "topic": "taxes",
+      "statement": "Stroh's campaign website says she will vote no on new taxes until Salem shows it can spend existing money with accountability.",
+      "excerpt": "I’ll vote no on new taxes",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michele-stroh-p8",
+      "topic": "public-safety",
+      "statement": "Stroh's campaign website says every family deserves to feel safe in their neighborhood.",
+      "excerpt": "Every family deserves to feel safe in their neighborhood.",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michele-stroh-p9",
+      "topic": "education",
+      "statement": "Stroh's campaign website says she will fight to restore graduation standards.",
+      "excerpt": "Oregon suspended its graduation standards — I’ll fight to restore them",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michele-stroh-p10",
+      "topic": "social-services",
+      "statement": "Stroh's campaign website lists homelessness under the heading 'Compassion means results'.",
+      "excerpt": "Compassion means results",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -147,8 +199,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://VoteStroh.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://VoteStroh.com (printed in pamphlet statement); fetched https://votestroh.com/",
+      "result": "used"
     },
     {
       "step": "4",

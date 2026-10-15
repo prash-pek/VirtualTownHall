@@ -147,8 +147,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.VoteMarkMeek.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.VoteMarkMeek.com (printed in pamphlet statement)",
+      "result": "blocked (WebFetch ROBOTS_DISALLOWED)"
     },
     {
       "step": "4",
@@ -176,7 +176,7 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent (incumbent true). Pamphlet Book14 p.42 (pending). Press covers 2025 dispute with Senate President Wagner over transportation bill (OPB/WW headlines only; not collected). Pamphlet statement: SOS Clackamas edition p. 42 (same text in other editions).",
+  "collection_notes": "Inventory consistent (incumbent true). Pamphlet Book14 p.42 (pending). Press covers 2025 dispute with Senate President Wagner over transportation bill (OPB/WW headlines only; not collected). Pamphlet statement: SOS Clackamas edition p. 42 (same text in other editions). Campaign site printed in pamphlet but could not be fetched (robots.txt); no T2 items.",
   "incumbent_source_url": "https://www.oregonlegislature.gov/meek/Pages/biography.aspx",
   "endorsements": [
     {

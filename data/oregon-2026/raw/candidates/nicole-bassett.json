@@ -152,6 +152,32 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "nicole-bassett-p9",
+      "topic": "economy",
+      "statement": "Bassett's campaign website says Oregon needs good-paying local jobs and expanded vocational and skills training.",
+      "excerpt": "creating good-paying, local jobs and expanding vocational and skills training",
+      "source": {
+        "url": "https://www.bassettfororegon.com/",
+        "publisher": "Nicole Bassett campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-p10",
+      "topic": "environment",
+      "statement": "Bassett's campaign website calls for investing in wildfire prevention and helping homeowners make properties safer.",
+      "excerpt": "investing in wildfire prevention, helping homeowners make their properties safer",
+      "source": {
+        "url": "https://www.bassettfororegon.com/",
+        "publisher": "Nicole Bassett campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -173,8 +199,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://bassettfororegon.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://bassettfororegon.com (printed in pamphlet statement); fetched https://www.bassettfororegon.com/",
+      "result": "used"
     },
     {
       "step": "4",
@@ -202,7 +228,7 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent. Voter guide page has no publication date (published_at null). Searches by 'Nicole Bassett' return unrelated people on KOIN/Pamplin. Pamphlet Book14 p.44 (pending). Pamphlet statement: SOS Clackamas edition p. 44 (same text in other editions).",
+  "collection_notes": "Inventory consistent. Voter guide page has no publication date (published_at null). Searches by 'Nicole Bassett' return unrelated people on KOIN/Pamplin. Pamphlet Book14 p.44 (pending). Pamphlet statement: SOS Clackamas edition p. 44 (same text in other editions). Site also states housing, rural hospital and tax-system priorities; omitted for the 10-position cap.",
   "endorsements": [
     {
       "id": "nicole-bassett-e1",

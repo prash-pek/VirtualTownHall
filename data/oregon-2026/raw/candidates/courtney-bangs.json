@@ -148,8 +148,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website https://www.CourtneyBangs.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website https://www.CourtneyBangs.com (printed in pamphlet statement)",
+      "result": "blocked (WebFetch ROBOTS_DISALLOWED)"
     },
     {
       "step": "4",
@@ -187,7 +187,7 @@
       "result": "blocked (fetch error)"
     }
   ],
-  "collection_notes": "Inventory consistent. Pamphlet Multnomah Book13 p.41 (SD16 appears in Multnomah/Washington books; pending script extract). Oct 9 2026 CC article on SD16 could not be fetched. Pamphlet statement: SOS Washington edition p. 40 (same text in other editions).",
+  "collection_notes": "Inventory consistent. Pamphlet Multnomah Book13 p.41 (SD16 appears in Multnomah/Washington books; pending script extract). Oct 9 2026 CC article on SD16 could not be fetched. Pamphlet statement: SOS Washington edition p. 40 (same text in other editions). Campaign site printed in pamphlet but could not be fetched (robots.txt); no T2 items.",
   "endorsements": [
     {
       "id": "courtney-bangs-e1",

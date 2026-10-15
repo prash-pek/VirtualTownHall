@@ -224,8 +224,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.LisaForOregon.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.LisaForOregon.com (printed in pamphlet statement)",
+      "result": "not used (positions cap of 10 reached with pamphlet items)"
     },
     {
       "step": "4",
@@ -258,7 +258,7 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent (incumbent true; page lists Senate District 17). Pamphlet Book13 p.42-43, also Washington Book12 p.42 (pending script extract). Pamphlet statement: SOS Washington edition p. 42 (same text in other editions).",
+  "collection_notes": "Inventory consistent (incumbent true; page lists Senate District 17). Pamphlet Book13 p.42-43, also Washington Book12 p.42 (pending script extract). Pamphlet statement: SOS Washington edition p. 42 (same text in other editions). Campaign website printed in pamphlet but not fetched: positions already at the cap of 10.",
   "incumbent_source_url": "https://www.oregonlegislature.gov/reynolds/Pages/default.aspx",
   "endorsements": [
     {

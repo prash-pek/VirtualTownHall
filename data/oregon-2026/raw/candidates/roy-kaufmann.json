@@ -100,6 +100,58 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "roy-kaufmann-p5",
+      "topic": "healthcare",
+      "statement": "Kaufmann's campaign website says he will fight for affordable and accessible healthcare.",
+      "excerpt": "I will fight for affordable and accessible healthcare,",
+      "source": {
+        "url": "http://www.KaufmannforOregon.com",
+        "publisher": "Roy Kaufmann campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p6",
+      "topic": "agriculture",
+      "statement": "Kaufmann's campaign website lists thriving farms that can be passed to the next generation under protecting family farms and nurseries.",
+      "excerpt": "thriving farms that can be passed from this generation to the next,",
+      "source": {
+        "url": "http://www.KaufmannforOregon.com",
+        "publisher": "Roy Kaufmann campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p7",
+      "topic": "education",
+      "statement": "Kaufmann's campaign website calls for schools that teach kids to question and think for themselves.",
+      "excerpt": "schools that teach our kids to question and think for themselves,",
+      "source": {
+        "url": "http://www.KaufmannforOregon.com",
+        "publisher": "Roy Kaufmann campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p8",
+      "topic": "economy",
+      "statement": "Kaufmann's campaign website calls for an economy that rewards the people who do the work.",
+      "excerpt": "an economy that rewards the people who actually do the work.",
+      "source": {
+        "url": "http://www.KaufmannforOregon.com",
+        "publisher": "Roy Kaufmann campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -121,8 +173,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.KaufmannforOregon.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.KaufmannforOregon.com (printed in pamphlet statement); fetched http://www.KaufmannforOregon.com",
+      "result": "used"
     },
     {
       "step": "6",

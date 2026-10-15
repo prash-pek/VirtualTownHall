@@ -224,8 +224,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.TammyforOregon.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.TammyforOregon.com (printed in pamphlet statement)",
+      "result": "not used (positions cap of 10 reached with pamphlet items)"
     },
     {
       "step": "6",
@@ -263,7 +263,7 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Challenger for open seat (Rep. Helm retiring per press). Capital Chronicle guide undated, published_at null. Beaverton school board seat noted in CC/WW but no exact-quote excerpt captured, so not itemized; no official page fetched for school board service. Campaign site not found. Pamphlet items omitted for item caps: Carpenter says she will freeze rent and ; Carpenter says she will pass a Green New; Carpenter says she will put a moratorium; Carpenter says she will abolish ICE and . Pamphlet statement: SOS Washington edition p. 48 (same text in other editions).",
+  "collection_notes": "Challenger for open seat (Rep. Helm retiring per press). Capital Chronicle guide undated, published_at null. Beaverton school board seat noted in CC/WW but no exact-quote excerpt captured, so not itemized; no official page fetched for school board service. Campaign site not found. Pamphlet items omitted for item caps: Carpenter says she will freeze rent and ; Carpenter says she will pass a Green New; Carpenter says she will put a moratorium; Carpenter says she will abolish ICE and . Pamphlet statement: SOS Washington edition p. 48 (same text in other editions). Campaign website printed in pamphlet but not fetched: positions already at the cap of 10.",
   "endorsements": [
     {
       "id": "tammy-carpenter-e1",

@@ -139,6 +139,45 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "kayse-jama-p6",
+      "topic": "housing",
+      "statement": "Jama's campaign website describes SB 1530 as targeted investments designed to keep Oregonians in their homes.",
+      "excerpt": "targeted investments designed to keep Oregonians in their homes.",
+      "source": {
+        "url": "https://www.kaysejama.com/homelessness",
+        "publisher": "Kayse Jama campaign website (Homelessness)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "kayse-jama-p7",
+      "topic": "education",
+      "statement": "Jama's campaign website says equity-focused education programs and services should not be cut.",
+      "excerpt": "we need to keep this promise and not let our investments in equity-focused programs and services fall by the wayside.",
+      "source": {
+        "url": "https://www.kaysejama.com/education",
+        "publisher": "Kayse Jama campaign website (Education)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "kayse-jama-p8",
+      "topic": "education",
+      "statement": "Jama's campaign website describes a 2024 Student Success Plan for immigrant and refugee students as catered to their unique needs.",
+      "excerpt": "catered to the unique needs of immigrant and refugee students",
+      "source": {
+        "url": "https://www.kaysejama.com/education",
+        "publisher": "Kayse Jama campaign website (Education)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -159,8 +198,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.kaysejama.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.kaysejama.com (printed in pamphlet statement); fetched https://www.kaysejama.com/education",
+      "result": "used"
     },
     {
       "step": "4",

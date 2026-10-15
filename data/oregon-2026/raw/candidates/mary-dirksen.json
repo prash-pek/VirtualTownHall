@@ -120,8 +120,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://marydirksen.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://marydirksen.com (printed in pamphlet statement)",
+      "result": "blocked (WebFetch ROBOTS_DISALLOWED)"
     },
     {
       "step": "4",
@@ -144,7 +144,7 @@
       "result": "nothing relevant (search returned unrelated 'Dirksen' Metro Council items)"
     }
   ],
-  "collection_notes": "Inventory consistent. Pamphlet Book13 p.43 / Book14 p.41 (pending). Pamphlet statement: SOS Clackamas edition p. 41 (same text in other editions).",
+  "collection_notes": "Inventory consistent. Pamphlet Book13 p.43 / Book14 p.41 (pending). Pamphlet statement: SOS Clackamas edition p. 41 (same text in other editions). Campaign site printed in pamphlet but could not be fetched (robots.txt); no T2 items.",
   "endorsements": [
     {
       "id": "mary-dirksen-e1",

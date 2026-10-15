@@ -199,8 +199,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website https://haroldhutchison.carrd.co printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website https://haroldhutchison.carrd.co (printed in pamphlet statement)",
+      "result": "not used (positions cap of 10 reached with pamphlet items)"
     },
     {
       "step": "4",
@@ -223,5 +223,5 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Inventory consistent. A haroldhutchison.carrd.co site appeared in search but was not confirmed via an official or T3 source, so website_url left null. Pamphlet Washington Book12 p.39 per index (pending script extract). Pamphlet statement: SOS Washington edition p. 39 (same text in other editions)."
+  "collection_notes": "Inventory consistent. A haroldhutchison.carrd.co site appeared in search but was not confirmed via an official or T3 source, so website_url left null. Pamphlet Washington Book12 p.39 per index (pending script extract). Pamphlet statement: SOS Washington edition p. 39 (same text in other editions). Campaign website printed in pamphlet but not fetched: positions already at the cap of 10."
 }

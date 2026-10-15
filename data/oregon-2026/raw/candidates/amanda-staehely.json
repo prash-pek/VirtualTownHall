@@ -126,6 +126,84 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "amanda-staehely-p5",
+      "topic": "local-business",
+      "statement": "Staehely's campaign website says she will fight to cut red tape, lower taxes and stop burdensome fees and mandates.",
+      "excerpt": "I'll fight to cut red tape, lower taxes and stop burdensome fees and mandates",
+      "source": {
+        "url": "https://amandaforor.com/issues/",
+        "publisher": "Amanda Staehely campaign website (Issues)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-p6",
+      "topic": "agriculture",
+      "statement": "Staehely's campaign website says she would reopen water rights applications and push back against additional water regulations.",
+      "excerpt": "reopen water rights applications, push back against additional water regulations and restrictions",
+      "source": {
+        "url": "https://amandaforor.com/issues/",
+        "publisher": "Amanda Staehely campaign website (Issues)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-p7",
+      "topic": "education",
+      "statement": "Staehely's campaign website says she supports open enrollment and deregulating blanket curriculum requirements.",
+      "excerpt": "I support open enrollment, deregulating blanket curriculum requirements",
+      "source": {
+        "url": "https://amandaforor.com/issues/",
+        "publisher": "Amanda Staehely campaign website (Issues)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-p8",
+      "topic": "education",
+      "statement": "Staehely's campaign website supports expanding CTE programs and vocational training for in-demand fields.",
+      "excerpt": "expanding CTE programs and vocational training for in-demand fields",
+      "source": {
+        "url": "https://amandaforor.com/issues/",
+        "publisher": "Amanda Staehely campaign website (Issues)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-p9",
+      "topic": "taxes",
+      "statement": "Staehely's campaign website says she supports no tax on tips and eliminating the estate tax.",
+      "excerpt": "I support no tax on tips, eliminating the Death Tax",
+      "source": {
+        "url": "https://amandaforor.com/issues/",
+        "publisher": "Amanda Staehely campaign website (Issues)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "amanda-staehely-p10",
+      "topic": "taxes",
+      "statement": "Staehely's campaign website says she will fight for lower taxes and responsible spending.",
+      "excerpt": "I will always fight for lower taxes and responsible spending that improves the quality of life for us all.",
+      "source": {
+        "url": "https://amandaforor.com/issues/",
+        "publisher": "Amanda Staehely campaign website (Issues)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
@@ -146,8 +224,8 @@
     },
     {
       "step": "3",
-      "query_or_url": "campaign website http://www.amandaforor.com printed in voters pamphlet statement",
-      "result": "pending fetch"
+      "query_or_url": "campaign website http://www.amandaforor.com (printed in pamphlet statement); fetched https://amandaforor.com/issues/",
+      "result": "used"
     },
     {
       "step": "6",
