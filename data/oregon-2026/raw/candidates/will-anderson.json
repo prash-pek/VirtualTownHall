@@ -1,0 +1,150 @@
+{
+  "id": "will-anderson",
+  "name": "Will Anderson",
+  "name_variants": [],
+  "race_id": "milwaukie-mayor",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://milwaukieoregon.gov/node/124341",
+  "occupation": "Policy Strategist",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "will-anderson-b1",
+      "topic": "custom:bio",
+      "statement": "A City of Milwaukie councilor page lists Anderson as a city councilor first elected May 21, 2024.",
+      "excerpt": "First Election: May 21, 2024",
+      "source": {
+        "url": "https://milwaukieoregon.gov/node/125705",
+        "publisher": "City of Milwaukie",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-anderson-b2",
+      "topic": "custom:bio",
+      "statement": "Anderson's pamphlet statement lists political science study at Stanford University and work as a healthcare policy advocate and chief of staff.",
+      "excerpt": "Healthcare Policy Advocate; Chief of Staff",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-anderson-b3",
+      "topic": "custom:bio",
+      "statement": "Anderson's pamphlet statement lists service as city council president and Safe Routes to School Committee chair.",
+      "excerpt": "City Council President, Safe Routes to School Committee Chair, Clackamas County Coordinating Committee",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "will-anderson-p1",
+      "topic": "housing",
+      "statement": "In his voters' pamphlet statement, Anderson says he will cut red tape to build affordable housing and lower utility costs.",
+      "excerpt": "I’ll cut red tape to build affordable housing and lower utility costs.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-anderson-p2",
+      "topic": "economy",
+      "statement": "Anderson's pamphlet statement says Milwaukie cannot be the community residents love unless people can afford to live there.",
+      "excerpt": "Milwaukie can’t be the community we love unless people can afford to live here.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-anderson-p3",
+      "topic": "public-safety",
+      "statement": "Anderson's pamphlet statement says he helped hire two police officers and a behavioral health specialist and secured $600k for road safety.",
+      "excerpt": "I helped hire two new police officers and a behavioral health specialist and secured $600k for safety improvements to our roads.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-anderson-p4",
+      "topic": "infrastructure",
+      "statement": "Anderson's pamphlet statement envisions safe streets for children, well-maintained roads and quick police response.",
+      "excerpt": "I envision a city where kids can safely play outside, our streets are pothole-free and well maintained, and police respond quickly.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign website not visible in the readable pamphlet text",
+    "No 2026 T3 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-33; text ends mid-statement)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://milwaukieoregon.gov/node/125705",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website in readable pamphlet text",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Will Anderson\" Milwaukie mayor 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Will Anderson\" Milwaukie \"\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "not found"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Will Anderson\" Milwaukie \"\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Will Anderson\" Milwaukie \"\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "not found"
+    }
+  ],
+  "collection_notes": "incumbent=false for mayor (Batey holds it). The city councilor page shows a term ending Dec. 31, 2024 (likely stale; he was elected May 2024 to finish a term); his pamphlet lists 'City Council President' as prior experience. The pamphlet text extraction ends during his statement. He also says he authored a statewide ban on private equity buying homes (unclear role; not used)."
+}

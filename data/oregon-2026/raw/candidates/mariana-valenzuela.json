@@ -1,0 +1,158 @@
+{
+  "id": "mariana-valenzuela",
+  "name": "Mariana E Valenzuela",
+  "name_variants": [
+    "Mariana E. Valenzuela",
+    "Mariana Valenzuela"
+  ],
+  "race_id": "forest-grove-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://forestgrove-or.gov/362/Elections",
+  "occupation": "Assistant Professor at Pacific University",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "mariana-valenzuela-b1",
+      "topic": "custom:bio",
+      "statement": "Forest Grove's elections page lists Council President Mariana Valenzuela's seat as up for election in November 2026.",
+      "excerpt": "Council President Mariana Valenzuela",
+      "source": {
+        "url": "https://forestgrove-or.gov/362/Elections",
+        "publisher": "City of Forest Grove (Elections page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mariana-valenzuela-b2",
+      "topic": "custom:bio",
+      "statement": "Valenzuela's pamphlet statement lists service on the Forest Grove City Council since 2020.",
+      "excerpt": "Forest Grove City Council, 2020-present",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mariana-valenzuela-b3",
+      "topic": "custom:bio",
+      "statement": "Valenzuela's pamphlet statement lists an MBA from Pacific University and degrees from New Mexico State University.",
+      "excerpt": "Pacific University, MBA; New Mexico State University, BA & MA.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mariana-valenzuela-b4",
+      "topic": "custom:bio",
+      "statement": "Valenzuela's pamphlet statement lists prior work with Centro Cultural of Washington County and several colleges.",
+      "excerpt": "Centro Cultural of Washington County; Portland Community College; Clark College; Idaho State University",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "mariana-valenzuela-p1",
+      "topic": "social-services",
+      "statement": "In her voters' pamphlet statement, Valenzuela says she seeks a full term to keep advocating for youth and elderly residents.",
+      "excerpt": "I am seeking a full term to have the opportunity to continue advocating on behalf of our youth, our elderly,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mariana-valenzuela-p2",
+      "topic": "public-safety",
+      "statement": "Valenzuela's pamphlet statement cites ensuring the well-being and security of all residents.",
+      "excerpt": "ensuring the well-being and security of all our residents.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mariana-valenzuela-p3",
+      "topic": "economy",
+      "statement": "Valenzuela's pamphlet statement says Forest Grove is well positioned to continue to grow and thrive.",
+      "excerpt": "I believe Forest Grove is well positioned to continue to grow and thrive in the coming years.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://forestgrove-or.gov/362/Elections",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.forestgrove-or.gov/611/Meet-the-Council",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign website printed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Mariana Valenzuela\" Forest Grove council 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mariana Valenzuela\" Forest Grove (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mariana Valenzuela\" Forest Grove (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mariana Valenzuela\" Forest Grove (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Forest Grove Elections page (T1) lists the seats up Nov. 3, 2026: Mayor Malynda Wenzl, Councilor Mike Marshall, Councilor Karen Martinez and Council President Mariana Valenzuela; the Meet-the-Council page blocks automated fetch. Step 5 found only 2022-cycle Pamplin articles (not used, to keep treatment equal) and no 2026 coverage. "
+}

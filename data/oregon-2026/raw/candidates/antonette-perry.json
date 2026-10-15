@@ -1,0 +1,114 @@
+{
+  "id": "antonette-perry",
+  "name": "Antonette (Toni) Perry",
+  "name_variants": [
+    "Toni Perry",
+    "Antonette Perry"
+  ],
+  "race_id": "gladstone-council-pos-1",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "antonette-perry-b1",
+      "topic": "custom:bio",
+      "statement": "Perry's pamphlet statement lists work as a City of Portland emergency communications operator, small business owner and Oregon Judicial Department management assistant.",
+      "excerpt": "Emergency Communications Operator, City of Portland; Small business owner; Management Assistant, Oregon Judicial Department",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "antonette-perry-p1",
+      "topic": "custom:governance",
+      "statement": "In her voters' pamphlet statement, Perry says local government should be independent and nonpartisan.",
+      "excerpt": "I believe local government should be independent and nonpartisan.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "antonette-perry-p2",
+      "topic": "local-business",
+      "statement": "Perry's pamphlet statement says Gladstone does not need to become a destination for big-city tourism.",
+      "excerpt": "I do not believe we need to turn Gladstone into a destination for big-city tourism",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "antonette-perry-p3",
+      "topic": "custom:community-character",
+      "statement": "Perry's pamphlet statement says Gladstone residents value the character of their small community.",
+      "excerpt": "I believe Gladstone residents value the character of our small community.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No T3 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-24)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "No prior government experience (pamphlet: 'None')",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website listed in pamphlet",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Toni Perry\" OR \"Antonette Perry\" Gladstone 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Toni Perry\" Gladstone \"\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Toni Perry\" Gladstone \"\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Toni Perry\" Gladstone \"\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Incumbency null: no official Gladstone council roster found (Blue Book lists only the mayor); pamphlet lists no prior government experience."
+}

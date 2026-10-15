@@ -1,0 +1,114 @@
+{
+  "id": "nathan-ong-norris",
+  "name": "Nathan Ong Norris",
+  "name_variants": [],
+  "race_id": "multnomah-county-commissioner-d2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://multco.us/board",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "nathan-ong-norris-b1",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Ong Norris holds a master's degree in Emergency Management & Community Resilience from Portland State University.",
+      "excerpt": "He has a master’s degree in Emergency Management & Community Resilience from Portland State University.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Surname is 'Ong Norris' (ballot listing 'Nathan Ong Norris'; the Mercury refers to him as 'Ong Norris'), not 'Norris'. Statement reworded accordingly.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "nathan-ong-norris-p1",
+      "topic": "environment",
+      "statement": "The Portland Mercury reports Ong Norris vows to be the county's \"Climate Justice Commissioner.\"",
+      "excerpt": "vowing to be the “Climate Justice Commissioner.”",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Surname is 'Ong Norris' (ballot listing 'Nathan Ong Norris'; the Mercury refers to him as 'Ong Norris'), not 'Norris'. Statement reworded accordingly.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nathan-ong-norris-p2",
+      "topic": "social-services",
+      "statement": "The Portland Mercury lists Preschool for All, libraries and emergency management among the county services Ong Norris wants to preserve, improve and expand.",
+      "excerpt": "including Preschool for All, libraries, emergency management, and more.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Surname is 'Ong Norris' (ballot listing 'Nathan Ong Norris'; the Mercury refers to him as 'Ong Norris'), not 'Norris'. Statement reworded accordingly. Also clarified from article context that he wants to preserve, improve and expand these services.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nathan-ong-norris-p3",
+      "topic": "environment",
+      "statement": "The Portland Mercury reports Ong Norris supports policies providing clean water, clean air, and fully funded libraries and public schools.",
+      "excerpt": "policies that provide clean water, clean air, fully funded libraries and public schools",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Surname is 'Ong Norris' (ballot listing 'Nathan Ong Norris'; the Mercury refers to him as 'Ong Norris'), not 'Norris'. Statement reworded accordingly.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [
+    "Voters' pamphlet statement not readable (PDF fetch cut off before p. 46)",
+    "No campaign website found in a T1/T3 source",
+    "Candidate filing PDF had no readable fields",
+    "No T1 source for bio facts",
+    "Individual voters' pamphlet statement PDF on multco.us is a scan with no machine-readable text"
+  ],
+  "voting_record": [],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 4,
+    "rejected": 0,
+    "balance_notes": "Source-access disparity, not candidate disparity: the large-print/full pamphlet PDFs are only readable through Broussard and the start of Greene's statements, and the individual statement PDFs for Broussard, Greene, Williams, Ong Norris and Zaghloul are scans with no machine-readable text. Cruz and Robertson have readable individual statements, so they have T1 positions; Williams, Ong Norris and Zaghloul have only T3 (Portland Mercury 2026-09-26) items, and Broussard and Greene mix T1 bio with few positions. Verifier hit the same limits (PDF text truncated at Greene's statement). Same search effort appears applied to all seven; disparity is documented in each file's gaps. File-level: Surname in statements corrected to 'Ong Norris'."
+  }
+}

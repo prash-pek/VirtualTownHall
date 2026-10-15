@@ -1,0 +1,223 @@
+{
+  "id": "will-delplato",
+  "name": "Will DelPlato",
+  "name_variants": [
+    "William DelPlato"
+  ],
+  "race_id": "gresham-council-pos-2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.greshamoregon.gov/meet-the-council",
+  "occupation": "Retired",
+  "website_url": "https://votedelplato.com",
+  "website_verified_via": "https://multco.us/file/gresham_pos_2_will_delplato/download",
+  "bio": [
+    {
+      "id": "will-delplato-b1",
+      "topic": "custom:bio",
+      "statement": "In his voters' pamphlet statement, DelPlato lists his previous employment as registered nurse and U.S. Army veteran.",
+      "excerpt": "Registered Nurse, U.S. Army Veteran",
+      "source": {
+        "url": "https://multco.us/file/gresham_pos_2_will_delplato/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "'Retired' is under a separate heading (kept in the file-level occupation field) and not in the excerpt; the excerpt is listed under previous employment. Reworded.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-delplato-b2",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists an MBA in strategic leadership and registered nurse training.",
+      "excerpt": "MBA, Strategic Leadership; Registered Nurse",
+      "source": {
+        "url": "https://multco.us/file/gresham_pos_2_will_delplato/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-delplato-b3",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists prior service as a board member of The Ridge Condominiums.",
+      "excerpt": "Board Member, The Ridge Condominiums",
+      "source": {
+        "url": "https://multco.us/file/gresham_pos_2_will_delplato/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-delplato-b4",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement says he has worked for more than 30 years with families, leading healthcare teams.",
+      "excerpt": "For more than 30 years, I've worked with families during some of life's most challenging moments, leading healthcare teams, managing resources responsibly, and making decisions that put people first.",
+      "source": {
+        "url": "https://multco.us/file/gresham_pos_2_will_delplato/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "'Leading healthcare teams' was past the end of the excerpt. Extended the excerpt to the full sentence on the page.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "will-delplato-p1",
+      "topic": "custom:governance",
+      "statement": "In his pamphlet statement, DelPlato names affordable government, community safety and a thriving economy as his priorities.",
+      "excerpt": "My priorities are simple: Affordable Government, Community Safety, and a Thriving Economy.",
+      "source": {
+        "url": "https://multco.us/file/gresham_pos_2_will_delplato/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-delplato-p2",
+      "topic": "taxes",
+      "statement": "His pamphlet statement says the city should review spending for efficiencies and hold programs accountable.",
+      "excerpt": "We should review city spending for efficiencies and hold programs accountable.",
+      "source": {
+        "url": "https://multco.us/file/gresham_pos_2_will_delplato/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-delplato-p3",
+      "topic": "taxes",
+      "statement": "His pamphlet statement says Gresham's budget shortfall is growing and the city should make small, early changes now.",
+      "excerpt": "Gresham's budget shortfall is growing, and we should act now with small, early changes",
+      "source": {
+        "url": "https://multco.us/file/gresham_pos_2_will_delplato/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-delplato-p4",
+      "topic": "local-business",
+      "statement": "His pamphlet statement calls for making Gresham more business friendly by streamlining permitting.",
+      "excerpt": "We must also make Gresham more business friendly by streamlining permitting",
+      "source": {
+        "url": "https://multco.us/file/gresham_pos_2_will_delplato/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-delplato-p5",
+      "topic": "public-safety",
+      "statement": "His pamphlet statement says he will support police and first responders.",
+      "excerpt": "I'll work to ensure taxpayer dollars are spent responsibly, support our police and first responders,",
+      "source": {
+        "url": "https://multco.us/file/gresham_pos_2_will_delplato/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "will-delplato-p6",
+      "topic": "infrastructure",
+      "statement": "His pamphlet statement cites the current water issue as one of the challenges Gresham faces.",
+      "excerpt": "Gresham is a community with tremendous potential, but we face real challenges, like the current water issue.",
+      "source": {
+        "url": "https://multco.us/file/gresham_pos_2_will_delplato/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (ignoring line wraps and quote style).",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record (has not held public office)",
+    "No T3 coverage of his campaign found"
+  ],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Race gresham-council-pos-2: Coleman-Cox 9 items, DelPlato 10 items, all T1 pamphlet statements. Comparable coverage; neither has T3 coverage, consistent with spot-searches. Both incumbent=false, supported by greshamoregon.gov/meet-the-council (Position 2 is held by Eddy Morales). City elections page lists exactly these two (DelPlato as 'William DelPlato'). Website votedelplato.com printed in his statement."
+  }
+}

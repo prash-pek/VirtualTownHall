@@ -1,0 +1,267 @@
+[
+  {
+    "target": "neil-tunmore",
+    "field": "name",
+    "current": "Neil Tunmore",
+    "proposed": "Neil Tunmore",
+    "evidence_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+    "evidence_excerpt": "City of Lake Oswego, Councilor Vote for 4 4 Year Term ... Bryan Guiney / Patrick Walsh / Suzanne Miles / Peren Tiemann / Neil Tunmore / Heather Ramsey",
+    "tier": "T1",
+    "cross_checks": [
+      {
+        "url": "https://docs.clackamas.us/documents/drupal/11adcfe0-1df4-4a9d-ad00-30bcf2701bca",
+        "publisher": "City of Lake Oswego (certification, via Clackamas County Elections)",
+        "agrees": true
+      },
+      {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/city-lake-oswego-certified-candidates-nov-2026/download",
+        "publisher": "City of Lake Oswego (certification, via Washington County Elections)",
+        "agrees": true
+      },
+      {
+        "url": "https://multco.us/file/lake_oswego_councilor_neil_tunmore/download",
+        "publisher": "Multnomah County Elections (candidate's JCVP-01 statement)",
+        "agrees": true
+      },
+      {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (voters' pamphlet index, p. C-4, prints 'Niel Tunmore')",
+        "agrees": false
+      }
+    ],
+    "status": "confirmed",
+    "note": "Multnomah County's official Ballot Content report (Lake Oswego spans Multnomah/Clackamas/Washington) prints 'Neil'. No Clackamas sample ballot is published online, so the Clackamas ballot itself could not be checked; its pamphlet index 'Niel' is treated as an index typo. Record 'Niel Tunmore' as an alternate spelling. Side note: the Multnomah heading says '4 Year Term' for all four seats, but the city certification says the fourth seat is a 2-year vacancy term; worth a separate check."
+  },
+  {
+    "target": "kc-bisenius",
+    "field": "name",
+    "current": "KC Bisenius",
+    "proposed": "KC Bisenius",
+    "evidence_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "evidence_excerpt": "City of Molalla, Councilor / KC Bisenius* / Monica Bergmann* / Sheila Howe*",
+    "tier": "T1",
+    "cross_checks": [
+      {
+        "url": "https://docs.clackamas.us/documents/drupal/5b0f9507-07da-4606-9959-252ac8ac8907",
+        "publisher": "City of Molalla (certification letter, 2026-08-24, prints 'Kevin “K.C.” Bisenius')",
+        "agrees": false
+      },
+      {
+        "url": "https://www.cityofmolalla.com/Departments/City-Recorders-Office/Elections",
+        "publisher": "City of Molalla elections page (prints 'Kevin \"K.C.\" Bisenius')",
+        "agrees": false
+      }
+    ],
+    "status": "unresolved",
+    "note": "No Clackamas County sample ballot or ballot-content report was found online, so the printed ballot spelling could not be confirmed. The county pamphlet index says 'KC Bisenius'; the city documents say 'Kevin \"K.C.\" Bisenius'. Current value kept. Separately, the Molalla elections page shows 'K.C. Bisenius: appointed September 2025, filling the remainder of Councilor RaeLynn Botsford's term' (term expires 2026-12-31), so he is a sitting councilor (see incumbent entry)."
+  },
+  {
+    "target": "kc-bisenius",
+    "field": "incumbent",
+    "current": null,
+    "proposed": true,
+    "evidence_url": "https://www.cityofmolalla.com/Departments/City-Recorders-Office/Elections",
+    "evidence_excerpt": "City Council members with terms expiring December 31, 2026: ... K.C. Bisenius: appointed September 2025, filling the remainder of Councilor RaeLynn Botsford's term",
+    "tier": "T1",
+    "cross_checks": [
+      {
+        "url": "https://www.cityofmolalla.com/Departments/City-Recorders-Office/Public-Notices/Current-Public-Notices/Public-Notice-Elections",
+        "publisher": "City of Molalla public notice",
+        "agrees": true
+      }
+    ],
+    "status": "confirmed",
+    "note": "Found incidentally (inventory gap 4, not one of the items assigned). Molalla's council is at-large (vote for 3), so no seat number has to match."
+  },
+  {
+    "target": "david-dull",
+    "field": "name",
+    "current": "David M Dull",
+    "proposed": "David M Dull",
+    "evidence_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "evidence_excerpt": "City of Rivergrove, Councilor / Leah Silber / Doug McLean* / David M Dull / Joan Joyce",
+    "tier": "T1",
+    "cross_checks": [],
+    "status": "unresolved",
+    "note": "No Clackamas or Washington County sample ballot was found online. The Washington County Rivergrove certification PDF has no machine-readable text, and the Clackamas 'Rivergrove' link returned only an accommodations notice, so the city letter's 'David Dull' could not be re-read. The Washington County pamphlet lists Rivergrove on WC-31-33, but the fetched text was cut off before those pages. Current value kept; record 'David Dull' (city letter, per first pass) as an alternate."
+  },
+  {
+    "target": "doug-mclean",
+    "field": "name",
+    "current": "Doug McLean",
+    "proposed": "Doug McLean",
+    "evidence_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "evidence_excerpt": "City of Rivergrove, Councilor / Leah Silber / Doug McLean* / David M Dull / Joan Joyce",
+    "tier": "T1",
+    "cross_checks": [],
+    "status": "unresolved",
+    "note": "Same situation as david-dull: no sample ballot was found, and the city certification could not be read as text. Current value kept; record 'Douglas McLean' (city letter, per first pass) as an alternate."
+  },
+  {
+    "target": "samual-brentano",
+    "field": "name",
+    "current": "Samual A Brentano",
+    "proposed": "Samual A Brentano",
+    "evidence_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+    "evidence_excerpt": "Marion County Samual A Brentano Write-in 4-Year Term, Vote For One Treasurer",
+    "tier": "T1",
+    "cross_checks": [
+      {
+        "url": "https://co.marion.or.us/TO",
+        "publisher": "Marion County Treasurer's Office page (prints 'Sam Brentano')",
+        "agrees": false
+      },
+      {
+        "url": "https://co.marion.or.us/BOC/Documents/CommissionerSamBrentano_Bio.pdf",
+        "publisher": "Marion County (bio, prints 'Sam Brentano')",
+        "agrees": false
+      }
+    ],
+    "status": "confirmed",
+    "note": "The printed sample ballot spells 'Samual A Brentano'. Under the canonical rule, keep it. Other official pages use 'Sam Brentano'; record that as an alternate. 'Samual' may be a ballot typo for 'Samuel', but no official source spelling 'Samuel' was found. co.marion.or.us/TO lists Sam Brentano as the current Treasurer (see incumbent entry)."
+  },
+  {
+    "target": "samual-brentano",
+    "field": "incumbent",
+    "current": null,
+    "proposed": true,
+    "evidence_url": "https://co.marion.or.us/TO",
+    "evidence_excerpt": "Sam Brentano Treasurer",
+    "tier": "T1",
+    "cross_checks": [],
+    "status": "confirmed",
+    "note": "Found incidentally (gap 4). The Marion County Treasurer's Office page names Sam Brentano as Treasurer. The office has a single seat, so the match is explicit."
+  },
+  {
+    "target": "maria-hinojos-pressey",
+    "field": "name",
+    "current": "Maria Hinojos Pressey",
+    "proposed": "Maria Hinojos Pressy",
+    "evidence_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+    "evidence_excerpt": "Colm Willis - Republican Maria Hinojos Pressy - Democrat, Independant, Working Families Write-in 4-Year Term, Vote For One Commissioner, Position 2",
+    "tier": "T1",
+    "cross_checks": [
+      {
+        "url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+        "publisher": "Marion County voters' pamphlet, candidate statement p.21 ('Maria Hinojos Pressey')",
+        "agrees": false
+      },
+      {
+        "url": "https://www.co.marion.or.us/CO/elections/Results/Documents/20260519/Cumulative%20Results-6-3-2026%2005-03-50%20PM.pdf",
+        "publisher": "Marion County Elections, May 19 2026 primary cumulative results ('Maria Hinojos Pressey')",
+        "agrees": false
+      },
+      {
+        "url": "https://www.aol.com/articles/running-marion-county-commissioner-may-230333976.html",
+        "publisher": "Salem Statesman Journal (syndicated, 'Maria Hinojos Pressey')",
+        "agrees": false
+      }
+    ],
+    "status": "confirmed",
+    "note": "The sample ballot prints 'Pressy', so under the canonical rule (§5) name = 'Maria Hinojos Pressy'. Keep candidate id maria-hinojos-pressey and record 'Maria Hinojos Pressey' as an alternate. Every other source, including the official May primary results and her own statement, spells 'Pressey', and the same ballot block has another typo ('Independant'). This is very likely a typo in the pamphlet's sample ballot. HUMAN REVIEW recommended: ask Marion County Elections which spelling appears on the actual mailed ballot before publishing."
+  },
+  {
+    "target": "north-plains-council",
+    "field": "seats",
+    "current": null,
+    "proposed": 3,
+    "evidence_url": "https://cms3.revize.com/revize/northplains/Documents/How%20Do%20I/Document%20Center/Election%20Packet%20-%20City%20Council%202026.pdf",
+    "evidence_excerpt": "THREE CITY COUNCIL POSITIONS ARE OPEN FOR GENERAL ELECTION, NOVEMBER 3, 2026.",
+    "tier": "T1",
+    "cross_checks": [
+      {
+        "url": "https://northplains.gov/government/city_council/election_information.php",
+        "publisher": "City of North Plains (charter excerpt: 'three councilors will be elected for four-year terms')",
+        "agrees": true
+      },
+      {
+        "url": "https://forestgrovenewstimes.com/2026/09/10/6-candidates-vie-for-3-seats-on-north-plains-city-council/",
+        "publisher": "Forest Grove News-Times",
+        "agrees": true
+      }
+    ],
+    "status": "confirmed",
+    "note": "Source: the city's official 2026 council candidate packet (linked from northplains.gov as https://northplains.gov/Documents/How%20Do%20I/Document%20Center/Election%20Packet%20-%20City%20Council%202026.pdf, which redirects to the revize URL). The certification letter on washingtoncountyor.gov has no machine-readable text, and no sample ballot was found. Terms are 4 years. The city site lists the same six candidates as qualified."
+  },
+  {
+    "target": "johnson-city-council",
+    "field": "seats",
+    "current": null,
+    "proposed": null,
+    "evidence_url": "https://docs.clackamas.us/documents/drupal/1651bcbc-f426-4af8-b10e-bc77368cd265",
+    "evidence_excerpt": "",
+    "tier": "T1",
+    "cross_checks": [],
+    "status": "unresolved",
+    "note": "The Johnson City certification on clackamas.us has no machine-readable text. The Clackamas pamphlet lists three candidates under 'City of Johnson City, Councilor' with no vote-for number. johnsoncityoregon.gov (calendar) has nothing on the November seats. The WebSearch budget ran out before a city election page could be found. Seats remain null."
+  },
+  {
+    "target": "paul-savas",
+    "field": "incumbent",
+    "current": true,
+    "proposed": true,
+    "evidence_url": "https://clackamas.us/elections/localofficials.html",
+    "evidence_excerpt": "Paul Savas, County Commissioner, Position 2",
+    "tier": "T1",
+    "cross_checks": [
+      {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County voters' pamphlet (Savas, Position 2: 'Occupation: Clackamas County Commissioner')",
+        "agrees": true
+      },
+      {
+        "url": "https://www.clackamas.us/elections/november-3-2026-general-election",
+        "publisher": "Clackamas County Elections (lists Savas's filing under 'County Commissioner, Position 2')",
+        "agrees": true
+      }
+    ],
+    "status": "confirmed",
+    "note": "Position number now stated explicitly by an official Clackamas County page. Update race clackamas-county-commissioner-pos-2 notes to cite clackamas.us/elections/localofficials.html instead of 'position number not stated'."
+  },
+  {
+    "target": "diana-helm",
+    "field": "incumbent",
+    "current": true,
+    "proposed": true,
+    "evidence_url": "https://clackamas.us/elections/localofficials.html",
+    "evidence_excerpt": "Diana Helm, County Commissioner, Position 4",
+    "tier": "T1",
+    "cross_checks": [
+      {
+        "url": "https://www.clackamas.us/news/2025-05-19/diana-helm-appointed-clackamas-county-commissioner",
+        "publisher": "Clackamas County news release 2025-05-19 ('Diana Helm has been appointed as Clackamas County Commissioner, Position #4.')",
+        "agrees": true
+      },
+      {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County voters' pamphlet (Helm, Position 4: 'Clackamas County Commissioner')",
+        "agrees": true
+      }
+    ],
+    "status": "confirmed",
+    "note": "Helm was appointed to Position 4 in May 2025 to serve through December 2026. Per the release, the November 2026 race is for the rest of the term (Jan 2027 to Dec 2028), so it is a 2-year term; check the race's term field. Update race clackamas-county-commissioner-pos-4 notes accordingly."
+  },
+  {
+    "target": "wilsonville-council",
+    "field": "source_url",
+    "current": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026-0/download?inline",
+    "proposed": "https://docs.clackamas.us/documents/drupal/96f2dbbd-27d1-465a-a1ae-7923d725f7e8",
+    "evidence_url": "https://docs.clackamas.us/documents/drupal/96f2dbbd-27d1-465a-a1ae-7923d725f7e8",
+    "evidence_excerpt": "City Councilor, Four-Year Term – Vote for Two ... Sam Scull, Adrienne Scritsmier, Jennie Hill, Katie Dunwell ... City of Wilsonville ... City Recorder/Elections Official",
+    "tier": "T1",
+    "cross_checks": [
+      {
+        "url": "https://wilsonvilleoregon.gov/administration/page/elections",
+        "publisher": "City of Wilsonville elections page ('Two seats on the City Council')",
+        "agrees": true
+      },
+      {
+        "url": "https://www.clackamas.us/elections/november-3-2026-general-election",
+        "publisher": "Clackamas County Elections (link labelled 'Wilsonville')",
+        "agrees": true
+      }
+    ],
+    "status": "confirmed",
+    "note": "Linked as 'Wilsonville' on the Clackamas County election page. It is a City of Wilsonville certification dated 2026-08-26, signed by Kimberly Veliz, City Recorder/Elections Official. Candidates and seats (2) match the inventory. The Washington County file (labelled 'City of Tualatin Certified Candidates Nov 2026', under the Wilsonville row) has no machine-readable text this pass, so it could not be re-verified."
+  }
+]

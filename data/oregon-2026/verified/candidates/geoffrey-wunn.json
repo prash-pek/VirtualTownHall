@@ -1,0 +1,218 @@
+{
+  "id": "geoffrey-wunn",
+  "name": "Geoffrey Wunn",
+  "name_variants": [
+    "Geoffery Wunn"
+  ],
+  "race_id": "troutdale-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721",
+  "occupation": "Pediatric/Neonatal Flight Nurse",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "geoffrey-wunn-b1",
+      "topic": "custom:bio",
+      "statement": "Troutdale's city directory lists Geoffrey Wunn as a city councilor.",
+      "excerpt": "City Councilor",
+      "source": {
+        "url": "https://www.troutdaleoregon.gov/mayorcitycouncil/directory-listing/geoffrey-wunn",
+        "publisher": "City of Troutdale",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Re-fetched; excerpt found verbatim; statement faithful and neutral."
+      }
+    },
+    {
+      "id": "geoffrey-wunn-b2",
+      "topic": "custom:bio",
+      "statement": "Wunn's voters' pamphlet statement lists present employment as pediatric/neonatal flight nurse.",
+      "excerpt": "Pediatric/Neonatal Flight Nurse",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_geoffrey_wunn/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "'24 years as an RN' is on the page (previous employment: 'RN, 24 years') but not in the excerpt; removed from the statement. Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "geoffrey-wunn-b3",
+      "topic": "custom:bio",
+      "statement": "Wunn's pamphlet statement lists Linfield College as educational background.",
+      "excerpt": "Linfield College",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_geoffrey_wunn/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "geoffrey-wunn-b4",
+      "topic": "custom:bio",
+      "statement": "Wunn's pamphlet statement lists current service as an elected Troutdale city councilor.",
+      "excerpt": "Current Elected Troutdale Councilor",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_geoffrey_wunn/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "geoffrey-wunn-p1",
+      "topic": "public-safety",
+      "statement": "In a voters' pamphlet statement, Wunn says police and fire services must remain one of the city's highest priorities.",
+      "excerpt": "I believe public safety, specifically strong and effective police and fire services, must remain one of our highest",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_geoffrey_wunn/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "geoffrey-wunn-p2",
+      "topic": "taxes",
+      "statement": "Wunn's pamphlet statement says fiscal responsibility matters and every taxpayer dollar should be spent wisely.",
+      "excerpt": "Fiscal responsibility matters, and every taxpayer dollar should be spent wisely.",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_geoffrey_wunn/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "geoffrey-wunn-p3",
+      "topic": "custom:budget",
+      "statement": "Wunn's pamphlet statement says Troutdale faces significant budget challenges in coming years.",
+      "excerpt": "Troutdale faces significant budget challenges in the years ahead.",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_geoffrey_wunn/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "geoffrey-wunn-p4",
+      "topic": "custom:parks",
+      "statement": "Wunn's pamphlet statement says the budget should reflect community priorities, including parks and police and fire services.",
+      "excerpt": "Our budget should reflect our community's priorities, including beautiful parks and the police and fire services",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_geoffrey_wunn/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "geoffrey-wunn-p5",
+      "topic": "custom:governance",
+      "statement": "Wunn's pamphlet statement pledges to ask hard questions and work for decisions made with Troutdale's future in mind.",
+      "excerpt": "I will ask the hard questions and work to ensure decisions are made with Troutdale’s future in mind.",
+      "source": {
+        "url": "https://multco.us/file/troutdale_councilor_geoffrey_wunn/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed in pamphlet statement",
+    "No 2026 T3 coverage found",
+    "No voting record collected (council votes not in scope of fixed search set)"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 8,
+    "rejected": 0,
+    "balance_notes": "Full T1 profile from pamphlet statement and city roster; comparable to Glantz and Lauer."
+  }
+}

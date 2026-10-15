@@ -1,0 +1,69 @@
+{
+  "id": "andy-krieck",
+  "name": "Andy Krieck",
+  "name_variants": [],
+  "race_id": "columbia-river-pud-subdivision-1",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement filed (asterisk in the Nov 2026 county pamphlet Candidate Index; none in the Military & Overseas guide)",
+    "No filing form with occupation or background found; Columbia County filed-candidates report lists name and office only",
+    "Incumbency not determined (no district roster found)",
+    "No campaign website or T3 coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "not found (no Columbia River PUD entries)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "used (Candidate Index marks him with asterisk: no statement filed)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.columbiacountyor.gov/media/Election/2026-11-03/Filed_9-02-2026.pdf",
+      "result": "used (Columbia County filed-candidates report confirms candidacy; no incumbent indicator)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "Columbia River PUD board of directors subdivision 1 (WebSearch)",
+      "result": "not found (no district roster page in results)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no domain in any T1/T3 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Andy Krieck\" Columbia River PUD",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Andy Krieck\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "not found"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Andy Krieck\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Andy Krieck\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Unopposed. Columbia River PUD is mostly in Columbia County; its filed-candidates report (E-023, 9/2/2026) lists Andy Krieck for Director, Subdivision 1. Step-4 query omitted \"2026\"."
+}

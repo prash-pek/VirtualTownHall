@@ -1,0 +1,89 @@
+{
+  "id": "monitor-rfpd-3-640",
+  "jurisdiction_id": "monitor-rfpd",
+  "number": "3-640",
+  "title": "Dissolution of Monitor RFPD Contingent Other Measures",
+  "ballot_label": "Caption: Dissolution of Monitor RFPD Contingent Other Measures (Question and summary not retrievable; see collection_notes.)",
+  "summary": "Would dissolve the Monitor Rural Fire Protection District as part of a three-measure consolidation with the Mt. Angel Fire District. Per the official explanatory statements for the related Marion County measures, the new Mt. Angel-Monitor Fire District forms only if voters approve all three: formation (24-529) and dissolution of each existing district (24-526 and this measure). The new district would have a $1.97 per $1,000 permanent tax rate.",
+  "yes_means": "A yes vote approves dissolving the Monitor Rural Fire Protection District, effective only if the related formation and Mt. Angel Fire District dissolution measures also pass.",
+  "no_means": "A no vote rejects dissolution; the Monitor Rural Fire Protection District would continue to operate.",
+  "fiscal_impact": "Per the official explanatory statement for related Measure 24-529: the new district's permanent tax rate would be $1.97 per $1,000 of assessed value, 'higher than the existing permanent tax rate of each district'; assets and reserves of the dissolving districts transfer to the new district.",
+  "full_text_url": "https://docs.clackamas.us/documents/drupal/5e9ffeb3-d3e6-4ca4-8e46-b11ac71b4969",
+  "arguments": [],
+  "topics": [
+    "public-safety",
+    "taxes"
+  ],
+  "gaps": [
+    "No YES argument found in T1/T3 sources (pamphlet unreadable; Woodburn Independent Sept 6, 2026 article quotes no supporters; Marion BOC July 27, 2026 minutes record seven public commenters without their content).",
+    "No NO argument found in T1/T3 sources (same searches)."
+  ],
+  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. County voters' pamphlet (https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513) lists this measure in its index, but WebFetch text extraction ends at page C-33 (~117k chars), before the measure section, so the pamphlet's explanatory statement and any filed arguments could not be read. The county ballot-title PDF linked from the election page returned only the multilingual accommodations notice (likely an image scan). Contingency, from official text: the explanatory statement for Measure 24-529 (Formation of Mt. Angel-Monitor Fire District; posted on docs.clackamas.us) says 'The new district will become operational only if all three related measures are approved by voters: formation of the new district and dissolution of each existing district.' and 'If all three measures are not adopted, the Mt. Angel-Monitor Fire District would not be formed, the two existing districts would continue to operate separately under their current tax rates'. Marion's explanatory statement for 24-526 (Mt. Angel Fire dissolution) says 'This measure will take effect only if all three related measures are approved by voters'. The 3-640 ballot title itself was not readable (county PDF is image-only), so 3-640's own wording of the contingency is unverified; the description relies on the two related official statements. Measures 24-526 and 24-529 do not name 3-640 by number in the text retrieved. If approved, new district would form January 1, 2027. full_text_url points to the 24-529 explanatory statement as the best readable official description. Inventory caption matches county page.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.clackamas.us/elections/november-3-2026-general-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/6e11de2e-fbd7-4acc-abbb-f87f5734202d",
+      "result": "not found"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/5e9ffeb3-d3e6-4ca4-8e46-b11ac71b4969",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://co.marion.or.us/CO/elections/Results/Documents/20261103/Explanatory%20Statement%20-%2024-526%20Mt.%20Angel%20Fire%20Dissolution.pdf",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://co.marion.or.us/CO/elections/Results/Documents/20261103/SEL%20803%20-%2024-526%20Mt.%20Angel%20Dissolution%20Final.pdf",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://mtangelfire.org/",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://mtangelfire.org/board-members%2Felections",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.co.marion.or.us/BOC/Documents/2025%20Current%20Board%20Session/7-27-2026%20Brd%20Sess%20Min%20-%20Mt.%20Angel%20-%20FINAL.pdf",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Monitor Rural Fire Protection District dissolution \"3-640\" Mt. Angel-Monitor Fire District",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Monitor Fire District dissolution ballot title November 2026 Mt. Angel consolidation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Mt. Angel Monitor fire district merger November 2026 vote $1.97 residents",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://woodburnindependent.com/2026/09/06/candidates-and-measures-ready-to-go-for-november-general-election/",
+      "result": "nothing relevant"
+    }
+  ]
+}

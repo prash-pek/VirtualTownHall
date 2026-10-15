@@ -1,0 +1,209 @@
+{
+  "id": "jayne-cronlund",
+  "name": "Jayne Cronlund",
+  "name_variants": [],
+  "race_id": "portland-council-d4",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "Small business owner",
+  "website_url": "https://jayneforaflourishingfuture.com",
+  "website_verified_via": "https://multco.us/file/portland_dist_4_jayne_cronlund/download",
+  "bio": [
+    {
+      "id": "jayne-cronlund-b1",
+      "topic": "custom:bio",
+      "statement": "Cronlund's voters' pamphlet statement lists a background as nonprofit executive director, school community organizer, family caregiver and AmeriCorps member.",
+      "excerpt": "Nonprofit executive director, school community organizer, family caregiver, AmeriCorps member",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_jayne_cronlund/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jayne-cronlund-b2",
+      "topic": "custom:bio",
+      "statement": "Cronlund's pamphlet statement lists a BA from Temple University and a JD from Northeastern University School of Law.",
+      "excerpt": "B.A. Temple University; J.D. Northeastern University School of Law",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_jayne_cronlund/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jayne-cronlund-b3",
+      "topic": "custom:bio",
+      "statement": "Cronlund's pamphlet statement lists service as 2nd vice president of Southwest Neighborhoods Inc.",
+      "excerpt": "Southwest Neighborhoods Inc. 2nd Vice President",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_jayne_cronlund/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jayne-cronlund-b4",
+      "topic": "custom:bio",
+      "statement": "OPB reports Cronlund is a nonprofit consultant who led a land conservancy nonprofit for more than a decade.",
+      "excerpt": "Cronlund is a nonprofit consultant who spent more than a decade leading a land conservancy nonprofit.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/portland-city-council-race-district-4/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "jayne-cronlund-p1",
+      "topic": "custom:governance",
+      "statement": "In the voters' pamphlet statement, Cronlund says they will use collaboration and shared leadership to solve the city's complex problems.",
+      "excerpt": "I will use the power of collaboration and shared leadership to solve the complex problems our city faces.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_jayne_cronlund/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jayne-cronlund-p2",
+      "topic": "economy",
+      "statement": "Cronlund's pamphlet statement calls for economic recovery by securing living wage jobs.",
+      "excerpt": "Economic recovery for our city by securing living wage jobs",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_jayne_cronlund/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jayne-cronlund-p3",
+      "topic": "custom:parks",
+      "statement": "Cronlund's pamphlet statement calls for sustained investment in shared spaces such as parks, trails, natural areas and business districts.",
+      "excerpt": "Sustained investment in safe, shared common spaces like parks, trails, natural areas and business districts.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_jayne_cronlund/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jayne-cronlund-p4",
+      "topic": "healthcare",
+      "statement": "Cronlund's pamphlet statement says the city faces a mental health and addiction crisis.",
+      "excerpt": "we are faced with a mental health and addiction crisis",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_jayne_cronlund/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jayne-cronlund-p5",
+      "topic": "economy",
+      "statement": "OPB reports Cronlund wants to bolster the city's job market, stabilize its parks system and rebuild public trust in government.",
+      "excerpt": "She wants to bolster the city’s job market, stabilize the city’s strained parks systems and rebuild public trust in government.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/portland-city-council-race-district-4/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jayne-cronlund-p6",
+      "topic": "custom:governance",
+      "statement": "In a Portland Mercury candidate profile, Cronlund says charter reform offers a continuing opportunity to restructure how the city does business.",
+      "excerpt": "Charter reform brings the continuing opportunity to restructure how the city does business",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record (has not held elected office)"
+  ],
+  "verification_summary": {
+    "verified": 9,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "D4: 10 items (7 T1, 3 T3); comparable. Website jayneforaflourishingfuture.com printed in pamphlet. Incumbent false confirmed. No pronouns stated; gendered pronouns replaced."
+  }
+}

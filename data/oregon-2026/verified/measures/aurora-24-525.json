@@ -1,0 +1,77 @@
+{
+  "id": "aurora-24-525",
+  "jurisdiction_id": "aurora",
+  "number": "24-525",
+  "title": "Voter Approval of Updated City Charter",
+  "ballot_label": "Voter Approval of Updated City Charter. Question: Should voters Approve the updated City Charter?",
+  "summary": "Asks City of Aurora voters to approve an updated city charter, which has not been amended since 1985. The update would also change Aurora from a strong-mayor (mayor-council) form of government to a council-manager form, in which a city manager appointed by the council handles daily operations, hiring and budget preparation. The mayor would remain a voting council member and presiding officer. The change would take effect January 1, 2027.",
+  "yes_means": "A yes vote approves the updated City of Aurora charter, including the change to a council-manager form of government.",
+  "no_means": "A no vote rejects the updated charter, leaving the 1985 charter and the current strong-mayor (mayor-council) form of government in place.",
+  "fiscal_impact": null,
+  "full_text_url": "https://www.co.marion.or.us/CO/elections/Results/Documents/20261103/Explanatory%20Statement%20-%2024-525%20City%20of%20Aroura_AMENDED.pdf",
+  "arguments": [
+    {
+      "id": "aurora-24-525-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "City of Aurora (official ballot title summary)",
+      "topic": "custom:local-government",
+      "statement": "The official ballot summary says the Aurora City Council believes the city should move from a strong-mayor to a city manager-council government, to separate volunteer leadership from day-to-day professional administration.",
+      "excerpt": "In addition, the City Council believes that the form of government in Aurora should change from its current form – strong mayor, to a city manager-council form of government. This change is driven by a desire to separate citizen volunteer leadership from day-to-day professional administration.",
+      "source": {
+        "url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+        "publisher": "Marion County Clerk's Office (Elections), Voters' Pamphlet Nov 3, 2026",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "Excerpt omitted the en dash in 'current form – strong mayor'; restored to match pamphlet p.18 text. Statement and attribution otherwise accurate."
+      }
+    }
+  ],
+  "topics": [
+    "custom:local-government"
+  ],
+  "gaps": [
+    "NO arguments: the Marion County voters' pamphlet states 'NO ARGUMENTS WERE FILED IN SUPPORT OF OR IN OPPOSITION TO THIS MEASURE'; no attributed opposition statement found.",
+    "YES arguments: no filed pamphlet arguments; the only YES-side item is the sponsor's rationale from the official ballot summary.",
+    "Full text of the updated charter was not found on a City of Aurora page; full_text_url points to the county-posted explanatory statement.",
+    "No press coverage found; T3 allowed-domain search not run (search budget exhausted)."
+  ],
+  "ballot_label_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Caption and question match pamphlet p.18."
+  },
+  "summary_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches ballot summary (p.18) and explanatory statement (p.36): 1985 charter, council-manager change, manager 'appointed by the full City Council', mayor remains voting member/presiding officer, effective January 1, 2027."
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches explanatory statement 'Effect of a Vote' (p.36)."
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches explanatory statement: 'A NO vote retains the existing mayor-council (\"strong mayor\") form of government.'"
+  },
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "YES: 1 item, official ballot-title summary text (explainer); 0 filed pamphlet arguments; 0 press. NO: 0 items. Disparity is explained: pamphlet p.36 states 'NO ARGUMENTS WERE FILED IN SUPPORT OF OR IN OPPOSITION TO THIS MEASURE' (documented in gaps). The YES-side item is the sponsor's rationale in the official ballot summary, not a filed argument. Spot search (Aurora Oregon charter 24-525 2026) found only the county explanatory statement; no missed T1/T2/T3 material."
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "id": "sharon-meieran",
+  "name": "Sharon Meieran",
+  "name_variants": [],
+  "race_id": "multnomah-county-chair",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://multco.us/board",
+  "occupation": "Founder, Fixing Multnomah County; Doctor, Portland Street Medicine",
+  "website_url": "https://fixmultco.com",
+  "website_verified_via": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+  "bio": [
+    {
+      "id": "sharon-meieran-b1",
+      "topic": "custom:bio",
+      "statement": "In her voters' pamphlet statement, Meieran lists her occupation as founder of Fixing Multnomah County and doctor with Portland Street Medicine.",
+      "excerpt": "Founder, Fixing Multnomah County; Doctor, Portland Street Medicine",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sharon-meieran-b2",
+      "topic": "custom:bio",
+      "statement": "Meieran's pamphlet statement lists prior service as Multnomah County Commissioner for District 1 and work as an emergency room doctor.",
+      "excerpt": "Multnomah County Commissioner, District 1; Emergency Room Doctor; President, Oregon College of Emergency Physicians;",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sharon-meieran-b3",
+      "topic": "custom:bio",
+      "statement": "Meieran's pamphlet statement lists a Doctor of Medicine from the UCSF School of Medicine.",
+      "excerpt": "UCSF School of Medicine, Doctor of Medicine; San Francisco State University, postbaccalaureate/pre-med courses;",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sharon-meieran-b4",
+      "topic": "custom:bio",
+      "statement": "Meieran's candidate filing lists past work as medical director of the Oregon Foundation for Reproductive Health.",
+      "excerpt": "Medical Director, Oregon Foundation for Reproductive Health",
+      "source": {
+        "url": "https://multco.us/file/sharon_meieran_candidate_filing/download",
+        "publisher": "Multnomah County Elections (candidate filing)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "sharon-meieran-p1",
+      "topic": "custom:governance",
+      "statement": "In her voters' pamphlet statement, Meieran says Multnomah County reacts instead of planning and spends money without specific goals.",
+      "excerpt": "That’s how I learned Multnomah County reacts instead of plans, spends money without specific goals, and answers to no one.",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement mentioned spending without specific goals, which the excerpt omitted. Extended the excerpt to the full sentence, confirmed verbatim on the pamphlet and on multco.us/file/multco_chair_sharon_meieran.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sharon-meieran-p2",
+      "topic": "public-safety",
+      "statement": "In her pamphlet statement, Meieran says that as a county commissioner she worked to end the county's ambulance crisis.",
+      "excerpt": "As County Commissioner, I used bold, honest leadership to end our ambulance crisis,",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sharon-meieran-p3",
+      "topic": "healthcare",
+      "statement": "Her pamphlet statement says Multnomah County is the reason Oregon ranks last in the nation for mental illness.",
+      "excerpt": "Multnomah County is the reason Oregon ranks last in the nation for mental illness.",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sharon-meieran-p4",
+      "topic": "custom:governance",
+      "statement": "Meieran's Fixing Multnomah County site calls for the county to account for every dollar it spends.",
+      "excerpt": "Account for every dollar",
+      "source": {
+        "url": "https://fix-multco.com/",
+        "publisher": "Fixing Multnomah County (Sharon Meieran)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "fix-multco.com is not the domain printed in the pamphlet (fixmultco.com, which blocks fetching) but is confirmed as Meieran's plan site by a T3 link in OPB (2026-06-09) and the site is credited to her. T2 kept."
+      }
+    },
+    {
+      "id": "sharon-meieran-p5",
+      "topic": "custom:governance",
+      "statement": "Meieran's Fixing Multnomah County site calls for the county to measure what matters.",
+      "excerpt": "Measure what matters",
+      "source": {
+        "url": "https://fix-multco.com/",
+        "publisher": "Fixing Multnomah County (Sharon Meieran)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "fix-multco.com confirmed via OPB (T3) link; see p4. T2 kept."
+      }
+    },
+    {
+      "id": "sharon-meieran-p6",
+      "topic": "social-services",
+      "statement": "OPB reported in June 2026 that Meieran has long called for systemic changes to how the county addresses behavioral health and homelessness.",
+      "excerpt": "systemic changes to how the county addresses behavioral health and homelessness.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/06/09/sharon-meieran-multnomah-county-chair/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-06-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sharon-meieran-p7",
+      "topic": "custom:governance",
+      "statement": "Willamette Week reported in June 2026 that Meieran says her plan sets specific, measurable goals with money and accountability tied to outcomes.",
+      "excerpt": "Not generic talking points, but specific, achievable, and measurable goals, with money and accountability tied to outcomes.",
+      "source": {
+        "url": "https://www.wweek.com/news/county/2026/06/09/former-county-commissioner-sharon-meieran-joins-race-for-multnomah-county-chair/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-06-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sharon-meieran-p8",
+      "topic": "taxes",
+      "statement": "In her voters' pamphlet statement, Meieran says the county can spend less while doing much more.",
+      "excerpt": "We can spend less but do so much more.",
+      "source": {
+        "url": "https://multco.us/file/multco_chair_sharon_meieran/download",
+        "publisher": "Multnomah County Elections (voters' pamphlet statement)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sharon-meieran-p9",
+      "topic": "social-services",
+      "statement": "Meieran's pamphlet statement says she wants a social service system in which neighborhoods are safe and businesses succeed.",
+      "excerpt": "I want to build a social service system where neighborhoods are safe, businesses succeed",
+      "source": {
+        "url": "https://multco.us/file/multco_chair_sharon_meieran/download",
+        "publisher": "Multnomah County Elections (voters' pamphlet statement)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [
+    "No pamphlet or campaign-site position found on taxes or the economy",
+    "sharonforchair.com (listed in her candidate filing) could not be fetched (robots disallowed)",
+    "No voting record collected for her prior District 1 term"
+  ],
+  "voting_record": [],
+  "verification_summary": {
+    "verified": 12,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "All three candidates have T1 pamphlet items plus T2 campaign-site items and T3 coverage (Singleton 5 bio/8 positions, Brim-Edwards 4/8, Meieran 4/9). Coverage comparable. Meieran's T2 items come from fix-multco.com (confirmed via an OPB link); her pamphlet website fixmultco.com and filing website SharonforChair.com could not be fetched. Missed T3: Portland Mercury 2026-03-10 'Inside the race for county chair' (Singleton and Brim-Edwards, pre-dates Meieran's entry) not used. File-level: website_url fixmultco.com confirmed by pamphlet statement (site blocks fetching); filing lists SharonforChair.com; T2 items use fix-multco.com, confirmed via OPB link."
+  }
+}

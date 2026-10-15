@@ -1,0 +1,212 @@
+{
+  "id": "diana-helm",
+  "name": "Diana Helm",
+  "name_variants": [],
+  "race_id": "clackamas-county-commissioner-pos-4",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://clackamas.us/elections/localofficials.html",
+  "occupation": "Clackamas County Commissioner",
+  "website_url": "https://votedianahelm.com",
+  "website_verified_via": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "diana-helm-b1",
+      "topic": "custom:bio",
+      "statement": "The county board page says Helm served as mayor of the former City of Damascus and as a city council member and president.",
+      "excerpt": "She served as Mayor of the former City of Damascus, as well as City Council member and President.",
+      "source": {
+        "url": "https://www.clackamas.us/bcc/helm",
+        "publisher": "Clackamas County Board of Commissioners",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "diana-helm-b2",
+      "topic": "custom:bio",
+      "statement": "A county news release says Helm was appointed Clackamas County Commissioner, Position 4, in May 2025.",
+      "excerpt": "Diana Helm has been appointed as Clackamas County Commissioner, Position #4.",
+      "source": {
+        "url": "https://www.clackamas.us/news/2025-05-19/diana-helm-appointed-clackamas-county-commissioner",
+        "publisher": "Clackamas County",
+        "tier": "T1",
+        "published_at": "2025-05-19",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "diana-helm-b3",
+      "topic": "custom:bio",
+      "statement": "Helm's pamphlet statement lists business ownership of Terra Casa and work as a principal buyer for Fred Meyer.",
+      "excerpt": "Business Owner: Terra Casa; Fred Meyer: Principle Buyer",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "diana-helm-p1",
+      "topic": "housing",
+      "statement": "Helm's pamphlet statement says she supports increasing affordable housing while reducing unnecessary regulatory burdens.",
+      "excerpt": "Diana supports increasing affordable housing while reducing unnecessary regulatory burdens",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "diana-helm-p2",
+      "topic": "technology",
+      "statement": "Helm's pamphlet statement says she led the effort for a moratorium on large data centers.",
+      "excerpt": "she led the effort for a moratorium on large data centers",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "diana-helm-p3",
+      "topic": "social-services",
+      "statement": "Helm's pamphlet statement says she will continue working to address root causes of homelessness and addiction.",
+      "excerpt": "Diana will continue working to address the root causes of homelessness and addiction",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "diana-helm-p4",
+      "topic": "economy",
+      "statement": "Helm's pamphlet statement says economic growth and a strong business climate are key to creating and retaining family-wage jobs.",
+      "excerpt": "Diana knows economic growth and a vibrant business climate are key to creating and retaining family-wage jobs",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "diana-helm-p5",
+      "topic": "public-safety",
+      "statement": "Helm's campaign site says ensuring the justice system works well for all citizens is a priority.",
+      "excerpt": "Ensuring our justice system works well for all of our citizens is a priority.",
+      "source": {
+        "url": "https://votedianahelm.com",
+        "publisher": "Diana Helm campaign",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "T2 confirmed: Helm's county pamphlet statement prints 'votedianahelm.com'. The site carries 'Paid for by: Diana Helm for County Commissioner'. OPB 2026-05-05 also quotes this justice-system phrase from Helm."
+      }
+    },
+    {
+      "id": "diana-helm-p6",
+      "topic": "taxes",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Helm says commissioners can choose not to add new taxes or fees.",
+      "excerpt": "But as commissioners, we can choose not to add new taxes or fees.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Helm_Clackamas%20County%20position%204_1777936583069.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": "2026-05-05",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Added May 2026 primary context. The answers are the candidate's own: OPB's 2026-05-05 article links this PDF as \"the candidates' complete answers to OPB's questions\" for the May 19, 2026 primary. The PDF itself is undated, so published_at reflects the article date. Excerpt verified verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "diana-helm-p7",
+      "topic": "public-safety",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Helm says she fully supports the sheriff's office, and that costs have grown faster than revenue, creating a gap that needs to be addressed.",
+      "excerpt": "I fully support our Sheriff's Office, our deputies, and our jail. At the same time, costs have grown faster than our revenue, creating a gap that needs to be addressed.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Helm_Clackamas%20County%20position%204_1777936583069.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": "2026-05-05",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "paraphrase_faithful"
+        ],
+        "note": "Added May 2026 primary context. The answers are the candidate's own: OPB's 2026-05-05 article links this PDF as \"the candidates' complete answers to OPB's questions\" for the May 19, 2026 primary. The PDF itself is undated, so published_at reflects the article date. Excerpt verified verbatim. The original excerpt didn't name the sheriff's office, so it was extended with the sentence before it in the same answer (verified verbatim).",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Commissioner Pos 4: Helm and Smith have 10 items each. Helm has 2 T1 county items (bio page and her 2025 appointment release) that Smith lacks as a non-incumbent, and Smith has one more OPB item. Balanced. Incumbency: clackamas.us/elections/localofficials.html lists 'Diana Helm, County Commissioner, Position 4', and the 2025-05-19 release says she was appointed to Position #4 through December 2026. The seat on the ballot is the unexpired remainder (Jan 2027 to Dec 2028)."
+  }
+}

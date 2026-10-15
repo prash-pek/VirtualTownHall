@@ -1,0 +1,107 @@
+{
+  "id": "mt-angel-monitor-fire-district-24-529",
+  "jurisdiction_id": "mt-angel-monitor-fire-district",
+  "number": "24-529",
+  "title": "Form Mt. Angel-Monitor Fire District and Set Tax Rate",
+  "ballot_label": "Form Mt. Angel-Monitor Fire District and Set Tax Rate. Question: Shall District be formed with a permanent tax rate of $1.97 per $1,000 assessed value beginning fiscal year 2027-28?",
+  "summary": "Would form the Mt. Angel-Monitor Fire District, combining the Mt. Angel Fire District and Monitor Rural Fire Protection District, effective January 1, 2027, only if both dissolution measures (24-526 and Clackamas 3-640) pass. Sets a permanent rate of $1.97 per $1,000 assessed value from July 1, 2027, replacing the two districts' rates. Employees and property transfer to the new district, governed by a five-member board elected November 3, 2026.",
+  "yes_means": "A yes vote forms the Mt. Angel-Monitor Fire District with a permanent tax rate of $1.97 per $1,000 assessed value, effective only if both dissolution measures also pass.",
+  "no_means": "A no vote does not form the new district; the Mt. Angel and Monitor districts continue to operate separately under their current tax rates.",
+  "fiscal_impact": "New permanent property tax rate of $1.97 per $1,000 of assessed value, first levied for fiscal 2027-28 (collection beginning November 2027); per the explanatory statement it is higher than the existing permanent rate of each district, whose rates would no longer be levied. Neither district has bonded debt; consolidation creates no new debt.",
+  "full_text_url": "https://docs.clackamas.us/documents/drupal/5e9ffeb3-d3e6-4ca4-8e46-b11ac71b4969",
+  "contingent_on": [
+    "mt-angel-fire-district-24-526",
+    "monitor-rfpd-3-640"
+  ],
+  "arguments": [
+    {
+      "id": "mt-angel-monitor-fire-district-24-529-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Explanatory statement based on information provided by the Mt. Angel Fire District",
+      "topic": "public-safety",
+      "statement": "The explanatory statement, based on Mt. Angel Fire District information, says consolidation is intended to provide full-time daytime staffing to improve weekday response reliability when volunteer availability is lowest.",
+      "excerpt": "Consolidation is intended to allow the district to: Provide full-time daytime staffing to improve weekday response reliability, when volunteer availability is lowest;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/5e9ffeb3-d3e6-4ca4-8e46-b11ac71b4969",
+        "publisher": "Clackamas County Elections (explanatory statement, Measure 24-529)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Excerpt verbatim. Document is the Marion County SEL 801 explanatory statement hosted on docs.clackamas.us; 'based on information provided by the Mt. Angel Fire District' confirmed."
+      }
+    },
+    {
+      "id": "mt-angel-monitor-fire-district-24-529-y2",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Explanatory statement based on information provided by the Mt. Angel Fire District",
+      "topic": "healthcare",
+      "statement": "The explanatory statement says consolidation is intended to add advanced-level medical response, including Advanced EMT or Paramedic coverage, during daytime hours.",
+      "excerpt": "Add advanced-level medical response, including Advanced EMT or Paramedic coverage, during daytime hours;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/5e9ffeb3-d3e6-4ca4-8e46-b11ac71b4969",
+        "publisher": "Clackamas County Elections (explanatory statement, Measure 24-529)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Excerpt verbatim in same explanatory statement."
+      }
+    }
+  ],
+  "topics": [
+    "public-safety",
+    "taxes"
+  ],
+  "gaps": [
+    "NO arguments: no attributed opposition statement found; pamphlet argument pages could not be read to confirm whether any were filed.",
+    "YES arguments: no filed pamphlet argument confirmed; YES-side items are the district-provided rationale in the explanatory statement.",
+    "Marion County Board of Commissioners minutes (July 27, 2026 hearing) list seven public commenters but do not record their positions.",
+    "T3 allowed-domain search not run (search budget exhausted)."
+  ],
+  "ballot_label_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches pamphlet p.18."
+  },
+  "summary_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches ballot summary (p.18) and explanatory statement: contingent on both dissolution measures; effective January 1, 2027; $1.97 rate from July 1, 2027 replacing existing rates; employees/property transfer; five-member board elected at large November 3, 2026. Linking Monitor dissolution to Clackamas 3-640 is confirmed by Clackamas County's election page."
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14"
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Explanatory statement: if not all three pass, district not formed and both continue under current rates."
+  },
+  "fiscal_impact_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Confirmed: $1.97 per $1,000; first levied for 2027-2028, collection beginning November 2027; 'higher than the existing permanent tax rate of each district' (existing rates not stated numerically); 'Neither existing district carries bonded debt'; no new debt."
+  },
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "YES: 2 items, both official explanatory-statement text (explainers); 0 filed arguments; 0 press. NO: 0 items. Whether pamphlet arguments were filed could not be confirmed: 24-529 is not on the readable pp.36-38 of the Marion pamphlet, and the Clackamas pamphlet text is truncated at p.C-33 before the measures. Gap is documented. Spot search found only county documents."
+  }
+}

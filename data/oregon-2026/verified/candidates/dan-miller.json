@@ -1,0 +1,30 @@
+{
+  "id": "dan-miller",
+  "name": "Dan Miller",
+  "name_variants": [
+    "Daniel Miller"
+  ],
+  "race_id": "gresham-council-pos-6",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.greshamoregon.gov/meet-the-council",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement filed (asterisk in the Nov 2026 county pamphlet Candidate Index; none in the Military & Overseas guide)",
+    "City filing packet PDF is a scan with no machine-readable text",
+    "No T3 coverage identifiable as this candidate (common name; results were other people)",
+    "No occupation, background or positions found in any T1/T2/T3 source",
+    "No campaign website found"
+  ],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race gresham-council-pos-6: Gladfelter 10 items (T1); Miller 0. The disparity is a documented non-filer gap: the county pamphlet Candidate Index shows 'Dan Miller*' (asterisk = no statement filed), his city filing PDF has no machine-readable text (verifier confirmed), and spot-search '\"Dan Miller\" Gresham city council position 6 2026' found nothing identifiable as him. Not unequal effort. incumbent=false is supported by meet-the-council (Position 6 is held by Gladfelter). City elections page lists him as 'Daniel Miller' (already in name_variants)."
+  }
+}

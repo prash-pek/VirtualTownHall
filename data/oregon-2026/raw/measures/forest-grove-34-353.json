@@ -1,0 +1,133 @@
+{
+  "id": "forest-grove-34-353",
+  "jurisdiction_id": "forest-grove",
+  "number": "34-353",
+  "title": "General Obligation Bonds to replace the current police facility",
+  "ballot_label": "General Obligation Bonds to replace the current police facility",
+  "summary": "The City of Forest Grove asks voters to approve general obligation bonds to replace its current police facility. The bond amount, estimated tax rate and term are in the official ballot title, which could not be read in machine-readable form during collection.",
+  "yes_means": "A yes vote approves the City of Forest Grove issuing general obligation bonds, repaid by property taxes, to replace the current police facility.",
+  "no_means": "A no vote rejects the City of Forest Grove issuing general obligation bonds to replace the current police facility.",
+  "fiscal_impact": null,
+  "full_text_url": "https://www.washingtoncountyor.gov/elections/documents/34-353-general-obligation-bonds-replace-current-police-facility/download?inline",
+  "arguments": [
+    {
+      "id": "forest-grove-34-353-y1",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Henry Reimann, Forest Grove Police Chief",
+      "topic": "public-safety",
+      "statement": "In February 2026 legislative testimony seeking state funds for the project, Forest Grove Police Chief Henry Reimann says building a new police facility is the most cost-effective, operationally efficient, long-term solution.",
+      "excerpt": "building a new facility is the most cost-effective, operationally efficient, and long-term solution.",
+      "source": {
+        "url": "https://apps.oregonlegislature.gov/liz/2026R1/Downloads/PublicTestimonyDocument/249394",
+        "publisher": "Oregon State Legislature (public testimony, Joint Committee on Ways and Means, Capital Construction Subcommittee)",
+        "tier": "T1",
+        "published_at": "2026-02-13",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "public-safety",
+    "infrastructure",
+    "taxes"
+  ],
+  "gaps": [
+    "No NO arguments collected: the county voters' pamphlet measure page (WC-56) could not be read, and no attributed opposition statement about the 2026 measure was found.",
+    "YES side has only one item, from legislative testimony rather than a filed pamphlet argument; filed pamphlet arguments, if any, could not be read.",
+    "Ballot question, summary, bond amount, tax rate and explanatory statement not collected: the county ballot-title PDF is a scanned image; the city's Police Facility Bond page blocks automated fetching (robots) and an earlier fetch showed 2025 Measure 34-343 content."
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/current-voters-pamphlet",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/34-353-general-obligation-bonds-replace-current-police-facility/download?inline",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (measure page WC-56)",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://forestgrove-or.gov/705/Police-Facility-Bond",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.forestgrove-or.gov/705/Police-Facility-Bond",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://forestgrove-or.gov/Archive.aspx?ADID=875",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://forestgrove-or.gov/Archive.aspx?ADID=925",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://apps.oregonlegislature.gov/liz/2026R1/Downloads/PublicTestimonyDocument/249394",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://apps.oregonlegislature.gov/liz/2026R1/Downloads/PublicTestimonyDocument/249596",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: Forest Grove \"34-353\" police facility bond 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: Forest Grove police station bond November 2026 ballot council",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: Forest Grove city council refers police facility bond November 2026 election resolution",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: \"Forest Grove\" police facility bond November 2026 supporters yes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: \"Forest Grove\" police bond 2026 vote no opposition taxes residents",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://forestgrovenewstimes.com/category/news/public-safety",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch allowed_domains (T3 list)",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "WebSearch: \"Measure 34-353\" Forest Grove",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Oregon local ballot titles have no official result-of-vote text; yes_means/no_means are neutral one-sentence descriptions written by the collector strictly from the official ballot caption/question. Caption quoted from the Washington County current-election page link text; matches inventory.json; number and jurisdiction match. The 2026 bond amount is not confirmed from an official 2026 ballot source. A Feb 14, 2026 letter by State Sen. Janeen Sollman (oregonlegislature.gov testimony 249596) says the estimated total project cost is $29.5 million, funded partly by a citywide bond measure on the 2026 ballot; the city's bond web page describes the earlier May 2025 measure (34-343, $29.5 million, about $263 per household per year), which the police chief's testimony says failed 48% to 52%. None of these figures were used as the 2026 ballot amount. The YES item comes from the police chief's testimony to the Legislature requesting $3 million in state capital funds, which mentions the planned November 2026 measure; it is not a filed pamphlet argument. Search results from citizenportal.ai (AI summary site, excluded) reported 2026 council referral and supporter comments; not used. The Washington County Nov 3, 2026 voters' pamphlet lists this measure in its table of contents, but the fetchable text layer of the PDF ends at about page WC-29 (119,746 characters), so the measure pages (ballot title, explanatory statement, arguments) could not be read. The county ballot-title PDF linked from the current-election page is a scanned image with no machine-readable text. A verifier or human with a PDF/OCR viewer should check the pamphlet measure pages for filed arguments. The session-wide WebSearch budget ran out before the final per-side '\"Measure <number>\" <jurisdiction>' search could be run; the allowed_domains T3 search was rejected by the search proxy (HTTP 400) on every attempt, so T3 coverage relies on plain searches. Outlet-specific follow-up searches were not possible."
+}

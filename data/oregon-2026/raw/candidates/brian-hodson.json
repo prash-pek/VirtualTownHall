@@ -1,0 +1,75 @@
+{
+  "id": "brian-hodson",
+  "name": "Brian D Hodson",
+  "name_variants": [
+    "Brian Hodson"
+  ],
+  "race_id": "canby-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "brian-hodson-b1",
+      "topic": "custom:bio",
+      "statement": "Canby City Council minutes from January 2026 record Hodson attending as mayor.",
+      "excerpt": "Mayor Hodson present;",
+      "source": {
+        "url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf",
+        "publisher": "City of Canby (City Council minutes, Jan. 7, 2026)",
+        "tier": "T1",
+        "published_at": "2026-01-07",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No candidate statement in the county voters' pamphlet (marked as not purchasing space)",
+    "No campaign website found",
+    "No 2026 T3 press coverage found",
+    "No public positions found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (no statement; listed p. C-18 area index only)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website found",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Brian Hodson\" Canby mayor 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Brian Hodson\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Brian Hodson\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Brian Hodson\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Unopposed. Incumbent per Jan. 2026 council minutes roll call ('Mayor Hodson present'). Pamphlet carries no statement for him (he appears only in other candidates' endorsement lists). Step-5 hits are 2019-2021 coverage (COVID letters, KOIN 'Mayor Monday', Pamplin), not 2026 positions."
+}

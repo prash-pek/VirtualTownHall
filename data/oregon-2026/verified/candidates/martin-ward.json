@@ -1,0 +1,235 @@
+{
+  "id": "martin-ward",
+  "name": "Martin Ward",
+  "name_variants": [],
+  "race_id": "portland-council-d3",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "City Council Candidate",
+  "website_url": "https://www.theprinceofpeace.net",
+  "website_verified_via": "https://multco.us/file/portland_dist_3_martin_ward/download",
+  "bio": [
+    {
+      "id": "martin-ward-b1",
+      "topic": "custom:bio",
+      "statement": "Ward's voters' pamphlet statement lists a master's degree in political science.",
+      "excerpt": "Master's Degree in Political Science",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_martin_ward/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "martin-ward-b2",
+      "topic": "custom:bio",
+      "statement": "Ward's city filing form lists his current occupation as not employed.",
+      "excerpt": "not employed",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/2026-ward-martin-aud-120-form-redacted/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 City of Portland AUD-120 candidate filing form (Councilor District 3), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "martin-ward-b3",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury describes Ward as a perennial candidate in Oregon politics.",
+      "excerpt": "Ward, 35, is a professional and perennial candidate in Oregon politics.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Mercury (Mercury Election Strike Force, 2026-09-09), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked. The Mercury's characterization is attributed to the Mercury.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "martin-ward-p1",
+      "topic": "custom:budget",
+      "statement": "Ward's voters' pamphlet statement proposes an estimated $1-1.5 billion in budget cuts, mainly by cutting construction projects.",
+      "excerpt": "Have an estimated 1-1.5 billion dollars of budget cuts, mainly by cutting construction projects",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_martin_ward/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "martin-ward-p2",
+      "topic": "housing",
+      "statement": "Ward's pamphlet statement says government ownership has lowered rent by around 30-40% by eliminating landlords.",
+      "excerpt": "Government ownership has shown to lower rent by around 30-40% due to the elimination of landlords",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_martin_ward/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "martin-ward-p3",
+      "topic": "social-services",
+      "statement": "Ward's pamphlet statement says about $600 million is needed to build permanent shelters for all homeless people.",
+      "excerpt": "Need about 600 million to build new permanent shelters to house all homeless",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_martin_ward/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "martin-ward-p4",
+      "topic": "social-services",
+      "statement": "Ward's pamphlet statement says he would fund food stamps at about $20-30 million a year.",
+      "excerpt": "Will fund food stamps, need about 20-30 million annually.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_martin_ward/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "martin-ward-p5",
+      "topic": "education",
+      "statement": "Ward's pamphlet statement proposes making grades 6-12 more focused on students' desired occupations.",
+      "excerpt": "Main reforms will revolve around having 6-12th grade be more focused on students' desired occupation.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_martin_ward/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "martin-ward-p6",
+      "topic": "economy",
+      "statement": "Ward's pamphlet statement says he would stop the demolition of Lloyd Center and pursue a plan to revitalize the mall.",
+      "excerpt": "Will stop the demolition of lloyd center, and roll out a more reasonable plan to revitalize the mall.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_martin_ward/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "martin-ward-p7",
+      "topic": "public-safety",
+      "statement": "OPB reports Ward wants to cut city construction projects and install more surveillance cameras to address crime.",
+      "excerpt": "Martin Ward, unemployed, wants to cut city construction projects and install more surveillance cameras to address crime.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/what-to-know-about-portland-district-3-council-race/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in OPB (Alex Zielinski, 2026-10-07), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "martin-ward-p8",
+      "topic": "taxes",
+      "statement": "The Portland Mercury reports Ward plans to eliminate almost every local tax and fee.",
+      "excerpt": "plans to eliminate almost every local tax and fee",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Mercury (Mercury Election Strike Force, 2026-09-09), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record (has not held elected office)"
+  ],
+  "verification_summary": {
+    "verified": 11,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race portland-council-d3 (21 candidates). Every candidate was searched in the same shared sources: the Mercury (2026-09-09), OPB (2026-10-07), the Tribune Q&A (2026-10-13), the Multnomah pamphlet and the 2026 AUD-120 forms. Ward has 3 bio and 8 position items (T1 pamphlet, T3). The website theprinceofpeace.net is printed in the pamphlet statement. Missed material: Ward answered the Tribune Q&A, but no item was taken from it. That does not change balance much given his strong T1 coverage. Incumbent=false confirmed."
+  }
+}

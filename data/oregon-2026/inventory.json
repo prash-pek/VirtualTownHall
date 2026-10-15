@@ -3200,7 +3200,7 @@
       "jurisdiction_id": "north-plains",
       "office": "City Council",
       "district": null,
-      "seats": null,
+      "seats": 3,
       "partisan": false,
       "candidate_ids": [
         "anna-warrington",
@@ -3339,7 +3339,7 @@
         "jennie-hill",
         "katie-dunwell"
       ],
-      "source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026-0/download?inline",
+      "source_url": "https://docs.clackamas.us/documents/drupal/96f2dbbd-27d1-465a-a1ae-7923d725f7e8",
       "notes": "Washington County page mislabels this Wilsonville certification link as 'City of Tualatin'."
     },
     {
@@ -4134,7 +4134,11 @@
       "race_id": "or-us-senate",
       "party": "Republican",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "name_variants": [
+        "Brock Smith"
+      ]
     },
     {
       "id": "jeff-merkley",
@@ -4147,7 +4151,8 @@
         "Democrat",
         "Working Families"
       ],
-      "notes": "Incumbency per Oregon Blue Book (U.S. Senators)."
+      "notes": "Incumbency per Oregon Blue Book (U.S. Senators).",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "gary-lyndon-dye",
@@ -4155,7 +4160,11 @@
       "race_id": "or-us-senate",
       "party": "Libertarian",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "name_variants": [
+        "Gary Dye"
+      ]
     },
     {
       "id": "chris-henry",
@@ -4167,7 +4176,8 @@
       "nominating_parties": [
         "Progressive",
         "Pacific Green"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "barbara-kahl",
@@ -4175,7 +4185,11 @@
       "race_id": "or-us-house-1",
       "party": "Republican",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "name_variants": [
+        "Barbara Kahl"
+      ]
     },
     {
       "id": "suzanne-bonamici",
@@ -4187,7 +4201,8 @@
       "nominating_parties": [
         "Democrat",
         "Working Families"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "chris-beck",
@@ -4199,7 +4214,8 @@
       "nominating_parties": [
         "Democrat",
         "Independent"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf"
     },
     {
       "id": "cliff-bentz",
@@ -4207,7 +4223,8 @@
       "race_id": "or-us-house-2",
       "party": "Republican",
       "incumbent": true,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf"
     },
     {
       "id": "maxine-dexter",
@@ -4215,7 +4232,11 @@
       "race_id": "or-us-house-3",
       "party": "Democrat",
       "incumbent": true,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "name_variants": [
+        "Maxine Dexter"
+      ]
     },
     {
       "id": "loran-ayles",
@@ -4223,7 +4244,8 @@
       "race_id": "or-us-house-3",
       "party": "Republican",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "monique-despain",
@@ -4235,7 +4257,8 @@
       "nominating_parties": [
         "Republican",
         "Libertarian"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf"
     },
     {
       "id": "val-hoyle",
@@ -4247,7 +4270,8 @@
       "nominating_parties": [
         "Democrat",
         "Working Families"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf"
     },
     {
       "id": "justin-filip",
@@ -4259,7 +4283,8 @@
       "nominating_parties": [
         "Pacific Green",
         "Progressive"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf"
     },
     {
       "id": "janelle-bynum",
@@ -4267,7 +4292,11 @@
       "race_id": "or-us-house-5",
       "party": "Democrat",
       "incumbent": true,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "name_variants": [
+        "Janelle Bynum"
+      ]
     },
     {
       "id": "andrea-townsend",
@@ -4275,7 +4304,8 @@
       "race_id": "or-us-house-5",
       "party": "Pacific Green",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "patti-adair",
@@ -4287,7 +4317,8 @@
       "nominating_parties": [
         "Republican",
         "Libertarian"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "andrea-salinas",
@@ -4299,7 +4330,8 @@
       "nominating_parties": [
         "Democrat",
         "Independent"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf"
     },
     {
       "id": "david-russ",
@@ -4307,7 +4339,8 @@
       "race_id": "or-us-house-6",
       "party": "Republican",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf"
     },
     {
       "id": "brett-smith",
@@ -4315,7 +4348,8 @@
       "race_id": "or-governor",
       "party": "Pacific Green",
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf"
     },
     {
       "id": "tina-kotek",
@@ -4327,7 +4361,8 @@
       "nominating_parties": [
         "Democrat",
         "Working Families"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/state/executive/governor-bio.aspx"
     },
     {
       "id": "christine-drazan",
@@ -4339,7 +4374,8 @@
       "nominating_parties": [
         "Republican",
         "Libertarian"
-      ]
+      ],
+      "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/state/executive/governor-bio.aspx"
     },
     {
       "id": "denise-krause",
@@ -5737,7 +5773,11 @@
       "race_id": "or-circuit-court-4-pos-2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "name_variants": [
+        "Diane Sykes"
+      ]
     },
     {
       "id": "laura-maurer-rowan",
@@ -5745,7 +5785,12 @@
       "race_id": "or-circuit-court-4-pos-2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "name_variants": [
+        "Laura M Rowan",
+        "Laura Mauer Rowan"
+      ]
     },
     {
       "id": "elizabeth-savage",
@@ -5753,7 +5798,8 @@
       "race_id": "or-circuit-court-4-pos-14",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
     },
     {
       "id": "joseph-hagedorn",
@@ -5761,7 +5807,8 @@
       "race_id": "or-circuit-court-4-pos-14",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
     },
     {
       "id": "thaddeus-betz",
@@ -5809,7 +5856,11 @@
       "race_id": "or-circuit-court-4-pos-6",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "name_variants": [
+        "Sonia Montalbano"
+      ]
     },
     {
       "id": "kara-brooks",
@@ -5817,7 +5868,12 @@
       "race_id": "or-circuit-court-5-pos-5",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download"
+      "filing_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+      "name_variants": [
+        "Kara A. Brooks",
+        "Kara Brooks"
+      ]
     },
     {
       "id": "zohra-tourville",
@@ -5865,7 +5921,8 @@
       "race_id": "multnomah-county-chair",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/shannon_singleton_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/shannon_singleton_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "julia-brim-edwards",
@@ -5873,7 +5930,8 @@
       "race_id": "multnomah-county-chair",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/julia_brim-edwards_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/julia_brim-edwards_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "sharon-meieran",
@@ -5881,7 +5939,8 @@
       "race_id": "multnomah-county-chair",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/sharon_meieran_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/sharon_meieran_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "bruce-broussard",
@@ -5889,7 +5948,8 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/bruce_broussard_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/bruce_broussard_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "herman-greene",
@@ -5897,7 +5957,8 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/herman_greene_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/herman_greene_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "bri-williams",
@@ -5905,7 +5966,8 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/bri_williams_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/bri_williams_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "serena-cruz",
@@ -5913,7 +5975,8 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/serena_cruz_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/serena_cruz_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "nathan-ong-norris",
@@ -5921,7 +5984,8 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/nathan_ong_norris_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/nathan_ong_norris_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "nabil-zaghloul",
@@ -5929,7 +5993,8 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/nabil_zaghloul_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/nabil_zaghloul_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "tony-robertson",
@@ -5937,31 +6002,38 @@
       "race_id": "multnomah-county-commissioner-d2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://multco.us/file/tony_robertson_candidate_filing/download"
+      "filing_source_url": "https://multco.us/file/tony_robertson_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/board"
     },
     {
       "id": "nicole-pexton",
       "name": "Nicole Pexton",
       "race_id": "multnomah-county-auditor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/nicole_pexton_candidate_filing/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/nicole_pexton_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/info/county-auditor-and-staff"
     },
     {
       "id": "nicole-morrisey-odonnell",
       "name": "Nicole Morrisey O'Donnell",
       "race_id": "multnomah-county-sheriff",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/nicole_morrisey_o'donnell_candidate_filing-0/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/nicole_morrisey_o'donnell_candidate_filing-0/download",
+      "incumbent_source_url": "https://www.mcso.us/about-mcso/meet-sheriff",
+      "name_variants": [
+        "Nicole Morrisey O’Donnell"
+      ]
     },
     {
       "id": "simone-rede",
       "name": "Simone Rede",
       "race_id": "portland-auditor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/auditor/simone-rede"
     },
     {
       "id": "john-sweeney",
@@ -5969,7 +6041,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "tom-sollitt",
@@ -5977,7 +6050,11 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council",
+      "name_variants": [
+        "Tom Sollett"
+      ]
     },
     {
       "id": "larry-kelly",
@@ -5985,7 +6062,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "tiffany-koyama-lane",
@@ -5993,7 +6071,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane"
     },
     {
       "id": "ali-beaudoin",
@@ -6001,7 +6080,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "heart-free-pham",
@@ -6009,7 +6089,11 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council",
+      "name_variants": [
+        "Heart Pham"
+      ]
     },
     {
       "id": "terry-parker",
@@ -6017,7 +6101,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "martin-ward",
@@ -6025,7 +6110,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "joel-corcoran",
@@ -6033,7 +6119,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "darren-mccormick",
@@ -6041,7 +6128,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "angelita-morillo",
@@ -6049,7 +6137,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council/districts/3/angelita-morillo"
     },
     {
       "id": "steve-novick",
@@ -6057,7 +6146,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council/districts/3/steve-novick"
     },
     {
       "id": "patrick-hilton",
@@ -6065,7 +6155,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "matthias-hallett",
@@ -6073,7 +6164,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "kellie-torres",
@@ -6081,7 +6173,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "kimberly-tucker",
@@ -6089,7 +6182,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "cristal-otero",
@@ -6097,7 +6191,12 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council",
+      "name_variants": [
+        "Cristal A Otero",
+        "Cristal Azul Otero"
+      ]
     },
     {
       "id": "guy-frankenstein",
@@ -6105,7 +6204,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "keir-legree",
@@ -6113,7 +6213,8 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "esther-leon",
@@ -6121,7 +6222,11 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council",
+      "name_variants": [
+        "Esther León"
+      ]
     },
     {
       "id": "kenneth-landgraver-iii",
@@ -6129,7 +6234,14 @@
       "race_id": "portland-council-d3",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council",
+      "name_variants": [
+        "Kenneth (Kent) R. Landgraver III",
+        "Kent Landgraver",
+        "Kenneth R. Landgraver III",
+        "Kenneth Landgraver"
+      ]
     },
     {
       "id": "matt-schulte",
@@ -6137,7 +6249,8 @@
       "race_id": "portland-council-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "jeremy-beausoleil-smith",
@@ -6145,7 +6258,8 @@
       "race_id": "portland-council-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "john-goldsmith",
@@ -6153,7 +6267,12 @@
       "race_id": "portland-council-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council",
+      "name_variants": [
+        "John J. Goldsmith",
+        "John Goldsmith"
+      ]
     },
     {
       "id": "mitch-green",
@@ -6161,7 +6280,8 @@
       "race_id": "portland-council-d4",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council/districts/4/mitch-green"
     },
     {
       "id": "olivia-clark",
@@ -6169,7 +6289,8 @@
       "race_id": "portland-council-d4",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council/districts/4/olivia-clark"
     },
     {
       "id": "jayne-cronlund",
@@ -6177,7 +6298,8 @@
       "race_id": "portland-council-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "john-mcdonald",
@@ -6185,7 +6307,8 @@
       "race_id": "portland-council-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "eric-zimmerman",
@@ -6193,7 +6316,11 @@
       "race_id": "portland-council-d4",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council/districts/4/eric-zimmerman",
+      "name_variants": [
+        "Eric J. Zimmerman"
+      ]
     },
     {
       "id": "jamey-evenstar",
@@ -6201,7 +6328,8 @@
       "race_id": "portland-council-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "timothy-anderson",
@@ -6209,7 +6337,12 @@
       "race_id": "portland-council-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council",
+      "name_variants": [
+        "Timothy (T.J.) Anderson",
+        "TJ Anderson"
+      ]
     },
     {
       "id": "eli-arnold",
@@ -6217,7 +6350,8 @@
       "race_id": "portland-council-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council"
     },
     {
       "id": "josh-leake",
@@ -6225,7 +6359,11 @@
       "race_id": "portland-council-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-portland-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.portland.gov/council",
+      "name_variants": [
+        "Joshua J Leake"
+      ]
     },
     {
       "id": "peren-tiemann",
@@ -6280,8 +6418,12 @@
       "name": "Keith A Kudrna",
       "race_id": "fairview-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/fairview.aspx",
+      "name_variants": [
+        "Keith Kudrna"
+      ]
     },
     {
       "id": "jenni-weber",
@@ -6320,160 +6462,192 @@
       "name": "Travis Stovall",
       "race_id": "gresham-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.greshamoregon.gov/meet-the-council"
     },
     {
       "id": "sue-piazza",
       "name": "Sue Piazza",
       "race_id": "gresham-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.greshamoregon.gov/meet-the-council"
     },
     {
       "id": "heather-coleman-cox",
       "name": "Heather Coleman-Cox",
       "race_id": "gresham-council-pos-2",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.greshamoregon.gov/meet-the-council"
     },
     {
       "id": "will-delplato",
       "name": "Will DelPlato",
       "race_id": "gresham-council-pos-2",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.greshamoregon.gov/meet-the-council",
+      "name_variants": [
+        "William DelPlato"
+      ]
     },
     {
       "id": "gregory-schroeder",
       "name": "Gregory Schroeder",
       "race_id": "gresham-council-pos-4",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.greshamoregon.gov/meet-the-council"
     },
     {
       "id": "krestina-aziz",
       "name": "Krestina Aziz",
       "race_id": "gresham-council-pos-4",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.greshamoregon.gov/meet-the-council"
     },
     {
       "id": "joshua-al-jaouni",
       "name": "Joshua Al-jaouni",
       "race_id": "gresham-council-pos-4",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.greshamoregon.gov/meet-the-council",
+      "name_variants": [
+        "Joshua Al-Jaouni"
+      ]
     },
     {
       "id": "teo-ramirez",
       "name": "Teo Ramirez",
       "race_id": "gresham-council-pos-4",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.greshamoregon.gov/meet-the-council"
     },
     {
       "id": "janine-gladfelter",
       "name": "Janine Gladfelter",
       "race_id": "gresham-council-pos-6",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.greshamoregon.gov/councilor-jeanine-gladfelter"
     },
     {
       "id": "dan-miller",
       "name": "Dan Miller",
       "race_id": "gresham-council-pos-6",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.greshamoregon.gov/meet-the-council",
+      "name_variants": [
+        "Daniel Miller"
+      ]
     },
     {
       "id": "kevin-bussema",
       "name": "Kevin Bussema",
       "race_id": "maywood-park-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://cityofmaywoodpark.com/government/council-staff"
     },
     {
       "id": "katy-collins",
       "name": "Katy Collins",
       "race_id": "maywood-park-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://cityofmaywoodpark.com/government/council-staff"
     },
     {
       "id": "winn-holly",
       "name": "Winn Holly",
       "race_id": "maywood-park-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://cityofmaywoodpark.com/government/council-staff"
     },
     {
       "id": "jim-akers",
       "name": "Jim Akers",
       "race_id": "maywood-park-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://cityofmaywoodpark.com/government/council-staff"
     },
     {
       "id": "kelly-ripley-feller",
       "name": "Kelly Ripley Feller",
       "race_id": "maywood-park-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://cityofmaywoodpark.com/government/council-staff"
     },
     {
       "id": "sandy-glantz",
       "name": "Sandy Glantz",
       "race_id": "troutdale-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721"
     },
     {
       "id": "sheri-winters",
       "name": "Sheri Winters",
       "race_id": "troutdale-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721"
     },
     {
       "id": "geoffrey-wunn",
       "name": "Geoffrey Wunn",
       "race_id": "troutdale-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721",
+      "name_variants": [
+        "Geoffery Wunn"
+      ]
     },
     {
       "id": "zach-andrews",
       "name": "Zach Andrews",
       "race_id": "troutdale-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721"
     },
     {
       "id": "randy-lauer",
       "name": "Randy Lauer",
       "race_id": "troutdale-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721"
     },
     {
       "id": "charlene-gothard",
@@ -6633,7 +6807,8 @@
       "race_id": "washington-county-commissioner-at-large",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/bcc"
     },
     {
       "id": "pam-treece",
@@ -6641,7 +6816,8 @@
       "race_id": "washington-county-commissioner-at-large",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/bcc"
     },
     {
       "id": "kipperlyn-sinclair",
@@ -6649,7 +6825,8 @@
       "race_id": "washington-county-commissioner-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/bcc"
     },
     {
       "id": "steve-callaway",
@@ -6657,31 +6834,35 @@
       "race_id": "washington-county-commissioner-d4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/bcc"
     },
     {
       "id": "evelyn-kocher",
       "name": "Evelyn Kocher",
       "race_id": "beaverton-council-pos-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "incumbent_source_url": "https://www.beavertonoregon.gov/832/Councilor-Position-1"
     },
     {
       "id": "rachel-philip",
       "name": "Rachel Philip",
       "race_id": "beaverton-council-pos-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/current-election",
+      "incumbent_source_url": "https://www.beavertonoregon.gov/832/Councilor-Position-1"
     },
     {
       "id": "jimmy-bogroff",
       "name": "Jimmy Bogroff",
       "race_id": "banks-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline"
     },
     {
       "id": "marsha-kirk",
@@ -6689,22 +6870,24 @@
       "race_id": "banks-mayor",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline"
     },
     {
       "id": "stewart-terrall",
       "name": "Stewart Terrall",
       "race_id": "banks-council-pos-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline"
     },
     {
       "id": "stephanie-jones",
       "name": "Stephanie Jones",
       "race_id": "banks-council-pos-1",
       "party": null,
-      "incumbent": true,
+      "incumbent": null,
       "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline"
     },
     {
@@ -6713,7 +6896,10 @@
       "race_id": "banks-council-pos-3",
       "party": null,
       "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline",
+      "name_variants": [
+        "Debra L Berry"
+      ]
     },
     {
       "id": "cody-kollar",
@@ -6728,7 +6914,7 @@
       "name": "Pearcia Bogroff",
       "race_id": "banks-council-pos-5",
       "party": null,
-      "incumbent": true,
+      "incumbent": null,
       "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-banks-certified-candidates-nov-2026/download?inline"
     },
     {
@@ -6745,31 +6931,39 @@
       "race_id": "cornelius-mayor",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-cornelius-certified-candidates-nov-2026/download?inline"
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-cornelius-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://corneliusor.gov/citycouncil",
+      "name_variants": [
+        "Jeffrey C. Dalin",
+        "Jeff Dalin"
+      ]
     },
     {
       "id": "edgar-baker",
       "name": "Edgar Baker",
       "race_id": "cornelius-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-cornelius-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-cornelius-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://corneliusor.gov/citycouncil"
     },
     {
       "id": "joshua-drake",
       "name": "Joshua Drake",
       "race_id": "durham-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-durham-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-durham-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://durham-oregon.us/city-council/"
     },
     {
       "id": "sean-lee",
       "name": "Sean Lee",
       "race_id": "durham-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-durham-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-durham-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://durham-oregon.us/city-council/"
     },
     {
       "id": "malynda-wenzl",
@@ -7313,7 +7507,8 @@
       "race_id": "clackamas-county-clerk",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/63a1590d-5ccc-448c-8eeb-ae2d5bdf5dd8"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/63a1590d-5ccc-448c-8eeb-ae2d5bdf5dd8",
+      "incumbent_source_url": "https://www.clackamas.us/clerk"
     },
     {
       "id": "mark-reaksecker",
@@ -7321,7 +7516,8 @@
       "race_id": "clackamas-county-clerk",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/b752a684-437a-4be3-a621-e5b130f54fa7"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/b752a684-437a-4be3-a621-e5b130f54fa7",
+      "incumbent_source_url": "https://www.clackamas.us/clerk"
     },
     {
       "id": "brian-nava",
@@ -7329,7 +7525,11 @@
       "race_id": "clackamas-county-treasurer",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/86ef06a3-6ab5-4387-b273-90b0a45b7d70"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/86ef06a3-6ab5-4387-b273-90b0a45b7d70",
+      "incumbent_source_url": "https://clackamas.us/treasurer",
+      "name_variants": [
+        "Brian Nava"
+      ]
     },
     {
       "id": "brad-oneil",
@@ -7337,7 +7537,8 @@
       "race_id": "clackamas-county-sheriff",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/da71af40-937e-4118-b9b6-f7447e28a1e5"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/da71af40-937e-4118-b9b6-f7447e28a1e5",
+      "incumbent_source_url": "https://www.opb.org/article/2026/07/28/clackamas-county-sheriffs-office-rhodes/"
     },
     {
       "id": "james-rhodes",
@@ -7345,7 +7546,8 @@
       "race_id": "clackamas-county-sheriff",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/331c31ae-30d8-4057-a14f-bacbc397fd40"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/331c31ae-30d8-4057-a14f-bacbc397fd40",
+      "incumbent_source_url": "https://www.clackamas.us/elections/november-3-2026-general-election"
     },
     {
       "id": "mark-shull",
@@ -7353,7 +7555,8 @@
       "race_id": "clackamas-county-commissioner-pos-2",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/cd979d28-a5a7-4abc-9e7b-53049da4a439"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/cd979d28-a5a7-4abc-9e7b-53049da4a439",
+      "incumbent_source_url": "https://clackamas.us/elections/localofficials.html"
     },
     {
       "id": "paul-savas",
@@ -7361,7 +7564,8 @@
       "race_id": "clackamas-county-commissioner-pos-2",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e9fa5be8-da4e-4597-86a1-ab8a98931eab"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e9fa5be8-da4e-4597-86a1-ab8a98931eab",
+      "incumbent_source_url": "https://clackamas.us/elections/localofficials.html"
     },
     {
       "id": "rw-smith",
@@ -7369,7 +7573,12 @@
       "race_id": "clackamas-county-commissioner-pos-4",
       "party": null,
       "incumbent": false,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/ae9e8938-5dd7-499c-bc7b-e5519caf1ac1"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/ae9e8938-5dd7-499c-bc7b-e5519caf1ac1",
+      "incumbent_source_url": "https://clackamas.us/elections/localofficials.html",
+      "name_variants": [
+        "R.W. Smith",
+        "Remy Smith"
+      ]
     },
     {
       "id": "diana-helm",
@@ -7377,15 +7586,20 @@
       "race_id": "clackamas-county-commissioner-pos-4",
       "party": null,
       "incumbent": true,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/a5ffc393-6380-41cb-9119-9a5c3d1edebe"
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/a5ffc393-6380-41cb-9119-9a5c3d1edebe",
+      "incumbent_source_url": "https://clackamas.us/elections/localofficials.html"
     },
     {
       "id": "kathleen-rastetter",
       "name": "Kathleen Rastetter",
       "race_id": "clackamas-county-justice-of-the-peace",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/ef224ce9-ab84-489f-a690-02028b980b4e"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/ef224ce9-ab84-489f-a690-02028b980b4e",
+      "incumbent_source_url": "https://www.clackamas.us/news/2026-01-15/kathleen-rastetter-appointed-as-clackamas-county-justice-of-the-peace",
+      "name_variants": [
+        "Kathleen J. Rastetter"
+      ]
     },
     {
       "id": "brian-hodson",
@@ -7640,8 +7854,9 @@
       "name": "KC Bisenius",
       "race_id": "molalla-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5b0f9507-07da-4606-9959-252ac8ac8907"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5b0f9507-07da-4606-9959-252ac8ac8907",
+      "incumbent_source_url": "https://www.cityofmolalla.com/Departments/City-Recorders-Office/Elections"
     },
     {
       "id": "monica-bergmann",
@@ -7890,7 +8105,7 @@
     },
     {
       "id": "maria-hinojos-pressey",
-      "name": "Maria Hinojos Pressey",
+      "name": "Maria Hinojos Pressy",
       "race_id": "marion-county-commissioner-pos-2",
       "party": "Democrat",
       "incumbent": null,
@@ -7899,6 +8114,9 @@
         "Democrat",
         "Independent",
         "Working Families"
+      ],
+      "name_variants": [
+        "Maria Hinojos Pressey"
       ]
     },
     {
@@ -7906,8 +8124,9 @@
       "name": "Samual A Brentano",
       "race_id": "marion-county-treasurer",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
+      "incumbent": true,
+      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "incumbent_source_url": "https://co.marion.or.us/TO"
     }
   ],
   "coverage_notes": "Inventory built 2026-10-13 from Tier-1 sources only. STATE/FEDERAL: complete per Secretary of State Directive 2026-09 'Candidate Ballot Statement' (2026-09-03): US Senate, US House 1-6, Governor, 15 State Senate and 60 State House races, 7 circuit-court positions and 3 district-attorney races. No statewide measures and no statewide nonpartisan (e.g. BOLI) or appellate judicial contests are on the Nov 3 ballot per the same directive. PORTLAND METRO: Multnomah (official Ballot Content + RCV Ballot Content reports, 2026-09-22), Washington (county current-election page, city/SWCD certifications, voters' pamphlet) and Clackamas (county election page, filings, voters' pamphlet index) inventoried in full for county, city, SWCD, PUD, school and special-district contests and measures listed by those offices. No Metro (regional government) contests or measures appear on any of the three counties' November ballot lists. Washington/Clackamas legislative races are covered by the statewide SOS statement. REST OF STATE: only Marion County county-level races and Marion-filed measures were inventoried; Marion city races were NOT inventoried because the pamphlet's composite sample ballot text could not be reliably attributed to cities. All other counties' local races and measures (Lane, Deschutes, Jackson, Linn, Benton, etc.) are NOT inventoried. ZIP codes were left empty (no reliable official mapping read). Incumbency: set from oregonlegislature.gov rosters, Oregon Blue Book, portland.gov/council, multco.us/board, clackamas.us/bcc, judicial 'Incumbent' designations and city certification letters; null where no source read states it."

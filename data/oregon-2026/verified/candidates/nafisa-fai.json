@@ -1,0 +1,254 @@
+{
+  "id": "nafisa-fai",
+  "name": "Nafisa Fai",
+  "name_variants": [],
+  "race_id": "washington-county-commissioner-at-large",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.washingtoncountyor.gov/bcc",
+  "occupation": "Washington County Commissioner",
+  "website_url": "https://nafisaforwashingtoncounty.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+  "bio": [
+    {
+      "id": "nafisa-fai-b1",
+      "topic": "custom:bio",
+      "statement": "Fai's board page identifies her as the District 1 Commissioner on the Washington County board.",
+      "excerpt": "District 1 Commissioner Nafisa Fai",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/bcc",
+        "publisher": "Washington County Board of Commissioners",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the county Board of Commissioners page (re-fetched 2026-10-14).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nafisa-fai-b2",
+      "topic": "custom:bio",
+      "statement": "Fai's pamphlet statement lists her occupational background as public health, public policy and community building.",
+      "excerpt": "Public Health, Public Policy & Community Building",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nafisa-fai-b3",
+      "topic": "custom:bio",
+      "statement": "Fai's pamphlet statement lists a bachelor's degree from Portland State University.",
+      "excerpt": "Portland State, BS",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nafisa-fai-b4",
+      "topic": "custom:bio",
+      "statement": "Fai's pamphlet statement lists service on the Oregon Maternal Mortality and Morbidity Review Committee.",
+      "excerpt": "Oregon Maternal Mortality and Morbidity Review Committee",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "nafisa-fai-p1",
+      "topic": "public-safety",
+      "statement": "In her voters' pamphlet statement, Fai says she strengthened public safety and supported first responders.",
+      "excerpt": "Strengthened public safety and supported first responders",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nafisa-fai-p2",
+      "topic": "housing",
+      "statement": "Fai's pamphlet statement says she ended a homeless encampment through housing and services and prevented evictions.",
+      "excerpt": "Ended homeless encampment through housing and services, prevented eviction",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nafisa-fai-p3",
+      "topic": "environment",
+      "statement": "Fai's pamphlet statement credits her with delivering the county's first climate action plan.",
+      "excerpt": "Delivered the County’s First Climate Action Plan",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nafisa-fai-p4",
+      "topic": "taxes",
+      "statement": "Fai's pamphlet statement says she will make data centers pay their fair share and safeguard tax dollars.",
+      "excerpt": "make Data Centers pay fair share and safeguard tax dollars",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nafisa-fai-p5",
+      "topic": "civil-rights",
+      "statement": "Fai's pamphlet statement says she opposes federal overreach and abuse of power and will defend the rule of law.",
+      "excerpt": "I oppose federal overreach, abuse of power and will defend the rule of law.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nafisa-fai-p6",
+      "topic": "immigration",
+      "statement": "In a 2026 OPB article, Fai says she called for a state of emergency and pushed to reaffirm Oregon's sanctuary laws.",
+      "excerpt": "I called for a state of emergency, pushed to reaffirm Oregon’s sanctuary laws",
+      "source": {
+        "url": "https://www.opb.org/article/2026/05/07/growth-immigration-key-factors-in-race-for-washington-county-chair/",
+        "publisher": "OPB (Holly Bartholomew)",
+        "tier": "T3",
+        "published_at": "2026-05-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in OPB article by Holly Bartholomew, May 7, 2026 (re-fetched 2026-10-14); quote attributed to this candidate.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nafisa-fai-p7",
+      "topic": "agriculture",
+      "statement": "In a 2026 OPB article, Fai says the county's path is to be more intentional about supporting both agriculture and other growth rather than choosing one.",
+      "excerpt": "The path forward is not choosing one over the other; it’s being more intentional about how we support both.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/05/07/growth-immigration-key-factors-in-race-for-washington-county-chair/",
+        "publisher": "OPB (Holly Bartholomew)",
+        "tier": "T3",
+        "published_at": "2026-05-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in OPB article by Holly Bartholomew, May 7, 2026 (re-fetched 2026-10-14); quote attributed to this candidate.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "nafisa-fai-p8",
+      "topic": "technology",
+      "statement": "OPB reported in September 2026 that Fai proposed a moratorium on new data centers earlier in the year.",
+      "excerpt": "proposed a moratorium on new data centers earlier this year",
+      "source": {
+        "url": "https://www.opb.org/article/2026/09/25/data-centers-ice-and-the-dsa-election-tensions-rise-in-washington-county/",
+        "publisher": "OPB (Bryce Dole, Holly Bartholomew)",
+        "tier": "T3",
+        "published_at": "2026-09-28",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in OPB article by Bryce Dole and Holly Bartholomew (byline dated Sept 28, 2026; re-fetched 2026-10-14); attributed to this candidate. OPB adds that the moratorium proposal failed in the commission; the statement does not claim otherwise.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "KOIN interview on data centers could not be fetched (client error)"
+  ],
+  "verification_summary": {
+    "verified": 12,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race washington-county-commissioner-at-large (Chair seat). Fai has 4 bio and 8 positions (5 T1 pamphlet, 3 T3 OPB). Treece has 4 bio and 8 positions (6 T1, 2 T3). Coverage is balanced, with the same outlets for both. Both websites are printed in the pamphlet. Spot-search found OPB 2026-05-19 (primary results/runoff) and KOIN chair-primary coverage that were not used for either candidate. Context: Chair Kathryn Harrington resigned (last day Oct 2, 2026), and neither candidate holds the Chair seat. File-level: name matches pamphlet/official listing. Incumbent false confirmed: county BCC page lists Fai as District 1 Commissioner; the at-large contest is the Chair seat (OPB 2026-09-21: Fai and Treece are running 'to replace Harrington as chair'). Website https://nafisaforwashingtoncounty.com confirmed as printed in the 2026 county pamphlet."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "melissa-hill",
+  "name": "Melissa A Hill",
+  "name_variants": [
+    "Melissa Hill"
+  ],
+  "race_id": "estacada-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Local Business Owner; Children's Book Author; Estacada City Councilor",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "melissa-hill-b1",
+      "topic": "custom:bio",
+      "statement": "Hill's pamphlet statement lists work as an IT support specialist, publication services manager, event manager and home care worker.",
+      "excerpt": "IT Support Specialist; Publication Services Manager; Event Manager; Home Care Worker",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "melissa-hill-b2",
+      "topic": "custom:bio",
+      "statement": "Hill's pamphlet statement lists service as an Estacada city councilor since 2025 and as council liaison to the library board.",
+      "excerpt": "Estacada City Councilor, 2025-present; Estacada Public Library Board, Council Liaison;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "melissa-hill-p1",
+      "topic": "social-services",
+      "statement": "In her voters' pamphlet statement, Hill says children, seniors and veterans are at the heart of her service.",
+      "excerpt": "At the heart of my service are our children, seniors, and veterans",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "melissa-hill-p2",
+      "topic": "custom:governance",
+      "statement": "Hill's pamphlet statement says she will keep asking questions, listening, learning, building relationships and showing up.",
+      "excerpt": "But I'll keep asking questions, listening, learning, building relationships, and showing up.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 campaign coverage in T3 outlets"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-21)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "No City of Estacada councilor profile page for Hill found via search",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website listed in pamphlet",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Melissa Hill\" Estacada 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Melissa Hill\" Estacada \"\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Melissa Hill\" Estacada \"\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Melissa Hill\" Estacada \"\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/04/29/estacada-councilor-charges-vacancy-appointment-criminal-histories/",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Incumbency left null: her pamphlet statement and OPB (2026-04-29, 'the fourth city councilor to be named to fill a recent vacancy') say she is a sitting appointed councilor, but no city roster page was found to confirm. Likely incumbent=true."
+}

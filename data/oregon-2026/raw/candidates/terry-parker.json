@@ -1,0 +1,141 @@
+{
+  "id": "terry-parker",
+  "name": "Terry Parker",
+  "name_variants": [],
+  "race_id": "portland-council-d3",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "terry-parker-b1",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Parker is retired and previously worked as a national account representative for Yellow Pages.",
+      "excerpt": "Currently retired, Terry Parker previously worked as a national account rep for Yellow Pages",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "terry-parker-b2",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Parker has not held elected office but served on two ODOT citizen advisory committees.",
+      "excerpt": "Parker, 76, hasn’t held elected office, but he served on two ODOT citizen advisory committees",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "terry-parker-p1",
+      "topic": "public-safety",
+      "statement": "In a Portland Mercury candidate profile, Parker says Portland's police and fire bureaus need full funding, including more police officers.",
+      "excerpt": "Portland police and fire bureaus need full funding. This includes increasing the number of police officers",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement not readable: the individual statement PDF in the county's Military & Overseas Online Voters' Guide is a scan with no machine-readable text, and the full and large-print county pamphlet PDFs are cut off by the fetch tool (~105k characters) before the City of Portland section (pp. M-52 to M-66)",
+    "City filing form (AUD-120) PDF had no readable text",
+    "No campaign website found in a T1 source",
+    "Did not respond to the Portland Tribune candidate Q&A",
+    "No voting record (has not held elected office)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/portland_dist_3_terry_parker/download",
+      "result": "blocked (scan, no machine-readable text)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked (text extraction ends ~104k characters, before the City of Portland section)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked (text extraction ends ~106k characters, before the City of Portland section)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.portland.gov/auditor/elections/run4office/2026-city-candidates",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.portland.gov/auditor/elections/documents/parker-terry-2026-aud-120-form/download",
+      "result": "blocked (no readable text)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.portland.gov/council",
+      "result": "nothing relevant (not a current or former officeholder per official sources)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain found in a T1 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Terry Parker\" Portland City Council 2026",
+      "result": "nothing relevant (Wikipedia, excluded bluevoterguide.org, 2024 coverage)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Terry Parker\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Terry Parker\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Terry Parker\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/10/07/what-to-know-about-portland-district-3-council-race/",
+      "result": "nothing relevant (fetched; candidate not mentioned or nothing usable beyond other sources)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-3-candidates-their-priorities-experience-and-fun-facts/",
+      "result": "nothing relevant (fetched; candidate not mentioned or nothing usable beyond other sources)"
+    }
+  ],
+  "collection_notes": "Steps run identically for all 21 District 3 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF (with the full and large-print county pamphlets tried where the statement PDF was a scan; the pamphlet's candidate index marks candidates who filed no statement) plus the City Auditor's AUD-120 candidate filing form linked from portland.gov's 2026 city candidates page; (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the three articles that cover the whole District 3 field: OPB 'What to know about Portland's District 3 council race' (2026-10-07), Portland Mercury 'Meet the Candidates For City Council District 3' (2026-09-09) and Portland Tribune 'Meet the Portland City Council District 3 candidates' (2026-10-13; Q&A — the Tribune says Sollitt, Pham, Parker, McCormick, Kelly and Frankenstein did not respond and Tucker withdrew). Multi-winner race: OPB states three council seats are available in District 3. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report."
+}

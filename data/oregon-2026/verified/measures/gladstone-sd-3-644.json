@@ -1,0 +1,62 @@
+{
+  "id": "gladstone-sd-3-644",
+  "jurisdiction_id": "gladstone-sd",
+  "number": "3-644",
+  "title": "Bonds to Increase Safety, Security; Repair, Improve Schools; Increase Accountability",
+  "ballot_label": "Caption: Bonds to Increase Safety, Security; Repair, Improve Schools; Increase Accountability (Question and summary not retrieved.)",
+  "summary": "Gladstone School District general obligation bond measure. The district's bond website describes a $55.3 million bond for repairs such as roofs, boilers, fire alarm and life safety systems, and ADA updates, estimated to reduce the existing bond tax rate by $1.45 per $1,000. A July 2026 district article says the district would receive a $10.2 million state matching grant if the measure passes.",
+  "yes_means": "A yes vote authorizes the Gladstone School District to issue general obligation bonds for school safety, security, repairs and improvements.",
+  "no_means": "A no vote does not authorize the bonds.",
+  "fiscal_impact": "District bond site (gladstoneschoolbond.org): $55.3 million; 'estimated to reduce the existing tax rate by $1.45 per $1,000 of assessed value' (current bond levy rate $4.28 to $2.83 per $1,000). District article (July 8, 2026): $10.2 million one-time state matching grant if passed. Official ballot-title estimate not retrieved.",
+  "full_text_url": null,
+  "arguments": [],
+  "topics": [
+    "education",
+    "infrastructure",
+    "public-safety"
+  ],
+  "gaps": [
+    "No YES argument found in T1/T3 sources (pamphlet arguments unreadable; no 2026 press coverage found).",
+    "No NO argument found in T1/T3 sources (same searches)."
+  ],
+  "ballot_label_verification": {
+    "status": "corrected",
+    "checks_failed": [],
+    "note": "Caption confirmed against the inventory title from the Clackamas County Nov 3, 2026 election page measure list; the county ballot-title PDF returned only a translation/accommodation notice to WebFetch, so the question and summary could not be checked. Removed the pointer to collection_notes, which are stripped from verified output.",
+    "verified_at": "2026-10-14"
+  },
+  "summary_verification": {
+    "status": "corrected",
+    "checks_failed": [
+      "paraphrase_faithful"
+    ],
+    "note": "gladstoneschoolbond.org confirms $55.3M, the projects and the $1.45 reduction, but does not mention the $10.2M grant; that figure is in the district's July 8, 2026 article (gladstone.k12.or.us/article/3026179), now cited separately. Publisher check: gladstoneschoolbond.org has no publisher line, but the official district site gladstone.k12.or.us links to it in its navigation as 'Website for proposed 2026 bond', and district articles link to it; treated as a district-official (T1) site.",
+    "verified_at": "2026-10-14"
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Faithful to the caption; neutral.",
+    "verified_at": "2026-10-14"
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Neutral.",
+    "verified_at": "2026-10-14"
+  },
+  "fiscal_impact_verification": {
+    "status": "corrected",
+    "checks_failed": [
+      "excerpt_verbatim"
+    ],
+    "note": "Quoted wording fixed: the site says 'existing tax rate', not 'current tax rate'. The $10.2M grant re-sourced to the district article; the 'OSCIM' label was removed because it appears on neither page.",
+    "verified_at": "2026-10-14"
+  },
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "No arguments on either side: 0 official, 0 pamphlet, 0 press. Both absences documented in gaps. Spot search found only district pages and coverage of the failed May 2025 bond (Measure 3-624, a different measure). gladstoneschoolbond.org kept as district-official (T1): linked from gladstone.k12.or.us navigation. Clackamas pamphlet measure pages unreadable, so filed arguments could not be checked."
+  }
+}

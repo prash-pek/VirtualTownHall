@@ -1,0 +1,169 @@
+{
+  "id": "malynda-wenzl",
+  "name": "Malynda Wenzl",
+  "name_variants": [],
+  "race_id": "forest-grove-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://forestgrove-or.gov/362/Elections",
+  "occupation": "Teacher",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "malynda-wenzl-b1",
+      "topic": "custom:bio",
+      "statement": "Forest Grove's elections page lists Mayor Malynda Wenzl's seat as up for election in November 2026.",
+      "excerpt": "Mayor Malynda Wenzl",
+      "source": {
+        "url": "https://forestgrove-or.gov/362/Elections",
+        "publisher": "City of Forest Grove (Elections page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "malynda-wenzl-b2",
+      "topic": "custom:bio",
+      "statement": "Wenzl's pamphlet statement lists 24 years as a Forest Grove School District educator.",
+      "excerpt": "24 years as a Forest Grove School District Educator",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "malynda-wenzl-b3",
+      "topic": "custom:bio",
+      "statement": "Wenzl's pamphlet statement lists a bachelor's and master's in teaching from Southern Oregon University.",
+      "excerpt": "Southern Oregon University, BS and Master's in Art of Teaching",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "malynda-wenzl-b4",
+      "topic": "custom:bio",
+      "statement": "Wenzl's pamphlet statement lists service as mayor since 2022, council president 2020-2022 and councilor 2014-2022.",
+      "excerpt": "Mayor, 2022–present; City Council President, 2020–2022; City Council, 2014–2022",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "malynda-wenzl-p1",
+      "topic": "housing",
+      "statement": "In her voters' pamphlet statement, Wenzl pledges to complete the comprehensive plan update using smart-growth principles.",
+      "excerpt": "Complete the Comprehensive Plan update, using key principles of smart growth.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "malynda-wenzl-p2",
+      "topic": "local-business",
+      "statement": "Wenzl's pamphlet statement calls for continuing downtown revitalization through urban renewal and placemaking.",
+      "excerpt": "Continue Downtown revitalization through Urban Renewal and placemaking.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "malynda-wenzl-p3",
+      "topic": "transportation",
+      "statement": "Wenzl's pamphlet statement calls for transportation projects that increase safety and support multimodal travel.",
+      "excerpt": "Complete transportation projects that increase safety and support multimodal travel.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "malynda-wenzl-p4",
+      "topic": "custom:governance",
+      "statement": "Wenzl's pamphlet statement says the city should remain responsive to changes in federal and state policy.",
+      "excerpt": "Remain responsive to changes in Federal and State policy.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 press coverage found",
+    "Unopposed race"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://forestgrove-or.gov/362/Elections",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.forestgrove-or.gov/611/Meet-the-Council",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign website printed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Malynda Wenzl\" Forest Grove mayor 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Malynda Wenzl\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Malynda Wenzl\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Malynda Wenzl\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Forest Grove Elections page (T1) lists the seats up Nov. 3, 2026: Mayor Malynda Wenzl, Councilor Mike Marshall, Councilor Karen Martinez and Council President Mariana Valenzuela; the Meet-the-Council page blocks automated fetch. Step 5 found only 2022-cycle Pamplin articles (not used, to keep treatment equal) and no 2026 coverage. "
+}

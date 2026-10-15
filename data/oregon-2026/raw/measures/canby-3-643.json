@@ -1,0 +1,117 @@
+{
+  "id": "canby-3-643",
+  "jurisdiction_id": "canby",
+  "number": "3-643",
+  "title": "Amend City of Canby City Charter Chapter X",
+  "ballot_label": "Caption: Amend City of Canby City Charter Chapter X. Question: Shall Canby amend Charter Chapter X, regarding Canby Utility Board? Summary: This measure would amend Chapter X of the City's Charter. Chapter X currently establishes a water department and electric department. It grants the Canby Utility Board (\"Board\") exclusive authority over the electric department and grants the City Council exclusive authority over the water department. It restricts the Board's ability to issue bonds, incur debt, and make expenditures for the electric department and the water department. If adopted, this measure would amend Chapter X to create a single water and electric department, grant the Board exclusive authority over the department, and remove certain existing restrictions on the Board's ability to issue revenue bonds, incur debt, and make expenditures for the department. If adopted, this measure would also modernize language and grammar within Chapter X, increase the number of successive terms that members of the Board may hold, and clarify the General Manager position's role. If this measure is not adopted, the City's Charter would remain the same.",
+  "summary": "Would combine Canby's water and electric departments under the Canby Utility Board, give the Board exclusive authority over both, and remove certain charter limits on the Board issuing revenue bonds, incurring debt and making expenditures. Also modernizes language, raises Board members' successive-term limit from two to three, clarifies the General Manager's role, and requires quarterly reports to the City Council.",
+  "yes_means": "A yes vote amends Chapter X to create a single water and electric department under the Canby Utility Board and remove certain limits on its borrowing and spending.",
+  "no_means": "A no vote leaves Chapter X unchanged, with separate water (City Council) and electric (Canby Utility Board) departments and existing restrictions.",
+  "fiscal_impact": "Per the July 15, 2026 council staff report: the amendment 'would allow CU staff to place revenue bonds in excess of one year's gross revenue without a vote of the people, which is similar to existing permissions already afforded to the City of Canby.' No dollar estimate in the ballot title.",
+  "full_text_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/packets/32182/07-15-2026_cc_packet.pdf",
+  "arguments": [
+    {
+      "id": "canby-3-643-y1",
+      "side": "yes",
+      "kind": "argument",
+      "author": "City of Canby staff report (July 15, 2026 City Council packet)",
+      "topic": "infrastructure",
+      "statement": "The City of Canby staff report says council, staff and legal counsel agree the amendment meets Canby Utility's needs to plan for growth and water infrastructure expansion.",
+      "excerpt": "Council, staff and legal counsel agree that such a City Charter amendment meets the needs of CUB to safely plan and provide for future growth and water infrastructure expansion projections inside the City of Canby.",
+      "source": {
+        "url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/packets/32182/07-15-2026_cc_packet.pdf",
+        "publisher": "City of Canby",
+        "tier": "T1",
+        "published_at": "2026-07-15",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "canby-3-643-y2",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "City of Canby (measure information page)",
+      "topic": "infrastructure",
+      "statement": "The City's information page says the change would let Canby Utility borrow to build a new water treatment plant and other water improvements without the City's participation.",
+      "excerpt": "to fund the construction of the new water treatment plant and other water system infrastructure improvements without the City's assistance or participation.",
+      "source": {
+        "url": "https://www.canbyoregon.gov/node/32228",
+        "publisher": "City of Canby",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "infrastructure",
+    "custom:local-government"
+  ],
+  "gaps": [
+    "No NO argument found: no opposition statements in T1/T3 sources (pamphlet arguments unreadable; Woodburn Independent coverage quotes no one).",
+    "YES side represented only by City staff report and City explainer; no campaign or pamphlet argument found."
+  ],
+  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. County voters' pamphlet (https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513) lists this measure in its index, but WebFetch text extraction ends at page C-33 (~117k chars), before the measure section, so the pamphlet's explanatory statement and any filed arguments could not be read. The county ballot-title PDF linked from the election page returned only the multilingual accommodations notice (likely an image scan). Ballot title text (Resolution No. 1466) read from the July 15, 2026 council packet (offset 100000). City info page (https://www.canbyoregon.gov/node/32228) also states 'Change language limiting the Board's total of outstanding short-term loan from 50% to 100%' and adds a quarterly-report requirement not in the ballot summary. Item y2 is a city explainer (descriptive) tagged side yes because it describes what approval enables; reviewer may reclassify. Canby Utility June 30, 2026 board packet blocked by robots. Inventory title matches county caption.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.clackamas.us/elections/november-3-2026-general-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/7a618cfe-483a-4bf5-8a88-16b126e86c1e",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/packets/32182/07-15-2026_cc_packet.pdf",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.canbyoregon.gov/node/32228",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/canby_utility_board/meeting/packets/32172/6-30-26_special_board_meeting_packet_updated_viii.pdf",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Canby charter amendment measure \"3-642\" OR \"3-643\" November 2026",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Canby charter amendment Canby Utility water Chapter X November 2026 ballot",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Canby city administrator residency requirement charter measure 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://woodburnindependent.com/2026/09/06/candidates-and-measures-ready-to-go-for-november-general-election/",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.canbyoregon.gov/city-recorder/page/ballot-titles",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.canbyoregon.gov/node/32224",
+      "result": "nothing relevant"
+    }
+  ]
+}

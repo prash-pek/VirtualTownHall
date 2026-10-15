@@ -1,0 +1,142 @@
+{
+  "id": "sean-drinkwine",
+  "name": "Sean Drinkwine",
+  "name_variants": [],
+  "race_id": "estacada-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.cityofestacada.org/?p=38999",
+  "occupation": "CEO - WHITNEY SIGNS",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "sean-drinkwine-b1",
+      "topic": "custom:bio",
+      "statement": "The City of Estacada directory lists Drinkwine as mayor, first elected November 8, 2016, with a term ending December 31, 2026.",
+      "excerpt": "First Elected: November 8, 2016",
+      "source": {
+        "url": "https://www.cityofestacada.org/?p=38999",
+        "publisher": "City of Estacada",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sean-drinkwine-b2",
+      "topic": "custom:bio",
+      "statement": "Drinkwine's pamphlet statement lists service on the Estacada City Council from 2009 to 2016 and as mayor since 2017.",
+      "excerpt": "Estacada City Council 2009-2016, Mayor of Estacada 2017-present",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "sean-drinkwine-p1",
+      "topic": "custom:priorities",
+      "statement": "In his voters' pamphlet statement, Drinkwine lists putting families first, navigating responsible growth and keeping Estacada safe.",
+      "excerpt": "Put Families First. Navigate Responsible Growth. Keep Estacada Safe.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sean-drinkwine-p2",
+      "topic": "local-business",
+      "statement": "Drinkwine's pamphlet statement says he would work with developers and agencies to bring an affordable grocery store.",
+      "excerpt": "Work with local developers and government agencies to bring an affordable grocery store.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sean-drinkwine-p3",
+      "topic": "healthcare",
+      "statement": "Drinkwine's pamphlet statement says he would bring more medical resources to the area.",
+      "excerpt": "Bring more medical resources to the area.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sean-drinkwine-p4",
+      "topic": "local-business",
+      "statement": "Drinkwine's pamphlet statement says he would focus on bringing family-friendly businesses to Estacada.",
+      "excerpt": "Focus on bringing family-friendly businesses to Estacada,",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 campaign coverage in T3 outlets"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-20)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.cityofestacada.org/?p=38999",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website listed in pamphlet",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Sean Drinkwine\" Estacada 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sean Drinkwine\" Estacada \"\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sean Drinkwine\" Estacada \"\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sean Drinkwine\" Estacada \"\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/04/29/estacada-councilor-charges-vacancy-appointment-criminal-histories/",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Incumbent mayor per City of Estacada directory profile. Step-5 KGW/KOIN/KATU/Pamplin hits are 2020-2021 coverage (BLM vigil post, COVID rules); the OPB 2026-04 article quotes him only generally on council leadership. None used as 2026 positions."
+}

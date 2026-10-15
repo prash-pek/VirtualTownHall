@@ -1,0 +1,226 @@
+{
+  "id": "jeff-merkley",
+  "name": "Jeff Merkley",
+  "race_id": "or-us-senate",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": "U.S. Senator for Oregon",
+  "website_url": "https://jeffmerkley.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "bio": [
+    {
+      "id": "jeff-merkley-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Merkley lists his occupation as U.S. Senator for Oregon.",
+      "excerpt": "U.S. Senator for Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-b2",
+      "topic": "custom:background",
+      "statement": "His pamphlet statement lists prior government experience as a state representative and Oregon House Speaker.",
+      "excerpt": "State Representative; Oregon House Speaker",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-b3",
+      "topic": "custom:background",
+      "statement": "His pamphlet statement lists past work with Habitat for Humanity, as a national security analyst and as a small business founder.",
+      "excerpt": "Habitat for Humanity; National Security Analyst; Small Business Founder",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-b4",
+      "topic": "education",
+      "statement": "His official Senate biography says he was the first in his family to graduate from college, in 1979.",
+      "excerpt": "In 1979, he became the first person in his family to graduate from college.",
+      "source": {
+        "url": "https://www.merkley.senate.gov/about/",
+        "publisher": "Office of U.S. Senator Jeff Merkley",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "jeff-merkley-p1",
+      "topic": "custom:government-ethics",
+      "statement": "Merkley's pamphlet statement calls for ending stock trading and the exchange of government favors for investments in the president's companies.",
+      "excerpt": "No more stock trading; no more exchanging government favors for investments in Trump's companies.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-p2",
+      "topic": "civil-rights",
+      "statement": "Merkley says he wants to stop gerrymandering, require paper ballots and end secret campaign funding.",
+      "excerpt": "Stop gerrymandering. Require paper ballots. End secret campaign funding.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-p3",
+      "topic": "housing",
+      "statement": "Merkley proposes banning hedge funds from buying single-family homes.",
+      "excerpt": "Ban hedge funds from buying single-family homes.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-p4",
+      "topic": "healthcare",
+      "statement": "Merkley says he would stop drug companies from price gouging.",
+      "excerpt": "Stop drug companies from price gouging.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-p5",
+      "topic": "education",
+      "statement": "Merkley proposes affordable daycare and debt-free trade school and college.",
+      "excerpt": "Create affordable daycare and debt-free opportunities for trade school and college.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-p6",
+      "topic": "environment",
+      "statement": "Merkley calls for a rapid transition from fossil fuels to renewable energy, which he describes as cheaper and cleaner.",
+      "excerpt": "Rapidly transition from dirty, expensive fossils to cheaper, cleaner, renewables.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "jeff-merkley-v1",
+      "topic": "taxes",
+      "statement": "Merkley voted Nay on Senate passage of H.R. 1, the budget reconciliation bill, on July 1, 2025 (Senate roll call vote 372).",
+      "excerpt": "On Passage of the Bill (H.R. 1, as Amended) … Merkley (D-OR), Nay",
+      "source": {
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm",
+        "publisher": "U.S. Senate",
+        "tier": "T1",
+        "published_at": "2025-07-01",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-v2",
+      "topic": "immigration",
+      "statement": "Merkley voted Nay on Senate passage of S. 5, the Laken Riley Act, on January 20, 2025 (Senate roll call vote 7).",
+      "excerpt": "On Passage of the Bill (S. 5, As Amended) … Merkley (D-OR), Nay",
+      "source": {
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.htm",
+        "publisher": "U.S. Senate",
+        "tier": "T1",
+        "published_at": "2025-01-20",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.merkley.senate.gov/about/",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.congress.gov/member/jeff-merkley/M001176",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "jeffmerkley.com (listed in pamphlet; not fetched)",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Jeff Merkley\" U.S. Senate 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jeff Merkley\" allowed_domains=opb.org,oregoncapitalchronicle.com,wweek.com,ballotpedia.org",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jeff Merkley\" allowed_domains=kgw.com,koin.com,kptv.com,katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jeff Merkley\" allowed_domains=portlandmercury.com,vote411.org,pamplinmedia.com,portlandtribune.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "no T3 follow-up fetches (see collection_notes)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Steps 1-5 were run identically for every candidate in the US Senate, US House 1-6 and Governor races (the shared WebSearch budget ran out once mid-run and the remaining searches were completed after it reset). To keep effort equal, no T3 items are included for any candidate in these races: every item comes from the T1 voters' pamphlet, official .gov pages or official roll-call pages; promising T3 results are named in these notes for possible later, race-wide use. Campaign websites are recorded from the pamphlet but were not fetched for positions, for any candidate. oregonlive.com and apnews.com are rejected by the search proxy as allowed_domains, so step 5 used three fixed domain groups for everyone: (opb, oregoncapitalchronicle, wweek, ballotpedia), (kgw, koin, kptv, katu), (portlandmercury, vote411, pamplinmedia, portlandtribune). The Multnomah military/overseas online voters' guide was checked and contains no federal or governor statements. Pamphlet excerpts were obtained through a summarizing fetch limited to ~125-character quotes, so excerpts are short. Incumbency: pamphlet occupation 'U.S. Senator for Oregon' and merkley.senate.gov. congress.gov is robots-blocked for WebFetch, so roll calls cite senate.gov. Nominated by Democrat and Working Families per pamphlet; matches inventory.",
+  "nominating_parties": [
+    "Democrat",
+    "Working Families"
+  ]
+}

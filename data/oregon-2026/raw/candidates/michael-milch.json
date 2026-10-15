@@ -1,0 +1,143 @@
+{
+  "id": "michael-milch",
+  "name": "Michael Milch",
+  "name_variants": [],
+  "race_id": "gladstone-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/gladstone.aspx",
+  "occupation": "Retired Actuary/Educator",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "michael-milch-b1",
+      "topic": "custom:bio",
+      "statement": "The Oregon Blue Book lists Milch as mayor of Gladstone.",
+      "excerpt": "Mayor: Michael Milch",
+      "source": {
+        "url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/gladstone.aspx",
+        "publisher": "Oregon Secretary of State (Oregon Blue Book)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "michael-milch-b2",
+      "topic": "custom:bio",
+      "statement": "Milch's pamphlet statement lists work as a consulting pension actuary (1989-2008) and church educator/administrator (1975-1989).",
+      "excerpt": "Consulting Pension Actuary (1989-2008); Church Educator/Administrator (1975-1989)",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "michael-milch-b3",
+      "topic": "custom:bio",
+      "statement": "Milch's pamphlet statement lists a mathematics B.A. from U.C. San Diego and a religious education M.A. from Claremont School of Theology.",
+      "excerpt": "U.C. San Diego, Mathematics, B.A; Claremont School of Theology, Religious Education, M.A",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "michael-milch-b4",
+      "topic": "custom:bio",
+      "statement": "Milch's pamphlet statement lists Gladstone service as mayor, city councilor, planning commissioner and budget committee chair.",
+      "excerpt": "City of Gladstone: Mayor, City Councilor, Planning Commissioner, Budget Committee Chair.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "michael-milch-p1",
+      "topic": "local-business",
+      "statement": "In his voters' pamphlet statement, Milch says the city continues to attract new businesses to develop local destinations.",
+      "excerpt": "Beyond these civic investments, we continue to attract new businesses to develop local destinations",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "michael-milch-p2",
+      "topic": "custom:record",
+      "statement": "Milch's pamphlet statement says much has been accomplished in the four years since he was elected mayor.",
+      "excerpt": "Much has been accomplished in the four years since I was elected Mayor of Gladstone.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 T3 coverage found (KOIN 'Mayor Monday' result is a video; KOIN mayors-coalition article could not be fetched)",
+    "Pamphlet excerpts available describe record more than specific policy positions"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-23)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/gladstone.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website listed in pamphlet",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Michael Milch\" Gladstone mayor 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Michael Milch\" Gladstone \"\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Michael Milch\" Gladstone \"\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Michael Milch\" Gladstone \"\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.koin.com/news/portland/oregon-mayors-form-coalition-against-federal-troops-in-portland/",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Incumbent per Oregon Blue Book ('Mayor: Michael Milch'). Step-4/5 queries add 'Gladstone' to disambiguate names for all Gladstone candidates except Blaug (distinctive name, searched plain)."
+}

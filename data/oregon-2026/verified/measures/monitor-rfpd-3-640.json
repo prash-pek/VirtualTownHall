@@ -1,0 +1,57 @@
+{
+  "id": "monitor-rfpd-3-640",
+  "jurisdiction_id": "monitor-rfpd",
+  "number": "3-640",
+  "title": "Dissolution of Monitor RFPD Contingent Other Measures",
+  "ballot_label": "Caption: Dissolution of Monitor RFPD Contingent Other Measures (Question and summary not retrieved.)",
+  "summary": "Would dissolve the Monitor Rural Fire Protection District as part of a three-measure consolidation with the Mt. Angel Fire District. Per the official explanatory statements for the related Marion County measures, the new Mt. Angel-Monitor Fire District forms only if voters approve all three: formation (24-529) and dissolution of each existing district (24-526 and this measure). The new district would have a $1.97 per $1,000 permanent tax rate.",
+  "yes_means": "A yes vote approves dissolving the Monitor Rural Fire Protection District, effective only if the related formation and Mt. Angel Fire District dissolution measures also pass.",
+  "no_means": "A no vote rejects dissolution; the Monitor Rural Fire Protection District would continue to operate.",
+  "fiscal_impact": "Per the official explanatory statement for related Measure 24-529: the new district's permanent tax rate would be $1.97 per $1,000 of assessed value, 'higher than the existing permanent tax rate of each district'; assets and reserves of the dissolving districts transfer to the new district.",
+  "full_text_url": "https://docs.clackamas.us/documents/drupal/5e9ffeb3-d3e6-4ca4-8e46-b11ac71b4969",
+  "arguments": [],
+  "topics": [
+    "public-safety",
+    "taxes"
+  ],
+  "gaps": [
+    "No YES argument found in T1/T3 sources (pamphlet unreadable; Woodburn Independent Sept 6, 2026 article quotes no supporters; Marion BOC July 27, 2026 minutes record seven public commenters without their content).",
+    "No NO argument found in T1/T3 sources (same searches)."
+  ],
+  "ballot_label_verification": {
+    "status": "corrected",
+    "checks_failed": [],
+    "note": "Caption confirmed against the inventory title from the Clackamas County Nov 3, 2026 election page measure list; the county ballot-title PDF returned only a translation/accommodation notice to WebFetch, so the question and summary could not be checked. Removed the pointer to collection_notes, which are stripped from verified output.",
+    "verified_at": "2026-10-14"
+  },
+  "summary_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Explanatory statement for Measure 24-529 (docs.clackamas.us, Marion County, Nov 3, 2026) confirms the three-measure condition and $1.97/$1,000 rate. That document names no measure numbers other than 24-529; 3-640 = Monitor dissolution per the Clackamas election page, 24-526 = Mt. Angel dissolution per Marion County election documents.",
+    "verified_at": "2026-10-14"
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Faithful to the contingent caption; neutral.",
+    "verified_at": "2026-10-14"
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Neutral.",
+    "verified_at": "2026-10-14"
+  },
+  "fiscal_impact_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Verbatim: '...which is higher than the existing permanent tax rate of each district'; 'The assets, real and personal property, and reserve funds of the dissolving districts would transfer to the new district.'",
+    "verified_at": "2026-10-14"
+  },
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "No arguments on either side: 0 official, 0 pamphlet, 0 press. Both absences documented in gaps. Spot search found only Marion County board documents and excluded aggregators. Clackamas pamphlet measure pages unreadable, so filed arguments could not be checked; Marion County posts per-measure explanatory statements under co.marion.or.us/CO/elections/Results/Documents/20261103/ but none for 3-640 were found."
+  }
+}

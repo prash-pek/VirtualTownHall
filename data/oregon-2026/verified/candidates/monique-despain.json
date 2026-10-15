@@ -1,0 +1,181 @@
+{
+  "id": "monique-despain",
+  "name": "Monique DeSpain",
+  "race_id": "or-us-house-4",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+  "occupation": "Attorney",
+  "website_url": "https://www.moniqueforcongress.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+  "bio": [
+    {
+      "id": "monique-despain-b1",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, DeSpain lists her occupation as attorney.",
+      "excerpt": "Attorney",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "monique-despain-b2",
+      "topic": "veterans",
+      "statement": "Her pamphlet statement lists her occupational background as a retired U.S. Air Force colonel.",
+      "excerpt": "Colonel, U.S. Air Force (retired)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "monique-despain-b3",
+      "topic": "education",
+      "statement": "Her pamphlet statement lists a J.D. from Willamette University, an M.S. from Central Michigan University and a B.S. from the University of Utah.",
+      "excerpt": "J.D., Willamette University; M.S., Administration, Central Michigan University; B.S., Psychology, University of Utah",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "monique-despain-p1",
+      "topic": "social-services",
+      "statement": "DeSpain's pamphlet statement says she supports expanding shelter and treatment access, backed by law enforcement.",
+      "excerpt": "Monique supports expanding shelter and treatment access, backed by law enforcement",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "monique-despain-p2",
+      "topic": "local-business",
+      "statement": "DeSpain says she would work to restore the economy and strengthen small businesses.",
+      "excerpt": "Monique will fight to restore our economy, strengthen small businesses, and create opportunities",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "monique-despain-p3",
+      "topic": "economy",
+      "statement": "DeSpain's statement cites rising costs of energy, healthcare, housing, taxes and groceries.",
+      "excerpt": "Oregonians are struggling with rising costs of energy, healthcare, housing, taxes, groceries and everyday necessities.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "monique-despain-p4",
+      "topic": "environment",
+      "statement": "DeSpain supports forest management that she says would end the smoke season while supporting family-wage jobs.",
+      "excerpt": "Monique supports responsible forest management that ends our smoke season while supporting family-wage jobs.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "monique-despain-p5",
+      "topic": "custom:government-spending",
+      "statement": "DeSpain says she would demand accountability for tax dollars and root out fraud.",
+      "excerpt": "Monique will demand accountability with our tax dollars, root out rampant fraud",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Lane County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record: has not held elected office (pamphlet lists USAF JAG service as prior governmental experience)"
+  ],
+  "nominating_parties": [
+    "Republican",
+    "Libertarian"
+  ],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-4: Hoyle 5 bio/5 pos/2 votes, DeSpain 3/5/0, Filip 2/6/0; all T1. The disparity reflects incumbency and is documented. DeSpain's prior government experience is 'USAF, 30 years, JAG' (pamphlet), consistent with the gap. Website confirmed in pamphlet. Spot-search found 2026 T3 coverage (Oregon Capital Chronicle, OPB) not collected for any CD4 candidate."
+  }
+}

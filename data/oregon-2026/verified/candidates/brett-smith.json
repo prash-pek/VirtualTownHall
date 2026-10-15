@@ -1,0 +1,196 @@
+{
+  "id": "brett-smith",
+  "name": "Brett Smith",
+  "race_id": "or-governor",
+  "party": "Pacific Green",
+  "incumbent": false,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": "Inventor, Small Business Owner, Welder, Fabricator",
+  "website_url": "https://brett-smith.us",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "bio": [
+    {
+      "id": "brett-smith-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Smith lists his occupation as inventor, small business owner, welder and fabricator.",
+      "excerpt": "Inventor, Small Business Owner, Welder, Fabricator",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-b2",
+      "topic": "education",
+      "statement": "His pamphlet statement lists a welding apprenticeship and more than a decade of regulatory compliance work with the FDA and USPTO.",
+      "excerpt": "Toromont Energy Welding Apprenticeship, Over a decade of experience with regulatory compliance for the FDA and USPTO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-b3",
+      "topic": "custom:background",
+      "statement": "His pamphlet statement lists no prior governmental experience.",
+      "excerpt": "None",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "brett-smith-p1",
+      "topic": "taxes",
+      "statement": "Smith's pamphlet statement proposes a full audit of state systems and the tax code by independent contractors.",
+      "excerpt": "A full audit of our systems and tax code by independent contractors.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-p2",
+      "topic": "healthcare",
+      "statement": "Smith calls for healthcare for all and says the state has the money for it.",
+      "excerpt": "Healthcare for all. We have the money",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-p3",
+      "topic": "civil-rights",
+      "statement": "Smith's statement opposes unconstitutional surveillance.",
+      "excerpt": "No unconstitutional surveillance",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-p4",
+      "topic": "technology",
+      "statement": "Smith proposes a permanent moratorium on data centers.",
+      "excerpt": "A permanent moratorium on data centers",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-p5",
+      "topic": "foreign-policy",
+      "statement": "Smith proposes a constitutional amendment stating no Oregonian will be drafted into a war not sanctioned by Congress.",
+      "excerpt": "A constitutional amendment to state no Oregonian will be drafted into a war not sanctioned by Congress",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-p6",
+      "topic": "local-business",
+      "statement": "Smith supports subsidies for local businesses and ranchers rather than corporations.",
+      "excerpt": "Subsidies for local businesses and ranchers. Not corporations",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record: has not held public office (pamphlet lists prior governmental experience as None)"
+  ],
+  "verification_summary": {
+    "verified": 9,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race or-governor: Kotek 4 bio/6 pos, Drazan 4/6, Smith 3/6; all T1, so counts are balanced. Same-name check: all items come from the 2026 pamphlet statement for the Pacific Green nominee (brett-smith.us). OPB (Dirk VanderHart, 2026-07-23) identifies him as a 44-year-old Molalla resident who ran for CD5 in 2024 as the Independent Party nominee, and it links brett-smith.us, which confirms the domain. Missed T3: OPB 2026-07-23 and 2026-09-16 'first look' pieces on him were not collected."
+  }
+}

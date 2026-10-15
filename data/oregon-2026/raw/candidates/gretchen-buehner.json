@@ -1,0 +1,158 @@
+{
+  "id": "gretchen-buehner",
+  "name": "Gretchen E Buehner",
+  "name_variants": [
+    "Gretchen Buehner",
+    "Gretchen E. Buehner"
+  ],
+  "race_id": "king-city-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.ci.king-city.or.us/councilors_-_bios.php",
+  "occupation": "Attorney Mediator and Arbitrator",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "gretchen-buehner-b1",
+      "topic": "custom:bio",
+      "statement": "Buehner's pamphlet statement lists work as an attorney in real estate, land use and estate planning from 1981 to 2023.",
+      "excerpt": "Attorney, Real Estate and Land Use, and Estate Planning, 1981 to 2023",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "gretchen-buehner-b2",
+      "topic": "custom:bio",
+      "statement": "Buehner's pamphlet statement lists a law degree from Lewis & Clark Law School.",
+      "excerpt": "Lewis & Clark Law School, JD, 1981",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "gretchen-buehner-b3",
+      "topic": "custom:bio",
+      "statement": "Buehner's pamphlet statement lists chairing the King City Planning Commission since 2024 and serving on the council 2017-2020.",
+      "excerpt": "Chair, King City Planning Commission, 2024 to present; King City Council, 2017 to 2020",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "gretchen-buehner-p1",
+      "topic": "custom:governance",
+      "statement": "In her voters' pamphlet statement, Buehner says she will advocate for a voter-elected mayor.",
+      "excerpt": "Advocate for a voter elected mayor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "gretchen-buehner-p2",
+      "topic": "custom:growth",
+      "statement": "Buehner's pamphlet statement calls for managing growth to keep King City livable.",
+      "excerpt": "Manage growth to keep King City livable",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "gretchen-buehner-p3",
+      "topic": "housing",
+      "statement": "Buehner's pamphlet statement calls for protecting neighborhood character in every land-use decision.",
+      "excerpt": "Protect neighborhood character in every land-use decision",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "gretchen-buehner-p4",
+      "topic": "custom:governance",
+      "statement": "Buehner's pamphlet statement calls for keeping City Hall transparent and accessible.",
+      "excerpt": "Keep City Hall transparent and accessible",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (offset 40000)",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.ci.king-city.or.us/city_council_candidate_filings/index.php",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.ci.king-city.or.us/councilors_-_bios.php",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign website printed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Gretchen Buehner\" King City council 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Gretchen Buehner\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Gretchen Buehner\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Gretchen Buehner\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "King City council bios page lists seven councilors: Rachel Kazmierski, Stephen Gearhart, Vince Arditi, Sandra Cunningham, Gary Mitchell, Linda Quanstrom, Jan Tysoe. The city's candidate-filings page lists completed filings for Dirksen, Cunningham, Gearhart, Suesserman (spelled 'Susserman') and Buehner, and James M Minor as a prospective petition. Step 4/5 searches returned only older (2016-2023) Pamplin/WW coverage or other King Cities; not used to keep treatment equal. Not on the current roster."
+}

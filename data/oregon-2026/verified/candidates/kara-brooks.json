@@ -1,0 +1,121 @@
+{
+  "id": "kara-brooks",
+  "name": "Kara A Brooks",
+  "name_variants": [
+    "Kara A. Brooks",
+    "Kara Brooks"
+  ],
+  "race_id": "or-circuit-court-5-pos-5",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "kara-brooks-b1",
+      "topic": "custom:bio",
+      "statement": "The Governor's office announced in August 2026 that Governor Tina Kotek appointed Brooks to the Clackamas County Circuit Court.",
+      "excerpt": "Today, Governor Tina Kotek announced that she has appointed Kara A. Brooks to the Clackamas County Circuit Court.",
+      "source": {
+        "url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-appoints-judge-to-the-clackamas-county-circuit-court-2",
+        "publisher": "Office of the Governor, State of Oregon",
+        "tier": "T1",
+        "published_at": "2026-08-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kara-brooks-b2",
+      "topic": "custom:bio",
+      "statement": "The Governor's release says Brooks fills the vacancy created by the retirement of Judge Katherine E. Weber.",
+      "excerpt": "Ms. Brooks will fill the vacancy created by the retirement of Judge Katherine E. Weber.",
+      "source": {
+        "url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-appoints-judge-to-the-clackamas-county-circuit-court-2",
+        "publisher": "Office of the Governor, State of Oregon",
+        "tier": "T1",
+        "published_at": "2026-08-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kara-brooks-b3",
+      "topic": "custom:bio",
+      "statement": "The Governor's release says Brooks received her law degree from Lewis & Clark Law School.",
+      "excerpt": "Kara Brooks received her juris doctorate from the Lewis & Clark Law School in Portland.",
+      "source": {
+        "url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-appoints-judge-to-the-clackamas-county-circuit-court-2",
+        "publisher": "Office of the Governor, State of Oregon",
+        "tier": "T1",
+        "published_at": "2026-08-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kara-brooks-b4",
+      "topic": "custom:bio",
+      "statement": "At the time of appointment, the release says, Brooks served on the Oregon Board of Parole & Post-Prison Supervision.",
+      "excerpt": "She currently serves on the Oregon Board of Parole & Post-Prison Supervision.",
+      "source": {
+        "url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-appoints-judge-to-the-clackamas-county-circuit-court-2",
+        "publisher": "Office of the Governor, State of Oregon",
+        "tier": "T1",
+        "published_at": "2026-08-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kara-brooks-b5",
+      "topic": "custom:bio",
+      "statement": "The release says Brooks previously served in the Clackamas County District Attorney's Office.",
+      "excerpt": "Previously, Ms. Brooks served in the Clackamas County District Attorney's Office",
+      "source": {
+        "url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-appoints-judge-to-the-clackamas-county-circuit-court-2",
+        "publisher": "Office of the Governor, State of Oregon",
+        "tier": "T1",
+        "published_at": "2026-08-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "State voters' pamphlet (Clackamas edition) lists her statement on p. 57, but the web PDF text truncates at ~120k characters (p. 42), so the statement could not be read",
+    "No campaign website found",
+    "No T3 press coverage found",
+    "No position statements found (judicial candidate)"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Circuit Court 5th District Pos 5, unopposed: 5 items (all from the T1 Governor's release, 2026-08-07). incumbent_source_url was changed to the official ballot directive, which prints 'Kara A Brooks Incumbent' under this exact position. The Governor's release doesn't name the position number. Her state voters' pamphlet statement is still unread: the verifier also could not reach the SOS pamphlet PDF, so this gap is confirmed, not a sign of unequal effort."
+  }
+}

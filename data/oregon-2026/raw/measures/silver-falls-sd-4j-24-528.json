@@ -1,0 +1,93 @@
+{
+  "id": "silver-falls-sd-4j-24-528",
+  "jurisdiction_id": "silver-falls-sd-4j",
+  "number": "24-528",
+  "title": "Bonds for replacement MS, new K-8 school; facility improvements",
+  "ballot_label": "Bonds for replacement MS, new K-8 school; facility improvements. Question: Shall District replace middle school, construct new K-8 school, upgrade facilities, enhance security; issue $87,040,000 in bonds; audits required? If the bonds are approved, they will be payable from taxes on property or property ownership that are not subject to the limits of sections 11 and 11b, Article XI of the Oregon Constitution.",
+  "summary": "Silver Falls School District asks voters to approve $87,040,000 in general obligation bonds, which would also unlock a $10,210,000 state matching grant. Funds would replace Silverton Middle School, build a new K-8 school consolidating Pratum, Evergreen and Central Howell schools, repair and upgrade other facilities, and improve security. A citizen oversight committee and audits would be required. Bonds would mature within 26 years.",
+  "yes_means": "A yes vote authorizes Silver Falls School District to issue up to $87,040,000 in general obligation bonds, repaid by property taxes, for the listed school construction and improvement projects.",
+  "no_means": "A no vote denies the district authority to issue these bonds.",
+  "fiscal_impact": "Up to $87,040,000 in general obligation bonds; district would receive a $10,210,000 Oregon School Capital Improvement Match grant if approved (about $97,250,000 total). Bond tax rate estimated to remain at the FY 2026 rate of about $1.88 per $1,000 of assessed value; the district's existing bond is scheduled to be paid off in 2027. Actual rate may differ.",
+  "full_text_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+  "arguments": [
+    {
+      "id": "silver-falls-sd-4j-24-528-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Silver Falls School District No. 4J (explanatory statement)",
+      "topic": "education",
+      "statement": "The explanatory statement says Silverton Middle School's original 1938 building is closed and students use separate classroom wings and portable classrooms; the bond would replace the school.",
+      "excerpt": "Bond funds would replace Silverton Middle School. The original 1938 building is closed, and students currently use separate classroom wings and portable classrooms.",
+      "source": {
+        "url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+        "publisher": "Marion County Clerk's Office (Elections), Voters' Pamphlet Nov 3, 2026",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "education",
+    "taxes"
+  ],
+  "gaps": [
+    "NO arguments: no attributed opposition statement found; whether an argument in opposition was filed in the pamphlet could not be confirmed (pamphlet text cut off at p. 38).",
+    "YES arguments: no filed pamphlet argument in support was found; text near the 24-528 heading reads 'NO ARGUMENTS WERE FILED IN SUPPORT OF THIS MEASURE' but its placement is ambiguous. Only YES-side item is the district's explanatory statement.",
+    "The explanatory statement is cut off at 'If the measure is not approved, the District woul' in the readable text.",
+    "No 2026 press coverage found; T3 allowed-domain search not run (search budget exhausted)."
+  ],
+  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote text, so these are neutral one-sentence descriptions written by the collector, grounded strictly in the official ballot question/summary. Arguments of kind 'explainer' on the YES side quote the rationale that the official ballot title/explanatory statement attributes to the sponsoring governing body; they are not filed pamphlet arguments. No comparable NO-side statement exists in the official text. Pamphlet access limit: WebFetch converts the Marion County voters' pamphlet PDF to only its first 118,524 characters (through p. 38, ending mid-sentence in the 24-528 explanatory statement); the Clackamas pamphlet (docs.clackamas.us/.../03f4f9db-...) is likewise cut off at p. C-33 in candidate statements. Pages 39-45 (remaining measures and any filed arguments) could not be read, so the existence of filed pamphlet arguments for 24-526, 24-528 (partly), 24-529, 24-530 and 24-531 is UNCONFIRMED; a verifier with full PDF access should check. Search budget: the shared WebSearch budget for this run was exhausted partway through step 3; the measure-number search was run for both sides, but the T3 allowed-domain search could not be run for either side. Equal effort was kept: the same searches ran for YES and NO. Inventory source_url (docs.clackamas.us/.../858249da-...) returns only Clackamas' multilingual accommodation notice in WebFetch, not measure text; the Clackamas Nov 3 2026 election page links it as the 24-528 document. Marion's own explanatory statement PDF and SEL 803 for 24-528 are image-only (no machine-readable text). Ballot question OCR reads 'subject lo'; rendered as 'subject to'. Statesman Journal coverage found (Nov 2023) concerns the earlier $138M Measure 24-486, not this measure; not used. Inventory title matches the caption.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/858249da-ee1c-4b23-a832-4ba54bd38de9",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.co.marion.or.us/CO/elections/Results/Documents/20261103/Explanatory%20Statement%20-%20Silver%20Falls%20School%20District%20No%204J.pdf",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "District site: no resolution URL surfaced in searches",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "\"Measure 24-528\" Silver Falls (both sides)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Silver Falls School District bond 2026 Measure 24-528 Silverton Middle School (both sides)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.aol.com/silver-falls-school-bond-replace-130205321.html",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "T3 allowed-domain search (both sides)",
+      "result": "blocked"
+    }
+  ]
+}

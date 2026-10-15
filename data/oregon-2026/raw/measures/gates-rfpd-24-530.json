@@ -1,0 +1,83 @@
+{
+  "id": "gates-rfpd-24-530",
+  "jurisdiction_id": "gates-rfpd",
+  "number": "24-530",
+  "title": "Renewal of current four-year Local Option tax for general operations.",
+  "ballot_label": "Renewal of current four-year Local Option tax for general operations. Question: Shall Gates RFPD retain the option tax of $.9033 per $1000 of assessed value for operations/equipment for another four-years, Beginning June 1, 2027?",
+  "summary": "Asks voters in the Gates Rural Fire Protection District to renew a four-year local option levy of $0.9033 per $1,000 assessed value for operations and equipment, continuing the current levy through June 2031. Funds would maintain current emergency service levels, meet rising operating costs, and upgrade or replace vehicles and equipment.",
+  "yes_means": "A yes vote renews the Gates RFPD local option levy of $0.9033 per $1,000 assessed value for four more years, through June 2031.",
+  "no_means": "A no vote does not renew the levy; the current levy expires in June 2027.",
+  "fiscal_impact": "Estimated revenue: $72,367 (2027/2028), $74,176 (2028/2029), $76,030 (2029/2030), $77,931 (2030/2031).",
+  "full_text_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+  "arguments": [
+    {
+      "id": "gates-rfpd-24-530-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Gates Rural Fire Protection District (official ballot title summary)",
+      "topic": "public-safety",
+      "statement": "The official ballot summary says the levy would fund Gates RFPD to maintain its current level of emergency services and meet increasing operating costs.",
+      "excerpt": "The levy woul begin July 1, 2027 and would provide funding for the Gates RFPD to maintain the current level of emergency services and meet the fire district's increasing operating costs.",
+      "source": {
+        "url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+        "publisher": "Marion County Clerk's Office (Elections), Voters' Pamphlet Nov 3, 2026",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "public-safety",
+    "taxes"
+  ],
+  "gaps": [
+    "NO arguments: no attributed opposition statement found; pamphlet argument pages could not be read to confirm whether any were filed.",
+    "YES arguments: no filed pamphlet argument confirmed; Canyon Weekly coverage (Aug 20, 2026) quotes no named supporters or opponents. Only YES-side item is the sponsor's rationale in the ballot summary.",
+    "Explanatory statement not readable (Marion PDF is image-only; pamphlet page beyond readable range).",
+    "T3 allowed-domain search not run (search budget exhausted)."
+  ],
+  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote text, so these are neutral one-sentence descriptions written by the collector, grounded strictly in the official ballot question/summary. Arguments of kind 'explainer' on the YES side quote the rationale that the official ballot title/explanatory statement attributes to the sponsoring governing body; they are not filed pamphlet arguments. No comparable NO-side statement exists in the official text. Pamphlet access limit: WebFetch converts the Marion County voters' pamphlet PDF to only its first 118,524 characters (through p. 38, ending mid-sentence in the 24-528 explanatory statement); the Clackamas pamphlet (docs.clackamas.us/.../03f4f9db-...) is likewise cut off at p. C-33 in candidate statements. Pages 39-45 (remaining measures and any filed arguments) could not be read, so the existence of filed pamphlet arguments for 24-526, 24-528 (partly), 24-529, 24-530 and 24-531 is UNCONFIRMED; a verifier with full PDF access should check. Search budget: the shared WebSearch budget for this run was exhausted partway through step 3; the measure-number search was run for both sides, but the T3 allowed-domain search could not be run for either side. Equal effort was kept: the same searches ran for YES and NO. Official text inconsistency: the question says 'Beginning June 1, 2027' while the summary says the levy would begin July 1, 2027; both reproduced as printed. Summary typo 'woul' is in the source. Canyon Weekly (Stephen Floyd, Aug 20, 2026, https://www.canyonweekly.com/2026/08/20/gates-rfpd-asks-voters-to-renew-levy/) reports the existing levy expires June 2027 and passed with 76.54% in May 2023; used for context only. Inventory title matches the caption (including trailing period).",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.co.marion.or.us/CO/elections/Results/Documents/20261103/Explantory%20Statement%20-%2024-530%20Gates%20RFPD_Redacted.pdf",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "Gates RFPD site: none surfaced in searches",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "\"24-530\" Gates fire (both sides)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Gates Rural Fire Protection District local option levy 2026 (both sides)",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.canyonweekly.com/2026/08/20/gates-rfpd-asks-voters-to-renew-levy/",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "T3 allowed-domain search (both sides)",
+      "result": "blocked"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "stewart-terrall",
+  "name": "Stewart Terrall",
+  "name_variants": [],
+  "race_id": "banks-council-pos-1",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+  "occupation": "Project Engineer",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "stewart-terrall-b1",
+      "topic": "custom:bio",
+      "statement": "Terrall's pamphlet statement lists his occupation as project engineer.",
+      "excerpt": "Project Engineer",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "stewart-terrall-b2",
+      "topic": "custom:bio",
+      "statement": "Terrall's pamphlet statement lists work as a mechanical and chemical engineer, construction contractor and industrial technician.",
+      "excerpt": "Mechanical and Chemical Engineer, Construction Contractor, Industrial Technician",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "stewart-terrall-b3",
+      "topic": "custom:bio",
+      "statement": "Terrall's pamphlet statement lists mechanical engineering degrees from Portland State University and Portland Community College.",
+      "excerpt": "MS and BS Mechanical Engineering, PSU; AS Mechanical Engineering Technician, PCC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "stewart-terrall-b4",
+      "topic": "custom:bio",
+      "statement": "Terrall's pamphlet statement lists no prior governmental experience.",
+      "excerpt": "None",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "stewart-terrall-p1",
+      "topic": "custom:community",
+      "statement": "In his voters' pamphlet statement, Terrall says he will protect town traditions such as Sunset Speedway, Banks BBQ and Christmas events.",
+      "excerpt": "I will protect town traditions like Sunset Speedway, Banks BBQ, and Christmas events",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "stewart-terrall-p2",
+      "topic": "infrastructure",
+      "statement": "Terrall's pamphlet statement says utility expansion needs careful consideration so that existing residents receive adequate service.",
+      "excerpt": "The expansion of utilities needs to be carefully considered so that existing residents receive adequate service",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt ended mid-sentence ('...existing residents receive'); extended to the printed text through 'adequate service' and statement reworded to match.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "stewart-terrall-p3",
+      "topic": "custom:governance",
+      "statement": "Terrall's pamphlet statement supports term limits to encourage engagement and fresh perspectives.",
+      "excerpt": "Enacting term limits will encourage town engagement and ensure fresh perspective is always at the table.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "stewart-terrall-p4",
+      "topic": "custom:governance",
+      "statement": "Terrall's pamphlet statement says he will work to restore integrity to the council while championing residents' interests.",
+      "excerpt": "I will work to restore integrity to the Banks City Council while championing residents’ interests",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the Nov 3, 2026 Washington County Voters' Pamphlet (re-fetched 2026-10-14), under this candidate's statement and contest; tier, attribution and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race banks-council-pos-1. Terrall has 4 bio and 4 positions; Jones has 5 bio and 3 positions. All are T1, except one T3 and one minutes item for Jones. Coverage is balanced. The spot-search found no 2026 position coverage. Banks Post (2026-08-18) said it would publish questionnaire answers, but none was found as of 2026-10-14. File-level: name matches pamphlet/official listing. Incumbent false: his 2026 pamphlet statement prints 'Prior Governmental Experience: None'. Source changed from the Feb 2025 minutes, which give no position numbers."
+  }
+}

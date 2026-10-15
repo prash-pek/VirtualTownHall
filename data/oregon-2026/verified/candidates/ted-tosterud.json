@@ -1,0 +1,182 @@
+{
+  "id": "ted-tosterud",
+  "name": "Ted Tosterud",
+  "name_variants": [],
+  "race_id": "fairview-council-pos-5",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "ted-tosterud-b1",
+      "topic": "custom:bio",
+      "statement": "In his voters' pamphlet statement, Tosterud lists past work in operations at Quest Diagnostics and as owner of Northwest Medical Laboratories.",
+      "excerpt": "Direction of Operations; Quest Diagnostics, Inc. Owner Northwest Medical Laboratories Inc.;",
+      "source": {
+        "url": "https://multco.us/file/fairview_pos_5_ted_tosterud/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt present ('Direction of Operations' as printed). Statement also said his occupation is retired, which is not in the excerpt (it is under a separate heading and is kept in the file-level occupation field); removed from the statement.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "ted-tosterud-b2",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists a BS in chemistry from Portland State University.",
+      "excerpt": "Portland State University, BS in Chemistry",
+      "source": {
+        "url": "https://multco.us/file/fairview_pos_5_ted_tosterud/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (line breaks and curly apostrophe only).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "ted-tosterud-b3",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists service as Fairview mayor and councilor and on Fairview and Multnomah County Sheriff budget committees.",
+      "excerpt": "Fairview Mayor; Fairview City Councilor; Fairview Budget Committee; Multnomah County Sheriff's Budget Committee",
+      "source": {
+        "url": "https://multco.us/file/fairview_pos_5_ted_tosterud/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (line breaks and curly apostrophe only).",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "ted-tosterud-p1",
+      "topic": "taxes",
+      "statement": "In his pamphlet statement, Tosterud says he supports a moratorium on local fee and tax increases where feasible and transparent budgeting.",
+      "excerpt": "I support a moratorium on local fees and tax increases wherever feasible, and I will insist on transparent budgeting",
+      "source": {
+        "url": "https://multco.us/file/fairview_pos_5_ted_tosterud/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (line breaks and curly apostrophe only).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "ted-tosterud-p2",
+      "topic": "public-safety",
+      "statement": "His pamphlet statement says he will evaluate the Gresham Fire and Multnomah County Sheriff contract renewals.",
+      "excerpt": "I will carefully evaluate the Gresham Fire and Multnomah County Sheriff's contract renewals",
+      "source": {
+        "url": "https://multco.us/file/fairview_pos_5_ted_tosterud/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (line breaks and curly apostrophe only).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "ted-tosterud-p3",
+      "topic": "local-business",
+      "statement": "His pamphlet statement says Fairview needs new retail businesses to grow its tax base without raising residents' taxes.",
+      "excerpt": "Fairview also needs new retail businesses to grow its tax base without raising taxes on residents.",
+      "source": {
+        "url": "https://multco.us/file/fairview_pos_5_ted_tosterud/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (line breaks and curly apostrophe only).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "ted-tosterud-p4",
+      "topic": "custom:finances",
+      "statement": "His pamphlet statement says that as mayor until 2019 he left the city financially stable and paid off water bond debt.",
+      "excerpt": "As Mayor until 2019, I left the city financially stable with adequate reserves: we paid off our water bond debt,",
+      "source": {
+        "url": "https://multco.us/file/fairview_pos_5_ted_tosterud/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (line breaks and curly apostrophe only).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "ted-tosterud-p5",
+      "topic": "housing",
+      "statement": "His pamphlet statement says he helped bring $33 million in development combining affordable housing with retail space.",
+      "excerpt": "I also helped bring $33 million in new tax-paying development to Fairview, combining affordable housing with retail space",
+      "source": {
+        "url": "https://multco.us/file/fairview_pos_5_ted_tosterud/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-14; excerpt present verbatim (line breaks and curly apostrophe only).",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed in pamphlet statement",
+    "No 2026 T3 coverage found; press results date from his earlier terms",
+    "Incumbency not determined (Fairview council roster unreadable)"
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Unopposed race (fairview-council-pos-5). Pamphlet-only profile; spot-search found no missed T1/T2/T3 material. Incumbency left null: statement lists 'Fairview City Councilor' under prior governmental experience with no dates, and Fairview's council roster cannot be fetched (robots). Statement email ttost@comcast.net; no website, consistent with the gap."
+  }
+}

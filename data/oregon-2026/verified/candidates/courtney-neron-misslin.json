@@ -1,0 +1,244 @@
+{
+  "id": "courtney-neron-misslin",
+  "name": "Courtney Neron Misslin",
+  "name_variants": [
+    "Courtney Neron"
+  ],
+  "race_id": "or-senate-13",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/neron/Pages/default.aspx",
+  "occupation": "State Senator",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "courtney-neron-misslin-b1",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Neron Misslin lists her occupational background as a high school French/Spanish teacher.",
+      "excerpt": "Occupational Background: High School French/Spanish Teacher",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Washington County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement also claimed occupation State Senator, which the excerpt did not cover; trimmed to excerpt (occupation is on the page but outside the excerpt).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-neron-misslin-b2",
+      "topic": "education",
+      "statement": "Her pamphlet statement lists a Pacific University MAT, a University of Oregon BA and Tigard High.",
+      "excerpt": "Educational Background: Pacific University, MAT; University of Oregon, BA; Tigard High",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Washington County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-neron-misslin-b3",
+      "topic": "custom:background",
+      "statement": "Her official Senate page identifies her as Senator for Senate District 13.",
+      "excerpt": "Serving Senate District 13",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/neron/Pages/default.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-neron-misslin-b4",
+      "topic": "custom:background",
+      "statement": "Her official biography lists the communities of Senate District 13.",
+      "excerpt": "King City, Metzger, Parrett Mountain, Sherwood, South Beaverton, Tigard, Wilsonville",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/neron/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-neron-misslin-b5",
+      "topic": "education",
+      "statement": "Her official biography says that in her first term she helped pass the Student Success Act.",
+      "excerpt": "In my first term, I helped pass the Student Success Act, bringing critically needed investments into our schools",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/neron/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement also claimed Pacific University MAT, not in the excerpt; trimmed to match excerpt (MAT is on the page and already covered by b2).",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "courtney-neron-misslin-p1",
+      "topic": "healthcare",
+      "statement": "In her pamphlet statement, Neron Misslin lists comprehensive reproductive healthcare among her priorities.",
+      "excerpt": "Comprehensive reproductive healthcare",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Washington County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-neron-misslin-p2",
+      "topic": "social-services",
+      "statement": "In her pamphlet statement, Neron Misslin lists affordable, high-quality childcare among her priorities.",
+      "excerpt": "Affordable, high-quality childcare",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Washington County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-neron-misslin-p3",
+      "topic": "economy",
+      "statement": "In her pamphlet statement, Neron Misslin lists apprenticeships leading to family-wage jobs among her priorities.",
+      "excerpt": "Apprenticeships leading to family-wage jobs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Washington County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-neron-misslin-p4",
+      "topic": "economy",
+      "statement": "In her pamphlet statement, Neron Misslin says she is pushing back against federal overreach and policies that benefit only the ultra-wealthy.",
+      "excerpt": "As your State Senator, I'm pushing back against federal overreach and policies that benefit only the ultra-wealthy.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Washington County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "courtney-neron-misslin-p5",
+      "topic": "education",
+      "statement": "In a March 2026 OPB report, Neron Misslin said a bill requiring school notification when ICE is present promises information when people need it most.",
+      "excerpt": "This bill promises information when people need it most",
+      "source": {
+        "url": "https://www.opb.org/article/2026/03/08/lawmakers-pass-new-notification-rules-for-schools-when-ice-comes/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-03-08",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "courtney-neron-misslin-v1",
+      "topic": "environment",
+      "statement": "OPB reports that Neron Misslin was chief sponsor of Senate Bill 1582 (virtual power plants) in the 2026 session.",
+      "excerpt": "Democratic state Sen. Courtney Neron Misslin, chief sponsor of the bill",
+      "source": {
+        "url": "https://www.opb.org/article/2026/02/11/oregon-politics-energy-power-virtual-plants-senate-bill-1582/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-02-11",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "gaps": [
+    "No roll-call floor votes retrieved: OLIS member pages render no bill lists to the fetch tool",
+    "No campaign website verified",
+    "Positions on housing, taxes, public safety not found in sources used"
+  ],
+  "verification_summary": {
+    "verified": 9,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Senate 13: Neron Misslin 11 items, Lancaster 6, Nelson 0 (no pamphlet statement filed, marked * in pamphlet list; gap applied equally). Neron Misslin's count is boosted by T1 legislature pages and T3 OPB, available only to the incumbent."
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "id": "christine-drazan",
+  "name": "Christine Drazan",
+  "race_id": "or-governor",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/state/executive/governor-bio.aspx",
+  "occupation": "State Senator",
+  "website_url": "https://www.ChristineForOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "bio": [
+    {
+      "id": "christine-drazan-b1",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Drazan lists her occupation as state senator.",
+      "excerpt": "State Senator",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "christine-drazan-b2",
+      "topic": "custom:background",
+      "statement": "Her pamphlet statement lists prior experience as House Republican leader, on the Oregon Innovation Council and the Clackamas County Planning Commission.",
+      "excerpt": "House Republican Leader; Oregon Innovation Council; Clackamas County Planning Commission",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "christine-drazan-b3",
+      "topic": "education",
+      "statement": "Her pamphlet statement lists a BA from George Fox University.",
+      "excerpt": "George Fox University, BA",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "christine-drazan-b4",
+      "topic": "custom:background",
+      "statement": "The Oregon Legislature lists her as a Republican senator for District 26, based in Canby.",
+      "excerpt": "Republican - District 26 - Canby",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/drazan",
+        "publisher": "Oregon State Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim on the cited official page (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "christine-drazan-p1",
+      "topic": "economy",
+      "statement": "Drazan's pamphlet statement lists lowering the cost of living as a priority.",
+      "excerpt": "Lower the cost of living",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "christine-drazan-p2",
+      "topic": "housing",
+      "statement": "Drazan says that on day one she would order state agencies to repeal rules, fees and mandates that raise housing costs.",
+      "excerpt": "On day one, Christine will order state agencies to repeal rules, fees and mandates driving up the cost of housing",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "christine-drazan-p3",
+      "topic": "housing",
+      "statement": "Drazan says she would make building homes faster, simpler and less expensive.",
+      "excerpt": "Make it faster, simpler and less expensive to build homes",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "christine-drazan-p4",
+      "topic": "social-services",
+      "statement": "Drazan's statement lists breaking the cycle of homelessness and addiction as a goal.",
+      "excerpt": "Break the cycle of homelessness and addiction",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "christine-drazan-p5",
+      "topic": "education",
+      "statement": "Drazan proposes restoring graduation requirements and improving schools.",
+      "excerpt": "Restore graduation requirements and fix our schools",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "christine-drazan-p6",
+      "topic": "custom:government-spending",
+      "statement": "Drazan proposes auditing state spending.",
+      "excerpt": "Audit spending and deliver results",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "State legislative voting record not collected (Oregon Legislature vote pages not fetched for any state legislator in this race)",
+    "Legislature page has no biography text"
+  ],
+  "nominating_parties": [
+    "Republican",
+    "Libertarian"
+  ],
+  "verification_summary": {
+    "verified": 10,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race or-governor: Drazan 4/6/0; all T1. Incumbent=false is supported, since the cited Blue Book page shows Kotek as governor. Senate District 26 (Canby) confirmed on oregonlegislature.gov. Website confirmed in pamphlet. Her state Senate/House votes were not collected (documented). Debate coverage (OPB, WW, October 2026) was not collected."
+  }
+}

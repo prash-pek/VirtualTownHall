@@ -1,0 +1,80 @@
+{
+  "id": "silver-falls-sd-4j-24-528",
+  "jurisdiction_id": "silver-falls-sd-4j",
+  "number": "24-528",
+  "title": "Bonds for replacement MS, new K-8 school; facility improvements",
+  "ballot_label": "Bonds for replacement MS, new K-8 school; facility improvements. Question: Shall District replace middle school, construct new K-8 school, upgrade facilities, enhance security; issue $87,040,000 in bonds; audits required? If the bonds are approved, they will be payable from taxes on property or property ownership that are not subject to the limits of sections 11 and 11b, Article XI of the Oregon Constitution.",
+  "summary": "Silver Falls School District asks voters to approve $87,040,000 in general obligation bonds, which would also unlock a $10,210,000 state matching grant. Funds would replace Silverton Middle School, build a new K-8 school consolidating Pratum, Evergreen and Central Howell schools, repair and upgrade other facilities, and improve security. A citizen oversight committee and audits would be required. Bonds would mature within 26 years.",
+  "yes_means": "A yes vote authorizes Silver Falls School District to issue up to $87,040,000 in general obligation bonds, repaid by property taxes, for the listed school construction and improvement projects.",
+  "no_means": "A no vote denies the district authority to issue these bonds.",
+  "fiscal_impact": "Up to $87,040,000 in general obligation bonds; district would receive a $10,210,000 Oregon School Capital Improvement Match grant if approved (about $97,250,000 total). Bond tax rate estimated to remain at the FY 2026 rate of about $1.88 per $1,000 of assessed value; the district's existing bond is scheduled to be paid off in 2027. Actual rate may differ.",
+  "full_text_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+  "arguments": [
+    {
+      "id": "silver-falls-sd-4j-24-528-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Silver Falls School District No. 4J (explanatory statement)",
+      "topic": "education",
+      "statement": "The explanatory statement says Silverton Middle School's original 1938 building is closed and students use separate classroom wings and portable classrooms; the bond would replace the school.",
+      "excerpt": "Bond funds would replace Silverton Middle School. The original 1938 building is closed, and students currently use separate classroom wings and portable classrooms.",
+      "source": {
+        "url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+        "publisher": "Marion County Clerk's Office (Elections), Voters' Pamphlet Nov 3, 2026",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Excerpt verbatim in explanatory statement, pamphlet p.38."
+      }
+    }
+  ],
+  "topics": [
+    "education",
+    "taxes"
+  ],
+  "gaps": [
+    "NO arguments: no attributed opposition statement found; whether an argument in opposition was filed in the pamphlet could not be confirmed (pamphlet text cut off at p. 38).",
+    "YES arguments: no filed pamphlet argument in support was found; text near the 24-528 heading reads 'NO ARGUMENTS WERE FILED IN SUPPORT OF THIS MEASURE' but its placement is ambiguous. Only YES-side item is the district's explanatory statement.",
+    "The explanatory statement is cut off at 'If the measure is not approved, the District woul' in the readable text.",
+    "No 2026 press coverage found; T3 allowed-domain search not run (search budget exhausted)."
+  ],
+  "ballot_label_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches pamphlet p.18 question, including Article XI sentence."
+  },
+  "summary_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches ballot summary and explanatory statement (pp.18, 38): $87,040,000; $10,210,000 match; Pratum, Evergreen, Central Howell consolidation; oversight committee; audits; 26-year maturity."
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14"
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14"
+  },
+  "fiscal_impact_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Confirmed: $87,040,000 bonds; $10,210,000 Oregon School Capital Improvement Match Program grant; 'approximately $97,250,000'; FY 2026 rate 'approximately $1.88 per $1,000'; existing bond 'scheduled to be paid off in 2027'; 'Actual levy rate may differ'."
+  },
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "YES: 1 item, official explanatory statement text (explainer); 0 filed arguments; 0 press. NO: 0 items. The pamphlet's 24-528 page (p.38) carries the notice 'NO ARGUMENTS WERE FILED IN SUPPORT OF THIS MEASURE' directly above the 24-528 heading. Because the notice covers only the support side, an argument in opposition was probably filed and printed after p.38, which is past the machine-readable text. The verifier could not read it. This is a likely completeness gap: the NO side may have a filed argument that is not represented. The collector's gap entry mentions the notice but calls its placement ambiguous. Spot search found no 2026 press."
+  }
+}

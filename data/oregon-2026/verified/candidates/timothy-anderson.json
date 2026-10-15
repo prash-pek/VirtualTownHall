@@ -1,0 +1,182 @@
+{
+  "id": "timothy-anderson",
+  "name": "Timothy (TJ) Anderson",
+  "name_variants": [
+    "Timothy (T.J.) Anderson",
+    "TJ Anderson"
+  ],
+  "race_id": "portland-council-d4",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "University Student",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "timothy-anderson-b1",
+      "topic": "custom:bio",
+      "statement": "Anderson's voters' pamphlet statement lists the occupation university student.",
+      "excerpt": "University Student",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_timothy_t.j_anderson/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "timothy-anderson-b2",
+      "topic": "custom:bio",
+      "statement": "Anderson's pamphlet statement lists experience as a disability student advocate.",
+      "excerpt": "Disability Student Advocate",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_timothy_t.j_anderson/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "timothy-anderson-b3",
+      "topic": "custom:bio",
+      "statement": "Anderson's pamphlet statement lists study in business administration and business economics at Portland State University.",
+      "excerpt": "Portland State University (Business Administration & Business Economics)",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_timothy_t.j_anderson/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "timothy-anderson-b4",
+      "topic": "custom:bio",
+      "statement": "Anderson's pamphlet statement lists service on the Multnomah County Disability Services Advisory Committee.",
+      "excerpt": "Multnomah County Disability Services Advisory Committee",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_timothy_t.j_anderson/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "timothy-anderson-b5",
+      "topic": "custom:bio",
+      "statement": "Anderson's pamphlet statement lists chairing the Multnomah County Central Community Budget Action Committee in 2024-2025.",
+      "excerpt": "Multnomah County Central Community Budget Action Committee Chair (2024-2025)",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_timothy_t.j_anderson/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "timothy-anderson-p1",
+      "topic": "public-safety",
+      "statement": "OPB reports Anderson is running with a focus on reducing police call response times, addressing homelessness and supporting economic growth.",
+      "excerpt": "He’s running with a focus on reducing police call response times, addressing homelessness and supporting economic growth.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/portland-city-council-race-district-4/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "timothy-anderson-p2",
+      "topic": "custom:governance",
+      "statement": "In the voters' pamphlet statement, Anderson says public service starts with listening.",
+      "excerpt": "I believe public service starts with listening.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_timothy_t.j_anderson/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Candidate states no pronouns in pamphlet, filing or official page; replaced gendered pronouns with the name or they/them.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "timothy-anderson-p3",
+      "topic": "custom:governance",
+      "statement": "In a Portland Mercury candidate profile, Anderson says Portland does not need more politicians focused on political advancement.",
+      "excerpt": "Portland does not need more politicians focused on political advancement.",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement names no specific policy positions",
+    "No campaign website printed (statement lists only a LinkedIn profile)",
+    "City filing form (AUD-120) PDF had no readable candidate fields",
+    "No voting record (has not held elected office)"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "D4: 8 items (6 T1, 2 T3). Pamphlet statement confirmed to state no specific policy positions and to print only a LinkedIn link (no campaign website), so website_url null is correct. AUD-120 has no labelled candidate fields (only an unlabelled service list). Name 'Timothy (TJ) Anderson' matches ballot. Incumbent false confirmed. No pronouns stated; gendered pronouns replaced."
+  }
+}

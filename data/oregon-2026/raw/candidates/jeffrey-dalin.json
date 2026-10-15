@@ -1,0 +1,190 @@
+{
+  "id": "jeffrey-dalin",
+  "name": "Jeffrey Dalin",
+  "name_variants": [
+    "Jeffrey C. Dalin",
+    "Jeff Dalin"
+  ],
+  "race_id": "cornelius-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://corneliusor.gov/citycouncil",
+  "occupation": "Engineering Consultant",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "jeffrey-dalin-b1",
+      "topic": "custom:bio",
+      "statement": "Cornelius's city council page lists Dalin as mayor.",
+      "excerpt": "MayorJeffrey C. Dalin",
+      "source": {
+        "url": "https://corneliusor.gov/citycouncil",
+        "publisher": "City of Cornelius (City Council page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeffrey-dalin-b2",
+      "topic": "custom:bio",
+      "statement": "Dalin's pamphlet statement lists service as Cornelius mayor since November 2011 and city councilor from 2003 to 2011.",
+      "excerpt": "Nov. 2011 to present: Mayor, City of Cornelius; July 2003 to Nov. 2011: City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeffrey-dalin-b3",
+      "topic": "custom:bio",
+      "statement": "Dalin's pamphlet statement lists 32 years of experience in project management and engineering.",
+      "excerpt": "32 years of experience in project management & engineering",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeffrey-dalin-b4",
+      "topic": "custom:bio",
+      "statement": "Dalin's pamphlet statement lists a bachelor of science in manufacturing engineering technology from Oregon Tech.",
+      "excerpt": "Bachelor of Science in Manufacturing Engineering Technology from OIT",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "jeffrey-dalin-p1",
+      "topic": "transportation",
+      "statement": "In his voters' pamphlet statement, Dalin lists improving safety along Highway 8 / TV Highway.",
+      "excerpt": "Improve safety along Hwy 8 / TV Hwy",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeffrey-dalin-p2",
+      "topic": "economy",
+      "statement": "Dalin's pamphlet statement lists planning community growth, including more family-wage jobs.",
+      "excerpt": "Plan growth of our community, including more family wage jobs",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeffrey-dalin-p3",
+      "topic": "taxes",
+      "statement": "Dalin's pamphlet statement lists improving the city's financial stability.",
+      "excerpt": "Improve the city’s financial stability",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeffrey-dalin-p4",
+      "topic": "custom:governance",
+      "statement": "Dalin's pamphlet statement lists increasing government efficiency.",
+      "excerpt": "Increase government efficiency",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeffrey-dalin-p5",
+      "topic": "custom:community",
+      "statement": "Dalin's pamphlet statement lists increasing community-building activities.",
+      "excerpt": "Increase the number of community building activities",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No press coverage with his own statements found (KOIN Mayor Monday segment paraphrases only)",
+    "Unopposed race"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/city-cornelius-certified-candidates-nov-2026/download?inline",
+      "result": "not read"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://corneliusor.gov/citycouncil",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign website printed in pamphlet statement or official page",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Jeffrey Dalin\" OR \"Jeff Dalin\" Cornelius mayor 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jeff Dalin\" Cornelius (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jeff Dalin\" Cornelius (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jeff Dalin\" Cornelius (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.koin.com/am-extra/cornelius-mayor-details-programs-offered-to-community/",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Cornelius council page (corneliusor.gov/citycouncil) lists Mayor Jeffrey C. Dalin and Councilors Eden Lopez, Doris Gonzalez, John Colgan (Council President) and Angeles Godinez. corneliusor.gov directory and Elections-2026 pages block automated fetch. "
+}

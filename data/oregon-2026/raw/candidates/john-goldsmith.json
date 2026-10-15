@@ -1,0 +1,152 @@
+{
+  "id": "john-goldsmith",
+  "name": "John J Goldsmith",
+  "name_variants": [
+    "John J. Goldsmith",
+    "John Goldsmith"
+  ],
+  "race_id": "portland-council-d4",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "Security officer",
+  "website_url": "https://www.johngoldsmith4pdx.net",
+  "website_verified_via": "https://www.portland.gov/auditor/elections/documents/goldsmith-john-2026-aud-120-amendment-redacted/download",
+  "bio": [
+    {
+      "id": "john-goldsmith-b1",
+      "topic": "custom:bio",
+      "statement": "Goldsmith's city candidate filing form says he is a licensed, unionized Central City security officer for an international private security firm.",
+      "excerpt": "I am a licensed (DPSST) Central City unionized Security Officer for an International private security firm.",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/goldsmith-john-2026-aud-120-amendment-redacted/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "john-goldsmith-b2",
+      "topic": "custom:bio",
+      "statement": "Goldsmith's filing form lists past work as a Department of Justice analyst specializing in litigation support and electronic discovery.",
+      "excerpt": "Department of Justice Analyst (Paid/Union) specializing in litigation support, electronic discovery,",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/goldsmith-john-2026-aud-120-amendment-redacted/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "john-goldsmith-b3",
+      "topic": "custom:bio",
+      "statement": "Goldsmith's filing form lists an unpaid appointment to the San Francisco City and County Transportation Commission.",
+      "excerpt": "(Unpaid) Appointed to the San Francisco City and County Transportation Commission under Mayor London Breed.",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/goldsmith-john-2026-aud-120-amendment-redacted/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "john-goldsmith-b4",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Goldsmith calls himself an artist, advocate and essential worker.",
+      "excerpt": "he calls himself an artist, advocate, and essential worker",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "john-goldsmith-b5",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Goldsmith also ran for City Council in 2024.",
+      "excerpt": "Goldsmith also mounted a run for City Council in 2024.",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement: the county pamphlet's candidate index marks this candidate with an asterisk ('did not file a candidate statement'), and no statement is linked in the county's Military & Overseas Online Voters' Guide",
+    "No policy positions found in T1/T2/T3 sources; OPB notes he did not submit information to the county voter guide",
+    "No voting record (has not held elected office in Oregon)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "not found (no statement linked for this candidate)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "used (candidate index only: asterisk = no statement filed)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.portland.gov/auditor/elections/run4office/2026-city-candidates",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.portland.gov/auditor/elections/documents/goldsmith-john-2026-aud-120-amendment-redacted/download",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.portland.gov/council",
+      "result": "nothing relevant (not a current or former officeholder per official sources)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "johngoldsmith4pdx.net (listed on the AUD-120 filing form)",
+      "result": "used (domain recorded; site not fetched)"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"John Goldsmith\" Portland City Council 2026",
+      "result": "nothing relevant (Wikipedia, excluded bluevoterguide.org, unrelated)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"John Goldsmith\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"John Goldsmith\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"John Goldsmith\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/10/07/portland-city-council-race-district-4/",
+      "result": "nothing relevant (fetched; candidate not mentioned or nothing usable beyond other sources)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Steps run identically for all 12 District 4 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF plus the City Auditor's AUD-120 candidate filing form (linked from portland.gov 2026 city candidates page); (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the two articles that profile every District 4 candidate: OPB 'What to know about Portland's District 4 council race' (2026-10-07) and Portland Mercury 'Meet the Candidates For City Council District 4' (2026-09-11). Multi-winner race: OPB states three District 4 seats are on the ballot. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Ballot name 'John J Goldsmith'; filing form prints 'John J. Goldsmith'; searches used 'John Goldsmith'. Occupation field paraphrased from the filing form (no pamphlet occupation line)."
+}

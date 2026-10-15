@@ -1,0 +1,86 @@
+{
+  "id": "diane-sykes",
+  "name": "Diane S Sykes",
+  "name_variants": [
+    "Diane Sykes"
+  ],
+  "race_id": "or-circuit-court-4-pos-2",
+  "party": null,
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "diane-sykes-b1",
+      "topic": "custom:bio",
+      "statement": "Willamette Week describes Sykes as a longtime civil rights lawyer.",
+      "excerpt": "Sykes, a longtime civil rights lawyer.",
+      "source": {
+        "url": "https://www.wweek.com/news/county/2026/05/19/embattled-multnomah-county-circuit-judge-poised-to-lose-seat",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-05-19",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "diane-sykes-b2",
+      "topic": "custom:bio",
+      "statement": "Willamette Week reports Sykes served as civil rights director at the Oregon Department of Justice.",
+      "excerpt": "a stint as civil rights director at the Oregon Department of Justice",
+      "source": {
+        "url": "https://wweek.com/news/2026/04/29/wws-may-2026-endorsements-circuit-court-judges",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-04-29",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement not readable (PDF fetch cut off before pp. 59-61)",
+    "No campaign website found in a T1/T3 source",
+    "Judicial candidate: no issue positions collected (judicial ethics)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no OJD/official page found naming this candidate",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain found in a T1/T3 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Diane Sykes\" Multnomah circuit court judge position 2 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "race query (allowed_domains opb.org, wweek.com, portlandmercury.com)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.wweek.com/news/county/2026/05/19/embattled-multnomah-county-circuit-judge-poised-to-lose-seat",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://wweek.com/news/2026/04/29/wws-may-2026-endorsements-circuit-court-judges",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Ballot spelling 'Diane S Sykes'. Search results for 'Diane Sykes' are dominated by the unrelated federal Seventh Circuit judge Diane S. Sykes; those were excluded. Incumbency left null: Position 2 is an open seat per WW (only Adrian Brown, a different race, was an incumbent facing a challenger) but no official source states it; inventory had false. Judicial candidate: bio/qualifications only; no issue positions sought. Voters' pamphlet: Book 13 lists 4th District judges on pp. 59-61, but the PDF text is cut off by the fetch tool at ~120k characters (p. 49), so judicial statements could not be read; oregonvotes.gov military voters' guide pages surfaced by search for Sykes and Hagedorn redirect to the SOS elections home page (302), so they were not usable. Step 5 ran with allowed_domains limited to opb.org, wweek.com, portlandmercury.com because the proxy rejected longer domain lists. Bio items from WW's April 2026 endorsement piece are descriptive facts only; no endorsement content is used."
+}

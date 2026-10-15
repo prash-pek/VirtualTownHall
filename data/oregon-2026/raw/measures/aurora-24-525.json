@@ -1,0 +1,77 @@
+{
+  "id": "aurora-24-525",
+  "jurisdiction_id": "aurora",
+  "number": "24-525",
+  "title": "Voter Approval of Updated City Charter",
+  "ballot_label": "Voter Approval of Updated City Charter. Question: Should voters Approve the updated City Charter?",
+  "summary": "Asks City of Aurora voters to approve an updated city charter, which has not been amended since 1985. The update would also change Aurora from a strong-mayor (mayor-council) form of government to a council-manager form, in which a city manager appointed by the council handles daily operations, hiring and budget preparation. The mayor would remain a voting council member and presiding officer. The change would take effect January 1, 2027.",
+  "yes_means": "A yes vote approves the updated City of Aurora charter, including the change to a council-manager form of government.",
+  "no_means": "A no vote rejects the updated charter, leaving the 1985 charter and the current strong-mayor (mayor-council) form of government in place.",
+  "fiscal_impact": null,
+  "full_text_url": "https://www.co.marion.or.us/CO/elections/Results/Documents/20261103/Explanatory%20Statement%20-%2024-525%20City%20of%20Aroura_AMENDED.pdf",
+  "arguments": [
+    {
+      "id": "aurora-24-525-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "City of Aurora (official ballot title summary)",
+      "topic": "custom:local-government",
+      "statement": "The official ballot summary says the Aurora City Council believes the city should move from a strong-mayor to a city manager-council government, to separate volunteer leadership from day-to-day professional administration.",
+      "excerpt": "In addition, the City Council believes that the form of government in Aurora should change from its current form strong mayor, to a city manager-council form of government. This change is driven by a desire to separate citizen volunteer leadership from day-to-day professional administration.",
+      "source": {
+        "url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+        "publisher": "Marion County Clerk's Office (Elections), Voters' Pamphlet Nov 3, 2026",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "custom:local-government"
+  ],
+  "gaps": [
+    "NO arguments: the Marion County voters' pamphlet states 'NO ARGUMENTS WERE FILED IN SUPPORT OF OR IN OPPOSITION TO THIS MEASURE'; no attributed opposition statement found.",
+    "YES arguments: no filed pamphlet arguments; the only YES-side item is the sponsor's rationale from the official ballot summary.",
+    "Full text of the updated charter was not found on a City of Aurora page; full_text_url points to the county-posted explanatory statement.",
+    "No press coverage found; T3 allowed-domain search not run (search budget exhausted)."
+  ],
+  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote text, so these are neutral one-sentence descriptions written by the collector, grounded strictly in the official ballot question/summary. Arguments of kind 'explainer' on the YES side quote the rationale that the official ballot title/explanatory statement attributes to the sponsoring governing body; they are not filed pamphlet arguments. No comparable NO-side statement exists in the official text. Search budget: the shared WebSearch budget for this run was exhausted partway through step 3; the measure-number search was run for both sides, but the T3 allowed-domain search could not be run for either side. Equal effort was kept: the same searches ran for YES and NO. Pamphlet pp. 36 (24-525) explicitly says no arguments were filed for or against. Marion's posted file names misspell the city as 'Aroura'. Inventory title matches the caption.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.co.marion.or.us/CO/elections/Results/Documents/20261103/Explanatory%20Statement%20-%2024-525%20City%20of%20Aroura_AMENDED.pdf",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "City of Aurora site: no charter text URL surfaced in searches",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "\"24-525\" Aurora charter (both sides)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Aurora Oregon city charter council-manager 2026 ballot measure (both sides)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "T3 allowed-domain search (both sides)",
+      "result": "blocked"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "tim-nelson",
+  "name": "Tim E Nelson",
+  "name_variants": [
+    "Tim E. Nelson"
+  ],
+  "race_id": "or-senate-13",
+  "party": "Libertarian",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/neron/Pages/default.aspx",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement (marked '*' in pamphlet candidate list: no statement submitted)",
+    "No public positions or biography found",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+      "result": "used (candidate list marks him '*': no statement)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Tim E. Nelson\" Libertarian Oregon Senate District 13 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tim E. Nelson\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (other Tim Nelsons)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tim E. Nelson\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tim E. Nelson\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Tim_Nelson_(Oregon)",
+      "result": "nothing relevant (2018/2020 House District 26 Libertarian candidate named Tim Nelson; identity with this candidate unconfirmed, not used)"
+    }
+  ],
+  "collection_notes": "Ballot spelling 'Tim E Nelson'. Ballotpedia lists a Libertarian Tim Nelson who ran in House District 26 in 2018 and 2020; not confirmed to be the same person, so no item was written. Matches inventory."
+}

@@ -1,0 +1,120 @@
+{
+  "id": "bri-williams",
+  "name": "Bri Williams",
+  "name_variants": [],
+  "race_id": "multnomah-county-commissioner-d2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://multco.us/board",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "bri-williams-b1",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Williams works for Multnomah County as a mental health consultant partnering with Albina Head Start.",
+      "excerpt": "now works for Multnomah County as a mental health consultant, partnering with Albina Head Start.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "bri-williams-b2",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Williams was born and raised in Northeast Portland.",
+      "excerpt": "Bri Williams was born and raised in Northeast Portland and says her family has deep roots in the city.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "bri-williams-p1",
+      "topic": "housing",
+      "statement": "The Portland Mercury reports Williams wants to focus on housing stability by preventing displacement and supporting renters.",
+      "excerpt": "focus on housing stability by preventing displacement and supporting renters,",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "bri-williams-p2",
+      "topic": "healthcare",
+      "statement": "The Portland Mercury reports Williams wants the county to invest more in behavioral health services.",
+      "excerpt": "she also wants the county to invest more heavily in behavioral health services",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "bri-williams-p3",
+      "topic": "local-business",
+      "statement": "The Portland Mercury reports Williams would prioritize small business and workforce development opportunities.",
+      "excerpt": "prioritize small business and workforce development opportunities",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [
+    "Voters' pamphlet statement not readable (PDF fetch cut off before p. 45)",
+    "No campaign website found in a T1/T3 source",
+    "Candidate filing PDF had no readable fields",
+    "No T1 source for bio facts",
+    "Individual voters' pamphlet statement PDF on multco.us is a scan with no machine-readable text"
+  ],
+  "voting_record": [],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Source-access disparity, not candidate disparity: the large-print/full pamphlet PDFs are only readable through Broussard and the start of Greene's statements, and the individual statement PDFs for Broussard, Greene, Williams, Ong Norris and Zaghloul are scans with no machine-readable text. Cruz and Robertson have readable individual statements, so they have T1 positions; Williams, Ong Norris and Zaghloul have only T3 (Portland Mercury 2026-09-26) items, and Broussard and Greene mix T1 bio with few positions. Verifier hit the same limits (PDF text truncated at Greene's statement). Same search effort appears applied to all seven; disparity is documented in each file's gaps."
+  }
+}

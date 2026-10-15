@@ -1,0 +1,196 @@
+{
+  "id": "portland-26-267",
+  "jurisdiction_id": "portland",
+  "number": "26-267",
+  "title": "Amends Charter: Portland residents decide 2% of city's annual discretionary budget.",
+  "ballot_label": "Caption: Amends Charter: Portland residents decide 2% of city’s annual discretionary budget. Question: Should Portland create participatory budgeting program for residents to make binding decisions to spend 2% of city’s discretionary budget?",
+  "summary": "A citizen-initiated Portland charter amendment requiring the City Council to allocate an amount equal to at least 2% of the city's adopted General Fund discretionary ongoing expenses to a participatory budgeting program. Residents could propose citywide or district projects; city staff and budget delegates would refine proposals, and residents would make binding selections. An oversight committee of residents would help develop the program, which would start July 2027.",
+  "yes_means": "A yes vote amends the Portland City Charter to create a participatory budgeting program in which residents make binding decisions on spending an amount equal to at least 2% of the city's discretionary budget.",
+  "no_means": "A no vote leaves the current budget process unchanged, in which the Mayor proposes and the Council amends and adopts the budget.",
+  "fiscal_impact": "Under a recent forecast, the ballot summary gives a preliminary estimate of $16.4 million in FY 2027-28 and $17.0 million in FY 2028-29 to be allocated to the program; Council may identify funding from the entire city budget to meet the obligation.",
+  "full_text_url": "https://multco.us/file/measure_26-267/download",
+  "arguments": [
+    {
+      "id": "portland-26-267-y1",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Devin Ruiz, deputy director, NextUp Action Fund",
+      "topic": "custom:city-budget",
+      "statement": "Devin Ruiz of NextUp Action Fund, which helped fund the measure's committee, says the measure gives Portlanders a direct way to push back and ensure public dollars are spent responsibly.",
+      "excerpt": "Your 2 Cents gives Portlanders a direct way to push back and ensure public dollars are spent responsibly.",
+      "source": {
+        "url": "https://www.wweek.com/news/city/2026/08/31/participatory-budgeting-measure-faces-organized-opposition-including-from-mayor/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-08-31",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement said 'push back on cuts'; the excerpt says only 'push back'. Reworded to match the excerpt. Excerpt confirmed verbatim; NextUp funding role confirmed in the article (PAC funded mainly by Participatory Budgeting Oregon, East County Rising and Next Up Action Fund). Article page shows no date; URL path dates it 2026-08-31.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "portland-26-267-y2",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Jim Labbe, chief petitioner; executive director, Participatory Budgeting Oregon",
+      "topic": "custom:city-budget",
+      "statement": "Chief petitioner Jim Labbe says change has to come from the bottom up and that participatory budgeting is a demonstrated mechanism to do that.",
+      "excerpt": "It's got to be from the bottom up, and participatory budgeting is really a demonstrated mechanism to do that.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/07/06/portland-ballot-measure-for-more-public-say-in-city-budget-clears-hurdle/",
+        "publisher": "Oregon Public Broadcasting (OPB)",
+        "tier": "T3",
+        "published_at": "2026-07-06",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "The 'public trust crisis' claim is on the page but not in the excerpt; statement trimmed to what the excerpt supports. Excerpt verbatim; Labbe's role confirmed (OPB, Alex Zielinski, 2026-07-06).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "portland-26-267-y3",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Jim Labbe, chief petitioner; executive director, Participatory Budgeting Oregon",
+      "topic": "custom:city-budget",
+      "statement": "Labbe says a recurring process in which residents register priorities and create data to inform the budget is the missing piece.",
+      "excerpt": "\"Having a recurring process in which residents can register their priorities and create data to inform the budget,\" Labbe said. \"That's the missing piece.\"",
+      "source": {
+        "url": "https://www.opb.org/article/2026/07/06/portland-ballot-measure-for-more-public-say-in-city-budget-clears-hurdle/",
+        "publisher": "Oregon Public Broadcasting (OPB)",
+        "tier": "T3",
+        "published_at": "2026-07-06",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on OPB (2026-07-06).",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "portland-26-267-n1",
+      "side": "no",
+      "kind": "argument",
+      "author": "Mayor Keith Wilson",
+      "topic": "custom:city-budget",
+      "statement": "Mayor Keith Wilson says the measure writes a permanent budget set-aside into the city charter, which he says no other U.S. city has done.",
+      "excerpt": "writes a permanent budget set-aside into our city charter—something no city in America has ever done—",
+      "source": {
+        "url": "https://www.wweek.com/news/city/2026/08/31/participatory-budgeting-measure-faces-organized-opposition-including-from-mayor/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-08-31",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "The original excerpt ('No future mayor or council could adjust it.') did not support the 'permanent budget set-aside into the charter' part of the statement. Replaced the excerpt with the adjacent verbatim text from the same Wilson statement on the page and reworded the statement to match it. The 'no adjustment' point is now dropped; n2 covers the $16 million point.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "portland-26-267-n2",
+      "side": "no",
+      "kind": "argument",
+      "author": "Mayor Keith Wilson",
+      "topic": "custom:city-budget",
+      "statement": "Wilson says the measure would take at least $16 million a year from the fund that pays for shelter beds, park maintenance and investigators, and that Portland cannot afford it.",
+      "excerpt": "Wilson said in a statement the measure would pull “at least $16 million a year from the fund that pays for shelter beds, park maintenance, and investigators, and [hand] it to a process the measure doesn’t even define,” something “Portland can’t afford,” he wrote.",
+      "source": {
+        "url": "https://www.wweek.com/news/2026/09/02/murmurs-mayor-and-unions-oppose-participatory-budgeting/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-09-02",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim, including '[hand]'. It is from the Willamette Week Murmurs column, which has no byline. Date from the URL.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "portland-26-267-n3",
+      "side": "no",
+      "kind": "argument",
+      "author": "Laurie Wimmer, executive secretary-treasurer, Northwest Oregon Labor Council; chair, Protect Our City Services PAC",
+      "topic": "custom:city-budget",
+      "statement": "Laurie Wimmer, who chairs the opposing committee Protect Our City Services, says the measure would take millions from parks, community centers, Portland Street Response, firefighting and other services.",
+      "excerpt": "take millions away from parks, community centers, Portland Street Response, firefighting, and other essential services",
+      "source": {
+        "url": "https://www.wweek.com/news/city/2026/08/31/participatory-budgeting-measure-faces-organized-opposition-including-from-mayor/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-08-31",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim; Wimmer's roles (NW Oregon Labor Council, chair of Protect Our City Services) confirmed on the page.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "custom:city-budget",
+    "taxes"
+  ],
+  "gaps": [
+    "Official voters' pamphlet arguments (yes and no) could not be read: the county pamphlet PDF text is truncated before the measures section.",
+    "The multco.us measure page shows no explanatory statement for 26-267; none was collected."
+  ],
+  "ballot_label_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Caption and question match the multco.us measure page verbatim.",
+    "verified_at": "2026-10-14"
+  },
+  "summary_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Faithful to the official ballot summary on the multco.us measure page; 'citizen-initiated' supported by inventory notes and OPB (chief petitioner).",
+    "verified_at": "2026-10-14"
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Consistent with the official question and summary.",
+    "verified_at": "2026-10-14"
+  },
+  "no_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "Matches the summary's description of the current process (Mayor proposes, Council amends and adopts).",
+    "verified_at": "2026-10-14"
+  },
+  "fiscal_impact_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "note": "$16.4 million (FY 2027-28) and $17.0 million (FY 2028-29) preliminary estimates and the 'entire city budget' clause confirmed on the official summary.",
+    "verified_at": "2026-10-14"
+  },
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 3,
+    "rejected": 0,
+    "balance_notes": "3 YES / 3 NO, all T3 press (Willamette Week, OPB); 0 official explanatory text, 0 filed pamphlet arguments. Sides are balanced in count and tier. COMPLETENESS GAP: filed pamphlet arguments exist on both sides: 26-267_favor_01-15.pdf (15 in favor) and 26-267_opposition_01-15.pdf (15 in opposition), listed on the Multnomah Military & Overseas Online Voters' Guide. They are scanned with no machine-readable text, so they could not be verified or used. The measure is also in the Washington County pamphlet at WC-51 to WC-54. The collector's gap ('pamphlet text truncated') is accurate about the main PDF but missed the per-measure argument files."
+  }
+}

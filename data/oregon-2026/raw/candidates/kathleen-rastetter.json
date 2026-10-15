@@ -1,0 +1,140 @@
+{
+  "id": "kathleen-rastetter",
+  "name": "Kathleen Rastetter",
+  "name_variants": [
+    "Kathleen J. Rastetter"
+  ],
+  "race_id": "clackamas-county-justice-of-the-peace",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.clackamas.us/news/2026-01-15/kathleen-rastetter-appointed-as-clackamas-county-justice-of-the-peace",
+  "occupation": "Justice of the Peace, Clackamas County",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "kathleen-rastetter-b1",
+      "topic": "custom:bio",
+      "statement": "A county news release says Governor Tina Kotek appointed Rastetter Justice of the Peace at the Clackamas County Justice Court, effective January 1, 2026.",
+      "excerpt": "Governor Tina Kotek appointed Kathleen J. Rastetter to serve as Justice of the Peace",
+      "source": {
+        "url": "https://www.clackamas.us/news/2026-01-15/kathleen-rastetter-appointed-as-clackamas-county-justice-of-the-peace",
+        "publisher": "Clackamas County",
+        "tier": "T1",
+        "published_at": "2026-01-15",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kathleen-rastetter-b2",
+      "topic": "custom:bio",
+      "statement": "Rastetter's pamphlet statement lists service as a justice of the peace pro tem, senior attorney for Clackamas County, and partner at Cosgrave Vergeer Kester.",
+      "excerpt": "Justice of the Peace Pro Tem; Senior Attorney Clackamas County; Partner, Cosgrave Vergeer Kester law firm",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kathleen-rastetter-b3",
+      "topic": "custom:bio",
+      "statement": "Rastetter's pamphlet statement lists a law degree (J.D.) from Rutgers Law School with Order of the Coif.",
+      "excerpt": "Rutgers Law School, Law, Juris Doctor; Order of the Coif;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kathleen-rastetter-b4",
+      "topic": "custom:bio",
+      "statement": "Rastetter's pamphlet statement lists service on the Oregon State Bar Disciplinary Board.",
+      "excerpt": "Justice Court Pro Tem; Oregon State Bar Disciplinary Board",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kathleen-rastetter-b5",
+      "topic": "custom:bio",
+      "statement": "Rastetter's pamphlet statement says she has over thirty years of legal experience in civil, employment, appellate and tax law.",
+      "excerpt": "I have over thirty years of legal experience practicing civil, employment, appellate and tax law.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "kathleen-rastetter-p1",
+      "topic": "custom:judicial-approach",
+      "statement": "In her voters' pamphlet statement, Rastetter says she strives to apply the law fairly and impartially while treating everyone with dignity and respect.",
+      "excerpt": "I strive to fairly and impartially apply the law while treating everyone with dignity and respect.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No T3 press coverage found",
+    "Judicial candidate: no policy positions beyond judicial approach"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-18)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.clackamas.us/news/2026-01-15/kathleen-rastetter-appointed-as-clackamas-county-justice-of-the-peace",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website listed in pamphlet",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Kathleen Rastetter\" Clackamas Justice of the Peace 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Kathleen Rastetter\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "not found"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Kathleen Rastetter\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Kathleen Rastetter\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Unopposed. Inventory has incumbent=null; official sources show she is the sitting (appointed, effective 2026-01-01) Justice of the Peace: county release above and the county elections page elected-officials list ('Justice of the Peace Kathleen Rastetter'). Suggest inventory incumbent=true."
+}

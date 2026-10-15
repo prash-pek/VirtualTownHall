@@ -1,0 +1,219 @@
+{
+  "id": "tina-kotek",
+  "name": "Tina Kotek",
+  "race_id": "or-governor",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/state/executive/governor-bio.aspx",
+  "occupation": "Governor",
+  "website_url": "https://TinaforOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "bio": [
+    {
+      "id": "tina-kotek-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Blue Book says Kotek was elected governor on November 8, 2022, and sworn in as Oregon's 39th governor on January 9, 2023.",
+      "excerpt": "She was elected governor on November 8, 2022, and sworn in as Oregon's 39th governor on January 9, 2023.",
+      "source": {
+        "url": "https://sos.oregon.gov/blue-book/Pages/state/executive/governor-bio.aspx",
+        "publisher": "Oregon Secretary of State, Oregon Blue Book",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim on the cited official page (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tina-kotek-b2",
+      "topic": "custom:background",
+      "statement": "The Blue Book says she was first elected to represent North Portland in 2006.",
+      "excerpt": "She was first elected to represent North Portland in 2006.",
+      "source": {
+        "url": "https://sos.oregon.gov/blue-book/Pages/state/executive/governor-bio.aspx",
+        "publisher": "Oregon Secretary of State, Oregon Blue Book",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim on the cited official page (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tina-kotek-b3",
+      "topic": "custom:background",
+      "statement": "The Blue Book says she became the first openly lesbian speaker of any state house in the nation in 2013.",
+      "excerpt": "In 2013, she became the first openly lesbian speaker of any state house in the nation.",
+      "source": {
+        "url": "https://sos.oregon.gov/blue-book/Pages/state/executive/governor-bio.aspx",
+        "publisher": "Oregon Secretary of State, Oregon Blue Book",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim on the cited official page (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tina-kotek-b4",
+      "topic": "custom:background",
+      "statement": "Her voters' pamphlet statement lists past work at the Oregon Food Bank and Children First.",
+      "excerpt": "Oregon Food Bank, Children First",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "tina-kotek-p1",
+      "topic": "economy",
+      "statement": "Kotek's pamphlet statement says she has raised the minimum wage, passed paid family leave and expanded health insurance coverage.",
+      "excerpt": "Tina has raised the minimum wage, passed paid family leave, and expanded health insurance coverage.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tina-kotek-p2",
+      "topic": "technology",
+      "statement": "Kotek's statement says she supports moratoriums on new data centers.",
+      "excerpt": "Tina supports moratoriums on new data centers",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tina-kotek-p3",
+      "topic": "housing",
+      "statement": "Kotek's statement says she is cutting red tape to build more affordable homes.",
+      "excerpt": "cutting red tape to build more affordable homes",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tina-kotek-p4",
+      "topic": "education",
+      "statement": "Kotek's statement says she supports more learning time rather than shorter school years.",
+      "excerpt": "Tina is fighting for more learning time - not shorter school years.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tina-kotek-p5",
+      "topic": "social-services",
+      "statement": "Kotek's statement says she declared a housing emergency and increased shelter and treatment beds.",
+      "excerpt": "Tina declared a housing emergency, increased shelter and treatment beds",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tina-kotek-p6",
+      "topic": "civil-rights",
+      "statement": "Kotek's statement says she is focused on protecting basic rights.",
+      "excerpt": "Tina’s focused on protecting our basic rights.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No roll-call voting record collected: governors do not cast legislative votes; her 2007-2022 Oregon House votes were not collected"
+  ],
+  "nominating_parties": [
+    "Democrat",
+    "Working Families"
+  ],
+  "verification_summary": {
+    "verified": 10,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race or-governor: Kotek 4/6/0, Drazan 4/6/0, Smith 3/6/0; all T1, balanced. Incumbent=true confirmed by the Oregon Blue Book governor biography (39th governor, term expires January 2027). No legislative votes for any governor candidate (documented). Missed T3 for all three: OPB and WW coverage of the 2026-10-01 and 2026-10-07 gubernatorial debates."
+  }
+}

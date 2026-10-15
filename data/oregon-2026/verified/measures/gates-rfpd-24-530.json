@@ -1,0 +1,83 @@
+{
+  "id": "gates-rfpd-24-530",
+  "jurisdiction_id": "gates-rfpd",
+  "number": "24-530",
+  "title": "Renewal of current four-year Local Option tax for general operations.",
+  "ballot_label": "Renewal of current four-year Local Option tax for general operations. Question: Shall Gates RFPD retain the option tax of $.9033 per $1000 of assessed value for operations/equipment for another four-years, Beginning June 1, 2027?",
+  "summary": "Asks voters in the Gates Rural Fire Protection District to renew a four-year local option levy of $0.9033 per $1,000 assessed value for operations and equipment, continuing the current levy through June 2031. Funds would maintain current emergency service levels, meet rising operating costs, and upgrade or replace vehicles and equipment.",
+  "yes_means": "A yes vote renews the Gates RFPD local option levy of $0.9033 per $1,000 assessed value for four more years, through June 2031.",
+  "no_means": "A no vote does not renew the four-year local option levy of $0.9033 per $1,000 assessed value; the current levy would not be continued for another four years.",
+  "fiscal_impact": "Estimated revenue: $72,367 (2027/2028), $74,176 (2028/2029), $76,030 (2029/2030), $77,931 (2030/2031).",
+  "full_text_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+  "arguments": [
+    {
+      "id": "gates-rfpd-24-530-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Gates Rural Fire Protection District (official ballot title summary)",
+      "topic": "public-safety",
+      "statement": "The official ballot summary says the levy would fund Gates RFPD to maintain its current level of emergency services and meet increasing operating costs.",
+      "excerpt": "The levy woul begin July 1, 2027 and would provide funding for the Gates RFPD to maintain the current level of emergency services and meet the fire district's increasing operating costs.",
+      "source": {
+        "url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+        "publisher": "Marion County Clerk's Office (Elections), Voters' Pamphlet Nov 3, 2026",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Excerpt verbatim including the source's typo 'woul', pamphlet p.19."
+      }
+    }
+  ],
+  "topics": [
+    "public-safety",
+    "taxes"
+  ],
+  "gaps": [
+    "NO arguments: no attributed opposition statement found; pamphlet argument pages could not be read to confirm whether any were filed.",
+    "YES arguments: no filed pamphlet argument confirmed; Canyon Weekly coverage (Aug 20, 2026) quotes no named supporters or opponents. Only YES-side item is the sponsor's rationale in the ballot summary.",
+    "Explanatory statement not readable (Marion PDF is image-only; pamphlet page beyond readable range).",
+    "T3 allowed-domain search not run (search budget exhausted)."
+  ],
+  "ballot_label_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches pamphlet p.19. Note: the official question says 'Beginning June 1, 2027' while the summary says the levy would begin July 1, 2027; the inconsistency is in the official text."
+  },
+  "summary_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Matches ballot summary p.19 (through June 2031; current service levels; operating costs; vehicles and equipment)."
+  },
+  "yes_means_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14"
+  },
+  "no_means_verification": {
+    "status": "corrected",
+    "checks_failed": [
+      "paraphrase_faithful"
+    ],
+    "verified_at": "2026-10-14",
+    "note": "Official text does not state when the current levy expires (June 2027 appears only in Canyon Weekly, T3). Reworded to stay within the official text."
+  },
+  "fiscal_impact_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-14",
+    "note": "Revenue estimates $72,367 / $74,176 / $76,030 / $77,931 match the ballot summary p.19."
+  },
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "YES: 1 item, official ballot-title summary text (explainer); 0 filed arguments; 0 press. NO: 0 items. Filing of pamphlet arguments could not be confirmed (24-530 is past the readable text). The explanatory statement PDF and the SEL 803 ballot title PDF on the county site are image-only. Canyon Weekly (Stephen Floyd, Aug 20 2026) names no supporters or opponents. Gap is documented."
+  }
+}

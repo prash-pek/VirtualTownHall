@@ -1,0 +1,166 @@
+{
+  "id": "brad-hunter",
+  "name": "Brad Hunter",
+  "name_variants": [],
+  "race_id": "east-multnomah-swcd-zone-3",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Senior Lender, Craft3",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "brad-hunter-b1",
+      "topic": "custom:bio",
+      "statement": "In his voters' pamphlet statement, Hunter lists his occupation as senior lender at Craft3 and his background as a forester.",
+      "excerpt": "Senior Lender, Craft3",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brad-hunter-b2",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists master's degrees in forestry from Yale and business administration from the University of North Carolina.",
+      "excerpt": "Master in Forestry from Yale University",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brad-hunter-b3",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement says he was appointed Zone 3 director and has served on the EMSWCD board since January 2026.",
+      "excerpt": "I was appointed the Zone 3 Director and have been serving on the EMSWCD board since January of 2026.",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brad-hunter-b4",
+      "topic": "custom:bio",
+      "statement": "His pamphlet statement lists service as budget chair for the Corbett School District.",
+      "excerpt": "Served as Budget Chair for Corbett School District",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "brad-hunter-p1",
+      "topic": "environment",
+      "statement": "In his pamphlet statement, Hunter says he would protect and restore watersheds that support soil and water quality and wildlife.",
+      "excerpt": "Protect and restore critical watersheds that support improved soil and water quality, healthy wildlife",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brad-hunter-p2",
+      "topic": "agriculture",
+      "statement": "His pamphlet statement says he would protect farmland and give farmers tools to succeed.",
+      "excerpt": "Protect farmland and provide farmers with the tools they need to be successful",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brad-hunter-p3",
+      "topic": "custom:parks",
+      "statement": "His pamphlet statement says he would increase investment in green space, parks and access to nature in East County.",
+      "excerpt": "Increase investments in green space/parks and opportunities for access to nature for everyone in East County",
+      "source": {
+        "url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed in pamphlet statement",
+    "No T3 coverage found",
+    "Appointment not confirmed on a fetchable official page"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "used (Candidate Index)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://emswcd.org/about/board/",
+      "result": "used (stale roster; incumbency not set)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://emswcd.org/brad-hunter-appointed-to-vacant-emswcd-zone-3-board-position/",
+      "result": "blocked (robots; page title from search: \"Brad Hunter Appointed to Vacant EMSWCD Zone 3 Board Position\")"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none listed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Brad Hunter\" East Multnomah Soil and Water 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Brad Hunter\" soil water Multnomah (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Brad Hunter\" soil water Multnomah (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Brad Hunter\" soil water Multnomah (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "EMSWCD board page (emswcd.org/about/board/) is out of date (lists Mike Guebert in Zone 3 and Jasmine Zimmer-Stucky in At-Large 2, both terms up Nov 2026, and omits board member Ramona DeNies named by OPB in Oct 2025), so incumbency is left null for all EMSWCD candidates. Hunter's statement says he was appointed Zone 3 director in January 2026, and a WebSearch result on emswcd.org is titled \"Brad Hunter Appointed to Vacant EMSWCD Zone 3 Board Position\", but that page blocks automated fetching, so incumbent is null pending an official page a verifier can read. Likely an appointed incumbent. Step-5 queries used \"Brad Hunter\" soil water Multnomah because the bare name is common."
+}

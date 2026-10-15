@@ -1,0 +1,66 @@
+{
+  "id": "gary-lyndon-dye",
+  "name": "Gary Lyndon Dye",
+  "race_id": "or-us-senate",
+  "party": "Libertarian",
+  "incumbent": false,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement: the pamphlet marks the candidate with an asterisk, 'Candidate chose not to submit a voters' pamphlet statement.'",
+    "No official office page found",
+    "No campaign website confirmed via a T1 or T3 source",
+    "No public positions on any topic found in T1 sources; T3 searches run (OPB/Capital Chronicle/WW/Ballotpedia, local TV, Mercury/Vote411/Pamplin) returned only older or unrelated items"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf (marked '*' in candidate list: no statement)",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office identified",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain in any T1 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Gary Lyndon Dye\" U.S. Senate 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Gary Lyndon Dye\" allowed_domains=opb.org,oregoncapitalchronicle.com,wweek.com,ballotpedia.org",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Gary Lyndon Dye\" allowed_domains=kgw.com,koin.com,kptv.com,katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Gary Lyndon Dye\" allowed_domains=portlandmercury.com,vote411.org,pamplinmedia.com,portlandtribune.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "no T3 follow-up fetches (see collection_notes)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Steps 1-5 were run identically for every candidate in the US Senate, US House 1-6 and Governor races (the shared WebSearch budget ran out once mid-run and the remaining searches were completed after it reset). To keep effort equal, no T3 items are included for any candidate in these races: every item comes from the T1 voters' pamphlet, official .gov pages or official roll-call pages; promising T3 results are named in these notes for possible later, race-wide use. Campaign websites are recorded from the pamphlet but were not fetched for positions, for any candidate. oregonlive.com and apnews.com are rejected by the search proxy as allowed_domains, so step 5 used three fixed domain groups for everyone: (opb, oregoncapitalchronicle, wweek, ballotpedia), (kgw, koin, kptv, katu), (portlandmercury, vote411, pamplinmedia, portlandtribune). The Multnomah military/overseas online voters' guide was checked and contains no federal or governor statements. Pamphlet excerpts were obtained through a summarizing fetch limited to ~125-character quotes, so excerpts are short. incumbent=false because the pamphlet edition cited in incumbent_source_url lists another candidate in this race as the sitting officeholder. Pamphlet (Multnomah and Clackamas editions) marks Dye with '*' = 'Candidate chose not to submit a voters' pamphlet statement.' Lane edition also marks him with '*'. Ballotpedia has a page titled 'Gary Dye' (https://ballotpedia.org/Gary_Dye) that was not fetched; press may use 'Gary Dye'.",
+  "name_variants": [
+    "Gary Dye"
+  ]
+}

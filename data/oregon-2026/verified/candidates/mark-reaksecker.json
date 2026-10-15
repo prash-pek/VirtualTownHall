@@ -1,0 +1,174 @@
+{
+  "id": "mark-reaksecker",
+  "name": "Mark Reaksecker",
+  "name_variants": [],
+  "race_id": "clackamas-county-clerk",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.clackamas.us/clerk",
+  "occupation": "Retired",
+  "website_url": "https://markforcountyclerk.com",
+  "website_verified_via": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "mark-reaksecker-b1",
+      "topic": "custom:bio",
+      "statement": "Reaksecker's pamphlet statement lists his occupational background as a dentist and all-phase landscaper.",
+      "excerpt": "Dentist; all-phase Landscaper",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-reaksecker-b2",
+      "topic": "custom:bio",
+      "statement": "Reaksecker's pamphlet statement lists a chemistry/biology bachelor's from PSU and a DMD from the OHSU School of Dentistry.",
+      "excerpt": "PSU, Bachelor Science, Chemistry/Biology, honors; OHSU School of Dentistry, doctorate DMD, honors",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-reaksecker-b3",
+      "topic": "custom:bio",
+      "statement": "Reaksecker's pamphlet statement lists prior governmental experience as a precinct committee person for CCRP.",
+      "excerpt": "Precinct Committee Person for CCRP",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "The statement expanded CCRP as 'Clackamas County Republican Party', but the pamphlet never spells it out or mentions a party. Reworded to the pamphlet's own wording.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "mark-reaksecker-p1",
+      "topic": "custom:elections",
+      "statement": "In his voters' pamphlet statement, Reaksecker calls election integrity a major concern.",
+      "excerpt": "Election integrity is a major concern.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-reaksecker-p2",
+      "topic": "custom:government-transparency",
+      "statement": "Reaksecker's pamphlet statement says he would openly create policies and share information.",
+      "excerpt": "Transparency: Openly create policies and share information",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-reaksecker-p3",
+      "topic": "custom:elections",
+      "statement": "Reaksecker's pamphlet statement says voter rolls should be verified at the county level, removing people who have moved or died.",
+      "excerpt": "Verify voter rolls on the county level: remove those who have moved/died",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-reaksecker-p4",
+      "topic": "custom:elections",
+      "statement": "Reaksecker's pamphlet statement proposes water-marking ballots to ensure ballot authenticity.",
+      "excerpt": "Water-mark ballots to ensure ballot authenticity",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-reaksecker-p5",
+      "topic": "custom:elections",
+      "statement": "Reaksecker's pamphlet statement says he wants people to have faith in elections and know their vote counts.",
+      "excerpt": "Mark wants people to have faith in elections and know their vote counts.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign website markforcountyclerk.com could not be fetched (robots disallowed)",
+    "No T3 press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Clerk race: Reaksecker has 8 items (all T1 pamphlet) and McMullen has 10 (adds a county clerk bio page, one T2 and one T3). The difference comes from incumbency (official bio page) and his campaign site blocking fetching (documented in gaps). The verifier's spot-search found no press coverage of Reaksecker (only GoodParty listings, which are excluded). Effort looks equal."
+  }
+}

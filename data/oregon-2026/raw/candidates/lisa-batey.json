@@ -1,0 +1,130 @@
+{
+  "id": "lisa-batey",
+  "name": "Lisa Batey",
+  "name_variants": [],
+  "race_id": "milwaukie-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://milwaukieoregon.gov/node/124341",
+  "occupation": "Mayor of Milwaukie; Founding Board Member, Milwaukie Parks Foundation",
+  "website_url": "https://www.lisabateyformilwaukie.com",
+  "website_verified_via": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "lisa-batey-b1",
+      "topic": "custom:bio",
+      "statement": "The City of Milwaukie mayor page says Batey was first elected November 8, 2022, with a term expiring December 31, 2026.",
+      "excerpt": "First Elected: Nov. 8, 2022",
+      "source": {
+        "url": "https://milwaukieoregon.gov/node/124341",
+        "publisher": "City of Milwaukie",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "lisa-batey-b2",
+      "topic": "custom:bio",
+      "statement": "Batey's pamphlet statement lists a J.D. from the University of Michigan Law School and a B.A. from Syracuse University.",
+      "excerpt": "University of Michigan Law School, J.D.; Syracuse University, B.A.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "lisa-batey-b3",
+      "topic": "custom:bio",
+      "statement": "Batey's pamphlet statement lists prior service as a Milwaukie city councilor and planning commissioner; she is a retired attorney.",
+      "excerpt": "Milwaukie City Councilor; Milwaukie Planning Commissioner",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "lisa-batey-p1",
+      "topic": "environment",
+      "statement": "In her voters' pamphlet statement, Batey lists completing Milwaukie Bay Park, removing Kellogg Dam and strengthening ties with the business community.",
+      "excerpt": "Also completing Milwaukie Bay Park, removing Kellogg Dam, and strengthening ties with our business community.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "lisa-batey-p2",
+      "topic": "housing",
+      "statement": "Batey's pamphlet statement supports adding housing in a measured way that preserves Milwaukie's small-town feel.",
+      "excerpt": "adding housing in a measured way that doesn’t destroy Milwaukie’s small-town feel",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign site not fetched; pamphlet content used",
+    "Pamphlet excerpts retrievable were limited (fetch tool caps quotes); few distinct policy items",
+    "No 2026 T3 interview found (KOIN Kellogg Dam piece undated)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-31/C-32)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://milwaukieoregon.gov/node/124341",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.lisabateyformilwaukie.com (domain printed in pamphlet; not fetched)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Lisa Batey\" Milwaukie mayor 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Lisa Batey\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Lisa Batey\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Lisa Batey\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.koin.com/news/environment/20-years-in-the-making-mayor-seeks-kellogg-dam-removal-park-redesign/",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Incumbent per City of Milwaukie mayor page. Pamphlet notes an endorsement by the Democratic Party of Clackamas County and compares opponents (not used). KOIN Kellogg Dam article has no date or byline, so not used."
+}

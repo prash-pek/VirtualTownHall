@@ -1,0 +1,182 @@
+{
+  "id": "tony-robertson",
+  "name": "Tony Robertson",
+  "name_variants": [],
+  "race_id": "multnomah-county-commissioner-d2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://multco.us/board",
+  "occupation": "Civil Rights Division Manager, Oregon Bureau of Labor and Industries",
+  "website_url": "https://www.tonyrobertson.org",
+  "website_verified_via": "https://multco.us/file/multco_dist_2_tony_robertson/download",
+  "bio": [
+    {
+      "id": "tony-robertson-b1",
+      "topic": "custom:bio",
+      "statement": "In his voters' pamphlet statement, Robertson lists his occupation as Civil Rights Division manager at the Oregon Bureau of Labor and Industries.",
+      "excerpt": "Civil Rights Division Manager, Oregon Bureau of Labor and Industries",
+      "source": {
+        "url": "https://multco.us/file/multco_dist_2_tony_robertson/download",
+        "publisher": "Multnomah County Elections (JCVP-01 voters' pamphlet statement)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tony-robertson-b2",
+      "topic": "custom:bio",
+      "statement": "Robertson's candidate filing lists work as landlord recruitment and retention program manager at JOIN from 2020 to 2022.",
+      "excerpt": "Landlord Recruitment & Retention Program Manager, JOIN, 2020-2022",
+      "source": {
+        "url": "https://multco.us/file/tony_robertson_candidate_filing/download",
+        "publisher": "Multnomah County Elections (candidate filing)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tony-robertson-b3",
+      "topic": "custom:bio",
+      "statement": "Robertson's pamphlet statement lists a BA from George Fox University and schooling at Alameda, Beaumont and Benson.",
+      "excerpt": "Alameda Elementary; Beaumont Middle; Benson HS; George Fox University, BA",
+      "source": {
+        "url": "https://multco.us/file/multco_dist_2_tony_robertson/download",
+        "publisher": "Multnomah County Elections (JCVP-01 voters' pamphlet statement)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "tony-robertson-p1",
+      "topic": "housing",
+      "statement": "In his voters' pamphlet statement, Robertson pledges to move forward on homelessness and housing.",
+      "excerpt": "Move Forward on Homelessness and Housing",
+      "source": {
+        "url": "https://multco.us/file/multco_dist_2_tony_robertson/download",
+        "publisher": "Multnomah County Elections (JCVP-01 voters' pamphlet statement)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tony-robertson-p2",
+      "topic": "healthcare",
+      "statement": "Robertson's pamphlet statement pledges better mental health and addiction services.",
+      "excerpt": "Better Mental Health and Addiction Services",
+      "source": {
+        "url": "https://multco.us/file/multco_dist_2_tony_robertson/download",
+        "publisher": "Multnomah County Elections (JCVP-01 voters' pamphlet statement)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tony-robertson-p3",
+      "topic": "taxes",
+      "statement": "Robertson's pamphlet statement pledges greater transparency on the use of tax dollars.",
+      "excerpt": "Ensure Greater Transparency on the Use of Tax Dollars",
+      "source": {
+        "url": "https://multco.us/file/multco_dist_2_tony_robertson/download",
+        "publisher": "Multnomah County Elections (JCVP-01 voters' pamphlet statement)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tony-robertson-p4",
+      "topic": "local-business",
+      "statement": "Robertson's pamphlet statement pledges to strengthen local government's relationship with small businesses.",
+      "excerpt": "Strengthen Local Government's Relationship with Small Businesses",
+      "source": {
+        "url": "https://multco.us/file/multco_dist_2_tony_robertson/download",
+        "publisher": "Multnomah County Elections (JCVP-01 voters' pamphlet statement)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tony-robertson-p5",
+      "topic": "social-services",
+      "statement": "Robertson told the Portland Mercury that a person in crisis does not need four agencies that do not talk to each other.",
+      "excerpt": "a person in crisis doesn’t need four agencies that don’t talk to each other.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [
+    "No position found on public safety"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multco_dist_2_tony_robertson/download",
+      "result": "used (linked from the county Military & Overseas Online Voters' Guide)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked (statement on p. 47, beyond fetch cutoff)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/tony_robertson_candidate_filing/download",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://multco.us/board",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.tonyrobertson.org",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Tony Robertson\" Multnomah County commissioner 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tony Robertson\" (allowed_domains opb.org, wweek.com, portlandmercury.com)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multco_dist_2_tony_robertson/download",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Pamphlet statement taken from the county-posted JCVP-01 submission file (linked from the county's Military & Overseas Online Voters' Guide). Campaign site tonyrobertson.org (listed in filing and statement) confirmed 'Paid for by Friends of Tony Robertson'; positions taken from the statement to keep D2 coverage comparable. Steps run identically for all 7 District 2 candidates. Voters' pamphlet: the SOS Book 13 and the county's regular and large-print Multnomah pamphlet PDFs are cut off by the fetch tool (~105-120k characters); the large-print text ends partway through Herman Greene's statement (p. 44), so pamphlet statements for Bri Williams, Serena Cruz, Nathan Ong Norris, Nabil Zaghloul and Tony Robertson (pp. 45-47) could not be read there. The county's Military & Overseas Online Voters' Guide links an individual statement PDF for all 7 candidates; those for Cruz and Robertson are machine-readable, while those for Broussard, Greene, Williams, Ong Norris and Zaghloul are scans with no readable text (Broussard and part of Greene were read from the large-print pamphlet instead). SEL 101 candidate filings were machine-readable only for Cruz and Robertson (others scanned/empty). The Portland Mercury District 2 profile (2026-09-26) covers all 7 candidates and is the common T3 source. Step 5 ran with allowed_domains limited to opb.org, wweek.com, portlandmercury.com because the proxy rejected longer domain lists. Incumbency: the current District 2 commissioner is Shannon Singleton (multco.us/board), who is running for Chair, so no D2 candidate is the incumbent. The fetch tool limits verbatim quotes to ~125 characters, so some excerpts are fragments.",
+  "voting_record": []
+}

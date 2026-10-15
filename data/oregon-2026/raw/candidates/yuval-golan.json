@@ -1,0 +1,108 @@
+{
+  "id": "yuval-golan",
+  "name": "Yuval Golan",
+  "name_variants": [],
+  "race_id": "interlachen-water-pud-sub-district-2",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://multco.us/file/yuval_golan_candidate_filing/download",
+  "occupation": "Handyman",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "yuval-golan-b1",
+      "topic": "custom:bio",
+      "statement": "On his candidate filing, Golan marks himself as the incumbent Interlachen Water PUD Sub-District 2 director.",
+      "excerpt": "Incumbent: Yes",
+      "source": {
+        "url": "https://multco.us/file/yuval_golan_candidate_filing/download",
+        "publisher": "Multnomah County Elections (candidate filing form SEL 101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "yuval-golan-b2",
+      "topic": "custom:bio",
+      "statement": "His candidate filing lists his present occupation as handyman and previous occupation as artist.",
+      "excerpt": "Handyman",
+      "source": {
+        "url": "https://multco.us/file/yuval_golan_candidate_filing/download",
+        "publisher": "Multnomah County Elections (candidate filing form SEL 101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "yuval-golan-b3",
+      "topic": "custom:bio",
+      "statement": "His candidate filing lists Ganshmuel High School as his education.",
+      "excerpt": "Ganshmuel High School",
+      "source": {
+        "url": "https://multco.us/file/yuval_golan_candidate_filing/download",
+        "publisher": "Multnomah County Elections (candidate filing form SEL 101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement filed (asterisk in the Nov 2026 county pamphlet Candidate Index; none in the Military & Overseas guide)",
+    "No positions found in any T1/T2/T3 source",
+    "No campaign website or T3 coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "not found (no Interlachen entries)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "used (Candidate Index asterisk: no statement filed)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/yuval_golan_candidate_filing/download",
+      "result": "used (candidate filing form)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://multco.us/es/node/654030",
+      "result": "used (PUD positions notice; no names)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no domain in any T1/T3 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Yuval Golan\" Interlachen Water PUD 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Yuval Golan\" Interlachen (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (OPB Oregon Art Beat video, not evidence)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Yuval Golan\" Interlachen (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "not found"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Yuval Golan\" Interlachen (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Unopposed. Incumbency from his official candidate filing (\"Incumbent: Yes\"); no district roster found online. An OPB Oregon Art Beat video features a visual artist named Yuval Golan (filing lists previous occupation \"Artist\"); video is not used as evidence."
+}

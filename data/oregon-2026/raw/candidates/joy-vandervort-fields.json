@@ -1,0 +1,176 @@
+{
+  "id": "joy-vandervort-fields",
+  "name": "Joy VanDervort Fields",
+  "name_variants": [
+    "Joy Fields",
+    "Joy VanDevort Fields"
+  ],
+  "race_id": "west-multnomah-swcd-zone-5",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://wmswcd.org/board-members/",
+  "occupation": "Principal Planner for Clackamas County",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "joy-vandervort-fields-b1",
+      "topic": "custom:bio",
+      "statement": "In her voters' pamphlet statement, Fields lists her occupation as principal planner for Clackamas County.",
+      "excerpt": "Principal Planner for Clackamas County",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_5_joy_fields/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "joy-vandervort-fields-b2",
+      "topic": "custom:bio",
+      "statement": "Her pamphlet statement lists a master of science in biology from Appalachian State University.",
+      "excerpt": "Master's of Science in Biology from Appalachian State University",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_5_joy_fields/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "joy-vandervort-fields-b3",
+      "topic": "custom:bio",
+      "statement": "Her pamphlet statement lists no prior governmental experience.",
+      "excerpt": "None",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_5_joy_fields/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "joy-vandervort-fields-b4",
+      "topic": "custom:bio",
+      "statement": "Her pamphlet statement says she is a certified floodplain manager who reviews streambank restoration applications.",
+      "excerpt": "certified floodplain manager, reviewing floodplain applications for streambank restoration projects",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_5_joy_fields/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "joy-vandervort-fields-p1",
+      "topic": "environment",
+      "statement": "In her pamphlet statement, Fields cites writing watershed restoration plans that identified sources of water pollution.",
+      "excerpt": "writing watershed restoration plans that identified sources of water pollution",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_5_joy_fields/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "joy-vandervort-fields-p2",
+      "topic": "environment",
+      "statement": "Her pamphlet statement cites giving people tools to keep rainwater from washing away their backyards.",
+      "excerpt": "giving people tools to keep rainwater from washing away their backyards",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_5_joy_fields/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "joy-vandervort-fields-p3",
+      "topic": "custom:governance",
+      "statement": "Her pamphlet statement says she is seeking the board seat to support district staff.",
+      "excerpt": "I am applying to be on the Soil and Water Conservation board so I can support staff",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_5_joy_fields/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "joy-vandervort-fields-p4",
+      "topic": "environment",
+      "statement": "Her pamphlet statement says, as a parent, she has a vested interest in conservation and protecting the environment.",
+      "excerpt": "As a parent, I have a vested interest in conservation and protecting our environment.",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_zone_5_joy_fields/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed in pamphlet statement",
+    "No T3 coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/wmswcd_zone_5_joy_fields/download",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "used (Candidate Index only)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://wmswcd.org/board-members/",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none listed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Joy Fields\" West Multnomah Soil and Water 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Joy Fields\" soil water Multnomah (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Joy Fields\" soil water Multnomah (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Joy Fields\" soil water Multnomah (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "NAME DISCREPANCY: inventory name is \"Joy VanDervort Fields\" (from the Washington County certified-candidates PDF). Her pamphlet statement prints only \"Joy Fields\"; the Nov 2026 Multnomah pamphlet Candidate Index prints \"Joy VanDevort Fields\"; the guide file is named wmswcd_zone_5_joy_fields. Ballot spelling of the middle/maiden name (VanDervort vs VanDevort) is unresolved and should be checked against the certified ballot. Searches used \"Joy Fields\" (step 5 with soil water Multnomah). Not on the board roster. WMSWCD board page lists Zone 5 Terri Preeg Riggsby (Chair, term ends Dec 2026), Zone 4 Vacant, At Large Position 2 Shawn Looney (term ends Dec 2026), and Ronda Zakocs as an appointed Associate Director (2026-present)."
+}

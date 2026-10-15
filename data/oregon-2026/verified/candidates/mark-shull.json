@@ -1,0 +1,219 @@
+{
+  "id": "mark-shull",
+  "name": "Mark Shull",
+  "name_variants": [],
+  "race_id": "clackamas-county-commissioner-pos-2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://clackamas.us/elections/localofficials.html",
+  "occupation": "Retired U.S. Military Officer",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "mark-shull-b1",
+      "topic": "custom:bio",
+      "statement": "Shull's pamphlet statement lists service as a USMC/U.S. Army lieutenant colonel (retired) and as president of Shull Design and Development, Inc.",
+      "excerpt": "USMC/U.S. Army, Lieutenant Colonel (Ret.); President, Shull Design and Development, Inc.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-shull-b2",
+      "topic": "custom:bio",
+      "statement": "Shull's pamphlet statement lists a B.S. from Oregon State University and a Command and General Staff College diploma.",
+      "excerpt": "Oregon State University, Bachelor of Science; Command and General Staff College, Strategy/Operations Diploma",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-shull-b3",
+      "topic": "custom:bio",
+      "statement": "Shull's pamphlet statement lists prior government experience as a Clackamas County commissioner.",
+      "excerpt": "Clackamas County Commissioner",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "mark-shull-p1",
+      "topic": "transportation",
+      "statement": "In his voters' pamphlet statement, Shull opposes tolls on I-205 and says roads should be fixed without punishing daily drivers or local businesses.",
+      "excerpt": "No Tolls on I-205: Fix our infrastructure and roads without punishing daily drivers or harming local businesses.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-shull-p2",
+      "topic": "custom:local-control",
+      "statement": "Shull's pamphlet statement says he would stand for local control and reject Metro mandates he describes as costly.",
+      "excerpt": "Stop Metro Overreach: Stand firm for local control and reject costly, out-of-touch mandates that threaten our independence.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-shull-p3",
+      "topic": "taxes",
+      "statement": "Shull's pamphlet statement pledges to cut spending he calls wasteful and to treat every tax dollar with respect.",
+      "excerpt": "Cut Wasteful Spending: Treat every tax dollar with absolute respect",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-shull-p4",
+      "topic": "taxes",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Shull calls property taxes a heavy burden, especially for seniors and working families on fixed incomes.",
+      "excerpt": "Property taxes are already a heavy burden here, especially for seniors and working families on fixed incomes.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Shull_clackamas%20county%20position%202_1777918550350.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": "2026-05-05",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Added May 2026 primary context. The answers are the candidate's own: OPB's 2026-05-05 article links this PDF as \"the candidates' complete answers to OPB's questions\" for the May 19, 2026 primary. The PDF itself is undated, so published_at reflects the article date. Excerpt verified verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-shull-p5",
+      "topic": "healthcare",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Shull says ambulance provider AMR must meet updated response-time goals and clinical performance metrics.",
+      "excerpt": "AMR must meet the updated response time goals and clinical performance metrics.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Shull_clackamas%20county%20position%202_1777918550350.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": "2026-05-05",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Added May 2026 primary context. The answers are the candidate's own: OPB's 2026-05-05 article links this PDF as \"the candidates' complete answers to OPB's questions\" for the May 19, 2026 primary. The PDF itself is undated, so published_at reflects the article date. Excerpt verified verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-shull-p6",
+      "topic": "public-safety",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Shull says he would support full funding for essential public safety functions, but never with a blank check.",
+      "excerpt": "As commissioner, I will support full funding for essential public safety functions, but never with a blank check.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Shull_clackamas%20county%20position%202_1777918550350.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": "2026-05-05",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Added May 2026 primary context. The answers are the candidate's own: OPB's 2026-05-05 article links this PDF as \"the candidates' complete answers to OPB's questions\" for the May 19, 2026 primary. The PDF itself is undated, so published_at reflects the article date. Excerpt verified verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mark-shull-p7",
+      "topic": "housing",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Shull says building more housing is the fastest way to make it more affordable.",
+      "excerpt": "The fastest way to make housing more affordable is to build more of it.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Shull_clackamas%20county%20position%202_1777918550350.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": "2026-05-05",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Added May 2026 primary context. The answers are the candidate's own: OPB's 2026-05-05 article links this PDF as \"the candidates' complete answers to OPB's questions\" for the May 19, 2026 primary. The PDF itself is undated, so published_at reflects the article date. Excerpt verified verbatim.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed in the pamphlet",
+    "No 2026 general-election-specific T3 interview found; OPB questionnaire is from the May 2026 primary"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 4,
+    "rejected": 0,
+    "balance_notes": "Commissioner Pos 2: Shull and Savas have 10 items each, with the same pamphlet plus OPB May 2026 primary questionnaire structure. Savas has one extra T1 county bio item because he is the incumbent; Shull has no campaign website (OPB 2026-05-05 confirms this). Balanced. Pamphlet heading confirms both are in Position 2."
+  }
+}

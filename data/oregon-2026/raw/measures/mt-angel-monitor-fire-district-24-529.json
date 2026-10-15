@@ -1,0 +1,108 @@
+{
+  "id": "mt-angel-monitor-fire-district-24-529",
+  "jurisdiction_id": "mt-angel-monitor-fire-district",
+  "number": "24-529",
+  "title": "Form Mt. Angel-Monitor Fire District and Set Tax Rate",
+  "ballot_label": "Form Mt. Angel-Monitor Fire District and Set Tax Rate. Question: Shall District be formed with a permanent tax rate of $1.97 per $1,000 assessed value beginning fiscal year 2027-28?",
+  "summary": "Would form the Mt. Angel-Monitor Fire District, combining the Mt. Angel Fire District and Monitor Rural Fire Protection District, effective January 1, 2027, only if both dissolution measures (24-526 and Clackamas 3-640) pass. Sets a permanent rate of $1.97 per $1,000 assessed value from July 1, 2027, replacing the two districts' rates. Employees and property transfer to the new district, governed by a five-member board elected November 3, 2026.",
+  "yes_means": "A yes vote forms the Mt. Angel-Monitor Fire District with a permanent tax rate of $1.97 per $1,000 assessed value, effective only if both dissolution measures also pass.",
+  "no_means": "A no vote does not form the new district; the Mt. Angel and Monitor districts continue to operate separately under their current tax rates.",
+  "fiscal_impact": "New permanent property tax rate of $1.97 per $1,000 of assessed value, first levied for fiscal 2027-28 (collection beginning November 2027); per the explanatory statement it is higher than the existing permanent rate of each district, whose rates would no longer be levied. Neither district has bonded debt; consolidation creates no new debt.",
+  "full_text_url": "https://docs.clackamas.us/documents/drupal/5e9ffeb3-d3e6-4ca4-8e46-b11ac71b4969",
+  "contingent_on": [
+    "mt-angel-fire-district-24-526",
+    "monitor-rfpd-3-640"
+  ],
+  "arguments": [
+    {
+      "id": "mt-angel-monitor-fire-district-24-529-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Explanatory statement based on information provided by the Mt. Angel Fire District",
+      "topic": "public-safety",
+      "statement": "The explanatory statement, based on Mt. Angel Fire District information, says consolidation is intended to provide full-time daytime staffing to improve weekday response reliability when volunteer availability is lowest.",
+      "excerpt": "Consolidation is intended to allow the district to: Provide full-time daytime staffing to improve weekday response reliability, when volunteer availability is lowest;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/5e9ffeb3-d3e6-4ca4-8e46-b11ac71b4969",
+        "publisher": "Clackamas County Elections (explanatory statement, Measure 24-529)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "mt-angel-monitor-fire-district-24-529-y2",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Explanatory statement based on information provided by the Mt. Angel Fire District",
+      "topic": "healthcare",
+      "statement": "The explanatory statement says consolidation is intended to add advanced-level medical response, including Advanced EMT or Paramedic coverage, during daytime hours.",
+      "excerpt": "Add advanced-level medical response, including Advanced EMT or Paramedic coverage, during daytime hours;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/5e9ffeb3-d3e6-4ca4-8e46-b11ac71b4969",
+        "publisher": "Clackamas County Elections (explanatory statement, Measure 24-529)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "public-safety",
+    "taxes"
+  ],
+  "gaps": [
+    "NO arguments: no attributed opposition statement found; pamphlet argument pages could not be read to confirm whether any were filed.",
+    "YES arguments: no filed pamphlet argument confirmed; YES-side items are the district-provided rationale in the explanatory statement.",
+    "Marion County Board of Commissioners minutes (July 27, 2026 hearing) list seven public commenters but do not record their positions.",
+    "T3 allowed-domain search not run (search budget exhausted)."
+  ],
+  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote text, so these are neutral one-sentence descriptions written by the collector, grounded strictly in the official ballot question/summary. Contingency (official text): 24-526 (dissolve Mt. Angel Fire District, Marion), 3-640 (dissolve Monitor RFPD, Clackamas) and 24-529 (form Mt. Angel-Monitor Fire District) each take effect only if all three are approved. Arguments of kind 'explainer' on the YES side quote the rationale that the official ballot title/explanatory statement attributes to the sponsoring governing body; they are not filed pamphlet arguments. No comparable NO-side statement exists in the official text. Pamphlet access limit: WebFetch converts the Marion County voters' pamphlet PDF to only its first 118,524 characters (through p. 38, ending mid-sentence in the 24-528 explanatory statement); the Clackamas pamphlet (docs.clackamas.us/.../03f4f9db-...) is likewise cut off at p. C-33 in candidate statements. Pages 39-45 (remaining measures and any filed arguments) could not be read, so the existence of filed pamphlet arguments for 24-526, 24-528 (partly), 24-529, 24-530 and 24-531 is UNCONFIRMED; a verifier with full PDF access should check. Search budget: the shared WebSearch budget for this run was exhausted partway through step 3; the measure-number search was run for both sides, but the T3 allowed-domain search could not be run for either side. Equal effort was kept: the same searches ran for YES and NO. The district spans Marion and Clackamas counties; both counties list it as 24-529. Inventory source_url (Clackamas doc 5e9ffeb3) is the explanatory statement and was readable. Marion's own explanatory statement PDF for 24-529 is image-only. Inventory title matches the caption.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/5e9ffeb3-d3e6-4ca4-8e46-b11ac71b4969",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.co.marion.or.us/CO/elections/Results/Documents/20261103/Explantory%20Statement%20-%2024-529%20Mt%20Angel-Monitor%20FD.pdf",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.co.marion.or.us/BOC/Documents/2025%20Current%20Board%20Session/7-27-2026%20Brd%20Sess%20Min%20-%20Mt.%20Angel%20-%20FINAL.pdf",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "\"24-529\" OR \"24-526\" Mt. Angel fire district (both sides)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Mt. Angel Monitor fire district consolidation measure November 2026 (both sides)",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "T3 allowed-domain search (both sides)",
+      "result": "blocked"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "dorian-russell",
+  "name": "Dorian Russell",
+  "name_variants": [],
+  "race_id": "hillsboro-council-ward-3a",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000",
+  "occupation": "Executive Director, HomePlate Youth Services; Artist",
+  "website_url": "https://votedorianrussell.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+  "bio": [
+    {
+      "id": "dorian-russell-b1",
+      "topic": "custom:bio",
+      "statement": "Russell's pamphlet statement lists a background in scientific research, policy and civil rights advocacy.",
+      "excerpt": "Scientific research, policy, and civil rights advocacy.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "dorian-russell-b2",
+      "topic": "custom:bio",
+      "statement": "Russell's pamphlet statement lists an M.S. in environmental science and an interdisciplinary B.A.",
+      "excerpt": "Environmental Science M.S., Interdisciplinary B.A. in science, economics, & policy",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "dorian-russell-b3",
+      "topic": "custom:bio",
+      "statement": "Russell's pamphlet statement lists service on the Northwest Regional ESD board and as past chair of the Hillsboro Library Board.",
+      "excerpt": "Board Director, Northwest Regional Education Service District; Hillsboro Library Board (past Chair)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "dorian-russell-p1",
+      "topic": "technology",
+      "statement": "In his voters' pamphlet statement, Russell says unchecked data center expansion comes at the expense of air, water, land and jobs.",
+      "excerpt": "unchecked data center expansion makes the rich richer at the expense of our air, water, land, and jobs.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "dorian-russell-p2",
+      "topic": "social-services",
+      "statement": "Russell's pamphlet statement says the Silicon Forest has enough wealth to ensure every child is safe, warm and fed.",
+      "excerpt": "There is enough wealth, grit, and humanity in our Silicon Forest to ensure every child is safe, warm, and fed.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "dorian-russell-p3",
+      "topic": "economy",
+      "statement": "Russell's pamphlet statement says business leadership means sharing prosperity through living wages and benefits.",
+      "excerpt": "Being a “business leader” means sharing prosperity through living wages, benefits, stable retirement",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "dorian-russell-p4",
+      "topic": "custom:governance",
+      "statement": "Russell's pamphlet statement says local governments must comply with community priorities.",
+      "excerpt": "Local governments are the front line of democracy and must comply with community priorities",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "dorian-russell-p5",
+      "topic": "environment",
+      "statement": "Russell's campaign site describes prioritizing community access to healthy food, clean water and nature.",
+      "excerpt": "fighting against corporate greed to prioritize our community’s access to healthy food, clean water, and nature.",
+      "source": {
+        "url": "https://votedorianrussell.com",
+        "publisher": "Dorian Russell campaign",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (offset 40000)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.hillsboro-oregon.gov/Home/Components/News/News/17502/4300",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://votedorianrussell.com",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Dorian Russell\" Hillsboro city council 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Dorian Russell\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Dorian Russell\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Dorian Russell\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/09/25/data-centers-ice-and-the-dsa-election-tensions-rise-in-washington-county/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Hillsboro's June 2026 candidate packet (T1) lists the seats up as Ward 1 Position A (Cristian Salgado), Ward 2 Position A (Kipperlyn Sinclair) and Ward 3 Position A (Olivia Alcaire). A June 23, 2026 city news release instead labels the Ward 2 and Ward 3 seats 'Position B'; the county certification and packet say Position A, so this is a city-side labeling inconsistency. Hillsboro news pages for Salgado's appointment returned client errors. Step 5 searches turned up older (2022 or earlier) Pamplin coverage only, not used. OPB (Sept. 2026) quotes him briefly ('And we’re in a crisis right now,'), not a position, so no OPB item. Seat holder per packet is Olivia Alcaire, so incumbent=false."
+}

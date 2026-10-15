@@ -1,0 +1,78 @@
+{
+  "id": "sonia-montalbano",
+  "name": "Sonia A Montalbano",
+  "name_variants": [
+    "Sonia Montalbano"
+  ],
+  "race_id": "or-circuit-court-4-pos-6",
+  "party": null,
+  "incumbent": true,
+  "occupation": "Judge, Multnomah County Circuit Court (appointed 2026)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "sonia-montalbano-b1",
+      "topic": "custom:bio",
+      "statement": "Governor Tina Kotek appointed Montalbano to the Multnomah County Circuit Court in August 2026.",
+      "excerpt": "Today, Governor Tina Kotek announced that she has appointed Sonia A. Montalbano to the Multnomah County Circuit Court.",
+      "source": {
+        "url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-appoints-judge-to-the-multnomah-county-circuit-court-1",
+        "publisher": "Office of the Governor, State of Oregon",
+        "tier": "T1",
+        "published_at": "2026-08-03",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sonia-montalbano-b2",
+      "topic": "custom:bio",
+      "statement": "The governor's office describes Montalbano as an experienced civil litigator focusing on employment and business law.",
+      "excerpt": "Sonia Montalbano is an experienced civil litigator who focuses on employment and business law,",
+      "source": {
+        "url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-appoints-judge-to-the-multnomah-county-circuit-court-1",
+        "publisher": "Office of the Governor, State of Oregon",
+        "tier": "T1",
+        "published_at": "2026-08-03",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement not readable (PDF fetch cut off before pp. 59-61)",
+    "No campaign website found in a T1/T3 source",
+    "No 2026 T3 coverage found (WW 2026 judicial coverage does not mention her)",
+    "Judicial candidate: no issue positions collected (judicial ethics)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-appoints-judge-to-the-multnomah-county-circuit-court-1",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain found in a T1/T3 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Sonia Montalbano\" judge Multnomah County circuit court",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "Montalbano judge Multnomah (allowed_domains opb.org, wweek.com, portlandmercury.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Unopposed. The Governor's Aug 3, 2026 release says she fills the vacancy from Judge Leslie B. Bottomly's resignation; it does not name Position 6, but the SOS open-offices list marks 4th District Position 6 as vacated by retirement/resignation. incumbent=true based on her sitting appointment (matches inventory); a verifier should confirm the Bottomly seat is Position 6. A KBOO piece on an earlier Montalbano judicial candidacy surfaced but KBOO is not an approved T3 outlet and it predates 2026; not used. Judicial candidate: bio/qualifications only; no issue positions sought. Voters' pamphlet: Book 13 lists 4th District judges on pp. 59-61, but the PDF text is cut off by the fetch tool at ~120k characters (p. 49), so judicial statements could not be read; oregonvotes.gov military voters' guide pages surfaced by search for Sykes and Hagedorn redirect to the SOS elections home page (302), so they were not usable. Step 5 ran with allowed_domains limited to opb.org, wweek.com, portlandmercury.com because the proxy rejected longer domain lists. Bio items from WW's April 2026 endorsement piece are descriptive facts only; no endorsement content is used.",
+  "incumbent_source_url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-appoints-judge-to-the-multnomah-county-circuit-court-1"
+}

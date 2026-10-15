@@ -1,0 +1,81 @@
+{
+  "id": "adam-baker",
+  "name": "Adam Baker",
+  "race_id": "or-house-40",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/hartman/Pages/default.aspx",
+  "occupation": "Realtor",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "adam-baker-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Capital Chronicle's 2026 primary voter guide describes Baker as a Realtor and former police officer and hostage negotiator who narrowly lost to Hartman in 2022.",
+      "excerpt": "Adam Baker is a Realtor and former police officer and hostage negotiator who narrowly lost to Hartman in 2022.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-40/",
+        "publisher": "Oregon Capital Chronicle 2026 voter guide (Republican primary, House District 40)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement not retrieved: HD40 pages truncated in fetch tool",
+    "No policy positions found: did not answer Capital Chronicle questionnaire",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+      "result": "nothing relevant (text truncated before HD40 statements; candidate list only)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Adam Baker\" Oregon House District 40 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Adam Baker\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (Capital Chronicle guide; Ballotpedia page covers 2022 run only)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Adam Baker\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (Gresham stories, different person)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Adam Baker\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (race roundups only)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-40/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Adam_Baker",
+      "result": "nothing relevant (2022 campaign page)"
+    }
+  ],
+  "collection_notes": "Statewide Voters' Pamphlet, Clackamas County edition (Book14): WebFetch text truncates before the State Representative District 40 statements (index lists pp. 50-51; text cuts off at p. 43). incumbent_source_url is the HD40 incumbent's official page (Hartman). Matches inventory."
+}

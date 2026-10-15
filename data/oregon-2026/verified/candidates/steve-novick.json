@@ -1,0 +1,276 @@
+{
+  "id": "steve-novick",
+  "name": "Steve Novick",
+  "name_variants": [],
+  "race_id": "portland-council-d3",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.portland.gov/council/districts/3/steve-novick",
+  "occupation": "City Councilor",
+  "website_url": "https://novickforportland.com",
+  "website_verified_via": "https://multco.us/file/portland_dist_3_steve_novick/download",
+  "bio": [
+    {
+      "id": "steve-novick-b1",
+      "topic": "custom:bio",
+      "statement": "The City of Portland says Novick was elected District 3 city councilor in November 2024 and began his term in January 2025.",
+      "excerpt": "Elected as City Councilor for District 3 in November 2024 and began their term of office in January 2025.",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/3/steve-novick",
+        "publisher": "City of Portland",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the councilor's City of Portland page, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked. Novick's page lists his pronouns as He/Him.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-novick-b2",
+      "topic": "custom:bio",
+      "statement": "Novick's voters' pamphlet statement lists work as a federal Justice Department lawyer suing polluters from 1987 to 1996.",
+      "excerpt": "Federal Justice Department lawyer, suing polluters, 1987-96;",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_steve_novick/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-novick-b3",
+      "topic": "custom:bio",
+      "statement": "Novick's pamphlet statement lists work at the Oregon Justice Department from 2018 to 2024 opposing federal environmental rollbacks.",
+      "excerpt": "Oregon Justice Department, fighting Trump environmental rollbacks, 2018-24.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_steve_novick/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-novick-b4",
+      "topic": "custom:bio",
+      "statement": "Novick's pamphlet statement lists a BA from the University of Oregon (1981) and a JD from Harvard Law School (1984).",
+      "excerpt": "B.A., University of Oregon, 1981; J.D., Harvard Law School, 1984.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_steve_novick/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-novick-b5",
+      "topic": "custom:bio",
+      "statement": "Novick's pamphlet statement lists prior service as Portland City Commissioner from 2013 to 2016.",
+      "excerpt": "Portland City Commissioner, 2013-16.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_steve_novick/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "steve-novick-p1",
+      "topic": "custom:budget",
+      "statement": "Novick's voters' pamphlet statement says he has fought to cut what it calls bloated budgets of $1.45 million apiece that the council voted itself.",
+      "excerpt": "Steve Novick has fought to cut the bloated budgets - $1.45 million apiece! - the Council voted itself for their personal",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_steve_novick/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "The original statement left out what budgets were meant. The excerpt now includes the rest of the sentence, which identifies them as the $1.45 million budgets the council voted itself, and the statement was reworded to match. Re-fetched 2026-10-14.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-novick-p2",
+      "topic": "public-safety",
+      "statement": "Novick's pamphlet statement says he is pushing to shift 911 welfare-check calls from police to less expensive unarmed personnel.",
+      "excerpt": "Steve is pushing to shift 911 “welfare check” calls from police officers to less expensive unarmed personnel.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_steve_novick/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-novick-p3",
+      "topic": "taxes",
+      "statement": "Novick's pamphlet statement says he voted against increasing the Arts Tax.",
+      "excerpt": "Steve voted against increasing the Arts Tax.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_steve_novick/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-novick-p4",
+      "topic": "economy",
+      "statement": "Novick's pamphlet statement says he wants to keep the Blazers while ensuring the city gets as much from the Moda Center as it puts in.",
+      "excerpt": "Steve wants to keep the Blazers, while making sure that we get as much money out of the Moda Center as we put in.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_steve_novick/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-novick-p5",
+      "topic": "gun-policy",
+      "statement": "Novick's pamphlet statement says he pushed the Police Bureau to expand its use of Oregon's red flag law.",
+      "excerpt": "Steve successfully pushed the Police Bureau to dramatically expand its use of the “red flag law,”",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_steve_novick/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-novick-p6",
+      "topic": "local-business",
+      "statement": "Novick's pamphlet statement says he opposed proposed cuts to the city office that helps small businesses with graffiti and vandalism.",
+      "excerpt": "He fought some councilors’ proposed cuts to the city office that helps small businesses with graffiti and vandalism.",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_3_steve_novick/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 candidate statement file for the November 2026 Joint County Voters' Pamphlet, re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-novick-p7",
+      "topic": "custom:parks",
+      "statement": "In a Portland Tribune Q&A, Novick lists making the parks system sustainable without another tax increase as a priority.",
+      "excerpt": "Making the parks system sustainable without asking voters for another tax increase.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-3-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Tribune (Hannah Seibold, 2026-10-13), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "steve-novick-p8",
+      "topic": "environment",
+      "statement": "The Portland Mercury reports Novick has spoken against using the Clean Energy Fund to renovate the Moda Center.",
+      "excerpt": "has spoken out against using the city’s Clean Energy Fund for renovating the Moda Center",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Mercury (Mercury Election Strike Force, 2026-09-09), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "City filing form (AUD-120) text contained no candidate fields",
+    "No council voting record collected"
+  ],
+  "verification_summary": {
+    "verified": 12,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race portland-council-d3 (21 candidates). Every candidate was searched in the same shared sources: the Mercury (2026-09-09), OPB (2026-10-07), the Tribune Q&A (2026-10-13), the Multnomah pamphlet and the 2026 AUD-120 forms. Novick has 5 bio and 8 position items (T1 council page and pamphlet, T3). The AUD-120 text has no candidate fields. One statement was corrected. His pronouns are He/Him. The website novickforportland.com is printed in the pamphlet. Incumbent=true confirmed."
+  }
+}

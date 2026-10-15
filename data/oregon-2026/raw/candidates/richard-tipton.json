@@ -1,0 +1,100 @@
+{
+  "id": "richard-tipton",
+  "name": "Richard L Tipton",
+  "name_variants": [
+    "Richard Tipton"
+  ],
+  "race_id": "estacada-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "richard-tipton-b1",
+      "topic": "custom:bio",
+      "statement": "Tipton's pamphlet statement lists a background in customer service, purchasing and logistics.",
+      "excerpt": "Customer Service, Purchasing, Logistics",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "richard-tipton-p1",
+      "topic": "transportation",
+      "statement": "In his voters' pamphlet statement, Tipton lists traffic safety and responsible growth among his priorities.",
+      "excerpt": "My priorities include traffic safety, responsible growth,",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "richard-tipton-p2",
+      "topic": "custom:governance",
+      "statement": "Tipton's pamphlet statement says he believes in listening to residents and working with others in making decisions.",
+      "excerpt": "I believe in listening to our residents, working with others, and making decisions based on common sense.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No T3 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-21)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "No prior government experience (pamphlet: 'N/A')",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website listed in pamphlet",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Richard Tipton\" Estacada 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Richard Tipton\" Estacada \"\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Richard Tipton\" Estacada \"\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Richard Tipton\" Estacada \"\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Incumbency null (no city roster found); pamphlet lists prior governmental experience as 'N/A'."
+}

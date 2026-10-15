@@ -1,0 +1,256 @@
+{
+  "id": "jeff-merkley",
+  "name": "Jeff Merkley",
+  "race_id": "or-us-senate",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": "U.S. Senator for Oregon",
+  "website_url": "https://jeffmerkley.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "bio": [
+    {
+      "id": "jeff-merkley-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Merkley lists his occupation as U.S. Senator for Oregon.",
+      "excerpt": "U.S. Senator for Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-b2",
+      "topic": "custom:background",
+      "statement": "His pamphlet statement lists prior government experience as a state representative and Oregon House Speaker.",
+      "excerpt": "State Representative; Oregon House Speaker",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-b3",
+      "topic": "custom:background",
+      "statement": "His pamphlet statement lists past work with Habitat for Humanity, as a national security analyst and as a small business founder.",
+      "excerpt": "Habitat for Humanity; National Security Analyst; Small Business Founder",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-b4",
+      "topic": "education",
+      "statement": "His official Senate biography says he was the first in his family to graduate from college, in 1979.",
+      "excerpt": "In 1979, he became the first person in his family to graduate from college.",
+      "source": {
+        "url": "https://www.merkley.senate.gov/about/",
+        "publisher": "Office of U.S. Senator Jeff Merkley",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim on merkley.senate.gov/about (re-fetched 2026-10-14). 1979 date is in the statement.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "jeff-merkley-p1",
+      "topic": "custom:government-ethics",
+      "statement": "Merkley's pamphlet statement calls for ending stock trading and the exchange of government favors for investments in the president's companies.",
+      "excerpt": "No more stock trading; no more exchanging government favors for investments in Trump's companies.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-p2",
+      "topic": "civil-rights",
+      "statement": "Merkley says he wants to stop gerrymandering, require paper ballots and end secret campaign funding.",
+      "excerpt": "Stop gerrymandering. Require paper ballots. End secret campaign funding.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-p3",
+      "topic": "housing",
+      "statement": "Merkley proposes banning hedge funds from buying single-family homes.",
+      "excerpt": "Ban hedge funds from buying single-family homes.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-p4",
+      "topic": "healthcare",
+      "statement": "Merkley says he would stop drug companies from price gouging.",
+      "excerpt": "Stop drug companies from price gouging.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-p5",
+      "topic": "education",
+      "statement": "Merkley proposes affordable daycare and debt-free trade school and college.",
+      "excerpt": "Create affordable daycare and debt-free opportunities for trade school and college.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-p6",
+      "topic": "environment",
+      "statement": "Merkley calls for a rapid transition from fossil fuels to renewable energy, which he describes as cheaper and cleaner.",
+      "excerpt": "Rapidly transition from dirty, expensive fossils to cheaper, cleaner, renewables.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the cited 2026 Voters' Pamphlet (re-fetched 2026-10-14); attribution, tier and paraphrase checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "jeff-merkley-v1",
+      "topic": "taxes",
+      "statement": "Merkley voted Nay on Senate passage of H.R. 1, the budget reconciliation bill, on July 1, 2025 (Senate roll call vote 372).",
+      "excerpt": "On Passage of the Bill (H.R. 1, as Amended) … Merkley (D-OR), Nay",
+      "source": {
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm",
+        "publisher": "U.S. Senate",
+        "tier": "T1",
+        "published_at": "2025-07-01",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Senate roll call 372 (119th Congress, 1st session) re-fetched: July 1, 2025, 'On Passage of the Bill (H.R. 1, as Amended)', bill passed 50-50 with the Vice President voting Yea; listed as 'Merkley (D-OR), Nay'.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "jeff-merkley-v2",
+      "topic": "immigration",
+      "statement": "Merkley voted Nay on Senate passage of S. 5, the Laken Riley Act, on January 20, 2025 (Senate roll call vote 7).",
+      "excerpt": "On Passage of the Bill (S. 5, As Amended) … Merkley (D-OR), Nay",
+      "source": {
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.htm",
+        "publisher": "U.S. Senate",
+        "tier": "T1",
+        "published_at": "2025-01-20",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Senate roll call 7 re-fetched: January 20, 2025, 'On Passage of the Bill (S. 5, As Amended)', passed 64-35; listed as 'Merkley (D-OR), Nay'. The Senate page gives the formal title only; the House Clerk's roll call 23 page (T1) names S. 5 the Laken Riley Act.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [],
+  "nominating_parties": [
+    "Democrat",
+    "Working Families"
+  ],
+  "verification_summary": {
+    "verified": 12,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race or-us-senate: Merkley 4 bio/6 pos/2 votes, Brock Smith 3/5/0, Henry 3/7/0, Dye 0/0/0; all T1. Voting record: two 2025 Senate roll calls (H.R. 1 reconciliation, S. 5 Laken Riley Act), both verified on senate.gov; they mirror the two votes used for every Oregon House incumbent, so the selection is consistent across incumbents. It is thin, though: both are Republican-majority priorities from 2025, so it shows only party-line opposition. No challenger in this race has a federal record, so there is no in-race comparison. Incumbent=true confirmed by the pamphlet occupation 'U.S. Senator for Oregon'. Website jeffmerkley.com confirmed in pamphlet."
+  }
+}

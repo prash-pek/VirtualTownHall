@@ -1,0 +1,135 @@
+{
+  "id": "zach-andrews",
+  "name": "Zach Andrews",
+  "name_variants": [],
+  "race_id": "troutdale-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.troutdaleoregon.gov/node/721",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "zach-andrews-b1",
+      "topic": "custom:bio",
+      "statement": "Troutdale's city directory lists Zach Andrews as a city councilor.",
+      "excerpt": "City Councilor",
+      "source": {
+        "url": "https://www.troutdaleoregon.gov/mayorcitycouncil/directory-listing/zach-andrews",
+        "publisher": "City of Troutdale",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14",
+        "note": "Re-fetched; excerpt found verbatim; statement faithful and neutral."
+      }
+    },
+    {
+      "id": "zach-andrews-b2",
+      "topic": "custom:bio",
+      "statement": "On the city council page, Andrews says the professional background is in the renewable energy and sustainable technology industries.",
+      "excerpt": "My professional background is in the renewable energy and sustainable technology industries",
+      "source": {
+        "url": "https://www.troutdaleoregon.gov/mayorcitycouncil/directory-listing/zach-andrews",
+        "publisher": "City of Troutdale",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "tier",
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "First-person bio on an incumbent's official .gov office page is T2 under policy §1, not T1; page is undated (mentions moving to Troutdale in 2020). Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "zach-andrews-b3",
+      "topic": "custom:bio",
+      "statement": "Andrews's city council page says Andrews has served on the Troutdale Planning Commission.",
+      "excerpt": "I have had the honor of serving on the Troutdale Planning Commission",
+      "source": {
+        "url": "https://www.troutdaleoregon.gov/mayorcitycouncil/directory-listing/zach-andrews",
+        "publisher": "City of Troutdale",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "tier",
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "First-person bio on an incumbent's official .gov office page is T2 under policy §1. Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "zach-andrews-p1",
+      "topic": "taxes",
+      "statement": "On the city council page, Andrews lists working on solutions for keeping costs down and being fiscally responsible among stated goals.",
+      "excerpt": "Some of my goals are to continue working solutions for keeping costs down and being fiscally responsible",
+      "source": {
+        "url": "https://www.troutdaleoregon.gov/mayorcitycouncil/directory-listing/zach-andrews",
+        "publisher": "City of Troutdale",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "tier",
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "First-person text on an incumbent's official .gov office page is T2 under policy §1; page undated. Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    },
+    {
+      "id": "zach-andrews-p2",
+      "topic": "custom:development",
+      "statement": "Andrews's city council page says Andrews cares deeply about the healthy development and growth of Troutdale.",
+      "excerpt": "I care deeply about the healthy development and growth of our city",
+      "source": {
+        "url": "https://www.troutdaleoregon.gov/mayorcitycouncil/directory-listing/zach-andrews",
+        "publisher": "City of Troutdale",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "tier",
+          "neutral_wording"
+        ],
+        "verified_at": "2026-10-14",
+        "note": "First-person text on an incumbent's official .gov office page is T2 under policy §1; page undated. Replaced a gendered pronoun the candidate did not state with the surname or neutral wording (candidate states no pronouns in the source)."
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement PDF in the Military & Overseas guide is a scan with no machine-readable text; the full county pamphlet lists the statement (M-67 to M-69) but the fetch tool truncates before that page",
+    "Positions come only from his undated official council bio page",
+    "No campaign website or T3 coverage found"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 4,
+    "rejected": 0,
+    "balance_notes": "Thinner than Glantz/Wunn/Lauer: pamphlet statement (M-68, no asterisk) is an image scan and unreachable in the fetchable pamphlet text; items come from his City of Troutdale councilor page. Source-access gap. Same-person check: all items are from the Troutdale city directory page for Councilor Zach Andrews; nothing from any MMA fighter or other person of similar name."
+  }
+}

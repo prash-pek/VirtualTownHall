@@ -1,0 +1,125 @@
+{
+  "id": "tom-sollitt",
+  "name": "Tom Sollitt",
+  "name_variants": [
+    "Tom Sollett"
+  ],
+  "race_id": "portland-council-d3",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "Not employed (filing form)",
+  "website_url": "https://www.tomforpdx.com",
+  "website_verified_via": "https://www.portland.gov/auditor/elections/documents/sollitt-tom-2020-aud-120-form/download",
+  "bio": [
+    {
+      "id": "tom-sollitt-b1",
+      "topic": "custom:bio",
+      "statement": "Sollitt's city candidate filing form lists his occupational background as program and exhibit manager.",
+      "excerpt": "Program & Exhibit Manager",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/sollitt-tom-2020-aud-120-form/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 City of Portland AUD-120 candidate filing form (Councilor District 3), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked. The cited URL slug says '2020', but the form is the 2026 AUD-120 (Councilor District 3, started 2026-07-17), and portland.gov's 2026 city candidates page links it for Sollitt.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tom-sollitt-b2",
+      "topic": "custom:bio",
+      "statement": "OPB describes Sollitt as a communications consultant who uses the city's small donor program.",
+      "excerpt": "Tom Sollitt, another small donor program user, is a communications consultant",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/what-to-know-about-portland-district-3-council-race/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in OPB (Alex Zielinski, 2026-10-07), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "tom-sollitt-p1",
+      "topic": "custom:neighborhoods",
+      "statement": "OPB reports Sollitt wants the city to invest more in neighborhoods and improve relationships with other local governments.",
+      "excerpt": "the city invest more in neighborhoods, improve relationships with other local governments",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/07/what-to-know-about-portland-district-3-council-race/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in OPB (Alex Zielinski, 2026-10-07), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tom-sollitt-p2",
+      "topic": "public-safety",
+      "statement": "In a Portland Mercury candidate profile, Sollitt says Portland needs more police staffing but should be intentional about where positions go.",
+      "excerpt": "Portland needs to increase police staffing, but we should be intentional about where those positions go",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Mercury (Mercury Election Strike Force, 2026-09-09), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "tom-sollitt-p3",
+      "topic": "custom:governance",
+      "statement": "In a Portland Mercury candidate profile, Sollitt says Portlanders too often have their needs ignored.",
+      "excerpt": "Portlanders too often have their needs ignored",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Mercury (Mercury Election Strike Force, 2026-09-09), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement not readable: the individual statement PDF in the county's Military & Overseas Online Voters' Guide is a scan with no machine-readable text, and the full and large-print county pamphlet PDFs are cut off by the fetch tool (~105k characters) before the City of Portland section (pp. M-52 to M-66)",
+    "Did not respond to the Portland Tribune candidate Q&A",
+    "No voting record (has not held elected office)"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race portland-council-d3 (21 candidates). Every candidate was searched in the same shared sources: the Mercury (2026-09-09), OPB (2026-10-07), the Tribune Q&A (2026-10-13), the Multnomah pamphlet and the 2026 AUD-120 forms. The pamphlet index lists a statement for this candidate, but the collector could not read it. The pamphlet PDF text is 104,260 characters and ends before the Portland section (M-53 to M-60), and the individual statement scan is not linked from the MOO guide page and could not be re-fetched. This is a source-access gap, confirmed. The form is readable and its website (tomforpdx.com) is confirmed. Missed material: a BikePortland interview dated 2026-02-20 ('Meet District 3 City Council Candidate Tom Sollitt'). The 'did not respond to Tribune' gap is confirmed. Incumbent=false confirmed."
+  }
+}

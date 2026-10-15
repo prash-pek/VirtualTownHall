@@ -1,0 +1,142 @@
+{
+  "id": "bri-williams",
+  "name": "Bri Williams",
+  "name_variants": [],
+  "race_id": "multnomah-county-commissioner-d2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://multco.us/board",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "bri-williams-b1",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Williams works for Multnomah County as a mental health consultant partnering with Albina Head Start.",
+      "excerpt": "now works for Multnomah County as a mental health consultant, partnering with Albina Head Start.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "bri-williams-b2",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Williams was born and raised in Northeast Portland.",
+      "excerpt": "Bri Williams was born and raised in Northeast Portland and says her family has deep roots in the city.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "bri-williams-p1",
+      "topic": "housing",
+      "statement": "The Portland Mercury reports Williams wants to focus on housing stability by preventing displacement and supporting renters.",
+      "excerpt": "focus on housing stability by preventing displacement and supporting renters,",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "bri-williams-p2",
+      "topic": "healthcare",
+      "statement": "The Portland Mercury reports Williams wants the county to invest more in behavioral health services.",
+      "excerpt": "she also wants the county to invest more heavily in behavioral health services",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "bri-williams-p3",
+      "topic": "local-business",
+      "statement": "The Portland Mercury reports Williams would prioritize small business and workforce development opportunities.",
+      "excerpt": "prioritize small business and workforce development opportunities",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [
+    "Voters' pamphlet statement not readable (PDF fetch cut off before p. 45)",
+    "No campaign website found in a T1/T3 source",
+    "Candidate filing PDF had no readable fields",
+    "No T1 source for bio facts",
+    "Individual voters' pamphlet statement PDF on multco.us is a scan with no machine-readable text"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multco_dist_2_bri_williams/download",
+      "result": "blocked (scan, no machine-readable text)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/bri_williams_candidate_filing/download",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://multco.us/board",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain found in a T1/T3 source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Bri Williams\" Multnomah County commissioner 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Bri Williams\" (allowed_domains opb.org, wweek.com, portlandmercury.com)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Steps run identically for all 7 District 2 candidates. Voters' pamphlet: the SOS Book 13 and the county's regular and large-print Multnomah pamphlet PDFs are cut off by the fetch tool (~105-120k characters); the large-print text ends partway through Herman Greene's statement (p. 44), so pamphlet statements for Bri Williams, Serena Cruz, Nathan Ong Norris, Nabil Zaghloul and Tony Robertson (pp. 45-47) could not be read there. The county's Military & Overseas Online Voters' Guide links an individual statement PDF for all 7 candidates; those for Cruz and Robertson are machine-readable, while those for Broussard, Greene, Williams, Ong Norris and Zaghloul are scans with no readable text (Broussard and part of Greene were read from the large-print pamphlet instead). SEL 101 candidate filings were machine-readable only for Cruz and Robertson (others scanned/empty). The Portland Mercury District 2 profile (2026-09-26) covers all 7 candidates and is the common T3 source. Step 5 ran with allowed_domains limited to opb.org, wweek.com, portlandmercury.com because the proxy rejected longer domain lists. Incumbency: the current District 2 commissioner is Shannon Singleton (multco.us/board), who is running for Chair, so no D2 candidate is the incumbent. The fetch tool limits verbatim quotes to ~125 characters, so some excerpts are fragments.",
+  "voting_record": []
+}

@@ -1,0 +1,85 @@
+{
+  "id": "kimberly-tucker",
+  "name": "Kimberly Tucker",
+  "name_variants": [],
+  "race_id": "portland-council-d3",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.portland.gov/council",
+  "occupation": "Board Certified Behavior Analyst",
+  "website_url": "https://kimberlyforpdxd3.com",
+  "website_verified_via": "https://www.portland.gov/auditor/elections/documents/tucker-kimberly-aud-120/download",
+  "bio": [
+    {
+      "id": "kimberly-tucker-b1",
+      "topic": "custom:bio",
+      "statement": "Tucker's city candidate filing form lists her occupation as board certified behavior analyst at Kadiant since 2026.",
+      "excerpt": "Board Certified Behavior Analyst, Kadiant, 2026-present",
+      "source": {
+        "url": "https://www.portland.gov/auditor/elections/documents/tucker-kimberly-aud-120/download",
+        "publisher": "City of Portland Auditor's Office, Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in the 2026 City of Portland AUD-120 candidate filing form (Councilor District 3), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kimberly-tucker-b2",
+      "topic": "custom:bio",
+      "statement": "The Portland Mercury reports Tucker specializes in behavioral analysis and special education.",
+      "excerpt": "Kimberly Tucker specializes in behavioral analysis and special education.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Mercury (Mercury Election Strike Force, 2026-09-09), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked.",
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "kimberly-tucker-b3",
+      "topic": "custom:bio",
+      "statement": "The Portland Tribune reports Tucker withdrew her campaign due to personal circumstances.",
+      "excerpt": "Kimberly Tucker withdrew her campaign due to personal circumstances.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-3-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim in Portland Tribune (Hannah Seibold, 2026-10-13), re-fetched 2026-10-14. Attribution, tier, paraphrase and neutrality checked. Tucker is still listed among the qualified District 3 candidates on portland.gov and is 16th on Multnomah's certified ballot content (2026-09-22). She is not in the city's withdrawals table, so she remains on the ballot.",
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement: the county pamphlet's candidate index marks this candidate with an asterisk ('did not file a candidate statement'), and no statement is linked in the county's Military & Overseas Online Voters' Guide",
+    "No policy positions found in T1/T3 sources",
+    "Portland Tribune reports she withdrew her campaign; she remains on the certified ballot",
+    "No voting record (has not held elected office)"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race portland-council-d3 (21 candidates). Every candidate was searched in the same shared sources: the Mercury (2026-09-09), OPB (2026-10-07), the Tribune Q&A (2026-10-13), the Multnomah pamphlet and the 2026 AUD-120 forms. The pamphlet candidate index marks this candidate with an asterisk ('did not file a candidate statement'). The thin profile is a non-filer gap, not missed effort. Tucker has 3 bio items and no positions. The Tribune reports she withdrew her campaign, but she remains on the certified ballot (Multnomah ballot content 2026-09-22; portland.gov's qualified list), and her gap says so. The website kimberlyforpdxd3.com is confirmed on the form. Incumbent=false confirmed."
+  }
+}

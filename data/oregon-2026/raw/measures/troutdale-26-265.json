@@ -1,0 +1,157 @@
+{
+  "id": "troutdale-26-265",
+  "jurisdiction_id": "troutdale",
+  "number": "26-265",
+  "title": "Five-year Local Option Levy for Police, Fire & 911 Operations.",
+  "ballot_label": "Caption: Five-year Local Option Levy for Police, Fire & 911 Operations. Question: Shall Troutdale adopt a local option levy at $1.60 per $1,000 of assessed value for police, fire & 911 services? This measure may cause property taxes to increase more than three percent.",
+  "summary": "Troutdale contracts for police, fire and 911 services. This five-year local option levy of $1.60 per $1,000 of assessed value would fund only police, fire and 911 operations, and the Council would replace the current $25 Public Safety Fee. The City says costs are rising faster than available funding and projects a $3 million gap next year growing to over $5 million by 2030.",
+  "yes_means": "A yes vote approves a five-year Troutdale local option property tax levy of $1.60 per $1,000 of assessed value for police, fire and 911 services.",
+  "no_means": "A no vote rejects the proposed five-year levy for police, fire and 911 services.",
+  "fiscal_impact": "Estimated collections: $3,556,392 (2027-28), $3,663,084 (2028-29), $3,772,977 (2029-30), $3,886,166 (2030-31), $4,002,751 (2031-32). An average home assessed at about $267,800 would pay about $428.48 a year; the summary says the levy would replace the $25 Public Safety Fee (KATU reports the fee as $300 a year and a net increase of about $128).",
+  "full_text_url": "https://multco.us/file/measure_26-265/download",
+  "arguments": [
+    {
+      "id": "troutdale-26-265-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "City of Troutdale (explanatory statement, submitted by Sarah Skroch, City Recorder)",
+      "topic": "public-safety",
+      "statement": "The City's explanatory statement says current trends show a $3 million public safety funding gap next year, growing to over $5 million by 2030.",
+      "excerpt": "Current trends show a $3 million funding gap next year increasing annually to over $5 million by 2030.",
+      "source": {
+        "url": "https://multco.us/info/measure-26-265-five-year-local-option-levy-police-fire-911-operations",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "troutdale-26-265-y2",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Mayor David Ripma",
+      "topic": "public-safety",
+      "statement": "In a 2026 KATU interview, Mayor David Ripma said that if voters reject the levy the city would be in fiscal trouble and would have to figure something out.",
+      "excerpt": "Ripma told KATU that if voters reject the property tax levy, the city would be in \"fiscal trouble.\" \"We'll have to figure something out,\" he said.",
+      "source": {
+        "url": "https://katu.com/news/local/troutdale-residents-will-vote-on-reviving-city-police-new-tax-levy-in-november",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2026-09-07",
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "public-safety",
+    "taxes"
+  ],
+  "gaps": [
+    "No NO arguments found: no opposition statement in any reachable official source or T3 outlet; voters' pamphlet arguments section could not be read.",
+    "Official voters' pamphlet arguments (yes and no) could not be read: the county pamphlet PDF text is truncated before the measures section."
+  ],
+  "collection_notes": "Voters' pamphlet: the SOS Book 13 PDF text (120,052 chars) ends at the statewide section; the multco.us English (104,260 chars) and large-print (105,643 chars) county pamphlet PDFs are cut off by WebFetch text extraction in the candidate statements, before the Measures & Arguments section, so printed pamphlet arguments (if any) could not be read. The SOS Spanish-language Multnomah guide (ES-MUL-1126) was checked only to see whether arguments exist: per the fetch tool it prints the measure and an explanation for each of 26-265 to 26-269 but no argument sections; translated guides may omit arguments, so this is not conclusive. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction (City of Troutdale) match the multco.us page and filings list (filed 8/12/2026). The ballot summary calls the fee the '$25 Public Safety Fee' while the explanatory statement calls it the 'Public Safety Utility Fee'; KATU describes it as $300 a year (likely $25/month; not stated by the City). troutdaleoregon.gov notice pages redirect to a login page. y1 is from the City-authored explanatory statement (kind explainer), not a filed argument. KGW and KOIN articles on the related police-department question returned fetch errors. The same search set was run for yes and no.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "result": "not found"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/ES-MUL-1126-vp.pdf",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/ballot-measure-filings-november-2026-general-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/measure-26-265-five-year-local-option-levy-police-fire-911-operations",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://multco.us/file/measure_26-265/download",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "\"Measure 26-265\" Troutdale",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.troutdaleoregon.gov/executive/page/notice-receipt-ballot-title-police-and-fire-operations-levy",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.troutdaleoregon.gov/executive/page/notice-receipt-ballot-title-troutdale-police-department",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Troutdale public safety levy $1.60 November 2026 police fire 911",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Troutdale levy opposition vote no public safety fee 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Troutdale police department advisory vote 2026 sheriff contract",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "T3 allowed-domain searches run singly (multi-domain rejected by proxy): pamplinmedia.com, kgw.com, koin.com, opb.org",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://katu.com/news/local/troutdale-residents-will-vote-on-reviving-city-police-new-tax-levy-in-november",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://katu.com/news/local/story/portland-suburb-takes-major-step-forward-on-reviving-city-police-department-oregon-troutdale-oregon-police-funding-council-town-suburban-multnomah-county",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://katu.com/news/local/story/some-voters-could-decide-future-of-policing-heres-what-each-option-means-oregon-troutdale-portland-gresham-police-multnomah-county",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.kgw.com/article/news/politics/mcso-multnomah-sheriff-troutdale-police-department-budget-patrol-coverage/283-5da1252c-aa9b-43b6-81bb-14e5cc11763d",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.kgw.com/article/news/politics/troutdale-considers-restoring-police-department-sheriffs-office-pushes-back/283-56bcde86-fe51-4679-85a7-53b93546e171",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.koin.com/local/multnomah-county/troutdales-proposed-police-unit-may-cut-multnomah-county-sheriffs-office-services/",
+      "result": "blocked"
+    }
+  ]
+}

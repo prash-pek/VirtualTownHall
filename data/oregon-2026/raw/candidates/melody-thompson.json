@@ -1,0 +1,137 @@
+{
+  "id": "melody-thompson",
+  "name": "Melody Thompson",
+  "name_variants": [],
+  "race_id": "canby-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf",
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "melody-thompson-b1",
+      "topic": "custom:bio",
+      "statement": "Thompson's pamphlet statement lists work as a police administrative supervisor, city recorder and finance officer, and small business owner.",
+      "excerpt": "Police Administrative Supervisor; City Recorder, Finance Officer; Planning Commission, Historic Review Board staff;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "melody-thompson-b2",
+      "topic": "custom:bio",
+      "statement": "Thompson's pamphlet statement lists prior service as Canby mayor, urban renewal commissioner and chair of the Canby Utility Board.",
+      "excerpt": "Chair, Canby Utility Board; City of Canby Mayor, Urban Renewal Commissioner;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "melody-thompson-p1",
+      "topic": "public-safety",
+      "statement": "In her voters' pamphlet statement, Thompson supports continued police recruitment and training and funding technology and equipment upgrades.",
+      "excerpt": "I support the continued recruitment and training for excellence in police staff, and funding technology and equipment upgrades.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "melody-thompson-p2",
+      "topic": "taxes",
+      "statement": "Thompson's pamphlet statement supports developing a General Fund strategy to ensure reliable funding for city services.",
+      "excerpt": "I support developing a General Fund strategy to ensure there is reliable funding for the quality services our community expects and deserves.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "melody-thompson-p3",
+      "topic": "infrastructure",
+      "statement": "Thompson's pamphlet statement cites a library, community pool, maintained streets and responsible financial management as making a strong Canby.",
+      "excerpt": "A vibrant library and community pool, well-maintained streets, and responsible management of city finances and staff create a strong Canby.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "melody-thompson-p4",
+      "topic": "custom:governance",
+      "statement": "Thompson's pamphlet statement says consistent communication, follow-up and resident feedback are essential for sound decisions.",
+      "excerpt": "Consistent communication, follow-up and your feedback, are essential for sound decisions.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 T3 press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (p. C-19)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "Former mayor; no current official office page",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website listed in pamphlet",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Melody Thompson\" Canby 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Melody Thompson\" Canby \"\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Melody Thompson\" Canby \"\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Melody Thompson\" Canby \"\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "incumbent=false: not on the Jan. 2026 council roster; pamphlet says she is a former Canby mayor."
+}

@@ -1,0 +1,184 @@
+{
+  "id": "brett-smith",
+  "name": "Brett Smith",
+  "race_id": "or-governor",
+  "party": "Pacific Green",
+  "incumbent": false,
+  "incumbent_source_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "occupation": "Inventor, Small Business Owner, Welder, Fabricator",
+  "website_url": "https://brett-smith.us",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+  "bio": [
+    {
+      "id": "brett-smith-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Smith lists his occupation as inventor, small business owner, welder and fabricator.",
+      "excerpt": "Inventor, Small Business Owner, Welder, Fabricator",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-b2",
+      "topic": "education",
+      "statement": "His pamphlet statement lists a welding apprenticeship and more than a decade of regulatory compliance work with the FDA and USPTO.",
+      "excerpt": "Toromont Energy Welding Apprenticeship, Over a decade of experience with regulatory compliance for the FDA and USPTO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-b3",
+      "topic": "custom:background",
+      "statement": "His pamphlet statement lists no prior governmental experience.",
+      "excerpt": "None",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "brett-smith-p1",
+      "topic": "taxes",
+      "statement": "Smith's pamphlet statement proposes a full audit of state systems and the tax code by independent contractors.",
+      "excerpt": "A full audit of our systems and tax code by independent contractors.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-p2",
+      "topic": "healthcare",
+      "statement": "Smith calls for healthcare for all and says the state has the money for it.",
+      "excerpt": "Healthcare for all. We have the money",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-p3",
+      "topic": "civil-rights",
+      "statement": "Smith's statement opposes unconstitutional surveillance.",
+      "excerpt": "No unconstitutional surveillance",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-p4",
+      "topic": "technology",
+      "statement": "Smith proposes a permanent moratorium on data centers.",
+      "excerpt": "A permanent moratorium on data centers",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-p5",
+      "topic": "foreign-policy",
+      "statement": "Smith proposes a constitutional amendment stating no Oregonian will be drafted into a war not sanctioned by Congress.",
+      "excerpt": "A constitutional amendment to state no Oregonian will be drafted into a war not sanctioned by Congress",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "brett-smith-p6",
+      "topic": "local-business",
+      "statement": "Smith supports subsidies for local businesses and ranchers rather than corporations.",
+      "excerpt": "Subsidies for local businesses and ranchers. Not corporations",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (Multnomah County edition)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No voting record: has not held public office (pamphlet lists prior governmental experience as None)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office (pamphlet: None)",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://multco.us/info/military-overseas-online-voters-guide-november-2026-election",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "brett-smith.us (listed in pamphlet; not fetched)",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Brett Smith\" Governor Oregon Pacific Green 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Brett Smith\" allowed_domains=opb.org,oregoncapitalchronicle.com,wweek.com,ballotpedia.org",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Brett Smith\" allowed_domains=kgw.com,koin.com,kptv.com,katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Brett Smith\" allowed_domains=portlandmercury.com,vote411.org,pamplinmedia.com,portlandtribune.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "no T3 follow-up fetches (see collection_notes)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Steps 1-5 were run identically for every candidate in the US Senate, US House 1-6 and Governor races (the shared WebSearch budget ran out once mid-run and the remaining searches were completed after it reset). To keep effort equal, no T3 items are included for any candidate in these races: every item comes from the T1 voters' pamphlet, official .gov pages or official roll-call pages; promising T3 results are named in these notes for possible later, race-wide use. Campaign websites are recorded from the pamphlet but were not fetched for positions, for any candidate. oregonlive.com and apnews.com are rejected by the search proxy as allowed_domains, so step 5 used three fixed domain groups for everyone: (opb, oregoncapitalchronicle, wweek, ballotpedia), (kgw, koin, kptv, katu), (portlandmercury, vote411, pamplinmedia, portlandtribune). The Multnomah military/overseas online voters' guide was checked and contains no federal or governor statements. Pamphlet excerpts were obtained through a summarizing fetch limited to ~125-character quotes, so excerpts are short. incumbent=false because the pamphlet edition cited in incumbent_source_url lists another candidate in this race as the sitting officeholder. Name and party match inventory. Search for 'Brett Smith' also returns a 2024 Independent candidate for CD5 of the same name (KOIN); same person not confirmed by an official source. Step 5 surfaced substantial 2026 general-election T3 coverage for all three candidates (e.g. OPB 2026-07-23 'Could a third-party candidate shake up the Oregon governor's race?' on Smith; Portland Tribune 2026-08-26 on Drazan's proposals; OPB/KOIN on Kotek); not fetched, to keep T3 treatment identical across all assigned races. Much of the remaining coverage is polling/horse-race and excluded by policy."
+}

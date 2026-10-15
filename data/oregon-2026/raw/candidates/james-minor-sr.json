@@ -1,0 +1,145 @@
+{
+  "id": "james-minor-sr",
+  "name": "James Minor Sr",
+  "name_variants": [
+    "James Minor Sr.",
+    "James M Minor"
+  ],
+  "race_id": "king-city-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.ci.king-city.or.us/councilors_-_bios.php",
+  "occupation": "Senior Technical Writer",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "james-minor-sr-b1",
+      "topic": "custom:bio",
+      "statement": "Minor's pamphlet statement says he began his career as a technician for about 10 years.",
+      "excerpt": "I began my career as a technician, working in that field for approximately 10 years",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "james-minor-sr-b2",
+      "topic": "custom:bio",
+      "statement": "Minor's pamphlet statement lists an associate degree in mathematics and physics from Macomb County Community College.",
+      "excerpt": "Associate degree from Macomb County Community College, with a major in Mathematics and Physics.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "james-minor-sr-b3",
+      "topic": "custom:bio",
+      "statement": "Minor's pamphlet statement says he served on the board of the King City Civic Association.",
+      "excerpt": "I served on the board of the King City Civic Association (KCCA)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "james-minor-sr-p1",
+      "topic": "custom:growth",
+      "statement": "In his voters' pamphlet statement, Minor says growth should be managed responsibly considering its impact on residents, taxes and infrastructure.",
+      "excerpt": "growth needs to be managed responsibly while considering its impact on residents, taxes, infrastructure",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "james-minor-sr-p2",
+      "topic": "custom:governance",
+      "statement": "Minor's pamphlet statement says the council should build on previous councils' work rather than starting over.",
+      "excerpt": "I also believe we should build on the work of previous councils rather than continually starting over.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "james-minor-sr-p3",
+      "topic": "custom:governance",
+      "statement": "Minor's pamphlet statement says he will work collaboratively with council members, staff and residents.",
+      "excerpt": "As a council member, I will work collaboratively with the other council members, city staff, and residents.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No press coverage found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (offset 40000)",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.ci.king-city.or.us/city_council_candidate_filings/index.php",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.ci.king-city.or.us/councilors_-_bios.php",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign website printed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"James Minor\" King City council 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"James Minor\" King City (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"James Minor\" King City (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"James Minor\" King City (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "King City council bios page lists seven councilors: Rachel Kazmierski, Stephen Gearhart, Vince Arditi, Sandra Cunningham, Gary Mitchell, Linda Quanstrom, Jan Tysoe. The city's candidate-filings page lists completed filings for Dirksen, Cunningham, Gearhart, Suesserman (spelled 'Susserman') and Buehner, and James M Minor as a prospective petition. Step 4/5 searches returned only older (2016-2023) Pamplin/WW coverage or other King Cities; not used to keep treatment equal. Not on the current roster."
+}

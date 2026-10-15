@@ -1,0 +1,128 @@
+{
+  "id": "burlington-water-district-26-269",
+  "jurisdiction_id": "burlington-water-district",
+  "number": "26-269",
+  "title": "Five-Year Local Option Tax for Fire & Ambulance Operations",
+  "ballot_label": "Caption: Five-Year Local Option Tax for Fire & Ambulance Operations. Question: Shall the District create a new five-year levy of $1.70 per $1000 of assessed value for five years beginning 2027-2028? This measure creates new local option taxes which may cause property taxes to increase more than three percent.",
+  "summary": "Burlington Water District, which buys fire and ambulance service from Portland Fire & Rescue by contract, proposes a five-year local option levy of $1.70 per $1,000 of assessed value beginning 2027-28. Revenue would pay the district's emergency services costs and maintain a contingency fund. The district says the levy does not affect water service or water rates.",
+  "yes_means": "A yes vote approves a new five-year Burlington Water District levy of $1.70 per $1,000 of assessed value beginning in 2027-2028.",
+  "no_means": "A no vote rejects the proposed five-year levy.",
+  "fiscal_impact": "Estimated about $84,420 in 2027-28 rising to about $95,016 in 2031-32 (average about $87,029 a year), on top of the district's $3.4269 permanent rate. For an average property assessed at $166,000, monthly emergency services cost would rise from $47 to $71 (about $24 more per month).",
+  "full_text_url": "https://multco.us/file/measure_26-269/download",
+  "arguments": [
+    {
+      "id": "burlington-water-district-26-269-y1",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Burlington Water District (explanatory statement, submitted by Richard T. Lovett, Board Chairman)",
+      "topic": "public-safety",
+      "statement": "The district's explanatory statement says emergency service costs have risen 10 percent per year over four years, nearly twice the average increase in property taxes.",
+      "excerpt": "Emergency service costs have gone up 10 percent per year over the past four years, nearly twice the average increase in property taxes you pay.",
+      "source": {
+        "url": "https://multco.us/info/measure-26-269-five-year-local-option-tax-fire-ambulance-operations",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "burlington-water-district-26-269-y2",
+      "side": "yes",
+      "kind": "explainer",
+      "author": "Burlington Water District (explanatory statement, submitted by Richard T. Lovett, Board Chairman)",
+      "topic": "public-safety",
+      "statement": "The explanatory statement says the district has no funding source other than property tax revenue to pay for emergency services.",
+      "excerpt": "The District has no funding source other than property tax revenue to pay for emergency services.",
+      "source": {
+        "url": "https://multco.us/info/measure-26-269-five-year-local-option-tax-fire-ambulance-operations",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "topics": [
+    "public-safety",
+    "taxes"
+  ],
+  "gaps": [
+    "No NO arguments found: no opposition statement in any reachable official source or T3 outlet; voters' pamphlet arguments section could not be read.",
+    "No T3 news coverage of this measure was found.",
+    "Official voters' pamphlet arguments (yes and no) could not be read: the county pamphlet PDF text is truncated before the measures section."
+  ],
+  "collection_notes": "Voters' pamphlet: the SOS Book 13 PDF text (120,052 chars) ends at the statewide section; the multco.us English (104,260 chars) and large-print (105,643 chars) county pamphlet PDFs are cut off by WebFetch text extraction in the candidate statements, before the Measures & Arguments section, so printed pamphlet arguments (if any) could not be read. The SOS Spanish-language Multnomah guide (ES-MUL-1126) was checked only to see whether arguments exist: per the fetch tool it prints the measure and an explanation for each of 26-265 to 26-269 but no argument sections; translated guides may omit arguments, so this is not conclusive. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction match the multco.us page and filings list (filed 9/2/2026). This is a resubmission of May 19, 2026 Measure 26-264 (same title; levy start moved from 2026-27 to 2027-28 per the district's Aug 12, 2026 special board meeting draft minutes); the May result was not found in any fetched source and is not stated. Board chair appears as 'Richard T. Lovett' on the county page and 'Ricardo Lovett' in the draft minutes. Fiscal estimates were paraphrased by the fetch tool from the measure page; verifier should confirm the dollar figures. Both y items are from the district-written explanatory statement (kind explainer), not filed arguments. The same search set was run for yes and no.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+      "result": "not found"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+      "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/ES-MUL-1126-vp.pdf",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/ballot-measure-filings-november-2026-general-election",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/info/measure-26-269-five-year-local-option-tax-fire-ambulance-operations",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://multco.us/file/measure_26-269/download",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://multco.us/file/five-year_local_option_tax_for_fire_ambulance_operations/download",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://burlingtonwater.specialdistrict.org/files/04021c409/8%3A12%3A26+BWD+Special+Board+Meeting.pdf",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://burlingtonwater.specialdistrict.org/files/4d853055f/August+12%2C+2026+BWD+Special+Board+Meeting+Draft+Minutes.pdf",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://burlingtonwater.specialdistrict.org/may-19-2026-ballot-measure-levy-for-fire-and-emergency-services",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "\"Measure 26-269\" Burlington Water District",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "Burlington Water District fire ambulance levy 2026 Portland Fire contract",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://multco.us/info/measure-26-264-five-year-local-option-tax-fire-ambulance-operations",
+      "result": "nothing relevant"
+    }
+  ]
+}

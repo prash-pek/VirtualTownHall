@@ -1,0 +1,155 @@
+{
+  "id": "herman-greene",
+  "name": "Herman Greene",
+  "name_variants": [],
+  "race_id": "multnomah-county-commissioner-d2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://multco.us/board",
+  "occupation": "Senior Pastor, Abundant Life PDX Church",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "herman-greene-b1",
+      "topic": "custom:bio",
+      "statement": "In his voters' pamphlet statement, Greene lists his occupation as senior pastor of Abundant Life PDX Church.",
+      "excerpt": "Senior Pastor, Abundant Life PDX Church",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "herman-greene-b2",
+      "topic": "custom:bio",
+      "statement": "Greene's pamphlet statement lists his background as community advocate, nonprofit leader and small business owner.",
+      "excerpt": "Community advocate; nonprofit leader; small business owner",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "herman-greene-b3",
+      "topic": "custom:bio",
+      "statement": "Greene's pamphlet statement lists a B.A. from Warner Pacific University and master's degrees in organizational leadership and nonprofit organizational development.",
+      "excerpt": "Warner Pacific University, B.A.; M.A. Organizational Leadership; M.A. Nonprofit Organizational Development",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "herman-greene-b4",
+      "topic": "custom:bio",
+      "statement": "Greene's pamphlet statement lists service as Portland Public Schools Board Director for Zone 4 from 2021 to 2025.",
+      "excerpt": "Portland Public Schools Board Director, Zone 4, 2021–2025",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "herman-greene-p1",
+      "topic": "public-safety",
+      "statement": "Greene told the Portland Mercury that public safety must include prevention and accountability.",
+      "excerpt": "Public safety must include prevention and accountability.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "herman-greene-p2",
+      "topic": "housing",
+      "statement": "Greene told the Portland Mercury the county's homelessness response must do more than provide overnight shelter.",
+      "excerpt": "Our homelessness response has to do more than provide a place to sleep overnight.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "herman-greene-p3",
+      "topic": "custom:governance",
+      "statement": "In his voters' pamphlet statement, Greene says District 2 deserves a county government that delivers.",
+      "excerpt": "District 2 deserves a county government that delivers.",
+      "source": {
+        "url": "https://multco.us/file/_large_print_multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet, Nov 3 2026, large print)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "gaps": [
+    "Rest of pamphlet statement unreadable (PDF text cut off mid-statement)",
+    "No campaign website found in a T1/T3 source",
+    "Candidate filing PDF not machine-readable",
+    "Individual voters' pamphlet statement PDF on multco.us is a scan with no machine-readable text"
+  ],
+  "voting_record": [],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Source-access disparity, not candidate disparity: the large-print/full pamphlet PDFs are only readable through Broussard and the start of Greene's statements, and the individual statement PDFs for Broussard, Greene, Williams, Ong Norris and Zaghloul are scans with no machine-readable text. Cruz and Robertson have readable individual statements, so they have T1 positions; Williams, Ong Norris and Zaghloul have only T3 (Portland Mercury 2026-09-26) items, and Broussard and Greene mix T1 bio with few positions. Verifier hit the same limits (PDF text truncated at Greene's statement). Same search effort appears applied to all seven; disparity is documented in each file's gaps."
+  }
+}

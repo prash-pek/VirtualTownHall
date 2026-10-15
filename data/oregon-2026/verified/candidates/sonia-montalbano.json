@@ -1,0 +1,66 @@
+{
+  "id": "sonia-montalbano",
+  "name": "Sonia A Montalbano",
+  "name_variants": [
+    "Sonia Montalbano"
+  ],
+  "race_id": "or-circuit-court-4-pos-6",
+  "party": null,
+  "incumbent": true,
+  "occupation": "Judge, Multnomah County Circuit Court (appointed 2026)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "sonia-montalbano-b1",
+      "topic": "custom:bio",
+      "statement": "Governor Tina Kotek appointed Montalbano to the Multnomah County Circuit Court in August 2026.",
+      "excerpt": "Today, Governor Tina Kotek announced that she has appointed Sonia A. Montalbano to the Multnomah County Circuit Court.",
+      "source": {
+        "url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-appoints-judge-to-the-multnomah-county-circuit-court-1",
+        "publisher": "Office of the Governor, State of Oregon",
+        "tier": "T1",
+        "published_at": "2026-08-03",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "sonia-montalbano-b2",
+      "topic": "custom:bio",
+      "statement": "The governor's office describes Montalbano as an experienced civil litigator focusing on employment and business law.",
+      "excerpt": "Sonia Montalbano is an experienced civil litigator who focuses on employment and business law,",
+      "source": {
+        "url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-appoints-judge-to-the-multnomah-county-circuit-court-1",
+        "publisher": "Office of the Governor, State of Oregon",
+        "tier": "T1",
+        "published_at": "2026-08-03",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement not readable (PDF fetch cut off before pp. 59-61)",
+    "No campaign website found in a T1/T3 source",
+    "No 2026 T3 coverage found (WW 2026 judicial coverage does not mention her)",
+    "Judicial candidate: no issue positions collected (judicial ethics)"
+  ],
+  "incumbent_source_url": "https://multco.us/file/ballot_directive_-_november_3,_2026_general/download",
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Unopposed appointed incumbent. Two T1 items from the Governor's appointment release (2026-08-03). No 2026 T3 coverage in WW judicial pieces; a KBOO segment exists (community radio, not on T3 list; not added). Ballot directive confirms she is listed for Position 6 as Incumbent. File-level: Ballot directive lists 'Sonia A Montalbano Incumbent' for Position 6; incumbent_source_url changed from the Governor's release (which names the Bottomly vacancy but not the position number) to the ballot directive."
+  }
+}

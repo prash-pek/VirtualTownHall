@@ -1,0 +1,144 @@
+{
+  "id": "sue-rieke-smith",
+  "name": "Sue R Rieke Smith",
+  "name_variants": [
+    "Sue Rieke Smith"
+  ],
+  "race_id": "or-house-26",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/riekesmith/Pages/default.aspx",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "sue-rieke-smith-b1",
+      "topic": "education",
+      "statement": "Her official biography says she earned an Ed.D. in Educational Leadership and Policy at the University of Oregon in 2015.",
+      "excerpt": "Representative Sue Rieke Smith earned her Ed.D. in Educational Leadership and Policy at the University of Oregon in 2015.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/riekesmith/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sue-rieke-smith-b2",
+      "topic": "custom:background",
+      "statement": "Her official biography says she began in trauma and public health nursing.",
+      "excerpt": "She began with trauma and public health nursing",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/riekesmith/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sue-rieke-smith-b3",
+      "topic": "education",
+      "statement": "Her official biography says she served as superintendent of the Tigard-Tualatin School District and Springfield Public Schools.",
+      "excerpt": "She served as superintendent for both the Tigard-Tualatin School District and Springfield Public Schools",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/riekesmith/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sue-rieke-smith-b4",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says the Washington County commissioners appointed her to House District 26 on June 6, 2025, and that she assumed office June 9, 2025.",
+      "excerpt": "She assumed office on June 9, 2025.",
+      "source": {
+        "url": "https://ballotpedia.org/Sue_Rieke_Smith",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement not retrieved: HD26 pages truncated in fetch tool",
+    "No public policy positions found in sources used",
+    "No roll-call votes or sponsored bills retrieved: OLIS member page (member/374) shows no bill list to the fetch tool",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+      "result": "nothing relevant (text truncated at p. 43; HD26 statements on pp. 46-47 not reachable)"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf offset 120000",
+      "result": "nothing relevant (unattributed fragment only)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/riekesmith/Pages/default.aspx",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/riekesmith/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/riekesmith/Pages/bills.aspx",
+      "result": "nothing relevant (embedded OLIS frame)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://olis.oregonlegislature.gov/liz/bills/member/374",
+      "result": "nothing relevant (no bill list rendered)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Sue Rieke Smith\" House District 26 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sue Rieke Smith\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (Ballotpedia, Capital Chronicle appointment article)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sue Rieke Smith\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (2023 superintendent news only)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sue Rieke Smith\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Sue_Rieke_Smith",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/2025/06/09/former-superintendent-nurse-from-king-city-tapped-for-vacant-house-district-26-seat/",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Statewide Voters' Pamphlet, Washington County edition (Book12): WebFetch text truncates before the State Representative District 26 statements (index lists pp. 46-47; text cuts off at p. 43). Incumbent per official House page ('Democrat - District 26', 'honor to serve the people of House District 26'); appointed June 2025. Ballot spelling 'Sue R Rieke Smith'. Matches inventory."
+}

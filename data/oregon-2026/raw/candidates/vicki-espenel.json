@@ -1,0 +1,59 @@
+{
+  "id": "vicki-espenel",
+  "name": "Vicki Espenel",
+  "name_variants": [],
+  "race_id": "johnson-city-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://johnsoncityoregon.gov/news.php",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No candidate statement in the county voters' pamphlet",
+    "No campaign website found",
+    "No T3 press coverage found",
+    "No public positions found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (no statement for this candidate)",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://johnsoncityoregon.gov/news.php (city officials list; not a current member)",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "No campaign website found",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Vicki Espenel\" Johnson City 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Vicki Espenel\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "not found"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Vicki Espenel\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Vicki Espenel\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "No public information found beyond the ballot listing. incumbent=false: not on the city officials list."
+}

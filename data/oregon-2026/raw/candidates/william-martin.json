@@ -1,0 +1,151 @@
+{
+  "id": "william-martin",
+  "name": "William E Martin",
+  "name_variants": [
+    "Bill Martin",
+    "William Martin"
+  ],
+  "race_id": "gaston-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/gaston.aspx",
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "william-martin-b1",
+      "topic": "custom:bio",
+      "statement": "The Oregon Blue Book lists Bill Martin as mayor of Gaston.",
+      "excerpt": "Bill Martin",
+      "source": {
+        "url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/gaston.aspx",
+        "publisher": "Oregon Secretary of State (Oregon Blue Book: Gaston)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "william-martin-b2",
+      "topic": "custom:bio",
+      "statement": "Martin's pamphlet statement lists his occupational background as truck driver.",
+      "excerpt": "Truck driver",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "william-martin-b3",
+      "topic": "custom:bio",
+      "statement": "Martin's pamphlet statement says he has been on the city council since 2017.",
+      "excerpt": "I have been on city council since 2017.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "william-martin-b4",
+      "topic": "custom:bio",
+      "statement": "Martin's pamphlet statement says he volunteers 20-30 hours a week for the city.",
+      "excerpt": "I volunteer 20-30 hours a week for the city.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "william-martin-p1",
+      "topic": "public-safety",
+      "statement": "In his voters' pamphlet statement, Martin says he will continue supporting responsible growth and investing in public safety and infrastructure.",
+      "excerpt": "continue supporting responsible growth, investing in public safety and infrastructure,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "william-martin-p2",
+      "topic": "custom:parks-recreation",
+      "statement": "Martin's pamphlet statement says he helps mow the park and runs the work crew.",
+      "excerpt": "I help mow the park and run the work crew when they come out.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No press coverage found",
+    "Pamphlet statement offers few specific policy positions"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/city-gaston-certified-candidates-nov-2026/download?inline",
+      "result": "not read"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/gaston.aspx",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://cityofgaston.com",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign website printed in pamphlet statement",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"William Martin\" OR \"Bill Martin\" Gaston mayor 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Bill Martin\" Gaston Oregon (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Bill Martin\" Gaston Oregon (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Bill Martin\" Gaston Oregon (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Gaston city website (cityofgaston.com) blocks automated fetch. The Oregon Blue Book city page (T1, sos.oregon.gov) lists the mayor as Bill Martin and gives no council roster. Only William Martin has a statement in the Gaston section (WC-14) of the county pamphlet (confirmed by reading the pamphlet with offset 40000). Step 4/5 searches returned only unrelated people or crime stories. Inventory had incumbent=null; Blue Book lists 'Bill Martin' as mayor and his pamphlet lists 'Mayor' and 'City Council' as prior experience, so incumbent=true (Blue Book page is undated; reviewer may confirm). Pamphlet footer spells 'Wiliam Martin'."
+}
