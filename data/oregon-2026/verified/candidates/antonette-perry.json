@@ -1,0 +1,106 @@
+{
+  "id": "antonette-perry",
+  "name": "Antonette (Toni) Perry",
+  "name_variants": [
+    "Toni Perry",
+    "Antonette Perry"
+  ],
+  "race_id": "gladstone-council-pos-1",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.ci.gladstone.or.us/citycouncil/page/meet-your-council",
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "antonette-perry-b1",
+      "topic": "custom:bio",
+      "statement": "Perry's pamphlet statement lists work as a City of Portland emergency communications operator, small business owner and Oregon Judicial Department management assistant.",
+      "excerpt": "Emergency Communications Operator, City of Portland; Small business owner; Management Assistant, Oregon Judicial Department",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "antonette-perry-p1",
+      "topic": "custom:governance",
+      "statement": "In her voters' pamphlet statement, Perry says local government should be independent and nonpartisan.",
+      "excerpt": "I believe local government should be independent and nonpartisan.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "antonette-perry-p2",
+      "topic": "local-business",
+      "statement": "Perry's pamphlet statement says Gladstone does not need to become a destination for big-city tourism.",
+      "excerpt": "I do not believe we need to turn Gladstone into a destination for big-city tourism",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "antonette-perry-p3",
+      "topic": "custom:community-character",
+      "statement": "Perry's pamphlet statement says Gladstone residents value the character of their small community.",
+      "excerpt": "I believe Gladstone residents value the character of our small community.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No T3 press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "see reports/verification/candidates-metro-v5.md"
+  }
+}

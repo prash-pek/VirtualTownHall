@@ -1,0 +1,144 @@
+{
+  "id": "bill-osburn",
+  "name": "Bill Osburn",
+  "name_variants": [],
+  "race_id": "gladstone-mayor",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.ci.gladstone.or.us/citycouncil/page/meet-your-council",
+  "occupation": "Rancher / Semi Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "bill-osburn-b1",
+      "topic": "custom:bio",
+      "statement": "Osburn's pamphlet statement lists his education as a diploma from OCHS / Rex Putnam and a criminal justice AGS from Clackamas Community College.",
+      "excerpt": "OCHS / Rex Putnam, Diploma; CCC, Criminal Justice, AGS",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "verified_at": "2026-10-15",
+        "status": "corrected",
+        "note": "Excerpt shows education only; \"small business owner\" is in the occupational field, not the excerpt. Statement narrowed. (Also expanded unclear abbreviation OCHS cautiously: reworded to \"OCHS / Rex Putnam diploma\".)"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "bill-osburn-p1",
+      "topic": "taxes",
+      "statement": "In his voters' pamphlet statement, Osburn says his top priority is making the city more affordable by lowering the tax burden.",
+      "excerpt": "my top priority is making our city more affordable by lowering your tax burden.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "bill-osburn-p2",
+      "topic": "taxes",
+      "statement": "Osburn's pamphlet statement says any new taxes or fees proposed in the future would be put to a public vote.",
+      "excerpt": "I will also ensure that any new taxes or fees proposed in the future will be put to a vote of the people.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "bill-osburn-p3",
+      "topic": "custom:government-spending",
+      "statement": "Osburn's pamphlet statement says he would review every city department, cut spending he calls wasteful and eliminate unnecessary programs.",
+      "excerpt": "I will immediately review every city department, cut wasteful spending, and eliminate unnecessary programs",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "bill-osburn-p4",
+      "topic": "housing",
+      "statement": "In an OPB questionnaire for his May 2026 county commission run, Osburn said government should not be building houses.",
+      "excerpt": "Government never does anything at a competitive price, so I don’t believe we should be building houses,",
+      "source": {
+        "url": "https://www.opb.org/pdf/Osburn_%20Clackamas%20County%20position%204_1777936797530.pdf",
+        "publisher": "OPB (candidate questionnaire, Clackamas County Commissioner Position 4 primary)",
+        "tier": "T3",
+        "published_at": "2026-05-05",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [
+          "attribution"
+        ],
+        "verified_at": "2026-10-15",
+        "status": "rejected",
+        "note": "Identity not confirmable from T1/T3: OPB (2026-05-05) calls the Clackamas Commission Position 4 candidate \"a rancher\" and gives no residence; the Gladstone pamphlet lists \"Small Business Owner\". Only excluded aggregators (goodparty.org) link the two. Source PDF is also undated. Re-add if a T1/T3 source ties the county candidate to Gladstone."
+      }
+    },
+    {
+      "id": "bill-osburn-p5",
+      "topic": "healthcare",
+      "statement": "In the same OPB questionnaire, Osburn said any ambulance provider should meet expected response times.",
+      "excerpt": "Any company that is providing services like this should meet the expected response times.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Osburn_%20Clackamas%20County%20position%204_1777936797530.pdf",
+        "publisher": "OPB (candidate questionnaire, Clackamas County Commissioner Position 4 primary)",
+        "tier": "T3",
+        "published_at": "2026-05-05",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "rejected",
+        "note": "Same identity problem as p4 (OPB questionnaire for county commission Pos 4 not tied to the Gladstone mayoral candidate by T1/T3 source); PDF undated."
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 1,
+    "rejected": 2,
+    "balance_notes": "see reports/verification/candidates-metro-v5.md"
+  }
+}

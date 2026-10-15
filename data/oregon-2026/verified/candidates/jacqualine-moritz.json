@@ -1,0 +1,69 @@
+{
+  "id": "jacqualine-moritz",
+  "name": "Jacqualine (Jackie) Moritz",
+  "name_variants": [
+    "Jackie Moritz",
+    "Jacqualine Moritz"
+  ],
+  "race_id": "johnson-city-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.johnsoncityoregon.gov/",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "jacqualine-moritz-b1",
+      "topic": "custom:bio",
+      "statement": "The City of Johnson City's officials list names Moritz as a city councilor.",
+      "excerpt": "Jackie Moritz",
+      "source": {
+        "url": "https://johnsoncityoregon.gov/news.php",
+        "publisher": "City of Johnson City",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "jacqualine-moritz-b2",
+      "topic": "custom:bio",
+      "statement": "May 2026 council minutes record Councilor Moritz reporting she was working on a bicycle safety class.",
+      "excerpt": "Jackie Moritz reported that she is working on a bicycle safety class and plans to have it on June 13th.",
+      "source": {
+        "url": "https://www.johnsoncityoregon.gov/documents/Minutes05.May19.2026.pdf",
+        "publisher": "City of Johnson City (Council minutes, May 19, 2026)",
+        "tier": "T1",
+        "published_at": "2026-05-19",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No candidate statement in the county voters' pamphlet",
+    "No campaign website found",
+    "No T3 press coverage found",
+    "No public positions found"
+  ],
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "see reports/verification/candidates-metro-v5.md"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "michael-milch",
+  "name": "Michael Milch",
+  "name_variants": [],
+  "race_id": "gladstone-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.ci.gladstone.or.us/citycouncil/page/meet-your-council",
+  "occupation": "Retired Actuary/Educator",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "michael-milch-b1",
+      "topic": "custom:bio",
+      "statement": "The Oregon Blue Book lists Milch as mayor of Gladstone.",
+      "excerpt": "Mayor: Michael Milch",
+      "source": {
+        "url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/gladstone.aspx",
+        "publisher": "Oregon Secretary of State (Oregon Blue Book)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "michael-milch-b2",
+      "topic": "custom:bio",
+      "statement": "Milch's pamphlet statement lists work as a consulting pension actuary (1989-2008) and church educator/administrator (1975-1989).",
+      "excerpt": "Consulting Pension Actuary (1989-2008); Church Educator/Administrator (1975-1989)",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "michael-milch-b3",
+      "topic": "custom:bio",
+      "statement": "Milch's pamphlet statement lists a mathematics B.A. from U.C. San Diego and a religious education M.A. from Claremont School of Theology.",
+      "excerpt": "U.C. San Diego, Mathematics, B.A; Claremont School of Theology, Religious Education, M.A",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "michael-milch-b4",
+      "topic": "custom:bio",
+      "statement": "Milch's pamphlet statement lists Gladstone service that includes mayor, city councilor, planning commissioner and budget committee chair.",
+      "excerpt": "City of Gladstone: Mayor, City Councilor, Planning Commissioner, Budget Committee Chair,",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [
+          "excerpt_verbatim",
+          "paraphrase_faithful"
+        ],
+        "verified_at": "2026-10-15",
+        "status": "corrected",
+        "note": "Trailing period absent on page (text continues with further roles); excerpt trimmed to the comma and statement says \"includes\" since the page lists additional roles."
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "michael-milch-p1",
+      "topic": "local-business",
+      "statement": "In his voters' pamphlet statement, Milch says the city continues to attract new businesses to develop local destinations.",
+      "excerpt": "Beyond these civic investments, we continue to attract new businesses to develop local destinations",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "michael-milch-p2",
+      "topic": "custom:record",
+      "statement": "Milch's pamphlet statement says much has been accomplished in the four years since he was elected mayor.",
+      "excerpt": "Much has been accomplished in the four years since I was elected Mayor of Gladstone.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 T3 coverage found (KOIN 'Mayor Monday' result is a video; KOIN mayors-coalition article could not be fetched)",
+    "Pamphlet excerpts available describe record more than specific policy positions"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "see reports/verification/candidates-metro-v5.md"
+  }
+}
