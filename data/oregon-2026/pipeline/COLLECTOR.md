@@ -21,7 +21,7 @@ Run **the same steps for every candidate in a race** (and both sides of a measur
 Candidates:
 1. **Voters' pamphlet statement** (T1). If you were given a pamphlet extract folder (`pamphlet_extract.py` output), read
    `<folder>/<candidate-id>.txt` and quote from it, citing its `source_url`; don't re-fetch the PDF. Otherwise: Multnomah county/local statements are linked one per candidate from the
-   Military & Overseas Online Voters' Guide (multco.us); full pamphlet PDFs truncate in WebFetch at ~120k chars. Statewide/federal/legislative/judicial: the SOS statewide pamphlet
+   Military & Overseas Online Voters' Guide (multco.us); full pamphlet PDFs truncate in WebFetch at ~120k chars; before logging a statement as unreadable, retry the PDF with offsets (e.g. 60000, 120000, 180000) until the candidate's page or the end of the file is reached. Statewide/federal/legislative/judicial: the SOS statewide pamphlet
    for the candidate's county edition (sos.oregon.gov/elections/Voters-Pamphlet). Local: the county pamphlet
    (Multnomah's is joint with the SOS book; Washington and Clackamas publish their own).
 2. **Official office page** (T1) if the candidate holds or held the office or another public office
