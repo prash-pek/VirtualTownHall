@@ -1,6 +1,12 @@
 import { describe, expect, it } from "vitest";
 
-import { matchJurisdictions, normalizeName, parseCensusResponse, type JurisdictionRef } from "@/lib/ballot/districts";
+import {
+  matchJurisdictions,
+  mentionsOregon,
+  normalizeName,
+  parseCensusResponse,
+  type JurisdictionRef,
+} from "@/lib/ballot/districts";
 import { sanitizeBallot } from "@/lib/ballot/types";
 
 const census = {
@@ -79,5 +85,14 @@ describe("sanitizeBallot", () => {
     expect(sanitizeBallot(["race:a", "measure:b", "race:a", "bogus", 5, "race:Bad"])).toEqual(["race:a", "measure:b"]);
     expect(sanitizeBallot("race:a")).toEqual([]);
     expect(sanitizeBallot(["race:a", "race:b", "race:c"], 2)).toEqual(["race:a", "race:b"]);
+  });
+});
+
+describe("mentionsOregon", () => {
+  it("detects a state or ZIP so bare street addresses get Oregon added", () => {
+    expect(mentionsOregon("5055 north Greeley avenue")).toBe(false);
+    expect(mentionsOregon("5055 N Greeley Ave, Portland, OR")).toBe(true);
+    expect(mentionsOregon("5055 N Greeley Ave Portland Oregon")).toBe(true);
+    expect(mentionsOregon("5055 N Greeley Ave 97217")).toBe(true);
   });
 });
