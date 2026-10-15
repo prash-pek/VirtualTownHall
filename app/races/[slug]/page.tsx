@@ -1,39 +1,91 @@
-import Link from "next/link";
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
+import { PreviewBanner, Sourced } from "@/components/ballot/sourced";
+import { WalkPosition, YourChoice } from "@/components/ballot/walk-through";
+import { getSession } from "@/lib/auth/session";
+import { hasRole } from "@/lib/auth/roles";
 import { getCatalog } from "@/lib/ballot/catalog";
+import { getRaceProfiles, type CandidateProfile } from "@/lib/ballot/content";
+import { itemTitle } from "@/lib/ballot/types";
 
 export const dynamic = "force-dynamic";
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const race = (await getCatalog()).races.find((r) => r.slug === slug);
+  return { title: race ? `${itemTitle(race)} · TownHall AI` : "TownHall AI" };
+}
 
 export default async function RacePage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const race = (await getCatalog()).races.find((r) => r.slug === slug);
   if (!race) notFound();
+  const preview = hasRole(await getSession(), "admin");
+  const profiles = await getRaceProfiles(slug, preview);
+
   return (
-    <main className="mx-auto flex max-w-3xl flex-col gap-6 px-4 py-10">
-      <Link href="/ballot" className="text-sm hover:underline">
-        ← My ballot
-      </Link>
+    <main className="page">
+      <WalkPosition itemKey={race.key} />
       <div>
-        <h1 className="text-3xl font-semibold tracking-tight">
-          {race.office}
-          {race.districtLabel ? `, ${race.districtLabel}` : ""}
-        </h1>
-        <p className="mt-1 text-slate-600 dark:text-slate-400">{race.jurisdiction}</p>
+        <p className="eyebrow">{race.jurisdiction}</p>
+        <h1 className="title mt-1">{itemTitle(race)}</h1>
+        <div className="title-rule" />
       </div>
-      <ul className="flex flex-col gap-2">
-        {race.candidates.map((c) => (
-          <li key={c.name} className="rounded-md border border-slate-200 p-3 dark:border-slate-800">
-            <p className="font-medium">{c.name}</p>
-            <p className="text-sm text-slate-600 dark:text-slate-400">
-              {[c.party, c.incumbent ? "Incumbent" : null].filter(Boolean).join(" · ") || "No party listed"}
-            </p>
-          </li>
+      {preview && profiles.some((p) => p.draft) && <PreviewBanner />}
+      <ul className="grid gap-4">
+        {profiles.map((c) => (
+          <CandidateCard key={c.slug} c={c} />
         ))}
       </ul>
-      <p className="text-sm text-slate-600 dark:text-slate-400">
-        Names and parties are from official filings. Sourced candidate profiles appear here once they pass review.
+      <p className="note">
+        Candidates are listed in the order the filing source lists them. Names and parties are from official filings.
       </p>
+      <YourChoice itemKey={race.key} options={race.candidates.map((c) => ({ value: c.slug, label: c.name }))} />
     </main>
+  );
+}
+
+function CandidateCard({ c }: { c: CandidateProfile }) {
+  const intro = c.bio[0];
+  const details = [...c.bio.slice(1), ...c.positions, ...c.votingRecord];
+  return (
+    <li className="card flex flex-col gap-3">
+      <div className="flex flex-wrap items-start justify-between gap-2">
+        <div>
+          <h2 className="font-display text-xl font-semibold">{c.name}</h2>
+          <p className="note">
+            {[c.party ?? "No party listed", c.incumbent ? "Incumbent" : null, c.occupation].filter(Boolean).join(" · ")}
+          </p>
+        </div>
+        <span className="eyebrow border border-line px-2 py-0.5">
+          {c.claimed ? "Claimed and verified" : "Public record only"}
+        </span>
+      </div>
+      {intro ? (
+        <Sourced item={intro} />
+      ) : (
+        <p className="note">We haven&apos;t published a sourced profile for this candidate yet.</p>
+      )}
+      {details.length > 0 && (
+        <details>
+          <summary className="link cursor-pointer text-sm">
+            Positions and record ({c.positions.length + c.votingRecord.length}), more background ({c.bio.length - 1})
+          </summary>
+          <ul className="mt-3 flex flex-col gap-3">
+            {details.map((i, n) => (
+              <li key={n}>
+                <Sourced item={i} />
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
+      {c.websiteUrl && (
+        <a href={c.websiteUrl} className="link text-sm" target="_blank" rel="noopener noreferrer">
+          Campaign website
+        </a>
+      )}
+    </li>
   );
 }

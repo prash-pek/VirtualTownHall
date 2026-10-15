@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
-import { defaultState, isStateCode } from "@/lib/ballot/states";
 
 import { BallotBuilder } from "@/components/ballot/ballot-builder";
-import { getCatalog } from "@/lib/ballot/catalog";
 import { getSession } from "@/lib/auth/session";
+import { getCatalog } from "@/lib/ballot/catalog";
+import { defaultState, isStateCode } from "@/lib/ballot/states";
 
 export const dynamic = "force-dynamic";
-export const metadata: Metadata = { title: "My ballot · TownHall AI" };
+export const metadata: Metadata = { title: "Your ballot · TownHall AI" };
 
 export default async function BallotPage({
   searchParams,
@@ -15,12 +15,14 @@ export default async function BallotPage({
 }) {
   const [catalog, session, { address, state }] = await Promise.all([getCatalog(), getSession(), searchParams]);
   return (
-    <main className="mx-auto flex max-w-3xl flex-col gap-6 px-4 py-10">
+    <main className="page">
       <div>
-        <h1 className="text-3xl font-semibold tracking-tight">My ballot</h1>
-        <p className="mt-2 text-slate-700 dark:text-slate-300">
-          Choose the races and measures you want to explore. Your address can suggest a starting list. Add or remove
-          anything; you decide what&apos;s on your page.
+        <p className="eyebrow">Step 1 of 3</p>
+        <h1 className="title mt-1">Check your ballot</h1>
+        <div className="title-rule" />
+        <p className="mt-3 text-muted">
+          Make this list match your paper ballot. Then we&apos;ll go through it one item at a time, and you&apos;ll end
+          with a summary to fill it out from.
         </p>
       </div>
       <BallotBuilder

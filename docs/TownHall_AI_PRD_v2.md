@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Version** | 2.1 |
-| **Date** | October 15, 2026 (2.1: voter-curated My Ballot) |
+| **Version** | 2.2 |
+| **Date** | October 15, 2026 (2.1: voter-curated My Ballot; 2.2: guided walk-through, Reflection score and Alignment names) |
 | **Supersedes** | PRD v1.0 (Feb 28, 2026) — v1 remains the reference for anything not changed here |
 | **Target** | November 3, 2026 US general (midterm) election, one launch region |
 | **Launch region** | Oregon — every contest on any Oregon ballot; Portland metro (Multnomah, Washington, Clackamas, Metro, City of Portland) is the priority focus |
@@ -18,8 +18,8 @@
 |---|---|---|
 | Scope | Candidates only | Candidates **and ballot measures** (propositions, referendums, bond/levy questions) |
 | Candidate content | Candidates upload their own materials | Same platform model, but **first round is seeded from public sources**; candidates can later claim their profile and add their own materials |
-| Alignment score | Uploaded context vs. public record | Same definition. Public-seeded profiles score **100% by construction**; claimed profiles are re-scored and will typically land below 100% |
-| Voter decision help | Chat with candidate personas | Adds a **Values Match** (voter priorities vs. candidate/measure positions) and a **neutral issue explainer** chat for measures |
+| Reflection score (was "Alignment score") | Uploaded context vs. public record | Same definition. Public-seeded profiles score **100% by construction**; claimed profiles are re-scored and will typically land below 100% |
+| Voter decision help | Chat with candidate personas | Adds **Alignment** (was "Values Match": voter priorities vs. candidate/measure positions) and a **neutral issue explainer** chat for measures |
 | Geography | Seeded ZIP list per candidate | Real elections, races and jurisdictions for the launch region |
 | Security | MVP-grade | Hardened for public launch (see §8) |
 
@@ -38,19 +38,19 @@ public_seed  ──(candidate claims + verified)──▶  claimed
 - **Every context item stores its source URL and retrieval date.** No unsourced claims.
 - **Every candidate in a race is seeded by the same pipeline at the same time** — equal treatment is a neutrality requirement.
 - Seeded content is reviewed by a platform admin before it goes live.
-- **Alignment score = 100%**, displayed as "100% · Sourced entirely from public record". It is not computed by a model; it is true by definition because the profile *is* the public record.
+- **Reflection score**: not shown as a number. The profile shows "Public record only", because a profile built from the record reflects it by construction (it would always read 100%).
 - **AI voice: third person.** "Based on public statements, Jane Doe supports…" with citations. The AI does not speak *as* a real person who has not consented to it.
-- Profile shows an "Unclaimed — sourced from public record" badge and a "Are you this candidate? Claim this profile" link.
+- Profile shows a "Public record only" badge and a "Are you this candidate? Claim this profile" link.
 
 ### 2.2 Claimed profiles (`profile_source = candidate`)
 - Candidate proves identity, admin approves, candidate takes over the profile.
 - Candidate gets the full v1 admin panel: uploads, manual context, persona config, blocked topics, kill switch, donation link, analytics.
 - Seeded public-record items stay in the audit trail as the baseline; the candidate may deactivate them, and that is visible in the public audit view.
-- **AI voice: first-person persona** with the v1 persistent disclaimer.
-- **Alignment score is recomputed** on every context change by comparing the candidate's active context against the public record. Because candidates add framing, new positions or omit things, this will typically be < 100%. Per-topic discrepancies are shown.
+- **AI voice: the candidate chooses** first-person persona (with the v1 persistent disclaimer) or third person.
+- **Reflection score is recomputed** on every context change by comparing the candidate's active context against the public record. Because candidates add framing, new positions or omit things, this will typically be < 100%. Per-topic discrepancies are shown.
 
-### 2.3 Alignment score rules
-- Measures **profile consistency with the public record**. It is **never** labelled or presented as a match with the voter.
+### 2.3 Reflection score rules
+- Measures how faithfully a profile **reflects the candidate's own public record**. It is not a fact-check of whether their statements are true. It is **never** labelled or presented as a match with the voter.
 - If public-record retrieval fails, the score is **not computed** (shown as "Pending"), rather than falling back to model general knowledge.
 - Candidate-supplied text is treated as data in the scoring prompt (delimited, not instructions).
 
@@ -72,13 +72,13 @@ Primary sources in priority order: official state/county voter guide → legisla
 
 ---
 
-## 4. Values Match (new)
+## 4. Alignment (new; was "Values Match")
 
-- Voter answers a short set of priority questions (e.g. 8–12 statements on a 5-point agree/disagree scale plus importance weighting), drawn from the predefined topic taxonomy.
+- The optional **evaluation**: one statement per screen with a progress bar, about 10–15 statements generated from **this voter's own ballot items** (where its candidates differ, and what each of its measures changes). Each gets agree/disagree (5 points) and "how much does this matter to you" (low, medium, high). Plain statements only, never a left/right label.
 - Each candidate's positions and each measure's YES/NO outcomes are mapped to the same statements, with citations, by the seeding pipeline and admin-reviewed.
 - Output: per race, how closely each candidate matches the voter's stated priorities; per measure, which side aligns better with those priorities. **Always shows the reasoning and sources**, per statement.
 - Framed as "how these options compare to the priorities you entered", never "you should vote for".
-- Values Match is a distinct concept and UI from the Alignment Score.
+- Alignment is a distinct concept and UI from the Reflection score.
 - Answers are stored only for logged-in voters; anonymous voters' answers stay in the browser.
 
 ---
@@ -92,11 +92,15 @@ Primary sources in priority order: official state/county voter guide → legisla
    - The voter can browse or search every Oregon race and measure and add any of them, and remove anything.
    - **We are not the arbiters of what someone can vote on.** No eligibility checks and no limits on what a voter follows. We always link to the official Oregon "My Vote" page for the authoritative ballot.
    - The address is used only for the lookup and is never stored. The list is kept in the browser, and saved to the voter's account when signed in.
-3. Optional Values Match quiz → match indicators appear on the ballot.
-4. Race → candidate cards (badge: Claimed & Verified / Unclaimed public record; alignment score) → profile → chat.
-5. Measure → summary, YES/NO effects, fiscal impact, arguments, sources → Issue Explainer chat.
-6. Conversation summary at end (v1).
-7. Key dates and official links (registration deadline, early voting, polling place lookup on the official state site).
+3. Optional **evaluation** (§4). "Skip" goes straight to the walk-through without Alignment.
+4. **Walk through each item**, one per screen in ballot order, with "Item 3 of 14" and Previous/Next:
+   - Race: what the office does, then one equal-sized card per candidate in ballot order (badge, Reflection score or "Public record only", party, short bio, the voter's Alignment with reasons and sources).
+   - Measure: summary, what YES and NO do side by side, fiscal impact, arguments for and against with sources; a missing side is stated plainly.
+   - A chat panel on the item page itself (candidate chat or the Issue Explainer, §3.2), with starter questions from the voter's evaluation answers.
+   - **"Your choice for this item"**: the candidate, YES/NO, Undecided or Skip. The voter picks; nothing is preselected.
+5. **Ballot summary**: one printable page in ballot order to fill the paper ballot from, with each choice (or "Undecided", with "Go back"), Alignment, a short chat wrap-up, and return deadlines and official links.
+6. Choices stay **only in the browser** unless the voter opts in to saving them to their account.
+7. There is no "issues" navigation layer: the ballot is races and measures only. Topic tags exist only to group evaluation statements and chat sources.
 
 ---
 
@@ -153,7 +157,8 @@ Changed:
 
 - Equal treatment: every candidate in a race and both sides of every measure go through the same pipeline and the same UI.
 - Every factual claim shown or said by the AI is traceable to a cited source.
-- No vote recommendations anywhere in the product.
+- No vote recommendations anywhere in the product, and a voter's choice is never preselected.
+- No red or blue in the palette; YES/NO and parties are never color-coded.
 - Persistent AI disclaimers (v1 §10) on candidate chats; explainer disclaimer on measure chats.
 - Unclaimed profiles clearly labelled; claim path available to every candidate.
 - Link to official election sources for deadlines and polling places; we don't host authoritative logistics data ourselves.

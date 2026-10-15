@@ -32,6 +32,7 @@ vercel link                     # project: townhall-ai-v2
 vercel env pull .env.local      # DATABASE_URL, Clerk and Upstash keys
 npm run db:migrate
 npm run seed:inventory          # imports data/oregon-2026/inventory.json as draft
+npm run seed:verified           # imports data/oregon-2026/verified/** (sourced items, arguments) as draft
 npm run dev
 ```
 
@@ -44,7 +45,7 @@ Any Postgres 16+ with PostGIS works locally, for example `docker run -e POSTGRES
 ## Database
 
 - Edit `lib/db/schema.ts`, then `npm run db:generate` and commit the new file in `drizzle/`.
-- On Vercel, `vercel-build` runs `scripts/predeploy.ts` first: for production deployments only (the `main` branch), it applies migrations and re-runs the inventory import against Neon. Feature-branch previews never migrate the shared database.
+- On Vercel, `vercel-build` runs `scripts/predeploy.ts` first: for production deployments only (the `main` branch), it applies migrations and re-runs the inventory and verified-content imports against Neon. Feature-branch previews never migrate the shared database.
 - The Neon integration is connected with the prefix `STORAGE1`, so the app reads `DATABASE_URL` or `STORAGE1_DATABASE_URL` (see `lib/env.ts`).
 - `audit_log` is append-only, enforced by a trigger.
 - Seed imports are idempotent upserts by slug. They never change the `status` of an existing row, so re-running after admin review is safe.

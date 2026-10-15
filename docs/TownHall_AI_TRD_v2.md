@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Version** | 2.1 |
-| **Date** | October 15, 2026 (2.1: voter-curated My ballot, as-built foundation details) |
+| **Version** | 2.2 |
+| **Date** | October 15, 2026 (2.1: voter-curated My ballot, as-built foundation details; 2.2: walk-through, summary, verified-content import, Reflection score and Alignment names) |
 | **Implements** | [PRD v2](TownHall_AI_PRD_v2.md) |
 | **Data policy** | [data-sourcing-policy.md](data-sourcing-policy.md) |
 | **Replaces** | v1 TRD and the v1 codebase (Vite SPA + Express + SQLite) |
@@ -144,6 +144,13 @@ The voter owns their ballot list. An address gives a suggested starting point; t
 
 No PostGIS boundary layers are needed for suggestions. `jurisdictions.boundary` stays in the schema for later use (e.g. council-district maps). The address is used for the lookup and discarded; it is not logged or stored. The lookup is rate-limited per IP (`ballotLookupPerIp`, 30/hour, fails closed).
 
+
+### 4.1 Walk-through and summary (as built, 2026-10-15)
+- **Ballot order**: races sort by level (federal, state, state senate, state house, county, county-wide other such as courts, metro, city, school, special district), keeping inventory order within a level; then measures by level and number (`lib/ballot/order.ts`). The saved list is always kept in that order.
+- **Choices**: `townhall:choices` in browser storage, a map of item key → candidate slug, `yes`, `no`, `undecided` or `skip`. Nothing is preselected. No server copy; an opt-in `profiles.ballot_choices` comes later.
+- **Content visibility**: item pages show only `published` candidates, items, measures and arguments. Admins see drafts too, marked "Not yet reviewed" (`lib/ballot/content.ts`).
+- **Verified-content import**: `npm run seed:verified` loads `data/oregon-2026/verified/**` into `sources`, `candidate_items`, `measure_arguments` and `verifications` (verifier = agent), as `draft`. It is idempotent: sources are keyed by canonical URL, and items and arguments by content hash (`measure_arguments` gained `content_hash` and `topic`). Rejected items are skipped. `candidates.gaps` and `ballot_measures.gaps` keep the collector's gap notes. Runs in `predeploy` after the inventory import.
+- **Look**: cream `#FAFAF7`, charcoal `#1F2328`, gold `#D97706`, olive `#4D5B2F`, amber for warnings; Playfair Display and DM Sans (self-hosted via @fontsource). No red or blue.
 ---
 
 ## 5. AI architecture
@@ -206,17 +213,22 @@ inventory (T1 only) → collect (per candidate / measure) → verify (independen
 
 ---
 
-## 7. Alignment score
+## 7. Reflection score (was "Alignment score")
+
+Stored in `alignment_scores` (table name kept). Voter-facing name: **Reflection score**, how faithfully a profile reflects the candidate's own public record.
+
 
 - `public_seed` profile: insert `alignment_scores{score: 100, basis: public_seed_identity, status: ok}`. No model call.
 - Claimed profile: on active-context change (debounced 10 min), the workflow loads the public-record corpus (the original verified seed items + fresh collection), runs `scoreAlignment`, and stores score + per-topic discrepancies. On retrieval failure: `status: pending`, and the UI shows "Pending".
-- UI label: "Alignment with public record". Tooltip explains the 100% case. Never shown as a match with the voter.
+- UI: public-seed profiles show "Public record only" instead of a number; claimed profiles show the Reflection score. Never shown as a match with the voter.
 
-## 8. Values Match
+## 8. Alignment (was "Values Match")
+
+- Evaluation statements are generated from the voter's own ballot items (where its candidates differ, what each measure changes), about 10–15, with per-statement importance (low/medium/high → weight). Only reviewed and published statements and mappings are used. No ideology labels.
 
 - Deterministic scoring in code (no model at request time):
   `match(subject) = Σ_s weight_s · (1 − |answer_s − stance_s| / 4) / Σ_s weight_s` over statements where both exist, with coverage (`statements_covered / statements_answered`) shown beside it.
-- Measures: compute for the YES and NO sides; display "Your priorities align more with YES/NO", with per-statement reasoning and sources.
+- Measures: compute for the YES and NO sides; display "Your answers line up more with YES/NO", with per-statement reasoning and sources.
 - Low coverage (< 50%) displays "Not enough public information" instead of a number.
 
 ---
@@ -226,7 +238,7 @@ inventory (T1 only) → collect (per candidate / measure) → verify (independen
 Voter (anonymous allowed unless noted):
 - `POST /api/ballot/suggest` {address} → {matchedAddress, suggested[], nearby[]} ballot keys (rate-limited per IP; address not stored)
 - `GET` / `PUT /api/me/ballot` (signed-in) → the voter's saved ballot keys
-- Pages: `/ballot` (My ballot builder, `?address=` runs a lookup), `/races/:slug`, `/measures/:slug`
+- Pages: `/` (Start: address and state), `/ballot` (check your ballot; `?address=&state=` runs a lookup), `/races/:slug` and `/measures/:slug` (walk-through item pages with "Item N of M", Previous/Next and "Your choice"), `/ballot/summary` (printable summary)
 - `GET /api/races/:slug`, `/api/candidates/:slug`, `/api/measures/:slug`
 - `POST /api/conversations` {subject_type, subject_id} → owner-bound conversation
 - `POST /api/conversations/:id/messages` → SSE stream (owner check, rate limit, BotID)
@@ -278,7 +290,7 @@ All inputs are zod-validated. Errors use `{error: {code, message}}`.
 2. **Ballot core**: elections/jurisdictions/races/measures, Oregon seed import, voter-curated My ballot (Census-geocoder suggestions, browse and add, saved list), race and measure pages.
 3. **Content & review**: sources/verifications, admin review queue, publish flow, audit chain.
 4. **Conversations**: classifyTurn, candidateChat (both voices), measureExplainer, summaries, rate limits, BotID.
-5. **Scores**: alignment (identity + computed), values statements, mappings, Values Match UI.
+5. **Scores**: Reflection score (identity + computed), evaluation statements, mappings, Alignment UI. Consider running Alignment alongside phase 4, since the evaluation is step 3 of the voter flow.
 6. **Candidate platform**: claim flow, uploads, persona, blocked topics, pause, analytics.
 7. **Hardening**: eval suite green, e2e green, load test chat, security headers, launch checklist.
 
@@ -286,5 +298,5 @@ All inputs are zod-validated. Errors use `{error: {code, message}}`.
 
 1. ~~Boundary data coverage for school/special districts~~ Resolved 2026-10-15: school districts come from Census layers statewide; special districts are offered as "may apply" in the voter's county, and voters add what they want.
 2. Retrieval: is Postgres full-text enough for claimed candidates with large uploads, or add pgvector embeddings in phase 6?
-3. Should anonymous voters' Values Match answers be storable server-side via an opt-in anonymous profile?
+3. Should anonymous voters' evaluation answers be storable server-side via an opt-in anonymous profile?
 4. Spend cap level and alert channel.
