@@ -1,0 +1,90 @@
+{
+  "id": "myrna-munoz",
+  "name": "Myrna A Munoz",
+  "race_id": "or-senate-15",
+  "party": "Democrat",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [
+    {
+      "id": "myrna-munoz-p1",
+      "topic": "taxes",
+      "statement": "In a press release quoted by OPB (May 2026), Munoz said data center tax breaks benefit large corporations while working families absorb the cost.",
+      "excerpt": "They are about giving massive, long-term tax breaks to some of the wealthiest corporations in the world",
+      "source": {
+        "url": "https://www.opb.org/article/2026/05/29/oregon-primary-upset-hillsboro-senate-politics/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-05-29",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
+    "No public position found on housing, education, health care, transportation",
+    "Did not respond to Oregon Capital Chronicle questionnaire",
+    "No campaign website confirmed"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "pending script extract"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no office page: not a current office holder per inventory",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Myrna A Munoz\" Oregon Senate 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Myrna A Munoz\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Myrna A Munoz\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Myrna A Munoz\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/05/29/oregon-primary-upset-hillsboro-senate-politics/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-15/",
+      "result": "nothing relevant (did not respond to questionnaire)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/2026/02/16/education-consultant-sister-of-oregon-house-representative-will-challenge-hillsboro-democrat/",
+      "result": "blocked (fetch error)"
+    }
+  ],
+  "collection_notes": "Inventory consistent. Ballot name 'Myrna A Munoz'; press use 'Myrna Mu\u00f1oz' (name_variants). Pamphlet: Washington Book12 p.39 per index (not read for content). Won the May 2026 Democratic primary over incumbent Sen. Janeen Sollman per WW/OPB headlines; not incumbent.",
+  "name_variants": [
+    "Myrna Mu\u00f1oz",
+    "Myrna Munoz"
+  ]
+}

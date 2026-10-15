@@ -1,0 +1,82 @@
+{
+  "id": "rachel-armitage",
+  "name": "Rachel Armitage",
+  "race_id": "or-senate-16",
+  "party": "Democrat",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "rachel-armitage-b1",
+      "topic": "custom:background",
+      "statement": "Oregon Capital Chronicle's 2026 primary voter guide says Armitage briefly served as an appointed state senator after Sen. Betsy Johnson resigned.",
+      "excerpt": "briefly served as an appointed state senator",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd16/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
+    "No sourced policy positions outside the pamphlet",
+    "Did not respond to Oregon Capital Chronicle questionnaire",
+    "No official page confirming current or past Senate service fetched",
+    "No campaign website confirmed"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "pending script extract"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no office page: not a current office holder per inventory",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Rachel Armitage\" Oregon Senate 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Rachel Armitage\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Rachel Armitage\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Rachel Armitage\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "nothing relevant (2022-era Pamplin items only)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd16/",
+      "result": "used (did not respond to questionnaire)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/2026/02/27/former-democratic-state-senator-runs-for-swing-coastal-oregon-senate-seat/",
+      "result": "blocked (fetch error)"
+    }
+  ],
+  "collection_notes": "Inventory consistent (incumbent false). Armitage was appointed to SD16 in 2022 and is described as a former senator; no 2026 official source fetched, so incumbent left null. Pamphlet Book13 p.41 (pending)."
+}

@@ -1,0 +1,101 @@
+{
+  "id": "courtney-bangs",
+  "name": "Courtney Bangs",
+  "race_id": "or-senate-16",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": "Clatsop County commissioner",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "courtney-bangs-b1",
+      "topic": "custom:background",
+      "statement": "Oregon Capital Chronicle's 2026 primary voter guide describes Bangs as a Clatsop County commissioner.",
+      "excerpt": "Courtney Bangs is a Clatsop County commissioner endorsed by Weber.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-sd16/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "courtney-bangs-p1",
+      "topic": "economy",
+      "statement": "In a July 2025 Daily Astorian article announcing her campaign, Bangs said rural communities have given a large environmental commitment on behalf of the state.",
+      "excerpt": "I feel like our communities have given a giant environmental commitment for the entire state",
+      "source": {
+        "url": "https://dailyastorian.com/2025/07/09/county-commissioner-announces-campaign-for-state-senate",
+        "publisher": "The Daily Astorian",
+        "tier": "T3",
+        "published_at": "2025-07-09",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
+    "No public position found on housing, health care, taxes beyond pamphlet",
+    "Did not respond to Oregon Capital Chronicle questionnaire",
+    "Clatsop County official page not fetched",
+    "No campaign website confirmed"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "pending script extract"
+    },
+    {
+      "step": "2",
+      "query_or_url": "Clatsop County commissioner: no county roster page fetched",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Courtney Bangs\" Oregon Senate 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Courtney Bangs\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Courtney Bangs\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Courtney Bangs\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-sd16/",
+      "result": "used (did not respond to questionnaire)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://dailyastorian.com/2025/07/09/county-commissioner-announces-campaign-for-state-senate",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/2026/10/09/former-state-senator-and-clatsop-county-commissioner-make-their-pitch-to-north-coast-voters/",
+      "result": "blocked (fetch error)"
+    }
+  ],
+  "collection_notes": "Inventory consistent. Pamphlet Multnomah Book13 p.41 (SD16 appears in Multnomah/Washington books; pending script extract). Oct 9 2026 CC article on SD16 could not be fetched."
+}

@@ -1,0 +1,103 @@
+{
+  "id": "rob-wagner",
+  "name": "Rob Wagner",
+  "race_id": "or-senate-19",
+  "party": "Democrat",
+  "incumbent": true,
+  "occupation": "Oregon Senate President",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "rob-wagner-b1",
+      "topic": "custom:office",
+      "statement": "His official page presents Wagner as Senate President and Senator for District 19.",
+      "excerpt": "I am proud to have the honor of serving as Senate President and to serve as the Senator for District 19",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/wagner/Pages/default.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "rob-wagner-p1",
+      "topic": "economy",
+      "statement": "In a January 2026 Portland Tribune interview, Wagner said the state budget shortfall means cuts will need to happen.",
+      "excerpt": "Cuts are going to need to happen,",
+      "source": {
+        "url": "https://portlandtribune.com/2026/01/23/rob-wagner-talk-state-budgeting-challenges-transportation-funding/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-01-23",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p2",
+      "topic": "transportation",
+      "statement": "In the same interview, Wagner said transportation funding needs a bipartisan conversation about long-term solutions.",
+      "excerpt": "What we need is a bipartisan conversation on long-term funding solutions.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/01/23/rob-wagner-talk-state-budgeting-challenges-transportation-funding/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-01-23",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
+    "No sponsored-bill or roll-call items collected (phase 1: official page lists none)",
+    "No sourced positions on housing, education, environment beyond pamphlet"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "pending script extract"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/wagner/Pages/default.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Rob Wagner\" Oregon Senate 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Rob Wagner\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Rob Wagner\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Rob Wagner\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2026/01/23/rob-wagner-talk-state-budgeting-challenges-transportation-funding/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Inventory consistent (incumbent true). Official page does not state party. Pamphlet Book13 p.43 / Book14 p.41 (pending).",
+  "incumbent_source_url": "https://www.oregonlegislature.gov/wagner/Pages/default.aspx"
+}

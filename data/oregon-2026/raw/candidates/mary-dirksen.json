@@ -1,0 +1,56 @@
+{
+  "id": "mary-dirksen",
+  "name": "Mary Dirksen",
+  "race_id": "or-senate-19",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
+    "No public information found outside the pamphlet; Ballotpedia profile not fetched",
+    "No campaign website confirmed"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "pending script extract"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no office page: not a current office holder per inventory",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Mary Dirksen\" Oregon Senate 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mary Dirksen\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "nothing relevant (Ballotpedia profile and WW list only; no usable content fetched)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mary Dirksen\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mary Dirksen\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "nothing relevant (search returned unrelated 'Dirksen' Metro Council items)"
+    }
+  ],
+  "collection_notes": "Inventory consistent. Pamphlet Book13 p.43 / Book14 p.41 (pending)."
+}

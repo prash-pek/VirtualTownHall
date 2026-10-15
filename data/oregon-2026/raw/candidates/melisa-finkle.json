@@ -1,0 +1,90 @@
+{
+  "id": "melisa-finkle",
+  "name": "Melisa Finkle",
+  "race_id": "or-senate-16",
+  "party": "Independent",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "melisa-finkle-b1",
+      "topic": "custom:background",
+      "statement": "A campaign-bylined Tillamook Headlight Herald article describes Finkle as a ten-year investigator with the State of Oregon.",
+      "excerpt": "a ten year investigator with the State of Oregon",
+      "source": {
+        "url": "https://www.tillamookheadlightherald.com/news/independent-candidate-takes-unconventional-path-in-oregon-senate-district-16/article_e01d8c82-438a-4047-96c9-100afb6533e4.html",
+        "publisher": "Tillamook Headlight Herald (byline: Melisa Finkle for District 16)",
+        "tier": "T2",
+        "published_at": "2026-08-28",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "melisa-finkle-p1",
+      "topic": "infrastructure",
+      "statement": "A campaign-bylined article says Finkle hopes to develop bills on rural infrastructure and emergency preparedness.",
+      "excerpt": "rural infrastructure and emergency preparedness",
+      "source": {
+        "url": "https://www.tillamookheadlightherald.com/news/independent-candidate-takes-unconventional-path-in-oregon-senate-district-16/article_e01d8c82-438a-4047-96c9-100afb6533e4.html",
+        "publisher": "Tillamook Headlight Herald (byline: Melisa Finkle for District 16)",
+        "tier": "T2",
+        "published_at": "2026-08-28",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
+    "No independent news coverage with direct quotes found",
+    "Positions on housing, taxes, health care not found outside the pamphlet",
+    "No campaign website confirmed"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "pending script extract"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no office page: not a current office holder per inventory",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Melisa Finkle\" Oregon Senate 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Melisa Finkle\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "nothing relevant (only CC commentary on independents mention)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Melisa Finkle\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Melisa Finkle\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "nothing relevant (commentary only)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.tillamookheadlightherald.com/news/independent-candidate-takes-unconventional-path-in-oregon-senate-district-16/article_e01d8c82-438a-4047-96c9-100afb6533e4.html",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Inventory consistent. The only sourced article is campaign-bylined, so tiered T2. Pamphlet Book13 p.41 (pending)."
+}

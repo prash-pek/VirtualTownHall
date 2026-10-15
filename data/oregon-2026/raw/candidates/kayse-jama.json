@@ -1,0 +1,103 @@
+{
+  "id": "kayse-jama",
+  "name": "Kayse Jama",
+  "race_id": "or-senate-24",
+  "party": "Democrat",
+  "incumbent": true,
+  "occupation": "State Senator",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "kayse-jama-b1",
+      "topic": "custom:background",
+      "statement": "Her official page describes Jama as a former refugee, Black Muslim and Somali-American serving in the Senate.",
+      "excerpt": "It is a lifetime honor of mine to be the first former refugee, Black Muslim and Somali-American to serve",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/Jama/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "kayse-jama-b2",
+      "topic": "custom:office",
+      "statement": "Her official page lists Jama as Chair of the Senate Rules Committee.",
+      "excerpt": "Chair of Senate Rules Committee",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/Jama/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "kayse-jama-p1",
+      "topic": "economy",
+      "statement": "In an October 2026 OPB report, Jama said affordability and economic opportunity are crucial to her constituents and all Oregonians.",
+      "excerpt": "Affordability and economic opportunity are crucial in the lives of my constituents and the lives of all Oregonians.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/09/democratic-senator-kayse-jama-not-seeking-term-caucus-leader/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-10-09",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
+    "No sponsored-bill or roll-call items collected (phase 1)",
+    "No sourced positions on housing, childcare, health care outside the pamphlet"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "pending script extract"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/Jama/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Kayse Jama\" Oregon Senate 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Kayse Jama\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Kayse Jama\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Kayse Jama\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/10/09/democratic-senator-kayse-jama-not-seeking-term-caucus-leader/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Inventory consistent (incumbent true, unopposed). OPB (2026-10-09) reports she will not seek another term as caucus leader (and describes her as Senate Majority Leader); official page shows 'Democratic Leader' in navigation and Rules chair. Pamphlet Book13 p.44 / Book14 p.43 (pending).",
+  "incumbent_source_url": "https://www.oregonlegislature.gov/Jama/Pages/biography.aspx"
+}

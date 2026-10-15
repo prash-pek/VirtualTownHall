@@ -1,0 +1,147 @@
+{
+  "id": "lisa-reynolds",
+  "name": "Lisa Reynolds",
+  "race_id": "or-senate-17",
+  "party": "Democrat",
+  "incumbent": true,
+  "occupation": "Pediatrician; State Senator",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "lisa-reynolds-b1",
+      "topic": "healthcare",
+      "statement": "Her official legislative page describes Reynolds as a pediatrician with two decades of experience serving patients.",
+      "excerpt": "As a pediatrician with two decades of experience serving patients on the frontline",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/reynolds/Pages/default.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-b2",
+      "topic": "social-services",
+      "statement": "Her official page says she chairs the Senate Committee on Early Childhood and Behavioral Health.",
+      "excerpt": "I am proud to serve as the Chair of the Senate Committee on Early Childhood and Behavioral Health",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/reynolds/Pages/default.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "lisa-reynolds-p1",
+      "topic": "housing",
+      "statement": "In the Oregon Capital Chronicle 2026 voter guide, Reynolds says housing should be made more affordable with less red tape and fewer restrictions.",
+      "excerpt": "We must make housing more affordable with less red tape, fewer restrictions",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-17/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p2",
+      "topic": "taxes",
+      "statement": "In the same voter guide, Reynolds says the state tax structure is regressive and should change.",
+      "excerpt": "We must change our tax structure, which continues to be regressive, harming lower-income people more.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-17/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p3",
+      "topic": "healthcare",
+      "statement": "In the voter guide, Reynolds cites improving access to health care, including behavioral health services, as a motivation.",
+      "excerpt": "improving access to health care, including behavioral health services",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-17/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p4",
+      "topic": "custom:cannabis",
+      "statement": "In an August 2026 Oregon Capital Chronicle story, Reynolds describes cannabis-related psychosis risk as a long-term disability and plans 2027 regulation proposals.",
+      "excerpt": "This is a long-term disability.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/08/20/oregon-lawmaker-says-shell-push-for-more-cannabis-regulations-in-2027-to-protect-kids/",
+        "publisher": "Portland Tribune (Oregon Capital Chronicle)",
+        "tier": "T3",
+        "published_at": "2026-08-20",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
+    "No sponsored-bill or roll-call items collected (phase 1: official page lists none)",
+    "Education: no question in questionnaire"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "pending script extract"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/reynolds/Pages/default.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Lisa Reynolds\" Oregon Senate 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Lisa Reynolds\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Lisa Reynolds\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+      "result": "nothing relevant (older bill coverage only)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Lisa Reynolds\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-17/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2026/08/20/oregon-lawmaker-says-shell-push-for-more-cannabis-regulations-in-2027-to-protect-kids/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Inventory consistent (incumbent true; page lists Senate District 17). Pamphlet Book13 p.42-43, also Washington Book12 p.42 (pending script extract).",
+  "incumbent_source_url": "https://www.oregonlegislature.gov/reynolds/Pages/default.aspx"
+}

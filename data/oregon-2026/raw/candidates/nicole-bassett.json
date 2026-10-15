@@ -1,0 +1,128 @@
+{
+  "id": "nicole-bassett",
+  "name": "Nicole Bassett",
+  "race_id": "or-senate-26",
+  "party": "Democrat",
+  "incumbent": null,
+  "occupation": "Business owner and sustainability leader",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "nicole-bassett-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Capital Chronicle voter guide describes Bassett as a business owner and sustainability leader who previously worked for Patagonia.",
+      "excerpt": "business owner and sustainability leader who previously worked for Patagonia",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-26/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "nicole-bassett-p1",
+      "topic": "economy",
+      "statement": "In the Oregon Capital Chronicle 2026 voter guide, Bassett lists legislation bringing economic opportunity to District 26 among her top priorities.",
+      "excerpt": "First, I want to pass legislation that brings economic opportunity to District 26 that reflects our communities' needs.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-26/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-p2",
+      "topic": "housing",
+      "statement": "In the voter guide, Bassett says the work is to keep building on housing investments and remove barriers that slow development.",
+      "excerpt": "The work is to keep building on those investments and remove the barriers that slow development down.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-26/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-p3",
+      "topic": "transportation",
+      "statement": "In the voter guide, Bassett supports a road usage charge, paying by the mile rather than the gallon.",
+      "excerpt": "paying by the mile rather than the gallon, which is fairer and more sustainable long term.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-26/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nicole-bassett-p4",
+      "topic": "healthcare",
+      "statement": "In the voter guide, Bassett says that when people cannot see a doctor regularly, small problems become expensive emergencies.",
+      "excerpt": "When people can't see a doctor regularly, small problems become expensive emergencies.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-26/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract (step 1 not read by this collector)",
+    "No education or taxes position found outside the pamphlet",
+    "No campaign website confirmed"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "pending script extract"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no office page: not a current office holder per inventory",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website: domain not confirmed via pamphlet (pending) or official/T3 page",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Nicole Bassett\" Oregon Senate 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Nicole Bassett\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Nicole Bassett\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Nicole Bassett\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-26/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Inventory consistent. Voter guide page has no publication date (published_at null). Searches by 'Nicole Bassett' return unrelated people on KOIN/Pamplin. Pamphlet Book14 p.44 (pending)."
+}
