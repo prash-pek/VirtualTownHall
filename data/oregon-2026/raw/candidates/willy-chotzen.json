@@ -1,0 +1,124 @@
+{
+  "id": "willy-chotzen",
+  "name": "Willy Chotzen",
+  "race_id": "or-house-46",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/chotzen/Pages/biography.aspx",
+  "occupation": "State Representative; former public defender and teacher",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "willy-chotzen-b1",
+      "topic": "custom:background",
+      "statement": "His official biography says he was a middle school math teacher and later Chief Attorney in Portland's public defenders office.",
+      "excerpt": "Chief Attorney in Portland’s public defenders office",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/chotzen/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Rep. Chotzen member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-b2",
+      "topic": "custom:background",
+      "statement": "Ballotpedia lists a law degree from Harvard Law School (2019) and a bachelor's degree from Washington University in St. Louis (2013).",
+      "excerpt": "a law degree from Harvard Law School",
+      "source": {
+        "url": "https://ballotpedia.org/Willy_Chotzen",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "willy-chotzen-p1",
+      "topic": "healthcare",
+      "statement": "In a 2024 Ballotpedia survey, Chotzen listed expanding access to mental health care and addiction treatment as a priority.",
+      "excerpt": "I WILL EXPAND ACCESS TO MENTAL HEALTH CARE AND ADDICTION TREATMENT.",
+      "source": {
+        "url": "https://ballotpedia.org/Willy_Chotzen",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-p2",
+      "topic": "housing",
+      "statement": "In the same 2024 survey, Chotzen listed addressing homelessness and supporting affordable housing construction.",
+      "excerpt": "I WILL ADDRESS HOMELESSNESS AND SUPPORT CONSTRUCTION OF AFFORDABLE HOUSING.",
+      "source": {
+        "url": "https://ballotpedia.org/Willy_Chotzen",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-p3",
+      "topic": "education",
+      "statement": "In the same 2024 survey, Chotzen listed public education for every child as a priority.",
+      "excerpt": "I WILL ENSURE A WORLD-CLASS PUBLIC EDUCATION FOR EVERY CHILD.",
+      "source": {
+        "url": "https://ballotpedia.org/Willy_Chotzen",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No 2026 issue statements found; survey statements are from 2024",
+    "Bill sponsorship items surfaced in news (immigration, Flock cameras) but were not read; phase-1 scope"
+  ],
+  "collection_notes": "Incumbent per oregonlegislature.gov member page (first term, elected Nov 2024). Matches inventory.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/chotzen/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Willy Chotzen\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: bill coverage not read",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: bill coverage not read",
+      "result": "nothing relevant"
+    }
+  ]
+}

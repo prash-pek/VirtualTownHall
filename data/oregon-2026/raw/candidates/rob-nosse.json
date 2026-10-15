@@ -1,0 +1,99 @@
+{
+  "id": "rob-nosse",
+  "name": "Rob Nosse",
+  "race_id": "or-house-42",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/Nosse",
+  "occupation": "State Representative; labor representative (Oregon Nurses Association)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "rob-nosse-b1",
+      "topic": "custom:background",
+      "statement": "Nosse's official page says he represents voters in southeast and northeast Portland.",
+      "excerpt": "I'm proud to represent the voters of SE and NE Portland",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/Nosse",
+        "publisher": "Oregon Legislature, Rep. Nosse member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-nosse-b2",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says his professional experience includes working as a labor representative for the Oregon Nurses Association since 2004.",
+      "excerpt": "His professional experience includes working as a labor representative for the Oregon Nurses Association since 2004.",
+      "source": {
+        "url": "https://ballotpedia.org/Rob_Nosse",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [
+    {
+      "id": "rob-nosse-v1",
+      "topic": "environment",
+      "statement": "The Portland Tribune reports Nosse introduced a bill in 2025 to eliminate day-use state park passes with an optional donation; it received no hearing.",
+      "excerpt": "Rep. Rob Nosse, D-Portland, introduced a bill in 2025 offering to eliminate day-use state park passes with an option for",
+      "source": {
+        "url": "https://portlandtribune.com/2026/07/31/oregon-lawmaker-says-hell-introduce-bill-to-make-state-parks-free-to-residents/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-07-31",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No 2026 issue statements found; Ballotpedia themes for Nosse date to 2014 and were not used",
+    "Capital Chronicle: no 2026 contested-primary guide page found for HD42",
+    "Bill number for park-pass bill not captured"
+  ],
+  "collection_notes": "Incumbent per oregonlegislature.gov member page. WW 2026-10-05 article on arts funding surfaced in search but could not be fetched (error); not cited. Matches inventory.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/Nosse",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Rob Nosse\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia; WW arts article fetch failed",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: policy news without candidate statements",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: Portland Tribune parks article",
+      "result": "used"
+    }
+  ]
+}

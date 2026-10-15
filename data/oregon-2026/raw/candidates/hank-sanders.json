@@ -1,0 +1,129 @@
+{
+  "id": "hank-sanders",
+  "name": "Hank Sanders",
+  "race_id": "or-house-52",
+  "party": "Democrat",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Former reporter and legislative aide",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "hank-sanders-b1",
+      "topic": "custom:background",
+      "statement": "In the Capital Chronicle questionnaire, Sanders says he worked as a reporter for the Chicago Tribune and a reporting fellow at the New York Times.",
+      "excerpt": "worked as a reporter for the Chicago Tribune and as a reporting fellow at the New York Times",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "hank-sanders-p1",
+      "topic": "housing",
+      "statement": "In the Capital Chronicle questionnaire, Sanders says Oregon needs to build more housing.",
+      "excerpt": "We need to build more housing, full stop.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hank-sanders-p2",
+      "topic": "taxes",
+      "statement": "He proposes a tax credit for rural childcare workers modeled on the rural nurse practitioner tax credit.",
+      "excerpt": "I want to create a tax credit for rural childcare WORKERS similar to the rural nurse practitioner tax credit.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hank-sanders-p3",
+      "topic": "civil-rights",
+      "statement": "He says Oregonians have consistently supported the state's sanctuary status and reproductive rights protections.",
+      "excerpt": "Oregonians have consistently supported our sanctuary state status and our protections of reproductive rights.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hank-sanders-p4",
+      "topic": "technology",
+      "statement": "The Capital Chronicle reports Sanders said there must be a data center moratorium until the state can determine how to proceed.",
+      "excerpt": "We have to make sure that we've got a moratorium until we can figure out how to make sure",
+      "source": {
+        "url": "https://portlandtribune.com/2026/09/25/data-centers-take-center-stage-spur-mudslinging-in-competitive-gorge-based-oregon-house-race/",
+        "publisher": "Portland Tribune (Oregon Capital Chronicle)",
+        "tier": "T3",
+        "published_at": "2026-09-25",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "Campaign site not confirmed; sanders campaign domain not found in any fetched source",
+    "Primary-guide answers are undated beyond spring 2026"
+  ],
+  "collection_notes": "Open seat (Rep. Jeff Helfrich running for Senate per CapChron guide); not incumbent, left null since no official source. 'hypocritehank.com' appears in coverage but is run by Hege's PAC, so it is not a campaign site and was not used. Inventory name matches. WW and Capital Chronicle 10/15 articles could not be fetched.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "not applicable (no public office held; none found)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Hank Sanders\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: CapChron guide and Sept 25 data-center article, Ballotpedia (robots-blocked)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: unrelated",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: Tribune copy of CapChron article",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-52/",
+      "result": "used"
+    }
+  ]
+}

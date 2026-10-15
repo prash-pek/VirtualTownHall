@@ -1,0 +1,89 @@
+{
+  "id": "elvis-clark",
+  "name": "Elvis Clark",
+  "race_id": "or-house-41",
+  "party": "Republican",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "elvis-clark-b1",
+      "topic": "custom:background",
+      "statement": "Ballotpedia records that Elvis Clark, a Republican, ran for the Oregon House in District 41 in 2024.",
+      "excerpt": "Elvis Clark (Republican Party) ran for election to the Oregon House of Representatives to represent District 41.",
+      "source": {
+        "url": "https://ballotpedia.org/Elvis_Clark",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "elvis-clark-p1",
+      "topic": "custom:governance",
+      "statement": "Ballotpedia lists U.S. Term Limits among pledges Clark signed in 2024.",
+      "excerpt": "U.S. Term Limits",
+      "source": {
+        "url": "https://ballotpedia.org/Elvis_Clark",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No 2026 issue statements found",
+    "Occupation not stated on any fetched page",
+    "Did not complete Ballotpedia Candidate Connection survey in 2022 or 2024"
+  ],
+  "collection_notes": "Not incumbent per inventory; no official source fetched so incumbent left null. Search results showed Pamplin opinion letters by an 'Elvis Clark' of Milwaukie and a BallotReady listing 'bob elvis clark'; identity not confirmed, so none used. No campaign domain confirmed.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "not applicable (no public office held; none found)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Elvis Clark\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: unrelated results",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: Pamplin letters/opinion not confirmed same person",
+      "result": "nothing relevant"
+    }
+  ],
+  "name_variants": [
+    "Bob Elvis Clark"
+  ]
+}

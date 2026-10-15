@@ -1,0 +1,111 @@
+{
+  "id": "tim-lemaster",
+  "name": "Tim LeMaster",
+  "race_id": "or-house-43",
+  "party": "Republican",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "tim-lemaster-b1",
+      "topic": "custom:background",
+      "statement": "In a 2022 Ballotpedia survey, LeMaster said he retired to Portland from the Marine Corps in 2013.",
+      "excerpt": "I retired here in Portland from the Marine Corps in 2013.",
+      "source": {
+        "url": "https://ballotpedia.org/Tim_LeMaster",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "tim-lemaster-p1",
+      "topic": "public-safety",
+      "statement": "In a 2022 Ballotpedia survey, LeMaster said he would support public safety and police.",
+      "excerpt": "I will support public safety and the police who help provide that safety.",
+      "source": {
+        "url": "https://ballotpedia.org/Tim_LeMaster",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tim-lemaster-p2",
+      "topic": "public-safety",
+      "statement": "In the same 2022 survey, LeMaster said Measure 110 either needs to be repealed or fully decriminalizing drugs should be revisited.",
+      "excerpt": "Measure 110 that essentially decriminalized illicit drugs in Oregon either needs repealed",
+      "source": {
+        "url": "https://ballotpedia.org/Tim_LeMaster",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tim-lemaster-p3",
+      "topic": "education",
+      "statement": "In the same 2022 survey, LeMaster called for new thinking to help parents get better education choices.",
+      "excerpt": "we need new thinking to help parents get better education choices.",
+      "source": {
+        "url": "https://ballotpedia.org/Tim_LeMaster",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "All issue statements are from a 2022 Ballotpedia survey; no 2026 statements found",
+    "Did not complete Ballotpedia 2026 survey"
+  ],
+  "collection_notes": "Statements come from Ballotpedia's 2022 Candidate Connection survey (page says current through his last covered campaign); dated in each statement. Not incumbent per inventory; incumbent left null. No campaign domain confirmed.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "not applicable (no public office held; none found)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Tim LeMaster\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: unrelated",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: unrelated",
+      "result": "nothing relevant"
+    }
+  ]
+}

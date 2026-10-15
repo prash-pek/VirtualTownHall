@@ -1,0 +1,103 @@
+{
+  "id": "tawna-sanchez",
+  "name": "Tawna Sanchez",
+  "race_id": "or-house-43",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/Sanchez",
+  "occupation": "State Representative",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "tawna-sanchez-b1",
+      "topic": "custom:background",
+      "statement": "Sanchez's official page cites her work as a foster parent and co-founder of the Native American Youth and Family Center.",
+      "excerpt": "From serving as a foster parent to co-founding the Native American Youth and Family Center",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/Sanchez",
+        "publisher": "Oregon Legislature, Rep. Sanchez member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-b2",
+      "topic": "custom:background",
+      "statement": "Her official page lists her as co-chair of the Joint Committee on Ways and Means.",
+      "excerpt": "Co-Chair, Joint Committee on Ways and Means",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/Sanchez",
+        "publisher": "Oregon Legislature, Rep. Sanchez member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-b3",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says she assumed office in 2017.",
+      "excerpt": "She assumed office in 2017.",
+      "source": {
+        "url": "https://ballotpedia.org/Tawna_Sanchez",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No quotable 2026 issue statements found",
+    "Capital Chronicle 2026 primary questionnaire: no response",
+    "Ballotpedia: no Candidate Connection survey completed 2020-2024"
+  ],
+  "collection_notes": "Incumbent per oregonlegislature.gov member page. Official page lists priorities (behavioral health, affordable housing, early education) only as paraphrase, so not itemized. A vote411 HD43 page had unlabeled answers; not attributed. Matches inventory.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/Sanchez",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Tawna Sanchez\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia, CapChron primary guide",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: news items without candidate statements",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: older Tribune/Mercury items",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-43/",
+      "result": "used"
+    }
+  ]
+}

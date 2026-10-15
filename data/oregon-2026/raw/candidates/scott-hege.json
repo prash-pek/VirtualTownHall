@@ -1,0 +1,158 @@
+{
+  "id": "scott-hege",
+  "name": "Scott C Hege",
+  "race_id": "or-house-52",
+  "party": "Republican",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Wasco County commissioner; engineer",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "scott-hege-b1",
+      "topic": "custom:background",
+      "statement": "The Capital Chronicle voter guide says Hege is a Wasco County commissioner and engineer from The Dalles.",
+      "excerpt": "Scott Hege is a Wasco County commissioner and engineer from The Dalles.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "scott-hege-b2",
+      "topic": "custom:background",
+      "statement": "The guide says he formerly worked as executive director of the Port of The Dalles.",
+      "excerpt": "He formerly worked as executive director of the Port of The Dalles.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "scott-hege-p1",
+      "topic": "economy",
+      "statement": "In the Capital Chronicle questionnaire, Hege says he is committed to improving the business climate.",
+      "excerpt": "I am committed to improving the business climate, which currently negatively impacts nearly all businesses",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "scott-hege-p2",
+      "topic": "transportation",
+      "statement": "He says transportation maintenance should be the top priority and funding should first be preceded by an audit of the transportation department.",
+      "excerpt": "Funding for the Department of Transportation should be addressed by first conducting a comprehensive audit of the organization.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "scott-hege-p3",
+      "topic": "environment",
+      "statement": "On wildfire, Hege says the state needs to deal with fuels in forested lands.",
+      "excerpt": "We need to deal with the fuels that are overtaking our forested lands.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "scott-hege-p4",
+      "topic": "taxes",
+      "statement": "He says Oregon's tax and regulatory structure adds to the cost of doing business.",
+      "excerpt": "Oregon’s overall tax and regulatory structure adds to the cost of doing business",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "scott-hege-p5",
+      "topic": "technology",
+      "statement": "The Capital Chronicle reports Hege said he does not support taking local control away from communities on data center investment.",
+      "excerpt": "I do not support taking local control away from communities who could benefit from the investment;",
+      "source": {
+        "url": "https://portlandtribune.com/2026/09/25/data-centers-take-center-stage-spur-mudslinging-in-competitive-gorge-based-oregon-house-race/",
+        "publisher": "Portland Tribune (Oregon Capital Chronicle)",
+        "tier": "T3",
+        "published_at": "2026-09-25",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "Campaign site not confirmed in any fetched source",
+    "Gorge Radio announcement page undated"
+  ],
+  "collection_notes": "Open seat; not incumbent, null. Inventory spells name 'Scott C Hege'; sources use 'Scott Hege' (name_variants). Gorge Radio announcement (T3) also describes him as long-time Wasco County commissioner; not itemized. Official Wasco County page not searched.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "not applicable (county commissioner page not fetched)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Scott Hege\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: CapChron guide and article",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: unrelated",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: Tribune copy of CapChron article",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://gorgeradio.com/hege-runs-for-house-district-52-seat/",
+      "result": "used"
+    }
+  ],
+  "name_variants": [
+    "Scott Hege"
+  ]
+}

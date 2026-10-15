@@ -1,0 +1,58 @@
+{
+  "id": "brian-gray",
+  "name": "Brian Gray",
+  "race_id": "or-house-50",
+  "party": "Republican",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No biography found",
+    "No policy positions found",
+    "No Ballotpedia page content found"
+  ],
+  "collection_notes": "No usable public material found; searches for 'Brian Gray' returned unrelated people. Not incumbent per inventory; null. No campaign domain confirmed.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "not applicable (no public office held; none found)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Brian Gray\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: no results",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: unrelated people",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: unrelated people",
+      "result": "nothing relevant"
+    }
+  ]
+}

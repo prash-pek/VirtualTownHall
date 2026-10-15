@@ -1,0 +1,138 @@
+{
+  "id": "thuy-tran",
+  "name": "Thuy Tran",
+  "race_id": "or-house-45",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/tran/Pages/biography.aspx",
+  "occupation": "Optometrist; State Representative",
+  "website_url": "https://tranfororegon.com",
+  "website_verified_via": "https://ballotpedia.org/Thuy_Tran",
+  "bio": [
+    {
+      "id": "thuy-tran-b1",
+      "topic": "custom:background",
+      "statement": "Tran's official biography says she has owned and operated Rose City Vision since 1995.",
+      "excerpt": "has owned and operated Rose City Vision since 1995.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/tran/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Rep. Tran member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "thuy-tran-b2",
+      "topic": "custom:background",
+      "statement": "Her campaign site describes her as a mom, immigrant, doctor, and Lieutenant Colonel in the Oregon Air National Guard.",
+      "excerpt": "As a mom, immigrant, Doctor, Lieutenant Colonel in the Oregon Air National Guard, and a local small business owner",
+      "source": {
+        "url": "https://tranfororegon.com",
+        "publisher": "Tran for Oregon campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "thuy-tran-b3",
+      "topic": "custom:background",
+      "statement": "Her official page says she chaired the House Committee on Emergency Management, General Government, and Veterans in the 2025 session.",
+      "excerpt": "chaired the House Committee On Emergency Management, General Government, and Veterans",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/tran/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Rep. Tran member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "thuy-tran-p1",
+      "topic": "healthcare",
+      "statement": "In a 2024 Ballotpedia survey, Tran listed health care for all Oregonians, with investments in prevention and continuum of care, as a theme.",
+      "excerpt": "Healthcare for all Oregonians with investments in prevention and continuum of care",
+      "source": {
+        "url": "https://ballotpedia.org/Thuy_Tran",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "thuy-tran-p2",
+      "topic": "environment",
+      "statement": "In the same 2024 survey, Tran listed mitigating climate change effects as a theme.",
+      "excerpt": "Protecting our environment and Oregonians by mitigating climate change negative effects",
+      "source": {
+        "url": "https://ballotpedia.org/Thuy_Tran",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "thuy-tran-p3",
+      "topic": "public-safety",
+      "statement": "In the same 2024 survey, Tran listed community safety, housing and jobs as a theme.",
+      "excerpt": "Uplift Oregonians with community safety, housing, jobs and a fair shot at the American Dream.",
+      "source": {
+        "url": "https://ballotpedia.org/Thuy_Tran",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "Campaign site subpages (issues/about) were not returned by fetch; only the home page was read",
+    "No 2026-dated issue statements found; survey statements are from 2024",
+    "Bill sponsorship (HB2002, HB2395 named on campaign site) not itemized: no content read"
+  ],
+  "collection_notes": "Incumbent per oregonlegislature.gov member page (second term). Campaign domain TranForOregon.com listed in Ballotpedia's 2024 survey data; home page fetched and appears current. Matches inventory.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/tran/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://tranfororegon.com",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Thuy Tran\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia, WW",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: KGW/KOIN/KPTV bill coverage not read",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: 2022 campaign coverage",
+      "result": "nothing relevant"
+    }
+  ]
+}

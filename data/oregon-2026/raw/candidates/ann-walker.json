@@ -1,0 +1,72 @@
+{
+  "id": "ann-walker",
+  "name": "Ann Walker",
+  "race_id": "or-house-49",
+  "party": "Republican",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "ann-walker-b1",
+      "topic": "custom:background",
+      "statement": "Ballotpedia lists Ann Walker, a Republican, as a candidate for Oregon House District 49 in 2026.",
+      "excerpt": "Ann Walker (Republican Party) is running for election to the Oregon House of Representatives to represent District 49.",
+      "source": {
+        "url": "https://ballotpedia.org/Ann_Walker",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No biography details or occupation found",
+    "No policy positions found",
+    "Ballotpedia: has not completed Candidate Connection survey"
+  ],
+  "collection_notes": "Not incumbent per inventory; null. No campaign domain confirmed. Web search for 'Ann Walker' returned many unrelated people; none attributed to the candidate.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "not applicable (no public office held; none found)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Ann Walker\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: unrelated people",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: unrelated people",
+      "result": "nothing relevant"
+    }
+  ]
+}

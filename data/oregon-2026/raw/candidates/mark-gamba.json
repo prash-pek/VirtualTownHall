@@ -1,0 +1,130 @@
+{
+  "id": "mark-gamba",
+  "name": "Mark Gamba",
+  "race_id": "or-house-41",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/gamba/Pages/biography.aspx",
+  "occupation": "State Representative; former Milwaukie mayor",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "mark-gamba-b1",
+      "topic": "custom:background",
+      "statement": "Gamba's official legislative biography says he is one of the few renters serving in the Oregon Legislature.",
+      "excerpt": "Mark is one of the few renters currently serving in the Oregon State Legislature.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/gamba/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Rep. Gamba member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-b2",
+      "topic": "custom:background",
+      "statement": "His official biography says climate change was the core reason he first ran for Milwaukie City Council.",
+      "excerpt": "Climate change was the core reason Mark first ran for Milwaukie City Council.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/gamba/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Rep. Gamba member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-b3",
+      "topic": "custom:background",
+      "statement": "Ballotpedia lists photographer as Gamba's profession and describes his career as including commercial photography, photojournalism and small business ownership.",
+      "excerpt": "working as a commercial photographer, photojournalist, and small business owner",
+      "source": {
+        "url": "https://ballotpedia.org/Mark_Gamba",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "mark-gamba-p1",
+      "topic": "environment",
+      "statement": "In a 2020 Ballotpedia Candidate Connection survey for a congressional race, Gamba described climate change as the greatest threat humanity has faced.",
+      "excerpt": "Climate Change is the greatest threat humanity has ever faced.",
+      "source": {
+        "url": "https://ballotpedia.org/Mark_Gamba",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-p2",
+      "topic": "healthcare",
+      "statement": "In the same 2020 survey, Gamba said health care is a human right.",
+      "excerpt": "Health Care is a human right.",
+      "source": {
+        "url": "https://ballotpedia.org/Mark_Gamba",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No 2026 issue statements found; Ballotpedia survey statements are from his 2020 congressional campaign",
+    "Capital Chronicle 2026 primary questionnaire: no response",
+    "No voting or sponsorship items collected (phase 1 scope)"
+  ],
+  "collection_notes": "Incumbent per oregonlegislature.gov member page (State Rep., HD 41, Milwaukie). Capital Chronicle HD41 Democratic primary guide shows Gamba did not answer its questionnaire. No campaign domain confirmed. Matches inventory.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/gamba/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Mark Gamba\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia, CapChron 2026 primary guide",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: older KGW/KATU items",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: older Pamplin/Tribune items; Mercury endorsements not used",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-41/",
+      "result": "used"
+    }
+  ]
+}

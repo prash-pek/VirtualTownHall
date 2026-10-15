@@ -1,0 +1,71 @@
+{
+  "id": "darla-mead",
+  "name": "Darla Mead",
+  "race_id": "or-house-51",
+  "party": "Democrat",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Oncology nurse navigator",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "darla-mead-b1",
+      "topic": "custom:background",
+      "statement": "The Capital Chronicle voter guide lists Mead as an oncology nurse navigator.",
+      "excerpt": "Oncology nurse navigator",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-51/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "Capital Chronicle 2026 questionnaire: no response",
+    "No policy positions found"
+  ],
+  "collection_notes": "Not incumbent per inventory; null. Capital Chronicle page's fundraising entry under her name described Bunch's campaign (page error); ignored. No campaign domain confirmed (a GoodParty profile surfaced; not a campaign site).",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "not applicable (no public office held; none found)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Darla Mead\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: CapChron guide, Ballotpedia district page",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: no results",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: unrelated",
+      "result": "nothing relevant"
+    }
+  ]
+}

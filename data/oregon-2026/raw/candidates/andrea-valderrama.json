@@ -1,0 +1,84 @@
+{
+  "id": "andrea-valderrama",
+  "name": "Andrea Valderrama",
+  "race_id": "or-house-47",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/valderrama/Pages/biography.aspx",
+  "occupation": "State Representative",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "andrea-valderrama-b1",
+      "topic": "custom:background",
+      "statement": "Valderrama's official biography says that when appointed in 2021 she became the first Peruvian American in the Oregon Legislature.",
+      "excerpt": "When I was appointed in 2021, I became the first Peruvian American in the Oregon State Legislature.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/valderrama/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Rep. Valderrama member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "andrea-valderrama-b2",
+      "topic": "custom:background",
+      "statement": "Her official biography cites a background in grassroots organizing, coalition building, and policy and budget advocacy.",
+      "excerpt": "extensive background in grassroots organizing, coalition building, and policy and budget advocacy",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/valderrama/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Rep. Valderrama member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No quotable issue statements found",
+    "Occupation and committees not stated on fetched pages"
+  ],
+  "collection_notes": "Incumbent per oregonlegislature.gov member page. Unopposed in the inventory (single candidate). Ballotpedia page fetch failed; not cited. Matches inventory.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/valderrama/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Andrea Valderrama\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia result only; fetch failed",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: coverage not read",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: older coverage",
+      "result": "nothing relevant"
+    }
+  ]
+}

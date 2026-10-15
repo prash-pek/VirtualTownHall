@@ -1,0 +1,152 @@
+{
+  "id": "lamar-wise",
+  "name": "Lamar Wise",
+  "race_id": "or-house-48",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://multco.us/news/news-release-multnomah-and-clackamas-county-commissioners-appoint-lamar-wise-oregon-house",
+  "occupation": "State Representative (appointed Nov 2025); labor organizer",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "lamar-wise-b1",
+      "topic": "custom:background",
+      "statement": "A Multnomah County release says Wise was appointed to House District 48 on November 5, 2025, and is political director for AFSCME Council 75.",
+      "excerpt": "political director for Oregon Council 75 of the American Federation of State, County and Municipal Employees",
+      "source": {
+        "url": "https://multco.us/news/news-release-multnomah-and-clackamas-county-commissioners-appoint-lamar-wise-oregon-house",
+        "publisher": "Multnomah County news release",
+        "tier": "T1",
+        "published_at": "2025-11-05",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lamar-wise-b2",
+      "topic": "custom:background",
+      "statement": "The Oregon Capital Chronicle described Wise at his appointment as former political director of the state AFSCME union and former executive director of the Oregon Student Association.",
+      "excerpt": "former executive director of the Oregon Student Association",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/2025/11/05/labor-advocate-appointed-to-serve-remainder-of-oregon-rep-hoa-nguyens-term/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lamar-wise-b3",
+      "topic": "custom:background",
+      "statement": "OPB, republishing the Capital Chronicle, reports the state ethics commission voted 8-0 to open a full investigation of Wise over an alleged unreported $25,000 stipend.",
+      "excerpt": "voted 8-0 to open a full investigation into Rep. Lamar Wise, D-Portland",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/12/oregon-ethics-commission-investigates-representative-lamar-wise-income-disclosure/",
+        "publisher": "OPB (Oregon Capital Chronicle)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lamar-wise-b4",
+      "topic": "custom:background",
+      "statement": "In the same report, Wise says he amended his financial form, called the omission an honest mistake, and expects it to be resolved soon.",
+      "excerpt": "this honest mistake, and expect it to be resolved soon.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/12/oregon-ethics-commission-investigates-representative-lamar-wise-income-disclosure/",
+        "publisher": "OPB (Oregon Capital Chronicle)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "lamar-wise-p1",
+      "topic": "housing",
+      "statement": "At his appointment, Wise said he would focus on improving housing and uplifting Oregon's economy, per the Capital Chronicle.",
+      "excerpt": "improving housing and uplifting Oregon’s economy.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/2025/11/05/labor-advocate-appointed-to-serve-remainder-of-oregon-rep-hoa-nguyens-term/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "lamar-wise-p2",
+      "topic": "education",
+      "statement": "The Capital Chronicle also reported Wise intends to carry on advocacy for education and reducing chronic absenteeism.",
+      "excerpt": "advocating for education and reducing Oregon’s chronic absenteeism.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/2025/11/05/labor-advocate-appointed-to-serve-remainder-of-oregon-rep-hoa-nguyens-term/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "lamar-wise-v1",
+      "topic": "education",
+      "statement": "The Portland Tribune reports Wise proposed legislation on chronic absenteeism data; he said the Department of Education should use data it already has.",
+      "excerpt": "We're really asking for the Department of Education to use the data that they already have,",
+      "source": {
+        "url": "https://portlandtribune.com/2025/12/08/new-east-portland-rep-lamar-wise-proposes-data-tweaks-to-combat-chronic-absenteeism/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2025-12-08",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No oregonlegislature.gov member page fetched for Wise",
+    "Capital Chronicle 2026 questionnaire: no page found",
+    "Bill number for absenteeism proposal not stated in the article"
+  ],
+  "collection_notes": "Incumbent (appointed 2025) per Multnomah County T1 release; inventory says true, matches. Ethics-investigation items (b3, b4) are included as neutral, balanced by Wise's response; reviewer should decide whether to keep. The OPB URL date is Oct 12; fetch said published Oct 13, so published_at left null. Positions b-quotes 'advocating' / 'improving housing' are partial quotes from the CapChron article. Ballotpedia profile page inconsistently lists predecessor's party; not used.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://multco.us/news/news-release-multnomah-and-clackamas-county-commissioners-appoint-lamar-wise-oregon-house",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Lamar Wise\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia, CapChron, OPB ethics article",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: KGW appointment article fetch failed",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: Portland Tribune absenteeism article",
+      "result": "used"
+    }
+  ]
+}

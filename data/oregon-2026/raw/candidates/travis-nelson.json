@@ -1,0 +1,85 @@
+{
+  "id": "travis-nelson",
+  "name": "Travis Nelson",
+  "race_id": "or-house-44",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/Nelson",
+  "occupation": "State Representative; registered nurse and union representative",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "travis-nelson-b1",
+      "topic": "custom:background",
+      "statement": "In his official biography Nelson says he joined the legislature as the first Black LGBTQIA+ member of the body.",
+      "excerpt": "I am proud to join the legislature as the first ever Black LGBTQIA+ member of this body",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/Nelson",
+        "publisher": "Oregon Legislature, Rep. Nelson member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-b2",
+      "topic": "custom:background",
+      "statement": "The Oregon Capital Chronicle reported at his appointment that Nelson is a registered nurse working as a union representative with the Oregon Nurses Association.",
+      "excerpt": "Nelson is a registered nurse who now works full time as a union representative with the Oregon Nurses Association.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/briefs/multnomah-county-taps-registered-nurse-travis-nelson-to-finish-koteks-house-term/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No quotable issue statements found (official page lists priorities as paraphrase only)",
+    "Ballotpedia: no Candidate Connection survey completed",
+    "Capital Chronicle brief on appointment is from 2022; current employment unconfirmed"
+  ],
+  "collection_notes": "Incumbent per oregonlegislature.gov member page. KOIN interview page surfaced but contained no quotes. Matches inventory.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/Nelson",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Travis Nelson\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia, CapChron brief",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: KOIN/KGW items on traffic stops and bills, not read in full",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: Mercury cheat sheet is endorsement material",
+      "result": "nothing relevant"
+    }
+  ]
+}
