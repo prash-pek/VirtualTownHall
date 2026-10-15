@@ -1,0 +1,109 @@
+{
+  "id": "april-dobson",
+  "name": "April Dobson",
+  "race_id": "or-house-39",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/dobson/Pages/biography.aspx",
+  "occupation": "State Representative; nonprofit professional; North Clackamas School Board member",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "april-dobson-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Legislature biography says Dobson represents Happy Valley, North Clackamas and Milwaukie and is serving her first term in the Oregon House.",
+      "excerpt": "This is my first term in the Oregon House of Representatives.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/dobson/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "april-dobson-b2",
+      "topic": "custom:background",
+      "statement": "Ballotpedia quotes Dobson's Candidate Connection statement describing her as a mother of three and an elected member of the North Clackamas School Board.",
+      "excerpt": "A mom of three and elected member of the North Clackamas School Board.",
+      "source": {
+        "url": "https://ballotpedia.org/April_Dobson",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "april-dobson-p1",
+      "topic": "civil-rights",
+      "statement": "In a 2024 Ballotpedia Candidate Connection survey, Dobson pledged to defend the right to safe and legal abortion in Oregon.",
+      "excerpt": "defend the right to safe and legal abortion here in Oregon",
+      "source": {
+        "url": "https://ballotpedia.org/April_Dobson",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "Position found is from a 2024 survey; no 2026 statement found (unopposed; no Capital Chronicle guide page)",
+    "No voting or sponsorship items surfaced in steps 2-5",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/dobson/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"April Dobson\" Oregon House District 39 2026",
+      "result": "used (official pages, Ballotpedia, Capital Chronicle 2025 new legislators)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"April Dobson\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (Ballotpedia; Capital Chronicle and OPB policy coverage)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"April Dobson\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used (KOIN coverage of AI bill and Wichita Center; not fetched)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"April Dobson\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used (Portland Tribune; VOTE411 school board entry)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/April_Dobson",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.koin.com/local/clackamas-county/oregon-leaders-moms-on-edge-as-wichita-center-closure-looms/",
+      "result": "blocked (fetch error)"
+    }
+  ],
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (first term). Inventory lists unopposed with nominating parties Democrat, Republican, Independent; not checked. Matches inventory."
+}

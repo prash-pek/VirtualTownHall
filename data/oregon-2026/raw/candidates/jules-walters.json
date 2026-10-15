@@ -1,0 +1,128 @@
+{
+  "id": "jules-walters",
+  "name": "Jules Walters",
+  "race_id": "or-house-37",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/walters/Pages/biography.aspx",
+  "occupation": "State Representative; former mayor of West Linn",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "jules-walters-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Legislature biography says Walters is a parent of four who served as mayor of West Linn.",
+      "excerpt": "as mayor of West Linn, a community of over 30,000 people.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/walters/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-b2",
+      "topic": "custom:background",
+      "statement": "Ballotpedia lists Walters's career as including administrative assistant, business owner, vice president of operations, and mayor of West Linn.",
+      "excerpt": "She served as mayor of West Linn.",
+      "source": {
+        "url": "https://ballotpedia.org/Jules_Walters",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "jules-walters-p1",
+      "topic": "social-services",
+      "statement": "In March 2025 reporting republished by the Portland Tribune, Walters said substance use disorder is often thought of as an adult disease and that this is not how it works.",
+      "excerpt": "We think of (substance use disorder) as an adult disease, and that is not how it works.",
+      "source": {
+        "url": "https://portlandtribune.com/2025/03/13/trio-of-bills-aims-to-address-oregons-failure-to-equip-youths-with-needed-tools-against-drugs/",
+        "publisher": "Portland Tribune (The Lund Report)",
+        "tier": "T3",
+        "published_at": "2025-03-13",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "jules-walters-v1",
+      "topic": "social-services",
+      "statement": "The Lund Report, republished by the Portland Tribune, identified Walters as one of the chief co-sponsors of a trio of 2025 bills on youth substance use.",
+      "excerpt": "\"We just have these giant gaps for youth,\" said Walters, one of the bills' chief co-sponsors",
+      "source": {
+        "url": "https://portlandtribune.com/2025/03/13/trio-of-bills-aims-to-address-oregons-failure-to-equip-youths-with-needed-tools-against-drugs/",
+        "publisher": "Portland Tribune (The Lund Report)",
+        "tier": "T3",
+        "published_at": "2025-03-13",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No 2026 policy statements found (Ballotpedia campaign themes empty; no Capital Chronicle HD37 guide page)",
+    "No roll-call votes collected (phase 1 scope)",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/walters/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Jules Walters\" Oregon House District 37 2026",
+      "result": "used (official pages, Ballotpedia)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jules Walters\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (Ballotpedia; Capital Chronicle 2024 donor story and WW endorsement pages not used)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jules Walters\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used (KOIN/KGW mayor-era coverage)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jules Walters\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used (Pamplin and Portland Tribune)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Jules_Walters",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2025/03/13/trio-of-bills-aims-to-address-oregons-failure-to-equip-youths-with-needed-tools-against-drugs/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://pamplinmedia.com/ttt/89-news/561772-449873-estep-and-walters-make-final-push-for-house-district-37",
+      "result": "blocked (fetch error)"
+    }
+  ],
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (started in the legislature in 2023). Matches inventory."
+}

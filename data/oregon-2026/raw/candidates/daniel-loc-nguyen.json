@@ -1,0 +1,149 @@
+{
+  "id": "daniel-loc-nguyen",
+  "name": "Daniel Loc Nguyen",
+  "name_variants": [
+    "Daniel Nguyễn",
+    "Daniel Nguyen"
+  ],
+  "race_id": "or-house-38",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/nguyend/Pages/biography.aspx",
+  "occupation": "State Representative; founder and owner of Bambuza Hospitality Group",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "daniel-loc-nguyen-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Legislature biography says Nguyen founded and owns Bambuza Hospitality Group, a restaurant business, and chairs the House economic development committee.",
+      "excerpt": "founded and owns Bambuza Hospitality Group, operating restaurants for 20 years alongside his wife Katherine.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/nguyend/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-b2",
+      "topic": "custom:background",
+      "statement": "The Capital Chronicle's 2026 voter guide says Nguyen is a Lake Oswego legislator elected in 2022 who chairs the House Economic Development, Small Business and Trade Committee.",
+      "excerpt": "He chairs the House Economic Development, Small Business and Trade Committee,",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-38/",
+        "publisher": "Oregon Capital Chronicle 2026 voter guide (Democratic primary, House District 38)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "daniel-loc-nguyen-p1",
+      "topic": "housing",
+      "statement": "In the Capital Chronicle 2026 questionnaire, Nguyen says he supported one of the largest-ever investments in affordable housing in Oregon history in 2023.",
+      "excerpt": "I am proud to have supported one of the largest-ever investments in affordable housing in Oregon’s history in 2023,",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-38/",
+        "publisher": "Oregon Capital Chronicle 2026 voter guide (Democratic primary, House District 38)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-p2",
+      "topic": "public-safety",
+      "statement": "In the Capital Chronicle 2026 questionnaire, Nguyen says agencies and local governments need resources to act when fire or natural disasters occur.",
+      "excerpt": "We absolutely need to ensure our agencies and locals have the resources they need to take action when fire or natural disasters",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-38/",
+        "publisher": "Oregon Capital Chronicle 2026 voter guide (Democratic primary, House District 38)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "daniel-loc-nguyen-p3",
+      "topic": "economy",
+      "statement": "In an October 2025 re-election announcement reported by the Portland Tribune, Nguyen said the economy is at an inflection point.",
+      "excerpt": "I'm running for re-election because our economy is at an inflection point",
+      "source": {
+        "url": "https://portlandtribune.com/2025/10/02/lake-oswego-portland-state-representative-is-running-for-reelection/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2025-10-02",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "Campaign site danielfororegon.com appeared in search results but its domain is not linked from an official page, pamphlet or T3 source seen, so it was not used or recorded",
+    "No voting or sponsorship items surfaced in steps 2-5",
+    "Capital Chronicle questionnaire answers were only partly quotable (WebFetch quote cap)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/nguyend/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Daniel Nguyen\" Oregon House District 38 2026",
+      "result": "used (Capital Chronicle guide, official pages, campaign site appears in results)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Daniel Nguyen\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (Capital Chronicle guide; Ballotpedia; OPB 2022 coverage)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Daniel Nguyen\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used (KOIN 2022 race coverage; KGW AI bills)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Daniel Nguyen\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used (Portland Tribune 2025 re-election story)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-38/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2025/10/02/lake-oswego-portland-state-representative-is-running-for-reelection/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.danielfororegon.com/news",
+      "result": "nothing relevant (domain not verified; page not cited)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.oregonlegislature.gov/nguyend",
+      "result": "used (checked for campaign link: none; only social media links)"
+    }
+  ],
+  "collection_notes": "Ballot spelling per inventory is 'Daniel Loc Nguyen'; Capital Chronicle uses 'Daniel Nguyễn'; official page 'Daniel Nguyen'. Fetched danielfororegon.com (news, priorities, about) but did not cite it because step 3 requires the domain to be linked from the pamphlet, ORESTAR, an official page or a T3 article; the pamphlet statement may confirm it, so a later pass can add its positions (it states support for a public option, AI guardrails, reproductive rights, climate goals). The legislature page links only social media. Capital Chronicle HD38 guide covers the Democratic primary (opponent Wasielewski, who is not on the November ballot). Matches inventory (unopposed in November)."
+}

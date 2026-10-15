@@ -1,0 +1,116 @@
+{
+  "id": "hai-pham",
+  "name": "Hai Pham",
+  "race_id": "or-house-36",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/phamh",
+  "occupation": "State Representative; pediatric dentist",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "hai-pham-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Legislature page says Pham spent fourteen years as a pediatric dentist serving children and families in Washington County.",
+      "excerpt": "After spending the past fourteen years as a pediatric dentist serving children and their families in Washington County",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/phamh",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "hai-pham-p1",
+      "topic": "healthcare",
+      "statement": "In a 2022 Ballotpedia candidate survey, Pham said medical and dental coverage for all is a right, not a privilege (statement dates from his first campaign).",
+      "excerpt": "Medical and dental coverage for all is a right, not a privilege.",
+      "source": {
+        "url": "https://ballotpedia.org/Hai_Pham",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "hai-pham-v1",
+      "topic": "healthcare",
+      "statement": "KOIN reported (early 2023) that Pham was among the sponsors of HB 3090, a bill on flavored tobacco sales.",
+      "excerpt": "as well as and Rep. Hai Pham, D-Hillsboro.",
+      "source": {
+        "url": "https://www.koin.com/news/oregon/bill-seeks-to-ban-flavored-tobacco-sales-across-oregon/",
+        "publisher": "KOIN",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "Pham did not complete Ballotpedia's 2024 survey; only a 2022 position found; no 2026 statement",
+    "Capital Chronicle 2026 primary voter guide: no page found for this district (HD35 and HD38 pages only; other districts' guide pages could not be fetched)",
+    "No roll-call votes collected (phase 1 scope)",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/phamh",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Hai Pham\" Oregon House District 36 2026",
+      "result": "used (official pages, Ballotpedia)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Hai Pham\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (Ballotpedia; Capital Chronicle tag page; WW endorsements not fetched)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Hai Pham\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used (KOIN AI youth mental health bill and flavored tobacco bill)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Hai Pham\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used (Portland Tribune 2026 items; not relevant to positions)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Hai_Pham",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.koin.com/news/oregon/bill-seeks-to-ban-flavored-tobacco-sales-across-oregon/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.koin.com/news/politics/this-bill-will-save-lives-oregon-passes-ai-safeguards-for-youth-mental-health/",
+      "result": "blocked (fetch error)"
+    }
+  ],
+  "collection_notes": "Incumbency per oregonlegislature.gov page. Flavored tobacco article gives no explicit date (about early 2023). Matches inventory."
+}

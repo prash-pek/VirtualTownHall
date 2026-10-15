@@ -1,0 +1,127 @@
+{
+  "id": "ciatta-thompson",
+  "name": "Ciatta R Thompson",
+  "name_variants": [
+    "Ciatta Thompson"
+  ],
+  "race_id": "or-house-33",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/isadore/Pages/biography.aspx",
+  "occupation": "Front office manager at downtown hotel (as of 2024 OPB profile)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "ciatta-thompson-b1",
+      "topic": "custom:background",
+      "statement": "In a 2024 OPB candidate profile for Portland City Council District 4, Thompson listed her occupation as front office manager at a downtown hotel and an urban planning degree from Florida Atlantic University.",
+      "excerpt": "Front office manager at downtown hotel",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/27/portland-oregon-politics-city-council-district-4-ciatta-thompson/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-27",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "ciatta-thompson-p1",
+      "topic": "taxes",
+      "statement": "In a 2024 OPB profile for a Portland City Council race, Thompson said that outside of a feasibility study she would not support additional taxes.",
+      "excerpt": "Outside of the feasibility study, I would not support any additional taxes.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/27/portland-oregon-politics-city-council-district-4-ciatta-thompson/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-27",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ciatta-thompson-p2",
+      "topic": "transportation",
+      "statement": "In the same 2024 OPB profile, Thompson said she would prioritize protecting bike lanes and priority bus lanes.",
+      "excerpt": "I would prioritize protecting bike lanes and priority bus lanes.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/27/portland-oregon-politics-city-council-district-4-ciatta-thompson/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-27",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ciatta-thompson-p3",
+      "topic": "public-safety",
+      "statement": "In the same 2024 OPB profile, Thompson said she would focus on fully funding Portland Street Response and Portland Fire & Rescue.",
+      "excerpt": "I’d focus on fully funding the Portland Street Response and Portland Fire & Rescue.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/27/portland-oregon-politics-city-council-district-4-ciatta-thompson/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-27",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "All positions found are from a 2024 Portland City Council candidacy, not a 2026 House District 33 statement",
+    "Capital Chronicle 2026 primary voter guide: no page found for this district (HD35 and HD38 pages only; other districts' guide pages could not be fetched)",
+    "No public position found on housing, education, or healthcare for the state House race",
+    "Not an officeholder: no voting record",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Ciatta Thompson\" Oregon House District 33 2026",
+      "result": "used (Ballotpedia, GoodParty listing; no 2026 campaign content)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Ciatta Thompson\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (OPB 2024 profile; Ballotpedia)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Ciatta Thompson\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used (KOIN 2024 questionnaire, KATU 2024 profile)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Ciatta Thompson\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used (Portland Mercury 2024 council guides)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2024/09/27/portland-oregon-politics-city-council-district-4-ciatta-thompson/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.koin.com/news/politics/ciatta-thompson-candidate-questionnaire-for-portland-city-council-district-4/",
+      "result": "blocked (fetch error)"
+    }
+  ],
+  "collection_notes": "Ballot name 'Ciatta R Thompson'. incumbent_source_url is the HD33 incumbent's official page. Positions are from her 2024 Portland City Council District 4 run; the KOIN questionnaire could not be fetched. Matches inventory."
+}

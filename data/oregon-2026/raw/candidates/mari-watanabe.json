@@ -1,0 +1,100 @@
+{
+  "id": "mari-watanabe",
+  "name": "Mari Watanabe",
+  "race_id": "or-house-34",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/watanabe",
+  "occupation": "State Representative; former nonprofit executive director",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "mari-watanabe-b1",
+      "topic": "custom:background",
+      "statement": "Ballotpedia states that before her appointment to House District 34, Watanabe was executive director of Partners in Diversity from 2010 to 2023.",
+      "excerpt": "Watanabe served as executive director of Partners in Diversity, based in Portland, Oregon, from 2010 to 2023.",
+      "source": {
+        "url": "https://ballotpedia.org/Mari_Watanabe",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mari-watanabe-b2",
+      "topic": "custom:background",
+      "statement": "The Portland Tribune reported in January 2025 that Watanabe is a third-generation Japanese American and longtime community advocate and the first Japanese American woman in the Oregon Legislature.",
+      "excerpt": "Watanabe is a third-generation Japanese American and longtime community advocate.",
+      "source": {
+        "url": "https://portlandtribune.com/2025/01/22/new-oregon-house-member-will-serve-portions-of-portland-washington-co/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2025-01-22",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No public policy positions found (Ballotpedia lists none; no Capital Chronicle HD34 guide page; her official page lacks a bio and committee detail)",
+    "No voting or sponsorship items surfaced in steps 2-5",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/watanabe",
+      "result": "used (confirms Democrat, District 34; no bio detail on home page)"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Mari Watanabe\" Oregon House District 34 2026",
+      "result": "used (appointment coverage, Ballotpedia)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mari Watanabe\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (Ballotpedia, Capital Chronicle 2025 new legislators, WW 2025 swearing-in)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mari Watanabe\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used (KOIN 2025 swearing-in)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mari Watanabe\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used (Portland Tribune 2025)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Mari_Watanabe",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2025/01/22/new-oregon-house-member-will-serve-portions-of-portland-washington-co/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/2025/01/17/meet-oregons-19-new-state-legislators/",
+      "result": "blocked (fetch error)"
+    }
+  ],
+  "collection_notes": "Incumbency per oregonlegislature.gov/watanabe (Representative, District 34). Appointed January 2025. Matches inventory."
+}

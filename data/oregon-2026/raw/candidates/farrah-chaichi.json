@@ -1,0 +1,173 @@
+{
+  "id": "farrah-chaichi",
+  "name": "Farrah Chaichi",
+  "race_id": "or-house-35",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/chaichi/Pages/biography.aspx",
+  "occupation": "State Representative; intake specialist at Stoel Rives (per Capital Chronicle)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "farrah-chaichi-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Capital Chronicle's 2026 voter guide describes Chaichi as an intake specialist at Stoel Rives who has served in the Oregon House since 2023.",
+      "excerpt": "Farrah Chaichi, an intake specialist at Stoel Rives, has served in the Oregon House since 2023.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-35/",
+        "publisher": "Oregon Capital Chronicle 2026 voter guide (Democratic primary, House District 35)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-b2",
+      "topic": "custom:background",
+      "statement": "In her Oregon Legislature biography, Chaichi says she studied criminal justice and political science at Seattle University.",
+      "excerpt": "I went to Seattle University where I studied Criminal Justice and Political Science",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/chaichi/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "farrah-chaichi-p1",
+      "topic": "housing",
+      "statement": "In a 2022 Ballotpedia candidate survey, Chaichi said housing is a human right (statement dates from her first campaign).",
+      "excerpt": "Housing is a human right!",
+      "source": {
+        "url": "https://ballotpedia.org/Farrah_Chaichi",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-p2",
+      "topic": "healthcare",
+      "statement": "In a 2022 Ballotpedia candidate survey, Chaichi called for a single-payer, Medicare for All style system.",
+      "excerpt": "We need a single-payer – Medicare for All style – system where everyone is completely covered.",
+      "source": {
+        "url": "https://ballotpedia.org/Farrah_Chaichi",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-p3",
+      "topic": "public-safety",
+      "statement": "In an August 2026 OPB interview, Chaichi said she would personally like to see solitary confinement abolished and that she has been an advocate for criminal justice reform.",
+      "excerpt": "I personally would like to see solitary confinement completely abolished",
+      "source": {
+        "url": "https://www.opb.org/article/2026/08/13/oregon-lawmakers-urge-state-corrections-department-to-curtail-use-of-solitary-confinement/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-08-13",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "farrah-chaichi-v1",
+      "topic": "civil-rights",
+      "statement": "OPB reported in January 2026 that Chaichi introduced the Law Enforcement Accountability and Visibility Act, concerning masks worn by law enforcement.",
+      "excerpt": "the Law Enforcement Accountability and Visibility Act, introduced by Rep. Farrah Chaichi, D-Beaverton",
+      "source": {
+        "url": "https://www.opb.org/article/2026/01/14/oregon-lawmakers-consider-disputed-penalites-federal-agents-masking/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-01-14",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "farrah-chaichi-v2",
+      "topic": "public-safety",
+      "statement": "OPB reported in August 2026 that Chaichi led a lawmakers' letter to the Department of Corrections asking for no more than 15 consecutive days in solitary confinement.",
+      "excerpt": "a number of lawmakers, led by Rep. Farrah Chaichi, send a letter to the Dept. of Corrections",
+      "source": {
+        "url": "https://www.opb.org/article/2026/08/13/oregon-lawmakers-urge-state-corrections-department-to-curtail-use-of-solitary-confinement/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-08-13",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "Did not respond to the Capital Chronicle 2026 questionnaire (all items 'No response')",
+    "Housing and healthcare positions are from a 2022 survey; no 2026 statement found",
+    "No roll-call votes collected (phase 1 scope)",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/chaichi/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Farrah Chaichi\" Oregon House District 35 2026",
+      "result": "used (Capital Chronicle guide, Wikipedia excluded, official pages)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Farrah Chaichi\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (Ballotpedia; OPB 2026 solitary and mask-bill coverage; Capital Chronicle guide)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Farrah Chaichi\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used (KOIN/KGW/KATU bill coverage; not fetched)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Farrah Chaichi\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used (Portland Tribune 2026 mask coverage; not fetched)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-35/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Farrah_Chaichi",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/01/14/oregon-lawmakers-consider-disputed-penalites-federal-agents-masking/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2026/08/13/oregon-lawmakers-urge-state-corrections-department-to-curtail-use-of-solitary-confinement/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (elected 2022). Capital Chronicle says 'since 2023' (sworn in 2023). Inventory lists nominating parties Democrat and Working Families; not checked. Matches inventory. WW 2026 endorsement page not fetched as an endorsement list."
+}

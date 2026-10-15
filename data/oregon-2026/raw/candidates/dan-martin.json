@@ -1,0 +1,63 @@
+{
+  "id": "dan-martin",
+  "name": "Dan Martin",
+  "name_variants": [
+    "Daniel R Martin"
+  ],
+  "race_id": "or-house-35",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/chaichi/Pages/biography.aspx",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No bio found; the Capital Chronicle HD35 guide covers only the Democratic primary",
+    "Capital Chronicle 2026 primary voter guide: no page found for this district (only the HD35 Democratic primary page exists, with no Republican candidate)",
+    "No public positions found",
+    "Not an officeholder: no voting record",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Dan Martin\" Oregon House District 35 2026",
+      "result": "nothing relevant (BallotReady 'Daniel R Martin' listing and aggregators only)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Dan Martin\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (different people)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Dan Martin\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (1958 Martin family stories; different people)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Dan Martin\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (older HD28 candidate story; not verified as same person)"
+    }
+  ],
+  "collection_notes": "Ballot name 'Dan Martin'; BallotReady lists 'Daniel R Martin' (not verified as the same person). A 2022-era Pamplin article about 'Daniel Martin' seeking HD28 appeared; not verified as the same person and not used. incumbent_source_url is the HD35 incumbent's page. Matches inventory."
+}

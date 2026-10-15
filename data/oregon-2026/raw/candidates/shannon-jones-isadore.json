@@ -1,0 +1,100 @@
+{
+  "id": "shannon-jones-isadore",
+  "name": "Shannon Jones Isadore",
+  "race_id": "or-house-33",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/isadore/Pages/biography.aspx",
+  "occupation": "State Representative; business owner",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "shannon-jones-isadore-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Legislature biography describes Isadore as a U.S. Marine Corps veteran and business owner, born and raised in Northeast Portland.",
+      "excerpt": "U.S. Marine Corps veteran",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/isadore/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "shannon-jones-isadore-b2",
+      "topic": "custom:background",
+      "statement": "Ballotpedia lists Isadore's career as including CEO of the Oregon Change Clinic and service in the U.S. Marine Corps.",
+      "excerpt": "Her career experience includes working as the CEO of the Oregon Change Clinic.",
+      "source": {
+        "url": "https://ballotpedia.org/Shannon_Jones_Isadore",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No public policy positions found for 2026 (Ballotpedia campaign themes empty; no Capital Chronicle HD33 guide page)",
+    "No voting or sponsorship items surfaced in steps 2-5",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/isadore/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Shannon Jones Isadore\" Oregon House District 33 2026",
+      "result": "used (official pages, Ballotpedia, 2024-era coverage)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shannon Jones Isadore\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (Ballotpedia; 2024 coverage of her first run)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shannon Jones Isadore\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used (2024 KOIN candidate video; not fetched)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shannon Jones Isadore\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used (2024 Portland Tribune biography and VOTE411; not fetched)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Shannon_Jones_Isadore",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.koin.com/nwpolitics/candidate-shannon-jones-isadore-on-a-new-vision-for-house-district-33/",
+      "result": "blocked (fetch error)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://onyourballot.vote411.org/m/race-detail.do?id=6722841",
+      "result": "blocked (fetch error)"
+    }
+  ],
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (first-term representative, HD33). Matches inventory. Ballotpedia has no 2026 content and no policy positions. Capital Chronicle HD33 guide page not found."
+}

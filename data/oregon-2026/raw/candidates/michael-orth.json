@@ -1,0 +1,65 @@
+{
+  "id": "michael-orth",
+  "name": "Michael Orth",
+  "race_id": "or-house-36",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/phamh",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement: pending script extract",
+    "No bio found in any source searched",
+    "No public positions found",
+    "Capital Chronicle 2026 primary voter guide: no page found for this district (HD35 and HD38 pages only; other districts' guide pages could not be fetched)",
+    "Not an officeholder: no voting record",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "pamphlet statement: pending script extract",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Michael Orth\" Oregon House District 36 2026",
+      "result": "nothing relevant (BallotReady and aggregators only)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Michael Orth\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (WW endorsements listing only; page could not be fetched)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Michael Orth\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (different person)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Michael Orth\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (different people)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+      "result": "blocked (server error on two attempts)"
+    }
+  ],
+  "collection_notes": "No usable information. WW Fall 2026 legislature endorsements page appeared for this name but could not be fetched. incumbent_source_url is the HD36 incumbent's page. Matches inventory."
+}
