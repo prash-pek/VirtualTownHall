@@ -1,0 +1,75 @@
+{
+ "id": "nicki-passarella",
+ "name": "Nicki Passarella",
+ "race_id": "clackamas-swcd-zone-1",
+ "party": null,
+ "incumbent": false,
+ "incumbent_source_url": "https://conservationdistrict.org/our-people",
+ "name_variants": [
+  "Nickie Passarella"
+ ],
+ "occupation": null,
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "nicki-passarella-b1",
+   "topic": "custom:background",
+   "statement": "The district lists Passarella as an associate director for Zone 1 with a term ending January 2027.",
+   "excerpt": "Nickie Passarella January 2027 1",
+   "source": {
+    "url": "https://conservationdistrict.org/?p=6979",
+    "publisher": "Clackamas Soil and Water Conservation District (official site), Associate Directors",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [],
+ "voting_record": [],
+ "gaps": [
+  "No pamphlet statement found (script extract)",
+  "No public positions or biography found",
+  "Unopposed; no campaign website found"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "pamphlet extract clackamas-county/nicki-passarella.txt (+ _index.json loose_matches checked)",
+   "result": "no pamphlet statement found (script extract)"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://conservationdistrict.org/our-people ; conservationdistrict.org/?p=6979 (Associate Directors)",
+   "result": "used (associate director Zone 1; Zone 1 director is Jesse Nelson)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign website domain linked from pamphlet or official pages",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Nicki Passarella\" Clackamas SWCD zone 1 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5a",
+   "query_or_url": "\"Nicki Passarella\" allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5b",
+   "query_or_url": "\"Nicki Passarella\" allowed_domains kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5c",
+   "query_or_url": "\"Nicki Passarella\" allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant"
+  }
+ ],
+ "collection_notes": "Pamphlet extract: only p. 6 (index, name starred, no statement page). District spells the name 'Nickie Passarella'. Incumbent false: Our People page lists Jesse Nelson as the Zone 1 director (term expires 2026) and Passarella only as a non-voting associate director. DISCREPANCY to review: Nelson is not in the inventory race candidate list (unopposed Passarella; Nelson may have declined to run).",
+ "endorsements": []
+}

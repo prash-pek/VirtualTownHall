@@ -1,0 +1,283 @@
+{
+ "id": "jennifer-murphy",
+ "name": "Jennifer Murphy",
+ "race_id": "milwaukie-council-pos-2",
+ "party": null,
+ "incumbent": false,
+ "incumbent_source_url": "https://www.milwaukieoregon.gov/government/city_council/index.php",
+ "occupation": "Teacher, Small Business Owner, Property Manager, Housing & Food Security Advocate",
+ "website_url": "https://www.jennifermurphyformilwaukie.com",
+ "website_verified_via": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+ "bio": [
+  {
+   "id": "jennifer-murphy-b1",
+   "topic": "custom:background",
+   "statement": "Murphy's pamphlet statement lists her occupation as teacher, small business owner, property manager and housing and food security advocate.",
+   "excerpt": "Occupation: Teacher, Small Business Owner, Property Manager, Housing & Food Security Advocate",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-b2",
+   "topic": "custom:background",
+   "statement": "Murphy's pamphlet statement lists prior governmental experience as a Clackamas County Community Action Board member and Historic Milwaukie Neighborhood Association secretary.",
+   "excerpt": "Prior Governmental Experience: Clackamas County Community Action Board Member, Historic Milwaukie Neighborhood Association Secretary",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "jennifer-murphy-p1",
+   "topic": "housing",
+   "statement": "In her pamphlet statement, Murphy lists responsible and affordable housing as her first priority, including mixed-use housing and land banking.",
+   "excerpt": "Responsible & Affordable Housing - Build creative mixed-use housing, explore land banking, include green space, and avoid over-building by taking the time to do it right.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-p2",
+   "topic": "environment",
+   "statement": "In her pamphlet statement, Murphy lists parks and green spaces as a priority, proposing to secure regional funds and grants for green spaces in every neighborhood.",
+   "excerpt": "Parks & Greens paces - Secure regional funds and grants to create and maintain green spaces in every neighborhood.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-p3",
+   "topic": "local-business",
+   "statement": "In her pamphlet statement, Murphy lists thriving local businesses as a priority, proposing a citywide network of Milwaukie businesses.",
+   "excerpt": "Thriving Local Businesses - Build a citywide network helping Milwaukie businesses collaborate and grow customer traffic.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-p4",
+   "topic": "transportation",
+   "statement": "In her pamphlet statement, Murphy lists pedestrian safety as a priority, proposing to prioritize sidewalk construction through the SAFE program.",
+   "excerpt": "Pedestrian Safety - Prioritize sidewalk construction on connecting streets through the SAFE program.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "gaps": [
+  "No position found on public safety or taxes",
+  "Campaign priorities subpage (/new-page-1) could not be fetched"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "pamphlet extract clackamas-county/jennifer-murphy.txt (+ _index.json loose_matches checked)",
+   "result": "Pamphlet statement quoted from the script extract (read-only); pamphlet PDF not fetched. Statement on pamphlet PDF p. 35 (printed C-34); pages 5 and 18 are index/other lists."
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.milwaukieoregon.gov/government/city_council/index.php ; https://www.milwaukieoregon.gov/government/city_council/council_elections.php",
+   "result": "used (Position 2 holder is Massey; Murphy not on roster)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "jennifermurphyformilwaukie.com (domain printed in pamphlet statement), homepage",
+   "result": "used (homepage priorities repeat pamphlet themes; not added as items)"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Jennifer Murphy\" Milwaukie city council 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5a",
+   "query_or_url": "\"Jennifer Murphy\" allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5b",
+   "query_or_url": "\"Jennifer Murphy\" allowed_domains kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5c",
+   "query_or_url": "\"Jennifer Murphy\" allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "3b",
+   "query_or_url": "https://www.jennifermurphyformilwaukie.com/new-page-1 (priorities)",
+   "result": "blocked/error (fetch failed)"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 35 (C-34): Murphy is the right column beside Allie Ball; only her column used. Pamphlet p. 18 and p. 5 are other lists (index / others' endorsements), not her statement. Incumbent false: city council page lists Position 2 held by Robert Massey. Website homepage lists the same priority themes; its testimonial quotes duplicate the pamphlet so not added.",
+ "endorsements": [
+  {
+   "id": "jennifer-murphy-e1",
+   "endorser": "Democratic Party of Clackamas County",
+   "endorser_type": "organization",
+   "statement": "Jennifer Murphy's pamphlet statement lists Democratic Party of Clackamas County as an endorser.",
+   "excerpt": "Democratic Party of Clackamas County",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-e2",
+   "endorser": "Adam Khosroabadi",
+   "endorser_type": "official",
+   "statement": "Jennifer Murphy's pamphlet statement lists Adam Khosroabadi as an endorser.",
+   "excerpt": "City Councilors Adam Khosroabadi, Rebecca Stavenjord, Robert Massey",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-e3",
+   "endorser": "Rebecca Stavenjord",
+   "endorser_type": "official",
+   "statement": "Jennifer Murphy's pamphlet statement lists Rebecca Stavenjord as an endorser.",
+   "excerpt": "City Councilors Adam Khosroabadi, Rebecca Stavenjord, Robert Massey",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-e4",
+   "endorser": "Robert Massey",
+   "endorser_type": "official",
+   "statement": "Jennifer Murphy's pamphlet statement lists Robert Massey as an endorser.",
+   "excerpt": "City Councilors Adam Khosroabadi, Rebecca Stavenjord, Robert Massey",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-e5",
+   "endorser": "Lisa Batey",
+   "endorser_type": "official",
+   "statement": "Jennifer Murphy's pamphlet statement lists Lisa Batey as an endorser.",
+   "excerpt": "Mayor Lisa Batey",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-e6",
+   "endorser": "Wilda Parks",
+   "endorser_type": "official",
+   "statement": "Jennifer Murphy's pamphlet statement lists Wilda Parks as an endorser.",
+   "excerpt": "Former Mayor & City Councilor Wilda Parks",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-e7",
+   "endorser": "Christine Lewis",
+   "endorser_type": "official",
+   "statement": "Jennifer Murphy's pamphlet statement lists Christine Lewis as an endorser.",
+   "excerpt": "Christine Lewis, Metro Councilor",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-e8",
+   "endorser": "R.W. Smith",
+   "endorser_type": "person",
+   "statement": "Jennifer Murphy's pamphlet statement lists R.W. Smith as an endorser.",
+   "excerpt": "County Commissioner Candidate R.W. Smith",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-e9",
+   "endorser": "Corey Hester",
+   "endorser_type": "person",
+   "statement": "Jennifer Murphy's pamphlet statement lists Corey Hester as an endorser.",
+   "excerpt": "Equity Steering Committee Member Corey Hester",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennifer-murphy-e10",
+   "endorser": "Colleen Rockwell",
+   "endorser_type": "person",
+   "statement": "Jennifer Murphy's pamphlet statement lists Colleen Rockwell as an endorser.",
+   "excerpt": "Colleen Rockwell, 2025 Volunteer of the Year",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ]
+}

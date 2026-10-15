@@ -1,0 +1,150 @@
+{
+ "id": "kathleen-walker",
+ "name": "Kathleen Walker",
+ "race_id": "sandy-mayor",
+ "party": null,
+ "incumbent": null,
+ "occupation": "Trails Planner",
+ "website_url": "https://www.walkerforsandy.com",
+ "website_verified_via": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+ "bio": [
+  {
+   "id": "kathleen-walker-b1",
+   "topic": "custom:background",
+   "statement": "Walker's pamphlet statement lists her prior governmental experience as Sandy Mayor since 2025, Sandy City Council 2021-2024, and service on the Parks Board and Budget Committee.",
+   "excerpt": "Sandy Mayor: 2025-present; Sandy City Council: 2021-2024; Sandy Parks Board and Budget Committee",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 50 (printed C-49)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "kathleen-walker-b2",
+   "topic": "custom:background",
+   "statement": "Walker's pamphlet statement lists her background as Mt. Hood National Forest recreation manager and forest planner, with a forestry degree.",
+   "excerpt": "Mt. Hood National Forest: Recreation Manager 1992 2015; Forest Planner 1983-1992;",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 50 (printed C-49)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "kathleen-walker-p1",
+   "topic": "infrastructure",
+   "statement": "In her pamphlet statement, Walker says developers must pay their share of system development charges when building.",
+   "excerpt": "Developers must pay their share of system development charges (SDCs) when building!",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 50 (printed C-49)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "kathleen-walker-p2",
+   "topic": "infrastructure",
+   "statement": "In her pamphlet statement, Walker says she will work to find more grant funding in Salem and Washington D.C. to lower water and sewer costs.",
+   "excerpt": "I will work tirelessly to find more grant funding in Salem and D.C.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 50 (printed C-49)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "kathleen-walker-p3",
+   "topic": "public-safety",
+   "statement": "In her pamphlet statement, Walker says she will seek additional funding, without raising the safety fee, to expand the police force.",
+   "excerpt": "I’ll seek additional funding that doesn’t raise our safety fee, to expand our future police force.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 50 (printed C-49)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "kathleen-walker-p4",
+   "topic": "housing",
+   "statement": "In her pamphlet statement, Walker lists reducing high density growth among her mayoral focuses.",
+   "excerpt": "Reducing high density growth",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 50 (printed C-49)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "kathleen-walker-p5",
+   "topic": "housing",
+   "statement": "On her campaign website, Walker says she will work to manage and control growth if elected mayor.",
+   "excerpt": "If elected as Mayor, I will work to manage and control growth.",
+   "source": {
+    "url": "https://walkerforsandy.com",
+    "publisher": "Campaign website (walkerforsandy.com)",
+    "tier": "T2",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "gaps": [
+  "Unopposed; incumbency not confirmed by an official city source (city site blocks automated fetch)",
+  "No position found on housing affordability beyond growth, or on taxes",
+  "Pamphlet statement lists no endorsers"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "pamphlet extract clackamas-county/kathleen-walker.txt (+ _index.json loose_matches checked)",
+   "result": "Pamphlet statement quoted from the script extract (read-only); pamphlet PDF not fetched. Statement on pamphlet PDF p. 50 (printed C-49)."
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.ci.sandy.or.us/citycouncil/page/meet-your-city-council (Meet Your City Council); ci.sandy.or.us/citycouncil",
+   "result": "blocked (robots.txt disallows automated fetch); incumbency left null"
+  },
+  {
+   "step": "3",
+   "query_or_url": "walkerforsandy.com (domain printed in pamphlet statement); homepage",
+   "result": "used"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Kathleen Walker\" Sandy mayor 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5a",
+   "query_or_url": "\"Kathleen Walker\" allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5b",
+   "query_or_url": "\"Kathleen Walker\" allowed_domains kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5c",
+   "query_or_url": "\"Kathleen Walker\" allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (pamplinmedia.com results about her 2022/2024 races not fetched: site blocks automated fetch)"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 50 (C-49): Walker is the right column; left column is Rivergrove candidate Curt Taylor (not used). Pages 6 (index) and 17 are not her statement. Walker's pamphlet says 'Sandy Mayor: 2025-present' and Sandy Post (Aug 2024, T3) describes her as councilor running for mayor, but incumbent left null because the official roster could not be fetched. Her website text appears carried over from an earlier campaign (says 'elected to the Sandy City Council in November 2019' vs pamphlet's 2021-2024); only the growth line used. Inventory incumbent null: consistent.",
+ "endorsements": []
+}

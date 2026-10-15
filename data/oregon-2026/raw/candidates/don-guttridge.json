@@ -1,0 +1,140 @@
+{
+ "id": "don-guttridge",
+ "name": "Don Guttridge",
+ "race_id": "clackamas-swcd-zone-5",
+ "party": null,
+ "incumbent": true,
+ "incumbent_source_url": "https://conservationdistrict.org/our-people",
+ "name_variants": [
+  "Donald Guttridge"
+ ],
+ "occupation": "Home designer; farmer; Clackamas SWCD Director",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "don-guttridge-b1",
+   "topic": "custom:background",
+   "statement": "Guttridge's pamphlet statement lists prior governmental experience as USMC Reserves for 13 years and Clackamas SWCD board member.",
+   "excerpt": "Prior Governmental Experience: USMC Reserves; 13 years, Honorable Discharge 06/09/1990; Clackamas Soil & Water Conservation District; Board of Directors",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 59 (printed C-58)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "don-guttridge-b2",
+   "topic": "custom:background",
+   "statement": "In his pamphlet statement, Guttridge says he was raised on a Century Farm (1874) and has operated part of it for 34 years.",
+   "excerpt": "I have been raised on a Century Farm (1874), and operated a portion of that same farm for the past 34 years with my wife and daughters.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 59 (printed C-58)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "don-guttridge-b3",
+   "topic": "custom:background",
+   "statement": "The district's board page lists Guttridge as Zone 5 director and chair, term expiring in 2026.",
+   "excerpt": "Don Guttridge",
+   "source": {
+    "url": "https://conservationdistrict.org/our-people",
+    "publisher": "Clackamas Soil and Water Conservation District (official site), Our People",
+    "tier": "T1",
+    "published_at": "2026-09-01",
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "don-guttridge-p1",
+   "topic": "environment",
+   "statement": "In his pamphlet statement, Guttridge says the district works one on one to help conserve soil and clean water without regulatory or enforcement mandates.",
+   "excerpt": "The District works one on one to help conserve soil and clean water without any regulatory or enforcement mandates.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 59 (printed C-58)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "don-guttridge-p2",
+   "topic": "agriculture",
+   "statement": "In his pamphlet statement, Guttridge calls conservation and wise use of natural resources a way of life and describes serving on the district board as giving back.",
+   "excerpt": "Conservation and wise-use of natural resources is a way of life that I am proud to be involved in",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 59 (printed C-58)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "don-guttridge-p3",
+   "topic": "environment",
+   "statement": "In a 2023 district profile, Guttridge says he promotes conservation ideals with his clients.",
+   "excerpt": "I always promote conservation ideals with my clients,",
+   "source": {
+    "url": "https://conservationdistrict.org/2023/meet-don-guttridge-clackamas-swcd-zone-5-director.html",
+    "publisher": "Clackamas Soil and Water Conservation District (official site), 'Meet Don Guttridge'",
+    "tier": "T1",
+    "published_at": "2023-03-17",
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "gaps": [
+  "Unopposed; no campaign website found",
+  "Pamphlet statement lists no endorsers"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "pamphlet extract clackamas-county/don-guttridge.txt (+ _index.json loose_matches checked)",
+   "result": "Pamphlet statement quoted from the script extract (read-only); pamphlet PDF not fetched. Statement on pamphlet PDF p. 59 (printed C-58)."
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://conservationdistrict.org/our-people ; conservationdistrict.org/2023/meet-don-guttridge-...",
+   "result": "used (roster + profile)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign website domain linked from pamphlet or official pages",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Don Guttridge\" Clackamas SWCD zone 5 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5a",
+   "query_or_url": "\"Don Guttridge\" allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant (OPB 2024 hit is a different Guttridge)"
+  },
+  {
+   "step": "5b",
+   "query_or_url": "\"Don Guttridge\" allowed_domains kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5c",
+   "query_or_url": "\"Don Guttridge\" allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (pamplinmedia.com result not fetched: blocks automated fetch)"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 59 (C-58): Guttridge right column beside Roger Fantz; only his column used. Furnished-by line prints 'Donald Guttridge'. Incumbent true per district Our People page (Zone 5, Chair, term expires 2026). OPB search hit (2024) concerns a different Guttridge (Mark) and was not used. Matches inventory (incumbent null there).",
+ "endorsements": []
+}

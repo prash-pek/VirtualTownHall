@@ -1,0 +1,89 @@
+{
+ "id": "kc-bisenius",
+ "name": "KC Bisenius",
+ "race_id": "molalla-council",
+ "party": null,
+ "incumbent": true,
+ "incumbent_source_url": "https://www.cityofmolalla.com/Government/Molalla-City-Council",
+ "name_variants": [
+  "K.C. Bisenius",
+  "Kevin \"K.C.\" Bisenius"
+ ],
+ "occupation": "Molalla City Councilor",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "kc-bisenius-b1",
+   "topic": "custom:background",
+   "statement": "The city's profile says Councilor K.C. Bisenius has over 25 years of experience in sales and management.",
+   "excerpt": "He brings to the Council over 25 years of experience in Sales and Management",
+   "source": {
+    "url": "https://www.cityofmolalla.com/Government/Molalla-City-Council/Meet-the-Molalla-City-Council/K.C.-Bisenius",
+    "publisher": "City of Molalla (official city council page), councilor profile",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "kc-bisenius-b2",
+   "topic": "custom:background",
+   "statement": "The city's profile says Bisenius is committed to helping Molalla grow responsibly while protecting its small-town character.",
+   "excerpt": "committed to helping the City grow responsibly while protecting its small-town character",
+   "source": {
+    "url": "https://www.cityofmolalla.com/Government/Molalla-City-Council/Meet-the-Molalla-City-Council/K.C.-Bisenius",
+    "publisher": "City of Molalla (official city council page), councilor profile",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [],
+ "voting_record": [],
+ "gaps": [
+  "No pamphlet statement found (script extract)",
+  "Unopposed (3 candidates for 3 seats); no public positions found",
+  "No campaign website found"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "pamphlet extract clackamas-county/kc-bisenius.txt (+ _index.json loose_matches checked)",
+   "result": "no pamphlet statement found (script extract); Pamphlet PDF p. 5 (index) lists the name with an asterisk but no statement page exists in the extract;"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.cityofmolalla.com/Government/Molalla-City-Council ; https://www.cityofmolalla.com/Government/Molalla-City-Council/Meet-the-Molalla-City-Council/K.C.-Bisenius",
+   "result": "used (roster + profile)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign website domain linked from pamphlet or official pages",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"KC Bisenius\" Molalla city council 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5a",
+   "query_or_url": "\"KC Bisenius\" allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5b",
+   "query_or_url": "\"KC Bisenius\" allowed_domains kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5c",
+   "query_or_url": "\"KC Bisenius\" allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant"
+  }
+ ],
+ "collection_notes": "Pamphlet extract: only p. 5 (index, name starred, no statement page). Incumbent true: city council roster lists 'Councilor K.C. Bisenius'; his profile page has inconsistent appointment dates (09/10/2024 header vs 'September 2025' in text) and 'Term Ends: 12/31/2026'. Ballot spelling 'KC Bisenius' per county pamphlet index; inventory already has incumbent true with source cityofmolalla.com Elections page. 'Kevin \"K.C.\"' appears in city letter per inventory notes.",
+ "endorsements": []
+}

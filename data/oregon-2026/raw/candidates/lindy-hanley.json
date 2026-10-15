@@ -1,0 +1,116 @@
+{
+ "id": "lindy-hanley",
+ "name": "Lindy C Hanley",
+ "race_id": "sandy-council-seat-5",
+ "party": null,
+ "incumbent": null,
+ "name_variants": [
+  "Lindy Hanley",
+  "Lindy C. Hanley"
+ ],
+ "occupation": "Library Tech, Oregon Trail School District",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "lindy-hanley-b1",
+   "topic": "custom:background",
+   "statement": "Hanley's pamphlet statement lists prior governmental experience as Sandy City Council since 2024, with liaison roles to the Sandy Mountain Festival, Chamber of Commerce and Library Board.",
+   "excerpt": "Prior Governmental Experience: Sandy City Council, 2024-present; Council Liaison to Sandy Mountain Festival, Chamber of Commerce, and Library Board",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "lindy-hanley-b2",
+   "topic": "custom:background",
+   "statement": "In her pamphlet statement, Hanley says she was appointed to the Sandy City Council two years ago.",
+   "excerpt": "Two years ago, I was honored to be appointed to Sandy City Council.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "lindy-hanley-p1",
+   "topic": "infrastructure",
+   "statement": "In her pamphlet statement, Hanley says she will pursue every reasonable option to meet wastewater and other infrastructure needs while keeping the financial burden manageable.",
+   "excerpt": "I will continue to work with Council and city staff to pursue every reasonable option to meet our infrastructure needs while keeping the financial burden we all share as manageable as possible.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "lindy-hanley-p2",
+   "topic": "local-business",
+   "statement": "In her pamphlet statement, Hanley says she wants creative ways to preserve Sandy's heritage and create opportunities for local businesses and tourism.",
+   "excerpt": "I believe we can find creative ways to preserve and highlight Sandy’s heritage, encourage visitors to explore our community, and create opportunities for local businesses, tourism, and economic development.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "gaps": [
+  "Incumbency not confirmed by an official city source (pamphlet states council service since 2024; city site blocks automated fetch)",
+  "No positions found on housing, taxes or public safety",
+  "No campaign website found",
+  "Pamphlet statement lists no endorsers"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "pamphlet extract clackamas-county/lindy-hanley.txt (+ _index.json loose_matches checked)",
+   "result": "Pamphlet statement quoted from the script extract (read-only); pamphlet PDF not fetched. Statement on pamphlet PDF p. 52 (printed C-51)."
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.ci.sandy.or.us/citycouncil/page/meet-your-city-council (Meet Your City Council); ci.sandy.or.us/citycouncil",
+   "result": "blocked (robots.txt disallows automated fetch); incumbency left null"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign website domain linked from pamphlet or official pages",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Lindy Hanley\" Sandy city council 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5a",
+   "query_or_url": "\"Lindy Hanley\" allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5b",
+   "query_or_url": "\"Lindy Hanley\" allowed_domains kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5c",
+   "query_or_url": "\"Lindy Hanley\" allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 52 (C-51): Hanley right column beside Darren Wegener; only her column used. Unopposed. Ballot spelling 'Lindy C Hanley' (pamphlet furnished-by line prints 'Lindy C. Hanley'). Incumbent left null: pamphlet self-reports council service 2024-present but no official roster could be fetched.",
+ "endorsements": []
+}
