@@ -33,3 +33,9 @@ Opus verifier baselines per candidate:
 - Portland D4: cache_write 14.3k, cache_read 224k, output 1.9k.
 
 Quality: the collector wrongly logged the House 26 pamphlet as truncated. The statements are readable at a WebFetch offset of 60000. The verifier caught the miss.
+
+## Pamphlet statements: script method is the default (Prash, 2026-10-15)
+- Pamphlet text comes from `pamphlet_extract.py` run on the downloaded PDF. This needs a session whose environment allows the .gov hosts. Collectors get the extract folder as their step-1 input and do not read pamphlet PDFs with WebFetch.
+- Reason: the A/B test showed WebFetch read the Washington County pamphlet as unreadable binary (0 of 5 statements), while the script captured them verbatim at a fraction of the tokens.
+- Collectors still run steps 2-6 (official pages, searches, the 3 news groups) on Sonnet. Verification is unchanged.
+- Shared extracts live in /mnt/project-files/townhall/data/pamphlet-ab-test/extracts/.
