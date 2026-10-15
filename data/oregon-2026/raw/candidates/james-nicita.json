@@ -1,0 +1,264 @@
+{
+ "id": "james-nicita",
+ "name": "James Nicita",
+ "race_id": "oregon-city-commissioner",
+ "party": null,
+ "incumbent": false,
+ "occupation": "Historian",
+ "website_url": "https://www.nicita4oc.com",
+ "website_verified_via": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (pamphlet statement lists www.nicita4oc.com)",
+ "bio": [
+  {
+   "id": "james-nicita-b1",
+   "topic": "custom:occupation",
+   "statement": "Nicita's pamphlet statement lists his occupation as historian, with a background as a retired attorney and planner.",
+   "excerpt": "Occupation: Historian Occupational Background: Retired attorney, planner",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "james-nicita-b2",
+   "topic": "education",
+   "statement": "His pamphlet statement lists a B.A. from Berkeley, a planning master's from Michigan and a J.D. from Wayne State.",
+   "excerpt": "Cal Berkeley, History, B.A.; U. Michigan, Planning, Master’s; Wayne State, Law, J.D.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "james-nicita-b3",
+   "topic": "custom:experience",
+   "statement": "His pamphlet statement lists prior service on the Oregon City Commission and Historic Review Board.",
+   "excerpt": "Prior Governmental Experience: Oregon City Commission, Historic Review Board",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "james-nicita-p1",
+   "topic": "public-safety",
+   "statement": "Nicita says he supports fully funded police and restoring to police tax dollars that were diverted to urban renewal.",
+   "excerpt": "Fully funded police. Restore to police our tax dollars diverted to urban renewal.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "james-nicita-p2",
+   "topic": "economy",
+   "statement": "Nicita says he envisions a locally self-reliant economy, including a regional food hub and a North End solar energy generation district.",
+   "excerpt": "Envision a locally self-reliant economy. Being on the urban/rural frontier: a regional food hub. The North End: a solar energy generation district.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "james-nicita-p3",
+   "topic": "taxes",
+   "statement": "Nicita says that if urban renewal is maintained it should prioritize small-scale urban design projects that citizens help design and construct.",
+   "excerpt": "If we maintain urban renewal, prioritize small-scale, high-impact urban design projects that citizens help design and construct.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "james-nicita-p4",
+   "topic": "custom:parks",
+   "statement": "Nicita says he would partner with Metro to make Water Board Park a regional Metropark.",
+   "excerpt": "First-rate parks. Partner with Metro to make Water Board Park a regional Metropark.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "james-nicita-p5",
+   "topic": "housing",
+   "statement": "Nicita says he would defend the Park Place Concept Plan, develop the North Village and build the Holly Lane Connector.",
+   "excerpt": "Defend the Park Place Concept Plan. Develop the North Village. Build the Holly Lane Connector.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "james-nicita-p6",
+   "topic": "technology",
+   "statement": "Nicita says he favors historic preservation and opposes data centers.",
+   "excerpt": "Yes to historic preservation. No to data centers.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "james-nicita-p7",
+   "topic": "custom:governance",
+   "statement": "Nicita says he supports creating an independent charter office of city attorney to guarantee public-interest-focused legal services.",
+   "excerpt": "create an independent charter office of city attorney, guaranteeing public interest-focused legal services.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [
+  {
+   "id": "james-nicita-e1",
+   "endorser": "Joan Williams, Mayor John Williams’ widow",
+   "endorser_type": "person",
+   "statement": "James Nicita's pamphlet statement lists Joan Williams, Mayor John Williams’ widow as an endorser.",
+   "excerpt": "Joan Williams, Mayor John Williams’ Widow",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "james-nicita-e2",
+   "endorser": "Jerry Herrmann, founder, Environmental Learning Center",
+   "endorser_type": "person",
+   "statement": "James Nicita's pamphlet statement lists Jerry Herrmann, founder, Environmental Learning Center as an endorser.",
+   "excerpt": "Jerry Herrmann, Founder, Environmental Learning Center",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "james-nicita-e3",
+   "endorser": "Jackie Hammond-Williams, co-founder, Oregon City Farmers Market",
+   "endorser_type": "person",
+   "statement": "James Nicita's pamphlet statement lists Jackie Hammond-Williams, co-founder, Oregon City Farmers Market as an endorser.",
+   "excerpt": "Jackie Hammond-Williams, Co-Founder, Oregon City Farmers Market",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "james-nicita-e4",
+   "endorser": "Karla Laws, Planning Commissioner",
+   "endorser_type": "official",
+   "statement": "James Nicita's pamphlet statement lists Karla Laws, Planning Commissioner as an endorser.",
+   "excerpt": "Karla Laws, Planning Commissioner",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "james-nicita-e5",
+   "endorser": "Paul Edgar, Clackamas County Community Action Board Member",
+   "endorser_type": "person",
+   "statement": "James Nicita's pamphlet statement lists Paul Edgar, Clackamas County Community Action Board Member as an endorser.",
+   "excerpt": "Paul Edgar, Clackamas County Community Action Board Member",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 39, printed C-38)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "gaps": [
+  "Campaign site www.nicita4oc.com could not be fetched (robots disallow); no site content used",
+  "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+  "Search shows only older (pre-2026) Pamplin letters/opinion pieces; not read"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "Clackamas pamphlet extract james-nicita.txt (source_url https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://orcity.org/933",
+   "result": "used (roster lists four commissioners: Smith, Wilson, Marl, Mitchel; James Nicita not listed)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain confirmed",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"James Nicita\" commissioner Oregon City 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"James Nicita\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant (Ballotpedia 2011 Jim Nicita recall page only; background, not cited)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"James Nicita\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant (unrelated KPTV/KATU items)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"James Nicita\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (pamplinmedia.com blocks automated fetch; snippets are pre-2026 opinion pieces)"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 39 (C-38): Nicita is the right column. Inventory lists 'James Nicita'; older sources (Ballotpedia recall page) use 'Jim Nicita' -> name_variants. Not on current roster, so incumbent=false despite prior Commission service.",
+ "incumbent_source_url": "https://orcity.org/933",
+ "name_variants": [
+  "Jim Nicita"
+ ]
+}

@@ -26,17 +26,17 @@
   "positions": [],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "No biography details or occupation found",
     "No policy positions found",
-    "Ballotpedia: has not completed the 2026 Candidate Connection survey"
+    "Ballotpedia: has not completed the 2026 Candidate Connection survey",
+    "No voters' pamphlet statement filed (asterisk on the SOS pamphlet list of candidates, p. 26)"
   ],
-  "collection_notes": "Ballotpedia notes earlier nonpartisan runs (2021 Multnomah ESD; 2025 Urban Flood Safety district); not itemized because no quotable text. Not incumbent per inventory; null. No campaign domain confirmed.",
+  "collection_notes": "Ballotpedia notes earlier nonpartisan runs (2021 Multnomah ESD; 2025 Urban Flood Safety district); not itemized because no quotable text. Not incumbent per inventory; null. No campaign domain confirmed. Step 1 complete: no statement in Multnomah, Washington or Clackamas SOS extracts.",
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract leo-morley.txt (Multnomah edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf)",
+      "result": "not found (no statement filed: candidate is marked with an asterisk in the Multnomah edition list of candidates, p. 26; no other page names the candidate)"
     },
     {
       "step": "2",
@@ -68,5 +68,6 @@
       "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: vote411 results for other offices not read",
       "result": "nothing relevant"
     }
-  ]
+  ],
+  "endorsements": []
 }

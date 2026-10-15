@@ -47,6 +47,32 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "mark-gamba-b4",
+      "topic": "custom:occupation",
+      "statement": "His voters' pamphlet statement lists Gamba's occupation as State Representative and small business owner, with a background as a National Geographic photographer.",
+      "excerpt": "Occupation: State Representative, small business owner Occupational Background: National Geographic Photographer",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-b5",
+      "topic": "custom:experience",
+      "statement": "His pamphlet statement lists an AAS-CMC educational background and Milwaukie Mayor as his prior governmental experience.",
+      "excerpt": "Educational Background: AAS-CMC Prior Governmental Experience: Milwaukie Mayor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "positions": [
@@ -75,21 +101,59 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "mark-gamba-p3",
+      "topic": "environment",
+      "statement": "In his pamphlet statement, Gamba says climate change is his top priority and he will work on electrical transmission, faster clean-energy permitting through land use changes, and lower transportation emissions.",
+      "excerpt": "Climate change is the main reason Mark first ran for office. It remains his top priority. He will continue to drive policy to modernize how we build out our electrical transmission systems to enable a more rapid transition to cheap clean energy.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-p4",
+      "topic": "housing",
+      "statement": "Gamba says in his pamphlet statement that he has worked on affordable housing finance, renter protections and lower construction costs, and is now pursuing a public/private program to build affordable homes for working families to buy.",
+      "excerpt": "Mark has led the charge on reforming how we finance affordable housing, on renter protections, and on lowering the cost to construct new housing.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-p5",
+      "topic": "economy",
+      "statement": "His pamphlet statement says Gamba wants to address wealth inequality, citing the kicker and property tax limits as constitutional changes that benefit the richest Oregonians.",
+      "excerpt": "Mark is unafraid of taking on monied interests and pushing for the bold, transformative change we need.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "No 2026 issue statements found; Ballotpedia survey statements are from his 2020 congressional campaign",
     "Capital Chronicle 2026 primary questionnaire: no response",
     "No voting or sponsorship items collected (phase 1 scope)"
   ],
-  "collection_notes": "Incumbent per oregonlegislature.gov member page (State Rep., HD 41, Milwaukie). Capital Chronicle HD41 Democratic primary guide shows Gamba did not answer its questionnaire. No campaign domain confirmed. Matches inventory.",
+  "collection_notes": "Incumbent per oregonlegislature.gov member page (State Rep., HD 41, Milwaukie). Capital Chronicle HD41 Democratic primary guide shows Gamba did not answer its questionnaire. No campaign domain confirmed. Matches inventory. Pamphlet items added from the Multnomah edition (HD 41 spans Multnomah and Clackamas; same text in all three editions). Bio cap (5) reached: occupation/background and education/government experience were combined into two items. Party line in pamphlet also lists Working Families.",
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract mark-gamba.txt (Multnomah edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf)",
+      "result": "used (statement found, p. 50; also printed in Washington and Clackamas editions)"
     },
     {
       "step": "2",
@@ -125,6 +189,204 @@
       "step": "6",
       "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-41/",
       "result": "used"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "mark-gamba-e1",
+      "endorser": "Sierra Club",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists Sierra Club as an endorser.",
+      "excerpt": "Sierra Club",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e2",
+      "endorser": "OLCV",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists OLCV as an endorser.",
+      "excerpt": "OLCV",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e3",
+      "endorser": "AFT",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists AFT as an endorser.",
+      "excerpt": "AFT",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e4",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e5",
+      "endorser": "Humane Voters",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists Humane Voters as an endorser.",
+      "excerpt": "Humane Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e6",
+      "endorser": "Housing Oregon",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists Housing Oregon as an endorser.",
+      "excerpt": "Housing Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e7",
+      "endorser": "SEIU",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists SEIU as an endorser.",
+      "excerpt": "SEIU",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e8",
+      "endorser": "Oregon Labor Federation, AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists Oregon Labor Federation, AFL-CIO as an endorser.",
+      "excerpt": "Oregon Labor Federation, AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e9",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e10",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e11",
+      "endorser": "Portland Association of Teachers",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists Portland Association of Teachers as an endorser.",
+      "excerpt": "Portland Association of Teachers",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e12",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e13",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-gamba-e14",
+      "endorser": "The Street Trust Action Fund",
+      "endorser_type": "organization",
+      "statement": "Mark Gamba's pamphlet statement lists The Street Trust Action Fund as an endorser.",
+      "excerpt": "The Street Trust Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ]
 }

@@ -6,8 +6,8 @@
   "incumbent": true,
   "incumbent_source_url": "https://www.oregonlegislature.gov/chotzen/Pages/biography.aspx",
   "occupation": "State Representative; former public defender and teacher",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "https://chotzenfororegon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf (p. 54)",
   "bio": [
     {
       "id": "willy-chotzen-b1",
@@ -31,6 +31,45 @@
         "url": "https://ballotpedia.org/Willy_Chotzen",
         "publisher": "Ballotpedia",
         "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-b3",
+      "topic": "custom:occupation",
+      "statement": "His pamphlet statement lists Chotzen's occupation as State Representative and attorney, with a background as a public defender and public school teacher.",
+      "excerpt": "Occupation: State Representative; Attorney Occupational Background: Public Defender; Public School Teacher",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-b4",
+      "topic": "custom:education",
+      "statement": "His pamphlet statement lists Harvard Law School (JD) and Washington University in St. Louis (BA) as his educational background.",
+      "excerpt": "Educational Background: Harvard Law School (JD); Washington University in St. Louis (BA)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-b5",
+      "topic": "custom:experience",
+      "statement": "His pamphlet statement lists State Representative as his prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: State Representative",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
@@ -75,20 +114,111 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "willy-chotzen-p4",
+      "topic": "immigration",
+      "statement": "Chotzen says in his pamphlet statement that he spearheaded an immigrant justice package that strengthened anti-discrimination laws, required ICE agents to unmask and reinforced sanctuary protections at schools and hospitals.",
+      "excerpt": "I spearheaded the legislature’s immigrant justice package, which strengthened anti-discrimination laws, required ICE agents to unmask, and reinforced sanctuary protections at schools and hospitals.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-p5",
+      "topic": "economy",
+      "statement": "Chotzen says in his pamphlet statement that he has fought to stand up for working people, combat wage theft and lower utility costs.",
+      "excerpt": "Stand up for working people, combat wage theft, and lower utility costs.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-p6",
+      "topic": "technology",
+      "statement": "Chotzen says in his pamphlet statement that he worked to protect consumers from predatory businesses and strengthen data privacy for kids.",
+      "excerpt": "Protect consumers from predatory businesses and strengthen data privacy for kids.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-p7",
+      "topic": "healthcare",
+      "statement": "Chotzen says in his pamphlet statement that he defends access to reproductive healthcare, including funding Planned Parenthood and strengthening medical privacy.",
+      "excerpt": "Defend access to reproductive healthcare, including funding Planned Parenthood and strengthening medical privacy.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-p8",
+      "topic": "education",
+      "statement": "Chotzen lists strengthening schools among his re-election priorities in his pamphlet statement.",
+      "excerpt": "I’m running for re-election to prioritize affordability, strengthen our schools, hold data centers accountable, expand access to quality, affordable childcare",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-p9",
+      "topic": "social-services",
+      "statement": "Chotzen lists expanding access to quality, affordable childcare among his re-election priorities in his pamphlet statement.",
+      "excerpt": "expand access to quality, affordable childcare, invest sustainably in housing and multimodal transportation",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-p10",
+      "topic": "housing",
+      "statement": "Chotzen lists sustainable investment in housing and multimodal transportation among his re-election priorities in his pamphlet statement.",
+      "excerpt": "invest sustainably in housing and multimodal transportation, support union jobs and fair wages",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "No 2026 issue statements found; survey statements are from 2024",
-    "Bill sponsorship items surfaced in news (immigration, Flock cameras) but were not read; phase-1 scope"
+    "Bill sponsorship items surfaced in news (immigration, Flock cameras) but were not read; phase-1 scope",
+    "Pamphlet statement also lists general affordability, consumer protection, and protecting democracy from federal overreach (not itemized separately)"
   ],
-  "collection_notes": "Incumbent per oregonlegislature.gov member page (first term, elected Nov 2024). Matches inventory.",
+  "collection_notes": "Incumbent per oregonlegislature.gov member page (first term, elected Nov 2024). Matches inventory. Positions cap (10) reached from pamphlet; campaign site not fetched. Website URL set from the pamphlet's printed domain ChotzenforOregon.com.",
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract willy-chotzen.txt (Multnomah edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf)",
+      "result": "used (statement found, p. 54)"
     },
     {
       "step": "2",
@@ -119,6 +249,349 @@
       "step": "5",
       "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: bill coverage not read",
       "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "ChotzenforOregon.com (printed in pamphlet statement; not fetched because positions cap of 10 was filled)",
+      "result": "not found"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "willy-chotzen-e1",
+      "endorser": "U.S. Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Willy Chotzen's pamphlet statement lists U.S. Senator Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e2",
+      "endorser": "U.S. Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Willy Chotzen's pamphlet statement lists U.S. Senator Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e3",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e4",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e5",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e6",
+      "endorser": "Portland Association of Teachers PAC",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Portland Association of Teachers PAC as an endorser.",
+      "excerpt": "Portland Association of Teachers PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e7",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e8",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e9",
+      "endorser": "Ironworkers Local 29",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Ironworkers Local 29 as an endorser.",
+      "excerpt": "Ironworkers Local 29",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e10",
+      "endorser": "Oregon Building Trades Unions",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Oregon Building Trades Unions as an endorser.",
+      "excerpt": "Oregon Building Trades Unions",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e11",
+      "endorser": "LiUNA",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists LiUNA as an endorser.",
+      "excerpt": "LiUNA",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e12",
+      "endorser": "American Federation of Teachers-Oregon",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists American Federation of Teachers-Oregon as an endorser.",
+      "excerpt": "American Federation of Teachers-Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e13",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e14",
+      "endorser": "For All Families Oregon Action",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists For All Families Oregon Action as an endorser.",
+      "excerpt": "For All Families Oregon Action",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e15",
+      "endorser": "STAND For Children",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists STAND For Children as an endorser.",
+      "excerpt": "STAND For Children",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e16",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e17",
+      "endorser": "Sierra Club",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Sierra Club as an endorser.",
+      "excerpt": "Sierra Club",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e18",
+      "endorser": "Pro-Animal Oregon",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Pro-Animal Oregon as an endorser.",
+      "excerpt": "Pro-Animal Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e19",
+      "endorser": "Safety and Justice Oregon",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Safety and Justice Oregon as an endorser.",
+      "excerpt": "Safety and Justice Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e20",
+      "endorser": "East County Rising PAC",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists East County Rising PAC as an endorser.",
+      "excerpt": "East County Rising PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e21",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e22",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e23",
+      "endorser": "OR Labor Federation, AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists OR Labor Federation, AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation, AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "willy-chotzen-e24",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Willy Chotzen's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ]
 }

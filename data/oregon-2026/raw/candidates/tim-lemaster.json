@@ -21,6 +21,32 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "tim-lemaster-b2",
+      "topic": "custom:occupation",
+      "statement": "His pamphlet statement lists LeMaster's occupation as youth camp counselor and retired Marine, with 22 years in the U.S. Marine Corps from private to major.",
+      "excerpt": "Occupation: Youth Camp Counselor, USMC Ret. Occupational Background: United States Marine Corps, 22 years. Enlisted as Private, retired as a Major.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tim-lemaster-b3",
+      "topic": "custom:education",
+      "statement": "His pamphlet statement lists a BS in Marketing from Syracuse University and military photojournalism and documentary film production study as his educational background.",
+      "excerpt": "BS Marketing, Syracuse University Military Photojournalism, S.U. Military Documentary Film Production.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "positions": [
@@ -62,20 +88,58 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "tim-lemaster-p4",
+      "topic": "taxes",
+      "statement": "LeMaster says in his pamphlet statement that voters deserve a government that is effective and frugal with their money.",
+      "excerpt": "You deserve a government that is effective and frugal with your hard-earned money.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tim-lemaster-p5",
+      "topic": "social-services",
+      "statement": "LeMaster says in his pamphlet statement that Oregon should look to other states' approaches to homelessness, citing Houston's 60% cut in homelessness.",
+      "excerpt": "Houston’s 60% cut in homelessness in just a couple of years",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tim-lemaster-p6",
+      "topic": "education",
+      "statement": "LeMaster says in his pamphlet statement that Oregon should learn from Mississippi's rise in education from worst in the nation to a national leader.",
+      "excerpt": "Mississippi’s rise in education from worst in the nation to a national leader.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "All issue statements are from a 2022 Ballotpedia survey; no 2026 statements found",
     "Did not complete Ballotpedia 2026 survey"
   ],
-  "collection_notes": "Statements come from Ballotpedia's 2022 Candidate Connection survey (page says current through his last covered campaign); dated in each statement. Not incumbent per inventory; incumbent left null. No campaign domain confirmed.",
+  "collection_notes": "Statements come from Ballotpedia's 2022 Candidate Connection survey (page says current through his last covered campaign); dated in each statement. Not incumbent per inventory; incumbent left null. No campaign domain confirmed. Pamphlet bio items: second bio item combines education with the USMC veteran entry for prior governmental experience. No campaign website printed in pamphlet.",
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract tim-lemaster.txt (Multnomah edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf)",
+      "result": "used (statement found, p. 52)"
     },
     {
       "step": "2",
@@ -107,5 +171,6 @@
       "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: unrelated",
       "result": "nothing relevant"
     }
-  ]
+  ],
+  "endorsements": []
 }

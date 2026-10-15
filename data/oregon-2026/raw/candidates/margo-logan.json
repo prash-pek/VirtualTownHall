@@ -53,16 +53,16 @@
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "All issue statements are from a 2021 survey for a different office; no 2026 statements found",
-    "Ballotpedia: no Candidate Connection survey for 2020 House run"
+    "Ballotpedia: no Candidate Connection survey for 2020 House run",
+    "No voters' pamphlet statement filed (asterisk on the SOS pamphlet list of candidates, p. 26)"
   ],
-  "collection_notes": "Statements are from Ballotpedia's 2021 Candidate Connection survey (school board race). Other 2021 answers exist on the page and were not itemized (cap on topic spread). Not incumbent per inventory; null. No campaign domain confirmed.",
+  "collection_notes": "Statements are from Ballotpedia's 2021 Candidate Connection survey (school board race). Other 2021 answers exist on the page and were not itemized (cap on topic spread). Not incumbent per inventory; null. No campaign domain confirmed. Step 1 complete: no statement in Multnomah, Washington or Clackamas SOS extracts.",
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract margo-logan.txt (Multnomah edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf)",
+      "result": "not found (no statement filed: candidate is marked with an asterisk in the Multnomah edition list of candidates, p. 26; no other page names the candidate)"
     },
     {
       "step": "2",
@@ -94,5 +94,6 @@
       "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: older Pamplin school board items; vote411 2021 page not read",
       "result": "nothing relevant"
     }
-  ]
+  ],
+  "endorsements": []
 }

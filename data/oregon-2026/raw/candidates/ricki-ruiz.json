@@ -47,6 +47,32 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "ricki-ruiz-b4",
+      "topic": "custom:occupation",
+      "statement": "His pamphlet statement lists Ruiz's occupation as parks recreation, with a background in youth and family recreation and crime prevention.",
+      "excerpt": "Occupation: Parks Recreation Occupational Background: Youth and Family Recreation, Crime Prevention",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-b5",
+      "topic": "custom:education",
+      "statement": "His pamphlet statement lists a bachelor's from Warner Pacific University and Reynolds High School as his educational background.",
+      "excerpt": "Educational Background: Bachelor’s, Warner Pacific University; Reynolds High School",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "positions": [
@@ -114,20 +140,71 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "ricki-ruiz-p6",
+      "topic": "education",
+      "statement": "Ruiz says in his pamphlet statement that he will improve Oregon's school funding distribution so the highest-poverty districts are not left behind.",
+      "excerpt": "Improve Oregon’s school funding distribution model so that our highest-poverty districts are not left behind.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-p7",
+      "topic": "education",
+      "statement": "Ruiz says in his pamphlet statement that he will lengthen the school year and strengthen and expand summer learning.",
+      "excerpt": "Lengthen the school year so our kids aren’t shorted their opportunity to learn.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-p8",
+      "topic": "healthcare",
+      "statement": "Ruiz says in his pamphlet statement that he will protect the Oregon Health Plan and expand access to behavioral healthcare.",
+      "excerpt": "Protect the Oregon Health Plan, expand access to behavioral healthcare.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-p9",
+      "topic": "immigration",
+      "statement": "Ruiz says in his pamphlet statement that he will keep defending Oregonians against policies that use fear to divide them, as the son of immigrants.",
+      "excerpt": "I will continue defending all Oregonians against policies that use fear to divide us.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "Campaign site appears to date from an earlier cycle (mentions 2024 school health center); 2026 currency unconfirmed",
     "No voting or sponsorship items collected (phase 1 scope)"
   ],
-  "collection_notes": "Incumbent per oregonlegislature.gov member page. Campaign domain ricki4oregon.com from Ballotpedia 2020 survey data; the site's metadata mentions an unrelated 'Candidate for Portland Mayor' label and the body text describes a third-term bid, so it may be a 2024 cycle site. Reviewer should confirm the domain is still his 2026 site. Matches inventory.",
+  "collection_notes": "Incumbent per oregonlegislature.gov member page. Campaign domain ricki4oregon.com from Ballotpedia 2020 survey data; the site's metadata mentions an unrelated 'Candidate for Portland Mayor' label and the body text describes a third-term bid, so it may be a 2024 cycle site. Reviewer should confirm the domain is still his 2026 site. Matches inventory. Bio cap (5) reached: pamphlet prior governmental experience (Reynolds School Board; National Hispanic Caucus of State Legislators Education Vice Chair) not itemized. Website ricki4oregon.com already recorded; not re-fetched.",
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract ricki-ruiz.txt (Multnomah edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf)",
+      "result": "used (statement found, p. 57)"
     },
     {
       "step": "2",
@@ -158,6 +235,232 @@
       "step": "5",
       "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: vote411 and older Pamplin items",
       "result": "nothing relevant"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "ricki-ruiz-e1",
+      "endorser": "US Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Ricki Ruiz's pamphlet statement lists US Senator Jeff Merkley as an endorser.",
+      "excerpt": "US Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e2",
+      "endorser": "US Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Ricki Ruiz's pamphlet statement lists US Senator Ron Wyden as an endorser.",
+      "excerpt": "US Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e3",
+      "endorser": "Congresswoman Maxine Dexter",
+      "endorser_type": "official",
+      "statement": "Ricki Ruiz's pamphlet statement lists Congresswoman Maxine Dexter as an endorser.",
+      "excerpt": "Congresswoman Maxine Dexter",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e4",
+      "endorser": "Commissioner Vince Jones Dixon",
+      "endorser_type": "official",
+      "statement": "Ricki Ruiz's pamphlet statement lists Commissioner Vince Jones Dixon as an endorser.",
+      "excerpt": "Commissioner Vince Jones Dixon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e5",
+      "endorser": "Mayor Travis Stovall",
+      "endorser_type": "official",
+      "statement": "Ricki Ruiz's pamphlet statement lists Mayor Travis Stovall as an endorser.",
+      "excerpt": "Mayor Travis Stovall",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e6",
+      "endorser": "Mayor Jairo Rios-Campos",
+      "endorser_type": "official",
+      "statement": "Ricki Ruiz's pamphlet statement lists Mayor Jairo Rios-Campos as an endorser.",
+      "excerpt": "Mayor Jairo Rios-Campos",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e7",
+      "endorser": "OR Labor Federation AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Ricki Ruiz's pamphlet statement lists OR Labor Federation AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e8",
+      "endorser": "Joint Teamsters Council #37",
+      "endorser_type": "organization",
+      "statement": "Ricki Ruiz's pamphlet statement lists Joint Teamsters Council #37 as an endorser.",
+      "excerpt": "Joint Teamsters Council #37",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e9",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Ricki Ruiz's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e10",
+      "endorser": "AG-PAC",
+      "endorser_type": "organization",
+      "statement": "Ricki Ruiz's pamphlet statement lists AG-PAC as an endorser.",
+      "excerpt": "AG-PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e11",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Ricki Ruiz's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e12",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Ricki Ruiz's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e13",
+      "endorser": "North Coast State Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Ricki Ruiz's pamphlet statement lists North Coast State Carpenters Union as an endorser.",
+      "excerpt": "North Coast State Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e14",
+      "endorser": "Oregon State Firefighters Council",
+      "endorser_type": "organization",
+      "statement": "Ricki Ruiz's pamphlet statement lists Oregon State Firefighters Council as an endorser.",
+      "excerpt": "Oregon State Firefighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e15",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "Ricki Ruiz's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ricki-ruiz-e16",
+      "endorser": "Oregon Building Trades Unions",
+      "endorser_type": "organization",
+      "statement": "Ricki Ruiz's pamphlet statement lists Oregon Building Trades Unions as an endorser.",
+      "excerpt": "Oregon Building Trades Unions",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ]
 }

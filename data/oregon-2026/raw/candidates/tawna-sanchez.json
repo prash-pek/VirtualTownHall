@@ -6,8 +6,8 @@
   "incumbent": true,
   "incumbent_source_url": "https://www.oregonlegislature.gov/Sanchez",
   "occupation": "State Representative",
-  "website_url": null,
-  "website_verified_via": null,
+  "website_url": "https://www.tawnasanchez.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf (p. 52)",
   "bio": [
     {
       "id": "tawna-sanchez-b1",
@@ -47,22 +47,113 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "tawna-sanchez-b4",
+      "topic": "custom:occupation",
+      "statement": "Her pamphlet statement lists Sanchez's occupation as Director of Family Services at NAYA Family Center and says she has been State Representative for House District 43 since 2017.",
+      "excerpt": "Occupation: Director of Family Services, NAYA Family Center Occupational Background: State Representative since 2017, House District 43",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-b5",
+      "topic": "custom:education",
+      "statement": "Her pamphlet statement lists an MSW from Portland State University and a BA from Marylhurst University as her educational background.",
+      "excerpt": "Portland State University, MSW; Marylhurst University, BA",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ],
-  "positions": [],
+  "positions": [
+    {
+      "id": "tawna-sanchez-p1",
+      "topic": "education",
+      "statement": "Sanchez says in her pamphlet statement that her office passed HB 3953, letting federally recognized Tribes apply directly to the State Board of Education to sponsor charter schools.",
+      "excerpt": "Created a direct pathway for federally recognized Tribes to apply directly to the State Board of Education for charter school sponsorship.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-p2",
+      "topic": "housing",
+      "statement": "Sanchez cites HB 2134 in her pamphlet statement, which lets tenants give 30-day notice during a landlord's 90-day notice to vacate.",
+      "excerpt": "Allows tenants to give a 30-day notice to move out during a landlord's 90-day notice to vacate",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-p3",
+      "topic": "social-services",
+      "statement": "Sanchez cites HB 3321 in her pamphlet statement, directing the Alcohol and Drug Policy Commission to adopt a statewide youth substance abuse prevention strategy.",
+      "excerpt": "Directs the Alcohol and Drug Policy Commission to implement a statewide strategy for preventing youth substance abuse.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-p4",
+      "topic": "economy",
+      "statement": "Sanchez says as Ways and Means co-chair she has a duty to make prudent funding decisions while keeping the social safety net whole, given federal budget changes.",
+      "excerpt": "I have a duty to make prudent funding decisions while also doing my best to keep our social safety net whole.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-p5",
+      "topic": "taxes",
+      "statement": "On her campaign site, Sanchez says she is working on legislation to restructure the tax system to improve the stability of state investments.",
+      "excerpt": "working on legislation to restructure our tax system so that we improve the stability of our investments",
+      "source": {
+        "url": "https://www.tawnasanchez.com/about-1",
+        "publisher": "Tawna Sanchez campaign website (tawnasanchez.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
   "voting_record": [],
   "gaps": [
-    "Voters' pamphlet statement: pending script extract",
     "No quotable 2026 issue statements found",
     "Capital Chronicle 2026 primary questionnaire: no response",
     "Ballotpedia: no Candidate Connection survey completed 2020-2024"
   ],
-  "collection_notes": "Incumbent per oregonlegislature.gov member page. Official page lists priorities (behavioral health, affordable housing, early education) only as paraphrase, so not itemized. A vote411 HD43 page had unlabeled answers; not attributed. Matches inventory.",
+  "collection_notes": "Incumbent per oregonlegislature.gov member page. Official page lists priorities (behavioral health, affordable housing, early education) only as paraphrase, so not itemized. A vote411 HD43 page had unlabeled answers; not attributed. Matches inventory. Pamphlet prior governmental experience (not itemized, bio cap 5 reached): Co-Chair of Joint Ways & Means Committee, Joint Committee on Legislative Audits and House Committee on Conduct; Oregon Domestic and Sexual Violence Advisory Board; Family Services Review Commission; Child Welfare Advisory Commission.",
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "pamphlet statement: pending script extract",
-      "result": "not found"
+      "query_or_url": "SOS state voters pamphlet extract tawna-sanchez.txt (Multnomah edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf)",
+      "result": "used (statement found, p. 52; Clackamas edition p. 54)"
     },
     {
       "step": "2",
@@ -98,6 +189,293 @@
       "step": "6",
       "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-43/",
       "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.tawnasanchez.com (printed in pamphlet statement; WebFetch home and /about-1)",
+      "result": "used"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "tawna-sanchez-e1",
+      "endorser": "U.S. Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Tawna Sanchez's pamphlet statement lists U.S. Senator Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e2",
+      "endorser": "U.S. Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Tawna Sanchez's pamphlet statement lists U.S. Senator Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e3",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e4",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e5",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e6",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e7",
+      "endorser": "NAYA Action Fund",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists NAYA Action Fund as an endorser.",
+      "excerpt": "NAYA Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e8",
+      "endorser": "IBEW Local 48",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists IBEW Local 48 as an endorser.",
+      "excerpt": "IBEW Local 48",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e9",
+      "endorser": "Joint Council of Teamsters #37",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Joint Council of Teamsters #37 as an endorser.",
+      "excerpt": "Joint Council of Teamsters #37",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e10",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e11",
+      "endorser": "Advanced Native Political Leadership",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Advanced Native Political Leadership as an endorser.",
+      "excerpt": "Advanced Native Political Leadership",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e12",
+      "endorser": "Oregon Coalition of Police and Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Oregon Coalition of Police and Sheriffs as an endorser.",
+      "excerpt": "Oregon Coalition of Police and Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e13",
+      "endorser": "American Federation of Teachers - Oregon",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists American Federation of Teachers - Oregon as an endorser.",
+      "excerpt": "American Federation of Teachers - Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e14",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e15",
+      "endorser": "Oregon Labor Federation (AFL-CIO)",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Oregon Labor Federation (AFL-CIO) as an endorser.",
+      "excerpt": "Oregon Labor Federation (AFL-CIO)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e16",
+      "endorser": "Stand for Children",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Stand for Children as an endorser.",
+      "excerpt": "Stand for Children",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e17",
+      "endorser": "Housing Oregon Action Fund",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Housing Oregon Action Fund as an endorser.",
+      "excerpt": "Housing Oregon Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e18",
+      "endorser": "Basic Rights Oregon PAC",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Basic Rights Oregon PAC as an endorser.",
+      "excerpt": "Basic Rights Oregon PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e19",
+      "endorser": "Multifamily Northwest",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Multifamily Northwest as an endorser.",
+      "excerpt": "Multifamily Northwest",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tawna-sanchez-e20",
+      "endorser": "Oregon Building Trades Union",
+      "endorser_type": "organization",
+      "statement": "Tawna Sanchez's pamphlet statement lists Oregon Building Trades Union as an endorser.",
+      "excerpt": "Oregon Building Trades Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
     }
   ]
 }
