@@ -1,0 +1,152 @@
+{
+ "id": "jennie-hill",
+ "name": "Jennie Hill",
+ "race_id": "wilsonville-council",
+ "party": null,
+ "incumbent": false,
+ "occupation": "Real Estate Agent, Local Business Owner",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "jennie-hill-b1",
+   "topic": "custom:occupation",
+   "statement": "Hill's pamphlet statement lists her as a real estate agent and local business owner, with a background as a graphic designer and marketing director.",
+   "excerpt": "Occupation: Real Estate Agent, Local Business Owner Occupational Background: Graphic Designer, Marketing Director",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 58, printed C-57)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennie-hill-b2",
+   "topic": "education",
+   "statement": "Her pamphlet statement lists Newberg High School and a BS in graphic design from the Art Institute of Portland.",
+   "excerpt": "Newberg High School, HS Diploma; Art Institute of Portland, Graphic Design, BS",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 58, printed C-57)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennie-hill-b3",
+   "topic": "custom:experience",
+   "statement": "Her pamphlet statement lists no prior governmental experience.",
+   "excerpt": "Prior Governmental Experience: None",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 58, printed C-57)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "jennie-hill-p1",
+   "topic": "custom:land-use",
+   "statement": "Hill says residents should have more influence on how the city develops than outside entities, and that she endorsed Measure 3-632.",
+   "excerpt": "Residents should have more influence on how our city develops than outside entities, which is why I endorsed Measure 3-632.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 58, printed C-57)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennie-hill-p2",
+   "topic": "local-business",
+   "statement": "Hill says city government should remove barriers, streamline processes, invest in infrastructure and be a trusted partner to business.",
+   "excerpt": "City government should remove barriers, streamline processes, invest wisely in infrastructure, and be a trusted partner to business.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 58, printed C-57)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennie-hill-p3",
+   "topic": "taxes",
+   "statement": "Hill says that before asking residents for more money or taking on debt, the city must show responsible stewardship of what it has.",
+   "excerpt": "Before asking residents for more money or taking on debt, we must demonstrate responsible stewardship of what we already have.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 58, printed C-57)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "jennie-hill-p4",
+   "topic": "custom:town-center",
+   "statement": "In a joint pamphlet argument with Katie Dunwell on Measure 3-641, Hill says they are voting no on the Town Center urban renewal financing plan.",
+   "excerpt": "We are voting no on the Town Center urban renewal financing plan.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 79, printed C-78)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "No campaign website found or linked",
+  "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+  "No news coverage with attributed positions found",
+  "No endorsements listed in her statement"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "Clackamas pamphlet extract jennie-hill.txt (source_url https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.wilsonvilleoregon.gov/citycouncil",
+   "result": "used (Hill not listed on current council)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain confirmed",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Jennie Hill\" city council Wilsonville 2026",
+   "result": "used (city elections page; no candidate profile)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Jennie Hill\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant (only an unrelated Ballotpedia 'Jennie Hill' page)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Jennie Hill\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant (unrelated KATU/KGW items)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Jennie Hill\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (pamplinmedia.com blocks automated fetch; snippets only)"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 58 (C-57) right column. Joint 3-641 opposition argument with Dunwell is PDF p. 79 (C-78); the facing column's opposition argument was written by other residents and is not used.",
+ "incumbent_source_url": "https://www.wilsonvilleoregon.gov/citycouncil"
+}

@@ -1,0 +1,77 @@
+{
+ "id": "doug-mclean",
+ "name": "Doug McLean",
+ "race_id": "rivergrove-council",
+ "party": null,
+ "incumbent": true,
+ "occupation": null,
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "doug-mclean-b1",
+   "topic": "custom:office",
+   "statement": "The City of Rivergrove city council page lists Doug McLean as a councilor.",
+   "excerpt": "Doug McLean Councilor",
+   "source": {
+    "url": "https://www.cityofrivergrove.org/government/city-council/",
+    "publisher": "City of Rivergrove, City Council page",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "no pamphlet statement found (script extract)",
+  "No campaign website found or linked",
+  "No sourced positions or biography beyond the city roster listing",
+  "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+  "No endorsements (no pamphlet statement)"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "Clackamas pamphlet extract doug-mclean.txt (source_url https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513)",
+   "result": "not found (no pamphlet statement found (script extract); extract has index page only, asterisk = no statement purchased)"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.cityofrivergrove.org/government/city-council/",
+   "result": "used (Councilor)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain confirmed",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Doug McLean\" city council Rivergrove 2026",
+   "result": "nothing relevant (Rivergrove newsletters/minutes only)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Doug McLean\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant (name matched unrelated Ballotpedia pages)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Doug McLean\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant (unrelated KPTV item)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Doug McLean\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (River Grove school items; pamplinmedia.com blocks automated fetch)"
+  }
+ ],
+ "collection_notes": "Pamphlet index marks 'Doug McLean*' (no statement purchased). City certification letter lists 'Douglas McLean' per inventory notes; name_variants added. Incumbent per city council page.",
+ "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/",
+ "name_variants": [
+  "Douglas McLean"
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "id": "curt-taylor",
+ "name": "Curt Taylor",
+ "race_id": "rivergrove-council",
+ "party": null,
+ "incumbent": true,
+ "occupation": "Retired; Registered Representative / Financial Advisor",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "curt-taylor-b1",
+   "topic": "custom:office",
+   "statement": "The City of Rivergrove city council page lists Curt Taylor as a councilor.",
+   "excerpt": "Curt Taylor Councilor",
+   "source": {
+    "url": "https://www.cityofrivergrove.org/government/city-council/",
+    "publisher": "City of Rivergrove, City Council page",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "curt-taylor-b2",
+   "topic": "custom:occupation",
+   "statement": "Taylor's pamphlet statement lists him as retired, formerly a registered representative and financial advisor.",
+   "excerpt": "Occupation: Retired Occupational Background: Registered Representative / Financial Advisor",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 50, printed C-49)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "curt-taylor-b3",
+   "topic": "custom:experience",
+   "statement": "His pamphlet statement lists service as an elected Rivergrove city councilor and an appointed member of the Planning Commission.",
+   "excerpt": "Rivergrove City Councillor (elected), - City of Rivergrove Planning Commission (appointed)",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 50, printed C-49)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "curt-taylor-b4",
+   "topic": "education",
+   "statement": "His pamphlet statement lists an AA in business administration from Diablo Valley College.",
+   "excerpt": "Diablo Valley College, AA Business Administration",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 50, printed C-49)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "curt-taylor-p1",
+   "topic": "infrastructure",
+   "statement": "Taylor says he is seeking re-election to continue work on renovating the Stark Boat Ramp, upgrading Canal Road access and reviewing the land development ordinance.",
+   "excerpt": "These opportunities include renovation of the Stark Boat Ramp, upgrade access on Canal Road, and a comprehensive review and update of the Rivergrove Land Development Ordnance.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 50, printed C-49)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "curt-taylor-p2",
+   "topic": "custom:governance",
+   "statement": "Taylor says continuity of the current council is critical to move city improvements forward.",
+   "excerpt": "Continuity of the current council is critical to move these and other city improvements forward.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 50, printed C-49)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "No campaign website found or linked",
+  "No sourced positions on taxes, housing or public safety",
+  "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+  "No endorsements listed in his pamphlet statement"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "Clackamas pamphlet extract curt-taylor.txt (source_url https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.cityofrivergrove.org/government/city-council/",
+   "result": "used (Councilor)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain confirmed",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Curt Taylor\" city council Rivergrove 2026",
+   "result": "nothing relevant (Rivergrove newsletters/minutes only)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Curt Taylor\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant (Ballotpedia page for an unrelated Curt Taylor)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Curt Taylor\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant (unrelated KPTV/KATU items)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Curt Taylor\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (pamplinmedia.com blocks automated fetch; snippets only)"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 50 (C-49): Taylor left column (right column is Sandy mayor Kathleen Walker). Inventory name matches.",
+ "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/"
+}

@@ -1,0 +1,373 @@
+{
+ "id": "sam-scull",
+ "name": "Sam Scull",
+ "race_id": "wilsonville-council",
+ "party": null,
+ "incumbent": true,
+ "occupation": "Business Owner; Wilsonville City Councilor",
+ "website_url": "https://www.sam4wilsonville.com",
+ "website_verified_via": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (pamphlet statement lists Sam4Wilsonville.com)",
+ "bio": [
+  {
+   "id": "sam-scull-b1",
+   "topic": "custom:office",
+   "statement": "The City of Wilsonville directory page says Sam Scull was appointed to the City Council on Oct. 20, 2025, and sworn in Nov. 3, 2025, for a term through December 2026.",
+   "excerpt": "Sam Scull was appointed to the City Council on Oct. 20, 2025",
+   "source": {
+    "url": "https://wilsonvilleoregon.gov/directory-listing/sam-scull",
+    "publisher": "City of Wilsonville, Councilor Sam Scull directory page",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-b2",
+   "topic": "custom:experience",
+   "statement": "The city page says Scull previously served on the Planning Commission, Development Review Board and Budget Committee.",
+   "excerpt": "Previously, Scull served on the City's Planning Commission, Development Review Board, and Budget Committee.",
+   "source": {
+    "url": "https://wilsonvilleoregon.gov/directory-listing/sam-scull",
+    "publisher": "City of Wilsonville, Councilor Sam Scull directory page",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-b3",
+   "topic": "custom:occupation",
+   "statement": "His pamphlet statement lists him as a business owner and Wilsonville city councilor with a background as a global manufacturing executive.",
+   "excerpt": "Occupation: Business Owner; Wilsonville City Councilor Occupational Background: Global Manufacturing Executive",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-b4",
+   "topic": "education",
+   "statement": "His pamphlet statement lists a BS from Southern Illinois University and an MBA from Pepperdine University.",
+   "excerpt": "Southern Illinois University, BS Industrial Technology; Pepperdine University, MBA",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "sam-scull-p1",
+   "topic": "taxes",
+   "statement": "In his pamphlet statement Scull lists fiscal management and open, accountable government among his priorities.",
+   "excerpt": "Prioritize fiscal management Promote open, accountable government",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-p2",
+   "topic": "transportation",
+   "statement": "Scull lists improving roads, bridges and mobility, and investing before infrastructure falls behind, as priorities.",
+   "excerpt": "Improve roads, bridges, and mobility Invest before infrastructure falls behind",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-p3",
+   "topic": "local-business",
+   "statement": "Scull lists supporting local small businesses and jobs as a priority.",
+   "excerpt": "Support local small businesses and jobs",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-p4",
+   "topic": "public-safety",
+   "statement": "Scull lists support for police, fire and emergency services and community preparedness as priorities.",
+   "excerpt": "Support police, fire, and emergency services Strengthen community preparedness",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-p5",
+   "topic": "technology",
+   "statement": "Scull lists opposing stand-alone data centers among his growth priorities.",
+   "excerpt": "Oppose stand-alone Data Centers",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-p6",
+   "topic": "custom:town-center",
+   "statement": "In a pamphlet argument on Measure 3-641, Scull urged a yes vote to support a vibrant Town Center for Wilsonville.",
+   "excerpt": "SUPPORT A VIBRANT TOWN CENTER FOR WILSONVILLE. Vote YES on Measure 3-641 Sam Scull, Wilsonville City Councilor",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 69, printed C-68)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [
+  {
+   "id": "sam-scull-e1",
+   "endorser": "Courtney Neron Misslin, State Senator",
+   "endorser_type": "official",
+   "statement": "Sam Scull's pamphlet statement lists Courtney Neron Misslin, State Senator as an endorser.",
+   "excerpt": "Courtney Neron Misslin, our State Senator",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-e2",
+   "endorser": "Sue Rieke Smith, State Representative",
+   "endorser_type": "official",
+   "statement": "Sam Scull's pamphlet statement lists Sue Rieke Smith, State Representative as an endorser.",
+   "excerpt": "Sue Rieke Smith, our State Representative",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-e3",
+   "endorser": "Sonya Fischer, Clackamas County Commissioner-elect",
+   "endorser_type": "official",
+   "statement": "Sam Scull's pamphlet statement lists Sonya Fischer, Clackamas County Commissioner-elect as an endorser.",
+   "excerpt": "Sonya Fischer, Clackamas County Commissioner-elect",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-e4",
+   "endorser": "Shawn O’Neil, Wilsonville Mayor",
+   "endorser_type": "official",
+   "statement": "Sam Scull's pamphlet statement lists Shawn O’Neil, Wilsonville Mayor as an endorser.",
+   "excerpt": "Shawn O’Neil, Wilsonville Mayor",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-e5",
+   "endorser": "Caroline Berry, Wilsonville Council President",
+   "endorser_type": "official",
+   "statement": "Sam Scull's pamphlet statement lists Caroline Berry, Wilsonville Council President as an endorser.",
+   "excerpt": "Caroline Berry, Wilsonville Council President",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-e6",
+   "endorser": "Anne Shevlin, Wilsonville Councilor",
+   "endorser_type": "official",
+   "statement": "Sam Scull's pamphlet statement lists Anne Shevlin, Wilsonville Councilor as an endorser.",
+   "excerpt": "Anne Shevlin, Wilsonville Councilor",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-e7",
+   "endorser": "Julie Fitzgerald, former Wilsonville Mayor",
+   "endorser_type": "person",
+   "statement": "Sam Scull's pamphlet statement lists Julie Fitzgerald, former Wilsonville Mayor as an endorser.",
+   "excerpt": "Julie Fitzgerald, former Wilsonville Mayor",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-e8",
+   "endorser": "Tim Knapp, former Wilsonville Mayor",
+   "endorser_type": "person",
+   "statement": "Sam Scull's pamphlet statement lists Tim Knapp, former Wilsonville Mayor as an endorser.",
+   "excerpt": "Tim Knapp, former Wilsonville Mayor",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-e9",
+   "endorser": "Kristin Akervall, former Wilsonville Council President",
+   "endorser_type": "person",
+   "statement": "Sam Scull's pamphlet statement lists Kristin Akervall, former Wilsonville Council President as an endorser.",
+   "excerpt": "Kristin Akervall, former Wilsonville Council President",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-e10",
+   "endorser": "Joann Linville, former Wilsonville Councilor",
+   "endorser_type": "person",
+   "statement": "Sam Scull's pamphlet statement lists Joann Linville, former Wilsonville Councilor as an endorser.",
+   "excerpt": "Joann Linville, former Wilsonville Councilor",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-e11",
+   "endorser": "Dave Mauk, Charbonneau HOA VP-Director",
+   "endorser_type": "person",
+   "statement": "Sam Scull's pamphlet statement lists Dave Mauk, Charbonneau HOA VP-Director as an endorser.",
+   "excerpt": "Dave Mauk, Charbonneau HOA VP-Director",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-e12",
+   "endorser": "Joe Harris, Legend Villebois HOA Director",
+   "endorser_type": "person",
+   "statement": "Sam Scull's pamphlet statement lists Joe Harris, Legend Villebois HOA Director as an endorser.",
+   "excerpt": "Joe Harris, Legend Villebois HOA Director",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "sam-scull-e13",
+   "endorser": "Dick Spence, 2011 Wilsonville First Citizen",
+   "endorser_type": "person",
+   "statement": "Sam Scull's pamphlet statement lists Dick Spence, 2011 Wilsonville First Citizen as an endorser.",
+   "excerpt": "Dick Spence, 2011 Wilsonville First Citizen",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 57, printed C-56)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "gaps": [
+  "Campaign site not retrievable (robots disallow); pamphlet says a fuller endorsement list is there",
+  "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+  "No news coverage with attributed positions found"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "Clackamas pamphlet extract sam-scull.txt (source_url https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://wilsonvilleoregon.gov/directory-listing/sam-scull",
+   "result": "used"
+  },
+  {
+   "step": "3",
+   "query_or_url": "https://www.sam4wilsonville.com",
+   "result": "blocked (robots disallow)"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Sam Scull\" city council Wilsonville 2026",
+   "result": "used (city directory page, 2025 appointment article, elections page)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Sam Scull\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Sam Scull\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Sam Scull\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (pamplinmedia.com blocks automated fetch; snippets only)"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 57 (C-56): Scull left column, Scritsmier right. His Measure 3-641 argument is PDF p. 69 (C-68). Appointed to a vacancy (Dunwell's seat), term through Dec 2026. City elections page says the two seats up are those of Council President Caroline Berry and Scull; Berry is not in the inventory candidate list (not filed/withdrawn? unverified) - possible inventory discrepancy. Index extract lists p. 69, 73 for Scull; p. 73 is another 3-641 page with no separate Scull statement.",
+ "incumbent_source_url": "https://wilsonvilleoregon.gov/directory-listing/sam-scull"
+}

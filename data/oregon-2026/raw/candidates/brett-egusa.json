@@ -1,0 +1,139 @@
+{
+ "id": "brett-egusa",
+ "name": "Brett Egusa",
+ "race_id": "rivergrove-council",
+ "party": null,
+ "incumbent": false,
+ "occupation": "Legal Editor and Attorney",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "brett-egusa-b1",
+   "topic": "custom:occupation",
+   "statement": "Egusa's pamphlet statement lists him as a legal editor and attorney with over 27 years as a military, federal and private-sector attorney.",
+   "excerpt": "Occupation: Legal Editor and Attorney Occupational Background: Over 27 years as military, federal government, and private sector attorney.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 49, printed C-48)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "brett-egusa-b2",
+   "topic": "education",
+   "statement": "His pamphlet statement lists a JD from Lewis & Clark, a master's from the Eisenhower School and a BA in political science from UC San Diego.",
+   "excerpt": "Lewis & Clark, School of Law (JD); Eisenhower School, Master’s in National Security and Resource Management; UC San Diego, BA in PoliSci",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 49, printed C-48)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "brett-egusa-b3",
+   "topic": "custom:experience",
+   "statement": "His pamphlet statement lists service as an elected board member of the Taylor Run Citizens Association in Alexandria, Virginia, 2013-2020.",
+   "excerpt": "Elected Board Member of the Taylor Run Citizens Association in Alexandria, Virginia (2013- 2020)",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 49, printed C-48)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "brett-egusa-p1",
+   "topic": "infrastructure",
+   "statement": "Egusa lists updating 1970s ordinances, completing the boat ramp and Canal Road projects, improving Childs Road safety and managing grant funds responsibly as upcoming decisions.",
+   "excerpt": "updating outdated 1970s ordinances, completing capital projects like the boat ramp and Canal Road improvements, enhancing safety on Childs Road, and managing grant funds responsibly.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 49, printed C-48)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "brett-egusa-p2",
+   "topic": "custom:governance",
+   "statement": "Egusa says his background drafting policies and regulations would help modernize ordinances, making them clearer and more practical for residents.",
+   "excerpt": "My background in drafting policies and regulations will help modernize our ordinances, making them clearer and more practical for residents",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 49, printed C-48)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "brett-egusa-p3",
+   "topic": "taxes",
+   "statement": "Egusa says he would help the city make sound decisions on public projects and financing while preserving fiscal responsibility.",
+   "excerpt": "help our city make sound decisions on public projects and financing while preserving fiscal responsibility.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 49, printed C-48)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "No campaign website found or linked",
+  "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+  "No endorsements listed in his pamphlet statement",
+  "No sourced positions on parks or public safety beyond Childs Road"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "Clackamas pamphlet extract brett-egusa.txt (source_url https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.cityofrivergrove.org/government/city-council/",
+   "result": "used (Egusa not listed on current council)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain confirmed",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Brett Egusa\" city council Rivergrove 2026",
+   "result": "nothing relevant (goodparty.org profile is unclaimed placeholder; not used)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Brett Egusa\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant (name matched unrelated Ballotpedia page)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Brett Egusa\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant (unrelated KOIN/KPTV items)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Brett Egusa\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (no results)"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 49 (C-48): Egusa right column. Inventory name matches.",
+ "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/"
+}
