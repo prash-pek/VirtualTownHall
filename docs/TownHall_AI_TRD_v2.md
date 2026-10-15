@@ -134,7 +134,7 @@ All ids are UUIDv7. All tables have `created_at`, `updated_at`. `status` columns
 
 The voter owns their ballot list. An address gives a suggested starting point; the voter adds or removes any Oregon race or measure. We do not verify eligibility or limit what a voter can follow.
 
-1. Voter enters an address on `/` or `/ballot` (or skips it and browses).
+1. Voter enters an address and picks a state (default Oregon) on `/` or `/ballot`, or skips it and browses. Any US address is accepted; the state is appended when the address doesn't already end with a state or ZIP. For states without ballot data yet, the API returns `covered: false` and no suggestions.
 2. `POST /api/ballot/suggest` calls the **US Census Geocoder** (`geographies/onelineaddress`, benchmark `Public_AR_Current`, vintage `Current_Current`, all layers). Layer names carry a vintage prefix, so they are matched by suffix. We read county, incorporated place, congressional district, state senate and house districts, and school districts.
 3. Those are matched to our `jurisdictions` by type and name (`lib/ballot/districts.ts`, unit-tested): the state, the county, "City of <place>", `or-cd/sd/hd-N`, school districts by normalized name, and county-wide "other" jurisdictions such as the circuit court. Races and measures in matched jurisdictions are **suggested** and added to the list.
 4. Special districts in the voter's county are returned as **"may apply"**, because Census has no maps for them. The voter adds the ones they want with one tap.

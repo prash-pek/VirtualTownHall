@@ -1,22 +1,15 @@
 import "server-only";
 
-import { mentionsOregon, parseCensusResponse, type CensusDistricts } from "./districts";
+import { parseCensusResponse, type CensusDistricts } from "./districts";
+import { withState, type StateCode } from "./states";
 
 const endpoint = "https://geocoding.geo.census.gov/geocoder/geographies/onelineaddress";
 
-/**
- * Free US Census geocoder (no key). Returns null when the address isn't found. The geocoder needs a city,
- * state or ZIP, so an address without one ("5055 N Greeley Ave") is retried with Oregon added.
- */
-export async function geocodeAddress(address: string): Promise<CensusDistricts | null> {
-  const found = await lookup(address);
-  return found ?? (mentionsOregon(address) ? null : lookup(`${address}, OR`));
-}
-
-async function lookup(address: string): Promise<CensusDistricts | null> {
+/** Free US Census geocoder (no key), any US address. Returns null when the address isn't found. */
+export async function geocodeAddress(address: string, state: StateCode): Promise<CensusDistricts | null> {
   const url = new URL(endpoint);
   url.search = new URLSearchParams({
-    address,
+    address: withState(address, state),
     benchmark: "Public_AR_Current",
     vintage: "Current_Current",
     layers: "all",

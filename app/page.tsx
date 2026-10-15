@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+import { defaultState, usStates } from "@/lib/ballot/states";
+
 export default function Home() {
   return (
     <main className="mx-auto flex max-w-3xl flex-col gap-6 px-4 py-16">
@@ -22,9 +24,25 @@ export default function Home() {
           required
           minLength={5}
           maxLength={200}
-          placeholder="1221 SW 4th Ave, Portland, OR 97204"
+          placeholder="Street address, city, ZIP"
           className="flex-1 rounded-md border border-slate-300 px-3 py-2 dark:border-slate-700 dark:bg-slate-900"
         />
+        <label htmlFor="state" className="sr-only">
+          State
+        </label>
+        <select
+          id="state"
+          name="state"
+          defaultValue={defaultState}
+          autoComplete="address-level1"
+          className="rounded-md border border-slate-300 px-3 py-2 dark:border-slate-700 dark:bg-slate-900"
+        >
+          {usStates.map(([code, name]) => (
+            <option key={code} value={code}>
+              {name}
+            </option>
+          ))}
+        </select>
         <button
           type="submit"
           className="rounded-md bg-slate-900 px-4 py-2 text-white dark:bg-white dark:text-slate-900"

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { defaultState, isStateCode } from "@/lib/ballot/states";
 
 import { BallotBuilder } from "@/components/ballot/ballot-builder";
 import { getCatalog } from "@/lib/ballot/catalog";
@@ -7,8 +8,12 @@ import { getSession } from "@/lib/auth/session";
 export const dynamic = "force-dynamic";
 export const metadata: Metadata = { title: "My ballot · TownHall AI" };
 
-export default async function BallotPage({ searchParams }: { searchParams: Promise<{ address?: string }> }) {
-  const [catalog, session, { address }] = await Promise.all([getCatalog(), getSession(), searchParams]);
+export default async function BallotPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ address?: string; state?: string }>;
+}) {
+  const [catalog, session, { address, state }] = await Promise.all([getCatalog(), getSession(), searchParams]);
   return (
     <main className="mx-auto flex max-w-3xl flex-col gap-6 px-4 py-10">
       <div>
@@ -18,7 +23,12 @@ export default async function BallotPage({ searchParams }: { searchParams: Promi
           anything; you decide what&apos;s on your page.
         </p>
       </div>
-      <BallotBuilder catalog={catalog} signedIn={session !== null} initialAddress={address?.slice(0, 200) ?? ""} />
+      <BallotBuilder
+        catalog={catalog}
+        signedIn={session !== null}
+        initialAddress={address?.slice(0, 200) ?? ""}
+        initialState={isStateCode(state) ? state : defaultState}
+      />
     </main>
   );
 }

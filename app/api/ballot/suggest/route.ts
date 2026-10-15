@@ -5,9 +5,13 @@ import { z } from "zod";
 import { getCatalog, getJurisdictionRefs } from "@/lib/ballot/catalog";
 import { geocodeAddress } from "@/lib/ballot/census";
 import { matchJurisdictions } from "@/lib/ballot/districts";
+import { coveredStates, defaultState, isStateCode } from "@/lib/ballot/states";
 import { checkLimit } from "@/lib/ratelimit";
 
-const body = z.object({ address: z.string().trim().min(5).max(200) });
+const body = z.object({
+  address: z.string().trim().min(5).max(200),
+  state: z.string().refine(isStateCode).default(defaultState),
+});
 
 /**
  * Suggests races and measures for an address. The address is used for this lookup only and is not
@@ -23,11 +27,16 @@ export async function POST(request: Request) {
 
   let districts;
   try {
-    districts = await geocodeAddress(parsed.data.address);
+    districts = await geocodeAddress(parsed.data.address, parsed.data.state);
   } catch {
     return NextResponse.json({ error: "geocoder_unavailable" }, { status: 502 });
   }
   if (!districts) return NextResponse.json({ error: "address_not_found" }, { status: 404 });
+
+  // Any US address is accepted; we only have ballot data for some states so far.
+  if (!coveredStates.includes(parsed.data.state)) {
+    return NextResponse.json({ matchedAddress: districts.matchedAddress, covered: false, suggested: [], nearby: [] });
+  }
 
   const [catalog, refs] = await Promise.all([getCatalog(), getJurisdictionRefs()]);
   const { matched, nearby } = matchJurisdictions(districts, refs);
@@ -35,6 +44,7 @@ export async function POST(request: Request) {
 
   return NextResponse.json({
     matchedAddress: districts.matchedAddress,
+    covered: true,
     suggested: [...catalog.races.filter(inSet(matched)), ...catalog.measures.filter(inSet(matched))].map((i) => i.key),
     nearby: [...catalog.races.filter(inSet(nearby)), ...catalog.measures.filter(inSet(nearby))].map((i) => i.key),
   });

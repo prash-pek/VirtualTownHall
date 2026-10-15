@@ -50,11 +50,6 @@ export function parseCensusResponse(body: unknown): CensusDistricts | null {
   };
 }
 
-/** True when the address already names Oregon ("OR", "Oregon") or ends in a ZIP code. */
-export function mentionsOregon(address: string): boolean {
-  return /\b(or|oregon)\b/i.test(address) || /\b\d{5}(-\d{4})?\s*$/.test(address);
-}
-
 export type JurisdictionRef = { slug: string; name: string; type: string; parentSlug: string | null };
 
 /** "Reynolds School District No. 7" and "Reynolds School District 7" compare equal. */
