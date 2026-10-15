@@ -10,6 +10,7 @@ import {
   type CatalogMeasure,
   type CatalogRace,
 } from "@/lib/ballot/types";
+import { defaultState, isStateCode, usStates, type StateCode } from "@/lib/ballot/states";
 
 const storageKey = "townhall:ballot";
 
@@ -53,10 +54,12 @@ export function BallotBuilder({
   catalog,
   signedIn,
   initialAddress,
+  initialState,
 }: {
   catalog: Catalog;
   signedIn: boolean;
   initialAddress: string;
+  initialState: StateCode;
 }) {
   const byKey = useMemo(
     () => new Map<string, Item>([...catalog.races, ...catalog.measures].map((i) => [i.key, i])),
@@ -65,6 +68,7 @@ export function BallotBuilder({
   const [items, setItems] = useState<BallotKey[]>([]);
   const [loaded, setLoaded] = useState(false);
   const [address, setAddress] = useState(initialAddress);
+  const [state, setState] = useState<StateCode>(initialState);
   const [lookup, setLookup] = useState<{ matchedAddress: string; nearby: BallotKey[] } | null>(null);
   const [status, setStatus] = useState<string | null>(null);
   const [query, setQuery] = useState("");
@@ -101,16 +105,17 @@ export function BallotBuilder({
   const add = (keys: BallotKey[]) => setItems((cur) => sanitizeBallot([...cur, ...keys]));
   const remove = (key: BallotKey) => setItems((cur) => cur.filter((k) => k !== key));
 
-  async function suggest(addr: string) {
+  async function suggest(addr: string, st: StateCode) {
     setStatus("Looking up your districts…");
     try {
       const res = await fetch("/api/ballot/suggest", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ address: addr }),
+        body: JSON.stringify({ address: addr, state: st }),
       });
       const data = (await res.json()) as {
         matchedAddress?: string;
+        covered?: boolean;
         suggested?: unknown;
         nearby?: unknown;
         error?: string;
@@ -118,10 +123,16 @@ export function BallotBuilder({
       if (!res.ok) {
         setStatus(
           data.error === "address_not_found"
-            ? "We couldn't find that address. Try including the city and ZIP code, or browse below."
+            ? "We couldn't find that address. Check the state, or add the city and ZIP code. You can also browse below."
             : data.error === "rate_limited"
               ? "Too many lookups. Please try again later, or browse below."
               : "Address lookup isn't available right now. You can still browse below.",
+        );
+        return;
+      }
+      if (data.covered === false) {
+        setStatus(
+          `Found ${data.matchedAddress}. We only have Oregon races and measures so far, so there's nothing to suggest yet.`,
         );
         return;
       }
@@ -137,7 +148,7 @@ export function BallotBuilder({
   useEffect(() => {
     if (loaded && initialAddress && !autoLookedUp.current) {
       autoLookedUp.current = true;
-      void suggest(initialAddress);
+      void suggest(initialAddress, initialState);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps -- run once, after the saved ballot loads
   }, [loaded]);
@@ -157,11 +168,11 @@ export function BallotBuilder({
           className="flex flex-col gap-2 sm:flex-row"
           onSubmit={(e) => {
             e.preventDefault();
-            if (address.trim()) void suggest(address.trim());
+            if (address.trim()) void suggest(address.trim(), state);
           }}
         >
           <label htmlFor="address" className="sr-only">
-            Your Oregon address
+            Your address
           </label>
           <input
             id="address"
@@ -171,6 +182,22 @@ export function BallotBuilder({
             autoComplete="street-address"
             className="flex-1 rounded-md border border-slate-300 px-3 py-2 dark:border-slate-700 dark:bg-slate-900"
           />
+          <label htmlFor="state" className="sr-only">
+            State
+          </label>
+          <select
+            id="state"
+            value={state}
+            onChange={(e) => setState(isStateCode(e.target.value) ? e.target.value : defaultState)}
+            autoComplete="address-level1"
+            className="rounded-md border border-slate-300 px-3 py-2 dark:border-slate-700 dark:bg-slate-900"
+          >
+            {usStates.map(([code, name]) => (
+              <option key={code} value={code}>
+                {name}
+              </option>
+            ))}
+          </select>
           <button className="rounded-md bg-slate-900 px-4 py-2 text-white dark:bg-slate-100 dark:text-slate-900">
             Suggest my ballot
           </button>

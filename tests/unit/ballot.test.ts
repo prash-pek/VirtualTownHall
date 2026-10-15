@@ -1,12 +1,7 @@
 import { describe, expect, it } from "vitest";
 
-import {
-  matchJurisdictions,
-  mentionsOregon,
-  normalizeName,
-  parseCensusResponse,
-  type JurisdictionRef,
-} from "@/lib/ballot/districts";
+import { matchJurisdictions, normalizeName, parseCensusResponse, type JurisdictionRef } from "@/lib/ballot/districts";
+import { withState } from "@/lib/ballot/states";
 import { sanitizeBallot } from "@/lib/ballot/types";
 
 const census = {
@@ -88,11 +83,12 @@ describe("sanitizeBallot", () => {
   });
 });
 
-describe("mentionsOregon", () => {
-  it("detects a state or ZIP so bare street addresses get Oregon added", () => {
-    expect(mentionsOregon("5055 north Greeley avenue")).toBe(false);
-    expect(mentionsOregon("5055 N Greeley Ave, Portland, OR")).toBe(true);
-    expect(mentionsOregon("5055 N Greeley Ave Portland Oregon")).toBe(true);
-    expect(mentionsOregon("5055 N Greeley Ave 97217")).toBe(true);
+describe("withState", () => {
+  it("adds the chosen state unless the address already ends with a state or ZIP", () => {
+    expect(withState("5055 north Greeley avenue", "OR")).toBe("5055 north Greeley avenue, OR");
+    expect(withState("5055 N Greeley Ave, Portland, OR", "OR")).toBe("5055 N Greeley Ave, Portland, OR");
+    expect(withState("5055 N Greeley Ave Portland Oregon", "OR")).toBe("5055 N Greeley Ave Portland Oregon");
+    expect(withState("5055 N Greeley Ave 97217", "OR")).toBe("5055 N Greeley Ave 97217");
+    expect(withState("1600 Pennsylvania Ave NW, Washington", "DC")).toBe("1600 Pennsylvania Ave NW, Washington, DC");
   });
 });

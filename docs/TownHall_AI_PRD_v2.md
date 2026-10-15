@@ -85,7 +85,7 @@ Primary sources in priority order: official state/county voter guide → legisla
 
 ## 5. Voter experience
 
-1. Landing → enter an address for a suggested ballot, or skip it and browse.
+1. Landing → enter an address and pick a state (Oregon by default) for a suggested ballot, or skip it and browse. The lookup works for any US address so the product can extend beyond Oregon; only Oregon has ballot data for now.
 2. **My Ballot** is the voter's own list, and they control it:
    - The address fills it with suggested races and measures for where they live. Suggestions are a helpful starting point, not a verified ballot.
    - Special districts that may apply (water, fire, parks and similar) are offered for one-tap adding, since we can't place an address in them precisely.
