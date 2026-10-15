@@ -14,6 +14,8 @@ build/
 
 # Database (local dev only)
 *.db
+*.db-shm
+*.db-wal
 *.sqlite
 *.sqlite3
 
@@ -37,3 +39,12 @@ Thumbs.db
 
 # Testing
 coverage/
+
+# Next.js / Vercel
+.next/
+out/
+next-env.d.ts
+.vercel
+.env*
+!.env.example
+*.tsbuildinfo

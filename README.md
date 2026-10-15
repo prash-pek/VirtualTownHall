@@ -1,89 +1,63 @@
-# TownHall AI
+# TownHall AI v2
 
-**AI-Powered Candidate Communication Platform**
+A nonpartisan guide to the Oregon general election on November 3, 2026. A voter enters an address and sees every candidate and measure on their exact ballot, with sources for everything shown.
 
-TownHall AI lets voters have AI-powered conversations with verified representations of political candidates. Candidates upload their policy positions and platform materials; the system creates an AI persona grounded in that context. Constituents can then chat with these AI personas to understand candidate positions on topics that matter to them personally.
+Start with [docs/HANDOVER.md](docs/HANDOVER.md). The product and technical specs are [docs/TownHall_AI_PRD_v2.md](docs/TownHall_AI_PRD_v2.md) and [docs/TownHall_AI_TRD_v2.md](docs/TownHall_AI_TRD_v2.md). The v1 hackathon app is kept on the `v1` branch for reference.
 
----
+## Stack
 
-## Project Structure
+Next.js 16 (App Router, TypeScript strict) on Vercel · Neon Postgres + PostGIS with Drizzle · Clerk · Upstash Redis rate limits · Vercel Blob · Vercel Workflow · Claude via `@anthropic-ai/sdk`.
+
+## Layout
 
 ```
-VirtualTownHall/
-├── frontend/          # React (Vite) + Tailwind CSS
-├── backend/           # Node.js (Express) REST API
-├── docs/              # PRD and Technical Requirements
-└── uploads/           # Candidate document uploads (gitignored)
+app/                 routes: (voter), (candidate)/admin, (platform)/ops, api/
+components/          shared UI (layout-level disclaimer)
+lib/db/              Drizzle schema (TRD §3) and client
+lib/auth/            roles and guards
+lib/ratelimit/       Upstash limits (TRD §10)
+lib/seed/            inventory.json schema and integrity checks
+scripts/             migrate, import-inventory
+drizzle/             SQL migrations (generated; 0000 and 0002 are hand-written)
+data/oregon-2026/    seed corpus, owned by the data pipeline
+tests/unit/          Vitest
 ```
 
----
-
-## Quick Start
-
-### Prerequisites
-
-- Node.js 18+
-- An Anthropic API key (Claude)
-
-### Backend
+## Local development
 
 ```bash
-cd backend
 npm install
-cp .env.example .env
-# Edit .env with your API keys
+vercel link                     # project: townhall-ai-v2
+vercel env pull .env.local      # DATABASE_URL, Clerk and Upstash keys
+npm run db:migrate
+npm run seed:inventory          # imports data/oregon-2026/inventory.json as draft
 npm run dev
 ```
 
-### Frontend
+The app is served under the base path `/townhallai` (see `lib/base-path.ts`), so locally it's http://localhost:3000/townhallai and `/` redirects there. `next/link` adds the prefix automatically; raw URLs such as `<img src>` and Clerk redirect URLs must use `withBasePath()`.
 
-```bash
-cd frontend
-npm install
-npm run dev
+The app builds and runs without provider keys. `/townhallai/api/health` reports what is configured. Until Clerk keys exist, `/townhallai/admin` and `/townhallai/ops` return 503.
+
+Any Postgres 16+ with PostGIS works locally, for example `docker run -e POSTGRES_PASSWORD=postgres -p 5432:5432 postgis/postgis:17-3.5`.
+
+## Database
+
+- Edit `lib/db/schema.ts`, then `npm run db:generate` and commit the new file in `drizzle/`.
+- On Vercel, `vercel-build` runs `scripts/predeploy.ts` first: for production deployments only (the `main` branch), it applies migrations and re-runs the inventory import against Neon. Feature-branch previews never migrate the shared database.
+- The Neon integration is connected with the prefix `STORAGE1`, so the app reads `DATABASE_URL` or `STORAGE1_DATABASE_URL` (see `lib/env.ts`).
+- `audit_log` is append-only, enforced by a trigger.
+- Seed imports are idempotent upserts by slug. They never change the `status` of an existing row, so re-running after admin review is safe.
+
+## Auth
+
+Roles (`voter`, `candidate`, `admin`) live in Clerk `publicMetadata.role` and are set out of band. In the Clerk dashboard, open **Sessions → Customize session token** and add:
+
+```json
+{ "metadata": "{{user.public_metadata}}" }
 ```
 
-The frontend runs on `http://localhost:5173` and the backend on `http://localhost:3001`.
+Pages and route handlers call `requireRole()`. Candidate-scoped data must go through `canManageCandidate()`.
 
----
+## Checks
 
-## Tech Stack
-
-| Layer | Technology |
-|---|---|
-| Frontend | React 18 + Vite + Tailwind CSS |
-| Backend | Node.js + Express |
-| Database | SQLite (PostgreSQL-ready schema) |
-| AI Chat | Claude API (Sonnet) |
-| AI Scoring | Claude API (Opus) |
-| Auth | bcrypt + JWT |
-| File Processing | pdf-parse + mammoth.js |
-
----
-
-## Key Features
-
-- **Candidate Admin Panel** — Upload policy documents, configure AI persona, manage blocked topics, kill switch
-- **AI Chat Interface** — Real-time conversations grounded in candidate-uploaded context
-- **Alignment Score** — Automated comparison of AI persona vs. public record
-- **Constituent Discovery** — ZIP code search + topic-based candidate filtering
-- **Audit Trail** — Append-only, hash-chained log of all candidate context changes
-
----
-
-## Documentation
-
-- [Product Requirements Document](docs/TownHall_AI_PRD_v1.md)
-- [Technical Requirements Document](docs/TownHall_AI_Technical_Requirements_v1.md)
-
----
-
-## Environment Variables
-
-See `backend/.env.example` for required configuration.
-
----
-
-## Status
-
-**MVP — Version 1.0 (Draft)**
+`npm run typecheck`, `npm run lint`, `npm run format:check`, `npm test`. CI also applies migrations to a PostGIS service container and imports the inventory twice.

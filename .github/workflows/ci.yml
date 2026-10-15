@@ -1,0 +1,66 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Typecheck, lint, format, unit tests, build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm run lint
+      - run: npm run format:check
+      - run: npm test
+      - run: npm run build
+
+  database:
+    name: Migrations and inventory import
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgis/postgis:17-3.5
+        env:
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: townhall
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U postgres"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      DATABASE_URL: postgres://postgres:postgres@localhost:5432/townhall
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Schema and migrations agree
+        run: npx drizzle-kit check && npx drizzle-kit generate --name=ci_drift_check | tee /tmp/gen.log && grep -q "No schema changes" /tmp/gen.log
+      - run: npm run db:migrate
+      - name: Import inventory twice (idempotent)
+        run: npm run seed:inventory && npm run seed:inventory
+      - name: Verify counts and audit_log append-only
+        run: |
+          expected=$(node -e 'const d=require("./data/oregon-2026/inventory.json");console.log([d.jurisdictions,d.races,d.candidates,d.measures].map(a=>a.length).join("|"))')
+          actual=$(psql "$DATABASE_URL" -tAc "select (select count(*) from jurisdictions)||'|'||(select count(*) from races)||'|'||(select count(*) from candidates)||'|'||(select count(*) from ballot_measures)")
+          echo "expected $expected, got $actual"; test "$expected" = "$actual"
+          test "$(psql "$DATABASE_URL" -tAc "select count(*) from candidates where status <> 'draft'")" = "0"
+          psql "$DATABASE_URL" -c "insert into audit_log(id,subject_type,subject_id,seq,action,payload,hash) values (gen_random_uuid(),'ci',gen_random_uuid(),1,'test','{}','h')"
+          if psql "$DATABASE_URL" -v ON_ERROR_STOP=1 -c "update audit_log set action='x'"; then echo "audit_log accepted an UPDATE"; exit 1; fi
