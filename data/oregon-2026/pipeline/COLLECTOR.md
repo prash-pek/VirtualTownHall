@@ -19,7 +19,8 @@ cannot point to on a real page will be rejected.
 Run **the same steps for every candidate in a race** (and both sides of a measure), and log each in `collection_log`:
 
 Candidates:
-1. **Voters' pamphlet statement** (T1). Multnomah county/local statements are linked one per candidate from the
+1. **Voters' pamphlet statement** (T1). If you were given a pamphlet extract folder (`pamphlet_extract.py` output), read
+   `<folder>/<candidate-id>.txt` and quote from it, citing its `source_url`; don't re-fetch the PDF. Otherwise: Multnomah county/local statements are linked one per candidate from the
    Military & Overseas Online Voters' Guide (multco.us); full pamphlet PDFs truncate in WebFetch at ~120k chars. Statewide/federal/legislative/judicial: the SOS statewide pamphlet
    for the candidate's county edition (sos.oregon.gov/elections/Voters-Pamphlet). Local: the county pamphlet
    (Multnomah's is joint with the SOS book; Washington and Clackamas publish their own).
