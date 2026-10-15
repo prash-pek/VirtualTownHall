@@ -452,6 +452,11 @@ export const profiles = pgTable("profiles", {
     .array()
     .notNull()
     .default(sql`'{}'::text[]`),
+  /** The voter's own "My ballot": item keys such as "race:or-us-senate" (see lib/ballot/types.ts). */
+  ballotItems: text("ballot_items")
+    .array()
+    .notNull()
+    .default(sql`'{}'::text[]`),
   ...timestamps,
 });
 
