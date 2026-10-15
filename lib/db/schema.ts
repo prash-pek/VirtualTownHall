@@ -168,6 +168,11 @@ export const ballotMeasures = pgTable(
     noMeans: text("no_means"),
     fiscalImpact: text("fiscal_impact"),
     fullTextUrl: text("full_text_url"),
+    /** What collection couldn't find (e.g. "No filed argument in opposition"), shown to voters as-is. */
+    gaps: text("gaps")
+      .array()
+      .notNull()
+      .default(sql`'{}'::text[]`),
     ballotOrder: integer("ballot_order").notNull(),
     status: contentStatus("status").notNull().default("draft"),
     ...timestamps,
@@ -236,13 +241,18 @@ export const measureArguments = pgTable(
     side: measureSide("side").notNull(),
     kind: measureArgumentKind("kind").notNull(),
     author: text("author"),
+    topic: text("topic"),
     statement: text("statement").notNull(),
     excerpt: text("excerpt"),
     sourceId: uuid("source_id").references(() => sources.id),
+    contentHash: text("content_hash").notNull(),
     status: contentStatus("status").notNull().default("draft"),
     ...timestamps,
   },
-  (t) => [index("measure_arguments_measure_idx").on(t.measureId, t.side)],
+  (t) => [
+    index("measure_arguments_measure_idx").on(t.measureId, t.side),
+    uniqueIndex("measure_arguments_measure_hash_uq").on(t.measureId, t.contentHash),
+  ],
 );
 
 // ---------------------------------------------------------------------------
@@ -276,6 +286,10 @@ export const candidates = pgTable(
     donationUrl: text("donation_url"),
     personaConfig: jsonb("persona_config").$type<PersonaConfig>().notNull().default({}),
     ballotOrder: integer("ballot_order").notNull().default(0),
+    gaps: text("gaps")
+      .array()
+      .notNull()
+      .default(sql`'{}'::text[]`),
     status: candidateStatus("status").notNull().default("draft"),
     ...timestamps,
   },
