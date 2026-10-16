@@ -19,39 +19,18 @@
       "statement": "The district's explanatory statement says emergency service costs have risen 10 percent per year over four years, nearly twice the average increase in property taxes.",
       "excerpt": "Emergency service costs have gone up 10 percent per year over the past four years, nearly twice the average increase in property taxes you pay.",
       "source": {
-        "url": "https://multco.us/info/measure-26-269-five-year-local-option-tax-fire-ambulance-operations",
-        "publisher": "Multnomah County Elections Division",
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-103)",
         "tier": "T1",
         "published_at": null,
-        "retrieved_at": "2026-10-14"
+        "retrieved_at": "2026-10-14",
+        "page": "M-103"
       },
       "verification": {
-        "status": "verified",
+        "status": "corrected",
         "checks_failed": [],
-        "note": "Excerpt present in the explanatory statement (Richard T. Lovett, Board Chairman).",
-        "verified_at": "2026-10-14"
-      }
-    },
-    {
-      "id": "burlington-water-district-26-269-y2",
-      "side": "yes",
-      "kind": "explainer",
-      "author": "Burlington Water District (explanatory statement, submitted by Richard T. Lovett, Board Chairman)",
-      "topic": "public-safety",
-      "statement": "The explanatory statement says the district has no funding source other than property tax revenue to pay for emergency services.",
-      "excerpt": "The District has no funding source other than property tax revenue to pay for emergency services.",
-      "source": {
-        "url": "https://multco.us/info/measure-26-269-five-year-local-option-tax-fire-ambulance-operations",
-        "publisher": "Multnomah County Elections Division",
-        "tier": "T1",
-        "published_at": null,
-        "retrieved_at": "2026-10-14"
-      },
-      "verification": {
-        "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt verbatim in the explanatory statement.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "Excerpt is verbatim in the Multnomah pamphlet explanatory statement (M-103); source URL changed from the county info page to the pamphlet itself."
       }
     }
   ],
@@ -60,44 +39,43 @@
     "taxes"
   ],
   "gaps": [
-    "No NO arguments found: no opposition statement in any reachable official source or T3 outlet; voters' pamphlet arguments section could not be read.",
-    "No T3 news coverage of this measure was found.",
-    "Official voters' pamphlet arguments (yes and no) could not be read: the county pamphlet PDF text is truncated before the measures section."
+    "No argument in favor was filed in the county voters' pamphlet (M-103: 'No arguments in favor or opposition to this measure were filed').",
+    "No argument in opposition was filed in the county voters' pamphlet (M-103)."
   ],
   "ballot_label_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Matches the multco.us page.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "summary_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Contract with Portland Fire & Rescue, contingency fund and no effect on water service/rates are confirmed in the official text.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "yes_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Consistent.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "no_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Consistent.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "fiscal_impact_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "$84,420 (2027-28), $95,016 (2031-32), 'average of $87,029', $3.4269 permanent rate, $166,000 property, $47 to $71 monthly, and $24 more all match the official text. The official yearly figures (84,420 / 86,953 / 89,561 / 92,248 / 95,016) average about $89,640, not $87,029; that is an inconsistency in the official text, reproduced faithfully here.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "verification_summary": {
-    "verified": 2,
-    "corrected": 0,
+    "verified": 0,
+    "corrected": 1,
     "rejected": 0,
-    "balance_notes": "2 YES / 0 NO. Both YES items are official explanatory-statement text (T1); there are 0 filed arguments and 0 press items. The Multnomah Military & Overseas guide lists no filed arguments for 26-269, so the 'no NO arguments' gap is accurate, and no YES arguments were filed either. The spot search found only official pages and the district's earlier May 2026 levy pages (Measure 26-264)."
+    "balance_notes": "0 YES arguments / 0 NO arguments filed (M-103). The only item is the district's official explanatory statement, placed on the yes side; the no side has none. One-sided by default of filings."
   }
 }

@@ -7,145 +7,283 @@
   "summary": "Asks Wilsonville voters whether to adopt Ordinance No. 905 creating the Town Center Development District, an urban renewal district using tax increment financing to fund gathering spaces and parking, small-business incentives and infrastructure in Town Center. The plan sets maximum indebtedness of $152 million ($85.5 million in today's dollars) over a 28-year duration. The ballot summary states TIF is not a new tax or tax rate increase.",
   "yes_means": "A yes vote approves adoption of Ordinance No. 905, establishing the Wilsonville Town Center Development District as an urban renewal district.",
   "no_means": "A no vote rejects Ordinance No. 905, and the Town Center Development District urban renewal district would not be formed.",
-  "fiscal_impact": "Per the ballot title and city ordinance page: maximum indebtedness (spending cap) of $152 million ($85.5 M in today's dollars), structured as smaller borrowings, 28-year duration with tax increment collection anticipated through fiscal year 2056; the measure would not establish a new property tax or increase existing tax rates.",
+  "fiscal_impact": "Per the county pamphlet explanatory statement: the Plan authorizes up to $152 million in principal indebtedness ($85.5 million in today's dollars), borrowed in portions over time, with tax increment collection anticipated for 28 years, through fiscal year 2056. The statement says the measure would not establish a new property tax or increase existing property tax rates, and that the accompanying report assumes taxable assessed value in the district could rise from about $206 million in 2027 to about $1.7 billion if forecast redevelopment occurs.",
   "full_text_url": "https://www.wilsonvilleoregon.gov/ord-905",
   "arguments": [
     {
       "id": "wilsonville-3-641-y1",
       "side": "yes",
       "kind": "argument",
-      "author": "Mark Smith, Wilsonville (letter to the editor)",
+      "author": "Shawn M. O’Neil, Wilsonville Mayor",
       "topic": "economy",
-      "statement": "In a September 19, 2026 letter to the editor of the Wilsonville Spokesman, Mark Smith of Wilsonville urges a yes vote on Measure 3-641 to approve the Wilsonville Town Center Development District.",
-      "excerpt": "There are many reasons to vote YES on Measure 3-641 to approve the Wilsonville Town Center Development District.",
+      "statement": "Mayor Shawn M. O'Neil argues that after years of planning the Town Center Plan should move to implementation, and that further delay carries costs.",
+      "excerpt": "For nearly a decade, Wilsonville residents, businesses, volunteers, elected officials, and professional staff have invested extraordinary time and resources developing a vision for our Town Center. Now it is time to move from planning to implementation.",
       "source": {
-        "url": "https://wilsonvillespokesman.com/2026/09/19/letters-to-the-editor-readers-advocate-for-candidates-measures-in-wilsonville-and-lake-oswego/",
-        "publisher": "Wilsonville Spokesman",
-        "tier": "T3",
-        "published_at": "2026-09-19",
-        "retrieved_at": "2026-10-14"
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 69 (printed C-68)"
       },
       "verification": {
-        "status": "corrected",
-        "checks_failed": [
-          "paraphrase_faithful"
-        ],
-        "note": "Excerpt verbatim on the dated letters page (letter signed Mark Smith, Wilsonville). Statement trimmed: gathering spaces, employment and food carts appear in the letter but not in the excerpt.",
-        "verified_at": "2026-10-14"
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
       }
     },
     {
       "id": "wilsonville-3-641-y2",
       "side": "yes",
       "kind": "argument",
-      "author": "Mark Smith, Wilsonville (letter to the editor)",
-      "topic": "taxes",
-      "statement": "In the same letter, Mark Smith writes that urban renewal will fund infrastructure, not residents' property taxes.",
-      "excerpt": "urban renewal will fund infrastructure, not our property taxes",
+      "author": "Sam Scull, Wilsonville City Councilor",
+      "topic": "economy",
+      "statement": "City Councilor Sam Scull argues Town Center redevelopment would improve streets, sidewalks, parks and public spaces and create opportunities for businesses, jobs and private investment.",
+      "excerpt": "By making better use of land that’s already developed, we can improve streets, sidewalks, parks and public spaces while creating opportunities for new businesses, jobs and private investment.",
       "source": {
-        "url": "https://wilsonvillespokesman.com/2026/09/19/letters-to-the-editor-readers-advocate-for-candidates-measures-in-wilsonville-and-lake-oswego/",
-        "publisher": "Wilsonville Spokesman",
-        "tier": "T3",
-        "published_at": "2026-09-19",
-        "retrieved_at": "2026-10-14"
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 69 (printed C-68)"
       },
       "verification": {
-        "status": "corrected",
-        "checks_failed": [
-          "paraphrase_faithful"
-        ],
-        "note": "Excerpt verbatim. Statement trimmed: the 'hurts the city budget' framing is in the surrounding sentence, not in the excerpt.",
-        "verified_at": "2026-10-14"
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-y3",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Susan Reep (signed Susan Reep and Mark Smith)",
+      "topic": "housing",
+      "statement": "Susan Reep and Mark Smith argue a yes vote puts the Town Center Plan into action gradually over several decades, with parking and green spaces included in the plans.",
+      "excerpt": "A YES vote puts the Town Center Plan into action by creating the Town Center Development District. This long-term plan guides improvements gradually, over several decades",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 70 (printed C-69)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-y4",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Kristin Akervall",
+      "topic": "local-business",
+      "statement": "Kristin Akervall argues Wilsonville should have a Main Street with gathering places and more local restaurants and businesses, with options to drive, walk, bike or take the bus.",
+      "excerpt": "We shouldn’t have to leave Wilsonville to find the restaurants, hangout spots, and experiences we want. We can create those opportunities here, while supporting the businesses and community we already call home.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 70 (printed C-69)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-y5",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Michele Gila, Portland Metro Association of REALTORS®",
+      "topic": "housing",
+      "statement": "The Portland Metro Association of REALTORS argues the measure funds public improvements that can support homeownership options and private investment in Town Center.",
+      "excerpt": "Measure 3-641 provides an important tool to make those public improvements, unlocking the private investment that delivers the shops, restaurants, and gathering spaces the community deserves.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 71 (printed C-70)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-y6",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Bill Bagnall",
+      "topic": "housing",
+      "statement": "Bill Bagnall argues the Town Center Plan would let downsizing residents stay in Wilsonville near walkable amenities, and says it would not bring new taxes.",
+      "excerpt": "The Town Center Plan allows residents who are downsizing to remain in Wilsonville and enjoy a safe, pleasant and relaxed quality of life with an intergenerational mix that creates dynamic and connected communities.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 71 (printed C-70)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
       }
     },
     {
       "id": "wilsonville-3-641-n1",
       "side": "no",
       "kind": "argument",
-      "author": "Eric Winters, Wilsonville resident (opinion column)",
+      "author": "Adam Cunningham, Wilsonville City Councilor",
       "topic": "housing",
-      "statement": "In an October 2026 Wilsonville Spokesman opinion column, Eric Winters says the city's feasibility study projects 96.4% of new housing would be apartments, mostly market-rate.",
-      "excerpt": "By the city’s own feasibility study, 96.4% will be apartments. Not affordable housing for Wilsonville’s low-income families, but premium market-rate apartments for thousands of new residents.",
+      "statement": "City Councilor Adam Cunningham argues the city's own projections point to a high-density apartment district, and that the measure authorizes up to $152 million in urban renewal debt.",
+      "excerpt": "Measure 3-641 asks voters to authorize up to $152 million in urban renewal debt, repaid through 2056.",
       "source": {
-        "url": "https://wilsonvillespokesman.com/2026/10/01/opinion-they-didnt-trust-you-can-you-trust-them/",
-        "publisher": "Wilsonville Spokesman",
-        "tier": "T3",
-        "published_at": "2026-10-01",
-        "retrieved_at": "2026-10-14"
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 78 (printed C-77)"
       },
       "verification": {
         "status": "verified",
         "checks_failed": [],
-        "note": "Excerpt verbatim in 'OPINION: They didn't trust you. Can you trust them?' by Eric Winters, Wilsonville Spokesman Opinion section, Oct 1, 2026; urges 'Vote no on Measure 3-641'. Column identifies Winters as a chief petitioner of the May 2026 measure requiring public votes on urban renewal.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
       }
     },
     {
       "id": "wilsonville-3-641-n2",
       "side": "no",
       "kind": "argument",
-      "author": "Eric Winters, Wilsonville resident (opinion column)",
-      "topic": "transportation",
-      "statement": "Winters says new residents would add traffic to Wilsonville Road and the I-5 interchange, which he describes as already congested with no funded state fix.",
-      "excerpt": "Thousands of new residents and their cars would funnel onto Wilsonville Road and the I-5 interchange, already the most congested corridor in the city, with no state fix funded and no timeline.",
+      "author": "Katie Dunwell & Jennie Hill",
+      "topic": "taxes",
+      "statement": "Katie Dunwell and Jennie Hill say they are voting no on the urban renewal financing plan, citing the debt and the housing density assumptions, and say the decision belongs to voters.",
+      "excerpt": "We are voting no on the Town Center urban renewal financing plan. We are not convinced that taking on this debt to finance high density housing in Town Center is the right move for Wilsonville right now",
       "source": {
-        "url": "https://wilsonvillespokesman.com/2026/10/01/opinion-they-didnt-trust-you-can-you-trust-them/",
-        "publisher": "Wilsonville Spokesman",
-        "tier": "T3",
-        "published_at": "2026-10-01",
-        "retrieved_at": "2026-10-14"
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 79 (printed C-78)"
       },
       "verification": {
         "status": "verified",
         "checks_failed": [],
-        "note": "Excerpt verbatim (same column); attributed framing.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
       }
     },
     {
       "id": "wilsonville-3-641-n3",
       "side": "no",
       "kind": "argument",
-      "author": "Eric Winters, Wilsonville resident (opinion column)",
-      "topic": "taxes",
-      "statement": "Winters notes the plan could involve up to $152 million repaid by diverting property tax growth through 2056.",
-      "excerpt": "Up to $152 million, repaid by diverting property tax growth through 2056.",
+      "author": "Rick and Elizabeth Peters",
+      "topic": "transportation",
+      "statement": "Rick and Elizabeth Peters argue the measure would bring substantial new housing density and more traffic and commit the city to up to $152 million in indebtedness.",
+      "excerpt": "This measure authorizes up to $152 million in indebtedness over 28 years, relying on future property tax growth to fund an ambitious slate of public projects.",
       "source": {
-        "url": "https://wilsonvillespokesman.com/2026/10/01/opinion-they-didnt-trust-you-can-you-trust-them/",
-        "publisher": "Wilsonville Spokesman",
-        "tier": "T3",
-        "published_at": "2026-10-01",
-        "retrieved_at": "2026-10-14"
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 79 (printed C-78)"
       },
       "verification": {
         "status": "verified",
         "checks_failed": [],
-        "note": "Excerpt verbatim (same column); figures consistent with the official $152M cap through FY2056.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
       }
     },
     {
       "id": "wilsonville-3-641-n4",
       "side": "no",
       "kind": "argument",
-      "author": "Doris Wehler, Wilsonville (letter to the editor)",
-      "topic": "housing",
-      "statement": "In a September 2026 letter to the Wilsonville Spokesman, Doris Wehler of Wilsonville says the city does not advertise that 2,381 housing units would be required to finance the urban renewal project.",
-      "excerpt": "What the city doesn't advertise is the 2,381 housing units that will be required to finance this urban renewal project.",
+      "author": "Eric Winters, Keep Wilsonville Voting",
+      "topic": "taxes",
+      "statement": "Eric Winters, for Keep Wilsonville Voting, argues the measure would use urban renewal to subsidize new apartments, adding traffic and committing future property taxes to city debt.",
+      "excerpt": "It would use urban renewal to subsidize thousands of new apartments in Town Center, adding more traffic to already congested roads while committing millions in future property taxes to new City debt.",
       "source": {
-        "url": "https://wilsonvillespokesman.com/2026/09/19/letters-to-the-editor-readers-advocate-for-candidates-measures-in-wilsonville-and-lake-oswego/",
-        "publisher": "Wilsonville Spokesman",
-        "tier": "T3",
-        "published_at": "2026-09-19",
-        "retrieved_at": "2026-10-14"
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 80 (printed C-79)"
       },
       "verification": {
-        "status": "corrected",
-        "checks_failed": [
-          "paraphrase_faithful"
-        ],
-        "note": "Excerpt verbatim (letter signed Doris Wehler, Wilsonville, Sept 19, 2026). Statement trimmed: 'taxpayers don't need to underwrite this plan' is a separate sentence not in the excerpt.",
-        "verified_at": "2026-10-14"
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-n5",
+      "side": "no",
+      "kind": "argument",
+      "author": "Doris A. Wehler",
+      "topic": "taxes",
+      "statement": "Doris Wehler argues the $152 million in debt would require about $174.5 million in urban renewal taxes over 28 years to subsidize private redevelopment.",
+      "excerpt": "The City is asking us to approve $152 million in urban renewal debt, requiring approximately $174.5 million in urban renewal taxes over 28 years, to subsidize infrastructure, property acquisition and other costs of this massive private redevelopment.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 80 (printed C-79)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-n6",
+      "side": "no",
+      "kind": "argument",
+      "author": "T.J. Reilly, Oregon Small Business Assocation [sic]",
+      "topic": "local-business",
+      "statement": "T.J. Reilly of the Oregon Small Business Association argues tax increment financing diverts property-tax growth and could subsidize competitors of existing Town Center businesses, such as through food cart incentives.",
+      "excerpt": "Tax increment financing diverts growth in property-tax revenues to finance development within the district. Existing businesses help generate those taxes whether the resulting projects help them or hurt them.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 81 (printed C-80)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
       }
     }
   ],
@@ -155,44 +293,574 @@
     "housing"
   ],
   "gaps": [
-    "Official county voters' pamphlet explanatory statement and any filed YES/NO arguments could not be read (pamphlet text extraction truncated before the measure pages, in both the Clackamas and Washington County pamphlets).",
-    "No YES argument from a named campaign committee or city official on the merits found in T1/T3 sources; YES side is represented only by one letter to the editor.",
-    "Verifier: the Washington County Nov 3, 2026 voters' pamphlet table of contents lists Measure 3-641 at pages WC-47 to WC-50 (four pages, which suggests filed arguments beyond the explanatory statement); those pages lie past the ~117k-character extraction limit and could not be read."
+    "The county voters' pamphlet printed 19 arguments in favor (extract pages 69-78; printed C-68 to C-77). Six were recorded in pamphlet order (cap 6 per side); 13 further arguments in favor are not recorded, including those furnished by Chris Heydemann (Neighbors for Wilsonville), Andrew Engel, Mary Rooney, Christie Mayer, Rick Wallace, Erio E. Hoem, Caroline Berry, Jason Jones, Frank Garcia Jr. and Bill Bagnall (second argument).",
+    "The county voters' pamphlet printed 21 arguments in opposition (extract pages 78-88; printed C-77 to C-87). Six were recorded in pamphlet order (cap 6 per side); 15 further arguments in opposition are not recorded, including those furnished by Bryan Smith, Rod and Valorie Boucher, Kristin Roche, Kate Johnson, Robyn M. Rebers, Ned and Glenda Walls, Dwight Sims, John Ludlow, J. Michele Seal, Steve Gaschler, Steve Schopp, Jason Williams (Taxpayers Association of Oregon), Becky L. Fromhart, Kristi Corno (City of Wilsonville Parks & Rec Advisory Board) and Eric Winters (second argument).",
+    "Endorsements: sponsors of the first 12 filed arguments on each side (pamphlet order) are recorded, 24 of the 25 allowed. Not recorded: further yes sponsors Andrew Engel, Mary Rooney, Frank Garcia Jr. (repeat sponsors Bagnall, Heydemann, Mayer, Engel omitted as duplicates); further no sponsors Dwight Sims, John Ludlow, J. Michele Seal, Steve Gaschler, Steve Schopp, Jason Williams (Taxpayers Association of Oregon), Becky L. Fromhart, Kristi Corno (City of Wilsonville Parks & Rec Advisory Board)."
+  ],
+  "endorsements": [
+    {
+      "id": "wilsonville-3-641-e1",
+      "endorser": "Shawn M. O’Neil, Wilsonville Mayor",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Mayor O'Neil furnished a voters' pamphlet argument in favor of Measure 3-641.",
+      "excerpt": "This information furnished by Shawn M. O’Neil",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 69 (printed C-68)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e2",
+      "endorser": "Sam Scull, Wilsonville City Councilor",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Councilor Scull furnished a voters' pamphlet argument in favor of Measure 3-641.",
+      "excerpt": "This information furnished by Sam Scull",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 69 (printed C-68)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e3",
+      "endorser": "Susan Reep",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Susan Reep furnished a voters' pamphlet argument in favor of Measure 3-641, signed by Susan Reep and Mark Smith.",
+      "excerpt": "This information furnished by Susan Reep",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 70 (printed C-69)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e4",
+      "endorser": "Kristin Akervall",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Kristin Akervall furnished a voters' pamphlet argument in favor of Measure 3-641.",
+      "excerpt": "This information furnished by Kristin Akervall",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 70 (printed C-69)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e5",
+      "endorser": "Portland Metro Association of REALTORS®",
+      "endorser_type": "organization",
+      "side": "yes",
+      "statement": "The Portland Metro Association of REALTORS, through Michele Gila, furnished a voters' pamphlet argument in favor of Measure 3-641.",
+      "excerpt": "This information furnished by Michele Gila, Portland Metro Association of REALTORS®",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 71 (printed C-70)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e6",
+      "endorser": "Bill Bagnall",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Bill Bagnall furnished a voters' pamphlet argument in favor of Measure 3-641.",
+      "excerpt": "This information furnished by Bill Bagnall",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 71 (printed C-70)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e7",
+      "endorser": "Adam Cunningham, Wilsonville City Councilor",
+      "endorser_type": "official",
+      "side": "no",
+      "statement": "Councilor Cunningham furnished a voters' pamphlet argument in opposition to Measure 3-641.",
+      "excerpt": "This information furnished by Adam Cunningham",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 78 (printed C-77)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e8",
+      "endorser": "Katie Dunwell and Jennie Hill",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Katie Dunwell and Jennie Hill furnished a voters' pamphlet argument in opposition to Measure 3-641.",
+      "excerpt": "This information furnished by Katie Dunwell & Jennie Hill",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 79 (printed C-78)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e9",
+      "endorser": "Rick and Elizabeth Peters",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Rick and Elizabeth Peters furnished a voters' pamphlet argument in opposition to Measure 3-641.",
+      "excerpt": "This information furnished by Rick and Elizabeth Peters",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 79 (printed C-78)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e10",
+      "endorser": "Keep Wilsonville Voting",
+      "endorser_type": "organization",
+      "side": "no",
+      "statement": "Keep Wilsonville Voting, through Eric Winters, furnished a voters' pamphlet argument in opposition to Measure 3-641.",
+      "excerpt": "This information furnished by Eric Winters, Keep Wilsonville Voting",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 80 (printed C-79)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e11",
+      "endorser": "Doris A. Wehler",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Doris Wehler furnished a voters' pamphlet argument in opposition to Measure 3-641.",
+      "excerpt": "This information furnished by Doris A. Wehler",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 80 (printed C-79)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e12",
+      "endorser": "Oregon Small Business Association",
+      "endorser_type": "organization",
+      "side": "no",
+      "statement": "The Oregon Small Business Association, through T.J. Reilly, furnished a voters' pamphlet argument in opposition to Measure 3-641 (printed as 'Assocation').",
+      "excerpt": "This information furnished by T.J. Reilly, Oregon Small Business Assocation",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 81 (printed C-80)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e13",
+      "endorser": "Rick Wallace",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Rick Wallace furnished a voters' pamphlet argument in favor of Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Rick Wallace",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 72 (printed C-71)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e14",
+      "endorser": "Erio E. Hoem",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Erio E. Hoem furnished a voters' pamphlet argument in favor of Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Erio E. Hoem",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 72 (printed C-71)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e15",
+      "endorser": "Caroline Berry",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Caroline Berry furnished a voters' pamphlet argument in favor of Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Caroline Berry",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 73 (printed C-72)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e16",
+      "endorser": "Neighbors for Wilsonville",
+      "endorser_type": "organization",
+      "side": "yes",
+      "statement": "Neighbors for Wilsonville furnished a voters' pamphlet argument in favor of Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Chris Heydemann, Neighbors for Wilsonville",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 73 (printed C-72)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e17",
+      "endorser": "Jason Jones",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Jason Jones furnished a voters' pamphlet argument in favor of Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Jason Jones",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 74 (printed C-73)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e18",
+      "endorser": "Christie Mayer",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Christie Mayer furnished a voters' pamphlet argument in favor of Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Christie Mayer",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 74 (printed C-73)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e19",
+      "endorser": "Bryan Smith",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Bryan Smith furnished a voters' pamphlet argument in opposition to Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Bryan Smith",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 81 (printed C-80)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e20",
+      "endorser": "Rod and Valorie Boucher",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Rod and Valorie Boucher furnished a voters' pamphlet argument in opposition to Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Rod & Valorie Boucher",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 82 (printed C-81)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e21",
+      "endorser": "Kristin Roche",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Kristin Roche furnished a voters' pamphlet argument in opposition to Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Kristin Roche",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 82 (printed C-81)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e22",
+      "endorser": "Kate Johnson",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Kate Johnson furnished a voters' pamphlet argument in opposition to Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Kate Johnson",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 83 (printed C-82)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e23",
+      "endorser": "Robyn M. Rebers",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Robyn M. Rebers furnished a voters' pamphlet argument in opposition to Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Robyn M. Rebers",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 83 (printed C-82)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e24",
+      "endorser": "Ned and Glenda Walls",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Ned and Glenda Walls furnished a voters' pamphlet argument in opposition to Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Ned and Glenda Walls",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 84 (printed C-83)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    }
   ],
   "ballot_label_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Caption and question match the Ballot Title on wilsonvilleoregon.gov/ord-905 (city page; the Clackamas ballot-title PDF returned only an accommodation notice).",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "summary_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Matches the ballot summary on wilsonvilleoregon.gov/ord-905: fund categories, $152M ($85.5M today's dollars), 28-year duration, 'TIF is not a new tax or tax rate increase.'",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "yes_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Faithful to the ballot question; neutral.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "no_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Faithful to the ballot question; neutral.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "fiscal_impact_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Matches city page summary and explanatory statement: $152M spending cap, smaller borrowings, 28 years through FY2056, no new tax or rate increase.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "verification_summary": {
-    "verified": 3,
-    "corrected": 3,
+    "verified": 36,
+    "corrected": 0,
     "rejected": 0,
-    "balance_notes": "YES: 2 items, both press/letters (one letter to the editor, Mark Smith); 0 official text, 0 filed pamphlet arguments. NO: 4 items, all press/letters (3 from one bylined opinion column by Eric Winters, 1 from a letter by Doris Wehler); 0 official, 0 pamphlet. All press items are from the Wilsonville Spokesman, dated Sept 19 and Oct 1, 2026, name their authors, are attributed as letter/opinion in the statements, and explicitly concern Measure 3-641 (not the May 2026 measure). Disparity (2 vs 4 items; 1 vs 2 authors) is documented in gaps; spot search found no fall-2026 T1/T3 yes-side statement missed. Likely completeness gap: Washington County pamphlet devotes WC-47 to WC-50 to 3-641; filed arguments there (if any) are unread."
+    "balance_notes": "6 of 19 YES and 6 of 21 NO arguments itemized (cap 6); sponsors of the first 12 filed arguments on each side listed (12 yes, 12 no endorsements), same treatment both sides."
   }
 }

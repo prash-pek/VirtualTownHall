@@ -13,23 +13,24 @@
     {
       "id": "canby-3-642-y1",
       "side": "yes",
-      "kind": "argument",
-      "author": "Canby City Council (Resolution No. 1465)",
+      "kind": "explainer",
+      "author": "City of Canby (county explanatory statement)",
       "topic": "custom:local-government",
-      "statement": "In Resolution No. 1465 referring the measure, the Canby City Council states the Charter Review Subcommittee recommended the change to help with City Administrator recruitment.",
-      "excerpt": "the Subcommittee recommended that Chapter V, Section 2 of the Charter be revised to give the City Council authority to waive or modify this residency requirement in accordance with rules for the purpose of assisting in City Administrator recruitment;",
+      "statement": "The county explanatory statement says the Charter Review Subcommittee recommended giving the City Council authority to waive or alter the City Administrator residency requirement to assist in recruitment.",
+      "excerpt": "The Subcommittee recommended that the City Administrator residency requirement be revised to give the City Council authority to waive or alter the requirement to assist in City Administrator recruitment.",
       "source": {
-        "url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/ordinance/32201/res_1465.pdf",
-        "publisher": "City of Canby",
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
         "tier": "T1",
-        "published_at": "2026-07-15",
-        "retrieved_at": "2026-10-14"
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Printed C-60"
       },
       "verification": {
-        "status": "verified",
+        "status": "corrected",
         "checks_failed": [],
-        "note": "WHEREAS clause verbatim in Resolution No. 1465 (City of Canby, adopted 2026-07-15). This is the referring council's stated rationale, not a campaign or pamphlet argument; attributed as such.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "Replaced the unverifiable city-resolution quote with the equivalent sentence from the official explanatory statement in the county pamphlet; excerpt verified verbatim."
       }
     }
   ],
@@ -37,37 +38,38 @@
     "custom:local-government"
   ],
   "gaps": [
-    "No NO argument found: no opposition statements in T1/T3 sources (pamphlet arguments unreadable; Woodburn Independent coverage quotes no one).",
-    "YES side represented only by the referring council's resolution rationale; no campaign or pamphlet argument found."
+    "No argument in favor or in opposition was filed in the county voters' pamphlet (the pamphlet prints 'NO ARGUMENTS IN FAVOR/OPPOSITION TO THIS MEASURE WERE FILED'). The yes-side item remains the referring council's resolution rationale (T1, city site).",
+    "The county explanatory statement gives no fiscal estimate, so fiscal_impact is null."
   ],
+  "endorsements": [],
   "ballot_label_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Caption, question and summary match Exhibit A of Resolution No. 1465 (adopted July 15, 2026).",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "summary_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Faithful to the ballot summary.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "yes_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Faithful; neutral.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "no_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Faithful; neutral.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "verification_summary": {
-    "verified": 1,
-    "corrected": 0,
-    "rejected": 0,
-    "balance_notes": "YES: 1 item, official text (council resolution rationale); 0 pamphlet, 0 press. NO: 0 items; absence documented in gaps. Spot search found only City of Canby pages (incl. an informational page, canbyoregon.gov/node/32230); no opposition located. Clackamas pamphlet measure pages unreadable, so filed arguments could not be checked."
+    "verified": 0,
+    "corrected": 1,
+    "rejected": 1,
+    "balance_notes": "0 YES / 0 NO filed arguments (pamphlet: no arguments in favor/opposition filed). One neutral explainer on the yes side only; no counterpart on the no side."
   }
 }

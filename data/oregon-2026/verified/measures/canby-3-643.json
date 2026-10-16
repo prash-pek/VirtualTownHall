@@ -7,51 +7,30 @@
   "summary": "Would combine Canby's water and electric departments under the Canby Utility Board, give the Board exclusive authority over both, and remove certain charter limits on the Board issuing revenue bonds, incurring debt and making expenditures. Also modernizes language, raises Board members' successive-term limit from two to three, clarifies the General Manager's role, and requires quarterly reports to the City Council.",
   "yes_means": "A yes vote amends Chapter X to create a single water and electric department under the Canby Utility Board and remove certain limits on its borrowing and spending.",
   "no_means": "A no vote leaves Chapter X unchanged, with separate water (City Council) and electric (Canby Utility Board) departments and existing restrictions.",
-  "fiscal_impact": "Per the July 15, 2026 council staff report: the amendment 'would allow CU staff to place revenue bonds in excess of one year's gross revenue without a vote of the people, which is similar to existing permissions already afforded to the City of Canby.' No dollar estimate in the ballot title.",
+  "fiscal_impact": "The ballot title gives no dollar estimate. Per the county explanatory statement, the current Charter bars the Board from issuing water revenue bonds and requires voter approval for electric-department bonds or debt above the prior fiscal year's gross revenue; the measure would remove those limits and raise the cap on outstanding short-term loans from 50% to 100% of the electric department's prior-year gross revenue.",
   "full_text_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/packets/32182/07-15-2026_cc_packet.pdf",
   "arguments": [
     {
       "id": "canby-3-643-y1",
       "side": "yes",
-      "kind": "argument",
-      "author": "City of Canby staff report (July 15, 2026 City Council packet)",
-      "topic": "infrastructure",
-      "statement": "The City of Canby staff report says council, staff and legal counsel agree the amendment meets Canby Utility's needs to plan for growth and water infrastructure expansion.",
-      "excerpt": "Council, staff and legal counsel agree that such a City Charter amendment meets the needs of CUB to safely plan and provide for future growth and water infrastructure expansion projections inside the City of Canby.",
-      "source": {
-        "url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/packets/32182/07-15-2026_cc_packet.pdf",
-        "publisher": "City of Canby",
-        "tier": "T1",
-        "published_at": "2026-07-15",
-        "retrieved_at": "2026-10-14"
-      },
-      "verification": {
-        "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt verbatim in the Resolution 1466 staff report (Discussion), July 15, 2026 council packet.",
-        "verified_at": "2026-10-14"
-      }
-    },
-    {
-      "id": "canby-3-643-y2",
-      "side": "yes",
       "kind": "explainer",
-      "author": "City of Canby (measure information page)",
+      "author": "City of Canby (county explanatory statement)",
       "topic": "infrastructure",
-      "statement": "The City's information page says the change would let Canby Utility borrow to build a new water treatment plant and other water improvements without the City's participation.",
-      "excerpt": "to fund the construction of the new water treatment plant and other water system infrastructure improvements without the City's assistance or participation.",
+      "statement": "The county explanatory statement says the Board is developing a new water treatment plant and that current charter restrictions affect its ability to obtain funding, including by issuing bonds.",
+      "excerpt": "The Board is developing a new water treatment plant facility to provide water for Canby’s current and future water needs. These restrictions impact the Board’s ability to obtain funding, including issuing bonds, for this facility.",
       "source": {
-        "url": "https://www.canbyoregon.gov/node/32228",
-        "publisher": "City of Canby",
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
         "tier": "T1",
         "published_at": null,
-        "retrieved_at": "2026-10-14"
+        "retrieved_at": "2026-10-16",
+        "page": "Printed C-61"
       },
       "verification": {
-        "status": "verified",
+        "status": "corrected",
         "checks_failed": [],
-        "note": "Excerpt verbatim on 'Proposed City Charter Amendment - Chapter X Utilities' (canbyoregon.gov/node/32228; subject is Canby Utility). Page is informational and undated; kind 'explainer' is appropriate.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "Replaces two unverifiable city-website items with a verbatim sentence from the official explanatory statement in the county pamphlet."
       }
     }
   ],
@@ -60,43 +39,44 @@
     "custom:local-government"
   ],
   "gaps": [
-    "No NO argument found: no opposition statements in T1/T3 sources (pamphlet arguments unreadable; Woodburn Independent coverage quotes no one).",
-    "YES side represented only by City staff report and City explainer; no campaign or pamphlet argument found."
+    "No argument in favor or in opposition was filed in the county voters' pamphlet (the pamphlet prints 'NO ARGUMENTS IN FAVOR/OPPOSITION TO THIS MEASURE WERE FILED'). The only yes-side item is a sentence from the county explanatory statement.",
+    "The ballot title gives no dollar estimate; fiscal_impact summarizes the explanatory statement's description of the changed borrowing limits."
   ],
+  "endorsements": [],
   "ballot_label_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Caption and summary language (e.g. 'increase the number of successive terms that members of the Board may hold', 'clarify the General Manager position's role') confirmed in the July 15, 2026 council packet (Resolution 1466 Exhibit A).",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "summary_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Two-to-three term change confirmed in staff report; quarterly reports confirmed in the Exhibit A explanatory statement ('Require the Board to provide quarterly operation reports to the City Council').",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "yes_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Faithful; neutral.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "no_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Faithful; neutral.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "fiscal_impact_verification": {
-    "status": "verified",
+    "status": "corrected",
     "checks_failed": [],
-    "note": "Quote verbatim in the Resolution 1466 staff report Fiscal Impact section.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Original rested on a staff-report quote that could not be verified (.gov); rewritten from the pamphlet explanatory statement and ballot summary."
   },
   "verification_summary": {
-    "verified": 2,
-    "corrected": 0,
-    "rejected": 0,
-    "balance_notes": "YES: 2 items, both official text (staff report rationale; City explainer page); 0 pamphlet, 0 press. NO: 0 items; absence documented in gaps. Spot search found only City/Canby Utility documents; no opposition located. Clackamas pamphlet measure pages unreadable, so filed arguments could not be checked."
+    "verified": 0,
+    "corrected": 1,
+    "rejected": 2,
+    "balance_notes": "0 YES / 0 NO filed arguments. One neutral explainer on the yes side; none on no."
   }
 }

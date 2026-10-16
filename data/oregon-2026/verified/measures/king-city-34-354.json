@@ -3,33 +3,34 @@
   "jurisdiction_id": "king-city",
   "number": "34-354",
   "title": "City of King City Charter Modernization Amendment",
-  "ballot_label": "City of King City Charter Modernization Amendment",
-  "summary": "King City asks voters to amend and restate its city charter, last revised in 2006, following a Charter Review Committee process. The City's explanatory statement says it keeps the council-manager form, number of councilors and mayor-selection method, and revises provisions on vacancies, councilor duties and compensation. Your Oregon News reports it would also allow an urban renewal agency and remove the 2012 voter-approval requirement for rail transit spending. If rejected, the current charter remains.",
-  "yes_means": "A yes vote adopts the City of King City Charter Modernization Amendment, changing the city charter.",
-  "no_means": "A no vote leaves the current King City charter in effect without the proposed amendment.",
-  "fiscal_impact": null,
+  "ballot_label": "Caption: City of King City Charter Modernization Amendment. Question: Shall the City of King City amend and restate the existing Charter to modernize, update, and clarify Charter provisions?",
+  "summary": "King City asks voters to amend and restate its 2006 city charter. The measure adds definitions, mirrors the League of Oregon Cities model charter, clarifies vacancies and councilor duties and prohibitions, removes the prohibition on councilor compensation, adds a charter review section, and moves duties of the City Manager, Judge and City Attorney to ordinance or resolution. It keeps the council-manager form and the current way of selecting the mayor.",
+  "yes_means": "A yes vote amends and restates the King City charter as described in the ballot title.",
+  "no_means": "A no vote leaves the current King City charter in effect.",
+  "fiscal_impact": "The ballot title and explanatory statement give no cost or revenue estimate. The measure would remove the charter's prohibition on compensation for councilors.",
   "full_text_url": "https://www.washingtoncountyor.gov/elections/documents/34-354-city-king-city-charter-modernization-amendment/download?inline",
   "arguments": [
     {
-      "id": "king-city-34-354-n1",
+      "id": "king-city-34-354-n2",
       "side": "no",
       "kind": "argument",
-      "author": "Howard Suesserman, candidate for King City Council",
+      "author": "Vincent Arditi",
       "topic": "custom:governance",
-      "statement": "In his voters' pamphlet candidate statement, King City Council candidate Howard Suesserman says Measure 34-354 would update the city charter but does not let citizens directly elect their mayor.",
-      "excerpt": "The November ballot includes Measure 34-354 to update the city charter, but it fails to let citizens directly elect their mayor.",
+      "statement": "Vincent Arditi argues the amendment does not change the present system in which the city council chooses the mayor, and urges a no vote so residents can vote for their mayor.",
+      "excerpt": "4 out of 7 council members still control their choice for your mayor as selected by city council.",
       "source": {
         "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
-        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-19)",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-58)",
         "tier": "T1",
         "published_at": null,
-        "retrieved_at": "2026-10-14"
+        "retrieved_at": "2026-10-16",
+        "page": "WC-58"
       },
       "verification": {
         "status": "verified",
         "checks_failed": [],
-        "note": "Excerpt confirmed on WC-19 in Howard Suesserman's candidate statement; he is a King City Council candidate. This is a candidate statement, not a filed measure argument; the gap says so.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
       }
     }
   ],
@@ -37,40 +38,67 @@
     "custom:governance"
   ],
   "gaps": [
-    "No YES arguments collected: the county voters' pamphlet measure pages (WC-57 to WC-58) could not be read, and no attributed supporting statement was found; Your Oregon News (Sept 28, 2026) reports council approval but quotes no one.",
-    "NO side has only one item, from a candidate statement rather than a filed measure argument; filed pamphlet arguments, if any, could not be read.",
-    "Ballot question, summary and explanatory statement not collected: the county ballot-title PDF is a scanned image and the city's charter page links only the current charter."
+    "No YES argument was filed in the county voters' pamphlet (WC-57: 'No Arguments in Favor of this measure were filed').",
+    "One argument in opposition was filed (Vincent Arditi, WC-58)."
+  ],
+  "endorsements": [
+    {
+      "id": "king-city-34-354-e1",
+      "endorser": "Vincent Arditi",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Vincent Arditi furnished the only argument in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This Information Furnished By: Vincent Arditi",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-58)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-58"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    }
   ],
   "ballot_label_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Caption matches county document title; scanned PDF.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "summary_verification": {
-    "status": "corrected",
-    "checks_failed": [
-      "paraphrase_faithful"
-    ],
-    "note": "The collector's gap says no explanatory statement was found, but the City's measure page (https://www.ci.king-city.or.us/government/city_recorder/city_of_king_city_charter_modernization_amendments.php) links an official EXPLANATORY STATEMENT PDF (https://cms6.revize.com/revize/kingcityornew/document_center/Government/Elections/2026/Charter/EXPLANATORY%20STATEMENT.pdf). The summary is rebased on that official text. The press-only points (urban renewal, rail provision) are kept and attributed to Your Oregon News (Ray Pitz, 2026-09-28, https://youroregonnews.com/2026/09/28/king-city-to-ask-for-charter-amendments-on-filling-vacancies-possible-council-compensation/). The YON points were confirmed on that page.",
-    "verified_at": "2026-10-14"
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "yes_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Consistent.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "no_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Confirmed: the explanatory statement says the current Charter remains in effect if the measure fails.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
+  },
+  "fiscal_impact_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "verification_summary": {
-    "verified": 1,
+    "verified": 2,
     "corrected": 0,
-    "rejected": 0,
-    "balance_notes": "0 YES / 1 NO; the YES gap is documented. The NO item is a voters' pamphlet candidate statement (T1), not a filed measure argument; there are 0 explanatory-text items and 0 press items. The pamphlet gives the measure 2 pages (WC-57 to WC-58), which may include filed arguments (unverified). The official explanatory statement on the City site was missed. It is neutral and could supply explainer items for both sides in a re-collection. The spot search found no attributed supporter or opponent quotes."
+    "rejected": 1,
+    "balance_notes": "0 YES / 1 NO. No argument in favor was filed (WC-57)."
   }
 }

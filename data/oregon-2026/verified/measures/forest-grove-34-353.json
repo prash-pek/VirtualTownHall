@@ -3,76 +3,56 @@
   "jurisdiction_id": "forest-grove",
   "number": "34-353",
   "title": "General Obligation Bonds to replace the current police facility",
-  "ballot_label": "General Obligation Bonds to replace the current police facility",
-  "summary": "The City of Forest Grove asks voters to approve general obligation bonds to replace its current police facility. The bond amount, estimated tax rate and term are in the official ballot title, which could not be read in machine-readable form during collection.",
-  "yes_means": "A yes vote approves the City of Forest Grove issuing general obligation bonds, repaid by property taxes, to replace the current police facility.",
-  "no_means": "A no vote rejects the City of Forest Grove issuing general obligation bonds to replace the current police facility.",
-  "fiscal_impact": null,
+  "ballot_label": "Caption: General Obligation Bonds to replace the current police facility. Question: Shall Forest Grove issue general obligation bonds not to exceed $29.5 million in principal for a new police facility? If the bonds are approved, they will be payable from taxes on property or property ownership that are not subject to the limits of sections 11 and 11b, Article XI of the Oregon Constitution.",
+  "summary": "Forest Grove asks voters to authorize up to $29.5 million in general obligation bonds for a new police facility on city property at 19th and Birch. The city says its 1977 facility of 12,120 square feet has stayed the same size while the department grew from 12 to 42 personnel, and that remodeling or expanding it would cost more than building new.",
+  "yes_means": "A yes vote authorizes Forest Grove to issue up to $29.5 million in general obligation bonds, repaid from property taxes, for a new police facility.",
+  "no_means": "A no vote does not authorize the bonds, so the city would not issue them for a new police facility.",
+  "fiscal_impact": "Principal not to exceed $29.5 million. Estimated levy rate $0.69 per $1,000 of assessed value, about $193 a year ($17 a month) for the average assessed home. Bonds may be issued in multiple series maturing in 21 years or less; actual rates may differ with interest rates and assessed values.",
   "full_text_url": "https://www.washingtoncountyor.gov/elections/documents/34-353-general-obligation-bonds-replace-current-police-facility/download?inline",
-  "arguments": [
-    {
-      "id": "forest-grove-34-353-y1",
-      "side": "yes",
-      "kind": "argument",
-      "author": "Henry Reimann, Forest Grove Police Chief",
-      "topic": "public-safety",
-      "statement": "In February 2026 legislative testimony seeking state funds for the project, Forest Grove Police Chief Henry Reimann says building a new police facility is the most cost-effective, operationally efficient, long-term solution.",
-      "excerpt": "building a new facility is the most cost-effective, operationally efficient, and long-term solution.",
-      "source": {
-        "url": "https://apps.oregonlegislature.gov/liz/2026R1/Downloads/PublicTestimonyDocument/249394",
-        "publisher": "Oregon State Legislature (public testimony, Joint Interim Committee on Ways and Means, Subcommittee on Capital Construction)",
-        "tier": "T1",
-        "published_at": "2026-02-13",
-        "retrieved_at": "2026-10-14"
-      },
-      "verification": {
-        "status": "corrected",
-        "checks_failed": [
-          "attribution"
-        ],
-        "note": "Excerpt confirmed verbatim in the Feb 13, 2026 letter from Police Chief Henry Reimann requesting $3 million in state funds. The letter notes a planned November 2026 ballot measure. Publisher corrected to the committee name on the document: Joint Interim Committee on Ways and Means, Subcommittee on Capital Construction. The document is a city official's letter hosted on the legislature site; T1 is acceptable.",
-        "verified_at": "2026-10-14"
-      }
-    }
-  ],
+  "arguments": [],
   "topics": [
     "public-safety",
     "infrastructure",
     "taxes"
   ],
   "gaps": [
-    "No NO arguments collected: the county voters' pamphlet measure page (WC-56) could not be read, and no attributed opposition statement about the 2026 measure was found.",
-    "YES side has only one item, from legislative testimony rather than a filed pamphlet argument; filed pamphlet arguments, if any, could not be read.",
-    "Ballot question, summary, bond amount, tax rate and explanatory statement not collected: the county ballot-title PDF is a scanned image; the city's Police Facility Bond page blocks automated fetching (robots) and an earlier fetch showed 2025 Measure 34-343 content."
+    "No YES argument was filed in the county voters' pamphlet (WC-56: 'No Arguments in Favor or Opposition of this measure were filed').",
+    "No NO argument was filed in the county voters' pamphlet (WC-56)."
   ],
   "ballot_label_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Caption matches county document title; scanned PDF.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "summary_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Accurate; the bond amount is not collected. The city's Police Facility Bond page still describes the 2025 Measure 34-343 ($29.5M), which confirms the collector's note.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "yes_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Consistent.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "no_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Consistent.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
+  },
+  "fiscal_impact_verification": {
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "verification_summary": {
     "verified": 0,
-    "corrected": 1,
-    "rejected": 0,
-    "balance_notes": "1 YES / 0 NO. The YES item is a city official's legislative testimony (T1), not a filed argument or press item; the NO gap is documented. The pamphlet gives the measure one page (WC-56), so no or few filed arguments are likely (unverified). The spot search found only 2025 coverage of the failed $29.5M Measure 34-343 and a second testimony document (PublicTestimonyDocument/249596); no 2026 opposition material was found."
+    "corrected": 0,
+    "rejected": 1,
+    "balance_notes": "0 YES / 0 NO; both gaps documented (pamphlet WC-56)."
   }
 }
