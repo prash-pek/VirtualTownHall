@@ -342,6 +342,40 @@ export const candidateItems = pgTable(
   ],
 );
 
+/**
+ * Who endorsed a candidate or a measure side ("Endorsed by"). Shown to voters as a public record of
+ * what the endorser said, never scored into Alignment. Published together with its candidate or measure.
+ */
+export const endorsements = pgTable(
+  "endorsements",
+  {
+    id: id(),
+    candidateId: uuid("candidate_id").references(() => candidates.id, { onDelete: "cascade" }),
+    measureId: uuid("measure_id").references(() => ballotMeasures.id, { onDelete: "cascade" }),
+    side: measureSide("side"),
+    endorser: text("endorser").notNull(),
+    /** outlet | organization | official | party | other, as collected. */
+    endorserType: text("endorser_type").notNull(),
+    rank: integer("rank"),
+    statement: text("statement").notNull(),
+    excerpt: text("excerpt"),
+    sourceId: uuid("source_id").references(() => sources.id),
+    endorsedOn: date("endorsed_on"),
+    contentHash: text("content_hash").notNull(),
+    status: contentStatus("status").notNull().default("draft"),
+    ...timestamps,
+  },
+  (t) => [
+    index("endorsements_candidate_idx").on(t.candidateId),
+    index("endorsements_measure_idx").on(t.measureId, t.side),
+    uniqueIndex("endorsements_hash_uq").on(t.contentHash),
+    check(
+      "endorsements_one_subject",
+      sql`(${t.candidateId} IS NOT NULL AND ${t.measureId} IS NULL AND ${t.side} IS NULL) OR (${t.candidateId} IS NULL AND ${t.measureId} IS NOT NULL AND ${t.side} IS NOT NULL)`,
+    ),
+  ],
+);
+
 export const blockedTopics = pgTable(
   "blocked_topics",
   {

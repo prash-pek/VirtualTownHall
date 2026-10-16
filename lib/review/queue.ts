@@ -7,6 +7,7 @@ import { getDb } from "@/lib/db/client";
 import {
   ballotMeasures,
   candidateItems,
+  endorsements,
   candidates,
   jurisdictions,
   measureArguments,
@@ -133,6 +134,35 @@ async function latestVerifications(subjectType: string, ids: string[]) {
   return out;
 }
 
+async function endorsementReview(where: ReturnType<typeof eq>): Promise<ReviewItem[]> {
+  const rows = await getDb()
+    .select({
+      id: endorsements.id,
+      side: endorsements.side,
+      endorser: endorsements.endorser,
+      endorserType: endorsements.endorserType,
+      statement: endorsements.statement,
+      excerpt: endorsements.excerpt,
+      status: endorsements.status,
+      sourceUrl: sources.url,
+      publisher: sources.publisher,
+      tier: sources.tier,
+    })
+    .from(endorsements)
+    .leftJoin(sources, eq(endorsements.sourceId, sources.id))
+    .where(where)
+    .orderBy(asc(endorsements.side), asc(endorsements.endorser));
+  const checks = await latestVerifications(
+    "endorsement",
+    rows.map((r) => r.id),
+  );
+  return rows.map(({ side, endorser, endorserType, ...r }) => ({
+    ...r,
+    label: `Endorsed by ${endorser} (${endorserType})${side ? ` · ${side.toUpperCase()}` : ""}`,
+    verification: checks.get(r.id) ?? null,
+  }));
+}
+
 export async function getMeasureReview(slug: string) {
   const db = getDb();
   const [m] = await db.select().from(ballotMeasures).where(eq(ballotMeasures.slug, slug));
@@ -166,7 +196,7 @@ export async function getMeasureReview(slug: string) {
         : `${a.side.toUpperCase()} ${a.kind}${a.author ? ` · ${a.author}` : ""}`,
     verification: checks.get(a.id) ?? null,
   }));
-  return { measure: m, items };
+  return { measure: m, items, endorsements: await endorsementReview(eq(endorsements.measureId, m.id)) };
 }
 
 export async function getCandidateReview(slug: string) {
@@ -215,7 +245,7 @@ export async function getCandidateReview(slug: string) {
     label: [kind.replace("_", " "), topic].filter(Boolean).join(" · "),
     verification: checks.get(r.id) ?? null,
   }));
-  return { candidate: c, items };
+  return { candidate: c, items, endorsements: await endorsementReview(eq(endorsements.candidateId, c.id)) };
 }
 
 export type SubjectKind = "measure" | "candidate";
@@ -241,6 +271,13 @@ export async function setSubjectPublished(kind: SubjectKind, slug: string, publi
         .set({ status: target, updatedAt: sql`now()` })
         .where(and(eq(measureArguments.measureId, subjectId), inArray(measureArguments.status, [...from])))
         .returning({ id: measureArguments.id, contentHash: measureArguments.contentHash });
+      changed.push(
+        ...(await tx
+          .update(endorsements)
+          .set({ status: target, updatedAt: sql`now()` })
+          .where(and(eq(endorsements.measureId, subjectId), inArray(endorsements.status, [...from])))
+          .returning({ id: endorsements.id, contentHash: endorsements.contentHash })),
+      );
     } else {
       const [c] = await tx
         .update(candidates)
@@ -254,6 +291,13 @@ export async function setSubjectPublished(kind: SubjectKind, slug: string, publi
         .set({ status: target, updatedAt: sql`now()` })
         .where(and(eq(candidateItems.candidateId, subjectId), inArray(candidateItems.status, [...from])))
         .returning({ id: candidateItems.id, contentHash: candidateItems.contentHash });
+      changed.push(
+        ...(await tx
+          .update(endorsements)
+          .set({ status: target, updatedAt: sql`now()` })
+          .where(and(eq(endorsements.candidateId, subjectId), inArray(endorsements.status, [...from])))
+          .returning({ id: endorsements.id, contentHash: endorsements.contentHash })),
+      );
     }
     await appendAudit(tx, {
       subjectType: kind,
@@ -266,7 +310,9 @@ export async function setSubjectPublished(kind: SubjectKind, slug: string, publi
 }
 
 /** Hide one item from voters, or restore it to its subject's current state. */
-export async function setItemRejected(kind: SubjectKind, itemId: string, reject: boolean, actorId: string) {
+export type ItemKind = SubjectKind | "endorsement";
+
+export async function setItemRejected(kind: ItemKind, itemId: string, reject: boolean, actorId: string) {
   const db = getDb();
   await db.transaction(async (tx) => {
     let parentStatus: string | undefined;
@@ -285,6 +331,21 @@ export async function setItemRejected(kind: SubjectKind, itemId: string, reject:
         .set({ status, updatedAt: sql`now()` })
         .where(eq(measureArguments.id, itemId))
         .returning({ contentHash: measureArguments.contentHash });
+    } else if (kind === "endorsement") {
+      const [row] = await tx
+        .select({ measure: ballotMeasures.status, candidate: candidates.status })
+        .from(endorsements)
+        .leftJoin(ballotMeasures, eq(endorsements.measureId, ballotMeasures.id))
+        .leftJoin(candidates, eq(endorsements.candidateId, candidates.id))
+        .where(eq(endorsements.id, itemId));
+      parentStatus = row?.measure ?? row?.candidate ?? undefined;
+      if (!parentStatus) return;
+      const status = reject ? "rejected" : parentStatus === "published" ? "published" : "draft";
+      [{ contentHash } = { contentHash: undefined }] = await tx
+        .update(endorsements)
+        .set({ status, updatedAt: sql`now()` })
+        .where(eq(endorsements.id, itemId))
+        .returning({ contentHash: endorsements.contentHash });
     } else {
       const [row] = await tx
         .select({ parent: candidates.status })
@@ -301,7 +362,7 @@ export async function setItemRejected(kind: SubjectKind, itemId: string, reject:
         .returning({ contentHash: candidateItems.contentHash });
     }
     await appendAudit(tx, {
-      subjectType: kind === "measure" ? "measure_argument" : "candidate_item",
+      subjectType: kind === "measure" ? "measure_argument" : kind === "candidate" ? "candidate_item" : "endorsement",
       subjectId: itemId,
       action: reject ? "reject" : "restore",
       actorId,

@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
+import { DiscussionPanel } from "@/components/ballot/discussion-panel";
+import { EndorsedBy } from "@/components/ballot/endorsed-by";
 import { PreviewBanner, Sourced } from "@/components/ballot/sourced";
 import { WalkPosition, YourChoice } from "@/components/ballot/walk-through";
 import { getSession } from "@/lib/auth/session";
@@ -10,6 +12,8 @@ import { getRaceProfiles, type CandidateProfile } from "@/lib/ballot/content";
 import { itemTitle } from "@/lib/ballot/types";
 
 export const dynamic = "force-dynamic";
+
+const contactEmail = process.env.NEXT_PUBLIC_CONTACT_EMAIL;
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
@@ -41,6 +45,14 @@ export default async function RacePage({ params }: { params: Promise<{ slug: str
       <p className="note">
         Candidates are listed in the order the filing source lists them. Names and parties are from official filings.
       </p>
+      <DiscussionPanel
+        itemKey={race.key}
+        starters={[
+          "What are their top priorities?",
+          "Where do they stand on housing and homelessness?",
+          "What experience do they bring?",
+        ]}
+      />
       <YourChoice itemKey={race.key} options={race.candidates.map((c) => ({ value: c.slug, label: c.name }))} />
     </main>
   );
@@ -81,11 +93,22 @@ function CandidateCard({ c }: { c: CandidateProfile }) {
           </ul>
         </details>
       )}
-      {c.websiteUrl && (
-        <a href={c.websiteUrl} className="link text-sm" target="_blank" rel="noopener noreferrer">
-          Campaign website
-        </a>
-      )}
+      <EndorsedBy endorsements={c.endorsements} />
+      <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm">
+        {c.websiteUrl && (
+          <a href={c.websiteUrl} className="link" target="_blank" rel="noopener noreferrer">
+            Campaign website
+          </a>
+        )}
+        {contactEmail && (
+          <a
+            href={`mailto:${contactEmail}?subject=${encodeURIComponent(`Candidate profile: ${c.name}`)}`}
+            className="link note"
+          >
+            Are you this candidate? Let us know
+          </a>
+        )}
+      </div>
     </li>
   );
 }

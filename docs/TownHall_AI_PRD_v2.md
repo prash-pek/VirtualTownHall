@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Version** | 2.2 |
-| **Date** | October 15, 2026 (2.1: voter-curated My Ballot; 2.2: guided walk-through, Reflection score and Alignment names) |
+| **Version** | 2.3 |
+| **Date** | October 15, 2026 (2.1: voter-curated My Ballot; 2.2: guided walk-through, Reflection score and Alignment names; 2.3: voter-first vision, per-item discussion, Endorsed by) |
 | **Supersedes** | PRD v1.0 (Feb 28, 2026) — v1 remains the reference for anything not changed here |
 | **Target** | November 3, 2026 US general (midterm) election, one launch region |
 | **Launch region** | Oregon — every contest on any Oregon ballot; Portland metro (Multnomah, Washington, Clackamas, Metro, City of Portland) is the priority focus |
@@ -23,7 +23,7 @@
 | Geography | Seeded ZIP list per candidate | Real elections, races and jurisdictions for the launch region |
 | Security | MVP-grade | Hardened for public launch (see §8) |
 
-The core platform model is unchanged: **candidates are the primary customers**, owning and controlling their AI representation. Public seeding is how we bootstrap supply for the first election.
+**Voters are the customer; candidates are participants** (product vision, 2026-10-15). Phase 1 is the voter research tool: every race and measure on a voter's ballot, explained from cited sources, with a per-item discussion and a printable summary. Phase 2 is the candidate platform (claimed profiles, the Reflection score, candidate content), built once voters are using the product. Public seeding is how every profile starts.
 
 ---
 
@@ -40,16 +40,16 @@ public_seed  ──(candidate claims + verified)──▶  claimed
 - Seeded content is reviewed by a platform admin before it goes live.
 - **Reflection score**: not shown as a number. The profile shows "Public record only", because a profile built from the record reflects it by construction (it would always read 100%).
 - **AI voice: third person.** "Based on public statements, Jane Doe supports…" with citations. The AI does not speak *as* a real person who has not consented to it.
-- Profile shows a "Public record only" badge and a "Are you this candidate? Claim this profile" link.
+- Profile shows a "Public record only" badge. In phase 1 it links "Are you this candidate? Let us know" (a contact, no claim flow); the claim flow is phase 2.
 
-### 2.2 Claimed profiles (`profile_source = candidate`)
+### 2.2 Claimed profiles (`profile_source = candidate`) — phase 2
 - Candidate proves identity, admin approves, candidate takes over the profile.
 - Candidate gets the full v1 admin panel: uploads, manual context, persona config, blocked topics, kill switch, donation link, analytics.
 - Seeded public-record items stay in the audit trail as the baseline; the candidate may deactivate them, and that is visible in the public audit view.
 - **AI voice: the candidate chooses** first-person persona (with the v1 persistent disclaimer) or third person.
 - **Reflection score is recomputed** on every context change by comparing the candidate's active context against the public record. Because candidates add framing, new positions or omit things, this will typically be < 100%. Per-topic discrepancies are shown.
 
-### 2.3 Reflection score rules
+### 2.3 Reflection score rules — phase 2
 - Measures how faithfully a profile **reflects the candidate's own public record**. It is not a fact-check of whether their statements are true. It is **never** labelled or presented as a match with the voter.
 - If public-record retrieval fails, the score is **not computed** (shown as "Pending"), rather than falling back to model general knowledge.
 - Candidate-supplied text is treated as data in the scoring prompt (delimited, not instructions).
@@ -63,9 +63,10 @@ Each measure: election, jurisdiction, measure number/letter, short title, offici
 
 Primary sources in priority order: official state/county voter guide → legislative analyst / fiscal office → official argument authors → reputable nonpartisan explainers (e.g. Ballotpedia).
 
-### 3.2 Issue Explainer chat
-- A neutral explainer, **not a persona**. It represents the measure, not any side.
-- Must always present both YES and NO perspectives with the strongest argument each side makes.
+### 3.2 Per-item discussion (replaces the separate candidate chat and Issue Explainer)
+- On every race and measure page, the voter asks a question and **every side answers it**: each candidate (in the third person, "Based on the public record, Jane Doe has said…"), or "The case for YES" and "The case for NO". One model call answers for all sides, at roughly equal length.
+- Answers use **only our sources** and cite them; when the sources don't cover a question, that side says so plainly (strict sourcing). A later setting may allow labelled reasoning from sources.
+- Endorsements can be cited as the endorser's opinion, never in a side's own voice.
 - Must cite sources for factual claims; when the sources don't cover a question, say so.
 - **Must not recommend a vote**, even when asked directly. It can help the voter reason against their own stated priorities ("You said X matters to you; supporters argue…, opponents argue…").
 - Same disclaimer pattern: "AI-generated explanation based on official and public sources. Not legal or voting advice."
@@ -96,7 +97,8 @@ Primary sources in priority order: official state/county voter guide → legisla
 4. **Walk through each item**, one per screen in ballot order, with "Item 3 of 14" and Previous/Next:
    - Race: what the office does, then one equal-sized card per candidate in ballot order (badge, Reflection score or "Public record only", party, short bio, the voter's Alignment with reasons and sources).
    - Measure: summary, what YES and NO do side by side, fiscal impact, arguments for and against with sources; a missing side is stated plainly.
-   - A chat panel on the item page itself (candidate chat or the Issue Explainer, §3.2), with starter questions from the voter's evaluation answers.
+   - **"Ask every side"**: the per-item discussion (§3.2) on the item page itself, with starter questions (later, from the voter's evaluation answers).
+   - **"Endorsed by"**: a collapsed list under each candidate and each measure side (news outlets from a fixed list across the spectrum, organizations and officials, many from the voters' pamphlet), each with a verbatim excerpt and link. Shown, never scored, and never part of Alignment.
    - **"Your choice for this item"**: the candidate, YES/NO, Undecided or Skip. The voter picks; nothing is preselected.
 5. **Ballot summary**: one printable page in ballot order to fill the paper ballot from, with each choice (or "Undecided", with "Go back"), Alignment, a short chat wrap-up, and return deadlines and official links.
 6. Choices stay **only in the browser** unless the voter opts in to saving them to their account.
@@ -169,5 +171,5 @@ Changed:
 
 1. ~~Launch region~~ — decided: Oregon, Portland-metro focus.
 2. ~~Ballot data source~~ — decided: collector + verifier agents from official sources (see data-sourcing-policy.md), admin-reviewed.
-3. Claim verification method: email from the official campaign domain, filing records, or manual admin check.
-4. Do measure "argument authors" (official YES/NO committees) get a claim path like candidates?
+3. (Phase 2) Claim verification method: email from the official campaign domain, filing records, or manual admin check.
+4. (Phase 2) Do measure "argument authors" (official YES/NO committees) get a claim path like candidates?
