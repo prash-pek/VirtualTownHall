@@ -3,11 +3,11 @@
   "jurisdiction_id": "banks",
   "number": "34-352",
   "title": "Levy to fund dedicated Washington County Law Enforcement Services",
-  "ballot_label": "Levy to fund dedicated Washington County Law Enforcement Services",
-  "summary": "The City of Banks asks voters to approve a local option property tax levy to fund dedicated law enforcement services from Washington County. The levy rate, term and estimated revenue are in the official ballot title, which could not be read in machine-readable form during collection.",
-  "yes_means": "A yes vote approves the City of Banks levy to fund dedicated Washington County law enforcement services, as described in the ballot caption.",
-  "no_means": "A no vote rejects the City of Banks levy to fund dedicated Washington County law enforcement services.",
-  "fiscal_impact": null,
+  "ballot_label": "Caption: Levy to fund dedicated Washington County Law Enforcement Services. Question: Shall City levy $2.50 per assessed $1,000 for five years beginning FY 2027-2028 for law enforcement services? This measure renews current local option taxes.",
+  "summary": "The Banks city council referred a five-year local option levy of $2.50 per $1,000 of assessed value, beginning in 2027, to renew the levy in place since 2022. Funds would continue the city's contract with the Washington County Sheriff for full-time local police service: two deputies working a combined 80 hours a week. The city says the current contract expires June 30, 2027.",
+  "yes_means": "A yes vote approves a five-year Banks local option levy of $2.50 per $1,000 of assessed value, beginning in 2027-28, to fund law enforcement services from the Washington County Sheriff.",
+  "no_means": "A no vote rejects the levy; the city's explanatory statement says Banks would then have emergency-call response only, from an officer shared across west Washington County, after the current contract ends June 30, 2027.",
+  "fiscal_impact": "Per the ballot title: $2.50 per $1,000 of assessed value for five years, about $250 a year on a $100,000 assessed home and $375 on a $150,000 home (estimates only). The levy would first appear on the property tax bill due November 2027. The ballot title states no total revenue figure.",
   "full_text_url": "https://www.washingtoncountyor.gov/elections/documents/34-352-levy-fund-dedicated-washington-county-law-enforcement-services/download?inline",
   "arguments": [],
   "topics": [
@@ -15,9 +15,8 @@
     "taxes"
   ],
   "gaps": [
-    "No YES arguments collected: the county voters' pamphlet measure page (WC-55) could not be read, and no attributed supporting statement for the 2026 measure was found.",
-    "No NO arguments collected: the pamphlet measure page could not be read, and no attributed opposition statement was found.",
-    "Ballot question, summary, levy rate, term and explanatory statement not collected: the county ballot-title PDF is a scanned image and no City of Banks web page for the measure was found."
+    "No YES argument was filed in the county voters' pamphlet (WC-55: 'No Arguments in Favor or Opposition of this measure were filed').",
+    "No argument in opposition was filed in the county voters' pamphlet (WC-55)."
   ],
   "collection_log": [
     {
@@ -89,7 +88,12 @@
       "step": "3",
       "query_or_url": "WebSearch allowed_domains (T3 list)",
       "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline  [extract washington-county/banks-34-352.txt, WC-55: ballot title, explanatory statement, no arguments filed]",
+      "result": "used"
     }
   ],
-  "collection_notes": "Oregon local ballot titles have no official result-of-vote text; yes_means/no_means are neutral one-sentence descriptions written by the collector strictly from the official ballot caption/question. Only the caption is available; it is quoted from the Washington County current-election page link text and matches inventory.json. Number and jurisdiction (City of Banks) match the inventory. Context not used as content: a Banks Post article (Nov 2, 2021) reports that Banks voters approved a five-year levy (Measure 34-306) starting in 2022 to pay for Washington County Sheriff's deputies, which suggests 34-352 is a renewal, but no 2026 source confirms this. The Washington County Nov 3, 2026 voters' pamphlet lists this measure in its table of contents, but the fetchable text layer of the PDF ends at about page WC-29 (119,746 characters), so the measure pages (ballot title, explanatory statement, arguments) could not be read. The county ballot-title PDF linked from the current-election page is a scanned image with no machine-readable text. A verifier or human with a PDF/OCR viewer should check the pamphlet measure pages for filed arguments. The session-wide WebSearch budget ran out before the final per-side '\"Measure <number>\" <jurisdiction>' search could be run; the allowed_domains T3 search was rejected by the search proxy (HTTP 400) on every attempt, so T3 coverage relies on plain searches. Outlet-specific follow-up searches were not possible."
+  "collection_notes": "Updated 2026-10-16 from the Washington County voters' pamphlet extract (WC-55: ballot title, explanatory statement; no arguments filed). Ballot caption matches inventory. The pamphlet states this measure renews the local option levy in place since 2022. Oregon local ballot titles have no official result-of-vote text; yes_means/no_means are neutral one-sentence descriptions written by the collector strictly from the official ballot caption/question. Number and jurisdiction (City of Banks) match the inventory. The session-wide WebSearch budget ran out before the final per-side '\"Measure <number>\" <jurisdiction>' search could be run; the allowed_domains T3 search was rejected by the search proxy (HTTP 400) on every attempt, so T3 coverage relies on plain searches. Outlet-specific follow-up searches were not possible."
 }

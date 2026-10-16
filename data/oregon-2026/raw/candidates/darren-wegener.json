@@ -1,0 +1,137 @@
+{
+ "id": "darren-wegener",
+ "name": "Darren Wegener",
+ "race_id": "sandy-council-seat-2",
+ "party": null,
+ "incumbent": null,
+ "occupation": "Travel Advisor/Small Business Owner; Professional Development Trainer",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "darren-wegener-b1",
+   "topic": "custom:background",
+   "statement": "Wegener's pamphlet statement lists prior governmental experience as chair of the Sandy Planning Commission, Economic Development Advisory Board member and Budget Committee member.",
+   "excerpt": "Prior Governmental Experience: City of Sandy Planning Commission, Chair; Economic Development Advisory Board; Budget Committee",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "darren-wegener-b2",
+   "topic": "custom:background",
+   "statement": "Wegener's pamphlet statement lists his occupation as travel advisor and small business owner and professional development trainer.",
+   "excerpt": "Occupation: Travel Advisor/Small Business Owner; Professional Development Trainer",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "darren-wegener-p1",
+   "topic": "economy",
+   "statement": "In his pamphlet statement, Wegener says Sandy should pursue commercial growth that creates jobs and expands the tax base, easing pressure on residents and rates.",
+   "excerpt": "We should actively pursue commercial growth that creates jobs, expands our tax base, and funds needed infrastructure, easing pressure on residents and rates.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "darren-wegener-p2",
+   "topic": "custom:government-transparency",
+   "statement": "In his pamphlet statement, Wegener says there is still time for community input on utility rate projects and calls for more informative open houses.",
+   "excerpt": "Utility rates are rising, but there’s still time for community input before projects start.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "darren-wegener-p3",
+   "topic": "local-business",
+   "statement": "In his pamphlet statement, Wegener says a hotel and convention center would bring visitors and events to Sandy.",
+   "excerpt": "A hotel and convention center would bring visitors, conferences, and events to Sandy boosting the economy while building community.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "darren-wegener-p4",
+   "topic": "public-safety",
+   "statement": "In his pamphlet statement, Wegener calls for proactive plans for communication, essential services, infrastructure and evacuation for emergencies.",
+   "excerpt": "we need to work with our surrounding agencies and community members in creating proactive plans for communication, strengthening essential services, building infrastructure, and coordinating safe evacuation.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "gaps": [
+  "No positions found on housing or taxes",
+  "No campaign website found",
+  "Pamphlet statement lists no endorsers"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "pamphlet extract clackamas-county/darren-wegener.txt (+ _index.json loose_matches checked)",
+   "result": "Pamphlet statement quoted from the script extract (read-only); pamphlet PDF not fetched. Statement on pamphlet PDF p. 52 (printed C-51)."
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.ci.sandy.or.us/citycouncil/page/meet-your-city-council (Meet Your City Council); ci.sandy.or.us/citycouncil",
+   "result": "blocked (robots.txt disallows automated fetch); incumbency left null"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign website domain linked from pamphlet or official pages",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Darren Wegener\" Sandy city council 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5a",
+   "query_or_url": "\"Darren Wegener\" allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5b",
+   "query_or_url": "\"Darren Wegener\" allowed_domains kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5c",
+   "query_or_url": "\"Darren Wegener\" allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 52 (C-51): Wegener left column; Lindy C Hanley (Position 5) right column. Unopposed. Search results returned only unrelated Sandy (Utah/Oregon) news. Incumbency left null (official Sandy site blocks automated fetch).",
+ "endorsements": []
+}

@@ -1,0 +1,100 @@
+{
+ "id": "rhett-bernstein",
+ "name": "Rhett L Bernstein",
+ "race_id": "west-linn-municipal-judge",
+ "party": null,
+ "incumbent": true,
+ "occupation": "West Linn Municipal Court Judge",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "rhett-bernstein-b1",
+   "topic": "custom:office",
+   "statement": "The City of West Linn municipal judge page says voters reelected Rhett L. Bernstein as West Linn municipal court judge in November 2022, to serve through December 31, 2026.",
+   "excerpt": "reelected Rhett L. Bernstein to serve as their West Linn municipal court judge",
+   "source": {
+    "url": "https://westlinnoregon.gov/municipalcourt/municipal-judge",
+    "publisher": "City of West Linn, Municipal Judge page",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "rhett-bernstein-b2",
+   "topic": "custom:background",
+   "statement": "The city page says Bernstein was born and raised in West Linn and received his Juris Doctorate.",
+   "excerpt": "Born and raised in West Linn, Oregon, Rhett Bernstein received his Juris Doctorate.",
+   "source": {
+    "url": "https://westlinnoregon.gov/municipalcourt/municipal-judge",
+    "publisher": "City of West Linn, Municipal Judge page",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "rhett-bernstein-b3",
+   "topic": "education",
+   "statement": "Lewis & Clark Law School's profile says Bernstein holds a JD from 2002 and was reelected as West Linn's municipal judge in November 2022.",
+   "excerpt": "Rhett Bernstein JD ’02 was reelected as West Linn’s municipal judge in November 2022.",
+   "source": {
+    "url": "https://www.lclark.edu/live/profiles/17511-rhett-bernstein",
+    "publisher": "Lewis & Clark College, Rhett Bernstein profile",
+    "tier": "T3",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "no pamphlet statement found (script extract)",
+  "No campaign website found",
+  "No positions: municipal judicial office; no public policy statements found",
+  "Pamplin Media blocked to automated fetch",
+  "No endorsements (no pamphlet statement)"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "Clackamas pamphlet extract rhett-bernstein.txt (source_url https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513)",
+   "result": "not found (no pamphlet statement found (script extract); extract has index page only, asterisk = no statement purchased)"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://westlinnoregon.gov/municipalcourt/municipal-judge",
+   "result": "used (Bernstein is the current municipal judge)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain confirmed",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Rhett Bernstein\" municipal judge West Linn 2026",
+   "result": "used (city court page, Lewis & Clark profile, municipal-court candidate qualifications page)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Rhett Bernstein\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Rhett Bernstein\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Rhett Bernstein\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (pamplinmedia.com blocks automated fetch; only old snippets such as 2013 interim-appointment article)"
+  }
+ ],
+ "collection_notes": "DISCREPANCY: inventory race note says 'Vacancy; 4-year term' but the city page says Bernstein, reelected Nov 2022, serves through Dec 31 2026, i.e. he is the incumbent for a regular 4-year term; city's judge-qualifications page lists next election Nov 3, 2026. Inventory name 'Rhett L Bernstein' matches ballot. Pamphlet index marks him with an asterisk ('Not all candidates choose to purchase space').",
+ "incumbent_source_url": "https://westlinnoregon.gov/municipalcourt/municipal-judge"
+}

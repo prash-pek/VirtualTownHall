@@ -1,0 +1,245 @@
+{
+  "id": "sean-drinkwine",
+  "name": "Sean Drinkwine",
+  "name_variants": [],
+  "race_id": "estacada-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.cityofestacada.org/city-council-election/",
+  "occupation": "CEO - WHITNEY SIGNS",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "sean-drinkwine-b1",
+      "topic": "custom:bio",
+      "statement": "The City of Estacada's election page lists Drinkwine as mayor; the city directory gives his first election as November 8, 2016.",
+      "excerpt": "First Elected: November 8, 2016",
+      "source": {
+        "url": "https://www.cityofestacada.org/?p=38999",
+        "publisher": "City of Estacada",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement trimmed to what the excerpt supports; term-end date not in excerpt.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sean-drinkwine-b2",
+      "topic": "custom:bio",
+      "statement": "Drinkwine's pamphlet statement lists service on the Estacada City Council from 2009 to 2016 and as mayor since 2017.",
+      "excerpt": "Estacada City Council 2009-2016, Mayor of Estacada 2017-present",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "sean-drinkwine-p1",
+      "topic": "custom:priorities",
+      "statement": "In his voters' pamphlet statement, Drinkwine lists putting families first, navigating responsible growth and keeping Estacada safe.",
+      "excerpt": "Put Families First. Navigate Responsible Growth. Keep Estacada Safe.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sean-drinkwine-p2",
+      "topic": "local-business",
+      "statement": "Drinkwine's pamphlet statement says he would work with developers and agencies to bring an affordable grocery store.",
+      "excerpt": "Work with local developers and government agencies to bring an affordable grocery store.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sean-drinkwine-p3",
+      "topic": "healthcare",
+      "statement": "Drinkwine's pamphlet statement says he would bring more medical resources to the area.",
+      "excerpt": "Bring more medical resources to the area.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "sean-drinkwine-p4",
+      "topic": "local-business",
+      "statement": "Drinkwine's pamphlet statement says he would focus on bringing family-friendly businesses to Estacada.",
+      "excerpt": "Focus on bringing family-friendly businesses to Estacada,",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 campaign coverage in T3 outlets"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Estacada mayor: Metcalf 5, Drinkwine 6; both filed pamphlet statements; no websites listed; no T3 campaign coverage found. Balanced."
+  },
+  "endorsements": [
+    {
+      "id": "sean-drinkwine-e1",
+      "endorser": "Christine Drazan",
+      "endorser_type": "person",
+      "statement": "Sean Drinkwine's pamphlet statement lists Christine Drazan as an endorser.",
+      "excerpt": "Christine Drazan",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sean-drinkwine-e2",
+      "endorser": "Diana Helm",
+      "endorser_type": "person",
+      "statement": "Sean Drinkwine's pamphlet statement lists Diana Helm as an endorser.",
+      "excerpt": "Diana Helm",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sean-drinkwine-e3",
+      "endorser": "Tom Ellis",
+      "endorser_type": "person",
+      "statement": "Sean Drinkwine's pamphlet statement lists Tom Ellis as an endorser.",
+      "excerpt": "Tom Ellis",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sean-drinkwine-e4",
+      "endorser": "Jon Dolezal",
+      "endorser_type": "person",
+      "statement": "Sean Drinkwine's pamphlet statement lists Jon Dolezal as an endorser.",
+      "excerpt": "Jon Dolezal",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sean-drinkwine-e5",
+      "endorser": "Steve Locke",
+      "endorser_type": "person",
+      "statement": "Sean Drinkwine's pamphlet statement lists Steve Locke as an endorser.",
+      "excerpt": "Steve Locke",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
+}

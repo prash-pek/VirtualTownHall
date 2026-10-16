@@ -1,0 +1,60 @@
+{
+  "id": "shaunie-cousins",
+  "name": "Shaunie Cousins",
+  "race_id": "or-house-34",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/watanabe",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No bio found in any source searched",
+    "No public positions found",
+    "Capital Chronicle 2026 primary voter guide: no page found for this district (HD35 and HD38 pages only; other districts' guide pages could not be fetched)",
+    "Not an officeholder: no voting record",
+    "No campaign website verified",
+    "Voters' pamphlet statement: none filed (name marked with an asterisk, 'Candidate chose not to submit a voters' pamphlet statement', in the SOS pamphlet candidate list)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet candidate list (page 26/27 of the county editions): https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+      "result": "not found (no statement filed)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Shaunie Cousins\" Oregon House District 34 2026",
+      "result": "nothing relevant (BallotReady, SDAO candidate list, aggregator pages only)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shaunie Cousins\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shaunie Cousins\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (different people)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shaunie Cousins\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "No usable public information found beyond the candidate list. incumbent_source_url is the HD34 incumbent's official page. Matches inventory."
+}

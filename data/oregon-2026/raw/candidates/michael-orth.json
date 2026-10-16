@@ -1,0 +1,202 @@
+{
+  "id": "michael-orth",
+  "name": "Michael Orth",
+  "race_id": "or-house-36",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/phamh",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "michael-orth-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Orth lists his occupation as retired professional, with a background as a sales and marketing executive and small business owner.",
+      "excerpt": "Occupation: Retired Professional Occupational Background: Sales and Marketing Executive. Small Business Owner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michael-orth-b2",
+      "topic": "custom:background",
+      "statement": "Orth lists a B.A. from the University of Portland.",
+      "excerpt": "Educational Background: University of Portland B.A.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michael-orth-b3",
+      "topic": "custom:background",
+      "statement": "Orth lists no prior elected office.",
+      "excerpt": "Prior Governmental Experience: No prior elected office",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "michael-orth-p1",
+      "topic": "taxes",
+      "statement": "Orth says he is running on lower taxes and fees to ease the burden on working families.",
+      "excerpt": "lower taxes and fees to ease the burden on working families",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michael-orth-p2",
+      "topic": "education",
+      "statement": "Orth says he is running on stronger education, including more classroom time, meaningful graduation standards and fairness in girls' and women's sports.",
+      "excerpt": "stronger education by putting more hours and days in the classroom, restoring meaningful graduation standards, and protecting fairness in girls' and women's sports",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michael-orth-p3",
+      "topic": "public-safety",
+      "statement": "Orth says he is running on law and order, backing police and refusing to defund them.",
+      "excerpt": "standing for law and order by backing the blue and refusing to defund the police",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No bio found in any source searched",
+    "No public positions found",
+    "Capital Chronicle 2026 primary voter guide: no page found for this district (HD35 and HD38 pages only; other districts' guide pages could not be fetched)",
+    "Not an officeholder: no voting record",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract michael-orth.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 55)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign domain linked from an official page, pamphlet or T3 source seen",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Michael Orth\" Oregon House District 36 2026",
+      "result": "nothing relevant (BallotReady and aggregators only)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Michael Orth\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (WW endorsements listing only; page could not be fetched)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Michael Orth\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (different person)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Michael Orth\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (different people)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+      "result": "blocked (server error on two attempts)"
+    }
+  ],
+  "collection_notes": "No usable information. WW Fall 2026 legislature endorsements page appeared for this name but could not be fetched. incumbent_source_url is the HD36 incumbent's page. Matches inventory. Pamphlet statement: SOS Washington edition p. 55 (same text in other editions).",
+  "endorsements": [
+    {
+      "id": "michael-orth-e1",
+      "endorser": "Stand For Health Freedom",
+      "endorser_type": "organization",
+      "statement": "Michael Orth's pamphlet statement lists Stand For Health Freedom as an endorser.",
+      "excerpt": "Stand For Health Freedom",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michael-orth-e2",
+      "endorser": "David Nemarnik-Pacific Coast Fresh Co.",
+      "endorser_type": "person",
+      "statement": "Michael Orth's pamphlet statement lists David Nemarnik-Pacific Coast Fresh Co. as an endorser.",
+      "excerpt": "David Nemarnik-Pacific Coast Fresh Co.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michael-orth-e3",
+      "endorser": "Mike Rich-Hollywood Screenwriter",
+      "endorser_type": "person",
+      "statement": "Michael Orth's pamphlet statement lists Mike Rich-Hollywood Screenwriter as an endorser.",
+      "excerpt": "Mike Rich-Hollywood Screenwriter",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "michael-orth-e4",
+      "endorser": "Tom Keepes-Retired CPA and Business Owner",
+      "endorser_type": "person",
+      "statement": "Michael Orth's pamphlet statement lists Tom Keepes-Retired CPA and Business Owner as an endorser.",
+      "excerpt": "Tom Keepes-Retired CPA and Business Owner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
+}

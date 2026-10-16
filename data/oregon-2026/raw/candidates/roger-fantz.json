@@ -1,0 +1,125 @@
+{
+ "id": "roger-fantz",
+ "name": "Roger Fantz",
+ "race_id": "clackamas-swcd-at-large-2",
+ "party": null,
+ "incumbent": true,
+ "incumbent_source_url": "https://conservationdistrict.org/our-people",
+ "occupation": "Farmer: Organically-grown Christmas Trees and Produce",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "roger-fantz-b1",
+   "topic": "custom:background",
+   "statement": "Fantz's pamphlet statement lists his occupational background as math teacher, grocery clerk and surveyor.",
+   "excerpt": "Occupational Background: Math teacher, Grocery Clerk, Surveyor",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 59 (printed C-58)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "roger-fantz-b2",
+   "topic": "custom:background",
+   "statement": "In his pamphlet statement, Fantz says he has been involved with the district for 15 years as an associate director and director.",
+   "excerpt": "For the last 15 years, I have been involved with the Clackamas Soil and Water Conservation District as an associate director and director.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 59 (printed C-58)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "roger-fantz-b3",
+   "topic": "custom:background",
+   "statement": "The district's board page lists Fantz as an at-large director and treasurer with a term expiring in 2026.",
+   "excerpt": "Roger Fantz",
+   "source": {
+    "url": "https://conservationdistrict.org/our-people",
+    "publisher": "Clackamas Soil and Water Conservation District (official site), Our People",
+    "tier": "T1",
+    "published_at": "2026-09-01",
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "roger-fantz-p1",
+   "topic": "environment",
+   "statement": "In his pamphlet statement, Fantz describes district projects from riparian restoration to irrigation that help individuals conserve water and protect soil and water quality.",
+   "excerpt": "From riparian restoration projects (such as wildfire damage mitigation and stream restoration) to advanced irrigation projects, we have provided opportunities for individuals to conserve water and protect soil and water quality.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 59 (printed C-58)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "roger-fantz-p2",
+   "topic": "environment",
+   "statement": "In a 2022 district profile, Fantz says the district can encourage resilience in the face of a changing climate.",
+   "excerpt": "I believe the District can encourage resilience in the face of our changing climate.",
+   "source": {
+    "url": "https://conservationdistrict.org/2022/meet-roger-fantz-clackamas-swcd-at-large-representativeat.html",
+    "publisher": "Clackamas Soil and Water Conservation District (official site), 'Meet Roger Fantz'",
+    "tier": "T1",
+    "published_at": "2022-04-15",
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "gaps": [
+  "Unopposed; no campaign website found",
+  "No positions found on topics beyond water, soil and climate resilience",
+  "Pamphlet statement lists no endorsers"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "pamphlet extract clackamas-county/roger-fantz.txt (+ _index.json loose_matches checked)",
+   "result": "Pamphlet statement quoted from the script extract (read-only); pamphlet PDF not fetched. Statement on pamphlet PDF p. 59 (printed C-58)."
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://conservationdistrict.org/our-people ; conservationdistrict.org/2022/meet-roger-fantz-...",
+   "result": "used (roster + profile)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign website domain linked from pamphlet or official pages",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Roger Fantz\" Clackamas SWCD at-large 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5a",
+   "query_or_url": "\"Roger Fantz\" allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5b",
+   "query_or_url": "\"Roger Fantz\" allowed_domains kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5c",
+   "query_or_url": "\"Roger Fantz\" allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (vote411 and pamplinmedia.com results older; vote411 race page fetch failed; pamplinmedia.com not fetched: blocks automated fetch)"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 59 (C-58): Fantz left column; Don Guttridge (Zone 5) right column. Page 6 is the index. Incumbent true per district Our People page (At-large director 2, Treasurer, term expires 2026; page modified 2026-09-01). An older district page (conservationdistrict.org/about/directors) shows stale 2014-2016 data and was not used. Matches inventory (incumbent null there).",
+ "endorsements": []
+}

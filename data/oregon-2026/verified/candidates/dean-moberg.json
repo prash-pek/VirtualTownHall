@@ -1,0 +1,525 @@
+{
+  "id": "dean-moberg",
+  "name": "Dean P Moberg",
+  "name_variants": [
+    "Dean Moberg",
+    "Dean P. Moberg"
+  ],
+  "race_id": "tualatin-swcd-at-large-2",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://tualatinswcd.org/our-story/our-board/",
+  "occupation": "Natural resources consultant",
+  "website_url": "https://www.deanmoberg.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+  "bio": [
+    {
+      "id": "dean-moberg-b1",
+      "topic": "custom:background",
+      "statement": "Moberg's pamphlet statement lists current service as a Tualatin Soil and Water Conservation District (SWCD) Director and prior work as a USDA Conservationist (retired).",
+      "excerpt": "Tualatin Soil and Water Conservation District (SWCD) Director (current); USDA Conservationist (retired)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt extended to match the statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-b2",
+      "topic": "custom:background",
+      "statement": "Moberg's campaign website says he was elected to At Large Position 2 on the Tualatin SWCD board in November 2020.",
+      "excerpt": "In November 2020, Dean was elected to At Large Position 2 on the Tualatin Soil and Water Conservation District Board.",
+      "source": {
+        "url": "https://www.deanmoberg.com/aboutdean",
+        "publisher": "Dean Moberg campaign website (About Dean)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Page re-fetched; excerpt present verbatim; domain confirmed by the pamphlet statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-b3",
+      "topic": "custom:background",
+      "statement": "Moberg's campaign website says he had a 35-year career with USDA, working in Wisconsin, Michigan and Oregon.",
+      "excerpt": "Over the course of his 35-year career with USDA, Dean worked in Wisconsin, Michigan, and Oregon.",
+      "source": {
+        "url": "https://www.deanmoberg.com/aboutdean",
+        "publisher": "Dean Moberg campaign website (About Dean)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Page re-fetched; excerpt present verbatim; domain confirmed by the pamphlet statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "dean-moberg-p1",
+      "topic": "environment",
+      "statement": "Moberg's campaign website lists adapting to climate change, reducing greenhouse gas emissions and protecting the Tualatin River from pollution as critical issues.",
+      "excerpt": "Critical issues: adapting to climate change, reducing greenhouse gas emissions, protecting the Tualatin River from pollution",
+      "source": {
+        "url": "https://www.deanmoberg.com/swcd-priorities",
+        "publisher": "Dean Moberg campaign website (SWCD Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Page re-fetched; excerpt present verbatim; domain confirmed by the pamphlet statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-p2",
+      "topic": "social-services",
+      "statement": "Moberg's campaign website says the SWCD should actively recruit people from historically underserved communities.",
+      "excerpt": "the SWCD should actively recruit people from historically underserved communities",
+      "source": {
+        "url": "https://www.deanmoberg.com/swcd-priorities",
+        "publisher": "Dean Moberg campaign website (SWCD Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Page re-fetched; excerpt present verbatim; domain confirmed by the pamphlet statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-p3",
+      "topic": "agriculture",
+      "statement": "In his pamphlet statement, Moberg says land use laws with community input should protect family farms and forests.",
+      "excerpt": "We need to adapt to climate change and sequester carbon, protect the Tualatin River and its tributaries from pollution, establish richly diverse wildlife habitat, and ensure that land use laws with community input protect family farms and forests.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt extended to give the 'We need to ... ensure' context; Moberg's own website uses 'he/his', so pronoun retained.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-p4",
+      "topic": "taxes",
+      "statement": "In his pamphlet statement, Moberg pledges open accountability and fiscal transparency.",
+      "excerpt": "practice open accountability and fiscal transparency, and",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against the script extract (pdftotext) of the official pamphlet; text appears in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [
+    {
+      "id": "dean-moberg-e1",
+      "endorser": "Barbie Minor",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Barbie Minor as an endorser.",
+      "excerpt": "Barbie Minor, THPRD Board Director",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e2",
+      "endorser": "Brian Daellenbach",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Brian Daellenbach as an endorser.",
+      "excerpt": "Brian Daellenbach, President Tualatin Riverkeepers",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e3",
+      "endorser": "Dan M. Sullivan",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Dan M. Sullivan as an endorser.",
+      "excerpt": "Dan M. Sullivan, Professor Emeritus Soil Science, OSU",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e4",
+      "endorser": "David Vanasche",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists David Vanasche as an endorser.",
+      "excerpt": "David Vanasche, Vanasche Farm LLC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e5",
+      "endorser": "Deborah D. Garman",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Deborah D. Garman as an endorser.",
+      "excerpt": "Deborah D. Garman, beekeeper, 350.org Wash. Co. Team Lead",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e6",
+      "endorser": "Deborah E. Politi",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Deborah E. Politi as an endorser.",
+      "excerpt": "Deborah E. Politi, Cedar Mill Farmers Market Board Chair",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e7",
+      "endorser": "Farrah Chaichi",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Farrah Chaichi as an endorser.",
+      "excerpt": "Farrah Chaichi, State Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e8",
+      "endorser": "Greg Mecklem",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Greg Mecklem as an endorser.",
+      "excerpt": "Greg Mecklem, Eagles Nest Reserve Vineyard",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e9",
+      "endorser": "Kipperlyn Sinclair",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Kipperlyn Sinclair as an endorser.",
+      "excerpt": "Kipperlyn Sinclair, Hillsboro City Council",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e10",
+      "endorser": "Lakshmi Tata",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Lakshmi Tata as an endorser.",
+      "excerpt": "Lakshmi Tata, Edible Stories Market Garden, farmer",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e11",
+      "endorser": "Leonora Ko",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Leonora Ko as an endorser.",
+      "excerpt": "Leonora Ko, USDA Soil Conservationist (retired)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e12",
+      "endorser": "Lyle Spiesschaert",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Lyle Spiesschaert as an endorser.",
+      "excerpt": "Lyle Spiesschaert, farmer",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e13",
+      "endorser": "Lyn Jacobs",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Lyn Jacobs as an endorser.",
+      "excerpt": "Lyn Jacobs MD, La Finquita del Buho",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e14",
+      "endorser": "Martin Streck",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Martin Streck as an endorser.",
+      "excerpt": "Martin Streck, PSU Geology Professor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e15",
+      "endorser": "Megan Klemens",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Megan Klemens as an endorser.",
+      "excerpt": "Megan Klemens, public school teacher",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e16",
+      "endorser": "Peter Hayes",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Peter Hayes as an endorser.",
+      "excerpt": "Peter Hayes, family forester",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dean-moberg-e17",
+      "endorser": "Save Helvetia",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Moberg's pamphlet statement lists Save Helvetia as an endorser.",
+      "excerpt": "Save Helvetia",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "gaps": [
+    "Board voting record not collected (phase 1)"
+  ],
+  "verification_summary": {
+    "verified": 22,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Unopposed incumbent. 7 items (3 pamphlet, 4 T2 website) plus 17 pamphlet endorsements (list sits in Moberg's column on page 44). (items 5v/2c/0r; endorsements 17v/0c/0r) Incumbency/website checks: see report."
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "id": "lamar-wise",
+  "name": "Lamar Wise",
+  "race_id": "or-house-48",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://multco.us/news/news-release-multnomah-and-clackamas-county-commissioners-appoint-lamar-wise-oregon-house",
+  "occupation": "State Representative; Project Director, Oregon AFSCME",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "lamar-wise-b1",
+      "topic": "custom:background",
+      "statement": "A Multnomah County release dated November 5, 2025 says Wise was appointed to House District 48 and describes Wise as political director for Oregon Council 75 of AFSCME.",
+      "excerpt": "political director for Oregon Council 75 of the American Federation of State, County and Municipal Employees",
+      "source": {
+        "url": "https://multco.us/news/news-release-multnomah-and-clackamas-county-commissioners-appoint-lamar-wise-oregon-house",
+        "publisher": "Multnomah County news release",
+        "tier": "T1",
+        "published_at": "2025-11-05",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Reworded as attributed to the release; the legislature biography uses a different title (Political Coordinator), so 'is political director' was not stated as current fact.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-b2",
+      "topic": "custom:background",
+      "statement": "The Oregon Capital Chronicle described Wise at the appointment as former executive director of the Oregon Student Association.",
+      "excerpt": "former executive director of the Oregon Student Association",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/2025/11/05/labor-advocate-appointed-to-serve-remainder-of-oregon-rep-hoa-nguyens-term/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement also asserted 'former political director of the state AFSCME union', which is not in the excerpt; trimmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-b3",
+      "topic": "custom:background",
+      "statement": "OPB, republishing the Oregon Capital Chronicle, reports the state ethics commission voted 8-0 to open a full investigation after an August complaint alleged Wise did not disclose income from the nonprofit Seeding Justice.",
+      "excerpt": "commissioners during a Friday executive session voted 8-0 to open a full investigation into Rep. Lamar Wise, D-Portland, after a complaint in August alleged that Wise failed to disclose income from Seeding Justice, a Portland-based social justice nonprofit.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/12/oregon-ethics-commission-investigates-representative-lamar-wise-income-disclosure/",
+        "publisher": "OPB (Oregon Capital Chronicle)",
+        "tier": "T3",
+        "published_at": "2026-10-12",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Ethics item kept. Excerpt extended (contiguous on the page) so the allegation is stated in the cited text rather than added in the paraphrase; wording is attributed ('alleged'), neutral, and paired with Wise's response in b4. Published 2026-10-12/13 (byline Shaanth Nanguneri, Oregon Capital Chronicle).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-b4",
+      "topic": "custom:background",
+      "statement": "In the same report, Wise says they are working with the Ethics Commission to resolve what they call an honest mistake and expect it to be resolved soon.",
+      "excerpt": "the Ethics Commission to resolve this honest mistake, and expect it to be resolved soon",
+      "source": {
+        "url": "https://www.opb.org/article/2026/10/12/oregon-ethics-commission-investigates-representative-lamar-wise-income-disclosure/",
+        "publisher": "OPB (Oregon Capital Chronicle)",
+        "tier": "T3",
+        "published_at": "2026-10-12",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement claimed he amended his form and called it an omission; those words are outside the excerpt. Excerpt extended to the contiguous phrase and statement limited to it. Paired with b3 as the candidate's response.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-b5",
+      "topic": "custom:background",
+      "statement": "Wise's pamphlet statement lists the occupation as State Representative and Oregon AFSCME project director, a past role as Oregon Student Association executive director, University of Oregon, and the Higher Education Coordinating Commission.",
+      "excerpt": "Occupation: State Representative; Project Director, Oregon AFSCME Occupational Background: Executive Director, Oregon Student Association Educational Background: University of Oregon Prior Governmental Experience: Higher Education Coordinating Commission",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "lamar-wise-p1",
+      "topic": "housing",
+      "statement": "At their appointment, Wise said they would focus on improving housing and uplifting Oregon's economy, per the Capital Chronicle.",
+      "excerpt": "improving housing and uplifting Oregon’s economy.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/2025/11/05/labor-advocate-appointed-to-serve-remainder-of-oregon-rep-hoa-nguyens-term/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-p2",
+      "topic": "education",
+      "statement": "The Capital Chronicle also reported Wise intends to carry on advocacy for education and reducing chronic absenteeism.",
+      "excerpt": "advocating for education and reducing Oregon’s chronic absenteeism.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/2025/11/05/labor-advocate-appointed-to-serve-remainder-of-oregon-rep-hoa-nguyens-term/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-p3",
+      "topic": "taxes",
+      "statement": "Wise says in the pamphlet statement that they closed corporate tax loopholes and expanded a tax cut for more than 200,000 working families.",
+      "excerpt": "That’s why I closed corporate tax loopholes and expanded a tax cut for more than 200,000 hard-working families.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Removed 'wants big corporations to pay their fair share', which is not in the excerpt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-p4",
+      "topic": "education",
+      "statement": "Wise's pamphlet statement lists improving education by reducing class sizes, addressing chronic absenteeism and growing affordable childcare programs.",
+      "excerpt": "IMPROVING EDUCATION by reducing class sizes, addressing chronic absenteeism, and growing affordable childcare programs.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-p5",
+      "topic": "housing",
+      "statement": "Wise's pamphlet statement lists lowering housing costs by cutting red tape and costs and speeding up housing production.",
+      "excerpt": "LOWERING HOUSING COSTS by cutting the red tape and costs and speeding up housing production.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-p6",
+      "topic": "healthcare",
+      "statement": "Wise's pamphlet statement lists expanding access to mental health care so people can get help instead of ending up on the streets.",
+      "excerpt": "EXPANDING ACCESS to mental health care so people can get the help they need instead of ending up on the streets.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "lamar-wise-v1",
+      "topic": "education",
+      "statement": "The Portland Tribune reports Wise proposed legislation on chronic absenteeism data; Wise said the Department of Education should use data it already has.",
+      "excerpt": "We're really asking for the Department of Education to use the data that they already have,",
+      "source": {
+        "url": "https://portlandtribune.com/2025/12/08/new-east-portland-rep-lamar-wise-proposes-data-tweaks-to-combat-chronic-absenteeism/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2025-12-08",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "gaps": [
+    "Capital Chronicle 2026 questionnaire: no page found",
+    "Bill number for absenteeism proposal not stated in the article"
+  ],
+  "endorsements": [
+    {
+      "id": "lamar-wise-e1",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Lamar Wise's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-e2",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Lamar Wise's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-e3",
+      "endorser": "Oregon Education Association - PAC",
+      "endorser_type": "organization",
+      "statement": "Lamar Wise's pamphlet statement lists Oregon Education Association - PAC as an endorser.",
+      "excerpt": "Oregon Education Association - PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-e4",
+      "endorser": "Housing Oregon Action",
+      "endorser_type": "organization",
+      "statement": "Lamar Wise's pamphlet statement lists Housing Oregon Action as an endorser.",
+      "excerpt": "Housing Oregon Action",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-e5",
+      "endorser": "Latino Network Action Fund",
+      "endorser_type": "organization",
+      "statement": "Lamar Wise's pamphlet statement lists Latino Network Action Fund as an endorser.",
+      "excerpt": "Latino Network Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-e6",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Lamar Wise's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-e7",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Lamar Wise's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-e8",
+      "endorser": "Teamsters",
+      "endorser_type": "organization",
+      "statement": "Lamar Wise's pamphlet statement lists Teamsters as an endorser.",
+      "excerpt": "Teamsters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-e9",
+      "endorser": "UFCW Local 555",
+      "endorser_type": "organization",
+      "statement": "Lamar Wise's pamphlet statement lists UFCW Local 555 as an endorser.",
+      "excerpt": "UFCW Local 555",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-e10",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Lamar Wise's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lamar-wise-e11",
+      "endorser": "Clackamas County Chair and Former Sheriff Craig Roberts",
+      "endorser_type": "official",
+      "statement": "Lamar Wise's pamphlet statement lists Clackamas County Chair and Former Sheriff Craig Roberts as an endorser.",
+      "excerpt": "Clackamas County Chair and Former Sheriff Craig Roberts",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "HD48: 12 items + 11 endorsements vs Andrew Morrison 11 items + 14 endorsements. Comparable. Wise has three T3 items beyond the pamphlet (two on the Oct 2026 ethics-commission investigation, kept as neutral, attributed and paired with his response); Morrison has one T2 item and no T3 2026 item. Effort looks even; Morrison's only T3 hit is a 2024 Ballotpedia page.",
+    "endorsements": {
+      "verified": 11,
+      "corrected": 0,
+      "rejected": 0
+    }
+  }
+}

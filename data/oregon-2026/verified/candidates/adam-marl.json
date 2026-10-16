@@ -1,0 +1,441 @@
+{
+  "id": "adam-marl",
+  "name": "Adam Marl",
+  "race_id": "oregon-city-mayor",
+  "party": null,
+  "incumbent": false,
+  "occupation": "Legislative Coordinator, Oregon Department of Land Conservation and Development",
+  "website_url": "https://www.adammarl.com",
+  "website_verified_via": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (pamphlet statement lists www.AdamMarl.com)",
+  "bio": [
+    {
+      "id": "adam-marl-b1",
+      "topic": "custom:occupation",
+      "statement": "Marl's pamphlet statement lists the occupation as Legislative Coordinator at the Oregon Department of Land Conservation and Development, with a background as a policy analyst for the Oregon Legislature.",
+      "excerpt": "Legislative Coordinator, Oregon Department of Land Conservation and Development",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-b2",
+      "topic": "custom:experience",
+      "statement": "Marl's pamphlet statement lists service as an Oregon City commissioner since 2021, chair of the budget committee and urban renewal commission, and League of Oregon Cities board member.",
+      "excerpt": "Oregon City Commissioner (2021-Present), OC Budget Committee (Chair), OC Urban Renewal Commision (Chair), Clackamas County Coordinating Committee, League of Oregon Cities Board of Directors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-b3",
+      "topic": "education",
+      "statement": "Marl's pamphlet statement lists Oregon City High School and a B.A. from Willamette University.",
+      "excerpt": "Oregon City High School; Willamette University, B.A.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-b4",
+      "topic": "custom:background",
+      "statement": "The campaign site says Marl spent six legislative sessions in the Oregon State Legislature, moving from intern to legislative assistant to policy analyst.",
+      "excerpt": "Adam spent six sessions in the Oregon State Legislature, advancing from intern to legislative assistant to policy analyst.",
+      "source": {
+        "url": "https://www.adammarl.com/meet-adam",
+        "publisher": "Adam Marl campaign website, Meet Adam page",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched; excerpt present and attribution correct.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "adam-marl-p1",
+      "topic": "taxes",
+      "statement": "In the pamphlet statement, Marl says the record includes leading adoption of a balanced city budget while voting against property tax increases.",
+      "excerpt": "Led the adoption of a balanced city budget while voting against property tax increases,",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Self-reported claim attributed to the pamphlet statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-p2",
+      "topic": "public-safety",
+      "statement": "Marl says that as mayor they would focus on public safety and cleaning up streets.",
+      "excerpt": "Prioritizing public safety and cleaning up our streets,",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-p3",
+      "topic": "housing",
+      "statement": "Marl says they would expand homeownership opportunities.",
+      "excerpt": "Expanding homeownership opportunities,",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-p4",
+      "topic": "transportation",
+      "statement": "Marl says they would fix potholes and create safe routes to school.",
+      "excerpt": "Fixing the potholes and creating safe routes to school, and",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-p5",
+      "topic": "local-business",
+      "statement": "Marl says they want Oregon City to be the best place to open and run a small business.",
+      "excerpt": "Making OC the best place to open and run a small business.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-p6",
+      "topic": "transportation",
+      "statement": "Marl's pamphlet statement cites a track record that includes leading the fight against tolls, holding private utility companies accountable and working with regional partners on homelessness.",
+      "excerpt": "Whether it’s leading the fight against tolls, holding private utility companies accountable, or working with regional partners to address the homelessness crisis",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Reworded: the quoted clause is a 'Whether it's X or Y' list describing his track record, not a claim of present activity.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-p7",
+      "topic": "economy",
+      "statement": "Marl's campaign site says a data center moratorium was proposed to ensure the city has protections in place that prioritize living-wage jobs on remaining employment land.",
+      "excerpt": "He proposed a data center moratorium to ensure the city has strong protections in place that prioritize living-wage jobs on our remaining employment land.",
+      "source": {
+        "url": "https://www.adammarl.com/priorities",
+        "publisher": "Adam Marl campaign website, Priorities page",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt extended to the sentence that actually contains the moratorium claim; statement reworded to match.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [
+    {
+      "id": "adam-marl-e1",
+      "endorser": "Denyse McGriff, Oregon City Mayor",
+      "endorser_type": "official",
+      "statement": "Adam Marl's pamphlet statement lists Denyse McGriff, Oregon City Mayor as an endorser.",
+      "excerpt": "Mayor Denyse McGriff",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-e2",
+      "endorser": "Mike Mitchell, Oregon City Commissioner",
+      "endorser_type": "official",
+      "statement": "Adam Marl's pamphlet statement lists Mike Mitchell, Oregon City Commissioner as an endorser.",
+      "excerpt": "City Commissioners Mike Mitchell, Rocky Smith, and Scott Wilson",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-e3",
+      "endorser": "Rocky Smith, Oregon City Commissioner",
+      "endorser_type": "official",
+      "statement": "Adam Marl's pamphlet statement lists Rocky Smith, Oregon City Commissioner as an endorser.",
+      "excerpt": "City Commissioners Mike Mitchell, Rocky Smith, and Scott Wilson",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-e4",
+      "endorser": "Scott Wilson, Oregon City Commissioner",
+      "endorser_type": "official",
+      "statement": "Adam Marl's pamphlet statement lists Scott Wilson, Oregon City Commissioner as an endorser.",
+      "excerpt": "City Commissioners Mike Mitchell, Rocky Smith, and Scott Wilson",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-e5",
+      "endorser": "Alice Norris, former Oregon City Mayor",
+      "endorser_type": "person",
+      "statement": "Adam Marl's pamphlet statement lists Alice Norris, former Oregon City Mayor as an endorser.",
+      "excerpt": "Former Mayor Alice Norris",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-e6",
+      "endorser": "Frank O’Donnell, former Oregon City Commissioner",
+      "endorser_type": "person",
+      "statement": "Adam Marl's pamphlet statement lists Frank O’Donnell, former Oregon City Commissioner as an endorser.",
+      "excerpt": "Former City Commissioner Frank O’Donnell",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-e7",
+      "endorser": "Christine Lewis, Metro Councilor",
+      "endorser_type": "official",
+      "statement": "Adam Marl's pamphlet statement lists Christine Lewis, Metro Councilor as an endorser.",
+      "excerpt": "Metro Councilor Christine Lewis",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-e8",
+      "endorser": "Diana Helm, Clackamas County Commissioner",
+      "endorser_type": "official",
+      "statement": "Adam Marl's pamphlet statement lists Diana Helm, Clackamas County Commissioner as an endorser.",
+      "excerpt": "Clackamas County Commissioners Diana Helm, Paul Savas, and Martha Schrader",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-e9",
+      "endorser": "Paul Savas, Clackamas County Commissioner",
+      "endorser_type": "official",
+      "statement": "Adam Marl's pamphlet statement lists Paul Savas, Clackamas County Commissioner as an endorser.",
+      "excerpt": "Clackamas County Commissioners Diana Helm, Paul Savas, and Martha Schrader",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-marl-e10",
+      "endorser": "Martha Schrader, Clackamas County Commissioner",
+      "endorser_type": "official",
+      "statement": "Adam Marl's pamphlet statement lists Martha Schrader, Clackamas County Commissioner as an endorser.",
+      "excerpt": "Clackamas County Commissioners Diana Helm, Paul Savas, and Martha Schrader",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, R column).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "gaps": [
+    "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+    "No dated 2026 news coverage found with an attributed position"
+  ],
+  "incumbent_source_url": "https://orcity.org/933",
+  "verification_summary": {
+    "verified": 19,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Three candidates, all with a pamphlet statement. Marl has 11 non-endorsement items (2 from his T2 site) plus 10 endorsements; Mabee has 7 items and no endorsements; La Barr 7 items and no endorsements. Disparity reflects the pamphlet content (Marl lists endorsers; neither opponent has a campaign site or endorsements) and is documented in gaps; no T1/T2/T3 material missed found in a spot search (search returned only older Pamplin/CanbyFirst items and aggregator pages)."
+  }
+}

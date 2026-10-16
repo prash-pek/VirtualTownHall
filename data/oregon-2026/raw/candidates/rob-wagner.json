@@ -1,0 +1,499 @@
+{
+  "id": "rob-wagner",
+  "name": "Rob Wagner",
+  "race_id": "or-senate-19",
+  "party": "Democrat",
+  "incumbent": true,
+  "occupation": "Oregon Senate President",
+  "website_url": "http://RobWagnerForOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+  "bio": [
+    {
+      "id": "rob-wagner-b1",
+      "topic": "custom:office",
+      "statement": "His official page presents Wagner as Senate President and Senator for District 19.",
+      "excerpt": "I am proud to have the honor of serving as Senate President and to serve as the Senator for District 19",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/wagner/Pages/default.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-b2",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Wagner lists his occupation as Oregon Senate President, with a background as an associate vice president at Portland Community College.",
+      "excerpt": "Occupation: Oregon Senate President Occupational Background: Portland Community College (Associate Vice President)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-b3",
+      "topic": "custom:background",
+      "statement": "Wagner lists an MA from George Washington University and a BA from Portland State University.",
+      "excerpt": "Educational Background: George Washington University (MA), Portland State University (BA), Lake Oswego HS",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-b4",
+      "topic": "custom:background",
+      "statement": "Wagner lists state senator and Lake Oswego School Board as his prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: State Senator, Lake Oswego School Board",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "rob-wagner-p1",
+      "topic": "economy",
+      "statement": "In a January 2026 Portland Tribune interview, Wagner said the state budget shortfall means cuts will need to happen.",
+      "excerpt": "Cuts are going to need to happen,",
+      "source": {
+        "url": "https://portlandtribune.com/2026/01/23/rob-wagner-talk-state-budgeting-challenges-transportation-funding/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-01-23",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p2",
+      "topic": "transportation",
+      "statement": "In the same interview, Wagner said transportation funding needs a bipartisan conversation about long-term solutions.",
+      "excerpt": "What we need is a bipartisan conversation on long-term funding solutions.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/01/23/rob-wagner-talk-state-budgeting-challenges-transportation-funding/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-01-23",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p3",
+      "topic": "education",
+      "statement": "Wagner lists education, jobs and workforce training, environment and parks, health care, public safety, housing and quality of life as his priorities.",
+      "excerpt": "I prioritize things that are most important to our community and state: education, jobs and workforce training, environment and parks, health care, public safety, housing, and quality of life.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p4",
+      "topic": "environment",
+      "statement": "Wagner says Oregon must protect clean air, land and water, build resilience to wildfires and heat waves, and defend natural places.",
+      "excerpt": "we must protect our clean air, land, and water; build resilience amidst wildfires and heat waves; and defend our natural places",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p5",
+      "topic": "healthcare",
+      "statement": "Wagner says he will protect health care for seniors, low-income families and children and ensure Planned Parenthood provides preventive and reproductive care.",
+      "excerpt": "we must protect health care for Oregonians, including seniors, low-income families, and children; and ensure that Planned Parenthood provides preventive and reproductive health care",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p6",
+      "topic": "economy",
+      "statement": "Wagner says Oregon must invest in education, infrastructure, public safety, jobs and economic development.",
+      "excerpt": "We must invest in Oregon: education, infrastructure, public safety, jobs, and economic development",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p7",
+      "topic": "economy",
+      "statement": "Wagner's campaign website says across-the-board tariffs are making everything more expensive.",
+      "excerpt": "unconstitutional and irresponsible across-the-board tariffs are making everything more expensive",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p8",
+      "topic": "healthcare",
+      "statement": "Wagner's campaign website says healthcare providers should be able to do their jobs without unnecessary government interference.",
+      "excerpt": "healthcare providers should be able to do their jobs without unnecessary government interference",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p9",
+      "topic": "education",
+      "statement": "Wagner's campaign website says public education is crucial for upward mobility and training the workforce.",
+      "excerpt": "Public education is crucial for empowering upward mobility and training our workforce.",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-p10",
+      "topic": "environment",
+      "statement": "Wagner's campaign website says he strongly supports defending the environment and natural resources.",
+      "excerpt": "I strongly support defending our environment and natural resources as we face the reality of a changing climate.",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No sponsored-bill or roll-call items collected (phase 1: official page lists none)",
+    "No sourced positions on housing, education, environment beyond pamphlet"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract rob-wagner.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 41)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/wagner/Pages/default.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website http://RobWagnerForOregon.com (printed in pamphlet statement); fetched https://www.robwagnerfororegon.com/priorities/",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Rob Wagner\" Oregon Senate 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Rob Wagner\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Rob Wagner\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Rob Wagner\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2026/01/23/rob-wagner-talk-state-budgeting-challenges-transportation-funding/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Inventory consistent (incumbent true). Official page does not state party. Pamphlet Book13 p.43 / Book14 p.41 (pending). Pamphlet statement: SOS Clackamas edition p. 41 (same text in other editions). Site Priorities page also lists housing/homelessness and gun safety; omitted for the 10-position cap.",
+  "incumbent_source_url": "https://www.oregonlegislature.gov/wagner/Pages/default.aspx",
+  "endorsements": [
+    {
+      "id": "rob-wagner-e1",
+      "endorser": "U.S. Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Rob Wagner's pamphlet statement lists U.S. Senator Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e2",
+      "endorser": "U.S. Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Rob Wagner's pamphlet statement lists U.S. Senator Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e3",
+      "endorser": "Congresswoman Andrea Salinas",
+      "endorser_type": "official",
+      "statement": "Rob Wagner's pamphlet statement lists Congresswoman Andrea Salinas as an endorser.",
+      "excerpt": "Congresswoman Andrea Salinas",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e4",
+      "endorser": "Congresswoman Janelle Bynum",
+      "endorser_type": "official",
+      "statement": "Rob Wagner's pamphlet statement lists Congresswoman Janelle Bynum as an endorser.",
+      "excerpt": "Congresswoman Janelle Bynum",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e5",
+      "endorser": "Congresswoman Maxine Dexter",
+      "endorser_type": "official",
+      "statement": "Rob Wagner's pamphlet statement lists Congresswoman Maxine Dexter as an endorser.",
+      "excerpt": "Congresswoman Maxine Dexter",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e6",
+      "endorser": "Governor Tina Kotek",
+      "endorser_type": "official",
+      "statement": "Rob Wagner's pamphlet statement lists Governor Tina Kotek as an endorser.",
+      "excerpt": "Governor Tina Kotek",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e7",
+      "endorser": "Attorney General Dan Rayfield",
+      "endorser_type": "official",
+      "statement": "Rob Wagner's pamphlet statement lists Attorney General Dan Rayfield as an endorser.",
+      "excerpt": "Attorney General Dan Rayfield",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e8",
+      "endorser": "Clackamas County Chair Craig Roberts",
+      "endorser_type": "official",
+      "statement": "Rob Wagner's pamphlet statement lists Clackamas County Chair Craig Roberts as an endorser.",
+      "excerpt": "Clackamas County Chair Craig Roberts",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e9",
+      "endorser": "Tualatin Mayor Frank Bubenik",
+      "endorser_type": "official",
+      "statement": "Rob Wagner's pamphlet statement lists Tualatin Mayor Frank Bubenik as an endorser.",
+      "excerpt": "Tualatin Mayor Frank Bubenik",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e10",
+      "endorser": "Lake Oswego Mayor Joe Buck",
+      "endorser_type": "official",
+      "statement": "Rob Wagner's pamphlet statement lists Lake Oswego Mayor Joe Buck as an endorser.",
+      "excerpt": "Lake Oswego Mayor Joe Buck",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e11",
+      "endorser": "West Linn Mayor Rory Bialostosky",
+      "endorser_type": "official",
+      "statement": "Rob Wagner's pamphlet statement lists West Linn Mayor Rory Bialostosky as an endorser.",
+      "excerpt": "West Linn Mayor Rory Bialostosky",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e12",
+      "endorser": "Basic Rights Oregon PAC",
+      "endorser_type": "organization",
+      "statement": "Rob Wagner's pamphlet statement lists Basic Rights Oregon PAC as an endorser.",
+      "excerpt": "Basic Rights Oregon PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e13",
+      "endorser": "OR Labor Federation AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Rob Wagner's pamphlet statement lists OR Labor Federation AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e14",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Rob Wagner's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e15",
+      "endorser": "Oregon Building Trades Unions",
+      "endorser_type": "organization",
+      "statement": "Rob Wagner's pamphlet statement lists Oregon Building Trades Unions as an endorser.",
+      "excerpt": "Oregon Building Trades Unions",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e16",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Rob Wagner's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e17",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Rob Wagner's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "rob-wagner-e18",
+      "endorser": "Portland Metro Chamber",
+      "endorser_type": "organization",
+      "statement": "Rob Wagner's pamphlet statement lists Portland Metro Chamber as an endorser.",
+      "excerpt": "Portland Metro Chamber",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
+}

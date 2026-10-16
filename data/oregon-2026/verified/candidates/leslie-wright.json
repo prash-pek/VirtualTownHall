@@ -1,0 +1,104 @@
+{
+  "id": "leslie-wright",
+  "name": "Leslie Wright",
+  "name_variants": [],
+  "race_id": "milwaukie-mayor",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://milwaukieoregon.gov/node/124341",
+  "occupation": "The Janitorial King, starting up multiple businesses all over the country (per pamphlet)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "leslie-wright-b1",
+      "topic": "custom:bio",
+      "statement": "Wright's pamphlet statement lists service in the U.S. Marine Corps and Washington State Guard.",
+      "excerpt": "USMC- US Marine Corps; WSG-Washington State Guard; USV-SSC- United Services Joint Serviced Command",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "leslie-wright-b2",
+      "topic": "custom:bio",
+      "statement": "Wright's pamphlet statement says he retired from the military in 2019 and has continued serving his community.",
+      "excerpt": "I retired from the military in 2019 and have continued serving my community.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "leslie-wright-b3",
+      "topic": "custom:bio",
+      "statement": "Wright's pamphlet statement says he is building a worldwide janitorial business.",
+      "excerpt": "Today, I continue building a worldwide janitorial business and inspiring others through my experience.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "leslie-wright-b4",
+      "topic": "local-business",
+      "statement": "Wright's pamphlet statement says he has helped start more than 2,000 businesses.",
+      "excerpt": "I have helped start more than 2,000 businesses.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Pamphlet statement contains no policy priorities",
+    "No campaign website listed",
+    "No 2026 T3 coverage found"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "see reports/verification/candidates-metro-v5.md"
+  },
+  "endorsements": []
+}

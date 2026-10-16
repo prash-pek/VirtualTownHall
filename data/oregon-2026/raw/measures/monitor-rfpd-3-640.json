@@ -3,22 +3,39 @@
   "jurisdiction_id": "monitor-rfpd",
   "number": "3-640",
   "title": "Dissolution of Monitor RFPD Contingent Other Measures",
-  "ballot_label": "Caption: Dissolution of Monitor RFPD Contingent Other Measures (Question and summary not retrievable; see collection_notes.)",
-  "summary": "Would dissolve the Monitor Rural Fire Protection District as part of a three-measure consolidation with the Mt. Angel Fire District. Per the official explanatory statements for the related Marion County measures, the new Mt. Angel-Monitor Fire District forms only if voters approve all three: formation (24-529) and dissolution of each existing district (24-526 and this measure). The new district would have a $1.97 per $1,000 permanent tax rate.",
-  "yes_means": "A yes vote approves dissolving the Monitor Rural Fire Protection District, effective only if the related formation and Mt. Angel Fire District dissolution measures also pass.",
-  "no_means": "A no vote rejects dissolution; the Monitor Rural Fire Protection District would continue to operate.",
-  "fiscal_impact": "Per the official explanatory statement for related Measure 24-529: the new district's permanent tax rate would be $1.97 per $1,000 of assessed value, 'higher than the existing permanent tax rate of each district'; assets and reserves of the dissolving districts transfer to the new district.",
+  "ballot_label": "Caption: Dissolution of Monitor RFPD Contingent Other Measures. Question: Shall the Monitor Fire District be dissolved, contingent on formation of new district and dissolution of Mt. Angel District? Summary: Measure would dissolve Monitor Rural Fire Protection District and eliminate Monitor Rural Fire Protection District’s permanent tax rate and local option levy. Measure would take effect only if two separate measures for dissolution of Mt. Angel Fire District and formation of Mt. Angel-Monitor Fire District are also approved by voters. The proposed new district combines the existing Mt. Angel District and Monitor District boundaries into one. Both districts have been operating together under agreement. Dissolution will eliminate existing tax rates and the local option levy, replaced by a permanent tax rate of $1.97 per $1,000 of assessed value for the Mt. Angel-Monitor Fire District. All employees, assets, and liabilities of Monitor Rural Fire Protection District would transfer to the new district. Dissolution effective December 31, 2026. January 1, 2027 new district provides fire protection and EMS services.",
+  "summary": "Referred by the district board. Would dissolve the Monitor Rural Fire Protection District and end its permanent tax rate and local option levy. It takes effect only if the measures forming the Mt. Angel-Monitor Fire District and dissolving the Mt. Angel Fire District also pass. The new district would levy a permanent rate of $1.97 per $1,000 of assessed value and begin service January 1, 2027.",
+  "yes_means": "A yes vote dissolves the Monitor Rural Fire Protection District, effective only if the related formation and Mt. Angel Fire District dissolution measures also pass.",
+  "no_means": "A no vote rejects dissolution, and the Monitor Rural Fire Protection District would continue to operate separately under its current tax rate and service arrangements.",
+  "fiscal_impact": "Per the county pamphlet: the Monitor district's permanent tax rate and local option levy would end; property in the district would instead be subject to the new Mt. Angel-Monitor Fire District's permanent rate of $1.97 per $1,000 of assessed value. The Monitor district carries no bonded debt or long-term financial obligations, and its assets and reserve funds would transfer to the new district.",
   "full_text_url": "https://docs.clackamas.us/documents/drupal/5e9ffeb3-d3e6-4ca4-8e46-b11ac71b4969",
-  "arguments": [],
+  "arguments": [
+    {
+      "id": "monitor-rfpd-3-640-y1",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Kim Guest, Yes for Mt. Angel-Monitor Fire Committee",
+      "topic": "public-safety",
+      "statement": "The Yes for Mt. Angel-Monitor Fire Committee argues combining the districts would give the new district staffing and financial stability while keeping all three stations open and local.",
+      "excerpt": "Combining resources gives the new district staffing and financial stability neither could reach alone, without closing stations, layoffs, or losing the local, neighbor-helping-neighbor character residents count on.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 104 (printed C-103)"
+      }
+    }
+  ],
   "topics": [
     "public-safety",
     "taxes"
   ],
   "gaps": [
-    "No YES argument found in T1/T3 sources (pamphlet unreadable; Woodburn Independent Sept 6, 2026 article quotes no supporters; Marion BOC July 27, 2026 minutes record seven public commenters without their content).",
-    "No NO argument found in T1/T3 sources (same searches)."
+    "No argument in opposition was filed in the county voters' pamphlet (the pamphlet prints 'NO ARGUMENTS IN OPPOSITION TO THIS MEASURE WERE FILED')."
   ],
-  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. County voters' pamphlet (https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513) lists this measure in its index, but WebFetch text extraction ends at page C-33 (~117k chars), before the measure section, so the pamphlet's explanatory statement and any filed arguments could not be read. The county ballot-title PDF linked from the election page returned only the multilingual accommodations notice (likely an image scan). Contingency, from official text: the explanatory statement for Measure 24-529 (Formation of Mt. Angel-Monitor Fire District; posted on docs.clackamas.us) says 'The new district will become operational only if all three related measures are approved by voters: formation of the new district and dissolution of each existing district.' and 'If all three measures are not adopted, the Mt. Angel-Monitor Fire District would not be formed, the two existing districts would continue to operate separately under their current tax rates'. Marion's explanatory statement for 24-526 (Mt. Angel Fire dissolution) says 'This measure will take effect only if all three related measures are approved by voters'. The 3-640 ballot title itself was not readable (county PDF is image-only), so 3-640's own wording of the contingency is unverified; the description relies on the two related official statements. Measures 24-526 and 24-529 do not name 3-640 by number in the text retrieved. If approved, new district would form January 1, 2027. full_text_url points to the 24-529 explanatory statement as the best readable official description. Inventory caption matches county page.",
+  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. Contingency, from official text: the explanatory statement for Measure 24-529 (Formation of Mt. Angel-Monitor Fire District; posted on docs.clackamas.us) says 'The new district will become operational only if all three related measures are approved by voters: formation of the new district and dissolution of each existing district.' and 'If all three measures are not adopted, the Mt. Angel-Monitor Fire District would not be formed, the two existing districts would continue to operate separately under their current tax rates'. Marion's explanatory statement for 24-526 (Mt. Angel Fire dissolution) says 'This measure will take effect only if all three related measures are approved by voters'. The 3-640 ballot title itself was not readable (county PDF is image-only), so 3-640's own wording of the contingency is unverified; the description relies on the two related official statements. Measures 24-526 and 24-529 do not name 3-640 by number in the text retrieved. If approved, new district would form January 1, 2027. full_text_url points to the 24-529 explanatory statement as the best readable official description. Inventory caption matches county page. Pamphlet read 2026-10-16 from the script extract of the Clackamas County voters' pamphlet (extract pages 103-104, printed C-102 and C-103): ballot title, explanatory statement and one argument in favor. Extract page 106 (printed C-105) is an argument filed for Marion County Measure 24-529 by John Vandecoevering (Monitor RFPD board president) that also urges a yes vote on 3-640; it was not filed under 3-640 and is not recorded here. ballot_label, summary, yes_means, no_means and fiscal_impact now follow the pamphlet ballot title and explanatory statement; the earlier fiscal text borrowed from the 24-529 statement is replaced. Earlier gaps about unreadable pamphlet arguments are resolved. Pamphlet read 2026-10-16 from the script extract of the Clackamas County voters' pamphlet (extract pages 103-104, printed C-102 and C-103): ballot title, explanatory statement and one argument in favor. Extract page 106 (printed C-105) is an argument filed for Marion County Measure 24-529 by John Vandecoevering (Monitor RFPD board president) that also urges a yes vote on 3-640; it was not filed under 3-640 and is not recorded here. ballot_label, summary, yes_means, no_means and fiscal_impact now follow the pamphlet ballot title and explanatory statement; the earlier fiscal text borrowed from the 24-529 statement is replaced. Earlier gaps about unreadable pamphlet arguments are resolved.",
   "collection_log": [
     {
       "step": "1",
@@ -84,6 +101,34 @@
       "step": "3",
       "query_or_url": "https://woodburnindependent.com/2026/09/06/candidates-and-measures-ready-to-go-for-november-general-election/",
       "result": "nothing relevant"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 via pamphlet-ab-test extract clackamas-county/monitor-rfpd-3-640.txt (extract pages 103-104, 106)",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 via pamphlet-ab-test extract clackamas-county/monitor-rfpd-3-640.txt (extract pages 103-104, 106)",
+      "result": "used"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "monitor-rfpd-3-640-e1",
+      "endorser": "Yes for Mt. Angel-Monitor Fire Committee",
+      "endorser_type": "organization",
+      "side": "yes",
+      "statement": "The Yes for Mt. Angel-Monitor Fire Committee, through Kim Guest, furnished the pamphlet argument in favor of Measure 3-640.",
+      "excerpt": "This information furnished by Kim Guest, Yes for Mt. Angel Monitor Fire Committee",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 104 (printed C-103)"
+      }
     }
   ]
 }

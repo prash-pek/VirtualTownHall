@@ -1,0 +1,145 @@
+{
+  "id": "curt-taylor",
+  "name": "Curt Taylor",
+  "race_id": "rivergrove-council",
+  "party": null,
+  "incumbent": true,
+  "occupation": "Retired; Registered Representative / Financial Advisor",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "curt-taylor-b1",
+      "topic": "custom:office",
+      "statement": "The City of Rivergrove city council page lists Curt Taylor as a councilor.",
+      "excerpt": "Curt Taylor Councilor",
+      "source": {
+        "url": "https://www.cityofrivergrove.org/government/city-council/",
+        "publisher": "City of Rivergrove, City Council page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched; excerpt present and attribution correct.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "curt-taylor-b2",
+      "topic": "custom:occupation",
+      "statement": "Taylor's pamphlet statement lists the occupation as retired, formerly a registered representative and financial advisor.",
+      "excerpt": "Occupation: Retired Occupational Background: Registered Representative / Financial Advisor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 50, printed C-49)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.50, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "curt-taylor-b3",
+      "topic": "custom:experience",
+      "statement": "Taylor's pamphlet statement lists service as an elected Rivergrove city councilor and an appointed member of the Planning Commission.",
+      "excerpt": "Rivergrove City Councillor (elected), - City of Rivergrove Planning Commission (appointed)",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 50, printed C-49)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.50, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "curt-taylor-b4",
+      "topic": "education",
+      "statement": "Taylor's pamphlet statement lists an AA in business administration from Diablo Valley College.",
+      "excerpt": "Diablo Valley College, AA Business Administration",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 50, printed C-49)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.50, L column).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "curt-taylor-p1",
+      "topic": "infrastructure",
+      "statement": "Taylor says they are seeking re-election to continue work on renovating the Stark Boat Ramp, upgrading Canal Road access and reviewing the land development ordinance.",
+      "excerpt": "I am seeking re-election to the Rivergrove City Council to continue the work on the many positive opportunities the city has before it. These opportunities include renovation of the Stark Boat Ramp, upgrade access on Canal Road, and a comprehensive review and update of the Rivergrove Land Development Ordnance.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 50, printed C-49)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt extended to include 'I am seeking re-election' sentence the statement relies on.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "curt-taylor-p2",
+      "topic": "custom:governance",
+      "statement": "Taylor says continuity of the current council is critical to move city improvements forward.",
+      "excerpt": "Continuity of the current council is critical to move these and other city improvements forward.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 50, printed C-49)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.50, L column).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No campaign website found or linked",
+    "No sourced positions on taxes, housing or public safety",
+    "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+    "No endorsements listed in his pamphlet statement"
+  ],
+  "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/",
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Six candidates for three seats. Silber 8 items, Taylor 6, Egusa 6, Joyce 6, Dull 6, McLean 1 (roster only; no pamphlet statement, documented in gaps). Disparity for McLean reflects the absence of any statement or website, not search effort. Spot search found only aggregator pages (GoodParty) which are excluded."
+  }
+}

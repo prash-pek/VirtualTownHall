@@ -235,5 +235,329 @@
       "result": "used"
     }
   ],
-  "collection_notes": "County board page lists Jerry Willey as Vice Chair and District 4 Commissioner, so neither runoff candidate is the incumbent. Hillsboro city news pages (hillsboro-oregon.gov/Home/Components/News/...) returned client errors and the Hillsboro 101 page has no named roster, so city-office facts come from the pamphlet and press. Campaign domain printed in the county pamphlet statement. Pamphlet quotes capped ~125 chars by the fetch tool."
+  "collection_notes": "County board page lists Jerry Willey as Vice Chair and District 4 Commissioner, so neither runoff candidate is the incumbent. Hillsboro city news pages (hillsboro-oregon.gov/Home/Components/News/...) returned client errors and the Hillsboro 101 page has no named roster, so city-office facts come from the pamphlet and press. Campaign domain printed in the county pamphlet statement. Pamphlet quotes capped ~125 chars by the fetch tool.",
+  "endorsements": [
+    {
+      "id": "steve-callaway-e1",
+      "endorser": "Tualatin Valley Firefighters IAFF 1660",
+      "endorser_type": "organization",
+      "statement": "Steve Callaway's pamphlet statement lists Tualatin Valley Firefighters IAFF 1660 as an endorser.",
+      "excerpt": "Tualatin Valley Firefighters IAFF 1660",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e2",
+      "endorser": "Hillsboro Professional Firefighters",
+      "endorser_type": "organization",
+      "statement": "Steve Callaway's pamphlet statement lists Hillsboro Professional Firefighters as an endorser.",
+      "excerpt": "Hillsboro Professional Firefighters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e3",
+      "endorser": "Hillsboro Police Officers Association",
+      "endorser_type": "organization",
+      "statement": "Steve Callaway's pamphlet statement lists Hillsboro Police Officers Association as an endorser.",
+      "excerpt": "Hillsboro Police Officers",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e4",
+      "endorser": "Northwest Oregon Labor Council",
+      "endorser_type": "organization",
+      "statement": "Steve Callaway's pamphlet statement lists Northwest Oregon Labor Council as an endorser.",
+      "excerpt": "Northwest Oregon Labor Council",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e5",
+      "endorser": "Independent Party of Oregon",
+      "endorser_type": "organization",
+      "statement": "Steve Callaway's pamphlet statement lists Independent Party of Oregon as an endorser.",
+      "excerpt": "Independent Party of Oregon",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e6",
+      "endorser": "Willamette Women Democrats",
+      "endorser_type": "organization",
+      "statement": "Steve Callaway's pamphlet statement lists Willamette Women Democrats as an endorser.",
+      "excerpt": "Independent Party of Oregon; Willamette",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e7",
+      "endorser": "Washington County Chamber PAC",
+      "endorser_type": "organization",
+      "statement": "Steve Callaway's pamphlet statement lists Washington County Chamber PAC as an endorser.",
+      "excerpt": "Washington County Chamber PAC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e8",
+      "endorser": "Building Power for Communities of Color",
+      "endorser_type": "organization",
+      "statement": "Steve Callaway's pamphlet statement lists Building Power for Communities of Color as an endorser.",
+      "excerpt": "Power for Communities of Color",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e9",
+      "endorser": "Kevin Barton",
+      "endorser_type": "official",
+      "statement": "Steve Callaway's pamphlet statement lists Kevin Barton as an endorser.",
+      "excerpt": "DA Kevin Barton",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e10",
+      "endorser": "Jerry Willey",
+      "endorser_type": "official",
+      "statement": "Steve Callaway's pamphlet statement lists Jerry Willey as an endorser.",
+      "excerpt": "Jerry Willey; Commissioner-Elect Felicita Monteblanco; Senator",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e11",
+      "endorser": "Felicita Monteblanco",
+      "endorser_type": "official",
+      "statement": "Steve Callaway's pamphlet statement lists Felicita Monteblanco as an endorser.",
+      "excerpt": "Jerry Willey; Commissioner-Elect Felicita Monteblanco; Senator",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e12",
+      "endorser": "Bruce Starr",
+      "endorser_type": "official",
+      "statement": "Steve Callaway's pamphlet statement lists Bruce Starr as an endorser.",
+      "excerpt": "Bruce Starr; Metro President Juan Carlos Gonzalez; Mayors",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e13",
+      "endorser": "Juan Carlos Gonzalez",
+      "endorser_type": "official",
+      "statement": "Steve Callaway's pamphlet statement lists Juan Carlos Gonzalez as an endorser.",
+      "excerpt": "Bruce Starr; Metro President Juan Carlos Gonzalez; Mayors",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e14",
+      "endorser": "Malynda Wenzl",
+      "endorser_type": "official",
+      "statement": "Steve Callaway's pamphlet statement lists Malynda Wenzl as an endorser.",
+      "excerpt": "Malynda Wenzl and Jeffrey Dalin; Henry Reimann, former",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e15",
+      "endorser": "Jeffrey Dalin",
+      "endorser_type": "official",
+      "statement": "Steve Callaway's pamphlet statement lists Jeffrey Dalin as an endorser.",
+      "excerpt": "Malynda Wenzl and Jeffrey Dalin; Henry Reimann, former",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e16",
+      "endorser": "Henry Reimann",
+      "endorser_type": "official",
+      "statement": "Steve Callaway's pamphlet statement lists Henry Reimann as an endorser.",
+      "excerpt": "Malynda Wenzl and Jeffrey Dalin; Henry Reimann, former",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e17",
+      "endorser": "Leslee Sipp",
+      "endorser_type": "official",
+      "statement": "Steve Callaway's pamphlet statement lists Leslee Sipp as an endorser.",
+      "excerpt": "Leslee Sipp, Banks School Board",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e18",
+      "endorser": "Loren Behrman",
+      "endorser_type": "person",
+      "statement": "Steve Callaway's pamphlet statement lists Loren Behrman as an endorser.",
+      "excerpt": "Loren Behrman; Cecilia",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e19",
+      "endorser": "Cecilia Giron",
+      "endorser_type": "person",
+      "statement": "Steve Callaway's pamphlet statement lists Cecilia Giron as an endorser.",
+      "excerpt": "Giron, Oregon LULAC; Hector Hinojosa; Terrance and Patti",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e20",
+      "endorser": "Hector Hinojosa",
+      "endorser_type": "person",
+      "statement": "Steve Callaway's pamphlet statement lists Hector Hinojosa as an endorser.",
+      "excerpt": "Giron, Oregon LULAC; Hector Hinojosa; Terrance and Patti",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e21",
+      "endorser": "Terrance and Patti Burns",
+      "endorser_type": "person",
+      "statement": "Steve Callaway's pamphlet statement lists Terrance and Patti Burns as an endorser.",
+      "excerpt": "Burns, Loch Lolly Christmas Forest; Jaime Miranda, M&M",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e22",
+      "endorser": "Jaime Miranda",
+      "endorser_type": "person",
+      "statement": "Steve Callaway's pamphlet statement lists Jaime Miranda as an endorser.",
+      "excerpt": "Burns, Loch Lolly Christmas Forest; Jaime Miranda, M&M",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-callaway-e23",
+      "endorser": "Deborah Garman",
+      "endorser_type": "person",
+      "statement": "Steve Callaway's pamphlet statement lists Deborah Garman as an endorser.",
+      "excerpt": "Marketplace; Deborah Garman; and hundreds more.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

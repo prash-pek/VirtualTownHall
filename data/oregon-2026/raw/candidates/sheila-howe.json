@@ -1,0 +1,58 @@
+{
+ "id": "sheila-howe",
+ "name": "Sheila Howe",
+ "race_id": "molalla-council",
+ "party": null,
+ "incumbent": false,
+ "incumbent_source_url": "https://www.cityofmolalla.com/Government/Molalla-City-Council",
+ "occupation": null,
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [],
+ "positions": [],
+ "voting_record": [],
+ "gaps": [
+  "No pamphlet statement found (script extract)",
+  "No public biography, positions or campaign website found",
+  "Unopposed (3 candidates for 3 seats)"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "pamphlet extract clackamas-county/sheila-howe.txt (+ _index.json loose_matches checked)",
+   "result": "no pamphlet statement found (script extract); Pamphlet PDF p. 5 (index) lists the name with an asterisk but no statement page exists in the extract;"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.cityofmolalla.com/Government/Molalla-City-Council",
+   "result": "used (roster; candidate not listed)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign website domain linked from pamphlet or official pages",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Sheila Howe\" Molalla city council 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5a",
+   "query_or_url": "\"Sheila Howe\" allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5b",
+   "query_or_url": "\"Sheila Howe\" allowed_domains kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5c",
+   "query_or_url": "\"Sheila Howe\" allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant"
+  }
+ ],
+ "collection_notes": "Pamphlet extract: only p. 5 (index, name starred, no statement page). Incumbent false: the city council roster lists seven members (Mayor Scott Keyser; Councilors Vermillion, Childress, Shankle, Gilmer, Bartholomew, Bisenius) and does not include Sheila Howe. Search results for this name returned only generic city council meeting pages, not read for her.",
+ "endorsements": []
+}

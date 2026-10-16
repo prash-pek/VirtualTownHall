@@ -63,5 +63,507 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Both candidates have two comparable T3 bio items from the same two Willamette Week articles; descriptive facts only, no endorsement or polling content used. State voters' pamphlet judicial statements not readable by collector; oregonvotes.gov military-guide pages for these candidates now redirect (unreachable). Same-name risk for Diane Sykes (federal 7th Circuit judge) checked: no federal-judge content. File-level: incumbent set false: ballot directive lists Position 2 with no incumbent (WW reports Judge Nan Waller leaving). Name 'Diane S Sykes' matches ballot directive."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "diane-sykes-e1",
+      "endorser": "Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Diane S Sykes's pamphlet statement lists Working Families Party as an endorser.",
+      "excerpt": "Working Families Party",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e2",
+      "endorser": "Northwest Oregon Labor Council",
+      "endorser_type": "organization",
+      "statement": "Diane S Sykes's pamphlet statement lists Northwest Oregon Labor Council as an endorser.",
+      "excerpt": "Northwest Oregon Labor Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e3",
+      "endorser": "AFSCME Local 88",
+      "endorser_type": "organization",
+      "statement": "Diane S Sykes's pamphlet statement lists AFSCME Local 88 as an endorser.",
+      "excerpt": "AFSCME Local 88",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e4",
+      "endorser": "UFCW 555",
+      "endorser_type": "organization",
+      "statement": "Diane S Sykes's pamphlet statement lists UFCW 555 as an endorser.",
+      "excerpt": "UFCW 555",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e5",
+      "endorser": "Portland for All",
+      "endorser_type": "organization",
+      "statement": "Diane S Sykes's pamphlet statement lists Portland for All as an endorser.",
+      "excerpt": "Portland for All",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e6",
+      "endorser": "Pineros y Campesinos Unidos Noroeste (PCUN)",
+      "endorser_type": "organization",
+      "statement": "Diane S Sykes's pamphlet statement lists Pineros y Campesinos Unidos Noroeste (PCUN) as an endorser.",
+      "excerpt": "Pineros y Campesinos Unidos Noroeste (PCUN)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e7",
+      "endorser": "East County Rising",
+      "endorser_type": "organization",
+      "statement": "Diane S Sykes's pamphlet statement lists East County Rising as an endorser.",
+      "excerpt": "East County Rising",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e8",
+      "endorser": "Latino Network Action Fund",
+      "endorser_type": "organization",
+      "statement": "Diane S Sykes's pamphlet statement lists Latino Network Action Fund as an endorser.",
+      "excerpt": "Latino Network Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e9",
+      "endorser": "The Ebony Collective Coalition",
+      "endorser_type": "organization",
+      "statement": "Diane S Sykes's pamphlet statement lists The Ebony Collective Coalition as an endorser.",
+      "excerpt": "The Ebony Collective Coalition",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e10",
+      "endorser": "Kate Brown",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Kate Brown as an endorser.",
+      "excerpt": "Governor Kate Brown",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e11",
+      "endorser": "Janelle Bynum",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Janelle Bynum as an endorser.",
+      "excerpt": "Congresswoman Janelle Bynum",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e12",
+      "endorser": "Christina Stephenson",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Christina Stephenson as an endorser.",
+      "excerpt": "Commissioner Christina Stephenson, Oregon Bureau of Labor and",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e13",
+      "endorser": "Meghan Moyer",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Meghan Moyer as an endorser.",
+      "excerpt": "County Commissioners: Meghan Moyer, Shannon Singleton,",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e14",
+      "endorser": "Shannon Singleton",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Shannon Singleton as an endorser.",
+      "excerpt": "County Commissioners: Meghan Moyer, Shannon Singleton,",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e15",
+      "endorser": "Sonya Fischer",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Sonya Fischer as an endorser.",
+      "excerpt": "Sonya Fischer",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e16",
+      "endorser": "Juan Carlos González",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Juan Carlos González as an endorser.",
+      "excerpt": "Metro President Juan Carlos González",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e17",
+      "endorser": "Duncan Hwang",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Duncan Hwang as an endorser.",
+      "excerpt": "Metro Councilors: Duncan Hwang and Ashton Simpson",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e18",
+      "endorser": "Ashton Simpson",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Ashton Simpson as an endorser.",
+      "excerpt": "Metro Councilors: Duncan Hwang and Ashton Simpson",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e19",
+      "endorser": "Loretta Smith",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Loretta Smith as an endorser.",
+      "excerpt": "Portland City Councilor Loretta Smith",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e20",
+      "endorser": "Kayse Jama",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Kayse Jama as an endorser.",
+      "excerpt": "Senate Majority Leader Kayse Jama",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e21",
+      "endorser": "James Manning",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists James Manning as an endorser.",
+      "excerpt": "Senate President Pro Tempore James Manning",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e22",
+      "endorser": "Mark Gamba",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Mark Gamba as an endorser.",
+      "excerpt": "Representatives: Mark Gamba, Shannon Isadore, Travis Nelson,",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e23",
+      "endorser": "Shannon Isadore",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Shannon Isadore as an endorser.",
+      "excerpt": "Representatives: Mark Gamba, Shannon Isadore, Travis Nelson,",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e24",
+      "endorser": "Travis Nelson",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Travis Nelson as an endorser.",
+      "excerpt": "Representatives: Mark Gamba, Shannon Isadore, Travis Nelson,",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diane-sykes-e25",
+      "endorser": "Tom Andersen",
+      "endorser_type": "official",
+      "statement": "Diane S Sykes's pamphlet statement lists Tom Andersen as an endorser.",
+      "excerpt": "and Tom Andersen",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -1,0 +1,184 @@
+{
+  "id": "bill-monahan",
+  "name": "Bill Monahan",
+  "race_id": "tigard-mayor",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Consultant",
+  "website_url": "https://www.citizenstoelectbillmonahan.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (pamphlet p. WC-35)",
+  "bio": [
+    {
+      "id": "bill-monahan-b1",
+      "topic": "custom:background",
+      "statement": "In his pamphlet statement, Monahan says he has lived in Tigard since 1982, served as Planning Director until 1988 and as City Manager from 1994 to 2005.",
+      "excerpt": "I have lived in Tigard since 1982, serving as Planning Director until 1988 and City Manager from 1994 to 2005.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "bill-monahan-b2",
+      "topic": "custom:background",
+      "statement": "The pamphlet lists his prior government experience as Tigard City Manager and Community Development Director, Milwaukie City Manager and Brockton, Massachusetts City Planner.",
+      "excerpt": "Prior Governmental Experience: Tigard – City Manager, Community Development Director Milwaukie – City Manager Brockton, MA – City Planner",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "bill-monahan-b3",
+      "topic": "custom:background",
+      "statement": "Monahan's pamphlet statement lists his occupation as consultant, with 30 years in city government and work as an attorney.",
+      "excerpt": "Occupation: Consultant Occupational Background: 30 years in city government; attorney; consultant",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "bill-monahan-p1",
+      "topic": "public-safety",
+      "statement": "Monahan says in his pamphlet statement that the police need a better facility but that city leaders must be more transparent and honest.",
+      "excerpt": "The police need a better facility, but city leaders must be more transparent and honest.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "bill-monahan-p2",
+      "topic": "infrastructure",
+      "statement": "In a May 2026 KATU report on the $150 million bond, Monahan said the facility does not need to be combined and could be split, with police addressed first.",
+      "excerpt": "I don't think it needs to be a combined facility. I think it can be split and police can be sought first.",
+      "source": {
+        "url": "https://katu.com/news/local/tigard-voters-weigh-public-safety-bond-tigard-police-department-public-works-debate-over-cost-growth-efficiency-city-councilor-jake-schlack-former-city-manager-bill-monahan",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2026-05-18",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement trimmed to the excerpt; 'reduced in size' is a separate quote on the page, not in the excerpt.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "bill-monahan-p3",
+      "topic": "taxes",
+      "statement": "Monahan's pamphlet statement lists delivering affordable core services among his priorities if elected.",
+      "excerpt": "Deliver affordable core services",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "bill-monahan-p4",
+      "topic": "custom:governance",
+      "statement": "Monahan's pamphlet statement lists leading with integrity, transparency and accountability, and building relationships with Council, staff and the community, as priorities.",
+      "excerpt": "Lead with integrity, transparency, and accountability",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "bill-monahan-p5",
+      "topic": "taxes",
+      "statement": "In May 2026 KATU coverage, Monahan said too much of the bond's cost was placed on residential properties.",
+      "excerpt": "I think there's too much being placed on the residential properties,",
+      "source": {
+        "url": "https://katu.com/news/local/tigard-voters-weigh-public-safety-bond-tigard-police-department-public-works-debate-over-cost-growth-efficiency-city-councilor-jake-schlack-former-city-manager-bill-monahan",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2026-05-18",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Source re-fetched; excerpt present; tier and attribution correct.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No public position found on housing",
+    "No public position found on transportation",
+    "Campaign website (citizenstoelectbillmonahan.com) could not be fetched (robots disallowed); only the pamphlet statement was available",
+    "No Pamplin 2026 candidate Q&A readable (pamplinmedia.com blocks automated fetch)",
+    "No endorsers listed in pamphlet statement"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Tigard mayor: Hu 10 items (4 bio, 6 positions; 4 from non-pamphlet T1/T2/T3) plus 21 pamphlet endorsements; Monahan 8 items (6 pamphlet, 2 KATU) and no endorsements (none listed in his pamphlet). Disparity documented: Monahan's campaign site is robots-blocked and he lists no endorsers; Hu is the incumbent with an official mayor page and OPB coverage. Spot searches found no further T1/T2/T3 material for either."
+  }
+}

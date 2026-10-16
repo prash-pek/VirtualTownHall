@@ -222,5 +222,63 @@
   "nominating_parties": [
     "Democrat",
     "Working Families"
+  ],
+  "endorsements": [
+    {
+      "id": "jeff-merkley-e1",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Jeff Merkley's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Endorsements: Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-merkley-e2",
+      "endorser": "OR Labor Federation, AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Jeff Merkley's pamphlet statement lists OR Labor Federation, AFL-CIO as an endorser.",
+      "excerpt": "OR Labor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-merkley-e3",
+      "endorser": "Planned Parenthood Action Fund",
+      "endorser_type": "organization",
+      "statement": "Jeff Merkley's pamphlet statement lists Planned Parenthood Action Fund as an endorser.",
+      "excerpt": "Planned Parenthood Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-merkley-e4",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Jeff Merkley's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
   ]
 }

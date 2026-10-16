@@ -27,7 +27,7 @@
       "id": "taylor-giles-b2",
       "topic": "custom:bio",
       "statement": "His city bio says he served two years on the Sherwood Planning Commission.",
-      "excerpt": "Then he served for 2 years on the Sherwood Planning Commission to help plan Sherwood\u2019s responsible growth.",
+      "excerpt": "Then he served for 2 years on the Sherwood Planning Commission to help plan Sherwood’s responsible growth.",
       "source": {
         "url": "https://www.sherwoodoregon.gov/government/city-council/",
         "publisher": "City of Sherwood (City Council page)",
@@ -47,6 +47,19 @@
         "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "taylor-giles-b4",
+      "topic": "custom:bio",
+      "statement": "The city's council page says Giles worked as a Product Manager and then Product Executive focused on improving access to healthcare.",
+      "excerpt": "As a Product Manager and then Product Executive, Taylor has worked to improve access to healthcare for most of his career.",
+      "source": {
+        "url": "https://sherwoodoregon.gov/citycouncil/page/council-members",
+        "publisher": "City of Sherwood, Council Members page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
       }
     }
   ],
@@ -102,7 +115,13 @@
       "step": "5",
       "query_or_url": "\"Taylor Giles\" allowed_domains: portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
       "result": "used"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "https://sherwoodoregon.gov/citycouncil/page/council-members",
+      "result": "used"
     }
   ],
-  "collection_notes": "Washington County Nov 3 2026 voters' pamphlet PDF text truncates at ~119,746 chars (ends in Portland D4, WC-28/29); City of Sherwood section (WC-34) listed in TOC but unreachable via WebFetch, so no pamphlet statement was quoted for any Sherwood candidate. Candidate filing PDFs (SEL 101) on sherwoodoregon.gov are scans with no text. Incumbency: the City Council page lists the candidate as a sitting member with term expiring January 2027; it does not use the word 'incumbent', so incumbent=true is inferred from the official roster. Pamplin Media article 'Taylor Giles appointed to Sherwood City Council' found in search but WebFetch is robots-disallowed, so not cited. 'Taylor Giles' with pamphlet appears in Nafisa Fai's endorsement list (not used)."
+  "collection_notes": "Washington County Nov 3 2026 voters' pamphlet PDF text truncates at ~119,746 chars (ends in Portland D4, WC-28/29); City of Sherwood section (WC-34) listed in TOC but unreachable via WebFetch, so no pamphlet statement was quoted for any Sherwood candidate. Candidate filing PDFs (SEL 101) on sherwoodoregon.gov are scans with no text. Incumbency: the City Council page lists the candidate as a sitting member with term expiring January 2027; it does not use the word 'incumbent', so incumbent=true is inferred from the official roster. Pamplin Media article 'Taylor Giles appointed to Sherwood City Council' found in search but WebFetch is robots-disallowed, so not cited. 'Taylor Giles' with pamphlet appears in Nafisa Fai's endorsement list (not used). Gap-fill 2026-10-16: City bio page fetched; one new bio fact added.",
+  "endorsements": []
 }

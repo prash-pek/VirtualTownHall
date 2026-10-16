@@ -160,5 +160,507 @@
     "corrected": 1,
     "rejected": 0,
     "balance_notes": "Race portland-council-d3 (21 candidates). Every candidate was searched in the same shared sources: the Mercury (2026-09-09), OPB (2026-10-07), the Tribune Q&A (2026-10-13), the Multnomah pamphlet and the 2026 AUD-120 forms. The pamphlet index lists a statement for this candidate, but the collector could not read it. The pamphlet PDF text is 104,260 characters and ends before the Portland section (M-53 to M-60), and the individual statement scan is not linked from the MOO guide page and could not be re-fetched. This is a source-access gap, confirmed. The AUD-120 has no readable text. Koyama Lane has 3 bio and 4 position items. As an incumbent, a T1 council page was used. She states her pronouns as She/Her. The 'no council voting record' gap applies equally to all three incumbents. Incumbent=true confirmed (portland.gov/council lists her for District 3)."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "tiffany-koyama-lane-e1",
+      "endorser": "Portland Association of Teachers",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Portland Association of Teachers as an endorser.",
+      "excerpt": "Portland Association of Teachers",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e2",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e3",
+      "endorser": "Portland Democratic Socialists of America",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Portland Democratic Socialists of America as an endorser.",
+      "excerpt": "Portland Democratic Socialists of America",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e4",
+      "endorser": "Next Up Action Fund",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Next Up Action Fund as an endorser.",
+      "excerpt": "Next Up Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e5",
+      "endorser": "APANO Action Fund",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists APANO Action Fund as an endorser.",
+      "excerpt": "APANO Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e6",
+      "endorser": "Portland For All",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Portland For All as an endorser.",
+      "excerpt": "Portland For All",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e7",
+      "endorser": "Latino Network Action Fund",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Latino Network Action Fund as an endorser.",
+      "excerpt": "Latino Network Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e8",
+      "endorser": "Building Power for Communities of Color",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Building Power for Communities of Color as an endorser.",
+      "excerpt": "Building Power for Communities of Color",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e9",
+      "endorser": "Sierra Club",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Sierra Club as an endorser.",
+      "excerpt": "Sierra Club",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e10",
+      "endorser": "Basic Rights Oregon",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Basic Rights Oregon as an endorser.",
+      "excerpt": "Basic Rights Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e11",
+      "endorser": "The Street Trust Action Fund",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists The Street Trust Action Fund as an endorser.",
+      "excerpt": "The Street Trust Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e12",
+      "endorser": "UFCW 555",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists UFCW 555 as an endorser.",
+      "excerpt": "UFCW 555",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e13",
+      "endorser": "North Coast State Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists North Coast State Carpenters Union as an endorser.",
+      "excerpt": "North Coast State Carpenters Union",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e14",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e15",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e16",
+      "endorser": "LiUNA Local 483",
+      "endorser_type": "organization",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists LiUNA Local 483 as an endorser.",
+      "excerpt": "LiUNA Local 483",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e17",
+      "endorser": "Jamie Dunphy",
+      "endorser_type": "official",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Jamie Dunphy as an endorser.",
+      "excerpt": "Council President Jamie Dunphy",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e18",
+      "endorser": "Khanh Pham",
+      "endorser_type": "official",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Khanh Pham as an endorser.",
+      "excerpt": "Senator Khanh Pham",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e19",
+      "endorser": "Willy Chotzen",
+      "endorser_type": "official",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Willy Chotzen as an endorser.",
+      "excerpt": "Representative Willy Chotzen",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e20",
+      "endorser": "Rob Nosse",
+      "endorser_type": "official",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Rob Nosse as an endorser.",
+      "excerpt": "Representative Rob Nosse",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e21",
+      "endorser": "Thuy Tran",
+      "endorser_type": "official",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Thuy Tran as an endorser.",
+      "excerpt": "Representative Thuy Tran",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e22",
+      "endorser": "Nafisa Fai",
+      "endorser_type": "official",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Nafisa Fai as an endorser.",
+      "excerpt": "County Commissioner Nafisa Fai",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e23",
+      "endorser": "Shannon Singleton",
+      "endorser_type": "official",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Shannon Singleton as an endorser.",
+      "excerpt": "County Commissioner Shannon Singleton",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e24",
+      "endorser": "Duncan Hwang",
+      "endorser_type": "official",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Duncan Hwang as an endorser.",
+      "excerpt": "Metro Councilor Duncan Hwang",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-e25",
+      "endorser": "Jo Ann Hardesty",
+      "endorser_type": "official",
+      "statement": "Tiffany Koyama Lane's pamphlet statement lists Jo Ann Hardesty as an endorser.",
+      "excerpt": "Former Commissioner Jo Ann Hardesty",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -263,5 +263,507 @@
     "corrected": 2,
     "rejected": 0,
     "balance_notes": "All three candidates have T1 pamphlet items plus T2 campaign-site items and T3 coverage (Singleton 5 bio/8 positions, Brim-Edwards 4/8, Meieran 4/9). Coverage comparable. Meieran's T2 items come from fix-multco.com (confirmed via an OPB link); her pamphlet website fixmultco.com and filing website SharonforChair.com could not be fetched. Missed T3: Portland Mercury 2026-03-10 'Inside the race for county chair' (Singleton and Brim-Edwards, pre-dates Meieran's entry) not used."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "shannon-singleton-e1",
+      "endorser": "APANO Action Fund",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists APANO Action Fund as an endorser.",
+      "excerpt": "APANO Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e2",
+      "endorser": "Basic Rights Oregon",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists Basic Rights Oregon as an endorser.",
+      "excerpt": "Basic Rights Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e3",
+      "endorser": "Building Power for Communities of Color",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists Building Power for Communities of Color as an endorser.",
+      "excerpt": "Building Power for Communities of Color",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e4",
+      "endorser": "East County Rising",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists East County Rising as an endorser.",
+      "excerpt": "East County Rising",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e5",
+      "endorser": "The Ebony Collective Coalition",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists The Ebony Collective Coalition as an endorser.",
+      "excerpt": "The Ebony Collective Coalition",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e6",
+      "endorser": "Latino Network Action Fund",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists Latino Network Action Fund as an endorser.",
+      "excerpt": "Latino Network Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e7",
+      "endorser": "The Mother PAC",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists The Mother PAC as an endorser.",
+      "excerpt": "The Mother PAC",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e8",
+      "endorser": "Next Up Action Fund",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists Next Up Action Fund as an endorser.",
+      "excerpt": "Next Up Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e9",
+      "endorser": "Oregon Futures Lab & Color PAC",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists Oregon Futures Lab & Color PAC as an endorser.",
+      "excerpt": "Oregon Futures Lab & Color PAC",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e10",
+      "endorser": "Portland Association of Teachers",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists Portland Association of Teachers as an endorser.",
+      "excerpt": "Portland Association of Teachers",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e11",
+      "endorser": "Portland For All",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists Portland For All as an endorser.",
+      "excerpt": "Portland For All",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e12",
+      "endorser": "Safety and Justice Oregon",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists Safety and Justice Oregon as an endorser.",
+      "excerpt": "Safety and Justice Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e13",
+      "endorser": "Sierra Club",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists Sierra Club as an endorser.",
+      "excerpt": "Sierra Club",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e14",
+      "endorser": "The Street Trust Action Fund",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists The Street Trust Action Fund as an endorser.",
+      "excerpt": "The Street Trust Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e15",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e16",
+      "endorser": "Sunrise Movement PDX",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists Sunrise Movement PDX as an endorser.",
+      "excerpt": "Sunrise Movement PDX",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e17",
+      "endorser": "UNITE HERE Local 8",
+      "endorser_type": "organization",
+      "statement": "Shannon Singleton's pamphlet statement lists UNITE HERE Local 8 as an endorser.",
+      "excerpt": "UNITE HERE Local 8",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e18",
+      "endorser": "Kayse Jama",
+      "endorser_type": "official",
+      "statement": "Shannon Singleton's pamphlet statement lists Kayse Jama as an endorser.",
+      "excerpt": "Senate Majority Leader Kayse Jama",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e19",
+      "endorser": "Candace Avalos",
+      "endorser_type": "official",
+      "statement": "Shannon Singleton's pamphlet statement lists Candace Avalos as an endorser.",
+      "excerpt": "Council Housing Chair Candace Avalos",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e20",
+      "endorser": "Lew Frederick",
+      "endorser_type": "official",
+      "statement": "Shannon Singleton's pamphlet statement lists Lew Frederick as an endorser.",
+      "excerpt": "Lew Frederick",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e21",
+      "endorser": "Khanh Pham",
+      "endorser_type": "official",
+      "statement": "Shannon Singleton's pamphlet statement lists Khanh Pham as an endorser.",
+      "excerpt": "Khanh Pham",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e22",
+      "endorser": "Travis Nelson",
+      "endorser_type": "official",
+      "statement": "Shannon Singleton's pamphlet statement lists Travis Nelson as an endorser.",
+      "excerpt": "Representative Travis Nelson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e23",
+      "endorser": "Eddie Wang",
+      "endorser_type": "official",
+      "statement": "Shannon Singleton's pamphlet statement lists Eddie Wang as an endorser.",
+      "excerpt": "Eddie Wang, Portland Public School Board Chair",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e24",
+      "endorser": "Juan Carlos Gonzalez",
+      "endorser_type": "official",
+      "statement": "Shannon Singleton's pamphlet statement lists Juan Carlos Gonzalez as an endorser.",
+      "excerpt": "Metro Council President Juan Carlos Gonzalez",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "shannon-singleton-e25",
+      "endorser": "Jamie Dunphy",
+      "endorser_type": "official",
+      "statement": "Shannon Singleton's pamphlet statement lists Jamie Dunphy as an endorser.",
+      "excerpt": "Portland City Council President Jamie Dunphy",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

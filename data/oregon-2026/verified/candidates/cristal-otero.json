@@ -234,5 +234,27 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Race portland-council-d3 (21 candidates). Every candidate was searched in the same shared sources: the Mercury (2026-09-09), OPB (2026-10-07), the Tribune Q&A (2026-10-13), the Multnomah pamphlet and the 2026 AUD-120 forms. Otero has 4 bio and 7 position items (T1 pamphlet, T3). The website cristalforportland.com is printed in the pamphlet. Incumbent=false confirmed."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "cristal-otero-e1",
+      "endorser": "Sierra Club Oregon Chapter",
+      "endorser_type": "organization",
+      "statement": "Cristal Otero's pamphlet statement lists Sierra Club Oregon Chapter as an endorser.",
+      "excerpt": "ENDORSED BY: Sierra Club Oregon Chapter",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 59",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

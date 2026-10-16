@@ -7,7 +7,7 @@
   "summary": "A non-binding advisory question. Troutdale dissolved its police department in 2015 and contracts with the Multnomah County Sheriff's Office; contract costs have since risen. The vote asks whether the City should continue planning a municipal police department. It does not authorize creating one, any tax, fee or expenditure, hiring, or ending the contract.",
   "yes_means": "A yes vote advises the City that voters support proceeding with planning and creation of a Troutdale Police Department; the vote is non-binding.",
   "no_means": "A no vote advises the City that voters do not support proceeding with planning and creation of a Troutdale Police Department; the vote is non-binding.",
-  "fiscal_impact": "None directly: the ballot summary states the advisory vote does not authorize or impose any tax, fee, or expenditure. The City's explanatory statement says preliminary analyses project a municipal department at a cost comparable to, and potentially less than, continued contracted services, although actual costs would depend on implementation, staffing, labor agreements, equipment, facilities and economic conditions.",
+  "fiscal_impact": "None directly: the ballot summary states the advisory vote does not authorize or impose any tax, fee, or expenditure. The City's preliminary analysis projects a municipal department at a cost comparable to, and potentially less than, continued contracted services.",
   "full_text_url": "https://multco.us/file/measure_26-266/download",
   "arguments": [
     {
@@ -17,41 +17,20 @@
       "author": "City of Troutdale (explanatory statement, submitted by Sarah Skroch, City Recorder)",
       "topic": "public-safety",
       "statement": "The City's explanatory statement says supporters cite local control over policing priorities, direct accountability to City leadership, and officers assigned only to Troutdale.",
-      "excerpt": "Supporters of a municipal Police Department identify potential benefits including local control over policing priorities, direct accountability to City leadership, officers assigned exclusively to the City of Troutdale,",
+      "excerpt": "Supporters of a municipal Police Department identify potential benefits including local control over policing priorities, direct accountability to City leadership, officers assigned exclusively to the City of Troutdale",
       "source": {
-        "url": "https://multco.us/info/measure-26-266-advisory-vote-should-troutdale-create-municipal-police-department",
-        "publisher": "Multnomah County Elections Division",
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-94)",
         "tier": "T1",
         "published_at": null,
-        "retrieved_at": "2026-10-14"
+        "retrieved_at": "2026-10-14",
+        "page": "M-94"
       },
       "verification": {
-        "status": "verified",
+        "status": "corrected",
         "checks_failed": [],
-        "note": "Excerpt present in the City explanatory statement (multco.us).",
-        "verified_at": "2026-10-14"
-      }
-    },
-    {
-      "id": "troutdale-26-266-y2",
-      "side": "yes",
-      "kind": "explainer",
-      "author": "City of Troutdale (explanatory statement, submitted by Sarah Skroch, City Recorder)",
-      "topic": "public-safety",
-      "statement": "The explanatory statement says supporters note a locally managed department may make future police service costs more predictable.",
-      "excerpt": "Supporters also note that a locally managed department may provide greater predictability in future police service costs",
-      "source": {
-        "url": "https://multco.us/info/measure-26-266-advisory-vote-should-troutdale-create-municipal-police-department",
-        "publisher": "Multnomah County Elections Division",
-        "tier": "T1",
-        "published_at": null,
-        "retrieved_at": "2026-10-14"
-      },
-      "verification": {
-        "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt present in the City explanatory statement.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "Excerpt verbatim in the pamphlet explanatory statement (M-94); source URL pointed to the pamphlet; trailing comma trimmed."
       }
     },
     {
@@ -72,8 +51,8 @@
       "verification": {
         "status": "verified",
         "checks_failed": [],
-        "note": "Verbatim; KATU, Victor Park, 2026-07-14; Josh Smith is identified as a Troutdale resident.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "T3: KATU, 2026-07-14; quote confirmed on the article with speaker attribution. Placed after pamphlet items."
       }
     },
     {
@@ -94,8 +73,77 @@
       "verification": {
         "status": "verified",
         "checks_failed": [],
-        "note": "Verbatim; KATU 2026-07-14; David Hill is identified as a resident since 1995.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "T3: KATU, 2026-07-14; quote confirmed on the article with speaker attribution. Placed after pamphlet items."
+      }
+    },
+    {
+      "id": "troutdale-26-266-n5",
+      "side": "no",
+      "kind": "argument",
+      "author": "Nicole Morrisey O'Donnell, Multnomah County Sheriff",
+      "topic": "public-safety",
+      "statement": "Sheriff Nicole Morrisey O'Donnell argues that ending the contract and creating a police department would require Troutdale to hire its own workforce and build its own operations.",
+      "excerpt": "Ending the partnership with MCSO and establishing an entire police department would require Troutdale to hire its own workforce and build and sustain its own operations.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-95)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-95"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "troutdale-26-266-n6",
+      "side": "no",
+      "kind": "argument",
+      "author": "Eric Anderson, former Troutdale City Councilor",
+      "topic": "public-safety",
+      "statement": "Former City Councilor Eric Anderson, who voted for the 2015 Sheriff's Office contract, argues a small municipal department would mean recreating much of the existing infrastructure.",
+      "excerpt": "Creating a small municipal department means recreating much of that infrastructure ourselves.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-95)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-95"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "troutdale-26-266-n7",
+      "side": "no",
+      "kind": "argument",
+      "author": "Greg Vining, retired detective and union leader",
+      "topic": "public-safety",
+      "statement": "Greg Vining, a retired Troutdale-area detective and union leader, argues the City's plan for a municipal department is a limited-service model he describes as unable to meet the city's basic needs.",
+      "excerpt": "The current fully functioning service contract with the Sherrif’s Office is the only reasonable and sustainable option.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-96)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-96"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
       }
     },
     {
@@ -107,39 +155,18 @@
       "statement": "The explanatory statement says those favoring the current contract note it provides access to regional investigative resources, specialized units and a larger law enforcement network.",
       "excerpt": "They note that the current model provides access to regional investigative resources, specialized units, emergency response capabilities, established administrative systems, and a larger regional law enforcement network.",
       "source": {
-        "url": "https://multco.us/info/measure-26-266-advisory-vote-should-troutdale-create-municipal-police-department",
-        "publisher": "Multnomah County Elections Division",
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-94)",
         "tier": "T1",
         "published_at": null,
-        "retrieved_at": "2026-10-14"
+        "retrieved_at": "2026-10-14",
+        "page": "M-94"
       },
       "verification": {
-        "status": "verified",
+        "status": "corrected",
         "checks_failed": [],
-        "note": "Excerpt present in the City explanatory statement.",
-        "verified_at": "2026-10-14"
-      }
-    },
-    {
-      "id": "troutdale-26-266-n2",
-      "side": "no",
-      "kind": "explainer",
-      "author": "City of Troutdale (explanatory statement, submitted by Sarah Skroch, City Recorder)",
-      "topic": "public-safety",
-      "statement": "The explanatory statement says contract supporters point to the costs and challenges of starting a new department, including recruiting staff, buying equipment, and writing policies.",
-      "excerpt": "They also point to the costs and operational challenges associated with establishing a new Police Department, including recruiting and retaining qualified personnel, purchasing equipment, developing policies and procedures,",
-      "source": {
-        "url": "https://multco.us/info/measure-26-266-advisory-vote-should-troutdale-create-municipal-police-department",
-        "publisher": "Multnomah County Elections Division",
-        "tier": "T1",
-        "published_at": null,
-        "retrieved_at": "2026-10-14"
-      },
-      "verification": {
-        "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt present in the City explanatory statement.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "Excerpt verbatim in the pamphlet explanatory statement (M-94); source URL pointed to the pamphlet; moved after the three filed pamphlet arguments."
       }
     },
     {
@@ -160,8 +187,8 @@
       "verification": {
         "status": "verified",
         "checks_failed": [],
-        "note": "Verbatim; KATU 2026-07-14. Zwick is president of the deputies' union, an interested party; the attribution states his role.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "T3: KATU, 2026-07-14; quote confirmed on the article with speaker attribution. Placed after pamphlet items."
       }
     },
     {
@@ -182,8 +209,8 @@
       "verification": {
         "status": "verified",
         "checks_failed": [],
-        "note": "Verbatim; KATU 2026-07-14.",
-        "verified_at": "2026-10-14"
+        "verified_at": "2026-10-16",
+        "note": "T3: KATU, 2026-07-14; quote confirmed on the article with speaker attribution. Placed after pamphlet items."
       }
     }
   ],
@@ -191,44 +218,111 @@
     "public-safety"
   ],
   "gaps": [
-    "Official voters' pamphlet arguments (yes and no) could not be read: the county pamphlet PDF text is truncated before the measures section."
+    "No argument in favor was filed in the county voters' pamphlet (M-94: 'No arguments in favor of this measure were filed'); YES-side items are the City's explanatory statement and two news-sourced quotes.",
+    "Three arguments in opposition were filed (M-95 to M-96); all three are itemized."
+  ],
+  "endorsements": [
+    {
+      "id": "troutdale-26-266-e1",
+      "endorser": "Nicole Morrisey O'Donnell, Multnomah County Sheriff",
+      "endorser_type": "official",
+      "side": "no",
+      "statement": "Multnomah County Sheriff Nicole Morrisey O'Donnell furnished an argument in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Nicole Morrisey O’Donnell, Multnomah County Sheriff",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-95)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-95"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "troutdale-26-266-e2",
+      "endorser": "Eric Anderson",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Eric Anderson, former Troutdale City Councilor, furnished an argument in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Eric Anderson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-95)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-95"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "troutdale-26-266-e3",
+      "endorser": "Greg Vining",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Greg Vining, a retired detective and union leader, furnished an argument in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Greg Vining",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-96)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-96"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    }
   ],
   "ballot_label_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Caption and question match the multco.us page.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "summary_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Facts (2015 dissolution, cost increase, non-binding, no tax/fee/expenditure; no authority to create a department, hire, or end the contract) are confirmed in the official summary and explanatory statement.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "yes_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Consistent with the official question; non-binding.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "no_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Consistent with the official question; non-binding.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "fiscal_impact_verification": {
-    "status": "corrected",
-    "checks_failed": [
-      "paraphrase_faithful"
-    ],
-    "note": "Added the explanatory statement's caveat that actual costs depend on implementation, staffing, labor agreements, equipment, facilities and economic conditions, and attributed the cost projection to the explanatory statement.",
-    "verified_at": "2026-10-14"
+    "status": "verified",
+    "checks_failed": [],
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "verification_summary": {
-    "verified": 8,
-    "corrected": 0,
+    "verified": 6,
+    "corrected": 6,
     "rejected": 0,
-    "balance_notes": "4 YES / 4 NO. Each side has 2 official explanatory-statement items (T1) and 2 press items (KATU, T3). There are 0 filed arguments on either side. The sides are balanced in count and tier. COMPLETENESS GAP: filed opposition arguments exist, 26-266_opposition_01-03.pdf (3 arguments, https://multco.us/file/26-266_opposition_01-03.pdf/download). They are scanned and unreadable. No argument in favor was filed."
+    "balance_notes": "0 YES filed arguments / 3 NO filed arguments (M-95 to M-96). The yes side has only the explainer and two T3 resident quotes; the no side also has the explainer and two T3 quotes from one speaker."
   }
 }

@@ -1,0 +1,155 @@
+{
+  "id": "mark-norman",
+  "name": "G Mark Norman",
+  "race_id": "or-house-27",
+  "party": "Republican",
+  "incumbent": null,
+  "name_variants": [
+    "Mark Norman"
+  ],
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "mark-norman-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Norman lists his occupation as veterinarian, with a background as a small-animal veterinarian and co-founder of Bethany Family Pet Clinic.",
+      "excerpt": "Occupation: Veterinarian Occupational Background: Small-animal veterinarian; co-founder, Bethany Family Pet Clinic",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-norman-b2",
+      "topic": "custom:background",
+      "statement": "Norman lists the United States Naval Academy and a DVM from Iowa State University.",
+      "excerpt": "Educational Background: United States Naval Academy; Iowa State University College of Veterinary Medicine, DVM",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-norman-b3",
+      "topic": "custom:background",
+      "statement": "Norman lists retired U.S. Navy and Reserve service and the Oregon Veterinary Medical Examining Board.",
+      "excerpt": "Prior Governmental Experience: U.S. Navy and Reserve (retired); Oregon Veterinary Medical Examining Board.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "mark-norman-p1",
+      "topic": "taxes",
+      "statement": "Norman says Oregon should spend wisely and reduce waste before asking families and employers for more, and he opposes DSA tax proposals.",
+      "excerpt": "Oregon should first spend tax dollars wisely, control costs, reduce waste, and make government accountable for results before asking families and employers for more.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-norman-p2",
+      "topic": "local-business",
+      "statement": "Norman says he wants small businesses to succeed, responsible development and good-paying jobs.",
+      "excerpt": "I want small businesses to succeed, responsible development to create opportunity, and good-paying jobs to grow here.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-norman-p3",
+      "topic": "education",
+      "statement": "Norman says he will work for better school outcomes by supporting students, teachers, academic basics and career readiness.",
+      "excerpt": "I will work for better school outcomes by supporting students, teachers, academic basics, and career readiness.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-norman-p4",
+      "topic": "public-safety",
+      "statement": "Norman says he will support law enforcement, behavioral-health resources and practical solutions to homelessness and addiction.",
+      "excerpt": "I will support law enforcement, behavioral-health resources, and practical solutions to homelessness and addiction",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No bio, positions or website found; only press mention is that he ran unopposed in the Republican primary"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract mark-norman.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 48)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office found",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.wweek.com/news/2026/04/29/wws-may-2026-endorsements-oregon-house/",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"G Mark Norman\" Oregon House 27 Beaverton 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"G Mark Norman\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"G Mark Norman\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"G Mark Norman\"",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Inventory name 'G Mark Norman'; searches also tried 'Mark Norman'. Only hit: Willamette Week May 2026 endorsements (no background). Not in Capital Chronicle HD 27 Democratic guide (expected). Ballotready listing appeared in search but is not an allowed source. Pamphlet statement: SOS Washington edition p. 48 (same text in other editions)."
+}

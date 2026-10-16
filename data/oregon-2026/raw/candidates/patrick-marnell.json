@@ -1,0 +1,75 @@
+{
+  "id": "patrick-marnell",
+  "name": "Patrick Marnell",
+  "race_id": "or-house-18",
+  "party": "Libertarian",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "patrick-marnell-b1",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says Marnell, a Libertarian, ran for Oregon State Senate District 9 in 2020.",
+      "excerpt": "Patrick Marnell (Libertarian Party) ran for election to the Oregon State Senate to represent District 9.",
+      "source": {
+        "url": "https://ballotpedia.org/Patrick_Marnell",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No policy positions or occupation found",
+    "No campaign website found",
+    "Voters' pamphlet statement: none filed (name marked with an asterisk, 'Candidate chose not to submit a voters' pamphlet statement', in the SOS pamphlet candidate list)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet candidate list (page 26/27 of the county editions): https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+      "result": "not found (no statement filed)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office found",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website",
+      "result": "not found"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Patrick_Marnell",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Patrick Marnell\" Oregon House 18 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Patrick Marnell\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Patrick Marnell\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Patrick Marnell\"",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Ballotpedia page covers 2020 and 2016 campaigns only and does not mention 2026."
+}

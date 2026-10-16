@@ -1,0 +1,124 @@
+{
+  "id": "craig-dirksen",
+  "name": "Craig Dirksen",
+  "name_variants": [],
+  "race_id": "king-city-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.ci.king-city.or.us/councilors_-_bios.php",
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "craig-dirksen-b1",
+      "topic": "custom:bio",
+      "statement": "Dirksen's pamphlet statement lists a background in mechanical engineering.",
+      "excerpt": "Mechanical Engineering",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "craig-dirksen-b2",
+      "topic": "custom:bio",
+      "statement": "Dirksen's pamphlet statement lists Tigard City Council as prior governmental experience.",
+      "excerpt": "Tigard City Council",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "craig-dirksen-b3",
+      "topic": "custom:bio",
+      "statement": "Dirksen's pamphlet statement says he and his wife have lived in King City for four years.",
+      "excerpt": "Craig and his wife Jackie have lived in King City for four years",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "craig-dirksen-p1",
+      "topic": "custom:campaign-finance",
+      "statement": "Dirksen's pamphlet statement says he seeks no endorsements and no campaign donations.",
+      "excerpt": "Craig seeks no endorsements and no donations to his campaign from anyone and is not beholden to anyone",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "craig-dirksen-p2",
+      "topic": "custom:governance",
+      "statement": "Dirksen's pamphlet statement says he would be a rational, moderate voice on the council.",
+      "excerpt": "would be a rational, moderate voice on Council to keep King City a great place to live",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 press coverage found",
+    "No official page for his past Tigard/Metro service fetched (Metro news listing did not name him)"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "King City: pamphlet-only for all six candidates (WC-19 to WC-22), 5-8 items each; no websites or 2026 press found for any. Balanced."
+  },
+  "endorsements": []
+}

@@ -1,0 +1,288 @@
+{
+  "id": "mary-dirksen",
+  "name": "Mary Dirksen",
+  "race_id": "or-senate-19",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": "http://marydirksen.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+  "bio": [
+    {
+      "id": "mary-dirksen-b1",
+      "topic": "custom:background",
+      "statement": "In the voters' pamphlet statement, Dirksen lists occupation as ODOT senior policy analyst, with 24 years at ODOT.",
+      "excerpt": "Occupation: ODOT Senior Policy Analyst; Mom Occupational Background: 24 years serving Oregonians at ODOT.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mary-dirksen-b2",
+      "topic": "custom:background",
+      "statement": "Dirksen lists dual bachelor's degrees in human resources management and general management from Portland State University.",
+      "excerpt": "Educational Background: Dual bachelor’s degrees in Human Resources Management and General Management, Portland State University.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mary-dirksen-b3",
+      "topic": "custom:background",
+      "statement": "Dirksen lists advisory committees on trafficking intervention, Tualatin budget and U.S. Department of Transportation, a Coffee Creek Correctional Facility volunteer role and USDA Forest Service.",
+      "excerpt": "Prior Governmental Experience: Oregon Trafficking Intervention Advisory Committee; U.S. Department of Transportation Advisory Committee on Human Trafficking; City of Tualatin Budget Advisory Committee; 15-year Coffee Creek Correctional Facility volunteer; USDA Forest Service.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mary-dirksen-b4",
+      "topic": "custom:bio",
+      "statement": "Her campaign site says she volunteered 15 years at Coffee Creek Correctional Facility and is a certified Master Gardener.",
+      "excerpt": "I volunteered for 15 years at Coffee Creek Correctional Facility and am a certified Master Gardener.",
+      "source": {
+        "url": "http://marydirksen.com",
+        "publisher": "Mary Dirksen campaign website (domain printed in voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "mary-dirksen-p1",
+      "topic": "public-safety",
+      "statement": "Dirksen says they will prioritize public safety by putting victims first, supporting law enforcement and holding repeat offenders accountable.",
+      "excerpt": "Public safety: putting victims first, supporting law enforcement, and holding repeat offenders accountable.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mary-dirksen-p2",
+      "topic": "taxes",
+      "statement": "Dirksen says they will prioritize fiscal responsibility, including reining in spending, transparency and tax relief for working families.",
+      "excerpt": "Fiscal responsibility: reining in wasteful spending, demanding transparency, and delivering meaningful tax relief so working families can keep more of what they earn.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mary-dirksen-p3",
+      "topic": "education",
+      "statement": "Dirksen says they will prioritize education, including strong academics, curriculum transparency and parental involvement.",
+      "excerpt": "Education: focusing on strong academics, curriculum transparency, parental involvement, and real opportunity for every student.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mary-dirksen-p4",
+      "topic": "economy",
+      "statement": "Dirksen says they will prioritize economic growth so small businesses thrive and cost of living no longer pushes families out.",
+      "excerpt": "Economic growth: making Oregon a place where small businesses thrive so the cost of living no longer pushes families out.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No public information found outside the pamphlet; Ballotpedia profile not fetched"
+  ],
+  "endorsements": [
+    {
+      "id": "mary-dirksen-e1",
+      "endorser": "Julie Parrish, Former HD37 State Representative, Attorney",
+      "endorser_type": "official",
+      "statement": "Mary Dirksen's pamphlet statement lists Julie Parrish, Former HD37 State Representative, Attorney as an endorser.",
+      "excerpt": "Julie Parrish, Former HD37 State Representative, Attorney",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mary-dirksen-e2",
+      "endorser": "Oregon Small Business Association",
+      "endorser_type": "organization",
+      "statement": "Mary Dirksen's pamphlet statement lists Oregon Small Business Association as an endorser.",
+      "excerpt": "Oregon Small Business Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mary-dirksen-e3",
+      "endorser": "Taxpayers Association of Oregon",
+      "endorser_type": "organization",
+      "statement": "Mary Dirksen's pamphlet statement lists Taxpayers Association of Oregon as an endorser.",
+      "excerpt": "Taxpayers Association of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mary-dirksen-e4",
+      "endorser": "Brian and Jamie Smith, Albina Co. Inc, Tualatin",
+      "endorser_type": "person",
+      "statement": "Mary Dirksen's pamphlet statement lists Brian and Jamie Smith, Albina Co. Inc, Tualatin as an endorser.",
+      "excerpt": "Brian and Jamie Smith, Albina Co. Inc, Tualatin",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mary-dirksen-e5",
+      "endorser": "Dr. Jo Nielsen, Ret. Pediatrician",
+      "endorser_type": "person",
+      "statement": "Mary Dirksen's pamphlet statement lists Dr. Jo Nielsen, Ret. Pediatrician as an endorser.",
+      "excerpt": "Dr. Jo Nielsen, Ret. Pediatrician",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "SD19: Wagner 14 items (T1 pamphlet and official page, T2 site, T3 Portland Tribune) + 18 endorsements; Dirksen 7 items (all T1 pamphlet) + 5 endorsements. Dirksen has no T2/T3 items: her site marydirksen.com and a oregonvotes.gov voters-guide page exist and were not fetched; Ballotpedia profile also not fetched (gap says so). Mild imbalance explained by challenger coverage; flagged as possible under-search for Dirksen."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "leo-morley",
+  "name": "Leo Morley",
+  "race_id": "or-house-46",
+  "party": "Republican",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "leo-morley-b1",
+      "topic": "custom:background",
+      "statement": "Ballotpedia lists Leo Morley, a Republican, as a candidate for Oregon House District 46 in 2026.",
+      "excerpt": "Leo Morley (Republican Party) is running for election to the Oregon House of Representatives to represent District 46.",
+      "source": {
+        "url": "https://ballotpedia.org/Leo_Morley",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No biography details or occupation found",
+    "No policy positions found",
+    "Ballotpedia: has not completed the 2026 Candidate Connection survey",
+    "No voters' pamphlet statement filed (asterisk on the SOS pamphlet list of candidates, p. 26)"
+  ],
+  "collection_notes": "Ballotpedia notes earlier nonpartisan runs (2021 Multnomah ESD; 2025 Urban Flood Safety district); not itemized because no quotable text. Not incumbent per inventory; null. No campaign domain confirmed. Step 1 complete: no statement in Multnomah, Washington or Clackamas SOS extracts.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract leo-morley.txt (Multnomah edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf)",
+      "result": "not found (no statement filed: candidate is marked with an asterisk in the Multnomah edition list of candidates, p. 26; no other page names the candidate)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "not applicable (no public office held; none found)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Leo Morley\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: unrelated",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: vote411 results for other offices not read",
+      "result": "nothing relevant"
+    }
+  ],
+  "endorsements": []
+}

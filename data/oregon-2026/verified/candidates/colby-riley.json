@@ -1,0 +1,68 @@
+{
+  "id": "colby-riley",
+  "name": "Colby E Riley",
+  "name_variants": [
+    "Colby Riley"
+  ],
+  "race_id": "rockwood-water-pud-sub-district-2",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "colby-riley-b1",
+      "topic": "custom:bio",
+      "statement": "Riley's candidate filing says he has served on the Rockwood board of directors for nine years and was reelected twice.",
+      "excerpt": "I have served on the Rockwood Board of Directors for nine years. I was reelected twice by the residence in my district.",
+      "source": {
+        "url": "https://multco.us/file/colby_e._riley_candidate_filing-0/download",
+        "publisher": "Multnomah County Elections (candidate filing form SEL 101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Verified; the filing text layer lacks office/incumbent fields but is the filing linked under Rockwood sub-district 2 on multco.us/node/653899.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "colby-riley-b2",
+      "topic": "custom:bio",
+      "statement": "His candidate filing says he served as board chairman in 2019 and 2023.",
+      "excerpt": "I have served as the Chairman 2019, and 2023.",
+      "source": {
+        "url": "https://multco.us/file/colby_e._riley_candidate_filing-0/download",
+        "publisher": "Multnomah County Elections (candidate filing form SEL 101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Verified; same filing.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No voters' pamphlet statement filed (asterisk in the Nov 2026 county pamphlet Candidate Index; none in the Military & Overseas guide)",
+    "Filing form fields for occupation, education and incumbency checkbox were not machine-readable",
+    "No positions found in any T1/T2/T3 source",
+    "No campaign website or T3 coverage found"
+  ],
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Incumbent set to null: the filing text layer has no readable incumbent field and Rockwood's roster page could not be fetched (robots); his own text says nine years on the board, which is not explicit current incumbency. Pamphlet non-filer (asterisk)."
+  }
+}

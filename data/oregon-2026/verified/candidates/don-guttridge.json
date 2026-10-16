@@ -1,0 +1,154 @@
+{
+  "id": "don-guttridge",
+  "name": "Don Guttridge",
+  "race_id": "clackamas-swcd-zone-5",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://conservationdistrict.org/our-people",
+  "name_variants": [
+    "Donald Guttridge"
+  ],
+  "occupation": "Home designer; farmer; Clackamas SWCD Director",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "don-guttridge-b1",
+      "topic": "custom:background",
+      "statement": "Guttridge's pamphlet statement lists prior governmental experience as USMC Reserves for 13 years and Clackamas SWCD board member.",
+      "excerpt": "Prior Governmental Experience: USMC Reserves; 13 years, Honorable Discharge 06/09/1990; Clackamas Soil & Water Conservation District; Board of Directors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 59 (printed C-58)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet text confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "don-guttridge-b2",
+      "topic": "custom:background",
+      "statement": "Guttridge's pamphlet statement says Guttridge was raised on a Century Farm (1874) and has operated a portion of it for 34 years.",
+      "excerpt": "I have been raised on a Century Farm (1874), and operated a portion of that same farm for the past 34 years with my wife and daughters.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 59 (printed C-58)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "don-guttridge-b3",
+      "topic": "custom:background",
+      "statement": "The district's board page lists Guttridge as Zone 5 director and chair, term expiring in 2026.",
+      "excerpt": "5 Don Guttridge Biography Chair 2026 Estacada and central/east Clackamas County",
+      "source": {
+        "url": "https://conservationdistrict.org/our-people",
+        "publisher": "Clackamas Soil and Water Conservation District (official site), Our People",
+        "tier": "T1",
+        "published_at": "2026-09-01",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_incomplete"
+        ],
+        "note": "Excerpt was a bare name; replaced with the board table row (zone, name, role, term) that supports the statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "don-guttridge-p1",
+      "topic": "environment",
+      "statement": "Guttridge's pamphlet statement says the district works one on one to help conserve soil and clean water without regulatory or enforcement mandates.",
+      "excerpt": "The District works one on one to help conserve soil and clean water without any regulatory or enforcement mandates.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 59 (printed C-58)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "don-guttridge-p2",
+      "topic": "agriculture",
+      "statement": "Guttridge's pamphlet statement calls conservation and wise use of natural resources a way of life and describes serving on the district board as giving back.",
+      "excerpt": "Conservation and wise-use of natural resources is a way of life that I am proud to be involved in, serving on the Board of the Clackamas Soil and Water Conservation District is merely “giving-back” to the community I live in.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 59 (printed C-58)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_incomplete"
+        ],
+        "note": "Statement covers the giving-back clause but excerpt stopped before it; excerpt extended. Pronoun-free rewrite (candidate states no pronouns).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "don-guttridge-p3",
+      "topic": "environment",
+      "statement": "In a 2023 district profile, Guttridge says Guttridge always promotes conservation ideals with clients.",
+      "excerpt": "I always promote conservation ideals with my clients,",
+      "source": {
+        "url": "https://conservationdistrict.org/2023/meet-don-guttridge-clackamas-swcd-zone-5-director.html",
+        "publisher": "Clackamas Soil and Water Conservation District (official site), 'Meet Don Guttridge'",
+        "tier": "T1",
+        "published_at": "2023-03-17",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). Article dated 2023-03-17; dated in statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Unopposed; no campaign website found",
+    "Pamphlet statement lists no endorsers"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "Clackamas SWCD: four separate unopposed seats. Fantz 3 bio/2 positions, Guttridge 3/3, Zuber 2/0, Passarella 1/0. Only Fantz and Guttridge filed pamphlet statements; Zuber and Passarella have no statement (documented gaps)."
+  }
+}

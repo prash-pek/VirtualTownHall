@@ -146,5 +146,217 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Statewide Voters' Pamphlet, Clackamas County edition (Book14): WebFetch text truncates before the State Representative District 40 statements (index lists pp. 50-51; text cuts off at p. 43). HD40 incumbent per official page is Annessa Hartman (not on this ballot); incumbent_source_url is that page. Capital Chronicle guide is for the May 2026 Democratic primary. Matches inventory."
+  "collection_notes": "Statewide Voters' Pamphlet, Clackamas County edition (Book14): WebFetch text truncates before the State Representative District 40 statements (index lists pp. 50-51; text cuts off at p. 43). HD40 incumbent per official page is Annessa Hartman (not on this ballot); incumbent_source_url is that page. Capital Chronicle guide is for the May 2026 Democratic primary. Matches inventory.",
+  "endorsements": [
+    {
+      "id": "michael-sugar-e1",
+      "endorser": "Denyse McGriff",
+      "endorser_type": "official",
+      "statement": "Michael W Sugar's pamphlet statement lists Denyse McGriff as an endorser.",
+      "excerpt": "Denyse McGriff, Oregon City Mayor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e2",
+      "endorser": "Michael Milch",
+      "endorser_type": "official",
+      "statement": "Michael W Sugar's pamphlet statement lists Michael Milch as an endorser.",
+      "excerpt": "Michael Milch, Gladstone Mayor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e3",
+      "endorser": "Vincent Whitehead",
+      "endorser_type": "official",
+      "statement": "Michael W Sugar's pamphlet statement lists Vincent Whitehead as an endorser.",
+      "excerpt": "Vincent Whitehead, Johnson City Mayor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e4",
+      "endorser": "Craig Roberts",
+      "endorser_type": "official",
+      "statement": "Michael W Sugar's pamphlet statement lists Craig Roberts as an endorser.",
+      "excerpt": "Craig Roberts, Former Clackamas County Sheriff and current",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e5",
+      "endorser": "Mark Meek",
+      "endorser_type": "official",
+      "statement": "Michael W Sugar's pamphlet statement lists Mark Meek as an endorser.",
+      "excerpt": "Senator Mark Meek",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e6",
+      "endorser": "Trooper PAC",
+      "endorser_type": "organization",
+      "statement": "Michael W Sugar's pamphlet statement lists Trooper PAC as an endorser.",
+      "excerpt": "Trooper PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e7",
+      "endorser": "Oregon Farm Bureau",
+      "endorser_type": "organization",
+      "statement": "Michael W Sugar's pamphlet statement lists Oregon Farm Bureau as an endorser.",
+      "excerpt": "Oregon Farm Bureau",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e8",
+      "endorser": "North Clackamas Chamber",
+      "endorser_type": "organization",
+      "statement": "Michael W Sugar's pamphlet statement lists North Clackamas Chamber as an endorser.",
+      "excerpt": "North Clackamas Chamber",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e9",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Michael W Sugar's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e10",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Michael W Sugar's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e11",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Michael W Sugar's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e12",
+      "endorser": "Oregon Building Trades Unions",
+      "endorser_type": "organization",
+      "statement": "Michael W Sugar's pamphlet statement lists Oregon Building Trades Unions as an endorser.",
+      "excerpt": "Oregon Building Trades Unions",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e13",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Michael W Sugar's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e14",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Michael W Sugar's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michael-sugar-e15",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Michael W Sugar's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

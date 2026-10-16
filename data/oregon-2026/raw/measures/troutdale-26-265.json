@@ -7,7 +7,7 @@
   "summary": "Troutdale contracts for police, fire and 911 services. This five-year local option levy of $1.60 per $1,000 of assessed value would fund only police, fire and 911 operations, and the Council would replace the current $25 Public Safety Fee. The City says costs are rising faster than available funding and projects a $3 million gap next year growing to over $5 million by 2030.",
   "yes_means": "A yes vote approves a five-year Troutdale local option property tax levy of $1.60 per $1,000 of assessed value for police, fire and 911 services.",
   "no_means": "A no vote rejects the proposed five-year levy for police, fire and 911 services.",
-  "fiscal_impact": "Estimated collections: $3,556,392 (2027-28), $3,663,084 (2028-29), $3,772,977 (2029-30), $3,886,166 (2030-31), $4,002,751 (2031-32). An average home assessed at about $267,800 would pay about $428.48 a year; the summary says the levy would replace the $25 Public Safety Fee (KATU reports the fee as $300 a year and a net increase of about $128).",
+  "fiscal_impact": "Per the ballot summary: estimated collections $3,556,392 (2027-28), $3,663,084 (2028-29), $3,772,977 (2029-30), $3,886,166 (2030-31) and $4,002,751 (2031-32). An average Troutdale home assessed at about $267,800 would pay about $428.48 a year; because the current Public Safety Utility Fee (about $300 a year) would be eliminated, the summary estimates a net annual increase of about $128.48.",
   "full_text_url": "https://multco.us/file/measure_26-265/download",
   "arguments": [
     {
@@ -41,6 +41,23 @@
         "published_at": "2026-09-07",
         "retrieved_at": "2026-10-14"
       }
+    },
+    {
+      "id": "troutdale-26-265-n2",
+      "side": "no",
+      "kind": "argument",
+      "author": "Eric Anderson, former Troutdale City Councilor",
+      "topic": "public-safety",
+      "statement": "Former Troutdale City Councilor Eric Anderson argues the five-year levy is a temporary measure and that the City should finish its service-agreement restructuring before asking taxpayers for more.",
+      "excerpt": "A temporary tax does not fix the underlying cost structure; it buys five years while taxpayers pay more.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-93)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-93"
+      }
     }
   ],
   "topics": [
@@ -48,10 +65,9 @@
     "taxes"
   ],
   "gaps": [
-    "No NO arguments found: no opposition statement in any reachable official source or T3 outlet; voters' pamphlet arguments section could not be read.",
-    "Official voters' pamphlet arguments (yes and no) could not be read: the county pamphlet PDF text is truncated before the measures section."
+    "No argument in favor was filed in the county voters' pamphlet (M-92: 'No arguments in favor of this measure were filed'); the only YES-side items are the City's explanatory statement and a mayor interview."
   ],
-  "collection_notes": "Voters' pamphlet: the SOS Book 13 PDF text (120,052 chars) ends at the statewide section; the multco.us English (104,260 chars) and large-print (105,643 chars) county pamphlet PDFs are cut off by WebFetch text extraction in the candidate statements, before the Measures & Arguments section, so printed pamphlet arguments (if any) could not be read. The SOS Spanish-language Multnomah guide (ES-MUL-1126) was checked only to see whether arguments exist: per the fetch tool it prints the measure and an explanation for each of 26-265 to 26-269 but no argument sections; translated guides may omit arguments, so this is not conclusive. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction (City of Troutdale) match the multco.us page and filings list (filed 8/12/2026). The ballot summary calls the fee the '$25 Public Safety Fee' while the explanatory statement calls it the 'Public Safety Utility Fee'; KATU describes it as $300 a year (likely $25/month; not stated by the City). troutdaleoregon.gov notice pages redirect to a login page. y1 is from the City-authored explanatory statement (kind explainer), not a filed argument. KGW and KOIN articles on the related police-department question returned fetch errors. The same search set was run for yes and no.",
+  "collection_notes": "Updated 2026-10-16 from the Multnomah County voters' pamphlet extract (M-92 ballot title and explanatory statement, M-93 arguments). One argument in opposition was filed (Eric Anderson) and none in favor. The official summary describes the fee as '$25 Public Safety Fee' / '$25 per month Public Safety Utility Fee' and the average annual fee as $300; fiscal_impact now cites the pamphlet rather than KATU. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction (City of Troutdale) match the multco.us page and filings list (filed 8/12/2026). The ballot summary calls the fee the '$25 Public Safety Fee' while the explanatory statement calls it the 'Public Safety Utility Fee'; KATU describes it as $300 a year (likely $25/month; not stated by the City). troutdaleoregon.gov notice pages redirect to a login page. y1 is from the City-authored explanatory statement (kind explainer), not a filed argument. KGW and KOIN articles on the related police-department question returned fetch errors. The same search set was run for yes and no.",
   "collection_log": [
     {
       "step": "1",
@@ -152,6 +168,29 @@
       "step": "3",
       "query_or_url": "https://www.koin.com/local/multnomah-county/troutdales-proposed-police-unit-may-cut-multnomah-county-sheriffs-office-services/",
       "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download  [extract multnomah-county/troutdale-26-265.txt, pages M-92 to M-93: ballot title, explanatory statement, 0 arguments in favor, 1 in opposition]",
+      "result": "used"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "troutdale-26-265-e1",
+      "endorser": "Eric Anderson",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Eric Anderson, former Troutdale City Councilor, furnished the only argument in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Eric Anderson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-93)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-93"
+      }
     }
   ]
 }

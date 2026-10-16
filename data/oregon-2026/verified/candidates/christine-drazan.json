@@ -216,5 +216,227 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Race or-governor: Drazan 4/6/0; all T1. Incumbent=false is supported, since the cited Blue Book page shows Kotek as governor. Senate District 26 (Canby) confirmed on oregonlegislature.gov. Website confirmed in pamphlet. Her state Senate/House votes were not collected (documented). Debate coverage (OPB, WW, October 2026) was not collected."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "christine-drazan-e1",
+      "endorser": "Revitalize Portland Coalition",
+      "endorser_type": "organization",
+      "statement": "Christine Drazan's pamphlet statement lists Revitalize Portland Coalition as an endorser.",
+      "excerpt": "Revitalize Portland Coalition",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "christine-drazan-e2",
+      "endorser": "Oregonians for Food & Shelter",
+      "endorser_type": "organization",
+      "statement": "Christine Drazan's pamphlet statement lists Oregonians for Food & Shelter as an endorser.",
+      "excerpt": "Oregonians for Food & Shelter",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "christine-drazan-e3",
+      "endorser": "Union Contractor Group",
+      "endorser_type": "organization",
+      "statement": "Christine Drazan's pamphlet statement lists Union Contractor Group as an endorser.",
+      "excerpt": "Union Contractor Group",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "christine-drazan-e4",
+      "endorser": "Oregon’s Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Christine Drazan's pamphlet statement lists Oregon’s Sheriffs as an endorser.",
+      "excerpt": "Oregon’s Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "christine-drazan-e5",
+      "endorser": "Associated General Contractors Oregon-Columbia Chapter",
+      "endorser_type": "organization",
+      "statement": "Christine Drazan's pamphlet statement lists Associated General Contractors Oregon-Columbia Chapter as an endorser.",
+      "excerpt": "Associated General Contractors Oregon-Columbia Chapter",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "christine-drazan-e6",
+      "endorser": "Oregon Farm Bureau",
+      "endorser_type": "organization",
+      "statement": "Christine Drazan's pamphlet statement lists Oregon Farm Bureau as an endorser.",
+      "excerpt": "Oregon Farm Bureau",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "christine-drazan-e7",
+      "endorser": "Oregon Small Business Association",
+      "endorser_type": "organization",
+      "statement": "Christine Drazan's pamphlet statement lists Oregon Small Business Association as an endorser.",
+      "excerpt": "Oregon Small Business Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "christine-drazan-e8",
+      "endorser": "Oregon Coalition of Police & Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Christine Drazan's pamphlet statement lists Oregon Coalition of Police & Sheriffs as an endorser.",
+      "excerpt": "Oregon Coalition of Police & Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "christine-drazan-e9",
+      "endorser": "Associated Builders and Contractors PNW",
+      "endorser_type": "organization",
+      "statement": "Christine Drazan's pamphlet statement lists Associated Builders and Contractors PNW as an endorser.",
+      "excerpt": "Associated Builders and Contractors PNW",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "christine-drazan-e10",
+      "endorser": "Defend Small Business PAC",
+      "endorser_type": "organization",
+      "statement": "Christine Drazan's pamphlet statement lists Defend Small Business PAC as an endorser.",
+      "excerpt": "Defend Small Business PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "christine-drazan-e11",
+      "endorser": "Oregon Nurseries’ PAC",
+      "endorser_type": "organization",
+      "statement": "Christine Drazan's pamphlet statement lists Oregon Nurseries’ PAC as an endorser.",
+      "excerpt": "Oregon Nurseries’ PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

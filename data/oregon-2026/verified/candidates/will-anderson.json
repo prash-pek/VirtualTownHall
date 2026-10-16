@@ -1,0 +1,464 @@
+{
+  "id": "will-anderson",
+  "name": "Will Anderson",
+  "name_variants": [],
+  "race_id": "milwaukie-mayor",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://milwaukieoregon.gov/node/124341",
+  "occupation": "Policy Strategist",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "will-anderson-b1",
+      "topic": "custom:bio",
+      "statement": "A City of Milwaukie councilor page lists Anderson as a city councilor first elected May 21, 2024.",
+      "excerpt": "First Election: May 21, 2024",
+      "source": {
+        "url": "https://milwaukieoregon.gov/node/125705",
+        "publisher": "City of Milwaukie",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed. Note: page still shows \"Term Expires: December 31, 2024\" (stale), statement does not rely on it."
+      }
+    },
+    {
+      "id": "will-anderson-b2",
+      "topic": "custom:bio",
+      "statement": "Anderson's pamphlet statement lists work as a healthcare policy advocate and chief of staff.",
+      "excerpt": "Healthcare Policy Advocate; Chief of Staff",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "verified_at": "2026-10-15",
+        "status": "corrected",
+        "note": "Stanford political science is on the page but not in the excerpt; removed from statement."
+      }
+    },
+    {
+      "id": "will-anderson-b3",
+      "topic": "custom:bio",
+      "statement": "Anderson's pamphlet statement lists service as city council president and Safe Routes to School Committee chair.",
+      "excerpt": "City Council President, Safe Routes to School Committee Chair, Clackamas County Coordinating Committee",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "will-anderson-p1",
+      "topic": "housing",
+      "statement": "In his voters' pamphlet statement, Anderson says he will cut red tape to build affordable housing and lower utility costs.",
+      "excerpt": "I’ll cut red tape to build affordable housing and lower utility costs.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "will-anderson-p2",
+      "topic": "economy",
+      "statement": "Anderson's pamphlet statement says Milwaukie cannot be the community residents love unless people can afford to live there.",
+      "excerpt": "Milwaukie can’t be the community we love unless people can afford to live here.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "will-anderson-p3",
+      "topic": "public-safety",
+      "statement": "Anderson's pamphlet statement says he helped hire two police officers and a behavioral health specialist and secured $600k for road safety.",
+      "excerpt": "I helped hire two new police officers and a behavioral health specialist and secured $600k for safety improvements to our roads.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "will-anderson-p4",
+      "topic": "infrastructure",
+      "statement": "Anderson's pamphlet statement envisions safe streets for children, well-maintained roads and quick police response.",
+      "excerpt": "I envision a city where kids can safely play outside, our streets are pothole-free and well maintained, and police respond quickly.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign website not visible in the readable pamphlet text",
+    "No 2026 T3 press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "see reports/verification/candidates-metro-v5.md"
+  },
+  "endorsements": [
+    {
+      "id": "will-anderson-e1",
+      "endorser": "Clackamas County Democratic Party",
+      "endorser_type": "organization",
+      "statement": "Will Anderson's pamphlet statement lists Clackamas County Democratic Party as an endorser.",
+      "excerpt": "Clackamas County Democratic Party",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e2",
+      "endorser": "Northwest Oregon Labor Council AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Will Anderson's pamphlet statement lists Northwest Oregon Labor Council AFL-CIO as an endorser.",
+      "excerpt": "Northwest Oregon Labor Council AFL-CIO",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e3",
+      "endorser": "Columbia Pacific Building & Construction Trades Council",
+      "endorser_type": "organization",
+      "statement": "Will Anderson's pamphlet statement lists Columbia Pacific Building & Construction Trades Council as an endorser.",
+      "excerpt": "Columbia Pacific Building & Construction Trades Council",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e4",
+      "endorser": "Professional Firefighters of Clackamas County, IAFF Local 1159",
+      "endorser_type": "organization",
+      "statement": "Will Anderson's pamphlet statement lists Professional Firefighters of Clackamas County, IAFF Local 1159 as an endorser.",
+      "excerpt": "Professional Firefighters of Clackamas County, IAFF Local 1159",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e5",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Will Anderson's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e6",
+      "endorser": "AFSCME Local 350",
+      "endorser_type": "organization",
+      "statement": "Will Anderson's pamphlet statement lists AFSCME Local 350 as an endorser.",
+      "excerpt": "AFSCME Local 350",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e7",
+      "endorser": "Juan Carlos Gonzales",
+      "endorser_type": "official",
+      "statement": "Will Anderson's pamphlet statement lists Juan Carlos Gonzales as an endorser.",
+      "excerpt": "Juan Carlos Gonzales, Metro Council President",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e8",
+      "endorser": "Rebecca Stavenjord",
+      "endorser_type": "official",
+      "statement": "Will Anderson's pamphlet statement lists Rebecca Stavenjord as an endorser.",
+      "excerpt": "Rebecca Stavenjord, Milwaukie City Councilor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e9",
+      "endorser": "Greer Ryan",
+      "endorser_type": "person",
+      "statement": "Will Anderson's pamphlet statement lists Greer Ryan as an endorser.",
+      "excerpt": "Greer Ryan, Climate Action Committee Chair",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e10",
+      "endorser": "William Johnson",
+      "endorser_type": "person",
+      "statement": "Will Anderson's pamphlet statement lists William Johnson as an endorser.",
+      "excerpt": "William Johnson, Budget Committee Chair",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e11",
+      "endorser": "Martha Schrader",
+      "endorser_type": "official",
+      "statement": "Will Anderson's pamphlet statement lists Martha Schrader as an endorser.",
+      "excerpt": "Martha Schrader, Clackamas County Commissioner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e12",
+      "endorser": "Amanda McAdams",
+      "endorser_type": "person",
+      "statement": "Will Anderson's pamphlet statement lists Amanda McAdams as an endorser.",
+      "excerpt": "Amanda McAdams, Milwaukie Business Alliance Chair",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e13",
+      "endorser": "Mark Gamba",
+      "endorser_type": "official",
+      "statement": "Will Anderson's pamphlet statement lists Mark Gamba as an endorser.",
+      "excerpt": "Mark Gamba, State Representative",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e14",
+      "endorser": "Angela Brandenburg",
+      "endorser_type": "official",
+      "statement": "Will Anderson's pamphlet statement lists Angela Brandenburg as an endorser.",
+      "excerpt": "Clackamas County Sheriff Angela Brandenburg, ret.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-anderson-e15",
+      "endorser": "Rachelle & Sam Whyte",
+      "endorser_type": "person",
+      "statement": "Will Anderson's pamphlet statement lists Rachelle & Sam Whyte as an endorser.",
+      "excerpt": "Rachelle & Sam Whyte, Owners of Luna’s Ice Cream",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
+}

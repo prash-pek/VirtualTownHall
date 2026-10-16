@@ -159,5 +159,119 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "incumbent=false: the county clerk page names Catherine McMullen as the sitting clerk. Campaign domain MarkForCountyClerk.Com printed in the county pamphlet statement; fetch refused by robots.txt."
+  "collection_notes": "incumbent=false: the county clerk page names Catherine McMullen as the sitting clerk. Campaign domain MarkForCountyClerk.Com printed in the county pamphlet statement; fetch refused by robots.txt.",
+  "endorsements": [
+    {
+      "id": "mark-reaksecker-e1",
+      "endorser": "Emmert International",
+      "endorser_type": "organization",
+      "statement": "Mark Reaksecker's pamphlet statement lists Emmert International as an endorser.",
+      "excerpt": "Emmert International",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e2",
+      "endorser": "David Tenhulzen",
+      "endorser_type": "person",
+      "statement": "Mark Reaksecker's pamphlet statement lists David Tenhulzen as an endorser.",
+      "excerpt": "David Tenhulzen, DMD, MD",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e3",
+      "endorser": "Bill Crowley",
+      "endorser_type": "person",
+      "statement": "Mark Reaksecker's pamphlet statement lists Bill Crowley as an endorser.",
+      "excerpt": "Bill Crowley, MD",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e4",
+      "endorser": "Jo Nielsen",
+      "endorser_type": "person",
+      "statement": "Mark Reaksecker's pamphlet statement lists Jo Nielsen as an endorser.",
+      "excerpt": "Jo Nielsen, MD",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e5",
+      "endorser": "Don Perman",
+      "endorser_type": "person",
+      "statement": "Mark Reaksecker's pamphlet statement lists Don Perman as an endorser.",
+      "excerpt": "Don Perman, DMD",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e6",
+      "endorser": "Cole Thompson",
+      "endorser_type": "person",
+      "statement": "Mark Reaksecker's pamphlet statement lists Cole Thompson as an endorser.",
+      "excerpt": "Cole Thompson, DMD",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e7",
+      "endorser": "Lyver Engineering",
+      "endorser_type": "organization",
+      "statement": "Mark Reaksecker's pamphlet statement lists Lyver Engineering as an endorser.",
+      "excerpt": "Lyver Engineering",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e8",
+      "endorser": "Buffalo Welding",
+      "endorser_type": "organization",
+      "statement": "Mark Reaksecker's pamphlet statement lists Buffalo Welding as an endorser.",
+      "excerpt": "Buffalo Welding",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

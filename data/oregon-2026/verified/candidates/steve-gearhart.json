@@ -1,0 +1,205 @@
+{
+  "id": "steve-gearhart",
+  "name": "Steve Gearhart",
+  "name_variants": [
+    "Stephen Gearhart",
+    "Steven Gearhart"
+  ],
+  "race_id": "king-city-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.ci.king-city.or.us/stephen_gearhart/index.php",
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "steve-gearhart-b1",
+      "topic": "custom:bio",
+      "statement": "King City's council bio page lists Gearhart as council president.",
+      "excerpt": "Steve Gearhart, Council President",
+      "source": {
+        "url": "https://www.ci.king-city.or.us/stephen_gearhart/index.php",
+        "publisher": "City of King City (Councilor bio)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "steve-gearhart-b2",
+      "topic": "custom:bio",
+      "statement": "Gearhart's pamphlet statement lists 12 years in sales management.",
+      "excerpt": "Sales Management, 12 years",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "steve-gearhart-b3",
+      "topic": "custom:bio",
+      "statement": "Gearhart's pamphlet statement lists HR management studies at Portland Community College.",
+      "excerpt": "PCC, HR Management",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "steve-gearhart-p1",
+      "topic": "transportation",
+      "statement": "In his voters' pamphlet statement, Gearhart cites more than 600 people asking the council not to let Fischer Road go through.",
+      "excerpt": "More than 600 people contacted City Council and said “Do not let Fischer Road go through”.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "steve-gearhart-p2",
+      "topic": "transportation",
+      "statement": "Gearhart's pamphlet statement says the city hired a consultant on how to better control Fischer Road.",
+      "excerpt": "hired a consultant to determine how we can better control Fischer Road.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "steve-gearhart-p3",
+      "topic": "custom:growth",
+      "statement": "Gearhart's pamphlet statement says rapid new growth makes listening to residents more critical.",
+      "excerpt": "With the rapid new growth, it’s even more critical to listen to our residents",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "steve-gearhart-p4",
+      "topic": "custom:governance",
+      "statement": "Gearhart's pamphlet statement says he listens first and works through differences.",
+      "excerpt": "I listen first, work through differences, and help people find a way forward.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "King City: pamphlet-only for all six candidates (WC-19 to WC-22), 5-8 items each; no websites or 2026 press found for any. Balanced."
+  },
+  "endorsements": [
+    {
+      "id": "steve-gearhart-e1",
+      "endorser": "Rachel Kazmierski",
+      "endorser_type": "official",
+      "statement": "Steve Gearhart's pamphlet statement lists Rachel Kazmierski as an endorser.",
+      "excerpt": "Endorsed by Rachel Kazmierski, Mayor of King City",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 20",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-gearhart-e2",
+      "endorser": "John Cook",
+      "endorser_type": "official",
+      "statement": "Steve Gearhart's pamphlet statement lists John Cook as an endorser.",
+      "excerpt": "Endorsed by John Cook, former Mayor of Tigard",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 20",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
+}

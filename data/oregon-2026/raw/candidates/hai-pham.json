@@ -1,0 +1,553 @@
+{
+  "id": "hai-pham",
+  "name": "Hai Pham",
+  "race_id": "or-house-36",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/phamh",
+  "occupation": "State Representative; pediatric dentist",
+  "website_url": "http://www.haifororegon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+  "bio": [
+    {
+      "id": "hai-pham-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Legislature page says Pham spent fourteen years as a pediatric dentist serving children and families in Washington County.",
+      "excerpt": "After spending the past fourteen years as a pediatric dentist serving children and their families in Washington County",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/phamh",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-b2",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Pham lists his occupation as state representative and pediatric dentist, with a background as a small business owner and pediatric dentistry chair at Randall Children's Hospital.",
+      "excerpt": "Occupation: State Representative, Pediatric Dentist Occupational Background: Small Business Owner; Pediatric Dentistry Chair, Randall Children's Hospital",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-b3",
+      "topic": "custom:background",
+      "statement": "Pham lists a BS from Oregon State and a DMD from OHSU.",
+      "excerpt": "Educational Background: Oregon State, BS; OHSU, DMD",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-b4",
+      "topic": "custom:background",
+      "statement": "Pham lists the Governor's Children Cabinet and the Oregon Board of Dentistry.",
+      "excerpt": "Prior Governmental Experience: Governor’s Children Cabinet, Oregon Board of Dentistry",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "hai-pham-p1",
+      "topic": "healthcare",
+      "statement": "In a 2022 Ballotpedia candidate survey, Pham said medical and dental coverage for all is a right, not a privilege (statement dates from his first campaign).",
+      "excerpt": "Medical and dental coverage for all is a right, not a privilege.",
+      "source": {
+        "url": "https://ballotpedia.org/Hai_Pham",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p2",
+      "topic": "economy",
+      "statement": "Pham says he will continue to reduce the high costs of living.",
+      "excerpt": "Reduce the high costs of living so that every family has the opportunity to build generational wealth.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p3",
+      "topic": "public-safety",
+      "statement": "Pham says he will ensure every neighborhood is a safe place to live, work and raise a family.",
+      "excerpt": "Ensure that every neighborhood is a safe place to live, work, and raise a family.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p4",
+      "topic": "healthcare",
+      "statement": "Pham says he will build an accessible and affordable healthcare system.",
+      "excerpt": "Build an accessible and affordable healthcare system so that every Oregonian can get the care that they need.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p5",
+      "topic": "economy",
+      "statement": "Pham says he will invest in jobs and grow the regional economy.",
+      "excerpt": "Invest in jobs and grow our regional economy through innovation and opportunity.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p6",
+      "topic": "civil-rights",
+      "statement": "Pham says he will defend civil rights and uphold democracy.",
+      "excerpt": "Defend our civil rights and uphold our democracy.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p7",
+      "topic": "healthcare",
+      "statement": "Pham's campaign website says medical and dental coverage for all is a right, not a privilege.",
+      "excerpt": "Medical and dental coverage for all is a right, not a privilege.",
+      "source": {
+        "url": "https://haifororegon.com/policy-priorities",
+        "publisher": "Hai Pham campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p8",
+      "topic": "education",
+      "statement": "Pham's campaign website says he wants all Oregon residents to have high quality education.",
+      "excerpt": "Dr. Pham wants all residents of Oregon to have the same high quality education that transformed his life.",
+      "source": {
+        "url": "https://haifororegon.com/policy-priorities",
+        "publisher": "Hai Pham campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p9",
+      "topic": "economy",
+      "statement": "Pham's campaign website says he wants to create more jobs that provide living wages with strong benefits.",
+      "excerpt": "create more jobs that provide living wages with strong benefits.",
+      "source": {
+        "url": "https://haifororegon.com/policy-priorities",
+        "publisher": "Hai Pham campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-p10",
+      "topic": "environment",
+      "statement": "Pham's campaign website says he will support legislation to fight climate change and protect Oregon's resources.",
+      "excerpt": "will support legislation to fight climate change and protect Oregon’s beauty and resources for future generations.",
+      "source": {
+        "url": "https://haifororegon.com/policy-priorities",
+        "publisher": "Hai Pham campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "hai-pham-v1",
+      "topic": "healthcare",
+      "statement": "KOIN reported (early 2023) that Pham was among the sponsors of HB 3090, a bill on flavored tobacco sales.",
+      "excerpt": "as well as and Rep. Hai Pham, D-Hillsboro.",
+      "source": {
+        "url": "https://www.koin.com/news/oregon/bill-seeks-to-ban-flavored-tobacco-sales-across-oregon/",
+        "publisher": "KOIN",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "gaps": [
+    "Pham did not complete Ballotpedia's 2024 survey; only a 2022 position found; no 2026 statement",
+    "Capital Chronicle 2026 primary voter guide: no page found for this district (HD35 and HD38 pages only; other districts' guide pages could not be fetched)",
+    "No roll-call votes collected (phase 1 scope)",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract hai-pham.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 55)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/phamh",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website http://www.haifororegon.com (printed in pamphlet statement); fetched https://haifororegon.com/policy-priorities",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Hai Pham\" Oregon House District 36 2026",
+      "result": "used (official pages, Ballotpedia)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Hai Pham\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (Ballotpedia; Capital Chronicle tag page; WW endorsements not fetched)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Hai Pham\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used (KOIN AI youth mental health bill and flavored tobacco bill)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Hai Pham\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used (Portland Tribune 2026 items; not relevant to positions)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Hai_Pham",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.koin.com/news/oregon/bill-seeks-to-ban-flavored-tobacco-sales-across-oregon/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.koin.com/news/politics/this-bill-will-save-lives-oregon-passes-ai-safeguards-for-youth-mental-health/",
+      "result": "blocked (fetch error)"
+    }
+  ],
+  "collection_notes": "Incumbency per oregonlegislature.gov page. Flavored tobacco article gives no explicit date (about early 2023). Matches inventory. Pamphlet statement: SOS Washington edition p. 55 (same text in other editions).",
+  "endorsements": [
+    {
+      "id": "hai-pham-e1",
+      "endorser": "Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Hai Pham's pamphlet statement lists Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senators Jeff Merkley & Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e2",
+      "endorser": "Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Hai Pham's pamphlet statement lists Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senators Jeff Merkley & Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e3",
+      "endorser": "Jason Snider",
+      "endorser_type": "official",
+      "statement": "Hai Pham's pamphlet statement lists Jason Snider as an endorser.",
+      "excerpt": "Washington County Commissioners Jason Snider, Nafisa Fai, & Pam Treece",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e4",
+      "endorser": "Nafisa Fai",
+      "endorser_type": "official",
+      "statement": "Hai Pham's pamphlet statement lists Nafisa Fai as an endorser.",
+      "excerpt": "Washington County Commissioners Jason Snider, Nafisa Fai, & Pam Treece",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e5",
+      "endorser": "Pam Treece",
+      "endorser_type": "official",
+      "statement": "Hai Pham's pamphlet statement lists Pam Treece as an endorser.",
+      "excerpt": "Washington County Commissioners Jason Snider, Nafisa Fai, & Pam Treece",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e6",
+      "endorser": "District Attorney Kevin Barton",
+      "endorser_type": "official",
+      "statement": "Hai Pham's pamphlet statement lists District Attorney Kevin Barton as an endorser.",
+      "excerpt": "District Attorney Kevin Barton",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e7",
+      "endorser": "Hillsboro Mayor Beach Pace",
+      "endorser_type": "official",
+      "statement": "Hai Pham's pamphlet statement lists Hillsboro Mayor Beach Pace as an endorser.",
+      "excerpt": "Hillsboro Mayor Beach Pace",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e8",
+      "endorser": "Beaverton Mayor Lacey Beaty",
+      "endorser_type": "official",
+      "statement": "Hai Pham's pamphlet statement lists Beaverton Mayor Lacey Beaty as an endorser.",
+      "excerpt": "Beaverton Mayor Lacey Beaty",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e9",
+      "endorser": "Juan Carlos Gonzalez",
+      "endorser_type": "official",
+      "statement": "Hai Pham's pamphlet statement lists Juan Carlos Gonzalez as an endorser.",
+      "excerpt": "Metro Councilors Juan Carlos Gonzalez & Duncan Hwang",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e10",
+      "endorser": "Duncan Hwang",
+      "endorser_type": "official",
+      "statement": "Hai Pham's pamphlet statement lists Duncan Hwang as an endorser.",
+      "excerpt": "Metro Councilors Juan Carlos Gonzalez & Duncan Hwang",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e11",
+      "endorser": "Oregon Labor Federation, AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Hai Pham's pamphlet statement lists Oregon Labor Federation, AFL-CIO as an endorser.",
+      "excerpt": "Oregon Labor Federation, AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e12",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Hai Pham's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e13",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Hai Pham's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e14",
+      "endorser": "Oregon Education Association - PAC",
+      "endorser_type": "organization",
+      "statement": "Hai Pham's pamphlet statement lists Oregon Education Association - PAC as an endorser.",
+      "excerpt": "Oregon Education Association - PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e15",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Hai Pham's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e16",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Hai Pham's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e17",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Hai Pham's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e18",
+      "endorser": "Oregon Coalition of Police & Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Hai Pham's pamphlet statement lists Oregon Coalition of Police & Sheriffs as an endorser.",
+      "excerpt": "Oregon Coalition of Police & Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e19",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Hai Pham's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "hai-pham-e20",
+      "endorser": "AG-PAC",
+      "endorser_type": "organization",
+      "statement": "Hai Pham's pamphlet statement lists AG-PAC as an endorser.",
+      "excerpt": "AG-PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
+}

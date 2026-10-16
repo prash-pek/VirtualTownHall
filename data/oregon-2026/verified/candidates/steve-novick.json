@@ -272,5 +272,127 @@
     "corrected": 1,
     "rejected": 0,
     "balance_notes": "Race portland-council-d3 (21 candidates). Every candidate was searched in the same shared sources: the Mercury (2026-09-09), OPB (2026-10-07), the Tribune Q&A (2026-10-13), the Multnomah pamphlet and the 2026 AUD-120 forms. Novick has 5 bio and 8 position items (T1 council page and pamphlet, T3). The AUD-120 text has no candidate fields. One statement was corrected. His pronouns are He/Him. The website novickforportland.com is printed in the pamphlet. Incumbent=true confirmed."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "steve-novick-e1",
+      "endorser": "Portland Firefighters",
+      "endorser_type": "organization",
+      "statement": "Steve Novick's pamphlet statement lists Portland Firefighters as an endorser.",
+      "excerpt": "Portland Firefighters",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-novick-e2",
+      "endorser": "Columbia Pacific Building Trades",
+      "endorser_type": "organization",
+      "statement": "Steve Novick's pamphlet statement lists Columbia Pacific Building Trades as an endorser.",
+      "excerpt": "Columbia Pacific Building Trades",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-novick-e3",
+      "endorser": "AFSCME Local 189",
+      "endorser_type": "organization",
+      "statement": "Steve Novick's pamphlet statement lists AFSCME Local 189 as an endorser.",
+      "excerpt": "AFSCME Local 189",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-novick-e4",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Steve Novick's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-novick-e5",
+      "endorser": "Northwest Oregon Labor Council, AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Steve Novick's pamphlet statement lists Northwest Oregon Labor Council, AFL-CIO as an endorser.",
+      "excerpt": "Northwest Oregon Labor Council, AFL-CIO",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-novick-e6",
+      "endorser": "Building Power for Communities of Color",
+      "endorser_type": "organization",
+      "statement": "Steve Novick's pamphlet statement lists Building Power for Communities of Color as an endorser.",
+      "excerpt": "Building Power for Communities of Color",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

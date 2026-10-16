@@ -25,22 +25,6 @@
         "published_at": null,
         "retrieved_at": "2026-10-14"
       }
-    },
-    {
-      "id": "burlington-water-district-26-269-y2",
-      "side": "yes",
-      "kind": "explainer",
-      "author": "Burlington Water District (explanatory statement, submitted by Richard T. Lovett, Board Chairman)",
-      "topic": "public-safety",
-      "statement": "The explanatory statement says the district has no funding source other than property tax revenue to pay for emergency services.",
-      "excerpt": "The District has no funding source other than property tax revenue to pay for emergency services.",
-      "source": {
-        "url": "https://multco.us/info/measure-26-269-five-year-local-option-tax-fire-ambulance-operations",
-        "publisher": "Multnomah County Elections Division",
-        "tier": "T1",
-        "published_at": null,
-        "retrieved_at": "2026-10-14"
-      }
     }
   ],
   "topics": [
@@ -48,11 +32,10 @@
     "taxes"
   ],
   "gaps": [
-    "No NO arguments found: no opposition statement in any reachable official source or T3 outlet; voters' pamphlet arguments section could not be read.",
-    "No T3 news coverage of this measure was found.",
-    "Official voters' pamphlet arguments (yes and no) could not be read: the county pamphlet PDF text is truncated before the measures section."
+    "No argument in favor was filed in the county voters' pamphlet (M-103: 'No arguments in favor or opposition to this measure were filed').",
+    "No argument in opposition was filed in the county voters' pamphlet (M-103)."
   ],
-  "collection_notes": "Voters' pamphlet: the SOS Book 13 PDF text (120,052 chars) ends at the statewide section; the multco.us English (104,260 chars) and large-print (105,643 chars) county pamphlet PDFs are cut off by WebFetch text extraction in the candidate statements, before the Measures & Arguments section, so printed pamphlet arguments (if any) could not be read. The SOS Spanish-language Multnomah guide (ES-MUL-1126) was checked only to see whether arguments exist: per the fetch tool it prints the measure and an explanation for each of 26-265 to 26-269 but no argument sections; translated guides may omit arguments, so this is not conclusive. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction match the multco.us page and filings list (filed 9/2/2026). This is a resubmission of May 19, 2026 Measure 26-264 (same title; levy start moved from 2026-27 to 2027-28 per the district's Aug 12, 2026 special board meeting draft minutes); the May result was not found in any fetched source and is not stated. Board chair appears as 'Richard T. Lovett' on the county page and 'Ricardo Lovett' in the draft minutes. Fiscal estimates were paraphrased by the fetch tool from the measure page; verifier should confirm the dollar figures. Both y items are from the district-written explanatory statement (kind explainer), not filed arguments. The same search set was run for yes and no.",
+  "collection_notes": "Updated 2026-10-16 from the Multnomah County voters' pamphlet extract (M-103 ballot title and explanatory statement; no arguments in favor or opposition were filed). Per coordinator decision, one explainer per side is kept (y1, from the district's explanatory statement); y2 (district has no funding source other than property tax) was dropped; ballot_label, summary, yes_means, no_means and fiscal_impact were checked against M-103 and are unchanged. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction match the multco.us page and filings list (filed 9/2/2026). This is a resubmission of May 19, 2026 Measure 26-264 (same title; levy start moved from 2026-27 to 2027-28 per the district's Aug 12, 2026 special board meeting draft minutes); the May result was not found in any fetched source and is not stated. Board chair appears as 'Richard T. Lovett' on the county page and 'Ricardo Lovett' in the draft minutes. Fiscal estimates were paraphrased by the fetch tool from the measure page; verifier should confirm the dollar figures. Both y items are from the district-written explanatory statement (kind explainer), not filed arguments. The same search set was run for yes and no.",
   "collection_log": [
     {
       "step": "1",
@@ -123,6 +106,11 @@
       "step": "3",
       "query_or_url": "https://multco.us/info/measure-26-264-five-year-local-option-tax-fire-ambulance-operations",
       "result": "nothing relevant"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download  [extract multnomah-county/burlington-water-district-26-269.txt, pages M-77, M-103: ballot title, explanatory statement, no arguments filed]",
+      "result": "used"
     }
   ]
 }

@@ -1,0 +1,307 @@
+{
+  "id": "don-weber",
+  "name": "Don Weber",
+  "race_id": "north-plains-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "North Plains City Councilor (per pamphlet); retired director of a Big Brothers Big Sisters program",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "don-weber-b1",
+      "topic": "custom:background",
+      "statement": "Weber's pamphlet statement lists his occupation as North Plains City Councilor and his background as retired director of a Big Brothers Big Sisters program.",
+      "excerpt": "Occupation: North Plains City Councilor Occupational Background: Retired Director: a Big Brother and Big Sisters program",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "don-weber-b2",
+      "topic": "custom:background",
+      "statement": "The pamphlet lists his prior governmental experience as the North Plains Re-Look Committee and the North Plains Parks and Recreation Board.",
+      "excerpt": "Prior Governmental Experience: North Plains Re-Look Committee North Plains Parks & Recreation Board",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "don-weber-b3",
+      "topic": "custom:background",
+      "statement": "Weber says in his pamphlet statement that his background is in finance and that fiscal responsibility is important to him.",
+      "excerpt": "My background is in finance, so fiscal responsibility is important for me.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "don-weber-p1",
+      "topic": "economy",
+      "statement": "Weber's pamphlet statement supports smart growth and opposes expanding the city by over 500 acres with most of the land for industrial growth.",
+      "excerpt": "I support smart growth-- not expanding our city by over 500 acres with a majority of that land for industrial growth.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "don-weber-p2",
+      "topic": "infrastructure",
+      "statement": "His pamphlet statement supports improving infrastructure for safety and efficiency and using the Urban Renewal Agency to serve local businesses, especially on main street.",
+      "excerpt": "I support improving city infrastructure for safety and efficiency, and using our Urban Renewal Agency to better serve local businesses, especially on main street.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "don-weber-p3",
+      "topic": "taxes",
+      "statement": "His pamphlet statement says he has advocated for North Plains to complete past-due audits and will complete this task if elected.",
+      "excerpt": "I have advocated for North Plains to complete past due audits, and will complete this task if elected.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "don-weber-p4",
+      "topic": "custom:governance",
+      "statement": "His pamphlet statement says he will convene residents to hear from experts on growth issues.",
+      "excerpt": "I will convene residents to hear from experts (not developers and land speculators) on growth issues.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No public position found on housing or public safety",
+    "No Pamplin/Hillsboro News-Times 2026 candidate Q&A found",
+    "No campaign website identified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (extract don-weber.txt)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: no official North Plains roster page could be fetched (city site robots-disallowed; search surfaced no .gov roster)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked from pamphlet (pamphlet links only friendsofsmartgrowth.org, an endorsing group)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Don Weber\" North Plains City Council 2026",
+      "result": "nothing relevant (OPB/KPTV Aug 2026 North Plains stories do not name this candidate)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Don Weber\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Don Weber\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Don Weber\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "OPB 2026-08-26 Think Out Loud article; KPTV 2026-08-22; Hillsboro News-Times tag page; Portland Mercury growth article (none name the candidate)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Incumbency NOT set: pamphlet occupation line says 'North Plains City Councilor' (candidate-supplied, not an official source) and Warrington/Axe statements also call him a councilor; no .gov roster could be fetched. Needs official confirmation. Pamphlet endorsement list recorded in endorsements only.",
+  "endorsements": [
+    {
+      "id": "don-weber-e1",
+      "topic": "custom:endorsement",
+      "statement": "Weber's pamphlet statement lists Friends of Smart Growth as an endorser.",
+      "excerpt": "Friends of Smart Growth",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Friends of Smart Growth",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "don-weber-e2",
+      "topic": "custom:endorsement",
+      "statement": "Weber's pamphlet statement lists Save Helvetia as an endorser.",
+      "excerpt": "Save Helvetia",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Save Helvetia",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "don-weber-e3",
+      "topic": "custom:endorsement",
+      "statement": "Weber's pamphlet statement lists Lora Dexheimer as an endorser.",
+      "excerpt": "Lora Dexheimer",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Lora Dexheimer",
+      "endorser_type": "person"
+    },
+    {
+      "id": "don-weber-e4",
+      "topic": "custom:endorsement",
+      "statement": "Weber's pamphlet statement lists Oregon Data Center Defiance as an endorser.",
+      "excerpt": "Oregon Data Center Defiance",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Oregon Data Center Defiance",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "don-weber-e5",
+      "topic": "custom:endorsement",
+      "statement": "Weber's pamphlet statement lists Dean Moberg, director, Tualatin Conservation District as an endorser.",
+      "excerpt": "Dean Moberg and Elaine Stewart: directors, Tualatin Conservation District",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Dean Moberg, director, Tualatin Conservation District",
+      "endorser_type": "official"
+    },
+    {
+      "id": "don-weber-e6",
+      "topic": "custom:endorsement",
+      "statement": "Weber's pamphlet statement lists Elaine Stewart, director, Tualatin Conservation District as an endorser.",
+      "excerpt": "Dean Moberg and Elaine Stewart: directors, Tualatin Conservation District",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Elaine Stewart, director, Tualatin Conservation District",
+      "endorser_type": "official"
+    },
+    {
+      "id": "don-weber-e7",
+      "topic": "custom:endorsement",
+      "statement": "Weber's pamphlet statement lists Mark DeForge, North Plains City Councilor as an endorser.",
+      "excerpt": "Mark DeForge and Anna Warrington: North Plains City Councilors",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Mark DeForge, North Plains City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "don-weber-e8",
+      "topic": "custom:endorsement",
+      "statement": "Weber's pamphlet statement lists Anna Warrington, North Plains City Councilor as an endorser.",
+      "excerpt": "Mark DeForge and Anna Warrington: North Plains City Councilors",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Anna Warrington, North Plains City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "don-weber-e9",
+      "topic": "custom:endorsement",
+      "statement": "Weber's pamphlet statement lists Melody Axe, North Plains City Council candidate as an endorser.",
+      "excerpt": "Melody Axe, North Plains City Council candidate",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Melody Axe, North Plains City Council candidate",
+      "endorser_type": "person"
+    },
+    {
+      "id": "don-weber-e10",
+      "topic": "custom:endorsement",
+      "statement": "Weber's pamphlet statement lists Cheri Olson, Former North Plains Mayor as an endorser.",
+      "excerpt": "Cheri Olson, Former North Plains Mayor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-23)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Cheri Olson, Former North Plains Mayor",
+      "endorser_type": "official"
+    }
+  ]
+}

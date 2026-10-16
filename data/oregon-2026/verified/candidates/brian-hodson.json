@@ -1,0 +1,49 @@
+{
+  "id": "brian-hodson",
+  "name": "Brian D Hodson",
+  "name_variants": [
+    "Brian Hodson"
+  ],
+  "race_id": "canby-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "brian-hodson-b1",
+      "topic": "custom:bio",
+      "statement": "Canby City Council minutes from January 2026 record Hodson attending as mayor.",
+      "excerpt": "Mayor Hodson present;",
+      "source": {
+        "url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf",
+        "publisher": "City of Canby (City Council minutes, Jan. 7, 2026)",
+        "tier": "T1",
+        "published_at": "2026-01-07",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched Canby 2026-01-07 council minutes: roll call reads \"Mayor Hodson present;\"; statement faithful.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No candidate statement in the county voters' pamphlet (marked as not purchasing space)",
+    "No campaign website found",
+    "No 2026 T3 press coverage found",
+    "No public positions found"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Canby mayor: single candidate Hodson; pamphlet marks him as not purchasing space; one T1 item from 2026 council minutes. No pamphlet/website/T3 material found."
+  }
+}

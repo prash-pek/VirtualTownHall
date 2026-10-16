@@ -1,0 +1,402 @@
+{
+  "id": "jules-walters",
+  "name": "Jules Walters",
+  "race_id": "or-house-37",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/walters/Pages/biography.aspx",
+  "occupation": "State Representative; former mayor of West Linn",
+  "website_url": "http://www.votejules.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+  "bio": [
+    {
+      "id": "jules-walters-b1",
+      "topic": "custom:background",
+      "statement": "The Oregon Legislature biography says Walters is a parent of four who served as mayor of West Linn.",
+      "excerpt": "as mayor of West Linn, a community of over 30,000 people.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/walters/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-b2",
+      "topic": "custom:background",
+      "statement": "Ballotpedia lists Walters's career as including administrative assistant, business owner, vice president of operations, and mayor of West Linn.",
+      "excerpt": "She served as mayor of West Linn.",
+      "source": {
+        "url": "https://ballotpedia.org/Jules_Walters",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-b3",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Walters lists her occupation as state representative for House District 37, with a background as a small business owner.",
+      "excerpt": "Occupation: State Representative, HD 37 Occupational Background: Small business owner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-b4",
+      "topic": "custom:background",
+      "statement": "Walters lists the University of San Francisco and the University of Oregon.",
+      "excerpt": "Educational Background: University of San Francisco, University of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-b5",
+      "topic": "custom:background",
+      "statement": "Walters lists West Linn city councilor and mayor, and state representative for House District 37.",
+      "excerpt": "Prior Governmental Experience: City Councilor and Mayor, City of West Linn; State Representative HD 37",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "jules-walters-p1",
+      "topic": "social-services",
+      "statement": "In March 2025 reporting republished by the Portland Tribune, Walters said substance use disorder is often thought of as an adult disease and that this is not how it works.",
+      "excerpt": "We think of (substance use disorder) as an adult disease, and that is not how it works.",
+      "source": {
+        "url": "https://portlandtribune.com/2025/03/13/trio-of-bills-aims-to-address-oregons-failure-to-equip-youths-with-needed-tools-against-drugs/",
+        "publisher": "Portland Tribune (The Lund Report)",
+        "tier": "T3",
+        "published_at": "2025-03-13",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-p2",
+      "topic": "civil-rights",
+      "statement": "Walters lists protecting the LGBTQ+ community, upholding immigrant and BIPOC rights and defending women's reproductive care among her values.",
+      "excerpt": "Protecting the LGBTQ+ community • Upholding Immigrant and BIPOC rights • Defending Women’s Reproductive Care",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-p3",
+      "topic": "education",
+      "statement": "Walters says she is working to make Oregon's schools safer and more accountable.",
+      "excerpt": "Making Oregon’s schools safer and more accountable.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-p4",
+      "topic": "social-services",
+      "statement": "Walters says as chair of the Early Childhood Committee her top priority is early learning and affordable childcare for all Oregonians.",
+      "excerpt": "As Chair of the Early Childhood Committee, her top priority is making early learning and quality, affordable childcare available for all Oregonians.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-p5",
+      "topic": "taxes",
+      "statement": "Walters says she is working to make taxes fair and affordable as leader of the Measures 5/50 Study Group.",
+      "excerpt": "Working to make our taxes fair and affordable as leader of the Measures 5/50 Study Group.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "jules-walters-v1",
+      "topic": "social-services",
+      "statement": "The Lund Report, republished by the Portland Tribune, identified Walters as one of the chief co-sponsors of a trio of 2025 bills on youth substance use.",
+      "excerpt": "\"We just have these giant gaps for youth,\" said Walters, one of the bills' chief co-sponsors",
+      "source": {
+        "url": "https://portlandtribune.com/2025/03/13/trio-of-bills-aims-to-address-oregons-failure-to-equip-youths-with-needed-tools-against-drugs/",
+        "publisher": "Portland Tribune (The Lund Report)",
+        "tier": "T3",
+        "published_at": "2025-03-13",
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "gaps": [
+    "No 2026 policy statements found (Ballotpedia campaign themes empty; no Capital Chronicle HD37 guide page)",
+    "No roll-call votes collected (phase 1 scope)",
+    "No campaign website verified"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract jules-walters.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 48)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/walters/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website http://www.votejules.com (printed in pamphlet statement)",
+      "result": "blocked (WebFetch ROBOTS_DISALLOWED)"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Jules Walters\" Oregon House District 37 2026",
+      "result": "used (official pages, Ballotpedia)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jules Walters\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (Ballotpedia; Capital Chronicle 2024 donor story and WW endorsement pages not used)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jules Walters\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used (KOIN/KGW mayor-era coverage)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jules Walters\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used (Pamplin and Portland Tribune)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Jules_Walters",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2025/03/13/trio-of-bills-aims-to-address-oregons-failure-to-equip-youths-with-needed-tools-against-drugs/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://pamplinmedia.com/ttt/89-news/561772-449873-estep-and-walters-make-final-push-for-house-district-37",
+      "result": "blocked (fetch error)"
+    }
+  ],
+  "collection_notes": "Incumbency per oregonlegislature.gov biography (started in the legislature in 2023). Matches inventory. Pamphlet statement: SOS Clackamas edition p. 48 (same text in other editions). Campaign site printed in pamphlet but could not be fetched (robots.txt); no T2 items.",
+  "endorsements": [
+    {
+      "id": "jules-walters-e1",
+      "endorser": "US Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Jules Walters's pamphlet statement lists US Senator Jeff Merkley as an endorser.",
+      "excerpt": "US Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-e2",
+      "endorser": "US Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Jules Walters's pamphlet statement lists US Senator Ron Wyden as an endorser.",
+      "excerpt": "US Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-e3",
+      "endorser": "Oregon Senate President Rob Wagner",
+      "endorser_type": "official",
+      "statement": "Jules Walters's pamphlet statement lists Oregon Senate President Rob Wagner as an endorser.",
+      "excerpt": "Oregon Senate President Rob Wagner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-e4",
+      "endorser": "West Linn Mayor Rory Bialostosky",
+      "endorser_type": "official",
+      "statement": "Jules Walters's pamphlet statement lists West Linn Mayor Rory Bialostosky as an endorser.",
+      "excerpt": "West Linn Mayor Rory Bialostosky",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-e5",
+      "endorser": "Lake Oswego Mayor Joe Buck",
+      "endorser_type": "official",
+      "statement": "Jules Walters's pamphlet statement lists Lake Oswego Mayor Joe Buck as an endorser.",
+      "excerpt": "Lake Oswego Mayor Joe Buck",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-e6",
+      "endorser": "Democratic Party of Clackamas County",
+      "endorser_type": "organization",
+      "statement": "Jules Walters's pamphlet statement lists Democratic Party of Clackamas County as an endorser.",
+      "excerpt": "Democratic Party of Clackamas County",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-e7",
+      "endorser": "Independent Party of Oregon",
+      "endorser_type": "organization",
+      "statement": "Jules Walters's pamphlet statement lists Independent Party of Oregon as an endorser.",
+      "excerpt": "Independent Party of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-e8",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Jules Walters's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-e9",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Jules Walters's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-e10",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Jules Walters's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-e11",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Jules Walters's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-e12",
+      "endorser": "Basic Rights Oregon PAC",
+      "endorser_type": "organization",
+      "statement": "Jules Walters's pamphlet statement lists Basic Rights Oregon PAC as an endorser.",
+      "excerpt": "Basic Rights Oregon PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jules-walters-e13",
+      "endorser": "UFCW Local 555",
+      "endorser_type": "organization",
+      "statement": "Jules Walters's pamphlet statement lists UFCW Local 555 as an endorser.",
+      "excerpt": "UFCW Local 555",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
+}

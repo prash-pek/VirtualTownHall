@@ -1,0 +1,310 @@
+{
+  "id": "jeff-helfrich",
+  "name": "Jeff Helfrich",
+  "race_id": "or-senate-26",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": "Retired Portland police officer; state representative (House District 52)",
+  "website_url": "http://www.HelfrichforOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+  "bio": [
+    {
+      "id": "jeff-helfrich-b1",
+      "topic": "public-safety",
+      "statement": "Helfrich's official legislative page says Helfrich served as a Portland Police Bureau sergeant for 25 years.",
+      "excerpt": "and as a sergeant with the Portland Police Bureau for 25 years.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/Helfrich/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-helfrich-b2",
+      "topic": "custom:background",
+      "statement": "In the voters' pamphlet statement, Helfrich lists occupation as state representative, with a background as a retired police sergeant, Cascade Locks city councilor, MCEDD board member, U.S. Air Force service and farmhand.",
+      "excerpt": "Occupation: State Representative Occupational Background: Retired Police Sergeant;Cascade Locks City Councilor;MCEDD Board of Directors;US Air Force, Farmhand.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-helfrich-b3",
+      "topic": "custom:background",
+      "statement": "Helfrich lists Columbine High School and the Oregon Public Safety Academy/DPSST.",
+      "excerpt": "Educational Background: Columbine High School;Oregon Public Safety Academy/DPSST",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-helfrich-b4",
+      "topic": "custom:background",
+      "statement": "Helfrich lists state representative, Cascade Locks city councilor, planning commissioner, budget committee member and economic development workgroup member.",
+      "excerpt": "Prior Governmental Experience: State Representative;Cascade Locks City Councilor;Planning Commissioner/Budget Committee member;Economic Development Workgroup member.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "jeff-helfrich-p1",
+      "topic": "public-safety",
+      "statement": "In a February 2025 Oregon Capital Chronicle report, Helfrich says that re-criminalizing drugs and passing campaign finance reform prove an ability to champion major legislation.",
+      "excerpt": "My successes re-criminalizing drugs and passing campaign finance reform prove I can champion major legislation",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/2025/02/18/former-oregon-house-gop-leader-will-run-for-senate-gop-leaders-seat/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": "2025-02-18",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-helfrich-p2",
+      "topic": "public-safety",
+      "statement": "Helfrich says they helped lead the bipartisan effort to re-criminalize hard drugs.",
+      "excerpt": "I helped lead the bipartisan effort to re-criminalize hard drugs and restore accountability.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-helfrich-p3",
+      "topic": "taxes",
+      "statement": "Helfrich says that as a state representative, Helfrich opposed major tax increases, including the gas tax, and fought policies that increase costs for working families.",
+      "excerpt": "I opposed major tax increases, including the gas tax, and fought policies that increase costs for working families.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement text belonged to a different pamphlet passage (housing/groceries/taxes); rewritten to match the excerpt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-helfrich-p4",
+      "topic": "economy",
+      "statement": "Helfrich says housing, groceries, energy, insurance and taxes all come out of the same paycheck and that Helfrich will continue fighting unnecessary tax increases and wasteful spending.",
+      "excerpt": "Housing, groceries, energy, insurance, and taxes all come out of the same paycheck. I will continue fighting unnecessary tax increases, wasteful spending",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement was shifted from the next item (energy); rewritten to match this excerpt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-helfrich-p5",
+      "topic": "custom:energy",
+      "statement": "Helfrich says families, farms and businesses need reliable, affordable energy.",
+      "excerpt": "Families, farms, and businesses need reliable, affordable energy.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement was shifted from another item (education); rewritten to match the energy excerpt and topic changed to custom:energy.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-helfrich-p6",
+      "topic": "education",
+      "statement": "Helfrich says students deserve high standards and an education that prepares them for what comes next.",
+      "excerpt": "Students deserve high standards and an education that prepares them for what comes next",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement was the law-enforcement sentence (duplicate of p7); rewritten to match the education excerpt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-helfrich-p7",
+      "topic": "public-safety",
+      "statement": "Helfrich says they will support law enforcement and hold offenders accountable.",
+      "excerpt": "I will support law enforcement, hold offenders accountable, and keep our communities safe.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-helfrich-p8",
+      "topic": "taxes",
+      "statement": "Helfrich's campaign website says Oregon needs a balanced budget and tax relief for families.",
+      "excerpt": "We need to balance our budget and provide tax relief for Oregon families.",
+      "source": {
+        "url": "https://www.helfrichfororegon.com/priorities",
+        "publisher": "Jeff Helfrich campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-helfrich-p9",
+      "topic": "public-safety",
+      "statement": "Helfrich's campaign website says it is critical to fund and support law enforcement.",
+      "excerpt": "it’s critical that we properly fund and support law enforcement.",
+      "source": {
+        "url": "https://www.helfrichfororegon.com/priorities",
+        "publisher": "Jeff Helfrich campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeff-helfrich-p10",
+      "topic": "local-business",
+      "statement": "Helfrich's campaign website says small businesses are the backbone of the economy.",
+      "excerpt": "Small businesses are the backbone of our economy.",
+      "source": {
+        "url": "https://www.helfrichfororegon.com/priorities",
+        "publisher": "Jeff Helfrich campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No sponsored-bill or roll-call items collected (phase 1)",
+    "No 2026 campaign-period positions found outside the pamphlet"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 9,
+    "rejected": 0,
+    "balance_notes": "SD26: Bassett 13 items (T1 pamphlet, T2 site, T3 Capital Chronicle voter guide) + 10 endorsements; Helfrich 14 items (T1 official page and pamphlet, T2 site, T3 Capital Chronicle 2025) + 0 endorsements (none printed in his statement). Equal effort; Helfrich pamphlet items p3-p6 had statements misaligned with excerpts and were corrected."
+  }
+}

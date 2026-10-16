@@ -1,0 +1,130 @@
+{
+ "id": "ethan-vanderzanden",
+ "name": "Ethan VanderZanden",
+ "race_id": "tualatin-swcd-zone-5",
+ "party": null,
+ "incumbent": false,
+ "incumbent_source_url": "https://tualatinswcd.org/our-story/our-board/",
+ "occupation": "Farmer",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "ethan-vanderzanden-b1",
+   "topic": "custom:background",
+   "statement": "VanderZanden's pamphlet statement gives his occupation as farmer.",
+   "excerpt": "Occupation: Farmer",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "ethan-vanderzanden-b2",
+   "topic": "custom:background",
+   "statement": "VanderZanden's pamphlet statement lists no prior governmental experience.",
+   "excerpt": "Prior Governmental Experience: None",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "ethan-vanderzanden-p1",
+   "topic": "agriculture",
+   "statement": "In his pamphlet statement, VanderZanden says he would bring a practical, collaborative approach to the board.",
+   "excerpt": "I would bring a practical, collaborative approach to the board. I",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "ethan-vanderzanden-p2",
+   "topic": "taxes",
+   "statement": "In his pamphlet statement, VanderZanden says he is committed to responsible use of public resources.",
+   "excerpt": "I am committed to responsible use of public resources and to",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "ethan-vanderzanden-p3",
+   "topic": "social-services",
+   "statement": "In his pamphlet statement, VanderZanden says he wants district programs to be accessible, effective and responsive to the community.",
+   "excerpt": "making sure district programs are accessible, effective, and",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "No campaign website found",
+  "No news coverage found",
+  "Pamphlet statement states general principles; no specific program positions"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (extract washington-county/ethan-vanderzanden.txt, p.45)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://tualatinswcd.org/our-story/our-board/",
+   "result": "used (Zone 5 seat held by Luke VanderZanden)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain linked",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Ethan VanderZanden\" Tualatin soil and water conservation district Zone 5 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (a) opb/oregoncapitalchronicle/wweek/ballotpedia: Ethan VanderZanden",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (b) kgw/koin/kptv/katu: Ethan VanderZanden",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (c) portlandmercury/vote411/pamplinmedia/portlandtribune: Ethan VanderZanden",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "6",
+   "query_or_url": "none promising",
+   "result": "nothing relevant"
+  }
+ ],
+ "collection_notes": "Incumbent=false: district board page lists Luke VanderZanden (not Ethan) as Zone 5 director; possible relative, not stated. Matches inventory."
+}

@@ -166,5 +166,507 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "D4: 8 items (6 T1, 2 T3); comparable. Website evenstarforportland.com printed in pamphlet. Incumbent false confirmed. No gendered pronouns in items."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "jamey-evenstar-e1",
+      "endorser": "Jamie Dunphy",
+      "endorser_type": "official",
+      "statement": "Jamey Evenstar's pamphlet statement lists Jamie Dunphy as an endorser.",
+      "excerpt": "Council President Jamie Dunphy",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e2",
+      "endorser": "Angelita Morillo",
+      "endorser_type": "official",
+      "statement": "Jamey Evenstar's pamphlet statement lists Angelita Morillo as an endorser.",
+      "excerpt": "Councilor Angelita Morillo",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e3",
+      "endorser": "Khanh Pham",
+      "endorser_type": "official",
+      "statement": "Jamey Evenstar's pamphlet statement lists Khanh Pham as an endorser.",
+      "excerpt": "Sen. Khanh Pham",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e4",
+      "endorser": "Mark Gamba",
+      "endorser_type": "official",
+      "statement": "Jamey Evenstar's pamphlet statement lists Mark Gamba as an endorser.",
+      "excerpt": "Rep. Mark Gamba",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e5",
+      "endorser": "Duncan Hwang",
+      "endorser_type": "official",
+      "statement": "Jamey Evenstar's pamphlet statement lists Duncan Hwang as an endorser.",
+      "excerpt": "Metro Councilor Duncan Hwang",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e6",
+      "endorser": "Eddie Wang",
+      "endorser_type": "official",
+      "statement": "Jamey Evenstar's pamphlet statement lists Eddie Wang as an endorser.",
+      "excerpt": "PPS Board Chair Eddie Wang",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e7",
+      "endorser": "Christy Splitt",
+      "endorser_type": "official",
+      "statement": "Jamey Evenstar's pamphlet statement lists Christy Splitt as an endorser.",
+      "excerpt": "PPS Director Christy Splitt",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e8",
+      "endorser": "Rashelle Chase-Miller",
+      "endorser_type": "official",
+      "statement": "Jamey Evenstar's pamphlet statement lists Rashelle Chase-Miller as an endorser.",
+      "excerpt": "PPS Director Rashelle Chase-Miller",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e9",
+      "endorser": "Danny Cage",
+      "endorser_type": "official",
+      "statement": "Jamey Evenstar's pamphlet statement lists Danny Cage as an endorser.",
+      "excerpt": "MESD Member-Danny Cage",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e10",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e11",
+      "endorser": "AFSCME Local 189",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists AFSCME Local 189 as an endorser.",
+      "excerpt": "AFSCME Local 189",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e12",
+      "endorser": "Portland For All",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists Portland For All as an endorser.",
+      "excerpt": "Portland For All",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e13",
+      "endorser": "Building Power for Communities of Color",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists Building Power for Communities of Color as an endorser.",
+      "excerpt": "Building Power for",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e14",
+      "endorser": "APANO Action Fund",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists APANO Action Fund as an endorser.",
+      "excerpt": "APANO Action Fund",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e15",
+      "endorser": "Latino Network Action Fund",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists Latino Network Action Fund as an endorser.",
+      "excerpt": "Latino Network Action Fund",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e16",
+      "endorser": "The Ebony Collective Coalition",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists The Ebony Collective Coalition as an endorser.",
+      "excerpt": "The Ebony Collective Coalition",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e17",
+      "endorser": "Next Up Action Fund",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists Next Up Action Fund as an endorser.",
+      "excerpt": "Next Up Action Fund",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e18",
+      "endorser": "Sunrise PDX",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists Sunrise PDX as an endorser.",
+      "excerpt": "Sunrise PDX",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e19",
+      "endorser": "Sierra Club",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists Sierra Club as an endorser.",
+      "excerpt": "Sierra Club",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e20",
+      "endorser": "The Street Trust Action Fund",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists The Street Trust Action Fund as an endorser.",
+      "excerpt": "The Street Trust Action Fund",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e21",
+      "endorser": "Pro-Animal Oregon",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists Pro-Animal Oregon as an endorser.",
+      "excerpt": "Pro-Animal Oregon",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e22",
+      "endorser": "Gray Panthers",
+      "endorser_type": "organization",
+      "statement": "Jamey Evenstar's pamphlet statement lists Gray Panthers as an endorser.",
+      "excerpt": "Gray Panthers",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e23",
+      "endorser": "Steph Routh",
+      "endorser_type": "official",
+      "statement": "Jamey Evenstar's pamphlet statement lists Steph Routh as an endorser.",
+      "excerpt": "Steph Routh, Planning",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e24",
+      "endorser": "JR Lilly",
+      "endorser_type": "person",
+      "statement": "Jamey Evenstar's pamphlet statement lists JR Lilly as an endorser.",
+      "excerpt": "JR Lilly, Native American",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jamey-evenstar-e25",
+      "endorser": "Cassie Wilson",
+      "endorser_type": "person",
+      "statement": "Jamey Evenstar's pamphlet statement lists Cassie Wilson as an endorser.",
+      "excerpt": "Cassie Wilson, disability",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

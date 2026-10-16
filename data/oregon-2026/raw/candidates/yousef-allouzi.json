@@ -1,0 +1,428 @@
+{
+  "id": "yousef-allouzi",
+  "name": "Yousef K Allouzi",
+  "race_id": "tigard-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Data Analyst",
+  "website_url": "https://www.yousefallouzi.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (pamphlet p. WC-38 prints www.yousefallouzi.com)",
+  "bio": [
+    {
+      "id": "yousef-allouzi-b1",
+      "topic": "custom:background",
+      "statement": "Allouzi's pamphlet statement lists his occupation as data analyst at the Oregon Judicial Department.",
+      "excerpt": "Occupation: Data Analyst Occupational Background: Oregon Judicial Department",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yousef-allouzi-b2",
+      "topic": "custom:background",
+      "statement": "The pamphlet lists his prior governmental experience as the City of Tigard Budget Committee.",
+      "excerpt": "Prior Governmental Experience: City of Tigard Budget Committee",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yousef-allouzi-b3",
+      "topic": "custom:background",
+      "statement": "The pamphlet lists a bachelor's in economics and a Master of Public Policy, both from Oregon State University.",
+      "excerpt": "Educational Background: BS Economics, Magna Cum Laude, Oregon State University Master of Public Policy, Oregon State University",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "yousef-allouzi-p1",
+      "topic": "transportation",
+      "statement": "Allouzi's pamphlet statement says families should be able to reach schools, libraries, parks and neighborhoods safely.",
+      "excerpt": "Safe Streets for All: Families should be able to reach schools, libraries, parks, and neighborhoods safely.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yousef-allouzi-p2",
+      "topic": "housing",
+      "statement": "His pamphlet statement says Tigard needs policies creating multigenerational affordable housing.",
+      "excerpt": "Housing You Can Afford: Tigard needs policies that create multigenerational affordable housing and help people remain in the community they call home.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yousef-allouzi-p3",
+      "topic": "environment",
+      "statement": "His pamphlet statement says growth should make Tigard more livable for everyone.",
+      "excerpt": "Growth should make Tigard more livable for everyone.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yousef-allouzi-p4",
+      "topic": "custom:governance",
+      "statement": "His pamphlet statement says elected officials should be directly accountable to the people they serve.",
+      "excerpt": "He believes elected officials should be directly accountable to the people they serve.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yousef-allouzi-p5",
+      "topic": "housing",
+      "statement": "His campaign website says policies should focus on multi-generational housing affordability.",
+      "excerpt": "We need policies that focus on multi-generational housing affordability.",
+      "source": {
+        "url": "https://www.yousefallouzi.com/",
+        "publisher": "Yousef Allouzi campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No public position found on taxes, budget or public safety services",
+    "No Pamplin (Tigard Times) 2026 candidate Q&A readable (pamplinmedia.com blocks automated fetch)",
+    "Campaign priorities subpage could not be fetched (error)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (extract yousef-allouzi.txt)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder (not listed on https://www.tigard-or.gov/your-government/council/meet-the-council)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.yousefallouzi.com ; /priorities (error) (domain printed in pamphlet p. WC-38)",
+      "result": "used (home only)"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Yousef Allouzi\" Tigard City Council 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Yousef Allouzi\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (no results)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Yousef Allouzi\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (unrelated)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Yousef Allouzi\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (unrelated Portland Tribune crime items)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "Pamplin Tigard Times 2026 council candidate articles (pamplinmedia.com blocks automated fetch)",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Ballot spelling 'Yousef K Allouzi' (county certified list); pamphlet prints 'Yousef Allouzi'. _index.json lists as loose match (first+last name) but page 38 prints the full name. Homepage item p5 sourced from site fetch; the site's quote text was returned by the fetch tool.",
+  "name_variants": [
+    "Yousef Allouzi"
+  ],
+  "endorsements": [
+    {
+      "id": "yousef-allouzi-e1",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Washington County Democrats",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "yousef-allouzi-e2",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "yousef-allouzi-e3",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists APANO Action Fund as an endorser.",
+      "excerpt": "APANO Action Fund",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "APANO Action Fund",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "yousef-allouzi-e4",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Oregon Futures Lab & Color PAC as an endorser.",
+      "excerpt": "Oregon Futures Lab & Color PAC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Oregon Futures Lab & Color PAC",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "yousef-allouzi-e5",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists The Ebony Collective Coalition as an endorser.",
+      "excerpt": "The Ebony Collective Coalition",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "The Ebony Collective Coalition",
+      "endorser_type": "organization"
+    },
+    {
+      "id": "yousef-allouzi-e6",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Juan Carlos Gonzalez, Metro Council President as an endorser.",
+      "excerpt": "Metro Council President Juan Carlos Gonzalez",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Juan Carlos Gonzalez, Metro Council President",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e7",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Duncan Hwang, Metro Councilor as an endorser.",
+      "excerpt": "Metro Councilor Duncan Hwang",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Duncan Hwang, Metro Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e8",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Kayse Jama, State Senator as an endorser.",
+      "excerpt": "State Senator Kayse Jama",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Kayse Jama, State Senator",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e9",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Myrna Muñoz, State Senate Democratic Nominee as an endorser.",
+      "excerpt": "State Senate Democratic Nominee Myrna Muñoz",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Myrna Muñoz, State Senate Democratic Nominee",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e10",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Mari Watanabe, State Representative as an endorser.",
+      "excerpt": "State Representative Mari Watanabe",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Mari Watanabe, State Representative",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e11",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Tammy Carpenter, State House Democratic Nominee as an endorser.",
+      "excerpt": "State House Democratic Nominee Tammy Carpenter",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Tammy Carpenter, State House Democratic Nominee",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e12",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Mohamed Alyajouri, Mount Hood Community College Board Member as an endorser.",
+      "excerpt": "Mohamed Alyajouri",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Mohamed Alyajouri, Mount Hood Community College Board Member",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e13",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Jairaj Singh, Former Tigard City Councilor as an endorser.",
+      "excerpt": "Former Tigard City Councilor Jairaj Singh",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Jairaj Singh, Former Tigard City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e14",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Edward Kimmi, Beaverton City Councilor as an endorser.",
+      "excerpt": "Beaverton City Councilors Edward Kimmi",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Edward Kimmi, Beaverton City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e15",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Nadia Hasan, Beaverton City Councilor as an endorser.",
+      "excerpt": "Nadia Hasan",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Nadia Hasan, Beaverton City Councilor",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e16",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists Crystal Weston, Tigard–Tualatin School Board Member as an endorser.",
+      "excerpt": "Crystal Weston",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Crystal Weston, Tigard–Tualatin School Board Member",
+      "endorser_type": "official"
+    },
+    {
+      "id": "yousef-allouzi-e17",
+      "topic": "custom:endorsement",
+      "statement": "Allouzi's pamphlet statement lists David Jaimes, Tigard–Tualatin School Board Member as an endorser.",
+      "excerpt": "David Jaimes",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "David Jaimes, Tigard–Tualatin School Board Member",
+      "endorser_type": "official"
+    }
+  ]
+}

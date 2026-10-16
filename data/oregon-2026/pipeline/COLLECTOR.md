@@ -56,7 +56,13 @@ Prefer spreading positions across distinct topics over many items on one topic.
 - Images/video are never evidence.
 - Nothing from model knowledge. If you didn't fetch it, it doesn't go in.
 - A candidate with little public information gets short lists and explicit `gaps`, never lower-tier filler.
-- No polling, endorsements, fundraising totals, predictions or horse-race content.
+- No polling, fundraising totals, predictions or horse-race content.
+- Endorsements (phase 1, Prash 2026-10-15): record endorsers that are *listed in a source you already read*
+  (a pamphlet statement's endorser list; the "submitted by"/sponsor line of a measure argument) in `endorsements`.
+  Don't run searches for endorsements. They're shown in an "Endorsed by" dropdown, never used as evidence of a
+  position and never scored. Each entry: `id`, `endorser`, `endorser_type` (outlet|organization|official|person),
+  for measures `side` (yes|no), `statement` (e.g. "Doe's pamphlet statement lists the Oregon AFL-CIO as an endorser."),
+  verbatim `excerpt`, `source`. Group long lists: one entry per named endorser up to 25; note the rest in `gaps`.
 - Incumbency: set `incumbent` true/false only when an official source states it; put that URL in
   `incumbent_source_url`. Otherwise null. Record the ballot spelling in `name`; other spellings in `name_variants`.
 - `retrieved_at`: today's date (YYYY-MM-DD).

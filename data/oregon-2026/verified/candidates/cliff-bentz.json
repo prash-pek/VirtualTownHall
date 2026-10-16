@@ -250,5 +250,287 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Race or-us-house-2: Bentz 5/5/2, Beck 4/5/0; all T1. Votes: roll calls 190 (Aye) and 23 (Yea), both confirmed on clerk.house.gov; same two votes as every other House incumbent. His pamphlet cites votes for the Save America, Secure America and Fix Our Forests Acts and the Farm Bill, which could be verified as roll calls if the selection is broadened. Incumbent=true confirmed (pamphlet, bentz.house.gov). No website in the pamphlet (closing line 'furnished by Cliff Bentz for Congress'), and the spot-search found only bentz.house.gov, so website_url=null is correct."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "cliff-bentz-e1",
+      "endorser": "Bruce Westerman",
+      "endorser_type": "official",
+      "statement": "Cliff Bentz's pamphlet statement lists Bruce Westerman as an endorser.",
+      "excerpt": "CHAIRMAN BRUCE WESTERMAN",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e2",
+      "endorser": "Jim Jordan",
+      "endorser_type": "official",
+      "statement": "Cliff Bentz's pamphlet statement lists Jim Jordan as an endorser.",
+      "excerpt": "CHAIRMAN JIM JORDAN",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e3",
+      "endorser": "Randy Sparacino",
+      "endorser_type": "official",
+      "statement": "Cliff Bentz's pamphlet statement lists Randy Sparacino as an endorser.",
+      "excerpt": "RANDY SPARACINO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e4",
+      "endorser": "Oregon Right to Life PAC",
+      "endorser_type": "organization",
+      "statement": "Cliff Bentz's pamphlet statement lists Oregon Right to Life PAC as an endorser.",
+      "excerpt": "Oregon Right to Life PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e5",
+      "endorser": "Oregon Cattlemen’s Association",
+      "endorser_type": "organization",
+      "statement": "Cliff Bentz's pamphlet statement lists Oregon Cattlemen’s Association as an endorser.",
+      "excerpt": "Oregon Cattlemen’s Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e6",
+      "endorser": "Oregon Farm Bureau Federation",
+      "endorser_type": "organization",
+      "statement": "Cliff Bentz's pamphlet statement lists Oregon Farm Bureau Federation as an endorser.",
+      "excerpt": "Oregon Farm Bureau Federation",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e7",
+      "endorser": "American Forest Resource Council",
+      "endorser_type": "organization",
+      "statement": "Cliff Bentz's pamphlet statement lists American Forest Resource Council as an endorser.",
+      "excerpt": "American Forest Resource Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e8",
+      "endorser": "Associate Oregon Loggers, Inc.",
+      "endorser_type": "organization",
+      "statement": "Cliff Bentz's pamphlet statement lists Associate Oregon Loggers, Inc. as an endorser.",
+      "excerpt": "Associate Oregon Loggers, Inc.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e9",
+      "endorser": "Oregon Rural Electric Cooperative Association",
+      "endorser_type": "organization",
+      "statement": "Cliff Bentz's pamphlet statement lists Oregon Rural Electric Cooperative Association as an endorser.",
+      "excerpt": "Oregon Rural Electric Cooperative Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e10",
+      "endorser": "Oregonians for Food and Shelter",
+      "endorser_type": "organization",
+      "statement": "Cliff Bentz's pamphlet statement lists Oregonians for Food and Shelter as an endorser.",
+      "excerpt": "Oregonians for Food and Shelter",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e11",
+      "endorser": "AgPAC",
+      "endorser_type": "organization",
+      "statement": "Cliff Bentz's pamphlet statement lists AgPAC as an endorser.",
+      "excerpt": "AgPAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e12",
+      "endorser": "The Young Republicans of Oregon",
+      "endorser_type": "organization",
+      "statement": "Cliff Bentz's pamphlet statement lists The Young Republicans of Oregon as an endorser.",
+      "excerpt": "The Young Republicans of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e13",
+      "endorser": "Oregon Nurseries’ PAC",
+      "endorser_type": "organization",
+      "statement": "Cliff Bentz's pamphlet statement lists Oregon Nurseries’ PAC as an endorser.",
+      "excerpt": "Oregon Nurseries’ PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "cliff-bentz-e14",
+      "endorser": "National Federation of Independent Business Fed PAC",
+      "endorser_type": "organization",
+      "statement": "Cliff Bentz's pamphlet statement lists National Federation of Independent Business Fed PAC as an endorser.",
+      "excerpt": "National Federation of Independent Business Fed PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -195,5 +195,247 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Race gresham-council-pos-2: Coleman-Cox 9 items, DelPlato 10 items, all T1 pamphlet statements. Comparable coverage; neither has T3 coverage, consistent with spot-searches. Both incumbent=false, supported by greshamoregon.gov/meet-the-council (Position 2 is held by Eddy Morales). City elections page lists exactly these two (DelPlato as 'William DelPlato'). Website TogetherWithHeather.org printed in her statement."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "heather-coleman-cox-e1",
+      "endorser": "Maxine Dexter",
+      "endorser_type": "official",
+      "statement": "Heather Coleman-Cox's pamphlet statement lists Maxine Dexter as an endorser.",
+      "excerpt": "Congresswoman Maxine Dexter, M.D.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-coleman-cox-e2",
+      "endorser": "Chris Gorsek",
+      "endorser_type": "official",
+      "statement": "Heather Coleman-Cox's pamphlet statement lists Chris Gorsek as an endorser.",
+      "excerpt": "State Senator Chris Gorsek",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-coleman-cox-e3",
+      "endorser": "Zach Hudson",
+      "endorser_type": "official",
+      "statement": "Heather Coleman-Cox's pamphlet statement lists Zach Hudson as an endorser.",
+      "excerpt": "State Representative Zach Hudson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-coleman-cox-e4",
+      "endorser": "Ricky Ruiz",
+      "endorser_type": "official",
+      "statement": "Heather Coleman-Cox's pamphlet statement lists Ricky Ruiz as an endorser.",
+      "excerpt": "State Representative Ricky Ruiz",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-coleman-cox-e5",
+      "endorser": "Eddy Morales",
+      "endorser_type": "official",
+      "statement": "Heather Coleman-Cox's pamphlet statement lists Eddy Morales as an endorser.",
+      "excerpt": "Gresham City Councilor Eddy Morales",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-coleman-cox-e6",
+      "endorser": "Gresham Firefighters IAFF Local 1062",
+      "endorser_type": "organization",
+      "statement": "Heather Coleman-Cox's pamphlet statement lists Gresham Firefighters IAFF Local 1062 as an endorser.",
+      "excerpt": "Gresham Firefighters — IAFF Local 1062",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-coleman-cox-e7",
+      "endorser": "Gresham Police Officers’ Association",
+      "endorser_type": "organization",
+      "statement": "Heather Coleman-Cox's pamphlet statement lists Gresham Police Officers’ Association as an endorser.",
+      "excerpt": "Gresham Police Officers’ Association",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-coleman-cox-e8",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Heather Coleman-Cox's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-coleman-cox-e9",
+      "endorser": "ILWU OADC",
+      "endorser_type": "organization",
+      "statement": "Heather Coleman-Cox's pamphlet statement lists ILWU OADC as an endorser.",
+      "excerpt": "ILWU OADC",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-coleman-cox-e10",
+      "endorser": "East County Rising",
+      "endorser_type": "organization",
+      "statement": "Heather Coleman-Cox's pamphlet statement lists East County Rising as an endorser.",
+      "excerpt": "East County Rising",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-coleman-cox-e11",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Heather Coleman-Cox's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-coleman-cox-e12",
+      "endorser": "Oregon Futures Lab & Color PAC",
+      "endorser_type": "organization",
+      "statement": "Heather Coleman-Cox's pamphlet statement lists Oregon Futures Lab & Color PAC as an endorser.",
+      "excerpt": "Oregon Futures Lab & Color PAC",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -225,5 +225,343 @@
     }
   ],
   "collection_notes": "The SOS Book 13 (Multnomah edition) PDF text is cut off by the fetch tool at ~120k characters (page 49), before the judicial and county sections; the county's large-print Multnomah pamphlet (pages 42-43 for Chair) was used instead. The fetch tool limits quotes to ~125 characters, so some excerpts are fragments. Brim-Edwards is the sitting District 3 Commissioner (multco.us/board) but not the incumbent Chair, so incumbent=false for this race. Campaign domain JuliaBrim-Edwards.com is printed in her pamphlet statement. Candidate filing PDF had no machine-readable text. OPB item p8 excerpt is a quote from her campaign announcement as reported by OPB.",
-  "voting_record": []
+  "voting_record": [],
+  "endorsements": [
+    {
+      "id": "julia-brim-edwards-e1",
+      "endorser": "Barbara Roberts",
+      "endorser_type": "official",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Barbara Roberts as an endorser.",
+      "excerpt": "Governor Barbara Roberts",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e2",
+      "endorser": "Ted Kulongoski",
+      "endorser_type": "official",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Ted Kulongoski as an endorser.",
+      "excerpt": "Governor Ted Kulongoski",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e3",
+      "endorser": "Suzanne Bonamici",
+      "endorser_type": "official",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Suzanne Bonamici as an endorser.",
+      "excerpt": "Congresswoman Suzanne Bonamici",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e4",
+      "endorser": "Gary Blackmer",
+      "endorser_type": "official",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Gary Blackmer as an endorser.",
+      "excerpt": "Former Auditors Gary Blackmer, Steve March",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e5",
+      "endorser": "Steve March",
+      "endorser_type": "official",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Steve March as an endorser.",
+      "excerpt": "Former Auditors Gary Blackmer, Steve March",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e6",
+      "endorser": "Northwest Oregon Labor Council, AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Northwest Oregon Labor Council, AFL-CIO as an endorser.",
+      "excerpt": "Northwest Oregon Labor Council, AFL-CIO",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e7",
+      "endorser": "AFSCME Local 88",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists AFSCME Local 88 as an endorser.",
+      "excerpt": "AFSCME Local 88",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e8",
+      "endorser": "Asian American Coalition",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Asian American Coalition as an endorser.",
+      "excerpt": "Asian American Coalition",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e9",
+      "endorser": "UFCW Local 555",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists UFCW Local 555 as an endorser.",
+      "excerpt": "UFCW Local 555",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e10",
+      "endorser": "Gresham Area Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Gresham Area Chamber of Commerce as an endorser.",
+      "excerpt": "Gresham Area Chamber of Commerce",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e11",
+      "endorser": "Columbia Pacific Building & Construction Trades Council",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Columbia Pacific Building & Construction Trades Council as an endorser.",
+      "excerpt": "Columbia Pacific Building & Construction Trades Council",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e12",
+      "endorser": "Laborers Local 737",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Laborers Local 737 as an endorser.",
+      "excerpt": "Laborers Local 737",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e13",
+      "endorser": "Ironworkers Local 29",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Ironworkers Local 29 as an endorser.",
+      "excerpt": "Ironworkers Local 29",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e14",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e15",
+      "endorser": "Portland Firefighters’ Association, Local 43",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Portland Firefighters’ Association, Local 43 as an endorser.",
+      "excerpt": "Portland Firefighters’ Association, Local 43",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e16",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e17",
+      "endorser": "IBEW Local 48",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists IBEW Local 48 as an endorser.",
+      "excerpt": "IBEW Local 48",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e18",
+      "endorser": "Basic Rights PAC",
+      "endorser_type": "organization",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Basic Rights PAC as an endorser.",
+      "excerpt": "Basic Rights PAC",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e19",
+      "endorser": "Fairview Mayor Kudrna",
+      "endorser_type": "official",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Fairview Mayor Kudrna as an endorser.",
+      "excerpt": "Fairview Mayor Kudrna",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e20",
+      "endorser": "Gresham Mayor Stovall",
+      "endorser_type": "official",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Gresham Mayor Stovall as an endorser.",
+      "excerpt": "Gresham Mayor Stovall",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e21",
+      "endorser": "Maywood Park Mayor Akers",
+      "endorser_type": "official",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Maywood Park Mayor Akers as an endorser.",
+      "excerpt": "Maywood Park Mayor Akers",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e22",
+      "endorser": "Portland Mayor Wilson",
+      "endorser_type": "official",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Portland Mayor Wilson as an endorser.",
+      "excerpt": "Portland Mayor Wilson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e23",
+      "endorser": "Troutdale Mayor Ripma",
+      "endorser_type": "official",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Troutdale Mayor Ripma as an endorser.",
+      "excerpt": "Troutdale Mayor Ripma",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-e24",
+      "endorser": "Wood Village Mayor Rios-Campos",
+      "endorser_type": "official",
+      "statement": "Julia Brim-Edwards's pamphlet statement lists Wood Village Mayor Rios-Campos as an endorser.",
+      "excerpt": "Wood Village Mayor Rios-Campos",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -1,0 +1,439 @@
+{
+  "id": "kate-nelson",
+  "name": "Kate Nelson",
+  "race_id": "west-linn-council",
+  "party": null,
+  "incumbent": null,
+  "occupation": "Chair, West Linn Planning Commission",
+  "website_url": "https://www.kateforwl.com",
+  "website_verified_via": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (pamphlet statement lists www.KateForWL.com)",
+  "bio": [
+    {
+      "id": "kate-nelson-b1",
+      "topic": "custom:occupation",
+      "statement": "Nelson's pamphlet statement lists the occupation as chair of the West Linn Planning Commission, with a background in law, finance and publishing.",
+      "excerpt": "West Linn Planning Commission, Chair Occupational Background: Law, Finance, Publishing",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-b2",
+      "topic": "education",
+      "statement": "Nelson's pamphlet statement lists a B.A. in International Studies (Chinese) and a J.D. from Washington University in St. Louis.",
+      "excerpt": "Washington Uni. in St. Louis, International Studies (Chinese), Bachelor of Arts; Law, Juris Doctor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-b3",
+      "topic": "custom:experience",
+      "statement": "Nelson's pamphlet statement lists the West Linn Planning Commission, 2024 to present, as prior governmental experience.",
+      "excerpt": "West Linn Planning Commission, 2024-Present",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "kate-nelson-p1",
+      "topic": "economy",
+      "statement": "Nelson says they support investing in the Waterfront to implement the community's vision.",
+      "excerpt": "investing in our Waterfront to implement our community’s vision;",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-p2",
+      "topic": "housing",
+      "statement": "Nelson says they support revitalizing the Highway 43 corridor to attract businesses and increase housing options for new and retiring residents.",
+      "excerpt": "revitalizing the Highway 43 corridor to attract new businesses to the city, and increase housing options for new and retiring residents;",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-p3",
+      "topic": "transportation",
+      "statement": "Nelson says they support safe routes to school and pedestrian safety projects across the city.",
+      "excerpt": "safe routes to school and pedestrian safety projects across our city;",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-p4",
+      "topic": "environment",
+      "statement": "Nelson says they support preserving and improving parks and natural areas.",
+      "excerpt": "preserving and improving our parks, and natural areas;",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-p5",
+      "topic": "housing",
+      "statement": "Nelson says they support keeping West Linn livable and affordable for families, seniors and residents at every stage of life.",
+      "excerpt": "keeping West Linn livable and affordable for families, seniors, and residents at every stage of life;",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-p6",
+      "topic": "infrastructure",
+      "statement": "Nelson says they support maintaining the infrastructure and essential services residents depend on.",
+      "excerpt": "maintaining the infrastructure and essential services we depend on.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-p7",
+      "topic": "environment",
+      "statement": "Nelson's campaign site lists preserving and protecting the Willamette Wetlands.",
+      "excerpt": "Preserving and protecting our unique river-adjacent Willamette Wetlands.",
+      "source": {
+        "url": "https://www.kateforwl.com",
+        "publisher": "Kate Nelson campaign website (Priorities/About)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched; excerpt present and attribution correct.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [
+    {
+      "id": "kate-nelson-e1",
+      "endorser": "Rory Bialostosky, West Linn Mayor",
+      "endorser_type": "official",
+      "statement": "Kate Nelson's pamphlet statement lists Rory Bialostosky, West Linn Mayor as an endorser.",
+      "excerpt": "WL Mayor Rory Bialostosky",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-e2",
+      "endorser": "Mary Baumgardner, West Linn City Council President",
+      "endorser_type": "official",
+      "statement": "Kate Nelson's pamphlet statement lists Mary Baumgardner, West Linn City Council President as an endorser.",
+      "excerpt": "WL City Council President Mary Baumgardner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-e3",
+      "endorser": "Kevin Bonnington, West Linn Councilor",
+      "endorser_type": "official",
+      "statement": "Kate Nelson's pamphlet statement lists Kevin Bonnington, West Linn Councilor as an endorser.",
+      "excerpt": "WL City Councilors Kevin Bonnington, Carol Bryck, Leo Groner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-e4",
+      "endorser": "Carol Bryck, West Linn Councilor",
+      "endorser_type": "official",
+      "statement": "Kate Nelson's pamphlet statement lists Carol Bryck, West Linn Councilor as an endorser.",
+      "excerpt": "WL City Councilors Kevin Bonnington, Carol Bryck, Leo Groner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-e5",
+      "endorser": "Leo Groner, West Linn Councilor",
+      "endorser_type": "official",
+      "statement": "Kate Nelson's pamphlet statement lists Leo Groner, West Linn Councilor as an endorser.",
+      "excerpt": "WL City Councilors Kevin Bonnington, Carol Bryck, Leo Groner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-e6",
+      "endorser": "Jules Walters, State Representative and former West Linn Mayor",
+      "endorser_type": "official",
+      "statement": "Kate Nelson's pamphlet statement lists Jules Walters, State Representative and former West Linn Mayor as an endorser.",
+      "excerpt": "State Representative / Former WL Mayor Jules Walters",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-e7",
+      "endorser": "Jenni Tan, former West Linn Councilor",
+      "endorser_type": "person",
+      "statement": "Kate Nelson's pamphlet statement lists Jenni Tan, former West Linn Councilor as an endorser.",
+      "excerpt": "Former WL City Councilors Jenni Tan, Brenda Perry",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-e8",
+      "endorser": "Brenda Perry, former West Linn Councilor",
+      "endorser_type": "person",
+      "statement": "Kate Nelson's pamphlet statement lists Brenda Perry, former West Linn Councilor as an endorser.",
+      "excerpt": "Former WL City Councilors Jenni Tan, Brenda Perry",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-e9",
+      "endorser": "Tom Watton, Planning Commissioner",
+      "endorser_type": "official",
+      "statement": "Kate Nelson's pamphlet statement lists Tom Watton, Planning Commissioner as an endorser.",
+      "excerpt": "Planning Commissioners Tom Watton, Kris Kachirisky",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-e10",
+      "endorser": "Kris Kachirisky, Planning Commissioner",
+      "endorser_type": "official",
+      "statement": "Kate Nelson's pamphlet statement lists Kris Kachirisky, Planning Commissioner as an endorser.",
+      "excerpt": "Planning Commissioners Tom Watton, Kris Kachirisky",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kate-nelson-e11",
+      "endorser": "Jason Evans, former Planning Commissioner",
+      "endorser_type": "person",
+      "statement": "Kate Nelson's pamphlet statement lists Jason Evans, former Planning Commissioner as an endorser.",
+      "excerpt": "Former Planning Commissioner Jason Evans",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 56, printed C-55)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.56, L column).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "gaps": [
+    "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+    "VOTE411 profile exists but candidate has not responded",
+    "Incumbency not stated by an official source retrieved (city roster page names no councilors)",
+    "No dated news coverage with attributed positions found"
+  ],
+  "verification_summary": {
+    "verified": 21,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Three candidates, all with pamphlet statements; Bonnington and Nelson have 2 and 1 T2 items from campaign sites, Kapigian 2. Endorsement counts 12/11/10. Bonnington has 2 extra T1 city-page items as the sitting councilor. Balanced; spot search found nothing missed."
+  }
+}

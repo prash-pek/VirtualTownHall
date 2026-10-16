@@ -1,0 +1,226 @@
+{
+  "id": "bob-niemeyer",
+  "name": "Bob Niemeyer",
+  "race_id": "or-house-25",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": "Business (mechanical engineer, founded engineering company)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "bob-niemeyer-b1",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says Niemeyer grew up in Silverton, Oregon, and is the son of a dentist.",
+      "excerpt": "Niemeyer is the son of a dentist and grew up in Silverton, Oregon.",
+      "source": {
+        "url": "https://ballotpedia.org/Bob_Niemeyer",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bob-niemeyer-b2",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says Niemeyer is a licensed professional mechanical engineer who founded an engineering company in 1988.",
+      "excerpt": "He is a licensed professional mechanical engineer and, in 1988, founded his own engineering company.",
+      "source": {
+        "url": "https://ballotpedia.org/Bob_Niemeyer",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bob-niemeyer-b3",
+      "topic": "custom:background",
+      "statement": "In the voters' pamphlet statement, Niemeyer lists occupation as engineer and president of New Ventures Engineering.",
+      "excerpt": "Occupation: Engineer Occupational Background: President New Ventures Engineering",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bob-niemeyer-b4",
+      "topic": "custom:background",
+      "statement": "Niemeyer lists a BS in mechanical engineering from Oregon State University and registered professional engineer status.",
+      "excerpt": "Educational Background: BS Mecahnical Engineering Oregon State University, Registered Professional Engineer",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bob-niemeyer-b5",
+      "topic": "custom:background",
+      "statement": "Niemeyer lists mentoring the Tigard High School First Robotics program as prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Mentor Tigard HS First Robotics Program",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "bob-niemeyer-p1",
+      "topic": "civil-rights",
+      "statement": "Niemeyer says in-person voting with photo ID is the only way to get government to listen to citizens again.",
+      "excerpt": "The only way to get our government to listen to American Citizens again is in-person voting with photo ID.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bob-niemeyer-p2",
+      "topic": "transportation",
+      "statement": "Niemeyer says toll roads are an example of government not listening to people, and that tolls are only necessary to fund government.",
+      "excerpt": "Toll roads are the next example of NOT listening to the People because tolls are only necessary to fund government, not our roads.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bob-niemeyer-p3",
+      "topic": "housing",
+      "statement": "Niemeyer says state fees, taxes and regulations on new housing construction amount to deficit spending.",
+      "excerpt": "Our government has also found ways to “deficit-spend” with fees, taxes, and regulations on all new construction of housing.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bob-niemeyer-p4",
+      "topic": "taxes",
+      "statement": "Niemeyer's pamphlet statement refers to the successful effort to stop the gas tax.",
+      "excerpt": "We ALL know how we successfully stopped the Gas Tax.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Original statement said Niemeyer cites the effort as evidence government is not listening; the excerpt does not contain that claim. Statement trimmed to the excerpt.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No 2026 policy positions found; Ballotpedia lists none for 2026 and he did not complete its 2026 survey",
+    "No campaign website found"
+  ],
+  "endorsements": [
+    {
+      "id": "bob-niemeyer-e1",
+      "endorser": "Darrel Gulstrom, AKA “The Annoying Child”",
+      "endorser_type": "person",
+      "statement": "Bob Niemeyer's pamphlet statement lists Darrel Gulstrom, AKA “The Annoying Child” as an endorser.",
+      "excerpt": "Darrel Gulstrom, AKA “The Annoying Child”",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 4,
+    "rejected": 0,
+    "balance_notes": "HD25: Bowman 15 items (T1 official page/newsletter/pamphlet, T3 Ballotpedia 2022 survey dated in statement) + 15 endorsements; Niemeyer 9 items (T1 pamphlet, T3 Ballotpedia bio) + 1 endorsement (a pamphlet line naming 'Darrel Gulstrom, AKA The Annoying Child'). Niemeyer has no 2026 Ballotpedia survey and no website; gaps document this. Imbalance is explained by incumbency and longer statement. Bowman's 2022 survey positions are older and labelled."
+  }
+}

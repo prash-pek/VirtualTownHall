@@ -1,0 +1,220 @@
+{
+  "id": "christine-bierman",
+  "name": "Christine Bierman",
+  "name_variants": [],
+  "race_id": "wood-village-council-pos-4",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.woodvillageor.gov/government/city-council/",
+  "occupation": "Noon Supervisor at Alder Elementary School",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "christine-bierman-b1",
+      "topic": "custom:bio",
+      "statement": "In her voters' pamphlet statement, Bierman lists her occupation as noon supervisor at Alder Elementary School.",
+      "excerpt": "Noon Supervisor at Alder Elementary School",
+      "source": {
+        "url": "https://multco.us/file/wood_village_pos_4_christine_bierman/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "christine-bierman-b2",
+      "topic": "custom:bio",
+      "statement": "Her pamphlet statement lists work as a Gresham-Barlow public school teacher from 2004 to 2025.",
+      "excerpt": "Public school teacher from 2004-2025 in the Gresham-Barlow School District",
+      "source": {
+        "url": "https://multco.us/file/wood_village_pos_4_christine_bierman/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "christine-bierman-b3",
+      "topic": "custom:bio",
+      "statement": "Her pamphlet statement lists a master's in curriculum and instruction from Portland State University (2003).",
+      "excerpt": "Master's in Curriculum and Instruction at Portland State University, 2003",
+      "source": {
+        "url": "https://multco.us/file/wood_village_pos_4_christine_bierman/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement also claimed a Seattle University journalism bachelor's, which the excerpt does not contain (page does list it); statement narrowed to the excerpt.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "christine-bierman-b4",
+      "topic": "custom:bio",
+      "statement": "Her pamphlet statement lists current service on the Wood Village Parks and Recreation Committee.",
+      "excerpt": "Currently: Wood Village Parks and Recreation Committee",
+      "source": {
+        "url": "https://multco.us/file/wood_village_pos_4_christine_bierman/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "christine-bierman-p1",
+      "topic": "custom:governance",
+      "statement": "In her pamphlet statement, Bierman says she wants to preserve Wood Village's small-town atmosphere with fiscal responsibility.",
+      "excerpt": "I wish to preserve the small-town atmosphere, while leading with common sense and fiscal responsibility.",
+      "source": {
+        "url": "https://multco.us/file/wood_village_pos_4_christine_bierman/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Verified; the pamphlet column layout interleaves boilerplate so the sentence is split across text blocks in the PDF text layer, wording matches.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "christine-bierman-p2",
+      "topic": "public-safety",
+      "statement": "Her pamphlet statement lists seeking a responsible solution to the emergency services model.",
+      "excerpt": "seeking a responsible solution to our emergency services model",
+      "source": {
+        "url": "https://multco.us/file/wood_village_pos_4_christine_bierman/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "christine-bierman-p3",
+      "topic": "housing",
+      "statement": "Her pamphlet statement says taxpayer funds should be used responsibly to address homelessness and poverty.",
+      "excerpt": "using taxpayer funds responsibly and effectively to address problems of homelessness and poverty among our neighbors.",
+      "source": {
+        "url": "https://multco.us/file/wood_village_pos_4_christine_bierman/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "christine-bierman-p4",
+      "topic": "environment",
+      "statement": "Her pamphlet statement says she wants to develop more tree canopy throughout Wood Village.",
+      "excerpt": "develop more tree canopy throughout Wood Village",
+      "source": {
+        "url": "https://multco.us/file/wood_village_pos_4_christine_bierman/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "christine-bierman-p5",
+      "topic": "environment",
+      "statement": "Her pamphlet statement says she would work with WMS to expand recycling of more types of plastics.",
+      "excerpt": "work with WMS to expand recycling of a bigger variety of plastics.",
+      "source": {
+        "url": "https://multco.us/file/wood_village_pos_4_christine_bierman/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "christine-bierman-p6",
+      "topic": "local-business",
+      "statement": "Her pamphlet statement lists supporting new businesses in the area.",
+      "excerpt": "supporting new businesses in our area.",
+      "source": {
+        "url": "https://multco.us/file/wood_village_pos_4_christine_bierman/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed in pamphlet statement",
+    "No T3 coverage of her campaign found",
+    "No voting record (has not held elected office)"
+  ],
+  "verification_summary": {
+    "verified": 9,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Pamphlet filer; item count in line with other filers. No missed T1/T2 material found in spot-search."
+  }
+}

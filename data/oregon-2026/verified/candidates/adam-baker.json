@@ -41,5 +41,127 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Baker did not answer the Capital Chronicle questionnaire (confirmed). Pamphlet not reached."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "adam-baker-e1",
+      "endorser": "Nathan Vasquez",
+      "endorser_type": "official",
+      "statement": "Adam Baker's pamphlet statement lists Nathan Vasquez as an endorser.",
+      "excerpt": "Multnomah County DA, Nathan Vasquez",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-baker-e2",
+      "endorser": "Oregon City Police Employees Association",
+      "endorser_type": "organization",
+      "statement": "Adam Baker's pamphlet statement lists Oregon City Police Employees Association as an endorser.",
+      "excerpt": "Oregon City Police Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-baker-e3",
+      "endorser": "Oregon Coalition of Police and Sheriffs (ORCOPS)",
+      "endorser_type": "organization",
+      "statement": "Adam Baker's pamphlet statement lists Oregon Coalition of Police and Sheriffs (ORCOPS) as an endorser.",
+      "excerpt": "Oregon Coalition of Police and Sheriffs (ORCOPS)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-baker-e4",
+      "endorser": "Defend Small Business PAC",
+      "endorser_type": "organization",
+      "statement": "Adam Baker's pamphlet statement lists Defend Small Business PAC as an endorser.",
+      "excerpt": "Defend Small Business PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-baker-e5",
+      "endorser": "National Federation of Independent Business/OR PAC",
+      "endorser_type": "organization",
+      "statement": "Adam Baker's pamphlet statement lists National Federation of Independent Business/OR PAC as an endorser.",
+      "excerpt": "National Federation of Independent Business/OR PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "adam-baker-e6",
+      "endorser": "Oregon Small Business Association",
+      "endorser_type": "organization",
+      "statement": "Adam Baker's pamphlet statement lists Oregon Small Business Association as an endorser.",
+      "excerpt": "Oregon Small Business Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

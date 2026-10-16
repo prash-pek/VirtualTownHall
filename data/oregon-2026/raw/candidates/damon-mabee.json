@@ -1,0 +1,152 @@
+{
+ "id": "damon-mabee",
+ "name": "Damon Mabee",
+ "race_id": "oregon-city-mayor",
+ "party": null,
+ "incumbent": false,
+ "occupation": "Retired",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "damon-mabee-b1",
+   "topic": "custom:occupation",
+   "statement": "In his pamphlet statement Mabee lists his occupation as retired, with a background as a substitute teacher, security professional, union field representative and naval officer.",
+   "excerpt": "Substitute Teacher (OCSD); Unarmed Security Professional; Field Representative (LIUNA 483); Naval Officer",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "damon-mabee-b2",
+   "topic": "custom:experience",
+   "statement": "His pamphlet statement lists prior service as an Oregon City commissioner and planning commissioner, on the urban renewal commission and budget committee, and on the South Fork Water Board.",
+   "excerpt": "OC City Commissioner; OC Planning Commissioner; OC Urban Renewal Commissioner and Budget Committee; South Fork Water Board Member and Budget Committee",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "damon-mabee-b3",
+   "topic": "education",
+   "statement": "Mabee's pamphlet statement lists a BS from Oregon State and an M Ed from Portland State.",
+   "excerpt": "Oregon State, BS; Portland State, M Ed.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "damon-mabee-p1",
+   "topic": "custom:parks",
+   "statement": "Mabee says parks are his top priority and that it is time to take another hard look at the city budget to find money to fix the park system.",
+   "excerpt": "I believe it is time to once again take a hard look at the budget and find the money to fix our Park system.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "damon-mabee-p2",
+   "topic": "taxes",
+   "statement": "Mabee says that, as a retiree on a fixed income, he feels the impact of taxes and fee changes.",
+   "excerpt": "As a homeowner and a retiree on a fixed income, I feel the impact of taxes and fee changes.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "damon-mabee-p3",
+   "topic": "economy",
+   "statement": "Mabee says the city needs to decide whether it will be a bedroom community or have its own industries that let people work and live in the same town.",
+   "excerpt": "we as a City need to decide if we are going to be a bedroom community, or have our own industries that allow people to work and live in the same town.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "damon-mabee-p4",
+   "topic": "public-safety",
+   "statement": "Mabee says safe parks are active parks and that safe, local options for residents mean functioning parks and trails.",
+   "excerpt": "we need safe, local options for our citizens, and that means functioning Parks and Trails. Safe parks are active parks",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "No campaign website found or linked from the pamphlet",
+  "No sourced position on public safety staffing, housing or transportation beyond pamphlet statement",
+  "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+  "No endorsements listed in his pamphlet statement"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "Clackamas pamphlet extract damon-mabee.txt (source_url https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://orcity.org/933",
+   "result": "used (roster: Mabee not listed as mayor or commissioner)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain confirmed",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Damon Mabee\" mayor Oregon City 2026",
+   "result": "nothing relevant (results were 2020 Oregon City recall-era items; canbyfirst.com article on 2020 special election fetched, no date and not current)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Damon Mabee\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Damon Mabee\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Damon Mabee\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (pamplinmedia.com blocks automated fetch; only 2020-era snippets seen)"
+  }
+ ],
+ "collection_notes": "Pamphlet page 37 holds Mabee (left) and Marl (right) side by side; the endorsement list on that page belongs to Marl. Incumbent=false: city page lists the current mayor as Denyse Mc... (surname truncated) and four commissioners, none Mabee. Pamphlet index has no loose_matches key. Inventory name matches.",
+ "incumbent_source_url": "https://orcity.org/933"
+}

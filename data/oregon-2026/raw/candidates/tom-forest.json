@@ -1,0 +1,201 @@
+{
+  "id": "tom-forest",
+  "name": "Tom L Forest",
+  "race_id": "or-house-31",
+  "party": "Democrat",
+  "incumbent": null,
+  "name_variants": [
+    "Tom Forest"
+  ],
+  "occupation": "Software engineer",
+  "website_url": "https://GoingDeepForOregon.org",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+  "bio": [
+    {
+      "id": "tom-forest-b1",
+      "topic": "custom:background",
+      "statement": "The Capital Chronicle guide says Forest is a software engineer who previously worked for Nike, Intel and Portland General Electric.",
+      "excerpt": "Tom Forest is a software engineer who previously worked for Nike, Intel and Portland General Electric.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-house-district-31/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tom-forest-b2",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Forest lists his occupation as software engineer, with a background at PGE, Thermofisher and Intel.",
+      "excerpt": "Occupation: Software Engineer Occupational Background: Full-stack Software Engineer at PGE, Thermofisher, and Intel",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tom-forest-b3",
+      "topic": "custom:background",
+      "statement": "Forest lists Hillsboro High School and a Bachelor of Science in management from MIT.",
+      "excerpt": "Educational Background: Hillsboro High School; Massachusetts Institute of Technology (MIT), Bachelor of Science, Management",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tom-forest-b4",
+      "topic": "custom:background",
+      "statement": "Forest lists the Banks School District Budget Committee since 2012.",
+      "excerpt": "Prior Governmental Experience: Banks School District Budget Committee, since 2012",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "tom-forest-p1",
+      "topic": "immigration",
+      "statement": "Forest says he will work to protect Oregonians from federal overreach such as ICE, vote-by-mail suppression and tax breaks for the rich.",
+      "excerpt": "I will work to protect us from Federal overreach like ICE, vote-by-mail suppression, and tax breaks for the rich.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tom-forest-p2",
+      "topic": "technology",
+      "statement": "Forest says he is opposed to bills that raise utility rates and give tax breaks to data centers and big tech in North Plains.",
+      "excerpt": "raise utility rates and give hundreds of millions of dollars in tax breaks for data centers and big tech in North Plains (SB1586). I'm a big \"No\" to all that.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tom-forest-p3",
+      "topic": "economy",
+      "statement": "Forest says he will focus on more jobs, fully funded education and rural transportation.",
+      "excerpt": "for more jobs, for fully funded education, for rural transportation",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tom-forest-p4",
+      "topic": "agriculture",
+      "statement": "Forest says communities can balance agricultural and natural resource economies with new industries.",
+      "excerpt": "There's room for both here, not letting the perfect be the enemy of the better.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tom-forest-p5",
+      "topic": "taxes",
+      "statement": "Forest's campaign website proposes disconnecting Oregon's tax code from the federal code and selectively reconnecting.",
+      "excerpt": "Let’s completely disconnect Oregon’s tax code from the federal code and selectively reconnect.",
+      "source": {
+        "url": "https://GoingDeepForOregon.org",
+        "publisher": "Tom Forest campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "tom-forest-p6",
+      "topic": "civil-rights",
+      "statement": "Forest's campaign website lists getting corporate money out of politics as an issue.",
+      "excerpt": "Get Corporate Money out of Politics",
+      "source": {
+        "url": "https://GoingDeepForOregon.org",
+        "publisher": "Tom Forest campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No policy positions: did not respond to the Capital Chronicle questionnaire",
+    "No campaign website found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract tom-forest.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 52)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "no public office found",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website https://GoingDeepForOregon.org (printed in pamphlet statement); fetched https://GoingDeepForOregon.org",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-house-district-31/",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.wweek.com/news/2026/04/29/wws-may-2026-endorsements-oregon-house/",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Tom Forest\" Oregon House 31 Columbia County 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Tom Forest\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Tom Forest\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Tom Forest\"",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Challenger; ballot spelling 'Tom L Forest'. Willamette Week (2026-04-29) also summarizes his priorities (school funding, corporate tax change, rural transit) but without quotable text; not itemized. Capital Chronicle guide undated. Pamphlet statement: SOS Washington edition p. 52 (same text in other editions). Site issue pages (education, rural Oregon, environment, resilience, progress) not fetched.",
+  "endorsements": []
+}

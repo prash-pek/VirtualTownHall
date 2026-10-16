@@ -151,5 +151,267 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Source-access disparity, not candidate disparity: the large-print/full pamphlet PDFs are only readable through Broussard and the start of Greene's statements, and the individual statement PDFs for Broussard, Greene, Williams, Ong Norris and Zaghloul are scans with no machine-readable text. Cruz and Robertson have readable individual statements, so they have T1 positions; Williams, Ong Norris and Zaghloul have only T3 (Portland Mercury 2026-09-26) items, and Broussard and Greene mix T1 bio with few positions. Verifier hit the same limits (PDF text truncated at Greene's statement). Same search effort appears applied to all seven; disparity is documented in each file's gaps."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "herman-greene-e1",
+      "endorser": "Go Portland Go",
+      "endorser_type": "organization",
+      "statement": "Herman Greene's pamphlet statement lists Go Portland Go as an endorser.",
+      "excerpt": "Endorsed by: Go Portland Go, Future Portland, Anthony",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "herman-greene-e2",
+      "endorser": "Future Portland",
+      "endorser_type": "organization",
+      "statement": "Herman Greene's pamphlet statement lists Future Portland as an endorser.",
+      "excerpt": "Endorsed by: Go Portland Go, Future Portland, Anthony",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "herman-greene-e3",
+      "endorser": "Anthony Morales",
+      "endorser_type": "person",
+      "statement": "Herman Greene's pamphlet statement lists Anthony Morales as an endorser.",
+      "excerpt": "Morales, Dan Ryan, Dwight Holton, Eric Knox, Eric Zimmerman,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "herman-greene-e4",
+      "endorser": "Dan Ryan",
+      "endorser_type": "person",
+      "statement": "Herman Greene's pamphlet statement lists Dan Ryan as an endorser.",
+      "excerpt": "Morales, Dan Ryan, Dwight Holton, Eric Knox, Eric Zimmerman,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "herman-greene-e5",
+      "endorser": "Dwight Holton",
+      "endorser_type": "person",
+      "statement": "Herman Greene's pamphlet statement lists Dwight Holton as an endorser.",
+      "excerpt": "Morales, Dan Ryan, Dwight Holton, Eric Knox, Eric Zimmerman,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "herman-greene-e6",
+      "endorser": "Eric Knox",
+      "endorser_type": "person",
+      "statement": "Herman Greene's pamphlet statement lists Eric Knox as an endorser.",
+      "excerpt": "Morales, Dan Ryan, Dwight Holton, Eric Knox, Eric Zimmerman,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "herman-greene-e7",
+      "endorser": "Eric Zimmerman",
+      "endorser_type": "person",
+      "statement": "Herman Greene's pamphlet statement lists Eric Zimmerman as an endorser.",
+      "excerpt": "Morales, Dan Ryan, Dwight Holton, Eric Knox, Eric Zimmerman,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "herman-greene-e8",
+      "endorser": "Loretta Smith",
+      "endorser_type": "person",
+      "statement": "Herman Greene's pamphlet statement lists Loretta Smith as an endorser.",
+      "excerpt": "Loretta Smith, Patte Sullivan, Terry Johnson, Tiffany Penson,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "herman-greene-e9",
+      "endorser": "Patte Sullivan",
+      "endorser_type": "person",
+      "statement": "Herman Greene's pamphlet statement lists Patte Sullivan as an endorser.",
+      "excerpt": "Loretta Smith, Patte Sullivan, Terry Johnson, Tiffany Penson,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "herman-greene-e10",
+      "endorser": "Terry Johnson",
+      "endorser_type": "person",
+      "statement": "Herman Greene's pamphlet statement lists Terry Johnson as an endorser.",
+      "excerpt": "Loretta Smith, Patte Sullivan, Terry Johnson, Tiffany Penson,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "herman-greene-e11",
+      "endorser": "Tiffany Penson",
+      "endorser_type": "person",
+      "statement": "Herman Greene's pamphlet statement lists Tiffany Penson as an endorser.",
+      "excerpt": "Loretta Smith, Patte Sullivan, Terry Johnson, Tiffany Penson,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "herman-greene-e12",
+      "endorser": "Travis Nelson",
+      "endorser_type": "person",
+      "statement": "Herman Greene's pamphlet statement lists Travis Nelson as an endorser.",
+      "excerpt": "Travis Nelson, Director Winta Yohaness",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "herman-greene-e13",
+      "endorser": "Winta Yohaness",
+      "endorser_type": "official",
+      "statement": "Herman Greene's pamphlet statement lists Winta Yohaness as an endorser.",
+      "excerpt": "Travis Nelson, Director Winta Yohaness",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 34",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

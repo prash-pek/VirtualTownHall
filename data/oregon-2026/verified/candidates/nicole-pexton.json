@@ -185,5 +185,167 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Unopposed. 9 T1 items from candidate filing and pamphlet statement; no 2026 T3 coverage found by verifier spot-search either."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "nicole-pexton-e1",
+      "endorser": "Simone Rede",
+      "endorser_type": "official",
+      "statement": "Nicole Pexton's pamphlet statement lists Simone Rede as an endorser.",
+      "excerpt": "Simone Rede, Portland City Auditor",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 38",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nicole-pexton-e2",
+      "endorser": "Brian Evans",
+      "endorser_type": "official",
+      "statement": "Nicole Pexton's pamphlet statement lists Brian Evans as an endorser.",
+      "excerpt": "Brian Evans, Metro Auditor",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 38",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nicole-pexton-e3",
+      "endorser": "Kristine Adams-Wannberg",
+      "endorser_type": "official",
+      "statement": "Nicole Pexton's pamphlet statement lists Kristine Adams-Wannberg as an endorser.",
+      "excerpt": "Kristine Adams-Wannberg, Washington County Auditor",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 38",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nicole-pexton-e4",
+      "endorser": "Gary Blackmer",
+      "endorser_type": "official",
+      "statement": "Nicole Pexton's pamphlet statement lists Gary Blackmer as an endorser.",
+      "excerpt": "Gary Blackmer, former Multnomah County and Portland City",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 38",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nicole-pexton-e5",
+      "endorser": "Brandy Penner",
+      "endorser_type": "official",
+      "statement": "Nicole Pexton's pamphlet statement lists Brandy Penner as an endorser.",
+      "excerpt": "Brandy Penner, Portland Community College Board Member",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 38",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nicole-pexton-e6",
+      "endorser": "Terri Preeg-Rigsby",
+      "endorser_type": "person",
+      "statement": "Nicole Pexton's pamphlet statement lists Terri Preeg-Rigsby as an endorser.",
+      "excerpt": "Terri Preeg-Rigsby",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 38",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nicole-pexton-e7",
+      "endorser": "East County Rising PAC",
+      "endorser_type": "organization",
+      "statement": "Nicole Pexton's pamphlet statement lists East County Rising PAC as an endorser.",
+      "excerpt": "East County Rising PAC",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 38",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nicole-pexton-e8",
+      "endorser": "AFSCME Local 88",
+      "endorser_type": "organization",
+      "statement": "Nicole Pexton's pamphlet statement lists AFSCME Local 88 as an endorser.",
+      "excerpt": "AFSCME Local 88",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 38",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

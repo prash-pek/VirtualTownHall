@@ -3,56 +3,217 @@
   "jurisdiction_id": "north-clackamas-sd",
   "number": "3-639",
   "title": "Bonds to increase safety, security; repair schools, update classrooms",
-  "ballot_label": "Caption: Bonds to increase safety, security; repair schools, update classrooms (Question and summary not retrieved.)",
-  "summary": "North Clackamas School District general obligation bond measure. The district describes a proposed $245 million Capital Construction Bond to upgrade technology, cooling and roofing systems at every district school, which it says would not increase the current tax rate.",
-  "yes_means": "A yes vote authorizes the North Clackamas School District to issue general obligation bonds for school safety, security, repairs and classroom updates.",
-  "no_means": "A no vote does not authorize the bonds.",
-  "fiscal_impact": "District states: proposed $245 million Capital Construction Bond, 'without increasing your current tax rate' (district bond page, published 2026-07-06). Official ballot-title estimate not retrieved.",
+  "ballot_label": "Caption: Bonds to increase safety, security; repair schools, update classrooms. Question: Shall District maintain its existing bond rate, issue bonds strengthening security, repairing aging schools, improving classrooms conditions, vocational training spaces? If the bonds are approved, they will be payable from taxes on property or property ownership that are not subject to the limits of sections 11 and 11b, Article XI of the Oregon Constitution. Summary: This measure is estimated to maintain the existing District bond levy rate, no increase estimated with passage. If passed, State provides $6,126,000 in matching funds. The North Clackamas School District seeks approval for the issuance of general obligation bonds in the principal amount of $245 million in bonds to finance capital costs.",
+  "summary": "Referred by the district board. Would authorize $245 million in general obligation bonds for school security and safety upgrades, ventilation and cooling, roof and building repairs, vocational training spaces, athletic facilities and technology. The district estimates the bond levy rate would stay at about $2.37 per $1,000 of assessed value, and a state match of $6,126,000 depends on passage. A community oversight committee and regular audits are required.",
+  "yes_means": "A yes vote authorizes North Clackamas School District to issue $245 million in general obligation bonds for school safety and security, building repairs, classroom and vocational-space updates.",
+  "no_means": "A no vote does not authorize the bonds, and the district would not receive the $6,126,000 state matching funds.",
+  "fiscal_impact": "Per the county pamphlet: $245 million in general obligation bonds, issued in series maturing within 21 years; because existing bonds are maturing, the measure is estimated to continue the current bond levy rate of about $2.37 per $1,000 of assessed value, with no increase. Actual rates may differ with interest rates and property values. The district would receive $6,126,000 in state matching funds only if the bond passes.",
   "full_text_url": null,
-  "arguments": [],
+  "arguments": [
+    {
+      "id": "north-clackamas-sd-3-639-y1",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Simona Beattie, Community in Support of NC12",
+      "topic": "education",
+      "statement": "Community in Support of NC12, in an argument signed by school board and budget committee members, says the bond addresses critical facility needs without increasing the current tax rate.",
+      "excerpt": "Funds from this bond allow our district to address critical facility needs without increasing the current tax rate. That was by design.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 99 (printed C-98)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "north-clackamas-sd-3-639-y2",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Will Anderson, Milwaukie City Council President",
+      "topic": "infrastructure",
+      "statement": "Milwaukie's mayor and city councilors, in an argument furnished by Council President Will Anderson, say the bond would fund heating, ventilation, cooling, security and other upgrades at every neighborhood school.",
+      "excerpt": "Every school gets updates to heating, ventilation, and cooling systems, WiFi upgrades, new security cameras, and lockboxes for emergency responders.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 99 (printed C-98)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "north-clackamas-sd-3-639-y3",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Nicole Woodfill, Community in Support of NC12",
+      "topic": "education",
+      "statement": "School parents and teachers, in an argument furnished by Community in Support of NC12, say the bond would address hot classrooms and aging systems without raising the current tax rate.",
+      "excerpt": "Our teachers see firsthand how learning is affected when classrooms become too hot, aging systems fail, or facilities don’t meet students’ needs.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 100 (printed C-99)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "north-clackamas-sd-3-639-y4",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Nicole Woodfill, Community in Support of NC12",
+      "topic": "public-safety",
+      "statement": "An argument furnished by Community in Support of NC12 says the bond funds safety and security upgrades and accessibility improvements, including at Rex Putnam High School.",
+      "excerpt": "The bond also funds meaningful investments in accessibility. Upgrades will improve access for students, families, and community members with disabilities, ensuring school buildings are welcoming and usable for everyone.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 100 (printed C-99)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "north-clackamas-sd-3-639-y5",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Nicole Woodfill, Community in Support of NC12",
+      "topic": "education",
+      "statement": "An argument furnished by Community in Support of NC12 says well-maintained schools serve as community hubs and that the bond would fund repairs and cooling systems at no increase to the current tax rate.",
+      "excerpt": "Well-maintained schools do more than just serve students. They are a beacon of our community, serving as hubs for events, activities, and services that connect neighbors and support families.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 101 (printed C-100)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    }
+  ],
   "topics": [
     "education",
     "infrastructure",
     "public-safety"
   ],
   "gaps": [
-    "No YES argument found in T1/T3 sources (pamphlet arguments unreadable; no press coverage of the 2026 bond found outside AI-generated citizenportal.ai summaries, which are excluded).",
-    "No NO argument found in T1/T3 sources (same searches; no opposition statements found)."
+    "No argument in opposition appears in the county voters' pamphlet pages for Measure 3-639 (extract pages 98-101); none was found in the extract."
+  ],
+  "endorsements": [
+    {
+      "id": "north-clackamas-sd-3-639-e1",
+      "endorser": "Community in Support of NC12",
+      "endorser_type": "organization",
+      "side": "yes",
+      "statement": "Community in Support of NC12 furnished four of the pamphlet arguments in favor of Measure 3-639 (through Simona Beattie and Nicole Woodfill).",
+      "excerpt": "This information furnished by Nicole Woodfill, Community in Support of NC12",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 100 (printed C-99)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "north-clackamas-sd-3-639-e2",
+      "endorser": "Will Anderson, Milwaukie City Council President",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Council President Will Anderson furnished a pamphlet argument in favor of Measure 3-639 signed by the Milwaukie mayor and city councilors.",
+      "excerpt": "This information furnished by Will Anderson, Milwaukie City Council President",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 99 (printed C-98)"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    }
   ],
   "ballot_label_verification": {
-    "status": "corrected",
+    "status": "verified",
     "checks_failed": [],
-    "note": "Caption confirmed against the inventory title from the Clackamas County Nov 3, 2026 election page measure list; the county ballot-title PDF returned only a translation/accommodation notice to WebFetch, so the question and summary could not be checked. Removed the pointer to collection_notes, which are stripped from verified output.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "summary_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "District bond page (ardenwald.nclack.k12.or.us/bond-2026, 2026-07-06): 'proposed $245 million Capital Construction Bond', 'upgrade critical technology, cooling, and roofing systems at every district school', 'without increasing your current tax rate'. Attributed to the district.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "yes_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Generic but faithful to the caption; neutral.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "no_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Neutral.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "fiscal_impact_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Quote 'without increasing your current tax rate' and $245M confirmed on the district page dated 2026-07-06; attributed to the district.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "verification_summary": {
-    "verified": 0,
+    "verified": 7,
     "corrected": 0,
     "rejected": 0,
-    "balance_notes": "No arguments on either side: 0 official, 0 pamphlet, 0 press. Both absences documented in gaps. Verifier spot search found only district pages and excluded aggregators (citizenportal.ai); no T3 coverage of the 2026 bond. Clackamas pamphlet measure pages unreadable, so filed arguments could not be checked."
+    "balance_notes": "5 YES / 0 NO. No argument in opposition appears in the pamphlet pages; none filed."
   }
 }

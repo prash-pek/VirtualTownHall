@@ -157,5 +157,77 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Not on the current council roster. Maywood Park council roster (council-staff page) lists Jim Akers, Kevin Bussema (Council President), Jeff Baltzell, Miriam Berman and Thomas Welander."
+  "collection_notes": "Not on the current council roster. Maywood Park council roster (council-staff page) lists Jim Akers, Kevin Bussema (Council President), Jeff Baltzell, Miriam Berman and Thomas Welander.",
+  "endorsements": [
+    {
+      "id": "kelly-ripley-feller-e1",
+      "endorser": "Kate Lamb",
+      "endorser_type": "person",
+      "statement": "Kelly Ripley Feller's pamphlet statement lists Kate Lamb as an endorser.",
+      "excerpt": "—Kate Lamb, lifelong Maywood Park resident",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kelly-ripley-feller-e2",
+      "endorser": "Linda Harden",
+      "endorser_type": "person",
+      "statement": "Kelly Ripley Feller's pamphlet statement lists Linda Harden as an endorser.",
+      "excerpt": "Linda Harden, longtime Maywood Park resident",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kelly-ripley-feller-e3",
+      "endorser": "Kevin Bussema",
+      "endorser_type": "official",
+      "statement": "Kelly Ripley Feller's pamphlet statement lists Kevin Bussema as an endorser.",
+      "excerpt": "Kevin Bussema, President, Maywood Park City Council",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kelly-ripley-feller-e4",
+      "endorser": "Miriam Berman",
+      "endorser_type": "official",
+      "statement": "Kelly Ripley Feller's pamphlet statement lists Miriam Berman as an endorser.",
+      "excerpt": "Miriam Berman, Councilor, Maywood Park City Council",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kelly-ripley-feller-e5",
+      "endorser": "Breylan Deak-Eriksen",
+      "endorser_type": "person",
+      "statement": "Kelly Ripley Feller's pamphlet statement lists Breylan Deak-Eriksen as an endorser.",
+      "excerpt": "Breylan Deak-Eriksen, Maywood Park resident",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

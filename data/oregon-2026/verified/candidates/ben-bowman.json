@@ -1,0 +1,656 @@
+{
+  "id": "ben-bowman",
+  "name": "Ben Bowman",
+  "race_id": "or-house-25",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+  "occupation": "School district administrator",
+  "website_url": "http://www.BenForOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+  "bio": [
+    {
+      "id": "ben-bowman-b1",
+      "topic": "custom:background",
+      "statement": "Bowman's official legislative biography says Bowman works as a school district administrator.",
+      "excerpt": "In his day job, he works as a school district administrator.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/bowman/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-b2",
+      "topic": "education",
+      "statement": "Bowman's official biography says Bowman earned a bachelor's degree from the University of Oregon and a master's degree from Stanford University.",
+      "excerpt": "he earned his bachelor's degree from the University of Oregon and his master's degree from Stanford University.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/bowman/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-b3",
+      "topic": "custom:background",
+      "statement": "Bowman's official biography says Bowman represents House District 25, covering Tigard, Metzger and South Beaverton.",
+      "excerpt": "representing House District 25 (Tigard, Metzger, and South Beaverton).",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/bowman/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-b4",
+      "topic": "custom:background",
+      "statement": "In the voters' pamphlet statement, Bowman lists occupation as senior fellow at Lewis & Clark College and House Majority Leader, with a background as a Gladstone school district administrator and Oregon Department of Education policy analyst.",
+      "excerpt": "Occupation: Senior Fellow, Lewis & Clark College; Majority Leader of the Oregon House of Representatives Occupational Background: School District Administrator, Gladstone School District; Policy Analyst, Oregon Department of Education",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-b5",
+      "topic": "custom:background",
+      "statement": "Bowman lists an MA from Stanford University and a BA from the University of Oregon.",
+      "excerpt": "Educational Background: MA, Stanford University; BA, University of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "ben-bowman-p1",
+      "topic": "housing",
+      "statement": "In the 2022 Ballotpedia Candidate Connection survey, Bowman said the state must build more housing and make purchasing easier for first-time home buyers.",
+      "excerpt": "We must build more housing, make purchasing easier for first-time home buyers,",
+      "source": {
+        "url": "https://ballotpedia.org/Ben_Bowman",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-p2",
+      "topic": "healthcare",
+      "statement": "In the 2022 Ballotpedia Candidate Connection survey, Bowman said they support reducing healthcare and prescription drug costs and expanding affordable childcare.",
+      "excerpt": "I support reducing the cost of healthcare and prescription drugs, expanding affordable childcare options",
+      "source": {
+        "url": "https://ballotpedia.org/Ben_Bowman",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-p3",
+      "topic": "immigration",
+      "statement": "In the March 2026 session newsletter, Bowman is quoted saying the session positioned Oregon as a national leader on standing up for immigrant communities.",
+      "excerpt": "The work that we did this session has positioned Oregon as a national leader on standing up for our immigrant communities.",
+      "source": {
+        "url": "https://content.govdelivery.com/accounts/ORLEG/bulletins/40f2127",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": "2026-03-19",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-p4",
+      "topic": "housing",
+      "statement": "A March 2026 legislative newsletter from Bowman quotes Bowman on a home-buying bill, saying Oregonians should not be competing with Wall Street to buy a home.",
+      "excerpt": "The premise of this bill is simple: Oregonians should not be competing with Wall Street to buy a home.",
+      "source": {
+        "url": "https://content.govdelivery.com/accounts/ORLEG/bulletins/40f2127",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": "2026-03-19",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-p5",
+      "topic": "economy",
+      "statement": "Bowman cites voting to cut taxes for 200,000 working Oregonians under the heading of lowering costs.",
+      "excerpt": "Lowering Your Costs: Ben voted to cut taxes for 200,000 working Oregonians.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-p6",
+      "topic": "healthcare",
+      "statement": "Bowman cites passing a law barring corporations and private equity from controlling physician practices.",
+      "excerpt": "Keeping Healthcare Local: Ben passed a first-in-the-nation law barring corporations and private equity from controlling physician practices",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-p7",
+      "topic": "education",
+      "statement": "Bowman's pamphlet statement describes Bowman as a champion for a well-funded, outcomes-oriented education system.",
+      "excerpt": "Improving Our Schools: Ben is a champion for a well-funded, outcomes-oriented education system.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt is the campaign statement describing him in the third person; statement now says so and avoids pronouns.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-p8",
+      "topic": "immigration",
+      "statement": "Bowman cites backing laws protecting Oregonians' due process and privacy rights against federal immigration enforcement.",
+      "excerpt": "He backed laws protecting Oregonians' due process and privacy rights against federal immigration enforcement.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-p9",
+      "topic": "public-safety",
+      "statement": "Bowman cites votes for stronger penalties for fentanyl dealing, removing the statute of limitations for child sexual abuse and increasing punishment for domestic violence.",
+      "excerpt": "Making Oregon Safer: Ben voted for stronger penalties for those dealing fentanyl, removing the statute of limitations for child sexual abuse, and increasing the punishment for domestic violence.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-p10",
+      "topic": "housing",
+      "statement": "Bowman cites supporting record investments in affordable housing and voting to speed up permitting for housing construction.",
+      "excerpt": "Ben supported record investments in affordable housing. He voted to speed up permitting for housing construction",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement mentioned permitting, which the excerpt lacked. Excerpt extended with the next pamphlet sentence (verbatim, same column).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "ben-bowman-v1",
+      "topic": "healthcare",
+      "statement": "A KLCC item reproduced in Bowman's March 2026 newsletter says Bowman was lead author of Senate Bill 951, a 2025 law on the corporate practice of medicine.",
+      "excerpt": "was lead author of Senate Bill 951, a 2025 law designed to prevent the corporate practice of medicine in Oregon.",
+      "source": {
+        "url": "https://content.govdelivery.com/accounts/ORLEG/bulletins/40f2127",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": "2026-03-19",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "The sentence is a KLCC news item (Mar. 12) inside the legislative newsletter, not Bowman's own words; statement now attributes it.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "gaps": [
+    "No 2026 questionnaire answers (Capital Chronicle guide for HD 25 not located in search); positions rely on a 2022 survey and a March 2026 newsletter",
+    "No roll-call voting items collected (phase 1 scope)",
+    "No public position found on taxes, public safety, transportation, environment"
+  ],
+  "endorsements": [
+    {
+      "id": "ben-bowman-e1",
+      "endorser": "U.S. Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Ben Bowman's pamphlet statement lists U.S. Senator Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e2",
+      "endorser": "U.S. Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Ben Bowman's pamphlet statement lists U.S. Senator Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e3",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e4",
+      "endorser": "OR Labor Federation AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists OR Labor Federation AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e5",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e6",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e7",
+      "endorser": "American Federation of Teachers - Oregon",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists American Federation of Teachers - Oregon as an endorser.",
+      "excerpt": "American Federation of Teachers - Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e8",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e9",
+      "endorser": "Oregon Coalition of Police & Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists Oregon Coalition of Police & Sheriffs as an endorser.",
+      "excerpt": "Oregon Coalition of Police & Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e10",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e11",
+      "endorser": "Oregon Building Trades Unions",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists Oregon Building Trades Unions as an endorser.",
+      "excerpt": "Oregon Building Trades Unions",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e12",
+      "endorser": "Stand for Children",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists Stand for Children as an endorser.",
+      "excerpt": "Stand for Children",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e13",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e14",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ben-bowman-e15",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Ben Bowman's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 44",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 20,
+    "corrected": 11,
+    "rejected": 0,
+    "balance_notes": "HD25: Bowman 15 items (T1 official page/newsletter/pamphlet, T3 Ballotpedia 2022 survey dated in statement) + 15 endorsements; Niemeyer 9 items (T1 pamphlet, T3 Ballotpedia bio) + 1 endorsement (a pamphlet line naming 'Darrel Gulstrom, AKA The Annoying Child'). Niemeyer has no 2026 Ballotpedia survey and no website; gaps document this. Imbalance is explained by incumbency and longer statement. Bowman's 2022 survey positions are older and labelled."
+  }
+}

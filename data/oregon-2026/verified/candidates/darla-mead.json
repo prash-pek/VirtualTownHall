@@ -1,0 +1,561 @@
+{
+  "id": "darla-mead",
+  "name": "Darla Mead",
+  "race_id": "or-house-51",
+  "party": "Democrat",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/bunch/Pages/default.aspx",
+  "occupation": "Oncology nurse navigator",
+  "website_url": "https://www.darlameadfororegon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf (p. 54)",
+  "bio": [
+    {
+      "id": "darla-mead-b1",
+      "topic": "custom:background",
+      "statement": "The Capital Chronicle voter guide lists Mead as an oncology nurse navigator.",
+      "excerpt": "Oncology nurse navigator",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-51/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-b2",
+      "topic": "custom:occupation",
+      "statement": "Mead's pamphlet statement lists the occupation as oncology nurse navigator, with a background as bedside RN, infusion RN and clinical nursing instructor.",
+      "excerpt": "Occupation: Oncology Nurse Navigator Occupational Background: Bedside RN, Infusion RN, Clinical Nursing Instructor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 54); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-b3",
+      "topic": "custom:education",
+      "statement": "Mead's pamphlet statement lists a nursing BS from Oregon Health & Science University and an associate degree in nursing from Clackamas Community College.",
+      "excerpt": "Educational Background: Oregon Health & Science University Nursing School, Bachelor of Science in Nursing; Clackamas Community College, Associates in Nursing",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 54); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-b4",
+      "topic": "custom:experience",
+      "statement": "Mead's pamphlet statement lists no prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: None",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 54); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "darla-mead-p1",
+      "topic": "healthcare",
+      "statement": "Mead's pamphlet statement says they would use their knowledge of the healthcare system to deliver affordable, accessible healthcare to every Oregonian.",
+      "excerpt": "I’ll use my knowledge of our healthcare system to deliver affordable, accessible healthcare to every Oregonian.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 54); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-p2",
+      "topic": "economy",
+      "statement": "Mead's pamphlet statement calls for removing barriers for small businesses, uplifting working families, and lowering the cost of housing and utilities.",
+      "excerpt": "We must remove barriers for small businesses, uplift working families, lower the cost of housing and utilities, and grow our communities while preserving our unique, small-town cultures.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 54); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-p3",
+      "topic": "education",
+      "statement": "Mead's pamphlet statement supports fully funded schools, career training and workforce readiness, and policies that recognize the challenges of rural districts.",
+      "excerpt": "I support fully funded schools, career training and workforce readiness, and policies that recognize the challenges faced by rural districts.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 54); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-p4",
+      "topic": "environment",
+      "statement": "Mead's pamphlet statement commits to sustainability measures that preserve water, forests and wild spaces while expanding clean energy jobs.",
+      "excerpt": "I’m committed to real sustainability measures that preserve our water, forests, and wild spaces while expanding the clean energy jobs of the future.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 54); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-p5",
+      "topic": "civil-rights",
+      "statement": "Mead's pamphlet statement says they will protect individual rights and ensure every Oregonian is treated equally under the law.",
+      "excerpt": "I’ll protect individual rights and ensure that every Oregonian is treated equally under the law.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 54); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-p6",
+      "topic": "healthcare",
+      "statement": "On their campaign site, Mead says health insurance should not depend on employment status, job quality or employer.",
+      "excerpt": "Health insurance should not depend on your employment status, job quality, or employer.",
+      "source": {
+        "url": "https://www.darlameadfororegon.com",
+        "publisher": "Darla Mead campaign website (darlameadfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-p7",
+      "topic": "local-business",
+      "statement": "On their campaign site, Mead says they will fight to reduce the burden on small business, strengthen schools and grow local economies.",
+      "excerpt": "I'll fight to reduce the burden on small business, strengthen our schools, and grow our economies",
+      "source": {
+        "url": "https://www.darlameadfororegon.com",
+        "publisher": "Darla Mead campaign website (darlameadfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Capital Chronicle 2026 questionnaire: no response"
+  ],
+  "endorsements": [
+    {
+      "id": "darla-mead-e1",
+      "endorser": "U.S. Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Darla Mead's pamphlet statement lists U.S. Senator Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e2",
+      "endorser": "U.S. Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Darla Mead's pamphlet statement lists U.S. Senator Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e3",
+      "endorser": "Congresswoman Janelle Bynum",
+      "endorser_type": "official",
+      "statement": "Darla Mead's pamphlet statement lists Congresswoman Janelle Bynum as an endorser.",
+      "excerpt": "Congresswoman Janelle Bynum",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e4",
+      "endorser": "Congresswoman Maxine Dexter",
+      "endorser_type": "official",
+      "statement": "Darla Mead's pamphlet statement lists Congresswoman Maxine Dexter as an endorser.",
+      "excerpt": "Congresswoman Maxine Dexter",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e5",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Darla Mead's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e6",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Darla Mead's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e7",
+      "endorser": "Nurses & Friends for Single Payer",
+      "endorser_type": "organization",
+      "statement": "Darla Mead's pamphlet statement lists Nurses & Friends for Single Payer as an endorser.",
+      "excerpt": "Nurses & Friends for Single Payer",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e8",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Darla Mead's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e9",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Darla Mead's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e10",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Darla Mead's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e11",
+      "endorser": "OR Labor Federation AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Darla Mead's pamphlet statement lists OR Labor Federation AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e12",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Darla Mead's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e13",
+      "endorser": "AFT Oregon",
+      "endorser_type": "organization",
+      "statement": "Darla Mead's pamphlet statement lists AFT Oregon as an endorser.",
+      "excerpt": "AFT Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e14",
+      "endorser": "Clackamas County Democrats",
+      "endorser_type": "organization",
+      "statement": "Darla Mead's pamphlet statement lists Clackamas County Democrats as an endorser.",
+      "excerpt": "Clackamas County Democrats",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e15",
+      "endorser": "State Representative Tawna Sanchez",
+      "endorser_type": "official",
+      "statement": "Darla Mead's pamphlet statement lists State Representative Tawna Sanchez as an endorser.",
+      "excerpt": "State Representative Tawna Sanchez",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darla-mead-e16",
+      "endorser": "State Representative Rob Nosse",
+      "endorser_type": "official",
+      "statement": "Darla Mead's pamphlet statement lists State Representative Rob Nosse as an endorser.",
+      "excerpt": "State Representative Rob Nosse",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 54.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 11,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "HD51: 11 items + 16 endorsements vs Matt Bunch 9 items + 14 endorsements. Balanced; Mead has T2 items from her site, Bunch has T3 items from OPB.",
+    "endorsements": {
+      "verified": 16,
+      "corrected": 0,
+      "rejected": 0
+    }
+  }
+}

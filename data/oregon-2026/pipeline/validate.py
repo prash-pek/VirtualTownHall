@@ -88,6 +88,26 @@ def check_verification(v, where, errs):
         errs.append(f"{where}: verification.verified_at must be YYYY-MM-DD")
 
 
+ENDORSER_TYPES = ("outlet", "organization", "official", "person")
+
+
+def check_endorsements(d, errs, verified, measure=False):
+    """Endorsements listed in a source we already read (phase 1: pamphlet text). Shown, never scored."""
+    items = d.get("endorsements") or []
+    if len(items) > 25:
+        errs.append(f"endorsements: {len(items)} items, cap 25")
+    for i, e in enumerate(items):
+        where = f"endorsements[{i}]"
+        if not e.get("endorser"):
+            errs.append(f"{where}: endorser missing")
+        if e.get("endorser_type") not in ENDORSER_TYPES:
+            errs.append(f"{where}: endorser_type must be one of {'|'.join(ENDORSER_TYPES)}")
+        if measure and e.get("side") not in ("yes", "no"):
+            errs.append(f"{where}: side must be yes|no")
+        e.setdefault("topic", "custom:endorsement")
+        check_item(e, where, errs, verified)
+
+
 def check_candidate(d, errs, verified):
     cid = d.get("id")
     inv = CANDIDATES.get(cid)
@@ -114,6 +134,7 @@ def check_candidate(d, errs, verified):
             if item.get("id") in ids:
                 errs.append(f"duplicate item id {item.get('id')}")
             ids.add(item.get("id"))
+    check_endorsements(d, errs, verified)
 
 
 def check_measure(d, errs, verified):
@@ -147,6 +168,7 @@ def check_measure(d, errs, verified):
             errs.append(f"{side}: {n} arguments, cap 6")
         if n == 0 and not any(side.upper() in g or side in g.lower() for g in d.get("gaps") or []):
             errs.append(f"no {side} arguments and no gap explaining it")
+    check_endorsements(d, errs, verified, measure=True)
     if verified:
         for key in ("ballot_label", "summary", "yes_means", "no_means", "fiscal_impact"):
             if d.get(key) and not isinstance(d.get(f"{key}_verification"), dict):

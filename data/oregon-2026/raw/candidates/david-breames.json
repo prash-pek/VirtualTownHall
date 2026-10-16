@@ -1,0 +1,111 @@
+{
+ "id": "david-breames",
+ "name": "David Breames",
+ "race_id": "sandy-council-seat-1",
+ "party": null,
+ "incumbent": null,
+ "occupation": "Owner and Licensed Private Investigator, Doing Better Protective Services US, LLC",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "david-breames-b1",
+   "topic": "custom:background",
+   "statement": "Breames's pamphlet statement lists his occupation as owner and licensed private investigator of Doing Better Protective Services US, LLC.",
+   "excerpt": "Owner and Licensed Private Investigator, Doing Better Protective Services US, LLC",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 51 (printed C-50)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "david-breames-b2",
+   "topic": "custom:background",
+   "statement": "Breames's pamphlet statement lists prior governmental experience as four years on the City of Sandy Parks and Recreation Board.",
+   "excerpt": "Prior Governmental Experience: City of Sandy Parks and Recreation Board, four years",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 51 (printed C-50)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "david-breames-p1",
+   "topic": "custom:government-transparency",
+   "statement": "In his pamphlet statement, Breames says every council decision should be transparent, clearly justified and made in residents' interest.",
+   "excerpt": "every decision should be transparent, clearly justified, and made in the interest of the people who live here.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 51 (printed C-50)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "david-breames-p2",
+   "topic": "custom:government-transparency",
+   "statement": "In his pamphlet statement, Breames says he will provide plain-language summaries of what the council does.",
+   "excerpt": "provide plain-language summaries of what the council actually does, so you can stay connected without rearranging your life.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 51 (printed C-50)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "gaps": [
+  "No positions found on housing, utilities, public safety or growth",
+  "No campaign website found",
+  "Pamphlet statement lists no endorsers"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "pamphlet extract clackamas-county/david-breames.txt (+ _index.json loose_matches checked)",
+   "result": "Pamphlet statement quoted from the script extract (read-only); pamphlet PDF not fetched. Statement on pamphlet PDF p. 51 (printed C-50)."
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.ci.sandy.or.us/citycouncil/page/meet-your-city-council (Meet Your City Council); ci.sandy.or.us/citycouncil",
+   "result": "blocked (robots.txt disallows automated fetch); incumbency left null"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign website domain linked from pamphlet or official pages",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"David Breames\" Sandy city council 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5a",
+   "query_or_url": "\"David Breames\" allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5b",
+   "query_or_url": "\"David Breames\" allowed_domains kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5c",
+   "query_or_url": "\"David Breames\" allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 51 (C-50): Breames left column, Jil Williamson right; only his column used. P. 6 is the index. Search results for the name returned only unrelated Sandy (Utah/Oregon) news. Incumbency left null (official Sandy site blocks automated fetch).",
+ "endorsements": []
+}

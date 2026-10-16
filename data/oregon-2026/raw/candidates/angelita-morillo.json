@@ -272,5 +272,357 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Steps run identically for all 21 District 3 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF (with the full and large-print county pamphlets tried where the statement PDF was a scan; the pamphlet's candidate index marks candidates who filed no statement) plus the City Auditor's AUD-120 candidate filing form linked from portland.gov's 2026 city candidates page; (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the three articles that cover the whole District 3 field: OPB 'What to know about Portland's District 3 council race' (2026-10-07), Portland Mercury 'Meet the Candidates For City Council District 3' (2026-09-09) and Portland Tribune 'Meet the Portland City Council District 3 candidates' (2026-10-13; Q&A — the Tribune says Sollitt, Pham, Parker, McCormick, Kelly and Frankenstein did not respond and Tucker withdrew). Multi-winner race: OPB states three council seats are available in District 3. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Incumbent per portland.gov/council (listed under District 3)."
+  "collection_notes": "Steps run identically for all 21 District 3 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF (with the full and large-print county pamphlets tried where the statement PDF was a scan; the pamphlet's candidate index marks candidates who filed no statement) plus the City Auditor's AUD-120 candidate filing form linked from portland.gov's 2026 city candidates page; (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the three articles that cover the whole District 3 field: OPB 'What to know about Portland's District 3 council race' (2026-10-07), Portland Mercury 'Meet the Candidates For City Council District 3' (2026-09-09) and Portland Tribune 'Meet the Portland City Council District 3 candidates' (2026-10-13; Q&A — the Tribune says Sollitt, Pham, Parker, McCormick, Kelly and Frankenstein did not respond and Tucker withdrew). Multi-winner race: OPB states three council seats are available in District 3. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Incumbent per portland.gov/council (listed under District 3).",
+  "endorsements": [
+    {
+      "id": "angelita-morillo-e1",
+      "endorser": "AFSCME Local 189",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists AFSCME Local 189 as an endorser.",
+      "excerpt": "AFSCME Local 189",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e2",
+      "endorser": "APANO Action Fund",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists APANO Action Fund as an endorser.",
+      "excerpt": "APANO Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e3",
+      "endorser": "Basic Rights PAC",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists Basic Rights PAC as an endorser.",
+      "excerpt": "Basic Rights PAC",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e4",
+      "endorser": "Building Power for Communities of Color",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists Building Power for Communities of Color as an endorser.",
+      "excerpt": "Building Power for Communities of Color",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e5",
+      "endorser": "Latino Network Action Fund",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists Latino Network Action Fund as an endorser.",
+      "excerpt": "Latino Network Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e6",
+      "endorser": "LiUNA",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists LiUNA as an endorser.",
+      "excerpt": "LiUNA",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e7",
+      "endorser": "Next Up Action Fund",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists Next Up Action Fund as an endorser.",
+      "excerpt": "Next Up Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e8",
+      "endorser": "North Coast States Carpenter Union",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists North Coast States Carpenter Union as an endorser.",
+      "excerpt": "North Coast States Carpenter Union",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e9",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e10",
+      "endorser": "Portland Association of Teachers",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists Portland Association of Teachers as an endorser.",
+      "excerpt": "Portland Association of Teachers",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e11",
+      "endorser": "Portland DSA",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists Portland DSA as an endorser.",
+      "excerpt": "Portland DSA",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e12",
+      "endorser": "Portland For All",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists Portland For All as an endorser.",
+      "excerpt": "Portland For All",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e13",
+      "endorser": "SEIU",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists SEIU as an endorser.",
+      "excerpt": "SEIU",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e14",
+      "endorser": "Sierra Club",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists Sierra Club as an endorser.",
+      "excerpt": "Sierra Club",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e15",
+      "endorser": "Sunrise Movement",
+      "endorser_type": "organization",
+      "statement": "Angelita Morillo's pamphlet statement lists Sunrise Movement as an endorser.",
+      "excerpt": "Sunrise Movement",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e16",
+      "endorser": "Khanh Pham",
+      "endorser_type": "official",
+      "statement": "Angelita Morillo's pamphlet statement lists Khanh Pham as an endorser.",
+      "excerpt": "Senator Khanh Pham",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e17",
+      "endorser": "Willy Chotzen",
+      "endorser_type": "official",
+      "statement": "Angelita Morillo's pamphlet statement lists Willy Chotzen as an endorser.",
+      "excerpt": "Representative Willy Chotzen",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e18",
+      "endorser": "Juan Carlos González",
+      "endorser_type": "official",
+      "statement": "Angelita Morillo's pamphlet statement lists Juan Carlos González as an endorser.",
+      "excerpt": "Metro Council President Juan Carlos González",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e19",
+      "endorser": "Duncan Hwang",
+      "endorser_type": "official",
+      "statement": "Angelita Morillo's pamphlet statement lists Duncan Hwang as an endorser.",
+      "excerpt": "Metro Councilor Duncan Hwang",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e20",
+      "endorser": "Candace Avalos",
+      "endorser_type": "official",
+      "statement": "Angelita Morillo's pamphlet statement lists Candace Avalos as an endorser.",
+      "excerpt": "Portland City Councilors Candace Avalos, Mitch Green, Sameer Kanal,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e21",
+      "endorser": "Mitch Green",
+      "endorser_type": "official",
+      "statement": "Angelita Morillo's pamphlet statement lists Mitch Green as an endorser.",
+      "excerpt": "Portland City Councilors Candace Avalos, Mitch Green, Sameer Kanal,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e22",
+      "endorser": "Sameer Kanal",
+      "endorser_type": "official",
+      "statement": "Angelita Morillo's pamphlet statement lists Sameer Kanal as an endorser.",
+      "excerpt": "Portland City Councilors Candace Avalos, Mitch Green, Sameer Kanal,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e23",
+      "endorser": "Tiffany Koyama Lane",
+      "endorser_type": "official",
+      "statement": "Angelita Morillo's pamphlet statement lists Tiffany Koyama Lane as an endorser.",
+      "excerpt": "Tiffany Koyama Lane",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e24",
+      "endorser": "Akasha Lawrence Spence",
+      "endorser_type": "official",
+      "statement": "Angelita Morillo's pamphlet statement lists Akasha Lawrence Spence as an endorser.",
+      "excerpt": "Former State Senator Akasha Lawrence Spence",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "angelita-morillo-e25",
+      "endorser": "Jo Ann Hardesty",
+      "endorser_type": "official",
+      "statement": "Angelita Morillo's pamphlet statement lists Jo Ann Hardesty as an endorser.",
+      "excerpt": "Former City Commissioner Jo Ann Hardesty",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

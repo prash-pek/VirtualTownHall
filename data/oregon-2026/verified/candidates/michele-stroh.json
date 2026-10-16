@@ -1,0 +1,368 @@
+{
+  "id": "michele-stroh",
+  "name": "Michele Stroh",
+  "race_id": "or-senate-20",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": "http://VoteStroh.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+  "bio": [
+    {
+      "id": "michele-stroh-b1",
+      "topic": "custom:background",
+      "statement": "In the voters' pamphlet statement, Stroh lists occupation as childcare provider, with a background in banking.",
+      "excerpt": "Occupation: Childcare Provider Occupational Background: Banking",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-b2",
+      "topic": "custom:background",
+      "statement": "Stroh lists early childhood education as educational background.",
+      "excerpt": "Educational Background: Early Childhood Education",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-b3",
+      "topic": "custom:background",
+      "statement": "Stroh lists twice-elected Oregon City school board director as prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Twice Elected- Oregon City School Board Director",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "michele-stroh-p1",
+      "topic": "public-safety",
+      "statement": "In a December 2023 OPB interview as an Oregon City school board member, Stroh spoke about acting on fentanyl risks before a school incident occurs.",
+      "excerpt": "I don’t want to wait for the first accident to happen in our school before we do something.",
+      "source": {
+        "url": "https://www.opb.org/article/2023/12/20/oregon-city-schools-fentanyl-naloxone/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2023-12-20",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "OPB Think Out Loud interview 2023-12-20 verbatim; statement is dated 2023 and attributes it to her role then.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-p2",
+      "topic": "public-safety",
+      "statement": "Stroh lists public safety as a priority: fully fund law enforcement and restore consequences.",
+      "excerpt": "PUBLIC SAFETY: Fully fund law enforcement; restore real consequences.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-p3",
+      "topic": "education",
+      "statement": "Stroh lists education as a priority: restore academic standards and hold schools accountable for results.",
+      "excerpt": "EDUCATION THAT WORKS: Restore academic standards; hold schools accountable for results.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-p4",
+      "topic": "housing",
+      "statement": "Stroh lists housing as a priority: cut bureaucracy and make homeownership a reality.",
+      "excerpt": "Cut the bureaucracy and make homeownership a reality.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-p5",
+      "topic": "taxes",
+      "statement": "Stroh lists no new taxes as a priority, saying Oregon does not have a revenue problem but a spending problem.",
+      "excerpt": "NO NEW TAXES: Oregon is among the highest taxed states in the nation. Oregon doesn't have a revenue problem; it has a spending problem.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement and excerpt had been swapped with p6 (statement was about addiction); rewritten to the tax excerpt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-p6",
+      "topic": "social-services",
+      "statement": "Stroh says it is time Oregon got serious about addiction and recovery.",
+      "excerpt": "It's time Oregon got serious about addiction and recovery",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement added the Narcan/fentanyl-education claims, which are not in the excerpt; trimmed to the excerpt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-p7",
+      "topic": "taxes",
+      "statement": "Stroh's campaign website says they will vote no on new taxes until Salem shows it can spend existing money with accountability.",
+      "excerpt": "I’ll vote no on new taxes",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-p8",
+      "topic": "public-safety",
+      "statement": "Stroh's campaign website says every family deserves to feel safe in their neighborhood.",
+      "excerpt": "Every family deserves to feel safe in their neighborhood.",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-p9",
+      "topic": "education",
+      "statement": "Stroh's campaign website says they will fight to restore graduation standards.",
+      "excerpt": "Oregon suspended its graduation standards — I’ll fight to restore them",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-p10",
+      "topic": "social-services",
+      "statement": "Stroh's campaign website lists homelessness under the heading 'Compassion means results'.",
+      "excerpt": "Compassion means results",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No 2026 campaign-period sourced positions found",
+    "The 2023 OPB item predates the campaign"
+  ],
+  "endorsements": [
+    {
+      "id": "michele-stroh-e1",
+      "endorser": "Christine Drazan, State Senator",
+      "endorser_type": "official",
+      "statement": "Michele Stroh's pamphlet statement lists Christine Drazan, State Senator as an endorser.",
+      "excerpt": "Christine Drazan, State Senator",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-e2",
+      "endorser": "Bruce Starr, Senate Minority Leader",
+      "endorser_type": "official",
+      "statement": "Michele Stroh's pamphlet statement lists Bruce Starr, Senate Minority Leader as an endorser.",
+      "excerpt": "Bruce Starr, Senate Minority Leader",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-e3",
+      "endorser": "Bill Kennemer, retired Oregon State Senator",
+      "endorser_type": "official",
+      "statement": "Michele Stroh's pamphlet statement lists Bill Kennemer, retired Oregon State Senator as an endorser.",
+      "excerpt": "Bill Kennemer, retired Oregon State Senator",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "michele-stroh-e4",
+      "endorser": "The Taxpayer Association of Oregon",
+      "endorser_type": "organization",
+      "statement": "Michele Stroh's pamphlet statement lists The Taxpayer Association of Oregon as an endorser.",
+      "excerpt": "The Taxpayer Association of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 10,
+    "corrected": 7,
+    "rejected": 0,
+    "balance_notes": "SD20: Meek 9 items (T1 official page and pamphlet, T3 OPB 2025) + 16 endorsements; Stroh 13 items (T1 pamphlet, T2 votestroh.com, T3 OPB 2023, dated in the statement) + 4 endorsements. Comparable. Three Meek items are supporter quotes inside his pamphlet statement and are attributed as such. Stroh's pamphlet text attacks Meek; none of that was collected."
+  }
+}

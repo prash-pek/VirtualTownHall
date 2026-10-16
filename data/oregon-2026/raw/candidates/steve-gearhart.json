@@ -159,5 +159,35 @@
       "result": "used"
     }
   ],
-  "collection_notes": "King City council bios page lists seven councilors: Rachel Kazmierski, Stephen Gearhart, Vince Arditi, Sandra Cunningham, Gary Mitchell, Linda Quanstrom, Jan Tysoe. The city's candidate-filings page lists completed filings for Dirksen, Cunningham, Gearhart, Suesserman (spelled 'Susserman') and Buehner, and James M Minor as a prospective petition. Step 4/5 searches returned only older (2016-2023) Pamplin/WW coverage or other King Cities; not used to keep treatment equal. Name on city site 'Stephen'/'Steven'. A 2023 WW article and Ballotpedia page on a 2023-24 King City recall surfaced; not fetched or used."
+  "collection_notes": "King City council bios page lists seven councilors: Rachel Kazmierski, Stephen Gearhart, Vince Arditi, Sandra Cunningham, Gary Mitchell, Linda Quanstrom, Jan Tysoe. The city's candidate-filings page lists completed filings for Dirksen, Cunningham, Gearhart, Suesserman (spelled 'Susserman') and Buehner, and James M Minor as a prospective petition. Step 4/5 searches returned only older (2016-2023) Pamplin/WW coverage or other King Cities; not used to keep treatment equal. Name on city site 'Stephen'/'Steven'. A 2023 WW article and Ballotpedia page on a 2023-24 King City recall surfaced; not fetched or used.",
+  "endorsements": [
+    {
+      "id": "steve-gearhart-e1",
+      "endorser": "Rachel Kazmierski",
+      "endorser_type": "official",
+      "statement": "Steve Gearhart's pamphlet statement lists Rachel Kazmierski as an endorser.",
+      "excerpt": "Endorsed by Rachel Kazmierski, Mayor of King City",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 20",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-gearhart-e2",
+      "endorser": "John Cook",
+      "endorser_type": "official",
+      "statement": "Steve Gearhart's pamphlet statement lists John Cook as an endorser.",
+      "excerpt": "Endorsed by John Cook, former Mayor of Tigard",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 20",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

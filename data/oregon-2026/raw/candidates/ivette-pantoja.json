@@ -48,6 +48,19 @@
         "published_at": null,
         "retrieved_at": "2026-10-14"
       }
+    },
+    {
+      "id": "ivette-pantoja-b4",
+      "topic": "custom:bio",
+      "statement": "Her campaign site says she was born and raised in Hillsboro and is the daughter of Mexican immigrants.",
+      "excerpt": "Born and raised in Hillsboro, Ivette is the daughter of Mexican immigrants",
+      "source": {
+        "url": "https://www.ivettepantoja.com",
+        "publisher": "Ivette Pantoja campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
     }
   ],
   "positions": [
@@ -88,6 +101,19 @@
         "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "ivette-pantoja-p4",
+      "topic": "custom:priorities",
+      "statement": "On her campaign site, Pantoja lists livability, community engagement, economic opportunity and workforce development, and environmental stewardship as her issues.",
+      "excerpt": "livability, community engagement, economic opportunity and workforce development, environmental stewardship",
+      "source": {
+        "url": "https://www.ivettepantoja.com",
+        "publisher": "Ivette Pantoja campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
       }
     }
   ],
@@ -141,7 +167,369 @@
       "step": "6",
       "query_or_url": "https://www.opb.org/article/2026/09/25/data-centers-ice-and-the-dsa-election-tensions-rise-in-washington-county/",
       "result": "nothing relevant"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "https://www.ivettepantoja.com",
+      "result": "used"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "OPB 2026-09-28 Hillsboro article",
+      "result": "not found: OPB URL fetch error; search surfaced only the 2026-09-25 article already logged"
     }
   ],
-  "collection_notes": "Hillsboro's June 2026 candidate packet (T1) lists the seats up as Ward 1 Position A (Cristian Salgado), Ward 2 Position A (Kipperlyn Sinclair) and Ward 3 Position A (Olivia Alcaire). A June 23, 2026 city news release instead labels the Ward 2 and Ward 3 seats 'Position B'; the county certification and packet say Position A, so this is a city-side labeling inconsistency. Hillsboro news pages for Salgado's appointment returned client errors. Step 5 searches turned up older (2022 or earlier) Pamplin coverage only, not used. Seat holder per packet is Kipperlyn Sinclair (running for county commission), so incumbent=false. Campaign domain printed in pamphlet; site text describes school board service and did not state the council race, so no items were taken from it."
+  "collection_notes": "Hillsboro's June 2026 candidate packet (T1) lists the seats up as Ward 1 Position A (Cristian Salgado), Ward 2 Position A (Kipperlyn Sinclair) and Ward 3 Position A (Olivia Alcaire). A June 23, 2026 city news release instead labels the Ward 2 and Ward 3 seats 'Position B'; the county certification and packet say Position A, so this is a city-side labeling inconsistency. Hillsboro news pages for Salgado's appointment returned client errors. Step 5 searches turned up older (2022 or earlier) Pamplin coverage only, not used. Seat holder per packet is Kipperlyn Sinclair (running for county commission), so incumbent=false. Campaign domain printed in pamphlet; site text describes school board service and did not state the council race, so no items were taken from it. Gap-fill 2026-10-16: Campaign site added (T2). OPB 2026-09-28 article not retrievable (gap). Opponent Karim Delgado already has a campaign-site T2 source; Ward 3 Russell likewise.",
+  "endorsements": [
+    {
+      "id": "ivette-pantoja-e1",
+      "endorser": "Beach Pace",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Beach Pace as an endorser.",
+      "excerpt": "Beach Pace, Mayor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e2",
+      "endorser": "Rob Harris",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Rob Harris as an endorser.",
+      "excerpt": "Rob Harris, Council President",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e3",
+      "endorser": "Saba Anvery",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Saba Anvery as an endorser.",
+      "excerpt": "Saba Anvery, Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e4",
+      "endorser": "Elizabeth Case",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Elizabeth Case as an endorser.",
+      "excerpt": "Elizabeth Case, Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e5",
+      "endorser": "Katie Ryne",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Katie Ryne as an endorser.",
+      "excerpt": "Katie Ryne, Chair",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e6",
+      "endorser": "Mark Watson",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Mark Watson as an endorser.",
+      "excerpt": "Mark Watson, Vice-Chair",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e7",
+      "endorser": "Nancy Thomas",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Nancy Thomas as an endorser.",
+      "excerpt": "Nancy Thomas",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e8",
+      "endorser": "See Eun Kim",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists See Eun Kim as an endorser.",
+      "excerpt": "See Eun Kim",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e9",
+      "endorser": "Yessica Hardin-Mercado",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Yessica Hardin-Mercado as an endorser.",
+      "excerpt": "Yessica Hardin-Mercado",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e10",
+      "endorser": "Patrick Maguire",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Patrick Maguire as an endorser.",
+      "excerpt": "Patrick Maguire",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e11",
+      "endorser": "Pam Treece",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Pam Treece as an endorser.",
+      "excerpt": "Pam Treece, Commissioner",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e12",
+      "endorser": "Felicita Monteblanco",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Felicita Monteblanco as an endorser.",
+      "excerpt": "Felicita Monteblanco, Commissioner-elect",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e13",
+      "endorser": "Jerry Willey",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Jerry Willey as an endorser.",
+      "excerpt": "Jerry Willey, Commissioner",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e14",
+      "endorser": "Kristine Adams-Wannberg",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Kristine Adams-Wannberg as an endorser.",
+      "excerpt": "Kristine Adams-Wannberg, Auditor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e15",
+      "endorser": "Gina Roletto",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Gina Roletto as an endorser.",
+      "excerpt": "Gina Roletto, PCC Board Member",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e16",
+      "endorser": "Steve Callaway",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Steve Callaway as an endorser.",
+      "excerpt": "Steve Callaway, former Hillsboro Mayor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e17",
+      "endorser": "Mike and Laura McMurray",
+      "endorser_type": "person",
+      "statement": "Ivette Pantoja's pamphlet statement lists Mike and Laura McMurray as an endorser.",
+      "excerpt": "Mike and Laura McMurray, CEO & CFO Hillsboro Hops",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e18",
+      "endorser": "Hai Pham",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Hai Pham as an endorser.",
+      "excerpt": "Representative Hai Pham",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e19",
+      "endorser": "Janeen Sollman",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Janeen Sollman as an endorser.",
+      "excerpt": "Senator Janeen Sollman",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e20",
+      "endorser": "Lisa Reynolds",
+      "endorser_type": "official",
+      "statement": "Ivette Pantoja's pamphlet statement lists Lisa Reynolds as an endorser.",
+      "excerpt": "Senator Lisa Reynolds",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e21",
+      "endorser": "Hillsboro Professional Firefighters",
+      "endorser_type": "organization",
+      "statement": "Ivette Pantoja's pamphlet statement lists Hillsboro Professional Firefighters as an endorser.",
+      "excerpt": "Hillsboro Professional Firefighters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e22",
+      "endorser": "Democratic Municipal Officials",
+      "endorser_type": "organization",
+      "statement": "Ivette Pantoja's pamphlet statement lists Democratic Municipal Officials as an endorser.",
+      "excerpt": "Democratic Municipal Officials",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e23",
+      "endorser": "Hillsboro Police Officers Association",
+      "endorser_type": "organization",
+      "statement": "Ivette Pantoja's pamphlet statement lists Hillsboro Police Officers Association as an endorser.",
+      "excerpt": "Hillsboro Police Officers Association",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e24",
+      "endorser": "Washington County Chamber PAC",
+      "endorser_type": "organization",
+      "statement": "Ivette Pantoja's pamphlet statement lists Washington County Chamber PAC as an endorser.",
+      "excerpt": "Washington County Chamber PAC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ivette-pantoja-e25",
+      "endorser": "Hillsboro Classified United 4671",
+      "endorser_type": "organization",
+      "statement": "Ivette Pantoja's pamphlet statement lists Hillsboro Classified United 4671 as an endorser.",
+      "excerpt": "Hillsboro Classified United 4671",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

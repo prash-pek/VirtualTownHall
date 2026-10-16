@@ -1,0 +1,142 @@
+{
+ "id": "david-dull",
+ "name": "David M Dull",
+ "race_id": "rivergrove-council",
+ "party": null,
+ "incumbent": false,
+ "occupation": "Retired; Xerox sales and operations management",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "david-dull-b1",
+   "topic": "custom:occupation",
+   "statement": "Dull's pamphlet statement lists him as retired after a 45-year career in sales and operations management at Xerox.",
+   "excerpt": "Occupation: Retired Occupational Background: Forty-five-year career in Sales and Operations management at Xerox Corporation.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 48, printed C-47)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "david-dull-b2",
+   "topic": "custom:experience",
+   "statement": "His pamphlet statement lists service as a former Rivergrove city councilor for two terms.",
+   "excerpt": "Former City Councilor for the City of Rivergrove for 2 terms.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 48, printed C-47)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "david-dull-b3",
+   "topic": "education",
+   "statement": "His pamphlet statement lists a BA in business management from the University of the Pacific (UOP).",
+   "excerpt": "Educational Background: UOP, BA, Business Management",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 48, printed C-47)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "david-dull-p1",
+   "topic": "custom:governance",
+   "statement": "Dull says he wants the city to work to encourage citizen involvement.",
+   "excerpt": "I want to see the city work to encourage citizen involvement.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 48, printed C-47)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "david-dull-p2",
+   "topic": "taxes",
+   "statement": "Dull says he will ensure the council makes fiscally responsible decisions.",
+   "excerpt": "I will ensure the Rivergrove City Council makes fiscally responsible decisions",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 48, printed C-47)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "david-dull-p3",
+   "topic": "public-safety",
+   "statement": "Dull says it is important to him that Rivergrove has streets and parks that are safe for children and grandchildren.",
+   "excerpt": "It’s important to me that we have streets and parks that are safe for our children and grandchildren.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 48, printed C-47)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "No campaign website found or linked",
+  "No sourced positions on infrastructure or housing",
+  "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+  "No endorsements listed (statement names Silber and Joyce as running mates)"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "Clackamas pamphlet extract david-dull.txt (source_url https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.cityofrivergrove.org/government/city-council/",
+   "result": "used (Dull not listed on current council; pamphlet says former councilor)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain confirmed",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"David Dull\" city council Rivergrove 2026",
+   "result": "nothing relevant (Rivergrove newsletters only)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"David Dull\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant (Ballotpedia Rivergrove, Oregon page lists no candidate content)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"David Dull\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant (no results)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"David Dull\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (unrelated VOTE411 page; pamplinmedia.com blocks automated fetch)"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 48 (C-47): Dull right column. Ballot spelling 'David M Dull' (inventory notes the city certification letter lists 'David Dull'); name_variants added. Inventory name matches pamphlet.",
+ "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/",
+ "name_variants": [
+  "David Dull"
+ ]
+}

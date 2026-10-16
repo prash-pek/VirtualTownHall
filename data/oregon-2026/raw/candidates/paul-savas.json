@@ -192,5 +192,301 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Incumbent, Position 2, per clackamas.us/elections/localofficials.html (see inventory_fixes). OPB questionnaires are from the May 2026 primary. KGW primary-results article not used (horse race)."
+  "collection_notes": "Incumbent, Position 2, per clackamas.us/elections/localofficials.html (see inventory_fixes). OPB questionnaires are from the May 2026 primary. KGW primary-results article not used (horse race).",
+  "endorsements": [
+    {
+      "id": "paul-savas-e1",
+      "endorser": "AFSCME Local 350",
+      "endorser_type": "organization",
+      "statement": "Paul Savas's pamphlet statement lists AFSCME Local 350 as an endorser.",
+      "excerpt": "AFSCME Local 350",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e2",
+      "endorser": "Clackamas County Peace Officers Association",
+      "endorser_type": "organization",
+      "statement": "Paul Savas's pamphlet statement lists Clackamas County Peace Officers Association as an endorser.",
+      "excerpt": "Clackamas County Peace Officers Association",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e3",
+      "endorser": "Home Building Association of Greater Portland",
+      "endorser_type": "organization",
+      "statement": "Paul Savas's pamphlet statement lists Home Building Association of Greater Portland as an endorser.",
+      "excerpt": "Home Building Association of Greater Portland",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e4",
+      "endorser": "IBEW Local 48",
+      "endorser_type": "organization",
+      "statement": "Paul Savas's pamphlet statement lists IBEW Local 48 as an endorser.",
+      "excerpt": "IBEW Local 48",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e5",
+      "endorser": "Ironworkers Local 29",
+      "endorser_type": "organization",
+      "statement": "Paul Savas's pamphlet statement lists Ironworkers Local 29 as an endorser.",
+      "excerpt": "Ironworkers Local 29",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e6",
+      "endorser": "Northwest Oregon Labor Council, AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Paul Savas's pamphlet statement lists Northwest Oregon Labor Council, AFL-CIO as an endorser.",
+      "excerpt": "Northwest Oregon Labor Council, AFL-CIO",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e7",
+      "endorser": "North Clackamas Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Paul Savas's pamphlet statement lists North Clackamas Chamber of Commerce as an endorser.",
+      "excerpt": "North Clackamas Chamber of Commerce",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e8",
+      "endorser": "Professional Firefighters of Clackamas County, IAFF Local 1159",
+      "endorser_type": "organization",
+      "statement": "Paul Savas's pamphlet statement lists Professional Firefighters of Clackamas County, IAFF Local 1159 as an endorser.",
+      "excerpt": "Professional Firefighters of Clackamas County, IAFF Local 1159",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e9",
+      "endorser": "Tualatin Valley Professional Firefighters, IAFF 1660",
+      "endorser_type": "organization",
+      "statement": "Paul Savas's pamphlet statement lists Tualatin Valley Professional Firefighters, IAFF 1660 as an endorser.",
+      "excerpt": "Tualatin Valley Professional Firefighters, IAFF 1660",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e10",
+      "endorser": "Teamsters, Joint Council 37",
+      "endorser_type": "organization",
+      "statement": "Paul Savas's pamphlet statement lists Teamsters, Joint Council 37 as an endorser.",
+      "excerpt": "Teamsters, Joint Council 37",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e11",
+      "endorser": "UFCW Local 555",
+      "endorser_type": "organization",
+      "statement": "Paul Savas's pamphlet statement lists UFCW Local 555 as an endorser.",
+      "excerpt": "UFCW Local 555",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e12",
+      "endorser": "John Wentworth, Clackamas County District Attorney",
+      "endorser_type": "official",
+      "statement": "Paul Savas's pamphlet statement lists John Wentworth, Clackamas County District Attorney as an endorser.",
+      "excerpt": "District Attorney John Wentworth",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e13",
+      "endorser": "Brian Hodson, Mayor of Canby",
+      "endorser_type": "official",
+      "statement": "Paul Savas's pamphlet statement lists Brian Hodson, Mayor of Canby as an endorser.",
+      "excerpt": "Brian Hodson, Canby",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e14",
+      "endorser": "Michael Milch, Mayor of Gladstone",
+      "endorser_type": "official",
+      "statement": "Paul Savas's pamphlet statement lists Michael Milch, Mayor of Gladstone as an endorser.",
+      "excerpt": "Michael Milch, Gladstone",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e15",
+      "endorser": "Joe Buck, Mayor of Lake Oswego",
+      "endorser_type": "official",
+      "statement": "Paul Savas's pamphlet statement lists Joe Buck, Mayor of Lake Oswego as an endorser.",
+      "excerpt": "Joe Buck, Lake Oswego",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e16",
+      "endorser": "Scott Keyser, Mayor of Molalla",
+      "endorser_type": "official",
+      "statement": "Paul Savas's pamphlet statement lists Scott Keyser, Mayor of Molalla as an endorser.",
+      "excerpt": "Scott Keyser, Molalla",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e17",
+      "endorser": "Denyse McGriff, Mayor of Oregon City",
+      "endorser_type": "official",
+      "statement": "Paul Savas's pamphlet statement lists Denyse McGriff, Mayor of Oregon City as an endorser.",
+      "excerpt": "Denyse McGriff, Oregon City",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e18",
+      "endorser": "Kathleen Walker, Mayor of Sandy",
+      "endorser_type": "official",
+      "statement": "Paul Savas's pamphlet statement lists Kathleen Walker, Mayor of Sandy as an endorser.",
+      "excerpt": "Kathleen Walker, Sandy",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e19",
+      "endorser": "Frank Bubenik, Mayor of Tualatin",
+      "endorser_type": "official",
+      "statement": "Paul Savas's pamphlet statement lists Frank Bubenik, Mayor of Tualatin as an endorser.",
+      "excerpt": "Frank Bubenik, Tualatin",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e20",
+      "endorser": "Rory Bialostosky, Mayor of West Linn",
+      "endorser_type": "official",
+      "statement": "Paul Savas's pamphlet statement lists Rory Bialostosky, Mayor of West Linn as an endorser.",
+      "excerpt": "Rory Bialostosky, West Linn",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "paul-savas-e21",
+      "endorser": "Shawn O'Neil, Mayor of Wilsonville",
+      "endorser_type": "official",
+      "statement": "Paul Savas's pamphlet statement lists Shawn O'Neil, Mayor of Wilsonville as an endorser.",
+      "excerpt": "Shawn O’Neil, Wilsonville",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

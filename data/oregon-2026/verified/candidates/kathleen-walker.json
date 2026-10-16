@@ -1,0 +1,180 @@
+{
+  "id": "kathleen-walker",
+  "name": "Kathleen Walker",
+  "race_id": "sandy-mayor",
+  "party": null,
+  "incumbent": null,
+  "occupation": "Trails Planner",
+  "website_url": "https://www.walkerforsandy.com",
+  "website_verified_via": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "kathleen-walker-b1",
+      "topic": "custom:background",
+      "statement": "Walker's pamphlet statement lists prior governmental experience as Sandy Mayor 2025-present, Sandy City Council 2021-2024, and the Sandy Parks Board and Budget Committee.",
+      "excerpt": "Sandy Mayor: 2025-present; Sandy City Council: 2021-2024; Sandy Parks Board and Budget Committee",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 50 (printed C-49)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Candidate-furnished pamphlet listing, not an official roster. Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kathleen-walker-b2",
+      "topic": "custom:background",
+      "statement": "Walker's pamphlet statement lists Mt. Hood National Forest recreation manager (1992-2015) and forest planner (1983-1992), and a forestry degree from Colorado University.",
+      "excerpt": "Mt. Hood National Forest: Recreation Manager 1992 2015; Forest Planner 1983-1992; Educational Background: Colorado University, Forestry, BS",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 50 (printed C-49)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_incomplete",
+          "pronoun_policy"
+        ],
+        "note": "Statement mentioned a forestry degree not in the excerpt; excerpt extended to include the education line. Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "kathleen-walker-p1",
+      "topic": "infrastructure",
+      "statement": "Walker's pamphlet statement says developers must pay their share of system development charges when building.",
+      "excerpt": "Developers must pay their share of system development charges (SDCs) when building!",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 50 (printed C-49)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kathleen-walker-p2",
+      "topic": "infrastructure",
+      "statement": "Walker's pamphlet statement says Walker will work to find more grant funding in Salem and D.C. to lower utility bills.",
+      "excerpt": "More grants can lower our utility bills. Last year, I helped get Sandy $6 million in government grants for our wastewater projects. I will work tirelessly to find more grant funding in Salem and D.C.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 50 (printed C-49)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_incomplete",
+          "paraphrase_faithful",
+          "pronoun_policy"
+        ],
+        "note": "Statement says grants would lower costs; excerpt extended to include the sentence that says so; 'Washington D.C.' shortened to 'D.C.' as printed. Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kathleen-walker-p3",
+      "topic": "public-safety",
+      "statement": "Walker's pamphlet statement says Walker will seek additional funding, without raising the safety fee, to expand the future police force.",
+      "excerpt": "I’ll seek additional funding that doesn’t raise our safety fee, to expand our future police force.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 50 (printed C-49)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kathleen-walker-p4",
+      "topic": "housing",
+      "statement": "Walker's pamphlet statement includes reducing high density growth in a list introduced with 'As Mayor I focused on'.",
+      "excerpt": "Reducing high density growth",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 50 (printed C-49)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "pronoun_policy"
+        ],
+        "note": "Original said the item is among Walker's mayoral focuses; the list is introduced in the past tense ('As Mayor I focused on'), so the wording now says so. Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kathleen-walker-p5",
+      "topic": "housing",
+      "statement": "On the Walker campaign website, Walker says Walker will work to manage and control growth if elected mayor.",
+      "excerpt": "If elected as Mayor, I will work to manage and control growth.",
+      "source": {
+        "url": "https://walkerforsandy.com",
+        "publisher": "Campaign website (walkerforsandy.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "attribution",
+          "recency"
+        ],
+        "note": "Campaign letter is undated, references Walker's November 2019 council election and says 'If elected as Mayor'; Walker's own pamphlet lists mayoral service from 2025 and a Sandy Post article (2024-08-09) shows Walker ran for mayor in 2024, so the page appears to be a 2024 campaign letter, not 2026 material. Cannot be dated or labelled reliably.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Unopposed; incumbency not confirmed by an official city source (city site blocks automated fetch)",
+    "No position found on housing affordability beyond growth, or on taxes",
+    "Pamphlet statement lists no endorsers",
+    "Campaign website letter is undated and appears to date from the 2024 mayoral campaign; not used"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 6,
+    "rejected": 1,
+    "balance_notes": "Sandy Mayor: single candidate; 6 items kept (pamphlet), 1 T2 position rejected as probably a 2024 letter."
+  }
+}

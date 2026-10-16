@@ -1,0 +1,505 @@
+{
+  "id": "brett-sherman",
+  "name": "Brett M Sherman",
+  "name_variants": [
+    "Brett Sherman"
+  ],
+  "race_id": "happy-valley-council-pos-3",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.happyvalleyor.gov/city-hall/city-council/",
+  "occupation": "Principal, Madrona Wealth Management",
+  "website_url": "https://www.votesherman.com",
+  "website_verified_via": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "brett-sherman-b1",
+      "topic": "custom:bio",
+      "statement": "The Happy Valley city council page lists Sherman in Council Position 3 with a term expiring December 31, 2026.",
+      "excerpt": "Council Position 3",
+      "source": {
+        "url": "https://www.happyvalleyor.gov/city-hall/city-council/",
+        "publisher": "City of Happy Valley",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "brett-sherman-b2",
+      "topic": "custom:bio",
+      "statement": "Sherman's pamphlet statement says he has served as a Happy Valley city councilor for twelve years.",
+      "excerpt": "For twelve years I’ve been honored to serve as your City Councilor",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "brett-sherman-b3",
+      "topic": "custom:bio",
+      "statement": "Sherman's pamphlet statement lists investment roles at Lucid Advisors, Norwest Bank and Piper Jaffray.",
+      "excerpt": "Director-Investment Consulting, Lucid Advisors; Institutional Investment Manager, Norwest Bank;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "brett-sherman-p1",
+      "topic": "economy",
+      "statement": "In his voters' pamphlet statement, Sherman says he would encourage economic growth by supporting local businesses and job creation.",
+      "excerpt": "Encourage economic growth by supporting our local businesses and job creation opportunities.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "brett-sherman-p2",
+      "topic": "education",
+      "statement": "Sherman's pamphlet statement lists providing safe and effective schools.",
+      "excerpt": "Providing safe and effective schools to empower our next generation.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "brett-sherman-p3",
+      "topic": "custom:growth",
+      "statement": "Sherman's pamphlet statement says he would manage city growth to maintain a small-town feel while improving services.",
+      "excerpt": "Prudently manage city growth to maintain our “small-town feel” while improving services.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign site votesherman.com could not be fetched (robots disallowed)",
+    "No 2026 T3 press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "see reports/verification/candidates-metro-v5.md"
+  },
+  "endorsements": [
+    {
+      "id": "brett-sherman-e1",
+      "endorser": "Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Ron Wyden as an endorser.",
+      "excerpt": "Senator Ron Wyden",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e2",
+      "endorser": "Janelle Bynum",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Janelle Bynum as an endorser.",
+      "excerpt": "Congresswoman Janelle Bynum",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e3",
+      "endorser": "Mark Meek",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Mark Meek as an endorser.",
+      "excerpt": "Senator Mark Meek; Representatives April Dobson, Lamar",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e4",
+      "endorser": "April Dobson",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists April Dobson as an endorser.",
+      "excerpt": "Senator Mark Meek; Representatives April Dobson, Lamar",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e5",
+      "endorser": "Lamar Wise",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Lamar Wise as an endorser.",
+      "excerpt": "Senator Mark Meek; Representatives April Dobson, Lamar",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e6",
+      "endorser": "Juan Carlos Gonzalez",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Juan Carlos Gonzalez as an endorser.",
+      "excerpt": "Metro Council President Juan Carlos Gonzalez, Councilors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e7",
+      "endorser": "Christine Lewis",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Christine Lewis as an endorser.",
+      "excerpt": "Christine Lewis, Ashton Simpson",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e8",
+      "endorser": "Ashton Simpson",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Ashton Simpson as an endorser.",
+      "excerpt": "Christine Lewis, Ashton Simpson",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e9",
+      "endorser": "Diana Helm",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Diana Helm as an endorser.",
+      "excerpt": "Clackamas Commissioners Diana Helm, Paul Savas,",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e10",
+      "endorser": "Paul Savas",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Paul Savas as an endorser.",
+      "excerpt": "Clackamas Commissioners Diana Helm, Paul Savas,",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e11",
+      "endorser": "Martha Schrader",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Martha Schrader as an endorser.",
+      "excerpt": "Martha Schrader, Chair Craig Roberts",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e12",
+      "endorser": "Craig Roberts",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Craig Roberts as an endorser.",
+      "excerpt": "Martha Schrader, Chair Craig Roberts",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e13",
+      "endorser": "Mayor Ellis of Happy Valley",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Mayor Ellis of Happy Valley as an endorser.",
+      "excerpt": "Mayors Ellis (HV), Batey (Milwaukie), Buck",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e14",
+      "endorser": "Mayor Batey of Milwaukie",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Mayor Batey of Milwaukie as an endorser.",
+      "excerpt": "Mayors Ellis (HV), Batey (Milwaukie), Buck",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e15",
+      "endorser": "Mayor Buck of Lake Oswego",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Mayor Buck of Lake Oswego as an endorser.",
+      "excerpt": "Mayors Ellis (HV), Batey (Milwaukie), Buck",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e16",
+      "endorser": "Mayor McGriff of Oregon City",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Mayor McGriff of Oregon City as an endorser.",
+      "excerpt": "(Lake Oswego), McGriff (Oregon City), Milch (Gladstone)",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e17",
+      "endorser": "Mayor Milch of Gladstone",
+      "endorser_type": "official",
+      "statement": "Brett M Sherman's pamphlet statement lists Mayor Milch of Gladstone as an endorser.",
+      "excerpt": "(Lake Oswego), McGriff (Oregon City), Milch (Gladstone)",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brett-sherman-e18",
+      "endorser": "Happy Valley City Council",
+      "endorser_type": "organization",
+      "statement": "Brett M Sherman's pamphlet statement lists Happy Valley City Council as an endorser.",
+      "excerpt": "Happy Valley City Council",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 28",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "leah-silber",
+  "name": "Leah Silber",
+  "race_id": "rivergrove-council",
+  "party": null,
+  "incumbent": true,
+  "occupation": "Local Software Company CEO",
+  "website_url": "https://www.leahsilber.com",
+  "website_verified_via": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 (pamphlet statement lists leahsilber.com)",
+  "bio": [
+    {
+      "id": "leah-silber-b1",
+      "topic": "custom:office",
+      "statement": "The City of Rivergrove city council page lists Leah Silber as a councilor.",
+      "excerpt": "Leah Silber Councilor",
+      "source": {
+        "url": "https://www.cityofrivergrove.org/government/city-council/",
+        "publisher": "City of Rivergrove, City Council page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched; excerpt present and attribution correct.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "leah-silber-b2",
+      "topic": "custom:background",
+      "statement": "Silber's campaign site says they were appointed to the Rivergrove City Council in March 2024 to fill a vacated seat.",
+      "excerpt": "I was appointed to the Rivergrove City Council in March 2024 to fill a vacated seat.",
+      "source": {
+        "url": "https://rivergrove.leahsilber.com/",
+        "publisher": "Leah Silber campaign website (rivergrove.leahsilber.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched; excerpt present and attribution correct.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "leah-silber-b3",
+      "topic": "custom:occupation",
+      "statement": "Silber's pamphlet statement lists the occupation as a local software company CEO with management experience at Silicon Valley software companies.",
+      "excerpt": "Occupation: Local Software Company CEO Occupational Background: Management at Silicon Valley software companies, focused on Operations, Marketing and HR.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 48, printed C-47)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.48, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "leah-silber-b4",
+      "topic": "custom:experience",
+      "statement": "Silber's pamphlet statement lists Rivergrove City Councilor since 2024, VP of the League of Oregon Cities Women's Caucus, and ODOT's Small Cities Allotment Advisory Committee.",
+      "excerpt": "Rivergrove City Councilor since 2024. VP, League of Oregon Cities Women’s Caucus. Served on regional committees, including ODOT’s Small Cities Allotment Advisory Committee.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 48, printed C-47)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.48, L column).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "leah-silber-p1",
+      "topic": "taxes",
+      "statement": "Silber says they were the only councilor who voted against proposing a new Rivergrove tax, which they say Rivergrove rejected in May.",
+      "excerpt": "I’m the only councilor who voted against pitching a new Rivergrove tax, and in May, Rivergrove rejected it decisively.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 48, printed C-47)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.48, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "leah-silber-p2",
+      "topic": "custom:governance",
+      "statement": "Silber says the city should spend on what residents need, get competitive bids before hiring, follow budget law and act on the recent audit's findings.",
+      "excerpt": "We should spend on what residents need, get competitive bids before hiring, start following budget law, and act on everything the recent audit found.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 48, printed C-47)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.48, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "leah-silber-p3",
+      "topic": "infrastructure",
+      "statement": "Silber says the city needs safe and easy river access for all and to get its sewer, flood and other infrastructure in order.",
+      "excerpt": "We need safe and easy river access for all, and to get our sewer, flood and other infrastructure in order.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 48, printed C-47)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.48, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "leah-silber-p4",
+      "topic": "custom:governance",
+      "statement": "Silber's campaign site says residents have a right to know how their tax dollars are managed.",
+      "excerpt": "Residents have a right to know how their tax dollars are being managed.",
+      "source": {
+        "url": "https://rivergrove.leahsilber.com/",
+        "publisher": "Leah Silber campaign website (rivergrove.leahsilber.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched; excerpt present and attribution correct.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No endorsements listed in her pamphlet statement (she names Joan Joyce and David Dull as running mates)",
+    "No sourced position on housing or public safety",
+    "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+    "Campaign site subpages (records/receipts/FAQ) not read"
+  ],
+  "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/",
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Six candidates for three seats. Silber 8 items, Taylor 6, Egusa 6, Joyce 6, Dull 6, McLean 1 (roster only; no pamphlet statement, documented in gaps). Disparity for McLean reflects the absence of any statement or website, not search effort. Spot search found only aggregator pages (GoodParty) which are excluded."
+  }
+}

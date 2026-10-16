@@ -1,0 +1,293 @@
+{
+  "id": "morey-straus",
+  "name": "Morey Straus",
+  "race_id": "or-house-42",
+  "party": "Libertarian",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": "https://vote.stra.us",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf (p. 51)",
+  "bio": [
+    {
+      "id": "morey-straus-b1",
+      "topic": "custom:occupation",
+      "statement": "Straus's pamphlet statement lists Straus's occupation as information security executive.",
+      "excerpt": "Occupation: Information Security Executive",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "morey-straus-b2",
+      "topic": "custom:background",
+      "statement": "Straus's pamphlet statement lists 30-plus years in security and technology engineering as their occupational background.",
+      "excerpt": "Occupational Background: 30+ years in security and technology engineering",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "morey-straus-b3",
+      "topic": "custom:education",
+      "statement": "Straus's pamphlet statement lists technical coursework and some college as their educational background.",
+      "excerpt": "Educational Background: Technical coursework, some college",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "morey-straus-b4",
+      "topic": "custom:experience",
+      "statement": "Straus's pamphlet statement lists no prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: none",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "morey-straus-p1",
+      "topic": "social-services",
+      "statement": "In the pamphlet statement, Straus describes homelessness, addiction, mental illness and unaffordable housing as one system rather than separate problems needing separate budgets.",
+      "excerpt": "Homelessness, addiction, mental illness, and unaffordable housing are one system.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "morey-straus-p2",
+      "topic": "economy",
+      "statement": "Straus says in the pamphlet statement that the state's minimum wage and licensing of informal work price the least-skilled out of legal work.",
+      "excerpt": "The state prices the least-skilled out of legal work with a minimum wage, licenses every informal alternative out of existence",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "morey-straus-p3",
+      "topic": "housing",
+      "statement": "Straus's pamphlet statement says the state restricts housing supply, leaving people nowhere to live.",
+      "excerpt": "restricts housing supply so there is nowhere left to land",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "morey-straus-p4",
+      "topic": "taxes",
+      "statement": "On the platform page, Straus says they oppose all tax increases and would abolish the property tax and repeal the income tax.",
+      "excerpt": "Abolish the property tax, repeal the income tax.",
+      "source": {
+        "url": "https://vote.stra.us/",
+        "publisher": "Morey Straus campaign platform (vote.stra.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "morey-straus-p5",
+      "topic": "education",
+      "statement": "Straus's platform page says they support educational freedom, including repealing compulsory attendance laws.",
+      "excerpt": "Support full educational freedom: repeal compulsory attendance laws",
+      "source": {
+        "url": "https://vote.stra.us/",
+        "publisher": "Morey Straus campaign platform (vote.stra.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "morey-straus-p6",
+      "topic": "gun-policy",
+      "statement": "Straus's platform page opposes permit requirements for firearms.",
+      "excerpt": "No permission slip for a right.",
+      "source": {
+        "url": "https://vote.stra.us/",
+        "publisher": "Morey Straus campaign platform (vote.stra.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "morey-straus-p7",
+      "topic": "healthcare",
+      "statement": "Straus's platform page calls for ending state provision and compulsory financing of medical care.",
+      "excerpt": "End state provision and compulsory financing of medical care,",
+      "source": {
+        "url": "https://vote.stra.us/",
+        "publisher": "Morey Straus campaign platform (vote.stra.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "morey-straus-p8",
+      "topic": "transportation",
+      "statement": "Straus's platform page says TriMet should be privatized or dissolved.",
+      "excerpt": "TriMet should be privatized or dissolved.",
+      "source": {
+        "url": "https://vote.stra.us/",
+        "publisher": "Morey Straus campaign platform (vote.stra.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "morey-straus-p9",
+      "topic": "environment",
+      "statement": "Straus's platform page says polluters should be sued rather than licensed, as a replacement for permits.",
+      "excerpt": "Sue the polluter, don’t license him.",
+      "source": {
+        "url": "https://vote.stra.us/",
+        "publisher": "Morey Straus campaign platform (vote.stra.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "morey-straus-p10",
+      "topic": "immigration",
+      "statement": "Straus's platform page says Oregon should maintain and strengthen its sanctuary status.",
+      "excerpt": "Maintain and strengthen Oregon’s sanctuary status:",
+      "source": {
+        "url": "https://vote.stra.us/",
+        "publisher": "Morey Straus campaign platform (vote.stra.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Platform page also covers drug policy, liquor/cannabis, public safety, work, abortion and personal autonomy; not added (positions cap 10)",
+    "No T3 press coverage found; his pamphlet statement also criticizes his opponent, which is not recorded"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 14,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "HD42: Straus 14 items (4 bio, 10 positions) and 0 endorsements vs Nosse 16 (5 bio, 10 positions, 1 sponsorship) and 0 (Nosse's statement names no endorsers). Both have 10 positions; balanced. Straus's items come from pamphlet plus campaign platform page; Nosse's from pamphlet plus official page and a 2026 Portland Tribune item."
+  }
+}

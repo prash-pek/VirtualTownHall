@@ -1,0 +1,407 @@
+{
+  "id": "mark-meek",
+  "name": "Mark Meek",
+  "race_id": "or-senate-20",
+  "party": "Democrat",
+  "incumbent": true,
+  "occupation": "Small business owner; State Senator",
+  "website_url": "http://www.VoteMarkMeek.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+  "bio": [
+    {
+      "id": "mark-meek-b1",
+      "topic": "custom:background",
+      "statement": "His official biography says Meek was elected to the State Senate for District 20 in 2022 and previously served in the Oregon House.",
+      "excerpt": "He was elected to the State Senate by the people of District 20 in 2022.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/meek/Pages/biography.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-b2",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Meek lists his occupation as small business owner and state senator, and owner of Avid Real Estate Executives, LLC.",
+      "excerpt": "Occupation: Small Business Owner; State Senator Occupational Background: Owner, Avid Real Estate Executives, LLC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-b3",
+      "topic": "custom:background",
+      "statement": "Meek lists a B.S. in management/CIS from Park College.",
+      "excerpt": "Educational Background: B.S. Management/CIS – Park College",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-b4",
+      "topic": "custom:background",
+      "statement": "Meek lists the Oregon House, Clackamas County Planning Commission and Economic Development Commission, and U.S. Air Force service as a staff sergeant, 1983-1990.",
+      "excerpt": "Prior Governmental Experience: Oregon House of Representatives; Clackamas County Planning Commission; Clackamas County Economic Development Commission Military Experience: Staff Sergeant (Security Police), U.S. Air Force (1983-1990)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "mark-meek-p1",
+      "topic": "transportation",
+      "statement": "In a July 2025 OPB interview, Meek said he would support a transportation package that helps pay for maintenance, bridge repairs and transit.",
+      "excerpt": "I would support a package that helps pay for maintenance, bridge repairs and transit",
+      "source": {
+        "url": "https://www.opb.org/article/2025/07/01/think-out-loud-state-sen-mark-meek-transportation/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2025-07-01",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-p2",
+      "topic": "economy",
+      "statement": "A supporter quoted in Meek's statement says he will lower costs and make life more affordable.",
+      "excerpt": "lower costs and make life more affordable",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-p3",
+      "topic": "transportation",
+      "statement": "Meek's statement quotes a supporter crediting him with stopping tolling on I-205.",
+      "excerpt": "Mark stopped tolling on I-205, saving families thousands of dollars each year.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-p4",
+      "topic": "healthcare",
+      "statement": "Meek's statement says he believes high-quality, affordable healthcare should be available to everyone.",
+      "excerpt": "Mark believes high-quality, affordable healthcare should be available to everyone.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-p5",
+      "topic": "education",
+      "statement": "A parent quoted in Meek's statement says he will improve schools, raise graduation rates and keep families safe.",
+      "excerpt": "Mark Meek is the only candidate I trust to improve schools, raise graduation rates, and keep our families safe.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No sponsored-bill or roll-call items collected (phase 1)",
+    "Official biography page lists no committees",
+    "2026 campaign-period positions not found"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract mark-meek.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 42)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/meek/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website http://www.VoteMarkMeek.com (printed in pamphlet statement)",
+      "result": "blocked (WebFetch ROBOTS_DISALLOWED)"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Mark Meek\" Oregon Senate 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mark Meek\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mark Meek\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Mark Meek\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://www.opb.org/article/2025/07/01/think-out-loud-state-sen-mark-meek-transportation/",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Inventory consistent (incumbent true). Pamphlet Book14 p.42 (pending). Press covers 2025 dispute with Senate President Wagner over transportation bill (OPB/WW headlines only; not collected). Pamphlet statement: SOS Clackamas edition p. 42 (same text in other editions). Campaign site printed in pamphlet but could not be fetched (robots.txt); no T2 items.",
+  "incumbent_source_url": "https://www.oregonlegislature.gov/meek/Pages/biography.aspx",
+  "endorsements": [
+    {
+      "id": "mark-meek-e1",
+      "endorser": "U.S. Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Mark Meek's pamphlet statement lists U.S. Senator Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e2",
+      "endorser": "Clackamas County Chair Craig Roberts",
+      "endorser_type": "official",
+      "statement": "Mark Meek's pamphlet statement lists Clackamas County Chair Craig Roberts as an endorser.",
+      "excerpt": "Clackamas County Chair Craig Roberts",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e3",
+      "endorser": "Oregon City Mayor Denyse McGriff",
+      "endorser_type": "official",
+      "statement": "Mark Meek's pamphlet statement lists Oregon City Mayor Denyse McGriff as an endorser.",
+      "excerpt": "Oregon City Mayor Denyse McGriff",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e4",
+      "endorser": "Happy Valley Mayor Tom Ellis",
+      "endorser_type": "official",
+      "statement": "Mark Meek's pamphlet statement lists Happy Valley Mayor Tom Ellis as an endorser.",
+      "excerpt": "Happy Valley Mayor Tom Ellis",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e5",
+      "endorser": "Gladstone Mayor Michael Milch",
+      "endorser_type": "official",
+      "statement": "Mark Meek's pamphlet statement lists Gladstone Mayor Michael Milch as an endorser.",
+      "excerpt": "Gladstone Mayor Michael Milch",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e6",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Mark Meek's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e7",
+      "endorser": "Stand for Children Oregon",
+      "endorser_type": "organization",
+      "statement": "Mark Meek's pamphlet statement lists Stand for Children Oregon as an endorser.",
+      "excerpt": "Stand for Children Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e8",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Mark Meek's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e9",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Mark Meek's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e10",
+      "endorser": "Oregon Chiefs of Police Association",
+      "endorser_type": "organization",
+      "statement": "Mark Meek's pamphlet statement lists Oregon Chiefs of Police Association as an endorser.",
+      "excerpt": "Oregon Chiefs of Police Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e11",
+      "endorser": "Oregon Coalition of Police & Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Mark Meek's pamphlet statement lists Oregon Coalition of Police & Sheriffs as an endorser.",
+      "excerpt": "Oregon Coalition of Police & Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e12",
+      "endorser": "Trooper PAC",
+      "endorser_type": "organization",
+      "statement": "Mark Meek's pamphlet statement lists Trooper PAC as an endorser.",
+      "excerpt": "Trooper PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e13",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Mark Meek's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e14",
+      "endorser": "North Clackamas Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Mark Meek's pamphlet statement lists North Clackamas Chamber of Commerce as an endorser.",
+      "excerpt": "North Clackamas Chamber of Commerce",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e15",
+      "endorser": "Defend Small Business PAC",
+      "endorser_type": "organization",
+      "statement": "Mark Meek's pamphlet statement lists Defend Small Business PAC as an endorser.",
+      "excerpt": "Defend Small Business PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mark-meek-e16",
+      "endorser": "AG-PAC",
+      "endorser_type": "organization",
+      "statement": "Mark Meek's pamphlet statement lists AG-PAC as an endorser.",
+      "excerpt": "AG-PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
+}

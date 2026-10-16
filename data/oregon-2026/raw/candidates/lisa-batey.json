@@ -48,6 +48,19 @@
         "published_at": null,
         "retrieved_at": "2026-10-14"
       }
+    },
+    {
+      "id": "lisa-batey-b4",
+      "topic": "custom:bio",
+      "statement": "Her campaign site describes over two decades of Milwaukie service from neighborhood chair through Planning Commission and City Council to Mayor.",
+      "excerpt": "A mayor who has studied and served Milwaukie for over two decades, from neighborhood chair to utility committee to Planning Commission to City Council to Mayor.",
+      "source": {
+        "url": "https://lisabateyformilwaukie.com/",
+        "publisher": "Lisa Batey campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
     }
   ],
   "positions": [
@@ -76,11 +89,75 @@
         "published_at": null,
         "retrieved_at": "2026-10-14"
       }
+    },
+    {
+      "id": "lisa-batey-p3",
+      "topic": "transportation",
+      "statement": "On her campaign site, Batey lists developing local smaller-scale transit connecting employment areas and neighborhood hubs to light rail as a priority.",
+      "excerpt": "Developing local smaller-scale transit to connect employment areas and neighborhood hubs to light rail",
+      "source": {
+        "url": "https://lisabateyformilwaukie.com/accomplishments-and-priorities/",
+        "publisher": "Lisa Batey campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-p4",
+      "topic": "custom:parks",
+      "statement": "On her campaign site, Batey lists filling park gaps so all residents have a park within a 10-minute walk.",
+      "excerpt": "Filling in the gaps so that all residents have a park within a 10-minute walk.",
+      "source": {
+        "url": "https://lisabateyformilwaukie.com/accomplishments-and-priorities/",
+        "publisher": "Lisa Batey campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-p5",
+      "topic": "environment",
+      "statement": "On her campaign site, Batey lists advancing Milwaukie's climate goals through electrification and electric vehicle programs.",
+      "excerpt": "Advancing Milwaukie’s climate goals by enhancements to electrification and electric vehicle programs",
+      "source": {
+        "url": "https://lisabateyformilwaukie.com/accomplishments-and-priorities/",
+        "publisher": "Lisa Batey campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-p6",
+      "topic": "economy",
+      "statement": "On her campaign site, Batey lists attracting more family-wage jobs to industrial areas.",
+      "excerpt": "Working to attract more jobs, and more family-wage jobs, to our industrial areas",
+      "source": {
+        "url": "https://lisabateyformilwaukie.com/accomplishments-and-priorities/",
+        "publisher": "Lisa Batey campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-p7",
+      "topic": "immigration",
+      "statement": "Her campaign site homepage says neighbors live in fear because of their immigration status.",
+      "excerpt": "We have neighbors who live in fear because of their immigration status.",
+      "source": {
+        "url": "https://lisabateyformilwaukie.com/",
+        "publisher": "Lisa Batey campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
     }
   ],
   "voting_record": [],
   "gaps": [
-    "Campaign site not fetched; pamphlet content used",
     "Pamphlet excerpts retrievable were limited (fetch tool caps quotes); few distinct policy items",
     "No 2026 T3 interview found (KOIN Kellogg Dam piece undated)"
   ],
@@ -124,7 +201,257 @@
       "step": "6",
       "query_or_url": "https://www.koin.com/news/environment/20-years-in-the-making-mayor-seeks-kellogg-dam-removal-park-redesign/",
       "result": "nothing relevant"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "https://lisabateyformilwaukie.com/",
+      "result": "used"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "https://lisabateyformilwaukie.com/accomplishments-and-priorities/",
+      "result": "used"
     }
   ],
-  "collection_notes": "Incumbent per City of Milwaukie mayor page. Pamphlet notes an endorsement by the Democratic Party of Clackamas County and compares opponents (not used). KOIN Kellogg Dam article has no date or byline, so not used."
+  "collection_notes": "Incumbent per City of Milwaukie mayor page. Pamphlet notes an endorsement by the Democratic Party of Clackamas County and compares opponents (not used). KOIN Kellogg Dam article has no date or byline, so not used. Gap-fill 2026-10-16: Campaign site added (T2). Challengers Leslie Wright and Will Anderson were not part of this pass; check them for comparable sources.",
+  "endorsements": [
+    {
+      "id": "lisa-batey-e1",
+      "endorser": "Shane Abma",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Shane Abma as an endorser.",
+      "excerpt": "Shane Abma",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e2",
+      "endorser": "Adam Khosroabadi",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Adam Khosroabadi as an endorser.",
+      "excerpt": "Adam Khosroabadi",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e3",
+      "endorser": "Joe Loomis",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Joe Loomis as an endorser.",
+      "excerpt": "Joe Loomis",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e4",
+      "endorser": "Robert Massey",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Robert Massey as an endorser.",
+      "excerpt": "Robert Massey",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e5",
+      "endorser": "Wilda Parks",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Wilda Parks as an endorser.",
+      "excerpt": "Wilda Parks",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e6",
+      "endorser": "Rebecca Stavenjord",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Rebecca Stavenjord as an endorser.",
+      "excerpt": "Rebecca Stavenjord",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e7",
+      "endorser": "Lacey Beaty",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Lacey Beaty as an endorser.",
+      "excerpt": "Lacey Beaty, Beaverton",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e8",
+      "endorser": "Rory Bialostosky",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Rory Bialostosky as an endorser.",
+      "excerpt": "Rory Bialostosky, West Linn",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e9",
+      "endorser": "Frank Bubenik",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Frank Bubenik as an endorser.",
+      "excerpt": "Frank Bubenik, Tualatin",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e10",
+      "endorser": "Joe Buck",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Joe Buck as an endorser.",
+      "excerpt": "Joe Buck, Lake Oswego",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e11",
+      "endorser": "Yi-Kang Hu",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Yi-Kang Hu as an endorser.",
+      "excerpt": "Yi-Kang Hu, Tigard",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e12",
+      "endorser": "Denyse McGriff",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Denyse McGriff as an endorser.",
+      "excerpt": "Denyse McGriff, Oregon City",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e13",
+      "endorser": "Michael Milch",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Michael Milch as an endorser.",
+      "excerpt": "Michael Milch, Gladstone",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e14",
+      "endorser": "Shawn O’Neil",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Shawn O’Neil as an endorser.",
+      "excerpt": "Shawn O’Neil, Wilsonville",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e15",
+      "endorser": "Tim Rosener",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Tim Rosener as an endorser.",
+      "excerpt": "Tim Rosener, Sherwood",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e16",
+      "endorser": "Travis Stovall",
+      "endorser_type": "official",
+      "statement": "Lisa Batey's pamphlet statement lists Travis Stovall as an endorser.",
+      "excerpt": "Travis Stovall, Gresham",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-e17",
+      "endorser": "Democratic Party of Clackamas County",
+      "endorser_type": "organization",
+      "statement": "Lisa Batey's pamphlet statement lists Democratic Party of Clackamas County as an endorser.",
+      "excerpt": "endorsement of the Democratic Party of",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 33",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

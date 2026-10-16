@@ -145,5 +145,147 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Incumbency null: no official Lake Oswego council roster was found; the pamphlet statement does not say the candidate serves on council. Race: vote for 4 (top three 4-year terms, fourth a 2-year term per city certification). Common name: step-5 queries added 'Lake Oswego' (also for Ramsey and Miles); results were unrelated."
+  "collection_notes": "Incumbency null: no official Lake Oswego council roster was found; the pamphlet statement does not say the candidate serves on council. Race: vote for 4 (top three 4-year terms, fourth a 2-year term per city certification). Common name: step-5 queries added 'Lake Oswego' (also for Ramsey and Miles); results were unrelated.",
+  "endorsements": [
+    {
+      "id": "patrick-walsh-e1",
+      "endorser": "Professional Firefighters of Clackamas County, IAFF Local 115",
+      "endorser_type": "organization",
+      "statement": "Patrick Walsh's pamphlet statement lists Professional Firefighters of Clackamas County, IAFF Local 115 as an endorser.",
+      "excerpt": "Professional Firefighters of Clackamas County, IAFF Local 115",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 30",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patrick-walsh-e2",
+      "endorser": "Lake Oswego Municipal Employees’ Association",
+      "endorser_type": "organization",
+      "statement": "Patrick Walsh's pamphlet statement lists Lake Oswego Municipal Employees’ Association as an endorser.",
+      "excerpt": "Lake Oswego Municipal Employees’ Association",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 30",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patrick-walsh-e3",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Patrick Walsh's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 30",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patrick-walsh-e4",
+      "endorser": "Joe Buck",
+      "endorser_type": "official",
+      "statement": "Patrick Walsh's pamphlet statement lists Joe Buck as an endorser.",
+      "excerpt": "Mayor of Lake Oswego: Joe Buck",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 30",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patrick-walsh-e5",
+      "endorser": "Rachel Verdick",
+      "endorser_type": "official",
+      "statement": "Patrick Walsh's pamphlet statement lists Rachel Verdick as an endorser.",
+      "excerpt": "LO City Councilors: Rachel Verdick, Massene Mboup,",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 30",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patrick-walsh-e6",
+      "endorser": "Massene Mboup",
+      "endorser_type": "official",
+      "statement": "Patrick Walsh's pamphlet statement lists Massene Mboup as an endorser.",
+      "excerpt": "LO City Councilors: Rachel Verdick, Massene Mboup,",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 30",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patrick-walsh-e7",
+      "endorser": "Jackie Edmunds Manz",
+      "endorser_type": "official",
+      "statement": "Patrick Walsh's pamphlet statement lists Jackie Edmunds Manz as an endorser.",
+      "excerpt": "Jackie Edmunds Manz, Trudy Corrigan, Ali Afghan, Jeff",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 30",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patrick-walsh-e8",
+      "endorser": "Trudy Corrigan",
+      "endorser_type": "official",
+      "statement": "Patrick Walsh's pamphlet statement lists Trudy Corrigan as an endorser.",
+      "excerpt": "Jackie Edmunds Manz, Trudy Corrigan, Ali Afghan, Jeff",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 30",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patrick-walsh-e9",
+      "endorser": "Ali Afghan",
+      "endorser_type": "official",
+      "statement": "Patrick Walsh's pamphlet statement lists Ali Afghan as an endorser.",
+      "excerpt": "Jackie Edmunds Manz, Trudy Corrigan, Ali Afghan, Jeff",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 30",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patrick-walsh-e10",
+      "endorser": "Jeff Gudman",
+      "endorser_type": "official",
+      "statement": "Patrick Walsh's pamphlet statement lists Jeff Gudman as an endorser.",
+      "excerpt": "Gudman (fmr.)",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 30",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -1,0 +1,466 @@
+{
+  "id": "nathan-sosa",
+  "name": "Nathan Sosa",
+  "race_id": "or-house-30",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+  "occupation": "Attorney",
+  "website_url": "http://www.nathansosa.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+  "bio": [
+    {
+      "id": "nathan-sosa-b1",
+      "topic": "custom:background",
+      "statement": "His official page says he chairs the House Committee on Commerce and Consumer Protection.",
+      "excerpt": "I serve as chair of the House Committee on Commerce and Consumer Protection",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/sosa",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-b2",
+      "topic": "custom:background",
+      "statement": "His official page says he served four years on the Oregon Government Ethics Commission and chaired it in 2020.",
+      "excerpt": "I also served for four years on the Oregon Government Ethics Commission and was chair of the commission in 2020.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/sosa",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-b3",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says Sosa began working as an attorney in 2009.",
+      "excerpt": "Sosa began working as an attorney in 2009.",
+      "source": {
+        "url": "https://ballotpedia.org/Nathan_Sosa_(Oregon)",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-b4",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Sosa lists his occupation as state representative, small business owner and attorney.",
+      "excerpt": "Occupation: State Representative, Small Business Owner, Attorney Occupational Background: Attorney",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-b5",
+      "topic": "custom:background",
+      "statement": "Sosa lists a law degree and a bachelor's degree in history from UNLV.",
+      "excerpt": "Educational Background: Law degree and bachelor’s degree in history, UNLV",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "nathan-sosa-p1",
+      "topic": "economy",
+      "statement": "KATU reports Sosa supported a 2025 bill (HB 2561) on out-of-state lender interest rates, describing it as closing a loophole.",
+      "excerpt": "closing the loophole that has allowed these out-of-state lenders",
+      "source": {
+        "url": "https://katu.com/news/local/oregon-house-approves-bill-to-curb-predatory-lending-practices",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2025-03-01",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p2",
+      "topic": "economy",
+      "statement": "Sosa says he has championed bills on affordability for consumer loans and utility rates, and wants to continue with auto and home insurance and retail pricing.",
+      "excerpt": "I have championed bills on affordability for consumer loans and utility rates. Now I want to continue this work on affordability for auto / home insurance and retail pricing.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p3",
+      "topic": "economy",
+      "statement": "Sosa says he has devoted his career to consumer protection and wants to hold insurance companies accountable and stop crypto scams.",
+      "excerpt": "I have devoted my career to consumer protection. Now I want to stop crypto scams and hold insurance companies accountable if they treat people unfairly.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p4",
+      "topic": "housing",
+      "statement": "Sosa says his family has experienced ever-rising rents and that he wants to protect people from needless eviction lawsuits.",
+      "excerpt": "My family has experienced the burden of ever-rising rents and the feeling that home ownership is out of reach. Now I want to protect people from needless eviction lawsuits.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p5",
+      "topic": "local-business",
+      "statement": "Sosa says he is a small business owner and wants to cut regulatory red tape so small businesses can grow.",
+      "excerpt": "I am a small business owner and spent years as a volunteer ambassador with the Washington County Chamber. Now I want to cut regulatory red tape to make it easier for small businesses to grow and thrive.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p6",
+      "topic": "taxes",
+      "statement": "Sosa's campaign website lists increasing the state Earned Income Tax Credit to help working families.",
+      "excerpt": "Increasing the state’s Earned Income Tax Credit to help working families.",
+      "source": {
+        "url": "https://www.nathansosa.com/policy-priorities-1",
+        "publisher": "Nathan Sosa campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p7",
+      "topic": "social-services",
+      "statement": "Sosa's campaign website lists ensuring access to affordable, quality childcare.",
+      "excerpt": "Ensuring access to affordable, quality childcare",
+      "source": {
+        "url": "https://www.nathansosa.com/policy-priorities-1",
+        "publisher": "Nathan Sosa campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p8",
+      "topic": "local-business",
+      "statement": "Sosa's campaign website lists fostering small business growth through start-up and expansion assistance.",
+      "excerpt": "Fostering the growth of successful small businesses through start-up and expansion assistance.",
+      "source": {
+        "url": "https://www.nathansosa.com/policy-priorities-1",
+        "publisher": "Nathan Sosa campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p9",
+      "topic": "education",
+      "statement": "Sosa's campaign website lists a statewide youth apprenticeship program for high school students.",
+      "excerpt": "Creating a statewide youth apprenticeship program so that high school students can jumpstart their careers.",
+      "source": {
+        "url": "https://www.nathansosa.com/policy-priorities-1",
+        "publisher": "Nathan Sosa campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-p10",
+      "topic": "civil-rights",
+      "statement": "Sosa's campaign website lists increasing funding for legal aid centers to ensure equal access to justice.",
+      "excerpt": "Ensuring equal access to justice by increasing funding for legal aid centers",
+      "source": {
+        "url": "https://www.nathansosa.com/policy-priorities-1",
+        "publisher": "Nathan Sosa campaign website (Policy Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Few sourced positions: campaign site nathansosa.com (policy priorities) not usable because the domain is not linked from an official page or T3 source consulted",
+    "Voting record not collected (phase 1 scope)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract nathan-sosa.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 51)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/sosa",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website http://www.nathansosa.com (printed in pamphlet statement); fetched https://www.nathansosa.com/policy-priorities-1",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://ballotpedia.org/Nathan_Sosa_(Oregon)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://katu.com/news/local/oregon-house-approves-bill-to-curb-predatory-lending-practices",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Nathan Sosa\" Oregon House 30 Hillsboro 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Nathan Sosa\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Nathan Sosa\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Nathan Sosa\"",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Incumbent per House roster (appointed to the seat per Banks Post/Washington County; appointment details not itemized). Inventory consistent. nathansosa.com content was fetched (T2) but its domain is only evidenced via an email address on Ballotpedia, so website_url left null; a reviewer may add it if verified. KATU article's HB 2561 date is the article date 2025-03-01; it does not state sponsorship. Pamphlet statement: SOS Washington edition p. 51 (same text in other editions).",
+  "endorsements": [
+    {
+      "id": "nathan-sosa-e1",
+      "endorser": "AFT–Oregon",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists AFT–Oregon as an endorser.",
+      "excerpt": "AFT–Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e2",
+      "endorser": "Humane Voters Oregon",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists Humane Voters Oregon as an endorser.",
+      "excerpt": "Humane Voters Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e3",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e4",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e5",
+      "endorser": "Oregon Building Trades Unions",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists Oregon Building Trades Unions as an endorser.",
+      "excerpt": "Oregon Building Trades Unions",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e6",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e7",
+      "endorser": "OR Labor Federation AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists OR Labor Federation AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e8",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e9",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e10",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e11",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e12",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e13",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "nathan-sosa-e14",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Nathan Sosa's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
+}

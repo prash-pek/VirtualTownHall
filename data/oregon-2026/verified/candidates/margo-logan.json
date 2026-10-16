@@ -1,0 +1,85 @@
+{
+  "id": "margo-logan",
+  "name": "Margo Logan",
+  "race_id": "or-house-44",
+  "party": "Republican",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Analyst/expert witness (per Ballotpedia)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "margo-logan-b1",
+      "topic": "custom:background",
+      "statement": "Ballotpedia lists Logan as an analyst and expert witness with a bachelor's degree from Central Washington State University in 1976.",
+      "excerpt": "Logan earned a bachelor's degree from Central Washington State University in 1976",
+      "source": {
+        "url": "https://ballotpedia.org/Margo_Logan",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "margo-logan-p1",
+      "topic": "education",
+      "statement": "In a 2021 Ballotpedia survey (school board race), Logan said it is time to return to school choice with both public and private options.",
+      "excerpt": "Time to return to school choice both public and private options.",
+      "source": {
+        "url": "https://ballotpedia.org/Margo_Logan",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Ballotpedia 2021 Candidate Connection survey for Portland Public Schools Zone 4 (a different race), disclosed in the statement. No 2026 material exists.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "margo-logan-p2",
+      "topic": "custom:public-health",
+      "statement": "In the same 2021 survey, Logan said masking children is child abuse.",
+      "excerpt": "Masking up children is child abuse.",
+      "source": {
+        "url": "https://ballotpedia.org/Margo_Logan",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Same 2021 school-board survey, disclosed in the statement; quoted and attributed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "All issue statements are from a 2021 survey for a different office; no 2026 statements found",
+    "Ballotpedia: no Candidate Connection survey for 2020 House run",
+    "No voters' pamphlet statement filed (asterisk on the SOS pamphlet list of candidates, p. 26)"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "HD44: see Nelson note. Logan has no pamphlet statement, no website; all content is dated 2021 (different office) and labelled as such."
+  }
+}

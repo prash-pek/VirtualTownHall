@@ -1,0 +1,512 @@
+{
+  "id": "beth-dittman",
+  "name": "Beth Dittman",
+  "race_id": "tualatin-council-pos-5",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information",
+  "occupation": "Small business owner",
+  "website_url": "https://www.voteforbethdittman.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+  "bio": [
+    {
+      "id": "beth-dittman-b1",
+      "topic": "custom:background",
+      "statement": "In Dittman's pamphlet statement, prior governmental experience includes the Tualatin Parks & Recreation Advisory Committee (Chair, Vice Chair).",
+      "excerpt": "Prior Governmental Experience: Tualatin Parks & Recreation Advisory Committee – Chair, Vice Chair",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt extended to cover 'Advisory Committee' and roles.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-b2",
+      "topic": "custom:background",
+      "statement": "Dittman's pamphlet statement says the Dittman family chose Tualatin 16 years ago.",
+      "excerpt": "My family chose Tualatin 16 years ago because it felt like a",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "beth-dittman-p1",
+      "topic": "housing",
+      "statement": "Dittman's pamphlet statement lists expanding affordable housing so more workers can afford to live in Tualatin among the things Dittman will focus on.",
+      "excerpt": "Whether supporting downtown business improvement programs, expanding affordable housing so more workers can afford to live here",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended ('live here'); statement attributes it as one of several focus areas; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-p2",
+      "topic": "local-business",
+      "statement": "Dittman's pamphlet statement lists supporting downtown business improvement programs among the things Dittman will focus on.",
+      "excerpt": "Whether supporting downtown business improvement programs,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording",
+          "paraphrase_faithful"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname. Framing aligned to the sentence ('I'll focus on practical solutions').",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-p3",
+      "topic": "environment",
+      "statement": "Dittman's pamphlet statement lists investing in Riverfront Park and more lighted turf fields among the things Dittman will focus on.",
+      "excerpt": "investing in Riverfront Park and more lighted turf fields,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording",
+          "paraphrase_faithful"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname. Framing aligned to the sentence ('I'll focus on practical solutions').",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-p4",
+      "topic": "taxes",
+      "statement": "Dittman's pamphlet statement lists keeping Tualatin welcoming, fiscally responsible and forward-looking as priorities.",
+      "excerpt": "My priorities are to keep Tualatin welcoming, fiscally responsible, and forward-looking",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended to match the statement; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-p5",
+      "topic": "economy",
+      "statement": "Dittman's campaign website says Dittman will support policies that help local businesses grow and create living-wage jobs.",
+      "excerpt": "Beth will support policies that help local businesses grow, create living-wage jobs",
+      "source": {
+        "url": "https://www.voteforbethdittman.com/priorities",
+        "publisher": "Beth Dittman campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [
+    {
+      "id": "beth-dittman-e1",
+      "endorser": "Adam Peterson",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Adam Peterson as an endorser.",
+      "excerpt": "Adam Peterson",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e2",
+      "endorser": "Bridget Brooks",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Bridget Brooks as an endorser.",
+      "excerpt": "Bridget Brooks",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e3",
+      "endorser": "Christen Sacco",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Christen Sacco as an endorser.",
+      "excerpt": "Christen Sacco",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e4",
+      "endorser": "Christina George",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Christina George as an endorser.",
+      "excerpt": "Christina George",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e5",
+      "endorser": "Crystal Weston",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Crystal Weston as an endorser.",
+      "excerpt": "Crystal Weston",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e6",
+      "endorser": "David Jaimes",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists David Jaimes as an endorser.",
+      "excerpt": "David Jaimes",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e7",
+      "endorser": "Democratic Party of Clackamas County",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Democratic Party of Clackamas County as an endorser.",
+      "excerpt": "Democratic Party of Clackamas County",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e8",
+      "endorser": "Emma Gray",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Emma Gray as an endorser.",
+      "excerpt": "Emma Gray",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e9",
+      "endorser": "Jill Zurschmeide",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Jill Zurschmeide as an endorser.",
+      "excerpt": "Jill Zurschmeide",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e10",
+      "endorser": "Kyli McLaughlin",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Kyli McLaughlin as an endorser.",
+      "excerpt": "Kyli McLaughlin",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e11",
+      "endorser": "Patricia Parsons",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Patricia Parsons as an endorser.",
+      "excerpt": "Patricia Parsons",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e12",
+      "endorser": "Ross Baker",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Ross Baker as an endorser.",
+      "excerpt": "Ross Baker",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e13",
+      "endorser": "Susan Noack",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Susan Noack as an endorser.",
+      "excerpt": "Susan Noack",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e14",
+      "endorser": "Tristan Irvin",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Tristan Irvin as an endorser.",
+      "excerpt": "Tristan Irvin",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e15",
+      "endorser": "Valerie Pratt",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Valerie Pratt as an endorser.",
+      "excerpt": "Valerie Pratt",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "beth-dittman-e16",
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Dittman's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Washington County Democrats",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "gaps": [],
+  "verification_summary": {
+    "verified": 16,
+    "corrected": 7,
+    "rejected": 0,
+    "balance_notes": "Unopposed. 6 pamphlet items + 1 website item + 16 pamphlet endorsements. Fully covered. (items 0v/7c/0r; endorsements 16v/0c/0r) Incumbency/website checks: see report."
+  }
+}

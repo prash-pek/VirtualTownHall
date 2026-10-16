@@ -209,5 +209,119 @@
       "result": "nothing relevant (fetched; candidate not mentioned or nothing usable beyond other sources)"
     }
   ],
-  "collection_notes": "Steps run identically for all 12 District 4 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF plus the City Auditor's AUD-120 candidate filing form (linked from portland.gov 2026 city candidates page); (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the two articles that profile every District 4 candidate: OPB 'What to know about Portland's District 4 council race' (2026-10-07) and Portland Mercury 'Meet the Candidates For City Council District 4' (2026-09-11). Multi-winner race: OPB states three District 4 seats are on the ballot. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Filing form gives occupation 'Police Officer'."
+  "collection_notes": "Steps run identically for all 12 District 4 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF plus the City Auditor's AUD-120 candidate filing form (linked from portland.gov 2026 city candidates page); (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the two articles that profile every District 4 candidate: OPB 'What to know about Portland's District 4 council race' (2026-10-07) and Portland Mercury 'Meet the Candidates For City Council District 4' (2026-09-11). Multi-winner race: OPB states three District 4 seats are on the ballot. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Filing form gives occupation 'Police Officer'.",
+  "endorsements": [
+    {
+      "id": "eli-arnold-e1",
+      "endorser": "Portland Fire Fighters’ Association, IAFF Local 43",
+      "endorser_type": "organization",
+      "statement": "Eli Arnold's pamphlet statement lists Portland Fire Fighters’ Association, IAFF Local 43 as an endorser.",
+      "excerpt": "Portland Fire Fighters’ Association, IAFF Local 43",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e2",
+      "endorser": "Lisa Naito",
+      "endorser_type": "official",
+      "statement": "Eli Arnold's pamphlet statement lists Lisa Naito as an endorser.",
+      "excerpt": "Lisa Naito, former State Representative",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e3",
+      "endorser": "Amanda Fritz",
+      "endorser_type": "official",
+      "statement": "Eli Arnold's pamphlet statement lists Amanda Fritz as an endorser.",
+      "excerpt": "Amanda Fritz, former City Commissioner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e4",
+      "endorser": "Go Portland Go",
+      "endorser_type": "organization",
+      "statement": "Eli Arnold's pamphlet statement lists Go Portland Go as an endorser.",
+      "excerpt": "Go Portland Go",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e5",
+      "endorser": "Lisa Caballero",
+      "endorser_type": "person",
+      "statement": "Eli Arnold's pamphlet statement lists Lisa Caballero as an endorser.",
+      "excerpt": "Lisa Caballero, Transportation Advocate",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e6",
+      "endorser": "Bruce Studer",
+      "endorser_type": "person",
+      "statement": "Eli Arnold's pamphlet statement lists Bruce Studer as an endorser.",
+      "excerpt": "Bruce Studer, Community Organizer",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e7",
+      "endorser": "Mike Lindberg",
+      "endorser_type": "official",
+      "statement": "Eli Arnold's pamphlet statement lists Mike Lindberg as an endorser.",
+      "excerpt": "Mike Lindberg, former City Commissioner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e8",
+      "endorser": "Bob Weinstein",
+      "endorser_type": "person",
+      "statement": "Eli Arnold's pamphlet statement lists Bob Weinstein as an endorser.",
+      "excerpt": "Bob Weinstein, Government Watchdog",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

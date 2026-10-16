@@ -1,0 +1,130 @@
+{
+ "id": "olivia-duren",
+ "name": "Olivia Duren",
+ "race_id": "tualatin-swcd-zone-4",
+ "party": null,
+ "incumbent": true,
+ "incumbent_source_url": "https://tualatinswcd.org/our-story/our-board/",
+ "occupation": "Restoration Program Manager, The Freshwater Trust",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "olivia-duren-b1",
+   "topic": "custom:background",
+   "statement": "Duren's pamphlet statement lists the Oregon Invasive Species Council among her prior governmental experience.",
+   "excerpt": "Oregon Invasive Species Council",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "olivia-duren-b2",
+   "topic": "custom:background",
+   "statement": "Duren's pamphlet statement gives her occupation as Restoration Program Manager and her background as a biologist.",
+   "excerpt": "Occupation: Restoration",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "olivia-duren-p1",
+   "topic": "agriculture",
+   "statement": "In her pamphlet statement, Duren says she seeks to promote smart planning and land use to preserve rural land.",
+   "excerpt": "Promote smart planning and land use to preserve rural",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "olivia-duren-p2",
+   "topic": "agriculture",
+   "statement": "In her pamphlet statement, Duren says she seeks to ensure farmers, foresters and community members have access to technical resources supporting healthy land and water.",
+   "excerpt": "access to technical resources that support healthy land",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "olivia-duren-p3",
+   "topic": "environment",
+   "statement": "In her pamphlet statement, Duren says she seeks to uphold organizational health so SWCD staff can effectively help all of Washington County.",
+   "excerpt": "Uphold organizational health so SWCD staff can effectively",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "No endorsements attributed: the pamphlet page's endorsement list sits in Moberg's column",
+  "No campaign website found",
+  "Pamphlet bio columns interleave in script extract; some details not quoted"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (extract washington-county/olivia-duren.txt, p.44)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://tualatinswcd.org/our-story/our-board/",
+   "result": "used (Zone 4 director)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain linked",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Olivia Duren\" Tualatin soil and water conservation district 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (a) opb/oregoncapitalchronicle/wweek/ballotpedia: Olivia Duren",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (b) kgw/koin/kptv/katu: Olivia Duren",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (c) portlandmercury/vote411/pamplinmedia/portlandtribune: Olivia Duren",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "6",
+   "query_or_url": "none promising",
+   "result": "nothing relevant"
+  }
+ ],
+ "collection_notes": "Unopposed incumbent. Matches inventory. Her pamphlet excerpts are single lines from the right column of a two-column page."
+}

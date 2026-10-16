@@ -174,5 +174,107 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Race banks-mayor. Bogroff has 4 bio and 4 positions (2 T1, 2 T2). Kirk has 4 bio and 2 positions (all T1); her campaign site blocked fetches and her pamphlet has few specifics (documented). The imbalance comes from source availability, not effort. Possibly missed: KOIN 'Mayor Monday: Community updates from Banks' (syndicated on Yahoo), which may contain Kirk's own statements as sitting mayor. It was not fetched. File-level: name matches pamphlet/official listing. Incumbent false: the 2026 pamphlet shows Kirk as Mayor 2025–present and lists Bogroff only on the Planning Commission. Source changed from the Feb 2025 minutes. Website https://www.jimmybogroff.com confirmed as printed in the 2026 county pamphlet."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "jimmy-bogroff-e1",
+      "endorser": "Peter Edison",
+      "endorser_type": "official",
+      "statement": "Jimmy Bogroff's pamphlet statement lists Peter Edison as an endorser.",
+      "excerpt": "Peter Edison (former Mayor)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 6",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jimmy-bogroff-e2",
+      "endorser": "Stephanie Jones",
+      "endorser_type": "official",
+      "statement": "Jimmy Bogroff's pamphlet statement lists Stephanie Jones as an endorser.",
+      "excerpt": "Banks City Councilors: Peter Edison (former Mayor), Stephanie",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 6",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jimmy-bogroff-e3",
+      "endorser": "Pearcia Bogroff",
+      "endorser_type": "official",
+      "statement": "Jimmy Bogroff's pamphlet statement lists Pearcia Bogroff as an endorser.",
+      "excerpt": "Pearcia Bogroff",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 6",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jimmy-bogroff-e4",
+      "endorser": "Niki Walters",
+      "endorser_type": "official",
+      "statement": "Jimmy Bogroff's pamphlet statement lists Niki Walters as an endorser.",
+      "excerpt": "Niki Walters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 6",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jimmy-bogroff-e5",
+      "endorser": "April Randall",
+      "endorser_type": "official",
+      "statement": "Jimmy Bogroff's pamphlet statement lists April Randall as an endorser.",
+      "excerpt": "April",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 6",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

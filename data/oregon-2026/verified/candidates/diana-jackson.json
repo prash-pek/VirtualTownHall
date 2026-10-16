@@ -1,0 +1,599 @@
+{
+  "id": "diana-jackson",
+  "name": "Diana Jackson",
+  "name_variants": [],
+  "race_id": "hillsboro-council-ward-1a",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000",
+  "occupation": "Legal Assistant, Metropolitan Public Defender's Office",
+  "website_url": "https://www.dianaforhillsboro.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+  "bio": [
+    {
+      "id": "diana-jackson-b1",
+      "topic": "custom:bio",
+      "statement": "Jackson's pamphlet statement lists her occupation as legal assistant at the Metropolitan Public Defender's Office.",
+      "excerpt": "Legal Assistant, Metropolitan Public Defender’s Office",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "diana-jackson-b2",
+      "topic": "custom:bio",
+      "statement": "Jackson's pamphlet statement lists an associate degree in paralegal studies from Portland Community College.",
+      "excerpt": "Portland Community College, A.A. Paralegal Studies",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "diana-jackson-b3",
+      "topic": "custom:bio",
+      "statement": "Jackson's pamphlet statement lists service on the Hillsboro Planning Commission.",
+      "excerpt": "Hillsboro Planning Commission",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "diana-jackson-p1",
+      "topic": "housing",
+      "statement": "In her voters' pamphlet statement, Jackson says housing is a human right and people should afford to live where they work.",
+      "excerpt": "We deserve to afford to live where we work. Housing is a human right, not a privilege",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "diana-jackson-p2",
+      "topic": "local-business",
+      "statement": "Jackson's pamphlet statement calls for growing small businesses rather than giving tax breaks to data centers.",
+      "excerpt": "We need to grow small businesses, not give tax breaks to datacenters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "diana-jackson-p3",
+      "topic": "social-services",
+      "statement": "Jackson's pamphlet statement calls for fixing gaps where people fall through the cracks in accessing life-saving services.",
+      "excerpt": "Fix the areas where people fall through the cracks when accessing life saving services",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "diana-jackson-p4",
+      "topic": "immigration",
+      "statement": "Jackson's pamphlet statement includes the line 'ICE out of Hillsboro.'",
+      "excerpt": "ICE out of Hillsboro",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "diana-jackson-p5",
+      "topic": "agriculture",
+      "statement": "Jackson's campaign site calls for protecting the urban growth boundary and farmland and supporting downtown small business.",
+      "excerpt": "Protect the Urban Growth Boundary and our farmland, support small business downtown,",
+      "source": {
+        "url": "https://www.dianaforhillsboro.com",
+        "publisher": "Diana Jackson campaign",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed. Campaign domain confirmed by printed pamphlet website.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "diana-jackson-p6",
+      "topic": "custom:governance",
+      "statement": "In a 2026 OPB article, Jackson is quoted as saying Hillsboro needs people who live there to represent the people who live there.",
+      "excerpt": "We need people who are here to represent the people who live here.",
+      "source": {
+        "url": "https://www.opb.org/article/2026/09/25/data-centers-ice-and-the-dsa-election-tensions-rise-in-washington-county/",
+        "publisher": "OPB (Bryce Dole, Holly Bartholomew)",
+        "tier": "T3",
+        "published_at": "2026-09-28",
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Reworded to track the quoted sentence more closely (original said 'elected officials'). Excerpt re-confirmed verbatim on page.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Ward 1A: Salgado 8 items, Garcia 7, Marugg 8, Jackson 9 (incl. one T2 site item and one T3 OPB item). All four filed pamphlet statements; Salgado, Garcia have no website; Jackson alone has press (OPB 2026-09-28 names her). Disparities reflect source availability, applied equally."
+  },
+  "endorsements": [
+    {
+      "id": "diana-jackson-e1",
+      "endorser": "HIllsboro Seeds of Change",
+      "endorser_type": "organization",
+      "statement": "Diana Jackson's pamphlet statement lists HIllsboro Seeds of Change as an endorser.",
+      "excerpt": "HIllsboro Seeds of Change - Karim Delgado and Dorian Russell",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e2",
+      "endorser": "AFSCME Local 15",
+      "endorser_type": "organization",
+      "statement": "Diana Jackson's pamphlet statement lists AFSCME Local 15 as an endorser.",
+      "excerpt": "AFSCME Local 15",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e3",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Diana Jackson's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e4",
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization",
+      "statement": "Diana Jackson's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Washington County Democrats",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e5",
+      "endorser": "Friends of Smart Growth",
+      "endorser_type": "organization",
+      "statement": "Diana Jackson's pamphlet statement lists Friends of Smart Growth as an endorser.",
+      "excerpt": "Friends of Smart Growth",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e6",
+      "endorser": "SunrisePDX",
+      "endorser_type": "organization",
+      "statement": "Diana Jackson's pamphlet statement lists SunrisePDX as an endorser.",
+      "excerpt": "SunrisePDX",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e7",
+      "endorser": "Oregon Datacenter Defiance",
+      "endorser_type": "organization",
+      "statement": "Diana Jackson's pamphlet statement lists Oregon Datacenter Defiance as an endorser.",
+      "excerpt": "Oregon Datacenter Defiance",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e8",
+      "endorser": "Susan McLain",
+      "endorser_type": "official",
+      "statement": "Diana Jackson's pamphlet statement lists Susan McLain as an endorser.",
+      "excerpt": "Representative Susan McLain",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e9",
+      "endorser": "Farrah Chaichi",
+      "endorser_type": "official",
+      "statement": "Diana Jackson's pamphlet statement lists Farrah Chaichi as an endorser.",
+      "excerpt": "Representative Farrah Chaichi",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e10",
+      "endorser": "Lesly Munoz",
+      "endorser_type": "official",
+      "statement": "Diana Jackson's pamphlet statement lists Lesly Munoz as an endorser.",
+      "excerpt": "Representative Lesly Munoz",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e11",
+      "endorser": "Nafisa Fai",
+      "endorser_type": "official",
+      "statement": "Diana Jackson's pamphlet statement lists Nafisa Fai as an endorser.",
+      "excerpt": "County Commissioner Nafisa Fai",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e12",
+      "endorser": "Kipperlyn Sinclair",
+      "endorser_type": "official",
+      "statement": "Diana Jackson's pamphlet statement lists Kipperlyn Sinclair as an endorser.",
+      "excerpt": "Hillsboro City Councilor Kipperlyn Sinclair",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e13",
+      "endorser": "Olivia Alcaire",
+      "endorser_type": "official",
+      "statement": "Diana Jackson's pamphlet statement lists Olivia Alcaire as an endorser.",
+      "excerpt": "Hillsboro City Councilor Olivia Alcaire",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e14",
+      "endorser": "Anthony Martin",
+      "endorser_type": "official",
+      "statement": "Diana Jackson's pamphlet statement lists Anthony Martin as an endorser.",
+      "excerpt": "Former Hillsboro City Councilor Anthony Martin",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e15",
+      "endorser": "Nadia Hasan",
+      "endorser_type": "official",
+      "statement": "Diana Jackson's pamphlet statement lists Nadia Hasan as an endorser.",
+      "excerpt": "Beaverton City Councilor Nadia Hasan",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e16",
+      "endorser": "Syed Qasim",
+      "endorser_type": "official",
+      "statement": "Diana Jackson's pamphlet statement lists Syed Qasim as an endorser.",
+      "excerpt": "Syed Qasim, Beaverton School Board",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e17",
+      "endorser": "Barbie Minor",
+      "endorser_type": "official",
+      "statement": "Diana Jackson's pamphlet statement lists Barbie Minor as an endorser.",
+      "excerpt": "Barbie Minor, Tualatin Hills Parks and Recreation District",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e18",
+      "endorser": "Myrna Munoz",
+      "endorser_type": "person",
+      "statement": "Diana Jackson's pamphlet statement lists Myrna Munoz as an endorser.",
+      "excerpt": "Myrna Munoz, Candidate for Oregon SD 15",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e19",
+      "endorser": "Tammy Carpenter",
+      "endorser_type": "person",
+      "statement": "Diana Jackson's pamphlet statement lists Tammy Carpenter as an endorser.",
+      "excerpt": "Tammy Carpenter, Candidate for Oregon HD 27",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-jackson-e20",
+      "endorser": "Evelyn Kocher",
+      "endorser_type": "person",
+      "statement": "Diana Jackson's pamphlet statement lists Evelyn Kocher as an endorser.",
+      "excerpt": "Evelyn Kocher, Candidate for Beaverton City Council",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
+}

@@ -206,5 +206,175 @@
       "result": "nothing relevant (2018-2022 coverage)"
     }
   ],
-  "collection_notes": "Incumbent in Position 6 per her City of Gresham councilor page (term Jan 2023-Dec 2026) and Meet the Council. City page URL slug spells \"jeanine\" but the page text says \"Janine Gladfelter\". The city elections page links a filing packet for every Gresham candidate; most are scans or forms with personal contact data, so none were used for any candidate. Gladfelter's packet statement header reads a different name (\"Christina Still\"), a mismatch noted by the fetch."
+  "collection_notes": "Incumbent in Position 6 per her City of Gresham councilor page (term Jan 2023-Dec 2026) and Meet the Council. City page URL slug spells \"jeanine\" but the page text says \"Janine Gladfelter\". The city elections page links a filing packet for every Gresham candidate; most are scans or forms with personal contact data, so none were used for any candidate. Gladfelter's packet statement header reads a different name (\"Christina Still\"), a mismatch noted by the fetch.",
+  "endorsements": [
+    {
+      "id": "janine-gladfelter-e1",
+      "endorser": "Shane Bemis",
+      "endorser_type": "official",
+      "statement": "Janine Gladfelter's pamphlet statement lists Shane Bemis as an endorser.",
+      "excerpt": "Shane Bemis, past Mayor of Gresham",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janine-gladfelter-e2",
+      "endorser": "Karylinn Echols",
+      "endorser_type": "official",
+      "statement": "Janine Gladfelter's pamphlet statement lists Karylinn Echols as an endorser.",
+      "excerpt": "Karylinn Echols, past Mayor of Gresham",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janine-gladfelter-e3",
+      "endorser": "Greg Matthew",
+      "endorser_type": "official",
+      "statement": "Janine Gladfelter's pamphlet statement lists Greg Matthew as an endorser.",
+      "excerpt": "Greg Matthew’s, Former State Representative HD 50",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janine-gladfelter-e4",
+      "endorser": "Ricki Ruiz",
+      "endorser_type": "person",
+      "statement": "Janine Gladfelter's pamphlet statement lists Ricki Ruiz as an endorser.",
+      "excerpt": "Ricki Ruiz",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janine-gladfelter-e5",
+      "endorser": "Diane McKeel",
+      "endorser_type": "official",
+      "statement": "Janine Gladfelter's pamphlet statement lists Diane McKeel as an endorser.",
+      "excerpt": "Diane Mckeel, Former Multnomah County Commissioner",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janine-gladfelter-e6",
+      "endorser": "David Widmark",
+      "endorser_type": "official",
+      "statement": "Janine Gladfelter's pamphlet statement lists David Widmark as an endorser.",
+      "excerpt": "David Widmark, Former Gresham City Councilor",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janine-gladfelter-e7",
+      "endorser": "Cathy Keathley",
+      "endorser_type": "official",
+      "statement": "Janine Gladfelter's pamphlet statement lists Cathy Keathley as an endorser.",
+      "excerpt": "Cathy Keathley, Gresham City Council President",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janine-gladfelter-e8",
+      "endorser": "Kayla Brown",
+      "endorser_type": "official",
+      "statement": "Janine Gladfelter's pamphlet statement lists Kayla Brown as an endorser.",
+      "excerpt": "Kayla Brown, Gresham City Council",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janine-gladfelter-e9",
+      "endorser": "Jerry Hinton",
+      "endorser_type": "official",
+      "statement": "Janine Gladfelter's pamphlet statement lists Jerry Hinton as an endorser.",
+      "excerpt": "Jerry Hinton, Gresham City Council",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janine-gladfelter-e10",
+      "endorser": "Sue O'Halloran",
+      "endorser_type": "person",
+      "statement": "Janine Gladfelter's pamphlet statement lists Sue O'Halloran as an endorser.",
+      "excerpt": "Sue O’Halloran (business owner)",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janine-gladfelter-e11",
+      "endorser": "Dan Corcoran",
+      "endorser_type": "person",
+      "statement": "Janine Gladfelter's pamphlet statement lists Dan Corcoran as an endorser.",
+      "excerpt": "Dan Corcoran (business owner)",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janine-gladfelter-e12",
+      "endorser": "Gresham Professional Firefighters Association Local 1062",
+      "endorser_type": "organization",
+      "statement": "Janine Gladfelter's pamphlet statement lists Gresham Professional Firefighters Association Local 1062 as an endorser.",
+      "excerpt": "Gresham Professional Firefighters Association Local 1062",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

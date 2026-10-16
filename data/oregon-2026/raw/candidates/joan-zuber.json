@@ -1,0 +1,85 @@
+{
+ "id": "joan-zuber",
+ "name": "Joan Zuber",
+ "race_id": "clackamas-swcd-zone-4",
+ "party": null,
+ "incumbent": true,
+ "incumbent_source_url": "https://conservationdistrict.org/our-people",
+ "occupation": null,
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "joan-zuber-b1",
+   "topic": "custom:background",
+   "statement": "The district's board page lists Zuber as Zone 4 director, with a term expiring in 2026.",
+   "excerpt": "Joan Zuber",
+   "source": {
+    "url": "https://conservationdistrict.org/our-people",
+    "publisher": "Clackamas Soil and Water Conservation District (official site), Our People",
+    "tier": "T1",
+    "published_at": "2026-09-01",
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "joan-zuber-b2",
+   "topic": "custom:background",
+   "statement": "A 2023 district profile identifies Zuber as the Zone 4 Board Director.",
+   "excerpt": "Joan Zuber is the Zone 4 Board Director for the Clackamas Soil and Water Conservation District.",
+   "source": {
+    "url": "https://conservationdistrict.org/tag/director",
+    "publisher": "Clackamas Soil and Water Conservation District (official site), 'Meet Joan Zuber'",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [],
+ "voting_record": [],
+ "gaps": [
+  "No pamphlet statement found (script extract)",
+  "No public positions found",
+  "Unopposed; no campaign website found"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "pamphlet extract clackamas-county/joan-zuber.txt (+ _index.json loose_matches checked)",
+   "result": "no pamphlet statement found (script extract)"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://conservationdistrict.org/our-people",
+   "result": "used (roster)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign website domain linked from pamphlet or official pages",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Joan Zuber\" Clackamas SWCD zone 4 2026",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5a",
+   "query_or_url": "\"Joan Zuber\" allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5b",
+   "query_or_url": "\"Joan Zuber\" allowed_domains kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5c",
+   "query_or_url": "\"Joan Zuber\" allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant"
+  }
+ ],
+ "collection_notes": "Pamphlet extract: only p. 6 (index, name starred, no statement page). Incumbent true per district Our People page (Zone 4, term expires 2026). 'Meet Joan Zuber' profile date from URL year 2023 (exact day not shown); published_at null. Matches inventory.",
+ "endorsements": []
+}

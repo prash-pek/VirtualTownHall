@@ -1,0 +1,144 @@
+{
+  "id": "josh-smith",
+  "name": "Josh Smith",
+  "name_variants": [],
+  "race_id": "gladstone-council-pos-5",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.ci.gladstone.or.us/citycouncil/page/meet-your-council",
+  "occupation": "Dentist - Nonprofit Healthcare Clinic",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "josh-smith-b1",
+      "topic": "custom:bio",
+      "statement": "Smith's pamphlet statement lists a Doctor of Dental Surgery degree from the University of Michigan.",
+      "excerpt": "University of Michigan, Doctor of Dental Surgery",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "josh-smith-b2",
+      "topic": "custom:bio",
+      "statement": "Smith's pamphlet statement lists service on the Gladstone Budget Committee since 2023.",
+      "excerpt": "Gladstone Budget Committee (2023-present)",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "josh-smith-p1",
+      "topic": "infrastructure",
+      "statement": "In his voters' pamphlet statement, Smith says the council's most important work is making sure basic services function well.",
+      "excerpt": "The most important work of our city council is making sure basic services function well,",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "josh-smith-p2",
+      "topic": "custom:governance",
+      "statement": "Smith's pamphlet statement says he does not think there is an ideological answer to most issues the city faces.",
+      "excerpt": "I don’t think there is an ideological answer to most issues the city faces.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    },
+    {
+      "id": "josh-smith-p3",
+      "topic": "custom:governance",
+      "statement": "Smith's pamphlet statement says a working-family voice would be a good addition to the council.",
+      "excerpt": "I think a working family voice will be a good addition to the city council.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "checks_failed": [],
+        "verified_at": "2026-10-15",
+        "status": "verified",
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No T3 press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "see reports/verification/candidates-metro-v5.md"
+  },
+  "endorsements": [
+    {
+      "id": "josh-smith-e1",
+      "endorser": "Michael Milch",
+      "endorser_type": "official",
+      "statement": "Josh Smith's pamphlet statement lists Michael Milch as an endorser.",
+      "excerpt": "Michael Milch, Gladstone Mayor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 26",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "id": "zach-hudson",
+  "name": "Zach Hudson",
+  "race_id": "or-house-49",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/Hudson",
+  "occupation": "Teacher; State Representative",
+  "website_url": "https://electzachhudson.com",
+  "website_verified_via": "https://ballotpedia.org/Zach_Hudson",
+  "bio": [
+    {
+      "id": "zach-hudson-b1",
+      "topic": "custom:background",
+      "statement": "Hudson's official page says he chairs the House Committee on Higher Education & Workforce Development.",
+      "excerpt": "I am the Chair of the House Committee on Higher Education & Workforce Development",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/Hudson",
+        "publisher": "Oregon Legislature, Rep. Hudson member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-b2",
+      "topic": "custom:background",
+      "statement": "His campaign site says he is a teacher and former Troutdale City Council member.",
+      "excerpt": "I'm a teacher and a former Troutdale City Council member.",
+      "source": {
+        "url": "https://electzachhudson.com",
+        "publisher": "Zach Hudson campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-b3",
+      "topic": "custom:background",
+      "statement": "His campaign About page says he has substitute-taught locally while the legislature is not in session.",
+      "excerpt": "At the moment I substitute-teach at local schools while the legislature is not in session.",
+      "source": {
+        "url": "https://electzachhudson.com/about",
+        "publisher": "Zach Hudson campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-b4",
+      "topic": "custom:occupation",
+      "statement": "His pamphlet statement lists Hudson's occupation as substitute teacher, with past teaching at Reynolds, Corbett and Gresham high schools and Mt. Hood Community College.",
+      "excerpt": "Occupation: Substitute teacher Occupational Background: Teacher, Reynolds High School, Corbett High School, Gresham High School, Mt. Hood Community College",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-b5",
+      "topic": "custom:experience",
+      "statement": "His pamphlet statement lists Troutdale City Council (2017-2020) and State Representative (2021-present) as prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Troutdale City Council, 2017 - 2020; State Representative, 2021 - present",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "zach-hudson-p1",
+      "topic": "education",
+      "statement": "His campaign issues page says education funding should cover counselors, school nurses and mental health professionals as well as classroom teachers.",
+      "excerpt": "funding not only classroom teachers, but counselors, school nurses, mental health professionals",
+      "source": {
+        "url": "https://electzachhudson.com/issues",
+        "publisher": "Zach Hudson campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-p2",
+      "topic": "environment",
+      "statement": "His issues page says he opposes fossil fuel infrastructure development and supports incentives for green energy technology.",
+      "excerpt": "I oppose the development of fossil fuel infrastructure and I support incentives to develop green energy technology.",
+      "source": {
+        "url": "https://electzachhudson.com/issues",
+        "publisher": "Zach Hudson campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-p3",
+      "topic": "economy",
+      "statement": "His issues page says he will not vote for cuts to PERS and supports workers' right to unionize.",
+      "excerpt": "I support unions and I support the right of workers to unionize.",
+      "source": {
+        "url": "https://electzachhudson.com/issues",
+        "publisher": "Zach Hudson campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-p4",
+      "topic": "immigration",
+      "statement": "His issues page says Oregon should welcome all immigrants, including asylum seekers and refugees.",
+      "excerpt": "Oregon should be a welcoming place to all immigrants, including asylum seekers and refugees.",
+      "source": {
+        "url": "https://electzachhudson.com/issues",
+        "publisher": "Zach Hudson campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-p5",
+      "topic": "healthcare",
+      "statement": "His issues page says he supports regulating prices of prescription drugs such as insulin as a public good.",
+      "excerpt": "Prescription drugs such as insulin should be seen as a public good, and prices should be regulated accordingly.",
+      "source": {
+        "url": "https://electzachhudson.com/issues",
+        "publisher": "Zach Hudson campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-p6",
+      "topic": "gun-policy",
+      "statement": "His issues page says he supports a ban on military-style weapons and high-capacity magazines.",
+      "excerpt": "I support a ban on military-style weapons and high-capacity magazines.",
+      "source": {
+        "url": "https://electzachhudson.com/issues",
+        "publisher": "Zach Hudson campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-p7",
+      "topic": "housing",
+      "statement": "His issues page says he supports renter protections and public-private partnerships to increase affordable housing supply.",
+      "excerpt": "I support renter protections and public-private partnerships that increase the supply of affordable housing.",
+      "source": {
+        "url": "https://electzachhudson.com/issues",
+        "publisher": "Zach Hudson campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-p8",
+      "topic": "infrastructure",
+      "statement": "Hudson says in his pamphlet statement that he voted for the POWER Act (HB 3546) to protect ratepayers from increases due to nearby industry such as data centers and crypto operations.",
+      "excerpt": "I voted for the POWER Act (HB 3546) to protect ratepayers from increases due to nearby industry, because residents and small businesses shouldn’t have to foot the energy bill for data centers and crypto operations.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-p9",
+      "topic": "public-safety",
+      "statement": "Hudson says in his pamphlet statement that he has supported East County projects including gang and violence prevention, youth recreation and emergency preparedness.",
+      "excerpt": "I have worked with community members in East County to support local projects, including affordable housing, gang and violence prevention, youth recreation and emergency preparedness.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-p10",
+      "topic": "economy",
+      "statement": "Hudson says in his pamphlet statement that he worked to pass bills improving job safety, supporting fair wages and protecting against wage theft.",
+      "excerpt": "I have worked to pass bills that improve job safety, support fair wages, and protect against wage theft.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign site pages are undated; the home page references 2026, so they are treated as current",
+    "No voting or sponsorship items collected (phase 1 scope)"
+  ],
+  "collection_notes": "Incumbent per oregonlegislature.gov member page. Campaign domain electzachhudson.com appears in Ballotpedia's 2020 survey data for Hudson; home page says 'Ready for 2026!'. Matches inventory. Bio cap (5) and positions cap (10) reached with the existing items. Dropped pamphlet bio: education (King Alfred's College BA, MA; Portland State M.Ed.). Dropped pamphlet position topics already covered by existing items or lower priority: education/teachers, environment, reproductive and affordable healthcare (RHEA), fire training tower/Fire Station 74 and Columbia levees. Website electzachhudson.com already recorded.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract zach-hudson.txt (Multnomah edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf)",
+      "result": "used (statement found, p. 56)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/Hudson",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://electzachhudson.com (+ /about, /issues)",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Zach Hudson\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: bill coverage not read",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: older Pamplin/Tribune items",
+      "result": "nothing relevant"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "zach-hudson-e1",
+      "endorser": "OR Labor Federation AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists OR Labor Federation AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e2",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e3",
+      "endorser": "American Federation of Teachers—Oregon",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists American Federation of Teachers—Oregon as an endorser.",
+      "excerpt": "American Federation of Teachers—Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e4",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e5",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e6",
+      "endorser": "Basic Rights Oregon PAC",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists Basic Rights Oregon PAC as an endorser.",
+      "excerpt": "Basic Rights Oregon PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e7",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e8",
+      "endorser": "Humane Voters Oregon",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists Humane Voters Oregon as an endorser.",
+      "excerpt": "Humane Voters Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e9",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e10",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e11",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e12",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e13",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "zach-hudson-e14",
+      "endorser": "Sierra Club",
+      "endorser_type": "organization",
+      "statement": "Zach Hudson's pamphlet statement lists Sierra Club as an endorser.",
+      "excerpt": "Sierra Club",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
+}

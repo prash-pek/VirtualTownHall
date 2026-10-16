@@ -1,0 +1,273 @@
+{
+  "id": "allie-ball",
+  "name": "Allie Ball",
+  "race_id": "milwaukie-council-pos-2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.milwaukieoregon.gov/government/city_council/index.php",
+  "occupation": "Community Leader; Public Policy Advocate; Communications Professional; Front Desk, Eastside Athletic Club",
+  "website_url": "https://allieballforall.com",
+  "website_verified_via": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "allie-ball-b1",
+      "topic": "custom:background",
+      "statement": "Ball's voters' pamphlet statement lists occupation as community leader, public policy advocate, communications professional and front desk worker at Eastside Athletic Club.",
+      "excerpt": "Occupation: Community Leader; Public Policy Advocate; Communications Professional; Front Desk, Eastside Athletic Club",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "allie-ball-b2",
+      "topic": "custom:background",
+      "statement": "Ball's pamphlet statement lists prior governmental experience on the Milwaukie Public Safety Advisory Committee and as an elected Precinct Committee Person.",
+      "excerpt": "Prior Governmental Experience: Milwaukie Public Safety Advisory Committee; Elected Precinct Committee Person",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "allie-ball-p1",
+      "topic": "housing",
+      "statement": "Ball's pamphlet statement lists expanding housing options so working people can afford to live in Milwaukie as a goal.",
+      "excerpt": "Keep Milwaukie Affordable: Expand our housing options ensuring working people can afford to live, stay, and build their future here.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "allie-ball-p2",
+      "topic": "custom:government-transparency",
+      "statement": "Ball's pamphlet statement lists making city finances and decisions easier to understand, and giving residents a voice in how the city grows, as a goal.",
+      "excerpt": "Put Transparency First: Make city finances and decisions easier to understand and more accessible while giving residents a voice in how our city grows.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "allie-ball-p3",
+      "topic": "public-safety",
+      "statement": "Ball's pamphlet statement lists investing in safe sidewalks, streets, parks and transit, and building a more community-centered public safety approach, as a goal.",
+      "excerpt": "Invest in safe, accessible sidewalks, streets, parks, transit, and public spaces while building a more community-centered public safety approach.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "allie-ball-p4",
+      "topic": "local-business",
+      "statement": "Ball's pamphlet statement lists supporting small businesses and strengthening the local economy as a goal.",
+      "excerpt": "Support our small businesses and strengthen the local economy so residents and entrepreneurs can thrive.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "allie-ball-p5",
+      "topic": "housing",
+      "statement": "On the priorities page of Ball's campaign website, a heading states a housing goal that Milwaukie be a place residents can afford to call home.",
+      "excerpt": "Milwaukie should be a place you can afford to call home.",
+      "source": {
+        "url": "https://allieballforall.com/priorities",
+        "publisher": "Campaign website (allieballforall.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). Page undated; footer shows (c) 2026.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No specific position found on parks or transportation beyond the pamphlet's sidewalk and transit reference",
+    "Campaign website's four named endorsers (homepage) not recorded: phase 1 records pamphlet-listed endorsers only"
+  ],
+  "endorsements": [
+    {
+      "id": "allie-ball-e1",
+      "endorser": "Democratic Party of Clackamas County",
+      "endorser_type": "organization",
+      "statement": "Allie Ball's pamphlet statement lists Democratic Party of Clackamas County as an endorser.",
+      "excerpt": "Democratic Party of Clackamas County",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "allie-ball-e2",
+      "endorser": "Oregon Futures Lab & Color PAC",
+      "endorser_type": "organization",
+      "statement": "Allie Ball's pamphlet statement lists Oregon Futures Lab & Color PAC as an endorser.",
+      "excerpt": "Oregon Futures Lab & Color PAC",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "allie-ball-e3",
+      "endorser": "APANO Action Fund",
+      "endorser_type": "organization",
+      "statement": "Allie Ball's pamphlet statement lists APANO Action Fund as an endorser.",
+      "excerpt": "APANO Action Fund",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "allie-ball-e4",
+      "endorser": "Basic Rights Oregon",
+      "endorser_type": "organization",
+      "statement": "Allie Ball's pamphlet statement lists Basic Rights Oregon as an endorser.",
+      "excerpt": "Basic Rights Oregon",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "allie-ball-e5",
+      "endorser": "Next Up Action Fund",
+      "endorser_type": "organization",
+      "statement": "Allie Ball's pamphlet statement lists Next Up Action Fund as an endorser.",
+      "excerpt": "Next Up Action Fund",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 35 (printed C-34)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 6,
+    "rejected": 0,
+    "balance_notes": "Milwaukie Position 2: Ball 2 bio/5 positions/5 endorsements, Murphy 2/4/10, Hess 3/5/11. All three have full pamphlet coverage. T2 uneven: Ball and Hess have campaign-site items, Murphy none (her site homepage and /meet-jennifer state priorities; /new-page-1 was not fetched). Ball's homepage names four endorsers not recorded (documented gap). Disparity is partly documented, partly missed material."
+  }
+}

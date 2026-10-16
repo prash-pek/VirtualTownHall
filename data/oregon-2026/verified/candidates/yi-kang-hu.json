@@ -1,0 +1,663 @@
+{
+  "id": "yi-kang-hu",
+  "name": "Yi-Kang Hu",
+  "race_id": "tigard-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.tigard-or.gov/your-government/council/meet-the-council",
+  "occupation": "Mayor of Tigard; attorney; small business owner",
+  "website_url": "https://www.yikanghu.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (pamphlet p. WC-35 prints www.yikanghu.com)",
+  "bio": [
+    {
+      "id": "yi-kang-hu-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Hu lists his occupation as Mayor of Tigard, attorney and small business owner, with a background as a research scientist.",
+      "excerpt": "Occupation: Mayor of Tigard; Attorney; Small Business Owner Occupational Background: Research Scientist",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-b2",
+      "topic": "custom:background",
+      "statement": "The pamphlet lists Hu's prior government experience as Tigard City Council President, Tigard Planning Commission President and the Tigard Transportation Advisory Committee.",
+      "excerpt": "Prior Governmental Experience: Tigard City Council President; Tigard Planning Commission President; Tigard Transportation Advisory Committee",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-b3",
+      "topic": "custom:background",
+      "statement": "The City of Tigard's mayor page describes Hu as a food and drug lawyer whose practice focuses on FDA law and regulation.",
+      "excerpt": "Mayor Hu is a food & drug lawyer whose practice focuses on FDA law and regulation.",
+      "source": {
+        "url": "https://www.tigard-or.gov/your-government/council/meet-the-council/mayor-hu",
+        "publisher": "City of Tigard, Mayor Hu page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement trimmed to the excerpt (birthplace and research-scientist sentences are on the page but not in the excerpt).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-b4",
+      "topic": "custom:background",
+      "statement": "OPB reported in October 2025 that the Tigard council appointed Hu, then a councilor first elected in 2022, to the mayor's seat in a 5-1 vote.",
+      "excerpt": "In a 5-1 vote Tuesday night, the council appointed Councilor Yi-Kang Hu to the mayor’s seat",
+      "source": {
+        "url": "https://www.opb.org/article/2025/10/08/tigard-mayor-appointed-yi-kang-hu/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2025-10-08",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Source re-fetched; excerpt present; tier and attribution correct.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "yi-kang-hu-p1",
+      "topic": "taxes",
+      "statement": "In his pamphlet statement, Hu says he led efforts to close a $6.5 million budget shortfall while protecting essential services since becoming mayor.",
+      "excerpt": "led efforts to close a $6.5 million budget shortfall while protecting essential services",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-p2",
+      "topic": "housing",
+      "statement": "Hu's pamphlet statement lists affordability as a priority, including controlling costs through responsible budgeting and expanding housing options for every budget and stage of life.",
+      "excerpt": "Affordability: Control costs for residents through responsible budgeting. Expand housing options for every budget and stage of life.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-p3",
+      "topic": "local-business",
+      "statement": "Hu's pamphlet statement lists opportunity as a priority: easing business with the city, helping local businesses grow, creating jobs and revitalizing downtown and key commercial districts.",
+      "excerpt": "Opportunity: Make it easier to do business with the city. Help local businesses and entrepreneurs grow. Create good-paying jobs. Revitalize downtown and key commercial districts.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt extended to cover the jobs and downtown parts of the statement.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-p4",
+      "topic": "transportation",
+      "statement": "Hu's pamphlet statement lists livability as a priority, including improving transportation safety for pedestrians, cyclists and motorists.",
+      "excerpt": "Improve transportation safety for pedestrians, cyclists, and motorists.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-p5",
+      "topic": "public-safety",
+      "statement": "Hu's campaign priorities page says safe communities begin with public trust and effective public safety services.",
+      "excerpt": "Safe communities begin with public trust and effective public safety services.",
+      "source": {
+        "url": "https://www.yikanghu.com/priorities",
+        "publisher": "Yi-Kang Hu campaign website, Priorities",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Source re-fetched; excerpt present; tier and attribution correct.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-p6",
+      "topic": "infrastructure",
+      "statement": "In a May 2026 KATU interview after voters rejected the $150 million bond, Hu said issues with aging, overcrowded and inefficient buildings remain and the city may have to scale projects down or build in phases.",
+      "excerpt": "We may have to scale them down a little bit or we have to build in phases,",
+      "source": {
+        "url": "https://katu.com/newsletter-daily/tigard-mayor-yi-kang-hu-admits-city-has-no-backup-plan-after-voters-reject-150-million-new-police-and-public-works-building-bond",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2026-05-20",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Source re-fetched; excerpt present; tier and attribution correct.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No public position found on a specific replacement plan for the police and public works facility beyond May 2026 interview remarks",
+    "No Pamplin (Tigard Times / Portland Tribune) 2026 candidate Q&A could be read (pamplinmedia.com blocks automated fetch)"
+  ],
+  "endorsements": [
+    {
+      "id": "yi-kang-hu-e1",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Tualatin Valley Firefighters Union as an endorser.",
+      "excerpt": "Tualatin Valley Firefighters Union",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Tualatin Valley Firefighters Union",
+      "endorser_type": "organization",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e2",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists United Food and Commercial Workers Local 555 as an endorser.",
+      "excerpt": "United Food and Commercial Workers Local 555",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "United Food and Commercial Workers Local 555",
+      "endorser_type": "organization",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e3",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e4",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Maureen Wolf, Tigard City Council President as an endorser.",
+      "excerpt": "Maureen Wolf, Tigard City Council President",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Maureen Wolf, Tigard City Council President",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e5",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Jake Schlack, Tigard City Councilor as an endorser.",
+      "excerpt": "Jake Schlack and Jeanette Shaw, Tigard City Councilors",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Jake Schlack, Tigard City Councilor",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e6",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Jeanette Shaw, Tigard City Councilor as an endorser.",
+      "excerpt": "Jake Schlack and Jeanette Shaw, Tigard City Councilors",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Jeanette Shaw, Tigard City Councilor",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e7",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Jason Snider, Washington County Commissioner as an endorser.",
+      "excerpt": "Jason Snider, Washington County Commissioner; Former Tigard Mayor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Jason Snider, Washington County Commissioner",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e8",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists John Cook, Former Tigard Mayor as an endorser.",
+      "excerpt": "John Cook, Former Tigard Mayor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "John Cook, Former Tigard Mayor",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e9",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Courtney Neron Misslin, State Senator as an endorser.",
+      "excerpt": "Courtney Neron Misslin, State Senator",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Courtney Neron Misslin, State Senator",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e10",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Ben Bowman, House Majority Leader as an endorser.",
+      "excerpt": "Ben Bowman, House Majority Leader",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Ben Bowman, House Majority Leader",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e11",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Sue Rieke Smith, State Representative as an endorser.",
+      "excerpt": "Sue Rieke Smith, State Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Sue Rieke Smith, State Representative",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e12",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Nafisa Fai, Washington County Commissioner as an endorser.",
+      "excerpt": "Nafisa Fai and Pam Treece, Washington County Commissioners",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Nafisa Fai, Washington County Commissioner",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e13",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Pam Treece, Washington County Commissioner as an endorser.",
+      "excerpt": "Nafisa Fai and Pam Treece, Washington County Commissioners",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Pam Treece, Washington County Commissioner",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e14",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Juan Carlos González, Metro Council President as an endorser.",
+      "excerpt": "Juan Carlos González, Metro Council President",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Juan Carlos González, Metro Council President",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e15",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Lisa Batey, Milwaukie Mayor as an endorser.",
+      "excerpt": "Mayors Lisa Batey (Milwaukie)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Lisa Batey, Milwaukie Mayor",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e16",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Frank Bubenik, Tualatin Mayor as an endorser.",
+      "excerpt": "Frank Bubenik (Tualatin)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Frank Bubenik, Tualatin Mayor",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e17",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Joe Buck, Lake Oswego Mayor as an endorser.",
+      "excerpt": "Joe Buck (Lake Oswego)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Joe Buck, Lake Oswego Mayor",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e18",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Shawn O’Neil, Wilsonville Mayor as an endorser.",
+      "excerpt": "Shawn O’Neil (Wilsonville)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Shawn O’Neil, Wilsonville Mayor",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e19",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Malynda Wenzl, Forest Grove Mayor as an endorser.",
+      "excerpt": "Malynda Wenzl (Forest Grove)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Malynda Wenzl, Forest Grove Mayor",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e20",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Kevin Barton, Washington County District Attorney as an endorser.",
+      "excerpt": "Kevin Barton, Washington County District Attorney",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Kevin Barton, Washington County District Attorney",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "yi-kang-hu-e21",
+      "topic": "custom:endorsement",
+      "statement": "Hu's pamphlet statement lists Caprice Massey, Washington County Sheriff as an endorser.",
+      "excerpt": "Caprice Massey Washington County Sheriff",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Caprice Massey, Washington County Sheriff",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 29,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Tigard mayor: Hu 10 items (4 bio, 6 positions; 4 from non-pamphlet T1/T2/T3) plus 21 pamphlet endorsements; Monahan 8 items (6 pamphlet, 2 KATU) and no endorsements (none listed in his pamphlet). Disparity documented: Monahan's campaign site is robots-blocked and he lists no endorsers; Hu is the incumbent with an official mayor page and OPB coverage. Spot searches found no further T1/T2/T3 material for either."
+  }
+}

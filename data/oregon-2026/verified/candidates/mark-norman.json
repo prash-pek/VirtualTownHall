@@ -1,0 +1,162 @@
+{
+  "id": "mark-norman",
+  "name": "G Mark Norman",
+  "race_id": "or-house-27",
+  "party": "Republican",
+  "incumbent": null,
+  "name_variants": [
+    "Mark Norman"
+  ],
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "mark-norman-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Norman lists his occupation as veterinarian, with a background as a small-animal veterinarian and co-founder of Bethany Family Pet Clinic.",
+      "excerpt": "Occupation: Veterinarian Occupational Background: Small-animal veterinarian; co-founder, Bethany Family Pet Clinic",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Book12 pamphlet page 48 (statement of G Mark Norman); file extract is index-only, statement located via tammy-carpenter.txt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-norman-b2",
+      "topic": "custom:background",
+      "statement": "Norman lists the United States Naval Academy and a DVM from Iowa State University.",
+      "excerpt": "Educational Background: United States Naval Academy; Iowa State University College of Veterinary Medicine, DVM",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Book12 pamphlet page 48 (statement of G Mark Norman); file extract is index-only, statement located via tammy-carpenter.txt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-norman-b3",
+      "topic": "custom:background",
+      "statement": "Norman lists retired U.S. Navy and Reserve service and the Oregon Veterinary Medical Examining Board.",
+      "excerpt": "Prior Governmental Experience: U.S. Navy and Reserve (retired); Oregon Veterinary Medical Examining Board.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Book12 pamphlet page 48 (statement of G Mark Norman); file extract is index-only, statement located via tammy-carpenter.txt.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "mark-norman-p1",
+      "topic": "taxes",
+      "statement": "Norman says Oregon should spend tax dollars wisely, control costs and reduce waste before asking families and employers for more.",
+      "excerpt": "Oregon should first spend tax dollars wisely, control costs, reduce waste, and make government accountable for results before asking families and employers for more.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt does not mention DSA; removed the DSA clause from the statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-norman-p2",
+      "topic": "local-business",
+      "statement": "Norman says he wants small businesses to succeed, responsible development and good-paying jobs.",
+      "excerpt": "I want small businesses to succeed, responsible development to create opportunity, and good-paying jobs to grow here.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Book12 pamphlet page 48 (statement of G Mark Norman); file extract is index-only, statement located via tammy-carpenter.txt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-norman-p3",
+      "topic": "education",
+      "statement": "Norman says he will work for better school outcomes by supporting students, teachers, academic basics and career readiness.",
+      "excerpt": "I will work for better school outcomes by supporting students, teachers, academic basics, and career readiness.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Book12 pamphlet page 48 (statement of G Mark Norman); file extract is index-only, statement located via tammy-carpenter.txt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-norman-p4",
+      "topic": "public-safety",
+      "statement": "Norman says he will support law enforcement, behavioral-health resources and practical solutions to homelessness and addiction.",
+      "excerpt": "I will support law enforcement, behavioral-health resources, and practical solutions to homelessness and addiction",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Book12 pamphlet page 48 (statement of G Mark Norman); file extract is index-only, statement located via tammy-carpenter.txt.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No bio, positions or website found; only press mention is that he ran unopposed in the Republican primary"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "See tammy-carpenter file: Norman has pamphlet-only content, documented in gaps; no additional T1/T2/T3 found."
+  }
+}

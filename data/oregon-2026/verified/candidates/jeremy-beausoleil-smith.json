@@ -254,5 +254,167 @@
     "corrected": 5,
     "rejected": 0,
     "balance_notes": "D4: 12 items (10 T1 pamphlet, 2 T3); among the fullest. AUD-120 PDF confirmed to have no machine-readable text (source gap). Website jeremy4pdx.com printed in pamphlet. Incumbent false confirmed. No pronouns stated; gendered pronouns replaced."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "jeremy-beausoleil-smith-e1",
+      "endorser": "PSU-AAUP",
+      "endorser_type": "organization",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists PSU-AAUP as an endorser.",
+      "excerpt": "PSU-AAUP",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e2",
+      "endorser": "Travis Nelson",
+      "endorser_type": "official",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Travis Nelson as an endorser.",
+      "excerpt": "Rep. Travis Nelson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e3",
+      "endorser": "Latino Network Action Fund",
+      "endorser_type": "organization",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Latino Network Action Fund as an endorser.",
+      "excerpt": "Latino Network Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e4",
+      "endorser": "Steph Routh",
+      "endorser_type": "official",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Steph Routh as an endorser.",
+      "excerpt": "Steph Routh - Portland Planning",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e5",
+      "endorser": "Sunrise Movement PDX",
+      "endorser_type": "organization",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Sunrise Movement PDX as an endorser.",
+      "excerpt": "Sunrise Movement PDX",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e6",
+      "endorser": "Katrina Doughty",
+      "endorser_type": "official",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Katrina Doughty as an endorser.",
+      "excerpt": "Katrina Doughty - Multnomah",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e7",
+      "endorser": "Pro-Animal Oregon",
+      "endorser_type": "organization",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Pro-Animal Oregon as an endorser.",
+      "excerpt": "Pro-Animal Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e8",
+      "endorser": "Pacific Green Party",
+      "endorser_type": "organization",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Pacific Green Party as an endorser.",
+      "excerpt": "Pacific Green Party",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

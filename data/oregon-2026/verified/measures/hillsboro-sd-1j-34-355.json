@@ -9,52 +9,457 @@
   "no_means": "A no vote rejects the district issuing these general obligation bonds and the associated property tax.",
   "fiscal_impact": "Per the ballot summary: principal amount $430 million; estimated levy rate $1.84 per $1,000 of assessed value; bonds may be issued in multiple series, each maturing within 21 years; district eligible for $6.1 million in state matching funds if passed.",
   "full_text_url": "https://www.washingtoncountyor.gov/elections/documents/34-355-bonds-fixing-failing-aging-infrastructure-improving-safety-vocational-facilities/download?inline",
-  "ballot_label_source": "https://multco.us/file/3101-1-s-non-en.pdf-2/download",
-  "arguments": [],
+  "arguments": [
+    {
+      "id": "hillsboro-sd-1j-34-355-y1",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Hillsboro School Board (furnished by Katie Rhyne)",
+      "topic": "education",
+      "statement": "The Hillsboro School Board argues the bond would keep the tax rate at or below the average paid since the last bond while repairing and securing schools.",
+      "excerpt": "This bond will keep the tax rate at or below what District taxpayers have paid on average since the last bond.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-60)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-60"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-y2",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Hillsboro School Board (Spanish-language argument furnished by Yessica Hardin Mercado)",
+      "topic": "education",
+      "statement": "A Spanish-language argument signed by the school board and Latino PAC HSD supporters says the bond would keep the tax rate at or below the average since the last bond.",
+      "excerpt": "Este bono mantendrá la tasa de impuestos igual o por debajo del promedio registrado desde la aprobación del último bono.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-60)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-60"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-y3",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Educators, firefighters, police and labor unions (furnished by Nancy Thomas, Hillsboro School Board)",
+      "topic": "education",
+      "statement": "A joint argument from educators, firefighters, police and labor unions says the bond would provide modern locks, fencing and camera coverage at every school.",
+      "excerpt": "bond measure will ensure that every school has modern locks, fencing, and camera coverage that are critical for complete security.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-61)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-61"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-y4",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Hillsboro School District educators (furnished by See Eun Kim, Hillsboro School Board of Directors)",
+      "topic": "education",
+      "statement": "Hillsboro educators say aging building systems affect teaching, citing a boiler failure that closed classrooms for nearly two months.",
+      "excerpt": "A boiler that was original to its 1950s building recently leaked, causing mold and closing several classrooms for nearly two months.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-61)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-61"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-y5",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Local elected leaders (furnished by Mark Watson, Hillsboro School Board)",
+      "topic": "education",
+      "statement": "Local elected officials argue a yes vote would renew the investment in public education without raising tax rates.",
+      "excerpt": "Renew our investment in public education—without raising tax rates",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-62)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-62"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-y6",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Business and workforce leaders (furnished by Ivette Pantoja, Hillsboro School Board)",
+      "topic": "education",
+      "statement": "Business and workforce leaders argue the bond would fund a Fire Science classroom and expanded computing, STEM and vocational spaces.",
+      "excerpt": "Measure 34-355 funds a new Fire Science classroom, updated computing and STEM labs, and expanded STEM and vocational spaces",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-62)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-62"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-n1",
+      "side": "no",
+      "kind": "argument",
+      "author": "Jason Williams, Taxpayers Association of Oregon",
+      "topic": "education",
+      "statement": "The Taxpayers Association of Oregon argues that new state tax sources have raised school funding and asks why local property taxes keep going up.",
+      "excerpt": "What good is raising $9 billion more for schools across the state if local property taxes keep going up?",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-65)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-65"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-n2",
+      "side": "no",
+      "kind": "argument",
+      "author": "Jason Williams, Taxpayers Association of Oregon",
+      "topic": "education",
+      "statement": "The Taxpayers Association of Oregon argues that a district with fewer students to serve should ask for less.",
+      "excerpt": "If you have less students to serve, you ask for less.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-65)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-65"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    }
+  ],
   "topics": [
     "education",
     "infrastructure",
     "taxes"
   ],
   "gaps": [
-    "No YES arguments collected: the county voters' pamphlet measure pages (WC-59 to WC-65) could not be read, and no attributed statement from a YES committee or supporter was found in searches.",
-    "No NO arguments collected: the county voters' pamphlet measure pages could not be read, and no attributed opposition statement was found in searches.",
-    "Explanatory statement not collected (pamphlet measure pages unreadable)."
+    "Ten arguments in favor were filed in the Washington County voters' pamphlet (WC-60 to WC-64, counting the Spanish-language School Board argument). The 6-per-side cap is filled with the first six in pamphlet order; not itemized: Hillsboro parents (Briana Ellenberger, WC-63); extracurriculars/athletics (Patrick Maguire, WC-63); community leaders and HSD Budget Committee representatives (Kim Strelchun, WC-64); Fire Science graduates (Katie Rhyne, WC-64).",
+    "The Multnomah County pamphlet (M-98) prints this measure with 'No arguments in favor of or opposition to this measure were filed'; arguments appear only in the Washington County edition."
+  ],
+  "endorsements": [
+    {
+      "id": "hillsboro-sd-1j-34-355-e1",
+      "endorser": "Katie Rhyne, Hillsboro School Board",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Katie Rhyne, Hillsboro School Board Chair, furnished two arguments in favor printed in the county voters' pamphlet.",
+      "excerpt": "This Information Furnished By: Katie Rhyne, Hillsboro School Board",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-60)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-60"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-e2",
+      "endorser": "Yessica Hardin Mercado, Hillsboro School Board",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Yessica Hardin Mercado, Hillsboro School Board, furnished a Spanish-language argument in favor.",
+      "excerpt": "Información Proporcionada Por: Yessica Hardin Mercado, Hillsboro School Board",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-60)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-60"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-e3",
+      "endorser": "Nancy Thomas, Hillsboro School Board",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Nancy Thomas, Hillsboro School Board, furnished the argument from educators, firefighters, police and labor unions.",
+      "excerpt": "This Information Furnished By: Nancy Thomas, Hillsboro School Board",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-61)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-61"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-e4",
+      "endorser": "See Eun Kim, Hillsboro School Board of Directors",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "See Eun Kim, Hillsboro School Board of Directors, furnished the educators' argument in favor.",
+      "excerpt": "This Information Furnished By: See Eun Kim, Hillsboro School Board of Directors",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-61)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-61"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-e5",
+      "endorser": "Mark Watson, Hillsboro School Board",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Mark Watson, Hillsboro School Board, furnished the local elected leaders' argument in favor.",
+      "excerpt": "This Information Furnished By: Mark Watson, Hillsboro School Board",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-62)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-62"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-e6",
+      "endorser": "Ivette Pantoja, Hillsboro School Board",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Ivette Pantoja, Hillsboro School Board, furnished the business and workforce leaders' argument in favor.",
+      "excerpt": "This Information Furnished By: Ivette Pantoja, Hillsboro School Board",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-62)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-62"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-e7",
+      "endorser": "Briana Ellenberger, Orenco Boosters",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Briana Ellenberger, Orenco Boosters, furnished the parents' argument in favor.",
+      "excerpt": "This Information Furnished By: Briana Ellenberger, Orenco Boosters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-63)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-63"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-e8",
+      "endorser": "Patrick Maguire, Hillsboro School Board",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Patrick Maguire, Hillsboro School Board, furnished the extracurriculars argument in favor.",
+      "excerpt": "This Information Furnished By: Patrick Maguire, Hillsboro School Board",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-63)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-63"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-e9",
+      "endorser": "Kim Strelchun",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Kim Strelchun furnished the community leaders' argument in favor.",
+      "excerpt": "This Information Furnished By: Kim Strelchun",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-64)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-64"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    },
+    {
+      "id": "hillsboro-sd-1j-34-355-e10",
+      "endorser": "Taxpayers Association of Oregon",
+      "endorser_type": "organization",
+      "side": "no",
+      "statement": "Jason Williams, Taxpayers Association of Oregon, furnished both arguments in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This Information Furnished By: Jason Williams",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-65)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-65"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "verified_at": "2026-10-16",
+        "note": "Excerpt found verbatim in the cited source; side, sponsor and pamphlet order confirmed."
+      }
+    }
   ],
   "ballot_label_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Caption and question match verbatim the Multnomah sample ballot (ballot_label_source). The Washington County PDF is a scan with no machine-readable text.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "summary_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "$430 million, $1.84 per $1,000, $6.1 million match, oversight committee and audits confirmed on the sample ballot. It omits the district's 'Lower Tax Rate' framing, which is acceptable for neutrality.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "yes_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Consistent with the question.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "no_means_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "Consistent.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "fiscal_impact_verification": {
     "status": "verified",
     "checks_failed": [],
-    "note": "$430 million, $1.84 per $1,000, multiple series each maturing within 21 years, and $6.1 million match all confirmed verbatim.",
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "note": "Checked against the county pamphlet ballot title and explanatory statement; wording is neutral and supported."
   },
   "verification_summary": {
-    "verified": 0,
+    "verified": 18,
     "corrected": 0,
     "rejected": 0,
-    "balance_notes": "0 YES / 0 NO; both gaps are documented. The Multnomah guide lists no filed arguments for 34-355, but the Washington County pamphlet gives the measure 7 pages (WC-59 to WC-65; pamphlet https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline), which strongly suggests filed arguments in addition to the explanatory statement. Those pages could not be extracted, so this is a LIKELY completeness gap. The spot search found the district's own bond pages (hsd.k12.or.us, bond.hsd.k12.or.us) and KPTV coverage (2026-05-28), none of which was used. Effort looks comparable to the other Washington County measures."
+    "balance_notes": "6 of 10 filed YES arguments itemized (cap 6), 2 of 2 NO arguments (both by one sponsor). Multnomah pamphlet prints none; Washington pamphlet WC-60 to WC-65. Yes side has 10 filed vs 2 no."
   }
 }

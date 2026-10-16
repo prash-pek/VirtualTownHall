@@ -166,5 +166,301 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Hillsboro's June 2026 candidate packet (T1) lists the seats up as Ward 1 Position A (Cristian Salgado), Ward 2 Position A (Kipperlyn Sinclair) and Ward 3 Position A (Olivia Alcaire). A June 23, 2026 city news release instead labels the Ward 2 and Ward 3 seats 'Position B'; the county certification and packet say Position A, so this is a city-side labeling inconsistency. Hillsboro news pages for Salgado's appointment returned client errors. Step 5 searches turned up older (2022 or earlier) Pamplin coverage only, not used. OPB (Sept. 2026) quotes him briefly ('And we’re in a crisis right now,'), not a position, so no OPB item. Seat holder per packet is Olivia Alcaire, so incumbent=false."
+  "collection_notes": "Hillsboro's June 2026 candidate packet (T1) lists the seats up as Ward 1 Position A (Cristian Salgado), Ward 2 Position A (Kipperlyn Sinclair) and Ward 3 Position A (Olivia Alcaire). A June 23, 2026 city news release instead labels the Ward 2 and Ward 3 seats 'Position B'; the county certification and packet say Position A, so this is a city-side labeling inconsistency. Hillsboro news pages for Salgado's appointment returned client errors. Step 5 searches turned up older (2022 or earlier) Pamplin coverage only, not used. OPB (Sept. 2026) quotes him briefly ('And we’re in a crisis right now,'), not a position, so no OPB item. Seat holder per packet is Olivia Alcaire, so incumbent=false.",
+  "endorsements": [
+    {
+      "id": "dorian-russell-e1",
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization",
+      "statement": "Dorian Russell's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Washington County Democrats",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e2",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Dorian Russell's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e3",
+      "endorser": "Basic Rights Oregon",
+      "endorser_type": "organization",
+      "statement": "Dorian Russell's pamphlet statement lists Basic Rights Oregon as an endorser.",
+      "excerpt": "Basic Rights Oregon",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e4",
+      "endorser": "NextUp Action Fund",
+      "endorser_type": "organization",
+      "statement": "Dorian Russell's pamphlet statement lists NextUp Action Fund as an endorser.",
+      "excerpt": "NextUp Action Fund",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e5",
+      "endorser": "Oregon Futures Lab & Color PAC",
+      "endorser_type": "organization",
+      "statement": "Dorian Russell's pamphlet statement lists Oregon Futures Lab & Color PAC as an endorser.",
+      "excerpt": "Oregon Futures Lab & Color PAC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e6",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Dorian Russell's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e7",
+      "endorser": "Data Center Defiance",
+      "endorser_type": "organization",
+      "statement": "Dorian Russell's pamphlet statement lists Data Center Defiance as an endorser.",
+      "excerpt": "Data Center Defiance",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e8",
+      "endorser": "SunrisePDX",
+      "endorser_type": "organization",
+      "statement": "Dorian Russell's pamphlet statement lists SunrisePDX as an endorser.",
+      "excerpt": "SunrisePDX",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e9",
+      "endorser": "Friends of Smart Growth",
+      "endorser_type": "organization",
+      "statement": "Dorian Russell's pamphlet statement lists Friends of Smart Growth as an endorser.",
+      "excerpt": "Friends of Smart Growth",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e10",
+      "endorser": "Nafisa Fai",
+      "endorser_type": "official",
+      "statement": "Dorian Russell's pamphlet statement lists Nafisa Fai as an endorser.",
+      "excerpt": "Nafisa Fai, County Commissioner",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e11",
+      "endorser": "Juan Carlos González",
+      "endorser_type": "official",
+      "statement": "Dorian Russell's pamphlet statement lists Juan Carlos González as an endorser.",
+      "excerpt": "Juan Carlos González, Metro Council President",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e12",
+      "endorser": "Barry Johnson-Smith",
+      "endorser_type": "official",
+      "statement": "Dorian Russell's pamphlet statement lists Barry Johnson-Smith as an endorser.",
+      "excerpt": "Barry Johnson-Smith, Advisory Council for Racial Equity Chair",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e13",
+      "endorser": "Kristi Wilson",
+      "endorser_type": "official",
+      "statement": "Dorian Russell's pamphlet statement lists Kristi Wilson as an endorser.",
+      "excerpt": "Kristi Wilson, former PCC Board Chair",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e14",
+      "endorser": "Lesly Muñoz",
+      "endorser_type": "official",
+      "statement": "Dorian Russell's pamphlet statement lists Lesly Muñoz as an endorser.",
+      "excerpt": "Lesly Muñoz, Oregon House District 22",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e15",
+      "endorser": "Susan McLain",
+      "endorser_type": "official",
+      "statement": "Dorian Russell's pamphlet statement lists Susan McLain as an endorser.",
+      "excerpt": "Susan McLain, Oregon House District 29",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e16",
+      "endorser": "Olivia Alcaire",
+      "endorser_type": "official",
+      "statement": "Dorian Russell's pamphlet statement lists Olivia Alcaire as an endorser.",
+      "excerpt": "Olivia Alcaire & Kipperlyn Sinclair, Hillsboro City Councilors",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e17",
+      "endorser": "Kipperlyn Sinclair",
+      "endorser_type": "official",
+      "statement": "Dorian Russell's pamphlet statement lists Kipperlyn Sinclair as an endorser.",
+      "excerpt": "Olivia Alcaire & Kipperlyn Sinclair, Hillsboro City Councilors",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e18",
+      "endorser": "Stephanie Hernández",
+      "endorser_type": "official",
+      "statement": "Dorian Russell's pamphlet statement lists Stephanie Hernández as an endorser.",
+      "excerpt": "Stephanie Hernández, Library Board Chair",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e19",
+      "endorser": "Karim Delgado",
+      "endorser_type": "person",
+      "statement": "Dorian Russell's pamphlet statement lists Karim Delgado as an endorser.",
+      "excerpt": "Karim Delgado & Diana Jackson, Seeds of Change",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e20",
+      "endorser": "Diana Jackson",
+      "endorser_type": "person",
+      "statement": "Dorian Russell's pamphlet statement lists Diana Jackson as an endorser.",
+      "excerpt": "Karim Delgado & Diana Jackson, Seeds of Change",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "dorian-russell-e21",
+      "endorser": "Myrna A. Muñoz",
+      "endorser_type": "person",
+      "statement": "Dorian Russell's pamphlet statement lists Myrna A. Muñoz as an endorser.",
+      "excerpt": "Myrna A. Muñoz",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

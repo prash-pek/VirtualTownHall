@@ -1,0 +1,174 @@
+{
+  "id": "octavio-gonzalez",
+  "name": "Octavio Gonzalez",
+  "race_id": "tualatin-mayor",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information",
+  "occupation": "Landscape Business Professional",
+  "website_url": "https://octavio4tualatin.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+  "bio": [
+    {
+      "id": "octavio-gonzalez-b1",
+      "topic": "custom:background",
+      "statement": "In Gonzalez's pamphlet statement, prior governmental experience includes Tualatin City Councilor, elected 2022.",
+      "excerpt": "Prior Governmental Experience: Tualatin City Councilor, elected 2022",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended with words on the page that support 'elected 2022'; pronoun removed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "octavio-gonzalez-b2",
+      "topic": "custom:background",
+      "statement": "Gonzalez's pamphlet statement says Gonzalez was born in Mexico to immigrant parents and has lived in Oregon over 30 years.",
+      "excerpt": "Born in Mexico to immigrant parents, I have lived in Oregon over 30 years",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended to include '30 years'; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "octavio-gonzalez-p1",
+      "topic": "taxes",
+      "statement": "Gonzalez's pamphlet statement says Gonzalez is the only councilor to consistently oppose increases in utility, permit, service and business licensing fees, property taxes, and trash and recycling rates.",
+      "excerpt": "On City Council, I am the only councilor to consistently oppose increases in utility, permit, service, and business licensing fees; property taxes; and trash and recycling rates.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended to cover the full list in the statement (attributed self-description, not verified by the platform); Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "octavio-gonzalez-p2",
+      "topic": "public-safety",
+      "statement": "Gonzalez's campaign website lists supporting effective law enforcement and emergency response as a priority.",
+      "excerpt": "Support effective law enforcement and emergency response.",
+      "source": {
+        "url": "https://octavio4tualatin.com/priorities",
+        "publisher": "Octavio Gonzalez campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Page re-fetched; excerpt present verbatim; domain confirmed by the pamphlet statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "octavio-gonzalez-p3",
+      "topic": "infrastructure",
+      "statement": "Gonzalez's campaign website says growth should be coordinated with roads, utilities, schools, parks and public safety capacity.",
+      "excerpt": "Coordinate growth with roads, utilities, schools, parks, and public safety capacity.",
+      "source": {
+        "url": "https://octavio4tualatin.com/priorities",
+        "publisher": "Octavio Gonzalez campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Page re-fetched; excerpt present verbatim; domain confirmed by the pamphlet statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "octavio-gonzalez-p4",
+      "topic": "local-business",
+      "statement": "Gonzalez's campaign website lists supporting existing businesses while welcoming responsible new investment as a priority.",
+      "excerpt": "Support existing businesses while welcoming responsible new investment.",
+      "source": {
+        "url": "https://octavio4tualatin.com/priorities",
+        "publisher": "Octavio Gonzalez campaign website (Priorities)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "octavio-gonzalez-p5",
+      "topic": "economy",
+      "statement": "In a September 2026 Tualatin Life article Gonzalez wrote as a candidate, Gonzalez says residents should be able to trust that their money is being used wisely.",
+      "excerpt": "Residents should never have to wonder whether their money is being used wisely.",
+      "source": {
+        "url": "https://tualatinlife.com/?p=15554",
+        "publisher": "Tualatin Life (candidate-written, bylined; 'Focus on What Matters: An Independent Voice for Tualatin')",
+        "tier": "T3",
+        "published_at": "2026-09-05",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Page is a bylined candidacy article by Gonzalez, not labelled a guest letter; relabelled as the candidate's own words.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No public position found on housing specifics or transportation projects beyond infrastructure coordination",
+    "Pamphlet states he will not seek or accept endorsements; none recorded",
+    "No Pamplin or Tualatin Life candidate Q&A for 2026 found"
+  ],
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "Mayor race: Gonzalez has 7 items (2 pamphlet bio, 1 pamphlet position, 3 website, 1 candidate-written article; no endorsements by choice, pamphlet says he will not seek or accept them); Pratt has 8 items (5 T1 pamphlet, 3 T3 candidate-written) plus 22 pamphlet endorsements. Counts are comparable; Pratt's Sept 2025 Tualatin Life 'Council Corner' and the Sept 17 2026 Chamber forum page (no transcript) were not collected; neither candidate has a Q&A. Pratt has no campaign website (gap documented). (items 2v/5c/0r; endorsements 0v/0c/0r) Incumbency/website checks: see report."
+  }
+}

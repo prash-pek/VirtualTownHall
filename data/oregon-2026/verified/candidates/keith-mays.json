@@ -1,0 +1,108 @@
+{
+  "id": "keith-mays",
+  "name": "Keith Mays",
+  "name_variants": [],
+  "race_id": "sherwood-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.sherwoodoregon.gov/government/city-council/",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "keith-mays-b1",
+      "topic": "custom:bio",
+      "statement": "The City of Sherwood council page lists Keith Mays as Councilor, with a 4-year term expiring January 2027.",
+      "excerpt": "Councilor Keith Mays Term: 4 years, expires January 2027",
+      "source": {
+        "url": "https://www.sherwoodoregon.gov/government/city-council/",
+        "publisher": "City of Sherwood (City Council page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt was rebuilt from roster cells in a different order (\"Name Role January 2027\"); replaced with the contiguous verbatim span on the page (confirmed word for word). Statement now states term length.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "keith-mays-b2",
+      "topic": "custom:bio",
+      "statement": "His city bio says he was Sherwood's mayor from 2018 to 2022.",
+      "excerpt": "Councilor Mays most recently served as Mayor of Sherwood from 2018-2022",
+      "source": {
+        "url": "https://www.sherwoodoregon.gov/government/city-council/",
+        "publisher": "City of Sherwood (City Council page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim on the Sherwood city council page; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "keith-mays-b3",
+      "topic": "custom:bio",
+      "statement": "His city bio says he served as Council President from 2001 to 2004.",
+      "excerpt": "He also served as Council President from 2001-2004.",
+      "source": {
+        "url": "https://www.sherwoodoregon.gov/government/city-council/",
+        "publisher": "City of Sherwood (City Council page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim on the Sherwood city council page; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "keith-mays-b4",
+      "topic": "custom:bio",
+      "statement": "A Pamplin Media article describes Mays as president and owner of EWS North America, a Beaverton-headquartered business.",
+      "excerpt": "president and owner of EWS North America",
+      "source": {
+        "url": "https://pamplinmedia.com/sg/77-news/553532-443028-sherwoods-mays-wont-seek-eight-term-as-mayor",
+        "publisher": "Pamplin Media Group",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier",
+          "recency"
+        ],
+        "note": "Pamplin Media/Sherwood Gazette article is undated and unbylined in the retrievable text and refers to a July 29 conversation and an Aug. 30 filing deadline (about 2022, when Mays announced he would not seek another mayoral term). Fails T3 requirements (byline/date) and recency; cannot support a current occupation claim. The Sherwood city page does not mention EWS North America.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Voters' pamphlet statement unavailable: WC-34 (City of Sherwood) is beyond the point where the pamphlet PDF truncates in WebFetch",
+    "No public position statements found on any topic (no pamphlet text, no campaign site, no T3 coverage retrieved)",
+    "No voting record collected"
+  ],
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 1,
+    "rejected": 1,
+    "balance_notes": "Pamphlet unreachable (same access gap as other Sherwood candidates). City bio gives three usable items; Pamplin item rejected (undated, unbylined, about 2022). Occupation reset to null."
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "id": "karim-delgado",
+  "name": "Karim Delgado",
+  "name_variants": [],
+  "race_id": "hillsboro-council-ward-2a",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000",
+  "occupation": "Owner, 649 Bar",
+  "website_url": "https://www.karimdelgado.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+  "bio": [
+    {
+      "id": "karim-delgado-b1",
+      "topic": "custom:bio",
+      "statement": "Delgado's pamphlet statement lists a background as combat videographer, schoolteacher and in public relations.",
+      "excerpt": "combat videographer; schoolteacher; public relations",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "karim-delgado-b2",
+      "topic": "custom:bio",
+      "statement": "Delgado's pamphlet statement lists a B.A. in philosophy from Columbia University.",
+      "excerpt": "Columbia University, B.A., Philosophy",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "karim-delgado-b3",
+      "topic": "veterans",
+      "statement": "Delgado's pamphlet statement lists enlisted service in the U.S. Marine Corps.",
+      "excerpt": "U.S. Marine Corps, enlisted",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "karim-delgado-p1",
+      "topic": "taxes",
+      "statement": "In his voters' pamphlet statement, Delgado says $7.2 billion in data center property value is tax-exempt.",
+      "excerpt": "$7.2 billion in data center property value is tax-exempt",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Attributed the claim to the candidate rather than stating it as fact. Excerpt re-confirmed verbatim on page.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "karim-delgado-p2",
+      "topic": "immigration",
+      "statement": "Delgado's pamphlet statement says he will fund legal and emergency aid, enforce the sanctuary law and establish a human rights office.",
+      "excerpt": "I’ll fund legal and emergency aid, enforce Hillsboro’s sanctuary law, and establish a Human Rights Office",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "karim-delgado-p3",
+      "topic": "custom:governance",
+      "statement": "Delgado's pamphlet statement says he will hold weekly town halls and virtual office hours.",
+      "excerpt": "I’ll hold weekly town halls and virtual office hours",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "karim-delgado-p4",
+      "topic": "economy",
+      "statement": "Delgado's pamphlet statement says Hillsboro's growth should serve residents, not just corporations.",
+      "excerpt": "Hillsboro’s growth should serve the people who live here, not just the corporations that profit here.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "karim-delgado-p5",
+      "topic": "public-safety",
+      "statement": "Delgado's campaign site says he will fully fund mobile crisis response so counselors respond alongside police.",
+      "excerpt": "Karim will fully fund mobile crisis response so counselors, not just police, show up when people need help.",
+      "source": {
+        "url": "https://www.karimdelgado.com",
+        "publisher": "Karim Delgado campaign",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed. Campaign domain confirmed by printed pamphlet website.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "karim-delgado-p6",
+      "topic": "education",
+      "statement": "Delgado's campaign site says he will push for fully funded schools from pre-K through community college.",
+      "excerpt": "Karim will fight for fully funded schools from pre-K through community college:",
+      "source": {
+        "url": "https://www.karimdelgado.com",
+        "publisher": "Karim Delgado campaign",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed. Campaign domain confirmed by printed pamphlet website.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Ward 2A: Pantoja 6, Delgado 9 items. Missed material: Delgado is quoted in the same OPB 2026-09-28 article; Pantoja campaign site (ivettepantoja.com) has stated priorities not collected, and her gap note says no site text names the office. Effort slightly uneven."
+  },
+  "endorsements": [
+    {
+      "id": "karim-delgado-e1",
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Washington County Democrats",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e2",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e3",
+      "endorser": "Latino Network Action Fund",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists Latino Network Action Fund as an endorser.",
+      "excerpt": "Latino Network Action Fund",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e4",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e5",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e6",
+      "endorser": "Friends of Smart Growth",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists Friends of Smart Growth as an endorser.",
+      "excerpt": "Friends of Smart Growth",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e7",
+      "endorser": "Next Up Action Fund",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists Next Up Action Fund as an endorser.",
+      "excerpt": "Next Up Action Fund",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e8",
+      "endorser": "Kipperlyn Sinclair",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Kipperlyn Sinclair as an endorser.",
+      "excerpt": "Kipperlyn Sinclair, Hillsboro City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e9",
+      "endorser": "Olivia Alcaire",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Olivia Alcaire as an endorser.",
+      "excerpt": "Olivia Alcaire, Hillsboro City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e10",
+      "endorser": "Juan Carlos González",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Juan Carlos González as an endorser.",
+      "excerpt": "Juan Carlos González, Metro Council President",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e11",
+      "endorser": "Nafisa Fai",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Nafisa Fai as an endorser.",
+      "excerpt": "Nafisa Fai, Washington County Commissioner",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e12",
+      "endorser": "Farrah Chaichi",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Farrah Chaichi as an endorser.",
+      "excerpt": "Farrah Chaichi, State Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e13",
+      "endorser": "Lesly Muñoz",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Lesly Muñoz as an endorser.",
+      "excerpt": "Lesly Muñoz, State Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e14",
+      "endorser": "Susan McLain",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Susan McLain as an endorser.",
+      "excerpt": "Susan McLain, State Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e15",
+      "endorser": "Myrna Muñoz",
+      "endorser_type": "person",
+      "statement": "Karim Delgado's pamphlet statement lists Myrna Muñoz as an endorser.",
+      "excerpt": "Myrna Muñoz, State Senate Nominee",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
+}

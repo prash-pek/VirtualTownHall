@@ -1,0 +1,137 @@
+{
+  "id": "olivia-duren",
+  "name": "Olivia Duren",
+  "race_id": "tualatin-swcd-zone-4",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://tualatinswcd.org/our-story/our-board/",
+  "occupation": "Restoration Program Manager, The Freshwater Trust",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "olivia-duren-b1",
+      "topic": "custom:background",
+      "statement": "Duren's pamphlet statement lists the Oregon Invasive Species Council among prior governmental experience.",
+      "excerpt": "Oregon Invasive Species Council",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "olivia-duren-b2",
+      "topic": "custom:background",
+      "statement": "Duren's pamphlet statement gives the occupation as Restoration Program Manager, The Freshwater Trust, and the occupational background as biologist.",
+      "excerpt": "Occupation: Restoration Program Manager, The Freshwater Trust Occupational Background: Biologist",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended (columns interleave but words are in order in Duren's column); Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "olivia-duren-p1",
+      "topic": "agriculture",
+      "statement": "Duren's pamphlet statement says Duren seeks to promote smart planning and land use to preserve rural land.",
+      "excerpt": "I seek to continue serving on the Tualatin SWCD Board of Directors to: Promote smart planning and land use to preserve rural land",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended with the 'I seek ... to:' lead-in; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "olivia-duren-p2",
+      "topic": "agriculture",
+      "statement": "Duren's pamphlet statement says Duren seeks to ensure farmers, foresters and community members have access to technical resources that support healthy land and water.",
+      "excerpt": "Ensure farmers, foresters and community members have access to technical resources that support healthy land and water",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended to match the statement; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "olivia-duren-p3",
+      "topic": "environment",
+      "statement": "Duren's pamphlet statement says Duren seeks to uphold organizational health so SWCD staff can effectively help all of Washington County.",
+      "excerpt": "Uphold organizational health so SWCD staff can effectively help all of Washington County",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-44)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended to match the statement; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No endorsements attributed: the pamphlet page's endorsement list sits in Moberg's column",
+    "No campaign website found",
+    "Pamphlet bio columns interleave in script extract; some details not quoted"
+  ],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "Unopposed incumbent. 5 pamphlet items only; endorsement list on the shared page belongs to Moberg, none for Duren; no website found. (items 0v/5c/0r; endorsements 0v/0c/0r) Incumbency/website checks: see report."
+  }
+}

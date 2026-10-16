@@ -1,0 +1,383 @@
+{
+  "id": "peren-tiemann",
+  "name": "Peren Tiemann",
+  "name_variants": [],
+  "race_id": "lake-oswego-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.ci.oswego.or.us/citycouncil/mayor-and-council",
+  "occupation": "Law Clerk, Thomas, Coon, Newton & Frost",
+  "website_url": "https://perentiemann.com",
+  "website_verified_via": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "peren-tiemann-b1",
+      "topic": "custom:bio",
+      "statement": "Tiemann's pamphlet statement lists work as a law clerk at Oregon Law Center and roles with Everytown for Gun Safety and Reproductive Freedom for All.",
+      "excerpt": "Law Clerk, Oregon Law Center; Field Assistant, Everytown for Gun Safety; Organizing Intern, Reproductive Freedom for All",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "peren-tiemann-b2",
+      "topic": "custom:bio",
+      "statement": "Tiemann's pamphlet statement lists service as chair of Lake Oswego's Diversity, Equity, and Inclusion Advisory Board.",
+      "excerpt": "Chair, Diversity, Equity, and Inclusion Advisory Board, City of Lake Oswego; Precinct Committee Person",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "peren-tiemann-p1",
+      "topic": "housing",
+      "statement": "In their voters' pamphlet statement, Tiemann supports creating varied options for transit and housing.",
+      "excerpt": "Creating and supporting varied options for transit and housing",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "peren-tiemann-p2",
+      "topic": "economy",
+      "statement": "Tiemann's pamphlet statement lists keeping the cost of living low.",
+      "excerpt": "Keeping costs of living low",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "peren-tiemann-p3",
+      "topic": "public-safety",
+      "statement": "Tiemann's pamphlet statement lists prioritizing emergency preparedness.",
+      "excerpt": "Prioritizing emergency preparedness",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "peren-tiemann-p4",
+      "topic": "environment",
+      "statement": "Tiemann's pamphlet statement lists taking action to mitigate harm from climate change.",
+      "excerpt": "Taking action to mitigate harm from climate change",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign site perentiemann.com could not be fetched (robots disallowed)",
+    "No 2026 T3 press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Lake Oswego (6 candidates): items Guiney 8, Walsh 7, Tunmore 6, Ramsey 6, Tiemann 6, Miles 6. All six filed pamphlet statements; Guiney, Walsh, Tunmore also have a T2 item from their sites. Ramsey site only repeats her pamphlet text; Tiemann site blocked by robots; Miles lists no site. Disparity is source access, not effort. No T3 press found for anyone."
+  },
+  "endorsements": [
+    {
+      "id": "peren-tiemann-e1",
+      "endorser": "Joe Buck",
+      "endorser_type": "official",
+      "statement": "Peren Tiemann's pamphlet statement lists Joe Buck as an endorser.",
+      "excerpt": "City of Lake Oswego Mayor Joe Buck",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "peren-tiemann-e2",
+      "endorser": "Neelam Gupta",
+      "endorser_type": "official",
+      "statement": "Peren Tiemann's pamphlet statement lists Neelam Gupta as an endorser.",
+      "excerpt": "Lake Oswego School Board Chair Neelam Gupta",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "peren-tiemann-e3",
+      "endorser": "Christine Lewis",
+      "endorser_type": "official",
+      "statement": "Peren Tiemann's pamphlet statement lists Christine Lewis as an endorser.",
+      "excerpt": "Metro Councilor Christine Lewis",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "peren-tiemann-e4",
+      "endorser": "Lisa Reynolds",
+      "endorser_type": "official",
+      "statement": "Peren Tiemann's pamphlet statement lists Lisa Reynolds as an endorser.",
+      "excerpt": "State Senator Lisa Reynolds",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "peren-tiemann-e5",
+      "endorser": "Dacia Grayber",
+      "endorser_type": "official",
+      "statement": "Peren Tiemann's pamphlet statement lists Dacia Grayber as an endorser.",
+      "excerpt": "State Representative Dacia Grayber",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "peren-tiemann-e6",
+      "endorser": "Lake Oswego Municipal Employees’ Association",
+      "endorser_type": "organization",
+      "statement": "Peren Tiemann's pamphlet statement lists Lake Oswego Municipal Employees’ Association as an endorser.",
+      "excerpt": "Lake Oswego Municipal Employees’ Association",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "peren-tiemann-e7",
+      "endorser": "Teamsters Joint Council No. 37",
+      "endorser_type": "organization",
+      "statement": "Peren Tiemann's pamphlet statement lists Teamsters Joint Council No. 37 as an endorser.",
+      "excerpt": "Teamsters Joint Council No. 37",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "peren-tiemann-e8",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Peren Tiemann's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "peren-tiemann-e9",
+      "endorser": "Democratic Party of Clackamas County",
+      "endorser_type": "organization",
+      "statement": "Peren Tiemann's pamphlet statement lists Democratic Party of Clackamas County as an endorser.",
+      "excerpt": "Democratic Party of Clackamas County",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "peren-tiemann-e10",
+      "endorser": "The Street Trust Action Fund",
+      "endorser_type": "organization",
+      "statement": "Peren Tiemann's pamphlet statement lists The Street Trust Action Fund as an endorser.",
+      "excerpt": "The Street Trust Action Fund",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "peren-tiemann-e11",
+      "endorser": "Carrie Love",
+      "endorser_type": "official",
+      "statement": "Peren Tiemann's pamphlet statement lists Carrie Love as an endorser.",
+      "excerpt": "Lake Oswego Budget Committee Member Carrie Love",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "peren-tiemann-e12",
+      "endorser": "Bruce Poinsette",
+      "endorser_type": "person",
+      "statement": "Peren Tiemann's pamphlet statement lists Bruce Poinsette as an endorser.",
+      "excerpt": "Former Executive Director of Respond to Racism Bruce Poinsette",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
+}

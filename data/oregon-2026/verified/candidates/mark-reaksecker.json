@@ -170,5 +170,167 @@
     "corrected": 1,
     "rejected": 0,
     "balance_notes": "Clerk race: Reaksecker has 8 items (all T1 pamphlet) and McMullen has 10 (adds a county clerk bio page, one T2 and one T3). The difference comes from incumbency (official bio page) and his campaign site blocking fetching (documented in gaps). The verifier's spot-search found no press coverage of Reaksecker (only GoodParty listings, which are excluded). Effort looks equal."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "mark-reaksecker-e1",
+      "endorser": "Emmert International",
+      "endorser_type": "organization",
+      "statement": "Mark Reaksecker's pamphlet statement lists Emmert International as an endorser.",
+      "excerpt": "Emmert International",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e2",
+      "endorser": "David Tenhulzen",
+      "endorser_type": "person",
+      "statement": "Mark Reaksecker's pamphlet statement lists David Tenhulzen as an endorser.",
+      "excerpt": "David Tenhulzen, DMD, MD",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e3",
+      "endorser": "Bill Crowley",
+      "endorser_type": "person",
+      "statement": "Mark Reaksecker's pamphlet statement lists Bill Crowley as an endorser.",
+      "excerpt": "Bill Crowley, MD",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e4",
+      "endorser": "Jo Nielsen",
+      "endorser_type": "person",
+      "statement": "Mark Reaksecker's pamphlet statement lists Jo Nielsen as an endorser.",
+      "excerpt": "Jo Nielsen, MD",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e5",
+      "endorser": "Don Perman",
+      "endorser_type": "person",
+      "statement": "Mark Reaksecker's pamphlet statement lists Don Perman as an endorser.",
+      "excerpt": "Don Perman, DMD",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e6",
+      "endorser": "Cole Thompson",
+      "endorser_type": "person",
+      "statement": "Mark Reaksecker's pamphlet statement lists Cole Thompson as an endorser.",
+      "excerpt": "Cole Thompson, DMD",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e7",
+      "endorser": "Lyver Engineering",
+      "endorser_type": "organization",
+      "statement": "Mark Reaksecker's pamphlet statement lists Lyver Engineering as an endorser.",
+      "excerpt": "Lyver Engineering",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-reaksecker-e8",
+      "endorser": "Buffalo Welding",
+      "endorser_type": "organization",
+      "statement": "Mark Reaksecker's pamphlet statement lists Buffalo Welding as an endorser.",
+      "excerpt": "Buffalo Welding",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 14",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

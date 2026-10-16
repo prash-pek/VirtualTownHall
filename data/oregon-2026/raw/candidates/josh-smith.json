@@ -120,5 +120,21 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Unopposed. Incumbency null (no roster found); his statement describes him as seeking the seat. Common name: searches added 'Gladstone Oregon'; results were other people."
+  "collection_notes": "Unopposed. Incumbency null (no roster found); his statement describes him as seeking the seat. Common name: searches added 'Gladstone Oregon'; results were other people.",
+  "endorsements": [
+    {
+      "id": "josh-smith-e1",
+      "endorser": "Michael Milch",
+      "endorser_type": "official",
+      "statement": "Josh Smith's pamphlet statement lists Michael Milch as an endorser.",
+      "excerpt": "Michael Milch, Gladstone Mayor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 26",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

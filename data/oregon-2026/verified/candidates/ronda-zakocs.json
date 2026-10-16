@@ -1,0 +1,200 @@
+{
+  "id": "ronda-zakocs",
+  "name": "Ronda Zakocs",
+  "name_variants": [],
+  "race_id": "west-multnomah-swcd-at-large-2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://wmswcd.org/board-members/",
+  "occupation": "Founder & Principal, Insight for Action",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "ronda-zakocs-b1",
+      "topic": "custom:bio",
+      "statement": "The WMSWCD board page lists Ronda Zakocs as an associate director since 2026.",
+      "excerpt": "Ronda Zakocs",
+      "source": {
+        "url": "https://wmswcd.org/board-members/",
+        "publisher": "West Multnomah Soil & Water Conservation District",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Verified; the board page lists 'Ronda Zakocs' under Associate Directors with '2026 -present'.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ronda-zakocs-b2",
+      "topic": "custom:bio",
+      "statement": "In her voters' pamphlet statement, Zakocs lists her occupation as founder and principal of Insight for Action.",
+      "excerpt": "Founder & Principal, Insight for Action",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_at-large_pos_2_ronda_zakocs/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ronda-zakocs-b3",
+      "topic": "custom:bio",
+      "statement": "Her pamphlet statement lists past work as an associate professor at the Boston University School of Public Health.",
+      "excerpt": "Associate Professor, Boston University School of Public Health",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_at-large_pos_2_ronda_zakocs/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ronda-zakocs-b4",
+      "topic": "custom:bio",
+      "statement": "Her pamphlet statement lists a PhD from the University of North Carolina.",
+      "excerpt": "University of North Carolina, PhD",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_at-large_pos_2_ronda_zakocs/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement also named University of Oregon and Boston University (MPH) degrees not in the excerpt (page lists them); narrowed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "ronda-zakocs-p1",
+      "topic": "agriculture",
+      "statement": "In her pamphlet statement, Zakocs says she will support regenerative farmland practices.",
+      "excerpt": "As a native Oregonian who grew up on a small farm, I will support regenerative farmland practices.",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_at-large_pos_2_ronda_zakocs/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ronda-zakocs-p2",
+      "topic": "environment",
+      "statement": "Her pamphlet statement says she will support reforestation and sound forest management practices.",
+      "excerpt": "I will support reforestation and sound forest management",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_at-large_pos_2_ronda_zakocs/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ronda-zakocs-p3",
+      "topic": "environment",
+      "statement": "Her pamphlet statement says she will support evidence-based approaches to water and land management.",
+      "excerpt": "As a trained public health researcher, I will support evidence-based approaches for water and land management practices.",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_at-large_pos_2_ronda_zakocs/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ronda-zakocs-p4",
+      "topic": "environment",
+      "statement": "Her pamphlet statement says clean water, healthy soils, forests and farmland sustain everyone.",
+      "excerpt": "Clean water, healthy soils, vibrant forests, and fertile farmland sustains us all.",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_at-large_pos_2_ronda_zakocs/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "ronda-zakocs-p5",
+      "topic": "custom:governance",
+      "statement": "Her pamphlet statement says she will support effective collaboration, drawing on her facilitation and strategy work.",
+      "excerpt": "As a small business owner who provides facilitation and strategy consultation, I will support effective collaboration",
+      "source": {
+        "url": "https://multco.us/file/wmswcd_at-large_pos_2_ronda_zakocs/download",
+        "publisher": "Multnomah County Elections (Voters' Pamphlet statement, Nov 3 2026)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim; attribution, tier and neutral wording confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed in pamphlet statement",
+    "No T3 coverage found"
+  ],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Pamphlet filer; item count in line with other filers. No missed T1/T2 material found in spot-search."
+  }
+}

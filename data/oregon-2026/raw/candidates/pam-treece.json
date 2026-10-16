@@ -230,5 +230,357 @@
       "result": "blocked"
     }
   ],
-  "collection_notes": "Board page (washingtoncountyor.gov/bcc) lists Fai as District 1 Commissioner and Treece as District 2 Commissioner; neither holds the at-large Chair seat, so incumbent=false for this race. The board page also reports Chair Kathryn Harrington announced her resignation (Sept 2026), so the Chair seat is vacant/pro tem until the election. Campaign domains are printed in the county pamphlet statements. Fai's site still describes her as running for a second term (2024 content), so no items were taken from it; Treece's site duplicated pamphlet themes, so no separate items. Pamphlet quotes are capped at ~125 characters by the fetch tool, so items use short excerpts."
+  "collection_notes": "Board page (washingtoncountyor.gov/bcc) lists Fai as District 1 Commissioner and Treece as District 2 Commissioner; neither holds the at-large Chair seat, so incumbent=false for this race. The board page also reports Chair Kathryn Harrington announced her resignation (Sept 2026), so the Chair seat is vacant/pro tem until the election. Campaign domains are printed in the county pamphlet statements. Fai's site still describes her as running for a second term (2024 content), so no items were taken from it; Treece's site duplicated pamphlet themes, so no separate items. Pamphlet quotes are capped at ~125 characters by the fetch tool, so items use short excerpts.",
+  "endorsements": [
+    {
+      "id": "pam-treece-e1",
+      "endorser": "NW Oregon Labor Council AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Pam Treece's pamphlet statement lists NW Oregon Labor Council AFL-CIO as an endorser.",
+      "excerpt": "NW Oregon Labor Council AFL-CIO",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e2",
+      "endorser": "UA Local 290",
+      "endorser_type": "organization",
+      "statement": "Pam Treece's pamphlet statement lists UA Local 290 as an endorser.",
+      "excerpt": "UA Local 290, IBEW 48",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e3",
+      "endorser": "IBEW 48",
+      "endorser_type": "organization",
+      "statement": "Pam Treece's pamphlet statement lists IBEW 48 as an endorser.",
+      "excerpt": "UA Local 290, IBEW 48",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e4",
+      "endorser": "Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Pam Treece's pamphlet statement lists Carpenters Union as an endorser.",
+      "excerpt": "Carpenters Union",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e5",
+      "endorser": "Independent Party of Oregon",
+      "endorser_type": "organization",
+      "statement": "Pam Treece's pamphlet statement lists Independent Party of Oregon as an endorser.",
+      "excerpt": "Independent Party of Oregon",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e6",
+      "endorser": "Washington County and Hillsboro Police Officers Associations",
+      "endorser_type": "organization",
+      "statement": "Pam Treece's pamphlet statement lists Washington County and Hillsboro Police Officers Associations as an endorser.",
+      "excerpt": "Washington County and Hillsboro Police Officers Associations",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e7",
+      "endorser": "Tualatin Valley Firefighters Local 1660",
+      "endorser_type": "organization",
+      "statement": "Pam Treece's pamphlet statement lists Tualatin Valley Firefighters Local 1660 as an endorser.",
+      "excerpt": "Tualatin Valley Firefighters Local 1660",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e8",
+      "endorser": "Hillsboro Firefighters Local 2210",
+      "endorser_type": "organization",
+      "statement": "Pam Treece's pamphlet statement lists Hillsboro Firefighters Local 2210 as an endorser.",
+      "excerpt": "Hillsboro Firefighters Local 2210",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e9",
+      "endorser": "Pat Garrett",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Pat Garrett as an endorser.",
+      "excerpt": "Pat Garrett, Former Washington County Sheriff",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e10",
+      "endorser": "Bob Hermann",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Bob Hermann as an endorser.",
+      "excerpt": "Bob Hermann, Former Washington County DA",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e11",
+      "endorser": "Washington County Chamber PAC",
+      "endorser_type": "organization",
+      "statement": "Pam Treece's pamphlet statement lists Washington County Chamber PAC as an endorser.",
+      "excerpt": "Washington County Chamber PAC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e12",
+      "endorser": "Beaverton Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Pam Treece's pamphlet statement lists Beaverton Chamber of Commerce as an endorser.",
+      "excerpt": "Beaverton Chamber of Commerce",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e13",
+      "endorser": "Tigard Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Pam Treece's pamphlet statement lists Tigard Chamber of Commerce as an endorser.",
+      "excerpt": "Tigard Chamber of Commerce",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e14",
+      "endorser": "Humane Voters Oregon",
+      "endorser_type": "organization",
+      "statement": "Pam Treece's pamphlet statement lists Humane Voters Oregon as an endorser.",
+      "excerpt": "Humane Voters Oregon",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e15",
+      "endorser": "Barbara Roberts",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Barbara Roberts as an endorser.",
+      "excerpt": "Former Governors Barbara Roberts & Ted Kulongoski",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e16",
+      "endorser": "Ted Kulongoski",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Ted Kulongoski as an endorser.",
+      "excerpt": "Former Governors Barbara Roberts & Ted Kulongoski",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e17",
+      "endorser": "Kathryn Harrington",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Kathryn Harrington as an endorser.",
+      "excerpt": "Chair Kathryn Harrington",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e18",
+      "endorser": "Felicita Monteblanco",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Felicita Monteblanco as an endorser.",
+      "excerpt": "Commissioner-elect Felicita Monteblanco",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e19",
+      "endorser": "Lacey Beaty",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Lacey Beaty as an endorser.",
+      "excerpt": "Lacey Beaty, Beaverton",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e20",
+      "endorser": "Beach Pace",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Beach Pace as an endorser.",
+      "excerpt": "Beach Pace, Hillsboro",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e21",
+      "endorser": "Jason Snider",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Jason Snider as an endorser.",
+      "excerpt": "County Commissioners Jason Snider & Jerry Willey",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e22",
+      "endorser": "Jerry Willey",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Jerry Willey as an endorser.",
+      "excerpt": "County Commissioners Jason Snider & Jerry Willey",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e23",
+      "endorser": "Frank Bubenik",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Frank Bubenik as an endorser.",
+      "excerpt": "Frank Bubenik, Tualatin",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e24",
+      "endorser": "Tim Rosener",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Tim Rosener as an endorser.",
+      "excerpt": "Tim Rosener, Sherwood",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "pam-treece-e25",
+      "endorser": "Malynda Wenzl",
+      "endorser_type": "official",
+      "statement": "Pam Treece's pamphlet statement lists Malynda Wenzl as an endorser.",
+      "excerpt": "Malynda Wenzl, Forest Grove",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 4",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

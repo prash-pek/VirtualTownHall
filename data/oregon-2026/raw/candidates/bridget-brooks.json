@@ -1,0 +1,108 @@
+{
+ "id": "bridget-brooks",
+ "name": "Bridget Brooks",
+ "race_id": "tualatin-council-pos-3",
+ "party": null,
+ "incumbent": true,
+ "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information",
+ "occupation": null,
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [],
+ "positions": [
+  {
+   "id": "bridget-brooks-p1",
+   "topic": "economy",
+   "statement": "In an October 2026 Tualatin Life column, Brooks says she promised to listen and protect the community's health and financial strength.",
+   "excerpt": "I promised to listen, protect our community’s health & financial strength, and move forward without leaving people behind.",
+   "source": {
+    "url": "https://tualatinlife.com/politics/bridget-brooks-building-a-healthy-connected-tualatin/",
+    "publisher": "Tualatin Life (guest column by Brooks)",
+    "tier": "T3",
+    "published_at": "2026-10-07",
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "bridget-brooks-p2",
+   "topic": "infrastructure",
+   "statement": "In an October 2026 Tualatin Life column, Brooks names traffic, rising costs and aging infrastructure as continuing challenges.",
+   "excerpt": "We still face traffic, rising costs, & aging infrastructure.",
+   "source": {
+    "url": "https://tualatinlife.com/politics/bridget-brooks-building-a-healthy-connected-tualatin/",
+    "publisher": "Tualatin Life (guest column by Brooks)",
+    "tier": "T3",
+    "published_at": "2026-10-07",
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "bridget-brooks-p3",
+   "topic": "social-services",
+   "statement": "In an October 2026 Tualatin Life column, Brooks says she urged the city to become a trauma-informed organization.",
+   "excerpt": "I also urged the city to become a trauma-informed organization.",
+   "source": {
+    "url": "https://tualatinlife.com/politics/bridget-brooks-building-a-healthy-connected-tualatin/",
+    "publisher": "Tualatin Life (guest column by Brooks)",
+    "tier": "T3",
+    "published_at": "2026-10-07",
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "No pamphlet statement found (script extract): her name appears only in other candidates' endorsement lists and the index",
+  "No occupation or bio facts from a quotable source",
+  "No campaign website found"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (extract washington-county/bridget-brooks.txt, pp.4,40,41; none is her own statement)",
+   "result": "no pamphlet statement found (script extract)"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.tualatinoregon.gov/citycouncil/elections-information",
+   "result": "used (Position 3 incumbent)"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.tualatinoregon.gov/citycouncil/meet-your-council",
+   "result": "used (elected Nov 2018)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain linked",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Bridget Brooks\" Tualatin city council 2026",
+   "result": "used (tualatinlife column)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (a) opb/oregoncapitalchronicle/wweek/ballotpedia: Bridget Brooks Tualatin",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (b) kgw/koin/kptv/katu: Bridget Brooks Tualatin",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (c) portlandmercury/vote411/pamplinmedia/portlandtribune: Bridget Brooks Tualatin",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "6",
+   "query_or_url": "https://tualatinlife.com/politics/bridget-brooks-building-a-healthy-connected-tualatin/",
+   "result": "used"
+  }
+ ],
+ "collection_notes": "Unopposed. Matches inventory. City roster says she 'is serving her first term' though also 'elected Nov 2018'; roster wording not quoted."
+}

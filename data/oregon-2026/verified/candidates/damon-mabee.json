@@ -1,0 +1,166 @@
+{
+  "id": "damon-mabee",
+  "name": "Damon Mabee",
+  "race_id": "oregon-city-mayor",
+  "party": null,
+  "incumbent": false,
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "damon-mabee-b1",
+      "topic": "custom:occupation",
+      "statement": "In the pamphlet statement, Mabee lists the occupation as retired, with a background as a substitute teacher, security professional, union field representative and naval officer.",
+      "excerpt": "Occupation: Retired Occupational Background: Substitute Teacher (OCSD); Unarmed Security Professional; Field Representative (LIUNA 483); Naval Officer",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt extended to include 'Occupation: Retired' so the statement's 'retired' is supported.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "damon-mabee-b2",
+      "topic": "custom:experience",
+      "statement": "Mabee's pamphlet statement lists prior service as an Oregon City commissioner and planning commissioner, on the urban renewal commission and budget committee, and on the South Fork Water Board.",
+      "excerpt": "OC City Commissioner; OC Planning Commissioner; OC Urban Renewal Commissioner and Budget Committee; South Fork Water Board Member and Budget Committee",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "damon-mabee-b3",
+      "topic": "education",
+      "statement": "Mabee's pamphlet statement lists a BS from Oregon State and an M Ed from Portland State.",
+      "excerpt": "Oregon State, BS; Portland State, M Ed.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, L column).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "damon-mabee-p1",
+      "topic": "custom:parks",
+      "statement": "Mabee says it is time to take another hard look at the city budget to find money to fix the park system.",
+      "excerpt": "I believe it is time to once again take a hard look at the budget and find the money to fix our Park system.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Statement trimmed: the excerpt supports the budget/parks-funding point, not the 'top priority' claim (a separate sentence not quoted).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "damon-mabee-p2",
+      "topic": "taxes",
+      "statement": "Mabee says that, as a retiree on a fixed income, they feel the impact of taxes and fee changes.",
+      "excerpt": "As a homeowner and a retiree on a fixed income, I feel the impact of taxes and fee changes.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "damon-mabee-p3",
+      "topic": "economy",
+      "statement": "Mabee says the city needs to decide whether it will be a bedroom community or have its own industries that let people work and live in the same town.",
+      "excerpt": "we as a City need to decide if we are going to be a bedroom community, or have our own industries that allow people to work and live in the same town.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, L column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "damon-mabee-p4",
+      "topic": "public-safety",
+      "statement": "Mabee says safe parks are active parks and that safe, local options for residents mean functioning parks and trails.",
+      "excerpt": "we need safe, local options for our citizens, and that means functioning Parks and Trails. Safe parks are active parks",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 37, printed C-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found in this candidate's own statement (PDF p.37, L column).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No campaign website found or linked from the pamphlet",
+    "No sourced position on public safety staffing, housing or transportation beyond pamphlet statement",
+    "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+    "No endorsements listed in his pamphlet statement"
+  ],
+  "incumbent_source_url": "https://orcity.org/933",
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Three candidates, all with a pamphlet statement. Marl has 11 non-endorsement items (2 from his T2 site) plus 10 endorsements; Mabee has 7 items and no endorsements; La Barr 7 items and no endorsements. Disparity reflects the pamphlet content (Marl lists endorsers; neither opponent has a campaign site or endorsements) and is documented in gaps; no T1/T2/T3 material missed found in a spot search (search returned only older Pamplin/CanbyFirst items and aggregator pages)."
+  }
+}

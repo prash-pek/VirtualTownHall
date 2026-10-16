@@ -1,0 +1,132 @@
+{
+  "id": "ethan-vanderzanden",
+  "name": "Ethan VanderZanden",
+  "race_id": "tualatin-swcd-zone-5",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://tualatinswcd.org/our-story/our-board/",
+  "occupation": "Farmer",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "ethan-vanderzanden-b1",
+      "topic": "custom:background",
+      "statement": "VanderZanden's pamphlet statement gives the occupation as farmer.",
+      "excerpt": "Occupation: Farmer",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ethan-vanderzanden-b2",
+      "topic": "custom:background",
+      "statement": "VanderZanden's pamphlet statement lists no prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: None",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against the script extract (pdftotext) of the official pamphlet; text appears in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "ethan-vanderzanden-p1",
+      "topic": "agriculture",
+      "statement": "VanderZanden's pamphlet statement says VanderZanden would bring a practical, collaborative approach to the board.",
+      "excerpt": "I would bring a practical, collaborative approach to the board. I",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ethan-vanderzanden-p2",
+      "topic": "taxes",
+      "statement": "VanderZanden's pamphlet statement says VanderZanden is committed to responsible use of public resources.",
+      "excerpt": "I am committed to responsible use of public resources and to",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ethan-vanderzanden-p3",
+      "topic": "social-services",
+      "statement": "VanderZanden's pamphlet statement says VanderZanden is committed to district programs being accessible, effective and responsive to the community.",
+      "excerpt": "I am committed to responsible use of public resources and to making sure district programs are accessible, effective, and responsive to the community.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended; statement reworded from 'wants' to the stated 'committed to'; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No campaign website found",
+    "No news coverage found",
+    "Pamphlet statement states general principles; no specific program positions"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 4,
+    "rejected": 0,
+    "balance_notes": "Two-candidate race: Graham 4 items, VanderZanden 5 items, both pamphlet only (T1); no websites or news found for either; similar effort and coverage. (items 1v/4c/0r; endorsements 0v/0c/0r) Incumbency/website checks: see report."
+  }
+}

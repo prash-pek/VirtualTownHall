@@ -1,0 +1,365 @@
+{
+  "id": "mallory-hiefield",
+  "name": "Mallory Hiefield",
+  "name_variants": [],
+  "race_id": "forest-grove-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://forestgrove-or.gov/362/Elections",
+  "occupation": "Assistant Athletic Director",
+  "website_url": "https://votemalloryhiefield.com",
+  "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+  "bio": [
+    {
+      "id": "mallory-hiefield-b1",
+      "topic": "custom:bio",
+      "statement": "Hiefield's pamphlet statement lists a background in intramurals and recreation, fitness instruction and healthcare administration.",
+      "excerpt": "Intramurals and Recreation, Fitness Instructor, Healthcare Administration",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mallory-hiefield-b2",
+      "topic": "custom:bio",
+      "statement": "Hiefield's pamphlet statement lists a biology degree from Pacific University.",
+      "excerpt": "Pacific University, BS in Biology, Minor in Spanish and Outdoor Leadership",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mallory-hiefield-b3",
+      "topic": "custom:bio",
+      "statement": "Hiefield's pamphlet statement lists service on the Forest Grove Budget Committee.",
+      "excerpt": "City of Forest Grove Budget Committee Member",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mallory-hiefield-b4",
+      "topic": "custom:bio",
+      "statement": "Her campaign site says she serves on the City's Parks & Recreation Commission and Budget Committee.",
+      "excerpt": "my work on the City's Parks & Recreation Commission and the City's Budget Committee",
+      "source": {
+        "url": "https://votemalloryhiefield.com/meet_mallory",
+        "publisher": "Mallory Hiefield campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-b5",
+      "topic": "custom:bio",
+      "statement": "Her campaign site says she is Assistant Athletic Director and Senior Woman Administrator at Pacific University.",
+      "excerpt": "now serve as the Assistant Athletic Director and Senior Woman Administrator at Pacific University.",
+      "source": {
+        "url": "https://votemalloryhiefield.com/meet_mallory",
+        "publisher": "Mallory Hiefield campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "mallory-hiefield-p1",
+      "topic": "environment",
+      "statement": "In her voters' pamphlet statement, Hiefield says sustainability and growth do not have to be competing goals.",
+      "excerpt": "Sustainability and growth do not have to be competing goals.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mallory-hiefield-p2",
+      "topic": "agriculture",
+      "statement": "Hiefield's pamphlet statement says the growing city has a responsibility to protect natural resources and preserve agricultural land.",
+      "excerpt": "As our community grows we have a responsibility to protect our natural resources and preserve agricultural lands",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt cut mid-word (\"lan\"); extended to the end of the sentence as printed on the page (\"lands\"). Statement unchanged.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mallory-hiefield-p3",
+      "topic": "housing",
+      "statement": "Hiefield's pamphlet statement calls for a range of housing options so that young people, families, seniors and people who work in the community can afford to live there.",
+      "excerpt": "We need a range of housing options so that young people starting their careers, families, seniors and the people who work in our community can afford to live here.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim",
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt cut mid-word (\"peop\"); extended to the end of the sentence. Statement did not include the affordability clause; added.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mallory-hiefield-p4",
+      "topic": "local-business",
+      "statement": "Hiefield's pamphlet statement says she would support local businesses and invest in infrastructure that promotes job growth.",
+      "excerpt": "I would work hard to support our local businesses and invest in infrastructure that promotes job growth and benefits the entire community.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt cut off after \"and be\"; extended to the end of the sentence as printed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mallory-hiefield-p5",
+      "topic": "economy",
+      "statement": "Hiefield's pamphlet statement says a strong local economy lets residents work and live in the same city.",
+      "excerpt": "A strong local economy creates opportunities for residents to work and live in the same city.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "mallory-hiefield-p6",
+      "topic": "custom:community-health",
+      "statement": "On her campaign Issues page, Hiefield says she believes in the power of movement and human connection.",
+      "excerpt": "I believe whole heartedly in the power of movement and human connection.",
+      "source": {
+        "url": "https://votemalloryhiefield.com/issues",
+        "publisher": "Mallory Hiefield campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "2026 press coverage exists but was not collected: Forest Grove News-Times candidate roster (2026-09-03) and council candidate Q&A (2026-09-25)",
+    "Campaign site has an issues page (votemalloryhiefield.com/issues, T2) with stated positions on sustainability, economic development, housing and community health that was not collected"
+  ],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 3,
+    "rejected": 0,
+    "balance_notes": "Pamphlet statement collected; campaign domain confirmed by the pamphlet-printed address. Campaign site issues page and bio not collected (gap note was incorrect, now fixed). Three excerpts were cut mid-sentence and corrected."
+  },
+  "endorsements": [
+    {
+      "id": "mallory-hiefield-e1",
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization",
+      "statement": "Mallory Hiefield's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Washington County Democrats",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e2",
+      "endorser": "Myrna Munoz",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Myrna Munoz as an endorser.",
+      "excerpt": "Oregon State Senator nominee, Myrna Munoz",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e3",
+      "endorser": "Malynda Wenzl",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Malynda Wenzl as an endorser.",
+      "excerpt": "Forest Grove Mayor, Malynda Wenzl",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e4",
+      "endorser": "Mike Marshall",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Mike Marshall as an endorser.",
+      "excerpt": "Mike Marshall, Brian Schimmel,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e5",
+      "endorser": "Brian Schimmel",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Brian Schimmel as an endorser.",
+      "excerpt": "Mike Marshall, Brian Schimmel,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e6",
+      "endorser": "Angel Falconer",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Angel Falconer as an endorser.",
+      "excerpt": "Angel Falconer",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
+}

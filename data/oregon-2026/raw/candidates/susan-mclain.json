@@ -1,0 +1,614 @@
+{
+  "id": "susan-mclain",
+  "name": "Susan McLain",
+  "race_id": "or-house-29",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+  "occupation": "State Representative (former classroom teacher and Metro councilor)",
+  "website_url": "http://www.SusanMcLain.org",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+  "bio": [
+    {
+      "id": "susan-mclain-b1",
+      "topic": "custom:background",
+      "statement": "Her official page says she chairs the House Transportation Committee and co-chairs the I-5 Interstate Bridge Committee.",
+      "excerpt": "I am thrilled to serve as Chair of the House Transportation Committee and Co-Chair of the I-5 Interstate Bridge Committee.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/mclain",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-b2",
+      "topic": "custom:background",
+      "statement": "Her official page says she represents House District 29 from West Hillsboro, Cornelius and Forest Grove.",
+      "excerpt": "I am honored to represent the people of House District 29 from West Hillsboro, Cornelius, and Forest Grove",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/mclain",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-b3",
+      "topic": "education",
+      "statement": "The Capital Chronicle guide lists McLain as a classroom teacher for 42 years.",
+      "excerpt": "42 years as a classroom teacher",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-29/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-b4",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, McLain lists her occupation as retired teacher and state representative, with a background as a Glencoe High School teacher of speech, debate and English.",
+      "excerpt": "Occupation: Retired Teacher, State Representative Occupational Background: Glencoe High School Teacher - Speech, Debate, English",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-b5",
+      "topic": "custom:background",
+      "statement": "McLain lists a B.S. from Oregon College of Education, and prior experience as Metro councilor 1991-2006 and state representative since 2015.",
+      "excerpt": "Educational Background: B.S., Oregon College of Education Prior Governmental Experience: Metro Councilor, 1991-2006, State Representative 2015-present",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "susan-mclain-p1",
+      "topic": "housing",
+      "statement": "In the Capital Chronicle questionnaire, McLain says rent and homeownership costs are among the largest household expenses and prices are too high.",
+      "excerpt": "The cost of rent and homeownership is one of the biggest household expenses, and prices are simply too high.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-29/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p2",
+      "topic": "taxes",
+      "statement": "In the Capital Chronicle questionnaire, McLain says she is willing to consider a wide range of tax reforms.",
+      "excerpt": "I'm willing to consider a wide range of tax reforms",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-29/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p3",
+      "topic": "education",
+      "statement": "In the Capital Chronicle questionnaire, McLain says the Quality Education Model funding formula is outdated.",
+      "excerpt": "Our current funding model, the Quality Education Model (QEM), is outdated",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-29/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p4",
+      "topic": "transportation",
+      "statement": "In the Capital Chronicle questionnaire, McLain says the gas tax is declining as a funding source and the state must transition to a sustainable tool.",
+      "excerpt": "Our primary funding source (the gas tax) is in decline, and we need to transition into a sustainable tool.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-29/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p5",
+      "topic": "immigration",
+      "statement": "In the Capital Chronicle questionnaire, McLain says federal immigration agents have acted beyond their authority and without regard for due process or safety.",
+      "excerpt": "Agents have acted beyond the scope of their authority and without regard for due process or safety.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-29/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p6",
+      "topic": "taxes",
+      "statement": "McLain cites expanding the Earned Income Tax Credit to lower taxes for more than 200,000 working families.",
+      "excerpt": "Expanded the Earned Income Tax Credit to lower taxes for 200,000+ working families",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p7",
+      "topic": "technology",
+      "statement": "McLain cites banning data centers from passing energy costs to consumers and protecting farmland.",
+      "excerpt": "Banned data centers from passing energy costs to consumers and protected our world-class farmland",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p8",
+      "topic": "healthcare",
+      "statement": "McLain cites working to cap insulin prices and require insurers to cover additional screenings.",
+      "excerpt": "Worked to cap insulin prices, require insurers to cover additional screenings, and stand up to big pharma",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p9",
+      "topic": "housing",
+      "statement": "McLain cites stopping corporations from competing with Oregonians trying to buy a single-family home.",
+      "excerpt": "Stopped corporations from competing with Oregonians trying to buy a single-family home",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-p10",
+      "topic": "education",
+      "statement": "McLain cites championing historic investments in K-12 and higher education.",
+      "excerpt": "Championed historic investments in K-12 and Higher Education, including summer learning",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "susan-mclain-v1",
+      "topic": "healthcare",
+      "statement": "In the Capital Chronicle questionnaire, McLain says she sponsored policies to preserve Planned Parenthood funding and protect patient privacy.",
+      "excerpt": "I sponsored policies to preserve funding for Planned Parenthood and protect the privacy of patients.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-29/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-v2",
+      "topic": "taxes",
+      "statement": "In the Capital Chronicle questionnaire, McLain cites a 2026 expansion of the Earned Income Tax Credit as an accomplishment.",
+      "excerpt": "the largest expansion of the Earned Income Tax Credit in Oregon history",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-29/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "gaps": [
+    "No public position found on public safety beyond immigration enforcement",
+    "Voting items are self-reported in the questionnaire; no roll calls collected (phase 1 scope)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract susan-mclain.txt (Washington edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf)",
+      "result": "used (statement found, p. 50)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/mclain",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/house/Pages/print-representatives.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website http://www.SusanMcLain.org (printed in pamphlet statement)",
+      "result": "not used (positions cap of 10 reached with pamphlet items)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-29/",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Susan McLain\" Oregon House 29 Hillsboro 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: \"Susan McLain\"",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(b) kgw.com, koin.com, kptv.com, katu.com: \"Susan McLain\"",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "(c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: \"Susan McLain\"",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Incumbent per House roster. Inventory consistent. Capital Chronicle HD 29 Democratic primary guide (primary opponent Mark Watson) is the main source; guide undated. Official page gave committee roles. Pamphlet statement: SOS Washington edition p. 50 (same text in other editions). Campaign website printed in pamphlet but not fetched: positions already at the cap of 10.",
+  "endorsements": [
+    {
+      "id": "susan-mclain-e1",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e2",
+      "endorser": "American Federation of Teachers - Oregon",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists American Federation of Teachers - Oregon as an endorser.",
+      "excerpt": "American Federation of Teachers - Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e3",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e4",
+      "endorser": "American Association of University Professors - Oregon",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists American Association of University Professors - Oregon as an endorser.",
+      "excerpt": "American Association of University Professors - Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e5",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e6",
+      "endorser": "Oregon Coalition of Police and Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Oregon Coalition of Police and Sheriffs as an endorser.",
+      "excerpt": "Oregon Coalition of Police and Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e7",
+      "endorser": "Oregon's Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Oregon's Sheriffs as an endorser.",
+      "excerpt": "Oregon's Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e8",
+      "endorser": "Oregon Chiefs of Police Association",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Oregon Chiefs of Police Association as an endorser.",
+      "excerpt": "Oregon Chiefs of Police Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e9",
+      "endorser": "U.S. Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Susan McLain's pamphlet statement lists U.S. Senator Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e10",
+      "endorser": "U.S. Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Susan McLain's pamphlet statement lists U.S. Senator Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e11",
+      "endorser": "U.S. Rep. Suzanne Bonamici",
+      "endorser_type": "official",
+      "statement": "Susan McLain's pamphlet statement lists U.S. Rep. Suzanne Bonamici as an endorser.",
+      "excerpt": "U.S. Rep. Suzanne Bonamici",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e12",
+      "endorser": "Attorney General Dan Rayfield",
+      "endorser_type": "official",
+      "statement": "Susan McLain's pamphlet statement lists Attorney General Dan Rayfield as an endorser.",
+      "excerpt": "Attorney General Dan Rayfield",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e13",
+      "endorser": "Metro Council President Juan Carlos Gonzalez",
+      "endorser_type": "official",
+      "statement": "Susan McLain's pamphlet statement lists Metro Council President Juan Carlos Gonzalez as an endorser.",
+      "excerpt": "Metro Council President Juan Carlos Gonzalez",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e14",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e15",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e16",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e17",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e18",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e19",
+      "endorser": "Friends of Smart Growth",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Friends of Smart Growth as an endorser.",
+      "excerpt": "Friends of Smart Growth",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e20",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e21",
+      "endorser": "The Street Trust Action Fund",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists The Street Trust Action Fund as an endorser.",
+      "excerpt": "The Street Trust Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e22",
+      "endorser": "Basic Rights Oregon PAC",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Basic Rights Oregon PAC as an endorser.",
+      "excerpt": "Basic Rights Oregon PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "susan-mclain-e23",
+      "endorser": "Oregonians for Food and Shelter",
+      "endorser_type": "organization",
+      "statement": "Susan McLain's pamphlet statement lists Oregonians for Food and Shelter as an endorser.",
+      "excerpt": "Oregonians for Food and Shelter",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
+}

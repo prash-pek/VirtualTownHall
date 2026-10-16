@@ -1,0 +1,92 @@
+{
+  "id": "bridget-brooks",
+  "name": "Bridget Brooks",
+  "race_id": "tualatin-council-pos-3",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [
+    {
+      "id": "bridget-brooks-p1",
+      "topic": "economy",
+      "statement": "In an October 2026 Tualatin Life article written by Brooks, Brooks says Brooks promised to listen and protect the community's health and financial strength.",
+      "excerpt": "I promised to listen, protect our community’s health & financial strength, and move forward without leaving people behind.",
+      "source": {
+        "url": "https://tualatinlife.com/politics/bridget-brooks-building-a-healthy-connected-tualatin/",
+        "publisher": "Tualatin Life (candidate-written, bylined)",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "neutral_wording"
+        ],
+        "note": "Page is bylined to Brooks and not labelled a guest column; relabelled as candidate-written; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bridget-brooks-p2",
+      "topic": "infrastructure",
+      "statement": "In an October 2026 Tualatin Life article written by Brooks, Brooks names traffic, rising costs and aging infrastructure as continuing challenges.",
+      "excerpt": "We still face traffic, rising costs, & aging infrastructure.",
+      "source": {
+        "url": "https://tualatinlife.com/politics/bridget-brooks-building-a-healthy-connected-tualatin/",
+        "publisher": "Tualatin Life (candidate-written, bylined)",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Relabelled as candidate-written (not labelled a guest column on the page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bridget-brooks-p3",
+      "topic": "social-services",
+      "statement": "In an October 2026 Tualatin Life article written by Brooks, Brooks says Brooks urged the city to become a trauma-informed organization.",
+      "excerpt": "I also urged the city to become a trauma-informed organization.",
+      "source": {
+        "url": "https://tualatinlife.com/politics/bridget-brooks-building-a-healthy-connected-tualatin/",
+        "publisher": "Tualatin Life (candidate-written, bylined)",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "neutral_wording"
+        ],
+        "note": "Relabelled as candidate-written; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No pamphlet statement found (script extract): her name appears only in other candidates' endorsement lists and the index",
+    "No occupation or bio facts from a quotable source",
+    "No campaign website found"
+  ],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 3,
+    "rejected": 0,
+    "balance_notes": "Unopposed incumbent. No pamphlet statement in the extract (her name appears only in other statements); only 3 T3 candidate-written items from one article. Gap documented; no evidence of unequal effort. (items 0v/3c/0r; endorsements 0v/0c/0r) Incumbency/website checks: see report."
+  }
+}

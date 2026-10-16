@@ -1,0 +1,62 @@
+{
+  "id": "shawne-martinez",
+  "name": "Shawne Martinez",
+  "race_id": "tigard-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No pamphlet statement found (script extract)",
+    "No campaign website found",
+    "No bio facts or positions found from any permitted source"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (no extract file shawne-martinez.txt)",
+      "result": "not found (no pamphlet statement found (script extract))"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.tigard-or.gov/your-government/council/meet-the-council (not listed)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked from any source",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Shawne Martinez\" Tigard City Council 2026",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shawne Martinez\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (no results)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shawne Martinez\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (unrelated)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Shawne Martinez\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (unrelated)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "none promising",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "No pamphlet statement found (script extract). Name appears on county certified candidate list per inventory; no other public information found. Spelling unverified."
+}

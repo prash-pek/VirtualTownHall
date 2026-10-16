@@ -1,0 +1,151 @@
+{
+ "id": "rodney-la-barr",
+ "name": "Rodney La Barr",
+ "race_id": "oregon-city-mayor",
+ "party": null,
+ "incumbent": false,
+ "occupation": "Facilities Safety Technician",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "rodney-la-barr-b1",
+   "topic": "custom:occupation",
+   "statement": "La Barr's pamphlet statement lists his occupation as Facilities Safety Technician, with a background as a lead carpenter and building maintenance worker in Multnomah and Alameda counties.",
+   "excerpt": "Lead Carpenter and Projects Lead Multnomah County 7/2020 - 8/2025; Building Maintenance Worker II Alameda County 8/2007 - 3/2020; Lead Steward Local 342 6/2017 - 3/2020",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 38, printed C-37)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "rodney-la-barr-b2",
+   "topic": "education",
+   "statement": "His pamphlet statement lists a diploma from Willow Glen High and no prior governmental experience.",
+   "excerpt": "Educational Background: Willow Glen High, Diploma Prior Governmental Experience: None",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 38, printed C-37)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "rodney-la-barr-p1",
+   "topic": "local-business",
+   "statement": "La Barr says he favors reducing or eliminating unnecessary regulations, permits and fees.",
+   "excerpt": "With this, I believe reducing or eliminating unnecessary regulations, permits and fees.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 38, printed C-37)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "rodney-la-barr-p2",
+   "topic": "housing",
+   "statement": "La Barr says he would eliminate excess costs for contractors and developers to produce new living spaces of all types.",
+   "excerpt": "Eliminate excess costs for contractors and developers to produce new living spaces of all types, from ADU’s to apartments to single family homes.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 38, printed C-37)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "rodney-la-barr-p3",
+   "topic": "social-services",
+   "statement": "La Barr says economic growth funds the services and transitional housing needed to reduce homelessness.",
+   "excerpt": "Reduce Homelessness Economic growth funds the services and transitional housing needed",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 38, printed C-37)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "rodney-la-barr-p4",
+   "topic": "taxes",
+   "statement": "La Barr says he would create funding to reinvigorate city parks using new revenue without raising taxes.",
+   "excerpt": "Create funding to Reinvigorate our City Parks Use new revenue without raising taxes",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 38, printed C-37)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "rodney-la-barr-p5",
+   "topic": "transportation",
+   "statement": "La Barr says everyone on both ends of I-5 should be against I-205 tolling.",
+   "excerpt": "should be against any I-205 tolling nonsense.",
+   "source": {
+    "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "publisher": "Clackamas County Voters' Pamphlet, Nov 3 2026 (PDF p. 38, printed C-37)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "No campaign website found or linked",
+  "No sourced positions beyond pamphlet statement (public safety policy, transportation specifics)",
+  "No endorsements listed in his pamphlet statement"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "Clackamas pamphlet extract rodney-la-barr.txt (source_url https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://orcity.org/933",
+   "result": "used (La Barr not listed on roster)"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain confirmed",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Rodney La Barr\" mayor Oregon City 2026",
+   "result": "nothing relevant (goodparty.org candidate list only; not used)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Rodney La Barr\" allowed_domains group (a) opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+   "result": "nothing relevant (name matched unrelated Barr items)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Rodney La Barr\" allowed_domains group (b) kgw.com, koin.com, kptv.com, katu.com",
+   "result": "nothing relevant (unrelated Portland crime items)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "\"Rodney La Barr\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+   "result": "nothing relevant (pamplinmedia.com blocks automated fetch; no relevant results)"
+  }
+ ],
+ "collection_notes": "Pamphlet p. 38 (printed C-37) is a single-candidate page. Inventory name matches.",
+ "incumbent_source_url": "https://orcity.org/933"
+}

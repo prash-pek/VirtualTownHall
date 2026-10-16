@@ -213,5 +213,287 @@
     "corrected": 3,
     "rejected": 0,
     "balance_notes": "Commissioner Pos 4: Smith and Helm have 10 items each, and each has one T2 campaign-site item and OPB primary questionnaire items (3 vs 2). Balanced. Same-name check: the ballot name 'R W Smith', the pamphlet (friendsofremysmith.org) and OPB ('R.W. Smith, environmental consultant') all refer to the same person. He is not related to former chair Tootie Smith, who appears in search results. This race fills the remainder of an unexpired term (May 2026 ballot: 'Completion of Unexpired 4 Year Term')."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "rw-smith-e1",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "R W Smith's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "Endorsements: SEIU Oregon; Democratic Party of Clackamas",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e2",
+      "endorser": "Democratic Party of Clackamas County",
+      "endorser_type": "organization",
+      "statement": "R W Smith's pamphlet statement lists Democratic Party of Clackamas County as an endorser.",
+      "excerpt": "Endorsements: SEIU Oregon; Democratic Party of Clackamas",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e3",
+      "endorser": "Lisa Batey",
+      "endorser_type": "official",
+      "statement": "R W Smith's pamphlet statement lists Lisa Batey as an endorser.",
+      "excerpt": "County; Lisa Batey, Mayor Milwaukie; Will Anderson, Milwaukie",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e4",
+      "endorser": "Will Anderson",
+      "endorser_type": "official",
+      "statement": "R W Smith's pamphlet statement lists Will Anderson as an endorser.",
+      "excerpt": "County; Lisa Batey, Mayor Milwaukie; Will Anderson, Milwaukie",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e5",
+      "endorser": "Jennifer Murphy",
+      "endorser_type": "person",
+      "statement": "R W Smith's pamphlet statement lists Jennifer Murphy as an endorser.",
+      "excerpt": "City Council President; Jennifer Murphy; Adam Khosroabadi",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e6",
+      "endorser": "Adam Khosroabadi",
+      "endorser_type": "official",
+      "statement": "R W Smith's pamphlet statement lists Adam Khosroabadi as an endorser.",
+      "excerpt": "City Council President; Jennifer Murphy; Adam Khosroabadi",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e7",
+      "endorser": "Jim Bernard",
+      "endorser_type": "official",
+      "statement": "R W Smith's pamphlet statement lists Jim Bernard as an endorser.",
+      "excerpt": "Jim Bernard, former Clackamas",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e8",
+      "endorser": "Ken Humberston",
+      "endorser_type": "official",
+      "statement": "R W Smith's pamphlet statement lists Ken Humberston as an endorser.",
+      "excerpt": "County Chair; Ken Humberston, former Clackamas County",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e9",
+      "endorser": "Mike Wilson",
+      "endorser_type": "person",
+      "statement": "R W Smith's pamphlet statement lists Mike Wilson as an endorser.",
+      "excerpt": "Commissioner; Major Mike Wilson, U.S. Army Special Forces",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e10",
+      "endorser": "Pete Wease",
+      "endorser_type": "person",
+      "statement": "R W Smith's pamphlet statement lists Pete Wease as an endorser.",
+      "excerpt": "(Ret.); Pete Wease; Bill Osburn; Rob Kukish; Jeannette Warren;",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e11",
+      "endorser": "Bill Osburn",
+      "endorser_type": "person",
+      "statement": "R W Smith's pamphlet statement lists Bill Osburn as an endorser.",
+      "excerpt": "(Ret.); Pete Wease; Bill Osburn; Rob Kukish; Jeannette Warren;",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e12",
+      "endorser": "Rob Kukish",
+      "endorser_type": "person",
+      "statement": "R W Smith's pamphlet statement lists Rob Kukish as an endorser.",
+      "excerpt": "(Ret.); Pete Wease; Bill Osburn; Rob Kukish; Jeannette Warren;",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e13",
+      "endorser": "Jeannette Warren",
+      "endorser_type": "person",
+      "statement": "R W Smith's pamphlet statement lists Jeannette Warren as an endorser.",
+      "excerpt": "(Ret.); Pete Wease; Bill Osburn; Rob Kukish; Jeannette Warren;",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rw-smith-e14",
+      "endorser": "Kerrie Gianelli",
+      "endorser_type": "person",
+      "statement": "R W Smith's pamphlet statement lists Kerrie Gianelli as an endorser.",
+      "excerpt": "Kerrie Gianelli, owner The Pit Stop Coffee Shop.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

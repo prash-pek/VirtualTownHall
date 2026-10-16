@@ -1,0 +1,457 @@
+{
+  "id": "travis-nelson",
+  "name": "Travis Nelson",
+  "race_id": "or-house-44",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/Nelson",
+  "occupation": "State Representative; registered nurse and union representative",
+  "website_url": "https://www.nelsonfororegon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf (p. 53)",
+  "bio": [
+    {
+      "id": "travis-nelson-b1",
+      "topic": "custom:background",
+      "statement": "In his official biography Nelson says he joined the legislature as the first Black LGBTQIA+ member of the body.",
+      "excerpt": "I am proud to join the legislature as the first ever Black LGBTQIA+ member of this body",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/Nelson",
+        "publisher": "Oregon Legislature, Rep. Nelson member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-b2",
+      "topic": "custom:background",
+      "statement": "The Oregon Capital Chronicle reported at his appointment that Nelson is a registered nurse working as a union representative with the Oregon Nurses Association.",
+      "excerpt": "Nelson is a registered nurse who now works full time as a union representative with the Oregon Nurses Association.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/briefs/multnomah-county-taps-registered-nurse-travis-nelson-to-finish-koteks-house-term/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-b3",
+      "topic": "custom:occupation",
+      "statement": "His pamphlet statement lists Nelson's occupation as registered nurse, labor representative and State Representative, with a background as Oregon Nurses Association vice president, ER and ICU nurse, coach and janitor.",
+      "excerpt": "Occupation: Registered Nurse, Labor Representative, State Representative Occupational Background: Oregon Nurses Association Vice President, ER Nurse, ICU Nurse, Coach, Janitor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-b4",
+      "topic": "custom:education",
+      "statement": "His pamphlet statement lists Washington State University and Columbia Basin College as his educational background.",
+      "excerpt": "Educational Background: Washington State University, Columbia Basin College",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-b5",
+      "topic": "custom:experience",
+      "statement": "His pamphlet statement lists State Representative since 2022, Vice Chair of the Legislative BI-POC Caucus, and service on the Oregon Pain Commission Board and Commission on Black Affairs as prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: State Representative since 2022, Vice Chair Legislative BI-POC Caucus, Legislative Environmental Caucus Member, Oregon Pain Commission Board, Oregon Commission on Black Affairs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "travis-nelson-p1",
+      "topic": "housing",
+      "statement": "Nelson's pamphlet statement lists housing for all as a priority: expanding affordable housing, addressing homelessness, and supporting mental health and addiction recovery services.",
+      "excerpt": "Housing for All: Expanding affordable housing, addressing homelessness, and supporting mental health and addiction recovery services.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-p2",
+      "topic": "healthcare",
+      "statement": "Nelson lists healthcare for all as a priority in his pamphlet statement: lower costs, a stronger workforce and safe hospital staffing.",
+      "excerpt": "Healthcare for All: Lowering healthcare costs, strengthening the healthcare workforce, and safe staffing in hospitals.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-p3",
+      "topic": "education",
+      "statement": "Nelson's pamphlet statement lists fully funding education and ensuring every student has a safe and supportive learning environment.",
+      "excerpt": "Support for Schools: Fully funding education and ensuring every student has a safe and supportive learning environment.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-p4",
+      "topic": "civil-rights",
+      "statement": "In his pamphlet statement Nelson says he is the first Black, LGBTQ+ member of the state legislature and brings a voice not historically heard.",
+      "excerpt": "Equity: I’m the first Black, LGBTQ+ member of the state legislature. I bring a voice that hasn’t historically been heard.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-p5",
+      "topic": "healthcare",
+      "statement": "Nelson says in his pamphlet statement that he passed legislation protecting abortion rights and gender-affirming care and is advocating for a universal healthcare plan.",
+      "excerpt": "Reproductive Healthcare: Passed legislation to protect abortion rights & gender-affirming care.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-p6",
+      "topic": "economy",
+      "statement": "Nelson's pamphlet statement cites legislation strengthening child labor protections and says he continues to fight for fair wages and safe workplaces.",
+      "excerpt": "Protecting Workers: Passed legislation strengthening child labor protections. I continue fighting for fair wages and safe workplaces.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-p7",
+      "topic": "infrastructure",
+      "statement": "Nelson's pamphlet statement cites funding for North and Northeast Portland, including the Albina Vision Trust redevelopment, George Park and $15 million for a future North Portland Aquatic Center.",
+      "excerpt": "Local Investments: Secured millions for North and Northeast Portland, including investments in the Albina Vision Trust redevelopment, improvements to George Park, $15 million for a future North Portland Aquatic Center",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-p8",
+      "topic": "public-safety",
+      "statement": "On his campaign site, Nelson says nobody should have to sleep outside and that housing people makes it easier to connect them with services.",
+      "excerpt": "Nobody should have to sleep outside. Making sure people are housed makes it much easier to connect them with services.",
+      "source": {
+        "url": "https://www.nelsonfororegon.com/priorities",
+        "publisher": "Travis Nelson campaign website (nelsonfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-p9",
+      "topic": "environment",
+      "statement": "On his campaign site, Nelson says Oregon has been a national leader in creating climate goals.",
+      "excerpt": "Oregon has been a national leader in creating climate goals.",
+      "source": {
+        "url": "https://www.nelsonfororegon.com/priorities",
+        "publisher": "Travis Nelson campaign website (nelsonfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-p10",
+      "topic": "education",
+      "statement": "On his campaign site, Nelson says public higher education should open doors rather than saddle young people with lifelong debt.",
+      "excerpt": "Public higher education should open doors, not saddle young people with lifelong debt.",
+      "source": {
+        "url": "https://www.nelsonfororegon.com/priorities",
+        "publisher": "Travis Nelson campaign website (nelsonfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No quotable issue statements found (official page lists priorities as paraphrase only)",
+    "Ballotpedia: no Candidate Connection survey completed",
+    "Capital Chronicle brief on appointment is from 2022; current employment unconfirmed"
+  ],
+  "collection_notes": "Incumbent per oregonlegislature.gov member page. KOIN interview page surfaced but contained no quotes. Matches inventory. Pamphlet website printed as www.NelsonForOregon.com. Site /priorities page also covers abortion, renter protections, PERS, equal pay; not added to limit duplication with pamphlet topics.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract travis-nelson.txt (Multnomah edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf)",
+      "result": "used (statement found, p. 53; also printed in Washington edition)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/Nelson",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Travis Nelson\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia, CapChron brief",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: KOIN/KGW items on traffic stops and bills, not read in full",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: Mercury cheat sheet is endorsement material",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.nelsonfororegon.com and /priorities (domain printed in pamphlet statement; WebFetch)",
+      "result": "used"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "travis-nelson-e1",
+      "endorser": "U.S. Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Travis Nelson's pamphlet statement lists U.S. Senator Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e2",
+      "endorser": "U.S. Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Travis Nelson's pamphlet statement lists U.S. Senator Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e3",
+      "endorser": "Governor Tina Kotek",
+      "endorser_type": "official",
+      "statement": "Travis Nelson's pamphlet statement lists Governor Tina Kotek as an endorser.",
+      "excerpt": "Governor Tina Kotek",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e4",
+      "endorser": "Congresswoman Maxine Dexter",
+      "endorser_type": "official",
+      "statement": "Travis Nelson's pamphlet statement lists Congresswoman Maxine Dexter as an endorser.",
+      "excerpt": "Congresswoman Maxine Dexter",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e5",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Travis Nelson's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e6",
+      "endorser": "Oregon Labor Federation AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Travis Nelson's pamphlet statement lists Oregon Labor Federation AFL-CIO as an endorser.",
+      "excerpt": "Oregon Labor Federation AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e7",
+      "endorser": "Sierra CLub",
+      "endorser_type": "organization",
+      "statement": "Travis Nelson's pamphlet statement lists Sierra CLub as an endorser.",
+      "excerpt": "Sierra CLub",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e8",
+      "endorser": "SEIU",
+      "endorser_type": "organization",
+      "statement": "Travis Nelson's pamphlet statement lists SEIU as an endorser.",
+      "excerpt": "SEIU",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e9",
+      "endorser": "AFSCME",
+      "endorser_type": "organization",
+      "statement": "Travis Nelson's pamphlet statement lists AFSCME as an endorser.",
+      "excerpt": "AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e10",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Travis Nelson's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e11",
+      "endorser": "Portland Association of Teachers",
+      "endorser_type": "organization",
+      "statement": "Travis Nelson's pamphlet statement lists Portland Association of Teachers as an endorser.",
+      "excerpt": "Portland Association of Teachers",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e12",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Travis Nelson's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e13",
+      "endorser": "Basic Rights Oregon PAC",
+      "endorser_type": "organization",
+      "statement": "Travis Nelson's pamphlet statement lists Basic Rights Oregon PAC as an endorser.",
+      "excerpt": "Basic Rights Oregon PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "travis-nelson-e14",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Travis Nelson's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
+}

@@ -1,0 +1,573 @@
+{
+  "id": "scott-hege",
+  "name": "Scott C Hege",
+  "race_id": "or-house-52",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/helfrich",
+  "occupation": "Wasco County commissioner; engineer",
+  "website_url": "https://www.hegefororegon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf (p. 55)",
+  "bio": [
+    {
+      "id": "scott-hege-b1",
+      "topic": "custom:background",
+      "statement": "The Capital Chronicle voter guide says Hege is a Wasco County commissioner and engineer from The Dalles.",
+      "excerpt": "Scott Hege is a Wasco County commissioner and engineer from The Dalles.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-b2",
+      "topic": "custom:background",
+      "statement": "The guide says Hege formerly worked as executive director of the Port of The Dalles.",
+      "excerpt": "He formerly worked as executive director of the Port of The Dalles.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-b3",
+      "topic": "custom:occupation",
+      "statement": "Hege's pamphlet statement lists the occupation as Wasco County Commissioner and engineer, with a background in engineering and economic development.",
+      "excerpt": "Occupation: Wasco County Commissioner, Engineer Occupational Background: Engineer, Economic Development",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-b4",
+      "topic": "custom:education",
+      "statement": "Hege's pamphlet statement lists a BS in Mechanical Engineering and an MBA as the educational background.",
+      "excerpt": "Educational Background: BS Mechanical Engineering, MBA",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-b5",
+      "topic": "custom:experience",
+      "statement": "Hege's pamphlet statement lists Port of The Dalles Executive Director and Wasco County Commissioner as prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Port of The Dalles Executive Director, Wasco County Commissioner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "scott-hege-p1",
+      "topic": "economy",
+      "statement": "In the Capital Chronicle's 2026 primary voter guide, Hege says they are committed to improving the business climate.",
+      "excerpt": "I am committed to improving the business climate, which currently negatively impacts nearly all businesses",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Reworded to attribute to the voter guide (page has no byline/date and does not say the answers came from a questionnaire; the guide covers the May 2026 primary).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-p2",
+      "topic": "transportation",
+      "statement": "In the voter guide, Hege says funding for the Department of Transportation should be addressed by first conducting a comprehensive audit of the organization.",
+      "excerpt": "Funding for the Department of Transportation should be addressed by first conducting a comprehensive audit of the organization.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Removed 'maintenance should be the top priority' (on the page but not in the excerpt).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-p3",
+      "topic": "environment",
+      "statement": "In the same voter guide, Hege says the state needs to deal with the fuels overtaking its forested lands.",
+      "excerpt": "We need to deal with the fuels that are overtaking our forested lands.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Reworded to attribute to the voter guide (page has no byline/date and does not say the answers came from a questionnaire; the guide covers the May 2026 primary).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-p4",
+      "topic": "taxes",
+      "statement": "In the same voter guide, Hege says Oregon's overall tax and regulatory structure adds to the cost of doing business.",
+      "excerpt": "Oregon’s overall tax and regulatory structure adds to the cost of doing business",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Reworded to attribute to the voter guide (page has no byline/date and does not say the answers came from a questionnaire; the guide covers the May 2026 primary).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-p5",
+      "topic": "technology",
+      "statement": "The Capital Chronicle reports Hege said they do not support taking local control away from communities on data center investment.",
+      "excerpt": "I do not support taking local control away from communities who could benefit from the investment;",
+      "source": {
+        "url": "https://portlandtribune.com/2026/09/25/data-centers-take-center-stage-spur-mudslinging-in-competitive-gorge-based-oregon-house-race/",
+        "publisher": "Portland Tribune (Oregon Capital Chronicle)",
+        "tier": "T3",
+        "published_at": "2026-09-25",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-p6",
+      "topic": "economy",
+      "statement": "Hege says in the pamphlet statement that they will support Oregon's agricultural, manufacturing and recreation industries, stand up for local businesses and oppose unnecessary regulations.",
+      "excerpt": "As your Representative, I will support our agricultural, manufacturing,and recreation industries, stand up for local businesses, and oppose unnecessary regulations that harm employers and workers.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Original mentioned 'job creation and responsible growth', which is not in the excerpt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-p7",
+      "topic": "education",
+      "statement": "Hege says in the pamphlet statement that Oregon must improve its public education.",
+      "excerpt": "We must improve our public education, reduce the cost of living and make things more affordable",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-p8",
+      "topic": "economy",
+      "statement": "Hege says in the pamphlet statement that Oregon must reduce the cost of living and make things more affordable.",
+      "excerpt": "reduce the cost of living and make things more affordable, and stop policies that drive businesses and families out of state.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-p9",
+      "topic": "local-business",
+      "statement": "Hege says in the pamphlet statement that they would stand up for local businesses and oppose unnecessary regulations that harm employers and workers.",
+      "excerpt": "stand up for local businesses, and oppose unnecessary regulations that harm employers and workers.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Gorge Radio announcement page undated",
+    "Campaign site hegefororegon.com could not be fetched (blocked by robots.txt); no T2 items",
+    "Campaign site hegefororegon.com (printed in the pamphlet) was not fetched; no T2 items"
+  ],
+  "name_variants": [
+    "Scott Hege"
+  ],
+  "endorsements": [
+    {
+      "id": "scott-hege-e1",
+      "endorser": "Kathleen Walker, Sandy Mayor",
+      "endorser_type": "official",
+      "statement": "Scott C Hege's pamphlet statement lists Kathleen Walker, Sandy Mayor as an endorser.",
+      "excerpt": "Kathleen Walker, Sandy Mayor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-e2",
+      "endorser": "Ed Weathers, Hood River County Commissioner; CEO, Duckwall Fruit",
+      "endorser_type": "official",
+      "statement": "Scott C Hege's pamphlet statement lists Ed Weathers, Hood River County Commissioner; CEO, Duckwall Fruit as an endorser.",
+      "excerpt": "Ed Weathers, Hood River County Commissioner; CEO, Duckwall Fruit",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-e3",
+      "endorser": "Chad Munzer, Hood River County Commissioner",
+      "endorser_type": "official",
+      "statement": "Scott C Hege's pamphlet statement lists Chad Munzer, Hood River County Commissioner as an endorser.",
+      "excerpt": "Chad Munzer, Hood River County Commissioner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-e4",
+      "endorser": "Ben West, Clackamas County Commissioner",
+      "endorser_type": "official",
+      "statement": "Scott C Hege's pamphlet statement lists Ben West, Clackamas County Commissioner as an endorser.",
+      "excerpt": "Ben West, Clackamas County Commissioner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-e5",
+      "endorser": "Martha Schrader, Clackamas County Commissioner",
+      "endorser_type": "official",
+      "statement": "Scott C Hege's pamphlet statement lists Martha Schrader, Clackamas County Commissioner as an endorser.",
+      "excerpt": "Martha Schrader, Clackamas County Commissioner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-e6",
+      "endorser": "Oregon Farm Bureau",
+      "endorser_type": "organization",
+      "statement": "Scott C Hege's pamphlet statement lists Oregon Farm Bureau as an endorser.",
+      "excerpt": "Oregon Farm Bureau",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-e7",
+      "endorser": "AG-PAC",
+      "endorser_type": "organization",
+      "statement": "Scott C Hege's pamphlet statement lists AG-PAC as an endorser.",
+      "excerpt": "AG-PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-e8",
+      "endorser": "National Federation of Independent Business/OR PAC",
+      "endorser_type": "organization",
+      "statement": "Scott C Hege's pamphlet statement lists National Federation of Independent Business/OR PAC as an endorser.",
+      "excerpt": "National Federation of Independent Business/OR PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-e9",
+      "endorser": "Oregon Business and Industry Candidate PAC",
+      "endorser_type": "organization",
+      "statement": "Scott C Hege's pamphlet statement lists Oregon Business and Industry Candidate PAC as an endorser.",
+      "excerpt": "Oregon Business and Industry Candidate PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-e10",
+      "endorser": "Oregon Hispanic Business Association",
+      "endorser_type": "organization",
+      "statement": "Scott C Hege's pamphlet statement lists Oregon Hispanic Business Association as an endorser.",
+      "excerpt": "Oregon Hispanic Business Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-e11",
+      "endorser": "Multi-Family NW",
+      "endorser_type": "organization",
+      "statement": "Scott C Hege's pamphlet statement lists Multi-Family NW as an endorser.",
+      "excerpt": "Multi-Family NW",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-e12",
+      "endorser": "Oregon Coalition of Police and Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Scott C Hege's pamphlet statement lists Oregon Coalition of Police and Sheriffs as an endorser.",
+      "excerpt": "Oregon Coalition of Police and Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-hege-e13",
+      "endorser": "Oregon Nurseries' PAC",
+      "endorser_type": "organization",
+      "statement": "Scott C Hege's pamphlet statement lists Oregon Nurseries' PAC as an endorser.",
+      "excerpt": "Oregon Nurseries' PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 9,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "HD52: 14 items + 13 endorsements vs Hank Sanders 12 items + 17 endorsements. Balanced. Hege's campaign domain is printed in the pamphlet but the site was not fetched. Verifier noted an un-collected Capital Chronicle article (2025-12-10) on this race that covers both candidates.",
+    "endorsements": {
+      "verified": 13,
+      "corrected": 0,
+      "rejected": 0
+    }
+  }
+}

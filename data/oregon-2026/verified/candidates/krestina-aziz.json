@@ -215,5 +215,227 @@
     "corrected": 1,
     "rejected": 0,
     "balance_notes": "Race gresham-council-pos-4: Schroeder 9, Aziz 10, Al-jaouni 10, Ramirez 8 items; all T1 pamphlet statements except one dated 2025 Portland Tribune quote for Ramirez. Comparable coverage. All incumbent=false, supported by meet-the-council (Position 4 held by Jerry Hinton). City elections page lists exactly these four. Website AzizforGresham.com printed in her statement."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "krestina-aziz-e1",
+      "endorser": "Stanescu",
+      "endorser_type": "person",
+      "statement": "Krestina Aziz's pamphlet statement lists Stanescu as an endorser.",
+      "excerpt": "Stanescu – Caregiver",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 43",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "krestina-aziz-e2",
+      "endorser": "Seager",
+      "endorser_type": "person",
+      "statement": "Krestina Aziz's pamphlet statement lists Seager as an endorser.",
+      "excerpt": "Seager – Retired Gresham Finance Director, Cascade Locks City",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 43",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "krestina-aziz-e3",
+      "endorser": "Jerry Hinton",
+      "endorser_type": "official",
+      "statement": "Krestina Aziz's pamphlet statement lists Jerry Hinton as an endorser.",
+      "excerpt": "Jerry Hinton, Gresham City Councilor",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 43",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "krestina-aziz-e4",
+      "endorser": "Mr. Hana",
+      "endorser_type": "person",
+      "statement": "Krestina Aziz's pamphlet statement lists Mr. Hana as an endorser.",
+      "excerpt": "Mr. Hana – Teacher",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 43",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "krestina-aziz-e5",
+      "endorser": "Aniefuna",
+      "endorser_type": "person",
+      "statement": "Krestina Aziz's pamphlet statement lists Aniefuna as an endorser.",
+      "excerpt": "Aniefuna – Pose Pro Studios",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 43",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "krestina-aziz-e6",
+      "endorser": "Alyajouri",
+      "endorser_type": "person",
+      "statement": "Krestina Aziz's pamphlet statement lists Alyajouri as an endorser.",
+      "excerpt": "Alyajouri – MHCC Board of Education",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 43",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "krestina-aziz-e7",
+      "endorser": "John Baskaron",
+      "endorser_type": "person",
+      "statement": "Krestina Aziz's pamphlet statement lists John Baskaron as an endorser.",
+      "excerpt": "John Baskaron – Arabic Christian Church Pastor",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 43",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "krestina-aziz-e8",
+      "endorser": "Busse",
+      "endorser_type": "person",
+      "statement": "Krestina Aziz's pamphlet statement lists Busse as an endorser.",
+      "excerpt": "Busse – Crash investigator, Retired Policeman",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 43",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "krestina-aziz-e9",
+      "endorser": "Brian Ettling",
+      "endorser_type": "person",
+      "statement": "Krestina Aziz's pamphlet statement lists Brian Ettling as an endorser.",
+      "excerpt": "Brian Ettling - Climate advocate",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 43",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "krestina-aziz-e10",
+      "endorser": "Carol Nielsen",
+      "endorser_type": "person",
+      "statement": "Krestina Aziz's pamphlet statement lists Carol Nielsen as an endorser.",
+      "excerpt": "Carol Nielsen",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 43",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "krestina-aziz-e11",
+      "endorser": "Claudia Ramirez Cisneros",
+      "endorser_type": "person",
+      "statement": "Krestina Aziz's pamphlet statement lists Claudia Ramirez Cisneros as an endorser.",
+      "excerpt": "Claudia Ramirez Cisneros – Hispanic Leader",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 43",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

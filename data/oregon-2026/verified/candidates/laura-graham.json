@@ -1,0 +1,111 @@
+{
+  "id": "laura-graham",
+  "name": "Laura Graham",
+  "race_id": "tualatin-swcd-zone-5",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://tualatinswcd.org/our-story/our-board/",
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "laura-graham-b1",
+      "topic": "custom:background",
+      "statement": "Graham's pamphlet statement says Graham has managed 40 acres of timber forest on family-owned land in Washington County for the past nine years.",
+      "excerpt": "For the past nine years, I have managed 40 acres of timber",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "laura-graham-b2",
+      "topic": "custom:background",
+      "statement": "Graham's pamphlet statement lists no prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: None",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against the script extract (pdftotext) of the official pamphlet; text appears in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "laura-graham-p1",
+      "topic": "environment",
+      "statement": "Graham's pamphlet statement names increasing wildfire risk, invasive species and water availability among changing conditions that affect forests and watersheds.",
+      "excerpt": "A changing climate, increasing wildfire risk, invasive species, water availability, and the health of our forests and watersheds require us to think",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended; statement reworded as 'changing conditions' to match the text; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "laura-graham-p2",
+      "topic": "agriculture",
+      "statement": "Graham's pamphlet statement says successful conservation depends on cooperation and that programs need to be practical and accessible.",
+      "excerpt": "successful conservation depends on cooperation. Programs need to be practical and accessible",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-45)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended to cover 'accessible'; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No campaign website found",
+    "No news coverage found"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 3,
+    "rejected": 0,
+    "balance_notes": "Two-candidate race: Graham 4 items, VanderZanden 5 items, both pamphlet only (T1); no websites or news found for either; similar effort and coverage. (items 1v/3c/0r; endorsements 0v/0c/0r) Incumbency/website checks: see report."
+  }
+}

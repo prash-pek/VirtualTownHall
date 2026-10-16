@@ -1,0 +1,385 @@
+{
+  "id": "matt-bunch",
+  "name": "Matt Bunch",
+  "race_id": "or-house-51",
+  "party": "Republican",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/bunch/Pages/default.aspx",
+  "occupation": "State Representative (appointed Nov 2025)",
+  "website_url": "https://www.mattbunch51.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf (p. 54)",
+  "bio": [
+    {
+      "id": "matt-bunch-b1",
+      "topic": "custom:background",
+      "statement": "His official page describes him as state representative for House District 51, representing Canby, Estacada and Sandy.",
+      "excerpt": "the State Representative for House District 51 representing the communities of Canby, Estacada, Sandy.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/bunch/Pages/default.aspx",
+        "publisher": "Oregon Legislature, Rep. Bunch member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-b2",
+      "topic": "custom:background",
+      "statement": "The Capital Chronicle voter guide describes Bunch as an insurance agent from Beavercreek appointed after Sen. Christine Drazan moved to the Senate.",
+      "excerpt": "Matt Bunch, an insurance agent from Beavercreek, was appointed last fall after Sen. Christine Drazan, R-Canby,",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-51/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-b3",
+      "topic": "custom:background",
+      "statement": "OPB reports Bunch described himself as a neighbor and grandfather, not a career politician.",
+      "excerpt": "I'm not a career politician",
+      "source": {
+        "url": "https://www.opb.org/article/2025/11/17/clackamas-county-house-matt-bunch-drazan/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2025-11-17",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-b4",
+      "topic": "custom:occupation",
+      "statement": "His pamphlet statement lists Bunch's occupation as State Representative and insurance broker, with a background in finance and management.",
+      "excerpt": "Occupation: State Representative, Insurance Broker Occupational Background: Finance, Management",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-b5",
+      "topic": "custom:education",
+      "statement": "His pamphlet statement lists Oregon State University as his educational background and the Clackamas County Fair Board, Soil & Water Conservation District and Farm Bureau as prior governmental experience.",
+      "excerpt": "Educational Background: Oregon State University Prior Governmental Experience: Clackamas County Fair Board Chair, Clackamas County Soil & Water Conservation District, Clackamas County Farm Bureau President",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "matt-bunch-p1",
+      "topic": "education",
+      "statement": "At his appointment, OPB reports Bunch said schools should remove politics from learning to focus on core academic skills.",
+      "excerpt": "remove politics from learning",
+      "source": {
+        "url": "https://www.opb.org/article/2025/11/17/clackamas-county-house-matt-bunch-drazan/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2025-11-17",
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-p2",
+      "topic": "public-safety",
+      "statement": "Bunch's pamphlet statement says he supports fully funding law enforcement, strengthening accountability and ensuring communities have tools to protect residents.",
+      "excerpt": "I support fully funding law enforcement, strengthening accountability, and ensuring our communities have the tools they need to protect residents.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-p3",
+      "topic": "taxes",
+      "statement": "Bunch's pamphlet statement says he is fighting to protect tax relief for working Oregonians, including eliminating state taxes on tips and overtime.",
+      "excerpt": "I’m fighting to protect tax relief for working Oregonians, including eliminating state taxes on tips and overtime so people can keep more of what they earn.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-p4",
+      "topic": "agriculture",
+      "statement": "Bunch's pamphlet statement says he will keep working to reduce unnecessary regulations and support policies that help local employers grow and hire.",
+      "excerpt": "I will continue working to reduce unnecessary regulations and support policies that help local employers grow and hire.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Capital Chronicle 2026 questionnaire: no response",
+    "Public safety, rural transit and recovery-campus priorities in OPB were not quotable verbatim and are omitted",
+    "No voting or sponsorship items collected",
+    "Campaign site /issues page could not be fetched (robots.txt); home page lists no specific positions"
+  ],
+  "collection_notes": "Incumbent per oregonlegislature.gov member page (appointed; Clackamas County release also in search). Occupation discrepancy: CapChron says insurance agent; OPB says Oregon City school bus driver; legislature page lists past insurance roles and bus driving and Clackamas County Fair Board chair. Occupation field left descriptive. Matches inventory. Pamphlet website printed as www.mattbunch51.com. Bio cap (5): education and prior governmental experience combined into one item.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract matt-bunch.txt (Clackamas edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf)",
+      "result": "used (statement found, p. 54)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/bunch/Pages/default.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Matt Bunch\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia, OPB, CapChron",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: KATU/KGW appointment items not read",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: Tribune 2026 GOP primary roundup not read",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-republican-primary-oregon-house-district-51/",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://www.mattbunch51.com (printed in pamphlet statement; home page fetched, general statements only; /issues page blocked by robots.txt)",
+      "result": "nothing relevant"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "matt-bunch-e1",
+      "endorser": "Christine Drazan, State Senator",
+      "endorser_type": "official",
+      "statement": "Matt Bunch's pamphlet statement lists Christine Drazan, State Senator as an endorser.",
+      "excerpt": "Christine Drazan, State Senator",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e2",
+      "endorser": "Jeff Helfrich, State Representative",
+      "endorser_type": "official",
+      "statement": "Matt Bunch's pamphlet statement lists Jeff Helfrich, State Representative as an endorser.",
+      "excerpt": "Jeff Helfrich, State Representative",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e3",
+      "endorser": "Ben West, Clackamas County Commissioner",
+      "endorser_type": "official",
+      "statement": "Matt Bunch's pamphlet statement lists Ben West, Clackamas County Commissioner as an endorser.",
+      "excerpt": "Ben West, Clackamas County Commissioner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e4",
+      "endorser": "Mayor Sean Drinkwine-City of Estacada",
+      "endorser_type": "official",
+      "statement": "Matt Bunch's pamphlet statement lists Mayor Sean Drinkwine-City of Estacada as an endorser.",
+      "excerpt": "Mayor Sean Drinkwine-City of Estacada",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e5",
+      "endorser": "Associated Oregon Loggers, Inc.",
+      "endorser_type": "organization",
+      "statement": "Matt Bunch's pamphlet statement lists Associated Oregon Loggers, Inc. as an endorser.",
+      "excerpt": "Associated Oregon Loggers, Inc.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e6",
+      "endorser": "Oregon State Firefighters Council",
+      "endorser_type": "organization",
+      "statement": "Matt Bunch's pamphlet statement lists Oregon State Firefighters Council as an endorser.",
+      "excerpt": "Oregon State Firefighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e7",
+      "endorser": "Professional Firefighters of Clackamas County - IAFF Local 1159",
+      "endorser_type": "organization",
+      "statement": "Matt Bunch's pamphlet statement lists Professional Firefighters of Clackamas County - IAFF Local 1159 as an endorser.",
+      "excerpt": "Professional Firefighters of Clackamas County - IAFF Local 1159",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e8",
+      "endorser": "Oregon Farm Bureau",
+      "endorser_type": "organization",
+      "statement": "Matt Bunch's pamphlet statement lists Oregon Farm Bureau as an endorser.",
+      "excerpt": "Oregon Farm Bureau",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e9",
+      "endorser": "Oregon Coalition of Police And Sheriffs (ORCOPS)",
+      "endorser_type": "organization",
+      "statement": "Matt Bunch's pamphlet statement lists Oregon Coalition of Police And Sheriffs (ORCOPS) as an endorser.",
+      "excerpt": "Oregon Coalition of Police And Sheriffs (ORCOPS)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e10",
+      "endorser": "North Coast State Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Matt Bunch's pamphlet statement lists North Coast State Carpenters Union as an endorser.",
+      "excerpt": "North Coast State Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e11",
+      "endorser": "Multi-Family Northwest",
+      "endorser_type": "organization",
+      "statement": "Matt Bunch's pamphlet statement lists Multi-Family Northwest as an endorser.",
+      "excerpt": "Multi-Family Northwest",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e12",
+      "endorser": "Oregon's Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Matt Bunch's pamphlet statement lists Oregon's Sheriffs as an endorser.",
+      "excerpt": "Oregon's Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e13",
+      "endorser": "Oregon Chiefs of Police Association",
+      "endorser_type": "organization",
+      "statement": "Matt Bunch's pamphlet statement lists Oregon Chiefs of Police Association as an endorser.",
+      "excerpt": "Oregon Chiefs of Police Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "matt-bunch-e14",
+      "endorser": "NFIB/OR PAC",
+      "endorser_type": "organization",
+      "statement": "Matt Bunch's pamphlet statement lists NFIB/OR PAC as an endorser.",
+      "excerpt": "NFIB/OR PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 54",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ]
+}

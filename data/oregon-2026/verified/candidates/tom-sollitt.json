@@ -121,5 +121,107 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Race portland-council-d3 (21 candidates). Every candidate was searched in the same shared sources: the Mercury (2026-09-09), OPB (2026-10-07), the Tribune Q&A (2026-10-13), the Multnomah pamphlet and the 2026 AUD-120 forms. The pamphlet index lists a statement for this candidate, but the collector could not read it. The pamphlet PDF text is 104,260 characters and ends before the Portland section (M-53 to M-60), and the individual statement scan is not linked from the MOO guide page and could not be re-fetched. This is a source-access gap, confirmed. The form is readable and its website (tomforpdx.com) is confirmed. Missed material: a BikePortland interview dated 2026-02-20 ('Meet District 3 City Council Candidate Tom Sollitt'). The 'did not respond to Tribune' gap is confirmed. Incumbent=false confirmed."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "tom-sollitt-e1",
+      "endorser": "Miles Palacios",
+      "endorser_type": "official",
+      "statement": "Tom Sollitt's pamphlet statement lists Miles Palacios as an endorser.",
+      "excerpt": "Metro Councilor Miles Palacios",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tom-sollitt-e2",
+      "endorser": "Akasha Lawrence Spence",
+      "endorser_type": "official",
+      "statement": "Tom Sollitt's pamphlet statement lists Akasha Lawrence Spence as an endorser.",
+      "excerpt": "Former State Senator Akasha Lawrence Spence",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tom-sollitt-e3",
+      "endorser": "Montserrat Andreys",
+      "endorser_type": "person",
+      "statement": "Tom Sollitt's pamphlet statement lists Montserrat Andreys as an endorser.",
+      "excerpt": "Hey Doc Clinic Founder Dr. Montserrat Andreys",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tom-sollitt-e4",
+      "endorser": "Jonas Angelet",
+      "endorser_type": "person",
+      "statement": "Tom Sollitt's pamphlet statement lists Jonas Angelet as an endorser.",
+      "excerpt": "A Beat Happening Founder Jonas Angelet",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tom-sollitt-e5",
+      "endorser": "George Fochive",
+      "endorser_type": "person",
+      "statement": "Tom Sollitt's pamphlet statement lists George Fochive as an endorser.",
+      "excerpt": "L’Atelier Yaffe Owner George Fochive",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 53",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

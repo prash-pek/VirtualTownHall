@@ -175,5 +175,507 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Race beaverton-council-pos-1. Kocher has 4 bio and 6 positions (5 T1, 1 T3). Philip has 3 bio and 5 positions (4 T1, 1 T3). Coverage is balanced, and both campaign sites blocked fetches (documented). The spot-search found no further T1/T2/T3 material, only excluded aggregators. Position 1 is held by 'Ashley' (beavertonoregon.gov/832), so both incumbent=false is supported. File-level: name matches pamphlet/official listing. Incumbent false confirmed: Position 1 page names the holder as 'Ashley' (joined fall 2021). Website https://rachelforbeaverton.com confirmed as printed in the 2026 county pamphlet."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "rachel-philip-e1",
+      "endorser": "Tobias Read",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists Tobias Read as an endorser.",
+      "excerpt": "Secretary of State Tobias Read",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e2",
+      "endorser": "Christina Stephenson",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists Christina Stephenson as an endorser.",
+      "excerpt": "BOLI Commissioner Christina Stephenson",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e3",
+      "endorser": "Lacey Beaty",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists Lacey Beaty as an endorser.",
+      "excerpt": "Mayor Lacey Beaty",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e4",
+      "endorser": "Councilor Hartmeier-Prigg",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists Councilor Hartmeier-Prigg as an endorser.",
+      "excerpt": "Councilors Hartmeier-Prigg, Teater, Tivnon, Dugger",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e5",
+      "endorser": "State Senator Lieber",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists State Senator Lieber as an endorser.",
+      "excerpt": "State Senators Lieber, Reynolds",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e6",
+      "endorser": "State Senator Reynolds",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists State Senator Reynolds as an endorser.",
+      "excerpt": "State Senators Lieber, Reynolds",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e7",
+      "endorser": "State Representative Bowman",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists State Representative Bowman as an endorser.",
+      "excerpt": "State Representatives Bowman, Helm, Pham, Walters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e8",
+      "endorser": "State Representative Helm",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists State Representative Helm as an endorser.",
+      "excerpt": "State Representatives Bowman, Helm, Pham, Walters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e9",
+      "endorser": "State Representative Pham",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists State Representative Pham as an endorser.",
+      "excerpt": "State Representatives Bowman, Helm, Pham, Walters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e10",
+      "endorser": "State Representative Walters",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists State Representative Walters as an endorser.",
+      "excerpt": "State Representatives Bowman, Helm, Pham, Walters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e11",
+      "endorser": "County Commissioner Harrington",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists County Commissioner Harrington as an endorser.",
+      "excerpt": "County Commissioners Harrington, Treece, Snider",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e12",
+      "endorser": "County Commissioner Treece",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists County Commissioner Treece as an endorser.",
+      "excerpt": "County Commissioners Harrington, Treece, Snider",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e13",
+      "endorser": "County Commissioner Snider",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists County Commissioner Snider as an endorser.",
+      "excerpt": "County Commissioners Harrington, Treece, Snider",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e14",
+      "endorser": "Metro Councilor Lewis",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists Metro Councilor Lewis as an endorser.",
+      "excerpt": "Metro Councilors Lewis, Palacios",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e15",
+      "endorser": "Metro Councilor Palacios",
+      "endorser_type": "official",
+      "statement": "Rachel Philip's pamphlet statement lists Metro Councilor Palacios as an endorser.",
+      "excerpt": "Metro Councilors Lewis, Palacios",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e16",
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization",
+      "statement": "Rachel Philip's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Washington County Democrats",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e17",
+      "endorser": "Democratic Municipal Officials",
+      "endorser_type": "organization",
+      "statement": "Rachel Philip's pamphlet statement lists Democratic Municipal Officials as an endorser.",
+      "excerpt": "Democratic Municipal Officials",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e18",
+      "endorser": "Independent Party of Oregon",
+      "endorser_type": "organization",
+      "statement": "Rachel Philip's pamphlet statement lists Independent Party of Oregon as an endorser.",
+      "excerpt": "Independent Party of Oregon",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e19",
+      "endorser": "Oregon Futures Lab & Color PAC",
+      "endorser_type": "organization",
+      "statement": "Rachel Philip's pamphlet statement lists Oregon Futures Lab & Color PAC as an endorser.",
+      "excerpt": "Oregon Futures Lab & Color PAC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e20",
+      "endorser": "Run For Something",
+      "endorser_type": "organization",
+      "statement": "Rachel Philip's pamphlet statement lists Run For Something as an endorser.",
+      "excerpt": "Run For Something",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e21",
+      "endorser": "314 Action Fund",
+      "endorser_type": "organization",
+      "statement": "Rachel Philip's pamphlet statement lists 314 Action Fund as an endorser.",
+      "excerpt": "314 Action Fund",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e22",
+      "endorser": "Tualatin Valley Firefighters IAFF Local 1660",
+      "endorser_type": "organization",
+      "statement": "Rachel Philip's pamphlet statement lists Tualatin Valley Firefighters IAFF Local 1660 as an endorser.",
+      "excerpt": "Tualatin Valley Firefighters IAFF Local 1660",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e23",
+      "endorser": "Northwest Oregon Labor Council",
+      "endorser_type": "organization",
+      "statement": "Rachel Philip's pamphlet statement lists Northwest Oregon Labor Council as an endorser.",
+      "excerpt": "Northwest Oregon Labor Council",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e24",
+      "endorser": "UFCW555",
+      "endorser_type": "organization",
+      "statement": "Rachel Philip's pamphlet statement lists UFCW555 as an endorser.",
+      "excerpt": "UFCW555",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rachel-philip-e25",
+      "endorser": "Beaverton Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Rachel Philip's pamphlet statement lists Beaverton Chamber of Commerce as an endorser.",
+      "excerpt": "Beaverton Chamber of Commerce",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

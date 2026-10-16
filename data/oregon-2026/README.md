@@ -65,6 +65,7 @@ IDs are lowercase kebab-case slugs: candidates `firstname-lastname` (append `-2`
   "no_means": "...",
   "fiscal_impact": "...",
   "full_text_url": "...",
+  "endorsements": [ { "id": "...", "endorser": "...", "endorser_type": "outlet|organization|official|person", "side": "yes|no", "statement": "...", "excerpt": "...", "source": { ... } } ],
   "arguments": [ { "side": "yes|no", "kind": "argument|rebuttal|explainer", "author": "...", "statement": "...", "excerpt": "...", "source": { ... } } ],
   "topics": [ "taxes" ],
   "gaps": [],
@@ -102,3 +103,5 @@ Fields added by the collector/verifier pipeline (`pipeline/`), all optional for 
 - `reports/inventory_fixes.json`: proposed inventory corrections with evidence; `pipeline/apply_fixes.py` applies the confirmed ones and verified incumbency.
 
 Run `python3 pipeline/validate.py status` for coverage, `validate.py raw|verified <files>` for checks.
+
+- `endorsements` (optional, candidates and measures; `side` on measures only): endorsers named in a source already read, such as a pamphlet statement or argument sponsor line. They are shown in a collapsed "Endorsed by" list and never scored or used as evidence of a position.

@@ -1,0 +1,138 @@
+{
+ "id": "maria-antonieta-reyes",
+ "name": "Maria Antonieta Reyes",
+ "name_variants": [
+  "Maria Reyes",
+  "María A. Reyes"
+ ],
+ "race_id": "tualatin-council-pos-1",
+ "party": null,
+ "incumbent": true,
+ "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information",
+ "occupation": "Director of Philanthropy",
+ "website_url": null,
+ "website_verified_via": null,
+ "bio": [
+  {
+   "id": "maria-antonieta-reyes-b1",
+   "topic": "custom:background",
+   "statement": "In her pamphlet statement, Reyes says she has served as Tualatin City Councilor for two terms since 2019 and is seeking a third.",
+   "excerpt": "serving two terms since 2019.",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "maria-antonieta-reyes-p1",
+   "topic": "housing",
+   "statement": "In her pamphlet statement, Reyes says she will continue pursuing practical housing solutions that serve residents at every stage of life.",
+   "excerpt": "I will continue pursuing practical housing solutions that serve",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "maria-antonieta-reyes-p2",
+   "topic": "economy",
+   "statement": "In her pamphlet statement, Reyes says she will focus on revitalizing the City Center over the next four years.",
+   "excerpt": "years, I will focus on revitalizing our City Center, completing",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "maria-antonieta-reyes-p3",
+   "topic": "infrastructure",
+   "statement": "In an October 2026 Tualatin Life column, Reyes says she would focus on implementing the Transportation Plan, public safety and local business support.",
+   "excerpt": "implementing our Transportation Plan, strengthening public safety, and supporting local businesses and economic development",
+   "source": {
+    "url": "https://tualatinlife.com/local-news/maria-antonieta-reyes-candidate-for-tualatin-city-council/",
+    "publisher": "Tualatin Life (guest column by Reyes)",
+    "tier": "T3",
+    "published_at": "2026-10-07",
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "maria-antonieta-reyes-p4",
+   "topic": "housing",
+   "statement": "In an October 2026 Tualatin Life column, Reyes says she supports practical, attainable housing solutions while preserving neighborhood character.",
+   "excerpt": "practical, attainable housing solutions while preserving the character and livability of our neighborhoods",
+   "source": {
+    "url": "https://tualatinlife.com/local-news/maria-antonieta-reyes-candidate-for-tualatin-city-council/",
+    "publisher": "Tualatin Life (guest column by Reyes)",
+    "tier": "T3",
+    "published_at": "2026-10-07",
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "No campaign website found",
+  "No endorsements listed in her pamphlet statement"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (extract washington-county/maria-antonieta-reyes.txt, p.41)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.tualatinoregon.gov/citycouncil/elections-information",
+   "result": "used (Position 1 incumbent)"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.tualatinoregon.gov/citycouncil/meet-your-council",
+   "result": "used"
+  },
+  {
+   "step": "3",
+   "query_or_url": "no campaign domain linked",
+   "result": "not found"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Maria Antonieta Reyes\" Tualatin city council 2026",
+   "result": "used (tualatinlife column)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (a) opb/oregoncapitalchronicle/wweek/ballotpedia: Maria Antonieta Reyes",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (b) kgw/koin/kptv/katu: Maria Antonieta Reyes",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (c) portlandmercury/vote411/pamplinmedia/portlandtribune: Maria Antonieta Reyes",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "6",
+   "query_or_url": "https://tualatinlife.com/local-news/maria-antonieta-reyes-candidate-for-tualatin-city-council/",
+   "result": "used"
+  }
+ ],
+ "collection_notes": "Unopposed. Ballot spelling per inventory; city roster lists 'Maria Reyes'. Discrepancy: pamphlet says serving since 2019 (two terms); roster says first elected Nov 2018, re-elected Nov 2022. Pamphlet statement quoted as written. Matches inventory."
+}

@@ -1,0 +1,145 @@
+{
+  "id": "william-martin",
+  "name": "William E Martin",
+  "name_variants": [
+    "William Martin",
+    "Bill Martin"
+  ],
+  "race_id": "gaston-mayor",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/gaston.aspx",
+  "occupation": "Retired",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "william-martin-b1",
+      "topic": "custom:bio",
+      "statement": "The Oregon Blue Book lists Bill Martin as mayor of Gaston.",
+      "excerpt": "Bill Martin",
+      "source": {
+        "url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/gaston.aspx",
+        "publisher": "Oregon Secretary of State (Oregon Blue Book: Gaston)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched; \"Bill Martin\" appears on the Oregon Blue Book Gaston page as Mayor. Pamphlet (WC-14) independently confirms William Martin is the sitting mayor seeking re-election, so same person; name variant added.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "william-martin-b2",
+      "topic": "custom:bio",
+      "statement": "Martin's pamphlet statement lists his occupational background as truck driver.",
+      "excerpt": "Truck driver",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "william-martin-b3",
+      "topic": "custom:bio",
+      "statement": "Martin's pamphlet statement says he has been on the city council since 2017.",
+      "excerpt": "I have been on city council since 2017.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "william-martin-b4",
+      "topic": "custom:bio",
+      "statement": "Martin's pamphlet statement says he volunteers 20-30 hours a week for the city.",
+      "excerpt": "I volunteer 20-30 hours a week for the city.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "william-martin-p1",
+      "topic": "public-safety",
+      "statement": "In his voters' pamphlet statement, Martin says he will continue supporting responsible growth and investing in public safety and infrastructure.",
+      "excerpt": "continue supporting responsible growth, investing in public safety and infrastructure,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "william-martin-p2",
+      "topic": "custom:parks-recreation",
+      "statement": "Martin's pamphlet statement says he helps mow the park and runs the work crew.",
+      "excerpt": "I help mow the park and run the work crew when they come out.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No press coverage found",
+    "Pamphlet statement offers few specific policy positions"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Only Gaston candidate with a pamphlet statement (WC-14). Pamphlet prints \"William Martin\" (and \"Wiliam\" in its furnished-by line); the inventory name \"William E Martin\" could not be checked against the certified list because that PDF has no machine-readable text. The Blue Book calls him Bill Martin."
+  }
+}

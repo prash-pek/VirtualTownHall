@@ -179,5 +179,217 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Hillsboro's June 2026 candidate packet (T1) lists the seats up as Ward 1 Position A (Cristian Salgado), Ward 2 Position A (Kipperlyn Sinclair) and Ward 3 Position A (Olivia Alcaire). A June 23, 2026 city news release instead labels the Ward 2 and Ward 3 seats 'Position B'; the county certification and packet say Position A, so this is a city-side labeling inconsistency. Hillsboro news pages for Salgado's appointment returned client errors. Step 5 searches turned up older (2022 or earlier) Pamplin coverage only, not used. OPB (Sept. 2026) quotes him, but the quotes were about civic frustration rather than a position, so no OPB item. Seat holder per packet is Kipperlyn Sinclair, so incumbent=false."
+  "collection_notes": "Hillsboro's June 2026 candidate packet (T1) lists the seats up as Ward 1 Position A (Cristian Salgado), Ward 2 Position A (Kipperlyn Sinclair) and Ward 3 Position A (Olivia Alcaire). A June 23, 2026 city news release instead labels the Ward 2 and Ward 3 seats 'Position B'; the county certification and packet say Position A, so this is a city-side labeling inconsistency. Hillsboro news pages for Salgado's appointment returned client errors. Step 5 searches turned up older (2022 or earlier) Pamplin coverage only, not used. OPB (Sept. 2026) quotes him, but the quotes were about civic frustration rather than a position, so no OPB item. Seat holder per packet is Kipperlyn Sinclair, so incumbent=false.",
+  "endorsements": [
+    {
+      "id": "karim-delgado-e1",
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Washington County Democrats",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e2",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e3",
+      "endorser": "Latino Network Action Fund",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists Latino Network Action Fund as an endorser.",
+      "excerpt": "Latino Network Action Fund",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e4",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e5",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e6",
+      "endorser": "Friends of Smart Growth",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists Friends of Smart Growth as an endorser.",
+      "excerpt": "Friends of Smart Growth",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e7",
+      "endorser": "Next Up Action Fund",
+      "endorser_type": "organization",
+      "statement": "Karim Delgado's pamphlet statement lists Next Up Action Fund as an endorser.",
+      "excerpt": "Next Up Action Fund",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e8",
+      "endorser": "Kipperlyn Sinclair",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Kipperlyn Sinclair as an endorser.",
+      "excerpt": "Kipperlyn Sinclair, Hillsboro City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e9",
+      "endorser": "Olivia Alcaire",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Olivia Alcaire as an endorser.",
+      "excerpt": "Olivia Alcaire, Hillsboro City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e10",
+      "endorser": "Juan Carlos González",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Juan Carlos González as an endorser.",
+      "excerpt": "Juan Carlos González, Metro Council President",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e11",
+      "endorser": "Nafisa Fai",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Nafisa Fai as an endorser.",
+      "excerpt": "Nafisa Fai, Washington County Commissioner",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e12",
+      "endorser": "Farrah Chaichi",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Farrah Chaichi as an endorser.",
+      "excerpt": "Farrah Chaichi, State Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e13",
+      "endorser": "Lesly Muñoz",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Lesly Muñoz as an endorser.",
+      "excerpt": "Lesly Muñoz, State Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e14",
+      "endorser": "Susan McLain",
+      "endorser_type": "official",
+      "statement": "Karim Delgado's pamphlet statement lists Susan McLain as an endorser.",
+      "excerpt": "Susan McLain, State Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "karim-delgado-e15",
+      "endorser": "Myrna Muñoz",
+      "endorser_type": "person",
+      "statement": "Karim Delgado's pamphlet statement lists Myrna Muñoz as an endorser.",
+      "excerpt": "Myrna Muñoz, State Senate Nominee",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

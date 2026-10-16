@@ -1,0 +1,306 @@
+{
+  "id": "neil-tunmore",
+  "name": "Neil Tunmore",
+  "name_variants": [
+    "Niel Tunmore"
+  ],
+  "race_id": "lake-oswego-council",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.ci.oswego.or.us/citycouncil/mayor-and-council",
+  "occupation": "Retired Business Executive",
+  "website_url": "https://tunmoreforlo.com",
+  "website_verified_via": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "neil-tunmore-b1",
+      "topic": "custom:bio",
+      "statement": "Tunmore's pamphlet statement lists 37 years at Intel in finance, human resources, facility management and construction.",
+      "excerpt": "37 years Intel, Finance, Human Resources, Facility Management, Construction departments",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "neil-tunmore-p1",
+      "topic": "taxes",
+      "statement": "In his voters' pamphlet statement, Tunmore says tax dollars spent should always add value to the city.",
+      "excerpt": "Tax dollars spent should always add value to our city",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "neil-tunmore-p2",
+      "topic": "custom:governance",
+      "statement": "Tunmore's pamphlet statement says decisions should be based on facts, not politics.",
+      "excerpt": "Decisions should be based on facts not politics",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "neil-tunmore-p3",
+      "topic": "public-safety",
+      "statement": "Tunmore's pamphlet statement prioritizes neighborhood safety and identifying pathways around schools.",
+      "excerpt": "Prioritize safety & security of our neighborhoods. Identify pathways around schools.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "neil-tunmore-p4",
+      "topic": "custom:local-control",
+      "statement": "Tunmore's pamphlet statement includes the line \"Salem oversteps.\"",
+      "excerpt": "Salem oversteps.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Reworded: original paraphrase interpreted the line as a claim about state government; now attributes the quoted line without added interpretation.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "neil-tunmore-p5",
+      "topic": "taxes",
+      "statement": "Tunmore's campaign site says spending decisions should serve the city's long-term interests and prepare it for future generations.",
+      "excerpt": "Spending decisions should serve the long-term interests of our city and wisely prepare it for future generations.",
+      "source": {
+        "url": "https://tunmoreforlo.com",
+        "publisher": "Neil Tunmore campaign",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Campaign site re-fetched 2026-10-15; excerpt present verbatim; site belongs to this candidate (domain printed in the pamphlet statement).",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No T3 press coverage found"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Lake Oswego (6 candidates): items Guiney 8, Walsh 7, Tunmore 6, Ramsey 6, Tiemann 6, Miles 6. All six filed pamphlet statements; Guiney, Walsh, Tunmore also have a T2 item from their sites. Ramsey site only repeats her pamphlet text; Tiemann site blocked by robots; Miles lists no site. Disparity is source access, not effort. No T3 press found for anyone."
+  },
+  "endorsements": [
+    {
+      "id": "neil-tunmore-e1",
+      "endorser": "Jackie Manz",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists Jackie Manz as an endorser.",
+      "excerpt": "Jackie Manz, Current LO City Councilor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e2",
+      "endorser": "Lake Oswego Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Neil Tunmore's pamphlet statement lists Lake Oswego Chamber of Commerce as an endorser.",
+      "excerpt": "Lake Oswego Chamber of Commerce",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e3",
+      "endorser": "John Wendland",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists John Wendland as an endorser.",
+      "excerpt": "John Wendland Ali Afghan Jackie Manz Current City Councilors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e4",
+      "endorser": "Ali Afghan",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists Ali Afghan as an endorser.",
+      "excerpt": "John Wendland Ali Afghan Jackie Manz Current City Councilors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e5",
+      "endorser": "Skip O’Neill",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists Skip O’Neill as an endorser.",
+      "excerpt": "Skip O’Neill Jeff Gudman Aaron Rapf Former City Councilors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e6",
+      "endorser": "Jeff Gudman",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists Jeff Gudman as an endorser.",
+      "excerpt": "Skip O’Neill Jeff Gudman Aaron Rapf Former City Councilors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e7",
+      "endorser": "Aaron Rapf",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists Aaron Rapf as an endorser.",
+      "excerpt": "Skip O’Neill Jeff Gudman Aaron Rapf Former City Councilors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e8",
+      "endorser": "Liz Hartman",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists Liz Hartman as an endorser.",
+      "excerpt": "Liz Hartman Former LO School Board Chair",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
+}

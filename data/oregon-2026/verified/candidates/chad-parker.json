@@ -1,0 +1,218 @@
+{
+  "id": "chad-parker",
+  "name": "Chad Parker",
+  "race_id": "or-house-37",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/walters/Pages/biography.aspx",
+  "occupation": null,
+  "website_url": "http://www.voteforchadparker.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+  "bio": [
+    {
+      "id": "chad-parker-b1",
+      "topic": "custom:background",
+      "statement": "In the voters' pamphlet statement, Parker lists their occupation as small business owner, with a background as president of Haloumi Creative and Always Outdoors and a producer for Nickelodeon Television.",
+      "excerpt": "Occupation: Small Business Owner Occupational Background: President, Haloumi Creative & Always Outdoors; Producer, Nickelodeon Television",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book14 extract p.48: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chad-parker-b2",
+      "topic": "custom:background",
+      "statement": "Parker lists the University of Oregon School of Journalism.",
+      "excerpt": "Educational Background: University of Oregon, School of Journalism",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book14 extract p.48: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chad-parker-b3",
+      "topic": "custom:background",
+      "statement": "Parker lists the Clackamas County Roads Advisory Board, the Clackamas County Parks Advisory Board and River Grove PTO.",
+      "excerpt": "Prior Governmental Experience: Clackamas County Roads Advisory Board; Clackamas County Parks Advisory Board; River Grove PTO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book14 extract p.48: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "chad-parker-p1",
+      "topic": "education",
+      "statement": "Parker says they will raise reading proficiency and clear barriers so small businesses can grow.",
+      "excerpt": "Focus on Home: Raise reading proficiency so every child has a real shot, and clear barriers so small businesses can grow.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book14 extract p.48: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chad-parker-p2",
+      "topic": "taxes",
+      "statement": "Parker says they will deliver tax relief for working families and fund roads without new tax increases.",
+      "excerpt": "Put Optimism into Action: Deliver real tax relief for working families, fund reliable roads without new tax increases",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book14 extract p.48: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chad-parker-p3",
+      "topic": "public-safety",
+      "statement": "Parker says they will build trust across the political spectrum, cut the impact of inflation and strengthen public safety.",
+      "excerpt": "Reject Division: Build trust across the political spectrum to cut inflations bite, strengthen public safety",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book14 extract p.48: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chad-parker-p4",
+      "topic": "education",
+      "statement": "Parker's campaign website lists making Oregon the best place to get an education.",
+      "excerpt": "Making Oregon THE Best Place to Get an Education",
+      "source": {
+        "url": "http://www.voteforchadparker.com",
+        "publisher": "Chad Parker campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chad-parker-p5",
+      "topic": "economy",
+      "statement": "Parker's campaign website lists making Oregon the best place to work and grow a business.",
+      "excerpt": "Making Oregon THE Best Place to Work and Grow a Business",
+      "source": {
+        "url": "http://www.voteforchadparker.com",
+        "publisher": "Chad Parker campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chad-parker-p6",
+      "topic": "transportation",
+      "statement": "Parker's campaign website lists safe, efficient roads and transportation for House District 37.",
+      "excerpt": "Making Oregon House District 37 THE Best Place for Safe, Efficient Roads and Transportation",
+      "source": {
+        "url": "http://www.voteforchadparker.com",
+        "publisher": "Chad Parker campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chad-parker-p7",
+      "topic": "taxes",
+      "statement": "Parker's campaign website cites the Corporate Activity Tax on growing small businesses and overlapping regulations as hindering growth.",
+      "excerpt": "Corporate Activity Tax (CAT) on growing small businesses, overlapping regulations that hinder growth",
+      "source": {
+        "url": "http://www.voteforchadparker.com",
+        "publisher": "Chad Parker campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No 2026 press or T3 coverage of Parker found beyond the pamphlet and campaign site",
+    "His pamphlet statement lists no endorsers (refers readers to his website)",
+    "Not an officeholder: no voting record"
+  ],
+  "verification_summary": {
+    "verified": 10,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "HD37: Parker 10 content items (3 bio, 7 positions) and 0 endorsements vs Walters 11 items (5 bio, 5 positions, 1 sponsorship) + 13 endorsements. Parker's pamphlet names no endorsers; both candidates have official pamphlet and campaign site coverage; Walters additionally has legislature, Ballotpedia and 2025 press items as a sitting legislator. Spot search found no missed T1/T2 material. Stale gaps (\"no bio/positions/website\") corrected."
+  },
+  "endorsements": []
+}

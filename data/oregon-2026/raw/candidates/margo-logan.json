@@ -1,0 +1,99 @@
+{
+  "id": "margo-logan",
+  "name": "Margo Logan",
+  "race_id": "or-house-44",
+  "party": "Republican",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Analyst/expert witness (per Ballotpedia)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "margo-logan-b1",
+      "topic": "custom:background",
+      "statement": "Ballotpedia lists Logan as an analyst and expert witness with a bachelor's degree from Central Washington State University in 1976.",
+      "excerpt": "Logan earned a bachelor's degree from Central Washington State University in 1976",
+      "source": {
+        "url": "https://ballotpedia.org/Margo_Logan",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "margo-logan-p1",
+      "topic": "education",
+      "statement": "In a 2021 Ballotpedia survey (school board race), Logan said it is time to return to school choice with both public and private options.",
+      "excerpt": "Time to return to school choice both public and private options.",
+      "source": {
+        "url": "https://ballotpedia.org/Margo_Logan",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "margo-logan-p2",
+      "topic": "custom:public-health",
+      "statement": "In the same 2021 survey, Logan said masking children is child abuse.",
+      "excerpt": "Masking up children is child abuse.",
+      "source": {
+        "url": "https://ballotpedia.org/Margo_Logan",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "All issue statements are from a 2021 survey for a different office; no 2026 statements found",
+    "Ballotpedia: no Candidate Connection survey for 2020 House run",
+    "No voters' pamphlet statement filed (asterisk on the SOS pamphlet list of candidates, p. 26)"
+  ],
+  "collection_notes": "Statements are from Ballotpedia's 2021 Candidate Connection survey (school board race). Other 2021 answers exist on the page and were not itemized (cap on topic spread). Not incumbent per inventory; null. No campaign domain confirmed. Step 1 complete: no statement in Multnomah, Washington or Clackamas SOS extracts.",
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "SOS state voters pamphlet extract margo-logan.txt (Multnomah edition, source_url https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf)",
+      "result": "not found (no statement filed: candidate is marked with an asterisk in the Multnomah edition list of candidates, p. 26; no other page names the candidate)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "not applicable (no public office held; none found)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "no campaign domain confirmed (unconfirmed per protocol step 3)",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Margo Logan\" 2026 (WebSearch)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5a opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org: Ballotpedia",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5b kgw.com, koin.com, kptv.com, katu.com: unrelated",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "5c portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com: older Pamplin school board items; vote411 2021 page not read",
+      "result": "nothing relevant"
+    }
+  ],
+  "endorsements": []
+}

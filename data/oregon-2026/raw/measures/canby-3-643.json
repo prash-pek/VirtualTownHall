@@ -29,10 +29,10 @@
     {
       "id": "canby-3-643-y2",
       "side": "yes",
-      "kind": "explainer",
+      "kind": "argument",
       "author": "City of Canby (measure information page)",
       "topic": "infrastructure",
-      "statement": "The City's information page says the change would let Canby Utility borrow to build a new water treatment plant and other water improvements without the City's participation.",
+      "statement": "The City of Canby's information page says the change would let Canby Utility borrow to build a new water treatment plant and other water improvements without the City's participation.",
       "excerpt": "to fund the construction of the new water treatment plant and other water system infrastructure improvements without the City's assistance or participation.",
       "source": {
         "url": "https://www.canbyoregon.gov/node/32228",
@@ -48,10 +48,10 @@
     "custom:local-government"
   ],
   "gaps": [
-    "No NO argument found: no opposition statements in T1/T3 sources (pamphlet arguments unreadable; Woodburn Independent coverage quotes no one).",
-    "YES side represented only by City staff report and City explainer; no campaign or pamphlet argument found."
+    "No argument in favor or in opposition was filed in the county voters' pamphlet (the pamphlet prints 'NO ARGUMENTS IN FAVOR/OPPOSITION TO THIS MEASURE WERE FILED'). The yes-side items are the City's own materials (staff report and information page), not pamphlet arguments.",
+    "The county explanatory statement gives no dollar estimate; fiscal_impact rests on the July 15, 2026 council staff report."
   ],
-  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. County voters' pamphlet (https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513) lists this measure in its index, but WebFetch text extraction ends at page C-33 (~117k chars), before the measure section, so the pamphlet's explanatory statement and any filed arguments could not be read. The county ballot-title PDF linked from the election page returned only the multilingual accommodations notice (likely an image scan). Ballot title text (Resolution No. 1466) read from the July 15, 2026 council packet (offset 100000). City info page (https://www.canbyoregon.gov/node/32228) also states 'Change language limiting the Board's total of outstanding short-term loan from 50% to 100%' and adds a quarterly-report requirement not in the ballot summary. Item y2 is a city explainer (descriptive) tagged side yes because it describes what approval enables; reviewer may reclassify. Canby Utility June 30, 2026 board packet blocked by robots. Inventory title matches county caption.",
+  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. Ballot title text (Resolution No. 1466) read from the July 15, 2026 council packet (offset 100000). City info page (https://www.canbyoregon.gov/node/32228) also states 'Change language limiting the Board's total of outstanding short-term loan from 50% to 100%' and adds a quarterly-report requirement not in the ballot summary. Item y2 is a city explainer (descriptive) tagged side yes because it describes what approval enables; reviewer may reclassify. Canby Utility June 30, 2026 board packet blocked by robots. Inventory title matches county caption. Pamphlet read 2026-10-16 from the script extract of the Clackamas County voters' pamphlet (extract page 62, printed C-61): ballot title and the neutral explanatory statement (it says the Board's restrictions affect its ability to obtain funding, including issuing bonds, for a new water treatment plant) are consistent with the existing ballot_label, summary, yes_means and no_means, which are unchanged. Item y2 was an 'explainer' on the yes side drawn from the City's measure information page, which is sponsor rationale rather than the official explanatory statement; changed to kind 'argument' so explainers stay neutral (id unchanged). Earlier gaps about unreadable pamphlet arguments are resolved. Pamphlet read 2026-10-16 from the script extract of the Clackamas County voters' pamphlet (extract page 62, printed C-61): ballot title and the neutral explanatory statement (it says the Board's restrictions affect its ability to obtain funding, including issuing bonds, for a new water treatment plant) are consistent with the existing ballot_label, summary, yes_means and no_means, which are unchanged. Item y2 was an 'explainer' on the yes side drawn from the City's measure information page, which is sponsor rationale rather than the official explanatory statement; changed to kind 'argument' so explainers stay neutral (id unchanged). Earlier gaps about unreadable pamphlet arguments are resolved.",
   "collection_log": [
     {
       "step": "1",
@@ -112,6 +112,17 @@
       "step": "2",
       "query_or_url": "https://www.canbyoregon.gov/node/32224",
       "result": "nothing relevant"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 via pamphlet-ab-test extract clackamas-county/canby-3-643.txt (extract pages 62)",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 via pamphlet-ab-test extract clackamas-county/canby-3-643.txt (extract pages 62)",
+      "result": "used"
     }
-  ]
+  ],
+  "endorsements": []
 }

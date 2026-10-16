@@ -1,0 +1,184 @@
+{
+  "id": "jonathan-metcalf",
+  "name": "Jonathan Metcalf",
+  "name_variants": [],
+  "race_id": "estacada-mayor",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.cityofestacada.org/city-council-election/",
+  "occupation": "Business Owner, Barbarian Creative",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "jonathan-metcalf-b1",
+      "topic": "custom:bio",
+      "statement": "Metcalf's pamphlet statement lists work in construction and service as a U.S. Marine Corps combat veteran with two deployments to Afghanistan.",
+      "excerpt": "Construction; United States Marine Corps combat veteran; two deployments to Afghanistan",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jonathan-metcalf-b2",
+      "topic": "custom:bio",
+      "statement": "Metcalf's pamphlet statement lists service as an Estacada city councilor since 2023 and as council president.",
+      "excerpt": "Estacada City Councilor, 2023-present; Council President; Economic Development Commission Liaison",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "jonathan-metcalf-p1",
+      "topic": "infrastructure",
+      "statement": "In his voters' pamphlet statement, Metcalf says that as mayor he would pursue funding for roads, utilities and essential services.",
+      "excerpt": "As mayor, I will focus on practical solutions: pursuing funding for roads, utilities, and essential services;",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jonathan-metcalf-p2",
+      "topic": "custom:governance",
+      "statement": "Metcalf's pamphlet statement says the community deserves a mayor who listens, communicates clearly and brings people together around shared goals.",
+      "excerpt": "Our community deserves a mayor who listens, communicates clearly, and brings people together around shared goals.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "jonathan-metcalf-p3",
+      "topic": "taxes",
+      "statement": "Metcalf's pamphlet statement says he will approach decisions with discipline and respect for taxpayers.",
+      "excerpt": "I will approach each decision with discipline, common sense, and respect for taxpayers.",
+      "source": {
+        "url": "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections (November 3, 2026 Voters' Pamphlet)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-14"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Clackamas County voters' pamphlet (docs.clackamas.us); attribution and tier confirmed.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No campaign website listed",
+    "No 2026 campaign coverage in T3 outlets (OPB 2026-04 article concerns council appointments, not positions)"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Estacada mayor: Metcalf 5, Drinkwine 6; both filed pamphlet statements; no websites listed; no T3 campaign coverage found. Balanced."
+  },
+  "endorsements": [
+    {
+      "id": "jonathan-metcalf-e1",
+      "endorser": "Michele Lee Stroh",
+      "endorser_type": "person",
+      "statement": "Jonathan Metcalf's pamphlet statement lists Michele Lee Stroh as an endorser.",
+      "excerpt": "Michele Lee Stroh",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jonathan-metcalf-e2",
+      "endorser": "Traci Hensley",
+      "endorser_type": "official",
+      "statement": "Jonathan Metcalf's pamphlet statement lists Traci Hensley as an endorser.",
+      "excerpt": "Traci Hensley, Canby City Council President",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jonathan-metcalf-e3",
+      "endorser": "Melissa A. Hill",
+      "endorser_type": "official",
+      "statement": "Jonathan Metcalf's pamphlet statement lists Melissa A. Hill as an endorser.",
+      "excerpt": "Melissa A. Hill, Estacada City Councilor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
+}

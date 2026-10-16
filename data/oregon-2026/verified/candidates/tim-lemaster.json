@@ -1,0 +1,200 @@
+{
+  "id": "tim-lemaster",
+  "name": "Tim LeMaster",
+  "race_id": "or-house-43",
+  "party": "Republican",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "tim-lemaster-b1",
+      "topic": "custom:background",
+      "statement": "In a 2022 Ballotpedia survey, LeMaster said they retired to Portland from the Marine Corps in 2013.",
+      "excerpt": "I retired here in Portland from the Marine Corps in 2013.",
+      "source": {
+        "url": "https://ballotpedia.org/Tim_LeMaster",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tim-lemaster-b2",
+      "topic": "custom:occupation",
+      "statement": "LeMaster's pamphlet statement lists LeMaster's occupation as youth camp counselor and retired Marine, with 22 years in the U.S. Marine Corps from private to major.",
+      "excerpt": "Occupation: Youth Camp Counselor, USMC Ret. Occupational Background: United States Marine Corps, 22 years. Enlisted as Private, retired as a Major.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.52: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tim-lemaster-b3",
+      "topic": "custom:education",
+      "statement": "LeMaster's pamphlet statement lists a BS in Marketing from Syracuse University and military photojournalism and documentary film production study as their educational background.",
+      "excerpt": "BS Marketing, Syracuse University Military Photojournalism, S.U. Military Documentary Film Production.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.52: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "tim-lemaster-p1",
+      "topic": "public-safety",
+      "statement": "In a 2022 Ballotpedia survey, LeMaster said they would support public safety and police.",
+      "excerpt": "I will support public safety and the police who help provide that safety.",
+      "source": {
+        "url": "https://ballotpedia.org/Tim_LeMaster",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tim-lemaster-p2",
+      "topic": "public-safety",
+      "statement": "In the same 2022 survey, LeMaster said Measure 110 either needs to be repealed or Oregon needs to pursue full decriminalization of illicit drugs.",
+      "excerpt": "Measure 110 that essentially decriminalized illicit drugs in Oregon either needs repealed or we need to pursue full decriminalization",
+      "source": {
+        "url": "https://ballotpedia.org/Tim_LeMaster",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Survey answer (2022, Candidate Connection, HD 43) offers either repeal or pursuing full decriminalization; excerpt extended and statement corrected.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tim-lemaster-p3",
+      "topic": "education",
+      "statement": "In the same 2022 survey, LeMaster called for new thinking to help parents get better education choices.",
+      "excerpt": "we need new thinking to help parents get better education choices.",
+      "source": {
+        "url": "https://ballotpedia.org/Tim_LeMaster",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tim-lemaster-p4",
+      "topic": "taxes",
+      "statement": "LeMaster says in the pamphlet statement that voters deserve a government that is effective and frugal with their money.",
+      "excerpt": "You deserve a government that is effective and frugal with your hard-earned money.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.52: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tim-lemaster-p5",
+      "topic": "social-services",
+      "statement": "LeMaster says in the pamphlet statement that Oregon should look to other states' approaches to homelessness, citing Houston's 60% cut in homelessness.",
+      "excerpt": "Houston’s 60% cut in homelessness in just a couple of years",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.52: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tim-lemaster-p6",
+      "topic": "education",
+      "statement": "LeMaster says in the pamphlet statement that Oregon should learn from Mississippi's rise in education from worst in the nation to a national leader.",
+      "excerpt": "Mississippi’s rise in education from worst in the nation to a national leader.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 52",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.52: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "All issue statements are from a 2022 Ballotpedia survey; no 2026 statements found",
+    "Did not complete Ballotpedia 2026 survey"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "HD43: see Sanchez note. LeMaster's 2022 survey items are dated in each statement."
+  }
+}

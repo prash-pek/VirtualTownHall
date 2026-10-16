@@ -1,0 +1,166 @@
+{
+ "id": "octavio-gonzalez",
+ "name": "Octavio Gonzalez",
+ "race_id": "tualatin-mayor",
+ "party": null,
+ "incumbent": false,
+ "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information",
+ "occupation": "Landscape Business Professional",
+ "website_url": "https://octavio4tualatin.com",
+ "website_verified_via": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+ "bio": [
+  {
+   "id": "octavio-gonzalez-b1",
+   "topic": "custom:background",
+   "statement": "In his pamphlet statement, Gonzalez lists prior governmental experience as Tualatin City Councilor.",
+   "excerpt": "Prior Governmental Experience: Tualatin City Councilor,",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "octavio-gonzalez-b2",
+   "topic": "custom:background",
+   "statement": "Gonzalez says he was born in Mexico to immigrant parents and has lived in Oregon over 30 years.",
+   "excerpt": "Born in Mexico to immigrant parents, I have lived in Oregon",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "positions": [
+  {
+   "id": "octavio-gonzalez-p1",
+   "topic": "taxes",
+   "statement": "In his pamphlet statement, Gonzalez says he is the only councilor to consistently oppose increases in utility, permit, service and business licensing fees, property taxes, and trash and recycling rates.",
+   "excerpt": "I am the only councilor to consistently oppose",
+   "source": {
+    "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+    "tier": "T1",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "octavio-gonzalez-p2",
+   "topic": "public-safety",
+   "statement": "Gonzalez's campaign website lists supporting effective law enforcement and emergency response as a priority.",
+   "excerpt": "Support effective law enforcement and emergency response.",
+   "source": {
+    "url": "https://octavio4tualatin.com/priorities",
+    "publisher": "Octavio Gonzalez campaign website (Priorities)",
+    "tier": "T2",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "octavio-gonzalez-p3",
+   "topic": "infrastructure",
+   "statement": "Gonzalez's campaign website says growth should be coordinated with roads, utilities, schools, parks and public safety capacity.",
+   "excerpt": "Coordinate growth with roads, utilities, schools, parks, and public safety capacity.",
+   "source": {
+    "url": "https://octavio4tualatin.com/priorities",
+    "publisher": "Octavio Gonzalez campaign website (Priorities)",
+    "tier": "T2",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "octavio-gonzalez-p4",
+   "topic": "local-business",
+   "statement": "Gonzalez's campaign website says he would support existing businesses while welcoming responsible new investment.",
+   "excerpt": "Support existing businesses while welcoming responsible new investment.",
+   "source": {
+    "url": "https://octavio4tualatin.com/priorities",
+    "publisher": "Octavio Gonzalez campaign website (Priorities)",
+    "tier": "T2",
+    "published_at": null,
+    "retrieved_at": "2026-10-15"
+   }
+  },
+  {
+   "id": "octavio-gonzalez-p5",
+   "topic": "economy",
+   "statement": "In a September 2026 Tualatin Life letter, Gonzalez says residents should be able to trust that their money is being used wisely.",
+   "excerpt": "Residents should never have to wonder whether their money is being used wisely.",
+   "source": {
+    "url": "https://tualatinlife.com/?p=15554",
+    "publisher": "Tualatin Life (guest letter by Gonzalez)",
+    "tier": "T3",
+    "published_at": "2026-09-05",
+    "retrieved_at": "2026-10-15"
+   }
+  }
+ ],
+ "voting_record": [],
+ "endorsements": [],
+ "gaps": [
+  "No public position found on housing specifics or transportation projects beyond infrastructure coordination",
+  "Pamphlet states he will not seek or accept endorsements; none recorded",
+  "No Pamplin or Tualatin Life candidate Q&A for 2026 found"
+ ],
+ "collection_log": [
+  {
+   "step": "1",
+   "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline (extract washington-county/octavio-gonzalez.txt, p.40)",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.tualatinoregon.gov/citycouncil/meet-your-council",
+   "result": "used"
+  },
+  {
+   "step": "2",
+   "query_or_url": "https://www.tualatinoregon.gov/citycouncil/elections-information",
+   "result": "used"
+  },
+  {
+   "step": "3",
+   "query_or_url": "https://octavio4tualatin.com and /priorities",
+   "result": "used"
+  },
+  {
+   "step": "4",
+   "query_or_url": "\"Octavio Gonzalez\" Tualatin mayor 2026",
+   "result": "used (tualatinlife letter)"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (a) opb/oregoncapitalchronicle/wweek/ballotpedia: Octavio Gonzalez Tualatin",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (b) kgw/koin/kptv/katu: Octavio Gonzalez Tualatin",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "5",
+   "query_or_url": "WebSearch group (c) portlandmercury/vote411/pamplinmedia/portlandtribune: Octavio Gonzalez Tualatin",
+   "result": "nothing relevant"
+  },
+  {
+   "step": "6",
+   "query_or_url": "https://tualatinlife.com/?p=15554",
+   "result": "used"
+  },
+  {
+   "step": "6",
+   "query_or_url": "https://tualatinlife.com/featured/octavio-gonzalez-is-only-new-member-on-city-council/",
+   "result": "used for context only (2023)"
+  }
+ ],
+ "collection_notes": "Incumbent=false for Mayor: city elections page lists Frank Bubenik as the mayoral incumbent (not running, per State of the City coverage). Gonzalez currently holds Council Position 5 (roster: elected Nov 2022), a different seat; that seat is on the 2026 ballot and Dittman is running for it. Pamplin Q&A (pamplinmedia.com ...560386) blocked by robots. Matches inventory."
+}
