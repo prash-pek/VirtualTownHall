@@ -1,4 +1,4 @@
-import { publishAction, rejectAction } from "@/app/(platform)/ops/actions";
+import { publishAction, publishRaceAction, rejectAction } from "@/app/(platform)/ops/actions";
 import type { ItemKind, QueueStatus, ReviewItem, SubjectKind } from "@/lib/review/queue";
 
 const statusLabel: Record<QueueStatus, string> = {
@@ -27,6 +27,19 @@ export function PublishForm({ kind, slug, published }: { kind: SubjectKind; slug
       <input type="hidden" name="publish" value={published ? "0" : "1"} />
       <button className={published ? "btn" : "btn-primary"}>
         {published ? "Unpublish (back to draft)" : "Publish to voters"}
+      </button>
+    </form>
+  );
+}
+
+/** Publishes every candidate in the race with content, or unpublishes them all once they're all published. */
+export function PublishRaceForm({ race, count, allPublished }: { race: string; count: number; allPublished: boolean }) {
+  return (
+    <form action={publishRaceAction}>
+      <input type="hidden" name="race" value={race} />
+      <input type="hidden" name="publish" value={allPublished ? "0" : "1"} />
+      <button className={`${allPublished ? "btn" : "btn-primary"} px-3 py-1 text-sm`}>
+        {allPublished ? "Unpublish race" : `Publish all ${count}`}
       </button>
     </form>
   );

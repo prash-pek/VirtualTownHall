@@ -38,10 +38,20 @@ export type QueueMeasure = {
 export type QueueCandidate = {
   slug: string;
   name: string;
-  race: string;
   status: QueueStatus;
   items: number;
 };
+
+/** A race with the candidates that have content to review (or are already published). */
+export type QueueRace = {
+  slug: string;
+  label: string;
+  candidates: QueueCandidate[];
+  /** Candidates in the race with no verified content yet; publishing the race leaves them alone. */
+  withoutContent: number;
+};
+
+const reviewable = (c: { items: number; status: string }) => c.items > 0 || c.status === "published";
 
 export async function getQueue() {
   const db = getDb();
@@ -72,6 +82,7 @@ export async function getQueue() {
       .select({
         slug: candidates.slug,
         name: candidates.name,
+        raceSlug: races.slug,
         office: races.office,
         districtLabel: races.districtLabel,
         status: candidates.status,
@@ -96,17 +107,26 @@ export async function getQueue() {
       neutral: count((a) => a.kind === "explainer"),
     };
   });
-  const allCandidates: QueueCandidate[] = candidateRows.map((c) => ({
-    slug: c.slug,
-    name: c.name,
-    race: [c.office, c.districtLabel].filter(Boolean).join(", "),
-    status: c.status,
-    items: c.items,
-  }));
+  const byRace = new Map<string, QueueRace>();
+  for (const c of candidateRows) {
+    let race = byRace.get(c.raceSlug);
+    if (!race) {
+      race = {
+        slug: c.raceSlug,
+        label: [c.office, c.districtLabel].filter(Boolean).join(", "),
+        candidates: [],
+        withoutContent: 0,
+      };
+      byRace.set(c.raceSlug, race);
+    }
+    if (reviewable(c)) race.candidates.push({ slug: c.slug, name: c.name, status: c.status, items: c.items });
+    else race.withoutContent++;
+  }
+  const allRaces = [...byRace.values()];
   return {
     measures,
-    candidates: allCandidates.filter((c) => c.items > 0 || c.status === "published"),
-    candidatesWithoutContent: allCandidates.filter((c) => c.items === 0 && c.status !== "published").length,
+    races: allRaces.filter((r) => r.candidates.length > 0),
+    candidatesWithoutContent: allRaces.reduce((sum, r) => sum + r.withoutContent, 0),
   };
 }
 
@@ -307,6 +327,26 @@ export async function setSubjectPublished(kind: SubjectKind, slug: string, publi
       payload: { slug, items: changed.map((r) => ({ id: r.id, contentHash: r.contentHash })) },
     });
   });
+}
+
+/**
+ * Publishes (or unpublishes) every candidate in a race that has content to review. Each candidate is
+ * its own transaction and audit entry, exactly as if published one by one. Returns how many changed.
+ */
+export async function setRacePublished(raceSlug: string, publish: boolean, actorId: string) {
+  const rows = await getDb()
+    .select({
+      slug: candidates.slug,
+      status: candidates.status,
+      items: sql<number>`(select count(*)::int from ${candidateItems} ci where ci.candidate_id = ${candidates.id} and ci.status <> 'rejected')`,
+    })
+    .from(candidates)
+    .innerJoin(races, eq(candidates.raceId, races.id))
+    .where(eq(races.slug, raceSlug))
+    .orderBy(asc(candidates.ballotOrder));
+  const todo = rows.filter((c) => reviewable(c) && (c.status === "published") !== publish);
+  for (const c of todo) await setSubjectPublished("candidate", c.slug, publish, actorId);
+  return todo.length;
 }
 
 /** Hide one item from voters, or restore it to its subject's current state. */
