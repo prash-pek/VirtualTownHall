@@ -23,7 +23,10 @@ export default async function OpsHome() {
       </div>
       <p className="note">
         Voters see a measure or candidate only after it&apos;s published here. Publishing includes every item on it that
-        you haven&apos;t hidden. Every change is recorded in the audit log.
+        you haven&apos;t hidden. Every change is recorded in the audit log.{" "}
+        <Link href="/ops/costs" className="link">
+          Claude usage and costs
+        </Link>
       </p>
 
       <section className="flex flex-col gap-3">
