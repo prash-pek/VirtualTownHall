@@ -46,7 +46,8 @@ export type MeasureDetail = {
   arguments: MeasureArgument[];
 };
 
-const visible = (status: string, preview: boolean) => status === "published" || preview;
+/** Hidden (rejected) items never show, even in an admin preview. */
+const visible = (status: string, preview: boolean) => status === "published" || (preview && status !== "rejected");
 
 export async function getRaceProfiles(raceSlug: string, preview: boolean): Promise<CandidateProfile[]> {
   const db = getDb();

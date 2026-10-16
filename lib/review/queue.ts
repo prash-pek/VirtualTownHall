@@ -1,0 +1,311 @@
+import "server-only";
+
+import { and, asc, desc, eq, inArray, ne, sql } from "drizzle-orm";
+
+import { appendAudit } from "@/lib/audit/log";
+import { getDb } from "@/lib/db/client";
+import {
+  ballotMeasures,
+  candidateItems,
+  candidates,
+  jurisdictions,
+  measureArguments,
+  races,
+  sources,
+  verifications,
+} from "@/lib/db/schema";
+
+/**
+ * Admin review queue (TRD v2 §6, phase 3). A reviewer publishes a whole measure or candidate at once:
+ * the subject and every item on it that isn't rejected. Single items can be rejected (hidden from
+ * voters) or restored. Every change is written to the hash-chained audit log in the same transaction.
+ */
+
+export type QueueStatus = "draft" | "in_review" | "published" | "rejected" | "withdrawn";
+
+export type QueueMeasure = {
+  slug: string;
+  number: string;
+  title: string;
+  jurisdiction: string;
+  status: QueueStatus;
+  yes: number;
+  no: number;
+  neutral: number;
+};
+
+export type QueueCandidate = {
+  slug: string;
+  name: string;
+  race: string;
+  status: QueueStatus;
+  items: number;
+};
+
+export async function getQueue() {
+  const db = getDb();
+  const [measureRows, argCounts, candidateRows] = await Promise.all([
+    db
+      .select({
+        id: ballotMeasures.id,
+        slug: ballotMeasures.slug,
+        number: ballotMeasures.number,
+        title: ballotMeasures.title,
+        jurisdiction: jurisdictions.name,
+        status: ballotMeasures.status,
+      })
+      .from(ballotMeasures)
+      .innerJoin(jurisdictions, eq(ballotMeasures.jurisdictionId, jurisdictions.id))
+      .orderBy(asc(ballotMeasures.ballotOrder)),
+    db
+      .select({
+        measureId: measureArguments.measureId,
+        side: measureArguments.side,
+        kind: measureArguments.kind,
+        n: sql<number>`count(*)::int`,
+      })
+      .from(measureArguments)
+      .where(ne(measureArguments.status, "rejected"))
+      .groupBy(measureArguments.measureId, measureArguments.side, measureArguments.kind),
+    db
+      .select({
+        slug: candidates.slug,
+        name: candidates.name,
+        office: races.office,
+        districtLabel: races.districtLabel,
+        status: candidates.status,
+        items: sql<number>`(select count(*)::int from ${candidateItems} ci where ci.candidate_id = ${candidates.id} and ci.status <> 'rejected')`,
+      })
+      .from(candidates)
+      .innerJoin(races, eq(candidates.raceId, races.id))
+      .orderBy(asc(races.ballotOrder), asc(candidates.ballotOrder)),
+  ]);
+
+  const measures: QueueMeasure[] = measureRows.map((m) => {
+    const mine = argCounts.filter((a) => a.measureId === m.id);
+    const count = (pred: (a: (typeof mine)[number]) => boolean) => mine.filter(pred).reduce((sum, a) => sum + a.n, 0);
+    return {
+      slug: m.slug,
+      number: m.number,
+      title: m.title,
+      jurisdiction: m.jurisdiction,
+      status: m.status,
+      yes: count((a) => a.side === "yes" && a.kind !== "explainer"),
+      no: count((a) => a.side === "no" && a.kind !== "explainer"),
+      neutral: count((a) => a.kind === "explainer"),
+    };
+  });
+  const allCandidates: QueueCandidate[] = candidateRows.map((c) => ({
+    slug: c.slug,
+    name: c.name,
+    race: [c.office, c.districtLabel].filter(Boolean).join(", "),
+    status: c.status,
+    items: c.items,
+  }));
+  return {
+    measures,
+    candidates: allCandidates.filter((c) => c.items > 0 || c.status === "published"),
+    candidatesWithoutContent: allCandidates.filter((c) => c.items === 0 && c.status !== "published").length,
+  };
+}
+
+export type ReviewItem = {
+  id: string;
+  label: string;
+  statement: string;
+  excerpt: string | null;
+  sourceUrl: string | null;
+  publisher: string | null;
+  tier: string | null;
+  status: QueueStatus;
+  verification: string | null;
+};
+
+async function latestVerifications(subjectType: string, ids: string[]) {
+  if (ids.length === 0) return new Map<string, string>();
+  const rows = await getDb()
+    .select({ subjectId: verifications.subjectId, status: verifications.status, note: verifications.note })
+    .from(verifications)
+    .where(and(eq(verifications.subjectType, subjectType), inArray(verifications.subjectId, ids)))
+    .orderBy(desc(verifications.createdAt));
+  const out = new Map<string, string>();
+  for (const r of rows) if (!out.has(r.subjectId)) out.set(r.subjectId, r.note ? `${r.status}: ${r.note}` : r.status);
+  return out;
+}
+
+export async function getMeasureReview(slug: string) {
+  const db = getDb();
+  const [m] = await db.select().from(ballotMeasures).where(eq(ballotMeasures.slug, slug));
+  if (!m) return null;
+  const args = await db
+    .select({
+      id: measureArguments.id,
+      side: measureArguments.side,
+      kind: measureArguments.kind,
+      author: measureArguments.author,
+      statement: measureArguments.statement,
+      excerpt: measureArguments.excerpt,
+      status: measureArguments.status,
+      sourceUrl: sources.url,
+      publisher: sources.publisher,
+      tier: sources.tier,
+    })
+    .from(measureArguments)
+    .leftJoin(sources, eq(measureArguments.sourceId, sources.id))
+    .where(eq(measureArguments.measureId, m.id))
+    .orderBy(asc(measureArguments.side), asc(measureArguments.createdAt));
+  const checks = await latestVerifications(
+    "measure_argument",
+    args.map((a) => a.id),
+  );
+  const items: ReviewItem[] = args.map((a) => ({
+    ...a,
+    label:
+      a.kind === "explainer"
+        ? "Neutral explanation"
+        : `${a.side.toUpperCase()} ${a.kind}${a.author ? ` · ${a.author}` : ""}`,
+    verification: checks.get(a.id) ?? null,
+  }));
+  return { measure: m, items };
+}
+
+export async function getCandidateReview(slug: string) {
+  const db = getDb();
+  const [c] = await db
+    .select({
+      id: candidates.id,
+      slug: candidates.slug,
+      name: candidates.name,
+      party: candidates.party,
+      incumbent: candidates.incumbent,
+      occupation: candidates.occupation,
+      websiteUrl: candidates.websiteUrl,
+      gaps: candidates.gaps,
+      status: candidates.status,
+      office: races.office,
+      districtLabel: races.districtLabel,
+      raceSlug: races.slug,
+    })
+    .from(candidates)
+    .innerJoin(races, eq(candidates.raceId, races.id))
+    .where(eq(candidates.slug, slug));
+  if (!c) return null;
+  const rows = await db
+    .select({
+      id: candidateItems.id,
+      kind: candidateItems.kind,
+      topic: candidateItems.topic,
+      statement: candidateItems.statement,
+      excerpt: candidateItems.excerpt,
+      status: candidateItems.status,
+      sourceUrl: sources.url,
+      publisher: sources.publisher,
+      tier: sources.tier,
+    })
+    .from(candidateItems)
+    .leftJoin(sources, eq(candidateItems.sourceId, sources.id))
+    .where(eq(candidateItems.candidateId, c.id))
+    .orderBy(asc(candidateItems.kind), asc(candidateItems.createdAt));
+  const checks = await latestVerifications(
+    "candidate_item",
+    rows.map((r) => r.id),
+  );
+  const items: ReviewItem[] = rows.map(({ kind, topic, ...r }) => ({
+    ...r,
+    label: [kind.replace("_", " "), topic].filter(Boolean).join(" · "),
+    verification: checks.get(r.id) ?? null,
+  }));
+  return { candidate: c, items };
+}
+
+export type SubjectKind = "measure" | "candidate";
+
+/** Publish (or take back to draft) a measure or candidate together with its non-rejected items. */
+export async function setSubjectPublished(kind: SubjectKind, slug: string, publish: boolean, actorId: string) {
+  const db = getDb();
+  await db.transaction(async (tx) => {
+    const target = publish ? ("published" as const) : ("draft" as const);
+    const from = publish ? (["draft", "in_review"] as const) : (["published"] as const);
+    let subjectId: string | undefined;
+    let changed: { id: string; contentHash: string }[];
+    if (kind === "measure") {
+      const [m] = await tx
+        .update(ballotMeasures)
+        .set({ status: target, updatedAt: sql`now()` })
+        .where(eq(ballotMeasures.slug, slug))
+        .returning({ id: ballotMeasures.id });
+      subjectId = m?.id;
+      if (!subjectId) return;
+      changed = await tx
+        .update(measureArguments)
+        .set({ status: target, updatedAt: sql`now()` })
+        .where(and(eq(measureArguments.measureId, subjectId), inArray(measureArguments.status, [...from])))
+        .returning({ id: measureArguments.id, contentHash: measureArguments.contentHash });
+    } else {
+      const [c] = await tx
+        .update(candidates)
+        .set({ status: target, updatedAt: sql`now()` })
+        .where(eq(candidates.slug, slug))
+        .returning({ id: candidates.id });
+      subjectId = c?.id;
+      if (!subjectId) return;
+      changed = await tx
+        .update(candidateItems)
+        .set({ status: target, updatedAt: sql`now()` })
+        .where(and(eq(candidateItems.candidateId, subjectId), inArray(candidateItems.status, [...from])))
+        .returning({ id: candidateItems.id, contentHash: candidateItems.contentHash });
+    }
+    await appendAudit(tx, {
+      subjectType: kind,
+      subjectId,
+      action: publish ? "publish" : "unpublish",
+      actorId,
+      payload: { slug, items: changed.map((r) => ({ id: r.id, contentHash: r.contentHash })) },
+    });
+  });
+}
+
+/** Hide one item from voters, or restore it to its subject's current state. */
+export async function setItemRejected(kind: SubjectKind, itemId: string, reject: boolean, actorId: string) {
+  const db = getDb();
+  await db.transaction(async (tx) => {
+    let parentStatus: string | undefined;
+    let contentHash: string | undefined;
+    if (kind === "measure") {
+      const [row] = await tx
+        .select({ parent: ballotMeasures.status })
+        .from(measureArguments)
+        .innerJoin(ballotMeasures, eq(measureArguments.measureId, ballotMeasures.id))
+        .where(eq(measureArguments.id, itemId));
+      parentStatus = row?.parent;
+      if (!parentStatus) return;
+      const status = reject ? "rejected" : parentStatus === "published" ? "published" : "draft";
+      [{ contentHash } = { contentHash: undefined }] = await tx
+        .update(measureArguments)
+        .set({ status, updatedAt: sql`now()` })
+        .where(eq(measureArguments.id, itemId))
+        .returning({ contentHash: measureArguments.contentHash });
+    } else {
+      const [row] = await tx
+        .select({ parent: candidates.status })
+        .from(candidateItems)
+        .innerJoin(candidates, eq(candidateItems.candidateId, candidates.id))
+        .where(eq(candidateItems.id, itemId));
+      parentStatus = row?.parent;
+      if (!parentStatus) return;
+      const status = reject ? "rejected" : parentStatus === "published" ? "published" : "draft";
+      [{ contentHash } = { contentHash: undefined }] = await tx
+        .update(candidateItems)
+        .set({ status, updatedAt: sql`now()` })
+        .where(eq(candidateItems.id, itemId))
+        .returning({ contentHash: candidateItems.contentHash });
+    }
+    await appendAudit(tx, {
+      subjectType: kind === "measure" ? "measure_argument" : "candidate_item",
+      subjectId: itemId,
+      action: reject ? "reject" : "restore",
+      actorId,
+      payload: { contentHash: contentHash ?? null },
+    });
+  });
+}

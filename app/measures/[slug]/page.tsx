@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return { title: m ? `Measure ${m.number} · TownHall AI` : "TownHall AI" };
 }
 
-const kindLabel: Record<string, string> = { argument: "Argument", rebuttal: "Rebuttal", explainer: "Explanation" };
+const kindLabel: Record<string, string> = { argument: "Argument", rebuttal: "Rebuttal" };
 
 export default async function MeasurePage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
@@ -24,7 +24,9 @@ export default async function MeasurePage({ params }: { params: Promise<{ slug: 
   if (!measure) notFound();
   const preview = hasRole(await getSession(), "admin");
   const d = await getMeasureDetail(slug, preview);
-  const side = (s: "yes" | "no") => d?.arguments.filter((a) => a.side === s) ?? [];
+  // Explanations are neutral even when collection filed them under a side; they never sit under YES or NO.
+  const neutral = d?.arguments.filter((a) => a.kind === "explainer") ?? [];
+  const side = (s: "yes" | "no") => d?.arguments.filter((a) => a.side === s && a.kind !== "explainer") ?? [];
 
   return (
     <main className="page">
@@ -66,6 +68,18 @@ export default async function MeasurePage({ params }: { params: Promise<{ slug: 
               <p>{d.fiscalImpact}</p>
             </section>
           )}
+          {neutral.length > 0 && (
+            <section className="flex flex-col gap-2">
+              <h2 className="eyebrow">Explained by official sources</h2>
+              <ul className="flex flex-col gap-3">
+                {neutral.map((a, n) => (
+                  <li key={n}>
+                    <Sourced item={a} />
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
           <section className="grid gap-4 sm:grid-cols-2">
             <Side title="For (YES)" items={side("yes")} />
             <Side title="Against (NO)" items={side("no")} />
@@ -100,7 +114,7 @@ function Side({ title, items }: { title: string; items: MeasureArgument[] }) {
     <div className="card flex flex-col gap-3">
       <h2 className="eyebrow">{title}</h2>
       {items.length === 0 ? (
-        <p className="note">We didn&apos;t find a published statement on this side in the sources we checked.</p>
+        <p className="note">No arguments on this side were found in the sources we checked.</p>
       ) : (
         <ul className="flex flex-col gap-4">
           {items.map((a, n) => (
