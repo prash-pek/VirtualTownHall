@@ -116,5 +116,20 @@ export async function GET(request: Request) {
     });
   }
 
+  if (step === "raw") {
+    // The model's raw output for a few answers, to diagnose side matching.
+    const a = batchId(url.searchParams.get("answers"));
+    const ids = (url.searchParams.get("ids") ?? "").split(",").slice(0, 10);
+    if (!a) return NextResponse.json({ error: "invalid_request" }, { status: 400 });
+    const answers = await outcomes(client, a);
+    return NextResponse.json(
+      ids.map((id) => {
+        const m = answers.get(id)?.message;
+        const text = m?.content.find((b) => b.type === "text");
+        return { id, text: text?.type === "text" ? text.text : null };
+      }),
+    );
+  }
+
   return NextResponse.json({ error: "invalid_request" }, { status: 400 });
 }
