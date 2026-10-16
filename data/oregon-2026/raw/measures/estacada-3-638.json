@@ -3,22 +3,40 @@
   "jurisdiction_id": "estacada",
   "number": "3-638",
   "title": "Prohibits new marijuana production, processing, and wholesaling businesses in Estacada.",
-  "ballot_label": "Caption: Prohibits new marijuana production, processing, and wholesaling businesses in Estacada. (Question and summary not retrievable; see collection_notes.)",
-  "summary": "City of Estacada referral of Ordinance 2026-008, which would prohibit new marijuana production, processing and wholesaling businesses in the city. Per the City, the prohibition takes effect only if voters adopt it, starting on certification of the November 2026 election. Press coverage reports it does not affect existing businesses or retail shops and dispensaries.",
-  "yes_means": "A yes vote adopts the prohibition on new marijuana production, processing, and wholesaling businesses in Estacada.",
-  "no_means": "A no vote rejects the prohibition, and new marijuana production, processing, and wholesaling businesses would not be barred by this measure.",
+  "ballot_label": "Caption: Prohibits new marijuana production, processing, and wholesaling businesses in Estacada. Question: Shall the City of Estacada prohibit new marijuana production, processing, and wholesaling businesses from being established within the City? Summary: This measure will prohibit new marijuana production, processing, and wholesaling businesses from being established within the City of Estacada. Existing businesses will be allowed to continue operating. There will be no effect on marijuana retail businesses or dispensaries. If the measure is approved, the prohibition will begin on the date the election results are certified. If the measure is not approved, new marijuana production, processing, and wholesaling businesses will be allowed to operate within the City, as authorized under the Estacada Municipal Code. This measure was referred to the voters by the Estacada City Council.",
+  "summary": "Referred by the Estacada City Council. Would prohibit new marijuana production, processing and wholesaling businesses in Estacada. Existing businesses could continue operating, and marijuana retail businesses and dispensaries would not be affected. If approved, the prohibition begins when the election results are certified. If not approved, new such businesses could operate in the city as the Estacada Municipal Code allows.",
+  "yes_means": "A yes vote adopts the prohibition on new marijuana production, processing, and wholesaling businesses in Estacada, effective when the election results are certified.",
+  "no_means": "A no vote rejects the prohibition, and new marijuana production, processing, and wholesaling businesses would be allowed as authorized under the Estacada Municipal Code.",
   "fiscal_impact": null,
   "full_text_url": "https://www.cityofestacada.org/business-2/cannabis-businesses-faqs/",
-  "arguments": [],
+  "arguments": [
+    {
+      "id": "estacada-3-638-y1",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Estacada City Council (furnished by Michael McElroy, Estacada City Council)",
+      "topic": "local-business",
+      "statement": "The Estacada City Council argues a yes vote would stop new facilities from adding to an existing odor nuisance and would not affect retail stores, recreational or medicinal use, or existing businesses.",
+      "excerpt": "A YES vote simply prevents new facilities from adding to the existing odor issue, ensuring our town remains welcoming to robust economic growth.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 64 (printed C-63)"
+      }
+    }
+  ],
   "topics": [
     "local-business",
     "custom:cannabis"
   ],
   "gaps": [
-    "No YES argument found in T1/T3 sources: pamphlet arguments unreadable; the City FAQ gives no rationale; the Sept 2026 Outlook and Oct 2026 Estacada News articles quote no supporters.",
-    "No NO argument found in T1/T3 sources: the only opposing statements found were a Mule Extracts press release (24-7 Press Release Newswire, Oct 13, 2026) and an MMJDaily aggregation of an OregonLive article (OregonLive blocked to fetch); neither used."
+    "No argument in opposition was filed in the county voters' pamphlet (the pamphlet prints 'NO ARGUMENTS IN OPPOSITION TO THIS MEASURE WERE FILED').",
+    "The county explanatory statement gives no fiscal estimate, so fiscal_impact is null."
   ],
-  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. County voters' pamphlet (https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513) lists this measure in its index, but WebFetch text extraction ends at page C-33 (~117k chars), before the measure section, so the pamphlet's explanatory statement and any filed arguments could not be read. The county ballot-title PDF linked from the election page returned only the multilingual accommodations notice (likely an image scan). Ballot question and summary not found on any readable official page; ballot_label contains only the caption from the county election page. City's May 11, 2026 council packet (https://www.cityofestacada.org/wp-content/uploads/5-11-2026.pdf) blocked by robots. City FAQ (published 2026-05-21) states Ord. 2026-008 'would prohibit new marijuana businesses, but it is being referred to the voters'. The Outlook (Sept 25, 2026, Christopher Keizur) says the measure 'does not affect existing businesses, including established and future retail shops and dispensaries'; a Mule Extracts press release quotes attorney Amy Margolis saying it 'actually prohibits the growth and sale of existing businesses' - a dispute a reviewer may wish to resolve from the ordinance text. MMJDaily summary of OregonLive reports Councilor Michael McElroy (yes, odor deterring employers) and Margolis, John Sampson and Eric Sale views; if OregonLive becomes fetchable, that article (https://www.oregonlive.com/politics/2026/09/why-one-oregon-city-is-pushing-to-ban-new-cannabis-businesses-more-than-a-decade-after-legalization.html) is the best source for both sides. full_text_url points to the City FAQ (no direct ordinance link found). Inventory title matches the county caption.",
+  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. Ballot question and summary now taken from the county pamphlet (see below). City's May 11, 2026 council packet (https://www.cityofestacada.org/wp-content/uploads/5-11-2026.pdf) blocked by robots. City FAQ (published 2026-05-21) states Ord. 2026-008 'would prohibit new marijuana businesses, but it is being referred to the voters'. The Outlook (Sept 25, 2026, Christopher Keizur) says the measure 'does not affect existing businesses, including established and future retail shops and dispensaries'; a Mule Extracts press release quotes attorney Amy Margolis saying it 'actually prohibits the growth and sale of existing businesses' - a dispute a reviewer may wish to resolve from the ordinance text. MMJDaily summary of OregonLive reports Councilor Michael McElroy (yes, odor deterring employers) and Margolis, John Sampson and Eric Sale views; if OregonLive becomes fetchable, that article (https://www.oregonlive.com/politics/2026/09/why-one-oregon-city-is-pushing-to-ban-new-cannabis-businesses-more-than-a-decade-after-legalization.html) is the best source for both sides. full_text_url points to the City FAQ (no direct ordinance link found). Inventory title matches the county caption. Pamphlet read 2026-10-16 from the script extract of the Clackamas County voters' pamphlet (extract pages 63-64, printed C-62 and C-63): ballot title, explanatory statement and one argument in favor. ballot_label, summary, yes_means and no_means now follow the pamphlet ballot title and explanatory statement. The argument is the City Council's own advocacy and so is recorded as an argument; the explanatory statement (neutral) says the City currently allows marijuana production, processing, wholesaling and retailing as conditional uses and that state law permits a city ban only with voter approval. Earlier gaps about unreadable pamphlet arguments are resolved.",
   "collection_log": [
     {
       "step": "1",
@@ -84,6 +102,29 @@
       "step": "3",
       "query_or_url": "https://www.oregonlive.com/politics/2026/09/why-one-oregon-city-is-pushing-to-ban-new-cannabis-businesses-more-than-a-decade-after-legalization.html",
       "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 via pamphlet-ab-test extract clackamas-county/estacada-3-638.txt (extract pages 63-64)",
+      "result": "used"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "estacada-3-638-e1",
+      "endorser": "Michael McElroy, Estacada City Council",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Michael McElroy of the Estacada City Council furnished the pamphlet argument in favor of Measure 3-638, made as a statement by the City Council.",
+      "excerpt": "This information furnished by Michael McElroy, Estacada City Council",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 64 (printed C-63)"
+      }
     }
   ]
 }

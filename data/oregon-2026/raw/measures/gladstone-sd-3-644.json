@@ -3,23 +3,194 @@
   "jurisdiction_id": "gladstone-sd",
   "number": "3-644",
   "title": "Bonds to Increase Safety, Security; Repair, Improve Schools; Increase Accountability",
-  "ballot_label": "Caption: Bonds to Increase Safety, Security; Repair, Improve Schools; Increase Accountability (Question and summary not retrievable; see collection_notes.)",
-  "summary": "Gladstone School District general obligation bond measure. The district's bond information site describes a $55.3 million bond for repairs such as roofs, boilers, fire alarm and life safety systems, and ADA updates, estimated to reduce the current bond tax rate by $1.45 per $1,000, with a $10.2 million state matching grant if passed.",
-  "yes_means": "A yes vote authorizes the Gladstone School District to issue general obligation bonds for school safety, security, repairs and improvements.",
-  "no_means": "A no vote does not authorize the bonds.",
-  "fiscal_impact": "District bond site: $55.3 million; 'estimated to reduce the current tax rate by $1.45 per $1,000 of assessed value' (current bond levy rate $4.28 to $2.83 per $1,000); $10.2 million state OSCIM matching grant if passed. Official ballot-title estimate not retrieved.",
+  "ballot_label": "Caption: Bonds to Increase Safety, Security; Repair, Improve Schools; Increase Accessibility. Question: Shall District lower it’s existing bond rate, issue bonds to increase safety, repair and update aging schools and increase accessibility? If the bonds are approved, they will be payable from taxes on property or property ownership that are not subject to the limits of sections 11 and 11b, Article XI of the Oregon Constitution. Summary: This measure expected to lower the District’s bond levy rate by $1.45 per $1,000 of assessed value, saving average homeowner an estimated $438 per year. If passed, State provides $10,200,000 in matching funds. The Gladstone School District seeks approval for principal amount of $55.3 million in bonds to finance capital costs.",
+  "summary": "Referred by the district board. Would authorize $55.3 million in general obligation bonds for fire and life-safety systems, security, repairs to roofs, plumbing, HVAC and boilers, accessibility improvements and athletic facilities. The district estimates the bond levy rate would fall from $4.28 to $2.83 per $1,000 of assessed value, and a $10.2 million state match depends on passage. An oversight committee and regular audits are required.",
+  "yes_means": "A yes vote authorizes Gladstone School District to issue $55.3 million in general obligation bonds for school safety, security, repairs and accessibility improvements.",
+  "no_means": "A no vote does not authorize the bonds, and the district would not receive the $10.2 million state matching funds.",
+  "fiscal_impact": "Per the county pamphlet: $55.3 million in general obligation bonds, issued in series maturing within 21 years. Because existing bonds are maturing, the district estimates the bond levy rate would fall from $4.28 to $2.83 per $1,000 of assessed value, a $1.45 reduction saving the average homeowner an estimated $438 per year. Actual rates may differ with interest rates and property values. The district would receive $10.2 million in state matching funds through the Oregon School Capital Improvement Match Program only if the bond passes.",
   "full_text_url": null,
-  "arguments": [],
+  "arguments": [
+    {
+      "id": "gladstone-sd-3-644-y1",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Craig Roberts, Clackamas County Commission Chair",
+      "topic": "taxes",
+      "statement": "Craig Roberts, Clackamas County Commission Chair, says he supports the measure because it is expected to lower the property tax rate.",
+      "excerpt": "Measure 3-644 is easy for me to support because the measure will lower the property tax rate. During these tough economic times, that is important to me.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 90 (printed C-89)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-y2",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Mark and Vicki Baker",
+      "topic": "education",
+      "statement": "Mark and Vicki Baker argue a yes vote supports ongoing local control of K-12 education in Gladstone and brings $10.2 million in state matching funds.",
+      "excerpt": "With a YES vote, we can set the course for ongoing local control of K-12 education in Gladstone, and take advantage of an additional $10.2 million in state matching funds — a significant investment in our schools.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 90 (printed C-89)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-y3",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Cierra “Gene” Cook",
+      "topic": "taxes",
+      "statement": "Cierra Cook argues the bond would fund repairs and upgrades while lowering the tax rate, and that good schools benefit the whole community.",
+      "excerpt": "This $55.3 million bond measure, combined with a $10.2 million state grant, will fund critical repairs and essential upgrades while lowering the tax rate.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 91 (printed C-90)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-y4",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Nicole Quackenbush, Save Gladstone Schools",
+      "topic": "infrastructure",
+      "statement": "Save Gladstone Schools, in an argument listing state, city and school leaders, argues maintaining existing school facilities is responsible stewardship and that the bond is estimated to lower the levy rate.",
+      "excerpt": "Taking care of facilities we already own is responsible stewardship. So is making every local dollar go as far as possible.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 91 (printed C-90)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-y5",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Nicole Quackenbush, Save Gladstone Schools (signed by Clackamas Fire Board members)",
+      "topic": "public-safety",
+      "statement": "Three Clackamas Fire Board members argue the bond would fund fire emergency alert systems, secure entryways and cameras while lowering the district's bond levy rate.",
+      "excerpt": "This bond prioritizes school safety and security while lowering taxes for Gladstone residents.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 92 (printed C-91)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-y6",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Nicole Quackenbush, Gladstone School Districts [sic] (signed by Gladstone business owners and employers)",
+      "topic": "local-business",
+      "statement": "Gladstone business owners and employers argue the measure maintains existing public buildings before repairs become costlier and would draw $10.2 million in state matching funds.",
+      "excerpt": "Measure 3-644 is a practical investment in maintaining those assets before today’s repairs become tomorrow’s more expensive problems.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 92 (printed C-91)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-n1",
+      "side": "no",
+      "kind": "argument",
+      "author": "Greg W Alexander, former Gladstone City Councilor",
+      "topic": "taxes",
+      "statement": "Former Gladstone City Councilor Greg Alexander argues the district should have commissioned an independent audit of prior bond spending before seeking new capital debt.",
+      "excerpt": "Asking for tens of millions of dollars in new capital debt without a public audit is not transparency.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 95 (printed C-94)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-n2",
+      "side": "no",
+      "kind": "argument",
+      "author": "Tammy Stempel, former Gladstone Mayor",
+      "topic": "taxes",
+      "statement": "Former Gladstone Mayor Tammy Stempel argues the district should publish a full accounting of the 2006 bond before borrowing more.",
+      "excerpt": "Before borrowing tens of millions more, the district should publish a complete accounting of the 2006 bond: original principal, interest paid, refinancings, project costs, overruns, remaining debt, and the total ultimately collected.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 96 (printed C-95)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-n3",
+      "side": "no",
+      "kind": "argument",
+      "author": "Neal Reisner, former Gladstone School Board member and City Councilor",
+      "topic": "education",
+      "statement": "Neal Reisner argues enrollment has fallen about 29% since the 2006 bond and questions several project costs and the future levy rate.",
+      "excerpt": "Since the last bond was passed in 2006 Gladstone School District’s annual student enrollment has decreased by about 630 students, a decrease of about 29%.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 96 (printed C-95)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-n4",
+      "side": "no",
+      "kind": "argument",
+      "author": "Glenda Scherer",
+      "topic": "taxes",
+      "statement": "Glenda Scherer argues the listed $2.83 levy rate is not guaranteed and that voters are approving the district's authority to borrow $55.3 million.",
+      "excerpt": "There is no guarantee of the $2.83/$1000 levy rate that is listed. You are only voting on the right of the Gladstone School District to borrow $55.3 million and for taxpayers to pay for it.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 97 (printed C-96)"
+      }
+    }
+  ],
   "topics": [
     "education",
     "infrastructure",
     "public-safety"
   ],
   "gaps": [
-    "No YES argument found in T1/T3 sources (pamphlet arguments unreadable; no 2026 press coverage found).",
-    "No NO argument found in T1/T3 sources (same searches)."
+    "The county voters' pamphlet printed 11 arguments in favor (extract pages 90-95; printed C-89 to C-94). Six were recorded in pamphlet order (cap 6 per side); five further arguments in favor are not recorded: Gladstone parents (extract page 93, left), Gladstone educators (page 93, right), alumni and longtime residents (page 94, left), community volunteers (page 94, right), and the Gladstone Police Association (page 95, left). All were furnished by Save Gladstone Schools except the Police Association's.",
+    "Four arguments in opposition were filed and all are recorded (under the cap of 6)."
   ],
-  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. County voters' pamphlet (https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513) lists this measure in its index, but WebFetch text extraction ends at page C-33 (~117k chars), before the measure section, so the pamphlet's explanatory statement and any filed arguments could not be read. The county ballot-title PDF linked from the election page returned only the multilingual accommodations notice (likely an image scan). Fiscal facts from gladstoneschoolbond.org (home and FAQ pages), linked as 'Website for proposed 2026 bond' from gladstone.k12.or.us navigation; the site names no publisher or 'paid for by' line, so treat as district informational material pending reviewer confirmation. The site says the bond is on the 'November 2026 ballot' and references Measure 3-644. A prior Gladstone bond (Measure 3-624, ~$70M) failed in May 2025. savegladstoneschools.com (bond information site, ownership unknown) blocked by robots. Inventory title matches county caption.",
+  "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. Fiscal facts from gladstoneschoolbond.org (home and FAQ pages), linked as 'Website for proposed 2026 bond' from gladstone.k12.or.us navigation; the site names no publisher or 'paid for by' line, so treat as district informational material pending reviewer confirmation. The site says the bond is on the 'November 2026 ballot' and references Measure 3-644. A prior Gladstone bond (Measure 3-624, ~$70M) failed in May 2025. savegladstoneschools.com (bond information site, ownership unknown) blocked by robots. Inventory title matches county caption. Pamphlet read 2026-10-16 from the script extract of the Clackamas County voters' pamphlet (extract pages 89-97, printed C-88 to C-96): ballot title, explanatory statement, 11 arguments in favor and 4 in opposition. Arguments recorded in pamphlet order; two-column pages: excerpts quote only the attributed argument's column. The official caption ends 'Increase Accessibility' (the earlier record said 'Accountability'); ballot_label, summary, yes_means, no_means and fiscal_impact now follow the pamphlet. Argument y6 is printed with the furnished-by line 'Nicole Quackenbush, Gladstone School Districts' (as printed; likely a typo for Save Gladstone Schools), so no separate endorsement was added for it. y5 is signed by Clackamas Fire Board members and furnished by Save Gladstone Schools. Opponents' figures (for example the 73% rate increase and $123.3 million debt service) are their claims, not the official statement. Earlier gaps about unreadable pamphlet arguments are resolved.",
   "collection_log": [
     {
       "step": "1",
@@ -75,6 +246,157 @@
       "step": "3",
       "query_or_url": "https://www.savegladstoneschools.com/",
       "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513 via pamphlet-ab-test extract clackamas-county/gladstone-sd-3-644.txt (extract pages 89-97)",
+      "result": "used"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "gladstone-sd-3-644-e1",
+      "endorser": "Craig Roberts, Clackamas County Commission Chair",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Craig Roberts furnished a pamphlet argument in favor of Measure 3-644.",
+      "excerpt": "This information furnished by Craig Roberts",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 90 (printed C-89)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-e2",
+      "endorser": "Mark and Vicki Baker",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Mark and Vicki Baker furnished a pamphlet argument in favor of Measure 3-644.",
+      "excerpt": "This information furnished by Mark and Vicki Baker",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 90 (printed C-89)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-e3",
+      "endorser": "Cierra “Gene” Cook",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Cierra Cook furnished a pamphlet argument in favor of Measure 3-644.",
+      "excerpt": "This information furnished by Cierra “Gene” Cook",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 91 (printed C-90)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-e4",
+      "endorser": "Save Gladstone Schools",
+      "endorser_type": "organization",
+      "side": "yes",
+      "statement": "Save Gladstone Schools, through Nicole Quackenbush, furnished several pamphlet arguments in favor of Measure 3-644.",
+      "excerpt": "This information furnished by Nicole Quackenbush, Save Gladstone Schools",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 91 (printed C-90)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-e5",
+      "endorser": "Gladstone Police Association",
+      "endorser_type": "organization",
+      "side": "yes",
+      "statement": "The Gladstone Police Association, through Cameron Butler, furnished a pamphlet argument in favor of Measure 3-644 (not among the six arguments recorded).",
+      "excerpt": "For these reasons, the Gladstone Police Association supports the Gladstone School District’s school safety measure and encourages Gladstone voters to vote YES.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 95 (printed C-94)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-e6",
+      "endorser": "Greg W Alexander",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Greg Alexander furnished a pamphlet argument in opposition to Measure 3-644.",
+      "excerpt": "This information furnished by Greg W Alexander",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 95 (printed C-94)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-e7",
+      "endorser": "Tammy Stempel",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Tammy Stempel furnished a pamphlet argument in opposition to Measure 3-644.",
+      "excerpt": "This information furnished by Tammy Stempel",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 96 (printed C-95)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-e8",
+      "endorser": "Neal Reisner",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Neal Reisner furnished a pamphlet argument in opposition to Measure 3-644.",
+      "excerpt": "This information furnished by Neal Reisner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 96 (printed C-95)"
+      }
+    },
+    {
+      "id": "gladstone-sd-3-644-e9",
+      "endorser": "Glenda Scherer",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Glenda Scherer furnished a pamphlet argument in opposition to Measure 3-644.",
+      "excerpt": "This information furnished by Glenda Scherer",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 97 (printed C-96)"
+      }
     }
   ]
 }
