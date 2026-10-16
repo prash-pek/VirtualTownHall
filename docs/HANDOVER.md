@@ -36,7 +36,7 @@ A civic platform for the **Oregon general election on November 3, 2026**:
    - Next.js 16 App Router + TypeScript on Vercel
    - Neon Postgres + PostGIS, with Drizzle
    - Clerk, Vercel Blob, Upstash rate limits, Vercel Workflow
-   - Claude via `@anthropic-ai/sdk`, default model `claude-opus-5-5`
+   - Claude via `@anthropic-ai/sdk`, default model `claude-opus-5-5`; the per-item discussion runs on `claude-sonnet-5-5` (since 2026-10-16)
 2. **Region:** every contest on any Oregon ballot. Portland metro is the priority: Multnomah, Washington and Clackamas counties, Metro, and the City of Portland.
 3. **Scope:** candidates **and** ballot measures.
 4. **Candidate platform stays the main focus.** The first round of profiles is seeded from public sources. Every item carries a source URL, a verbatim excerpt and a source tier.

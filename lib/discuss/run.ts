@@ -11,8 +11,11 @@ import { aiCalls } from "@/lib/db/schema";
 
 import { buildPack, normalizeAnswers, systemPrompt, type ItemPack, type PackSource, type SideAnswer } from "./pack";
 
-/** Default per decisions: Opus 5.5. Low effort keeps each question cheap; both are overridable. */
-const model = process.env.DISCUSS_MODEL ?? "claude-opus-5-5";
+/**
+ * Sonnet 5.5 at low effort (Prash, 2026-10-16): it matched Opus 5.5 on every quality measure in the
+ * discussion eval at half the cost. Both are overridable without a code change.
+ */
+const model = process.env.DISCUSS_MODEL ?? "claude-sonnet-5-5";
 const effort = (process.env.DISCUSS_EFFORT ?? "low") as "low" | "medium" | "high";
 
 /** USD per million tokens [input, output, cache-read multiplier]; 5-minute cache writes bill at 1.25x input. */
