@@ -1,0 +1,171 @@
+{
+  "id": "rebecca-stavenjord",
+  "name": "Rebecca Stavenjord",
+  "race_id": "milwaukie-council-pos-4",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.milwaukieoregon.gov/government/city_council/index.php",
+  "occupation": "Milwaukie City Councilor, Elected 2022",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "rebecca-stavenjord-b1",
+      "topic": "custom:background",
+      "statement": "Stavenjord's pamphlet statement lists occupation as Milwaukie City Councilor, elected 2022.",
+      "excerpt": "Occupation: Milwaukie City Councilor, Elected 2022",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rebecca-stavenjord-b2",
+      "topic": "custom:background",
+      "statement": "Stavenjord's pamphlet statement lists prior governmental experience as Milwaukie City Council member since 2022 and chair of the city's Redevelopment Commission Community Advisory Committee.",
+      "excerpt": "Milwaukie City Council (2022-present), Chair - Milwaukie’s Redevelopment Commission Community Advisory Committee",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rebecca-stavenjord-b3",
+      "topic": "custom:background",
+      "statement": "The city council page lists Stavenjord as a Milwaukie city councilor.",
+      "excerpt": "Councilor Rebecca Stavenjord",
+      "source": {
+        "url": "https://www.milwaukieoregon.gov/government/city_council/index.php",
+        "publisher": "City of Milwaukie (official city council page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "rebecca-stavenjord-p1",
+      "topic": "housing",
+      "statement": "Stavenjord's pamphlet statement lists quality housing that meets needs at all price points as a priority.",
+      "excerpt": "Quality housing that meets needs at all price points",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rebecca-stavenjord-p2",
+      "topic": "economy",
+      "statement": "Stavenjord's pamphlet statement lists thriving local economies that help families build generational wealth as a priority.",
+      "excerpt": "Thriving local economies that allow families to build generational wealth",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rebecca-stavenjord-p3",
+      "topic": "education",
+      "statement": "Stavenjord's pamphlet statement lists opportunities for youth to build skills and launch careers as a priority.",
+      "excerpt": "Opportunities for youth to build skills and launch careers",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rebecca-stavenjord-p4",
+      "topic": "social-services",
+      "statement": "Stavenjord's pamphlet statement lists safe neighborhoods with services and supports for the most vulnerable residents as a priority.",
+      "excerpt": "Safe neighborhoods with services and supports for our most vulnerable residents",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Unopposed; no campaign website found",
+    "No public positions found outside the pamphlet",
+    "Pamphlet statement lists no endorsers"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "Milwaukie Position 4: single candidate, pamphlet only (2 bio+1 city page, 4 positions, no endorsers listed); no campaign website found."
+  }
+}

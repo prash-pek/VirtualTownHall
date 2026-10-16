@@ -1,0 +1,109 @@
+{
+  "id": "david-breames",
+  "name": "David Breames",
+  "race_id": "sandy-council-seat-1",
+  "party": null,
+  "incumbent": null,
+  "occupation": "Owner and Licensed Private Investigator, Doing Better Protective Services US, LLC",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "david-breames-b1",
+      "topic": "custom:background",
+      "statement": "Breames's pamphlet statement lists occupation as owner and licensed private investigator of Doing Better Protective Services US, LLC.",
+      "excerpt": "Owner and Licensed Private Investigator, Doing Better Protective Services US, LLC",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 51 (printed C-50)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "david-breames-b2",
+      "topic": "custom:background",
+      "statement": "Breames's pamphlet statement lists prior governmental experience as four years on the City of Sandy Parks and Recreation Board.",
+      "excerpt": "Prior Governmental Experience: City of Sandy Parks and Recreation Board, four years",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 51 (printed C-50)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "david-breames-p1",
+      "topic": "custom:government-transparency",
+      "statement": "Breames's pamphlet statement says every council decision should be transparent, clearly justified and made in residents' interest.",
+      "excerpt": "every decision should be transparent, clearly justified, and made in the interest of the people who live here.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 51 (printed C-50)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "david-breames-p2",
+      "topic": "custom:government-transparency",
+      "statement": "Breames's pamphlet statement commits to providing plain-language summaries of what the council does.",
+      "excerpt": "provide plain-language summaries of what the council actually does, so you can stay connected without rearranging your life.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 51 (printed C-50)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No positions found on housing, utilities, public safety or growth",
+    "No campaign website found",
+    "Pamphlet statement lists no endorsers"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 3,
+    "rejected": 0,
+    "balance_notes": "Sandy Seat 1: Breames 2 bio/2 positions, Williamson 2/4; both pamphlet only, no sites, no endorsers. Comparable."
+  }
+}

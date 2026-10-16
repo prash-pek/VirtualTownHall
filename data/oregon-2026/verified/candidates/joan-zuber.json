@@ -1,0 +1,69 @@
+{
+  "id": "joan-zuber",
+  "name": "Joan Zuber",
+  "race_id": "clackamas-swcd-zone-4",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://conservationdistrict.org/our-people",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "joan-zuber-b1",
+      "topic": "custom:background",
+      "statement": "The district's board page lists Zuber as Zone 4 director, with a term expiring in 2026.",
+      "excerpt": "4 Joan Zuber Biography Member 2026 Molalla and southwest Clackamas County",
+      "source": {
+        "url": "https://conservationdistrict.org/our-people",
+        "publisher": "Clackamas Soil and Water Conservation District (official site), Our People",
+        "tier": "T1",
+        "published_at": "2026-09-01",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_incomplete"
+        ],
+        "note": "Excerpt was a bare name; replaced with the board table row.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "joan-zuber-b2",
+      "topic": "custom:background",
+      "statement": "A May 2023 district profile identifies Zuber as the Zone 4 Board Director.",
+      "excerpt": "Joan Zuber is the Zone 4 Board Director for the Clackamas Soil and Water Conservation District.",
+      "source": {
+        "url": "https://conservationdistrict.org/2023/meet-joan-zuber-clackamas-zone-4-director.html",
+        "publisher": "Clackamas Soil and Water Conservation District (official site), 'Meet Joan Zuber'",
+        "tier": "T1",
+        "published_at": "2023-05-11",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "reachable_wrong_url"
+        ],
+        "note": "Cited URL was a tag listing page; replaced with the article URL where the sentence appears (byline 2023-05-11). Date now stated in statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No pamphlet statement found (script extract)",
+    "No public positions found",
+    "Unopposed; no campaign website found"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Clackamas SWCD: four separate unopposed seats. Fantz 3 bio/2 positions, Guttridge 3/3, Zuber 2/0, Passarella 1/0. Only Fantz and Guttridge filed pamphlet statements; Zuber and Passarella have no statement (documented gaps)."
+  }
+}

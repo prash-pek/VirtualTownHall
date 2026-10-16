@@ -1,0 +1,50 @@
+{
+  "id": "nicki-passarella",
+  "name": "Nicki Passarella",
+  "race_id": "clackamas-swcd-zone-1",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://conservationdistrict.org/our-people",
+  "name_variants": [
+    "Nickie Passarella"
+  ],
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "nicki-passarella-b1",
+      "topic": "custom:background",
+      "statement": "The district lists Passarella as an associate director for Zone 1 with a term ending January 2027.",
+      "excerpt": "Nickie Passarella January 2027 1",
+      "source": {
+        "url": "https://conservationdistrict.org/?p=6979",
+        "publisher": "Clackamas Soil and Water Conservation District (official site), Associate Directors",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "District Associate Directors page lists 'Nickie Passarella  January 2027  1' (our-people page spells 'Nicki'). Associate directors are non-voting; not the Zone 1 director.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No pamphlet statement found (script extract)",
+    "No public positions or biography found",
+    "Unopposed; no campaign website found",
+    "District lists Jesse Nelson as the Zone 1 director (term 2026) and Passarella as a non-voting associate director; Nelson is not on the ballot"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Clackamas SWCD: four separate unopposed seats. Fantz 3 bio/2 positions, Guttridge 3/3, Zuber 2/0, Passarella 1/0. Only Fantz and Guttridge filed pamphlet statements; Zuber and Passarella have no statement (documented gaps)."
+  }
+}

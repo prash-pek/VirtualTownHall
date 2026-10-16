@@ -1,0 +1,415 @@
+{
+  "id": "nick-hess",
+  "name": "Nick Hess",
+  "race_id": "milwaukie-council-pos-2",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.milwaukieoregon.gov/government/city_council/index.php",
+  "occupation": "Community Revitalization Consultant",
+  "website_url": "https://www.nickformilwaukie.com",
+  "website_verified_via": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+  "bio": [
+    {
+      "id": "nick-hess-b1",
+      "topic": "custom:background",
+      "statement": "Hess's pamphlet statement lists occupation as community revitalization consultant, with an occupational background in renewable energy operations management.",
+      "excerpt": "Occupation: Community Revitalization Consultant Occupational Background: Renewable Energy Operations Management",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_incomplete",
+          "pronoun_policy"
+        ],
+        "note": "Statement mentioned the renewable energy background but excerpt did not; excerpt extended. Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-b2",
+      "topic": "custom:background",
+      "statement": "Hess's pamphlet statement lists prior governmental experience on the Milwaukie Planning Commission and as Treasurer of the Downtown Alliance of Milwaukie.",
+      "excerpt": "Prior Governmental Experience: Milwaukie Planning Commission; Treasurer, Downtown Alliance of Milwaukie",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-b3",
+      "topic": "custom:background",
+      "statement": "Hess's pamphlet statement says Hess was born and raised in Milwaukie and is raising three children there while the children attend public schools.",
+      "excerpt": "I was born and raised in Milwaukie and my wife and I are proud to raise our three children here while they attend our public schools.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "nick-hess-p1",
+      "topic": "taxes",
+      "statement": "Hess's pamphlet statement says Milwaukie needs a long-term financial plan that protects essential services and spends taxpayer dollars wisely.",
+      "excerpt": "We need a long-term financial plan that protects essential services, spends taxpayer dollars wisely, and strengthens our local economy.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-p2",
+      "topic": "infrastructure",
+      "statement": "Hess's pamphlet statement says the city must maintain streets, sidewalks and infrastructure while improving connections between neighborhoods, parks and businesses.",
+      "excerpt": "we must maintain the streets, sidewalks, and infrastructure that keep our city functioning while improving connections between neighborhoods, parks, and businesses.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-p3",
+      "topic": "local-business",
+      "statement": "Hess's pamphlet statement says Hess will support local businesses and redevelopment downtown and in neighborhood hubs.",
+      "excerpt": "I will support local businesses and redevelopment that bring new life to downtown and neighborhood hubs.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-p4",
+      "topic": "housing",
+      "statement": "On the priorities page of Hess's campaign website, Hess describes an approach to housing that combines public, private and nonprofit sectors.",
+      "excerpt": "Milwaukie should take an all of the above approach that brings together public, private, and nonprofit sectors",
+      "source": {
+        "url": "https://www.nickformilwaukie.com/priorities",
+        "publisher": "Campaign website (nickformilwaukie.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). Page undated.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-p5",
+      "topic": "environment",
+      "statement": "On the priorities page of Hess's campaign website, Hess says residents should see progress on Milwaukie Bay Park while the parks district is held accountable.",
+      "excerpt": "Milwaukie residents deserve to see real progress on Milwaukie Bay Park while ensuring NCPRD is accountable",
+      "source": {
+        "url": "https://www.nickformilwaukie.com/priorities",
+        "publisher": "Campaign website (nickformilwaukie.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). Page undated. NCPRD expanded in the statement as 'parks district'.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No position found on public safety or transportation beyond pamphlet infrastructure line",
+    "Pamphlet also lists 'over 15 Milwaukie Business Owners' as supporters (unnamed group, not recorded)"
+  ],
+  "endorsements": [
+    {
+      "id": "nick-hess-e1",
+      "endorser": "Professional Firefighters of Clackamas County, IAFF Local 1159",
+      "endorser_type": "organization",
+      "statement": "Nick Hess's pamphlet statement lists Professional Firefighters of Clackamas County, IAFF Local 1159 as an endorser.",
+      "excerpt": "Professional Firefighters of Clackamas County, IAFF Local 1159",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-e2",
+      "endorser": "The Street Trust Action Fund",
+      "endorser_type": "organization",
+      "statement": "Nick Hess's pamphlet statement lists The Street Trust Action Fund as an endorser.",
+      "excerpt": "The Street Trust Action Fund",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-e3",
+      "endorser": "Mark Gamba",
+      "endorser_type": "official",
+      "statement": "Nick Hess's pamphlet statement lists Mark Gamba as an endorser.",
+      "excerpt": "Mark Gamba, State Representative & Former Milwaukie Mayor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-e4",
+      "endorser": "Juan Carlos Gonzalez",
+      "endorser_type": "official",
+      "statement": "Nick Hess's pamphlet statement lists Juan Carlos Gonzalez as an endorser.",
+      "excerpt": "Juan Carlos Gonzalez, Metro Council President",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-e5",
+      "endorser": "Angela Brandenburg",
+      "endorser_type": "official",
+      "statement": "Nick Hess's pamphlet statement lists Angela Brandenburg as an endorser.",
+      "excerpt": "Clackamas County Sheriff Angela Brandenburg, ret.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-e6",
+      "endorser": "Will Anderson",
+      "endorser_type": "official",
+      "statement": "Nick Hess's pamphlet statement lists Will Anderson as an endorser.",
+      "excerpt": "Will Anderson, Milwaukie City Council President",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-e7",
+      "endorser": "Rebecca Stavenjord",
+      "endorser_type": "official",
+      "statement": "Nick Hess's pamphlet statement lists Rebecca Stavenjord as an endorser.",
+      "excerpt": "Rebecca Stavenjord, Milwaukie City Councilor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-e8",
+      "endorser": "Christina Stephenson",
+      "endorser_type": "official",
+      "statement": "Nick Hess's pamphlet statement lists Christina Stephenson as an endorser.",
+      "excerpt": "Christina Stephenson, Oregon Labor Commissioner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-e9",
+      "endorser": "Leesa Gratreak",
+      "endorser_type": "official",
+      "statement": "Nick Hess's pamphlet statement lists Leesa Gratreak as an endorser.",
+      "excerpt": "Leesa Gratreak, Milwaukie Planning Commission Chair",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-e10",
+      "endorser": "Rob Campbell",
+      "endorser_type": "person",
+      "statement": "Nick Hess's pamphlet statement lists Rob Campbell as an endorser.",
+      "excerpt": "Rob Campbell, Chair of the Ardenwald NDA",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "nick-hess-e11",
+      "endorser": "Amanda McAdams",
+      "endorser_type": "person",
+      "statement": "Nick Hess's pamphlet statement lists Amanda McAdams as an endorser.",
+      "excerpt": "Amanda McAdams, Chair of the Downtown Alliance Milwaukie",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 36 (printed C-35)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 12,
+    "corrected": 7,
+    "rejected": 0,
+    "balance_notes": "Milwaukie Position 2: Ball 2 bio/5 positions/5 endorsements, Murphy 2/4/10, Hess 3/5/11. All three have full pamphlet coverage. T2 uneven: Ball and Hess have campaign-site items, Murphy none (her site homepage and /meet-jennifer state priorities; /new-page-1 was not fetched). Ball's homepage names four endorsers not recorded (documented gap). Disparity is partly documented, partly missed material."
+  }
+}

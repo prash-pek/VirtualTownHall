@@ -1,0 +1,152 @@
+{
+  "id": "darren-wegener",
+  "name": "Darren Wegener",
+  "race_id": "sandy-council-seat-2",
+  "party": null,
+  "incumbent": null,
+  "occupation": "Travel Advisor/Small Business Owner; Professional Development Trainer",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "darren-wegener-b1",
+      "topic": "custom:background",
+      "statement": "Wegener's pamphlet statement lists prior governmental experience as chair of the Sandy Planning Commission, Economic Development Advisory Board member and Budget Committee member.",
+      "excerpt": "Prior Governmental Experience: City of Sandy Planning Commission, Chair; Economic Development Advisory Board; Budget Committee",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darren-wegener-b2",
+      "topic": "custom:background",
+      "statement": "Wegener's pamphlet statement lists occupation as travel advisor and small business owner and professional development trainer.",
+      "excerpt": "Occupation: Travel Advisor/Small Business Owner; Professional Development Trainer",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "darren-wegener-p1",
+      "topic": "economy",
+      "statement": "Wegener's pamphlet statement says Sandy should pursue commercial growth that creates jobs and expands the tax base, easing pressure on residents and rates.",
+      "excerpt": "We should actively pursue commercial growth that creates jobs, expands our tax base, and funds needed infrastructure, easing pressure on residents and rates.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darren-wegener-p2",
+      "topic": "custom:government-transparency",
+      "statement": "Wegener's pamphlet statement says there is still time for community input on utility rate projects and calls for more informative open houses.",
+      "excerpt": "Utility rates are rising, but there’s still time for community input before projects start. I want more informative open houses for questions and feedback",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_incomplete",
+          "pronoun_policy"
+        ],
+        "note": "Statement mentions open houses but excerpt did not; excerpt extended to the next sentence on the page. Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darren-wegener-p3",
+      "topic": "local-business",
+      "statement": "Wegener's pamphlet statement says a hotel and convention center would bring visitors and events to Sandy.",
+      "excerpt": "A hotel and convention center would bring visitors, conferences, and events to Sandy boosting the economy while building community.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "darren-wegener-p4",
+      "topic": "public-safety",
+      "statement": "Wegener's pamphlet statement calls for proactive plans for communication, essential services, infrastructure and evacuation for emergencies.",
+      "excerpt": "we need to work with our surrounding agencies and community members in creating proactive plans for communication, strengthening essential services, building infrastructure, and coordinating safe evacuation.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections, Official Voters' Pamphlet (Nov 3, 2026), PDF p. 52 (printed C-51)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "pronoun_policy"
+        ],
+        "note": "Pronoun-free rewrite (candidate states no pronouns). ",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No positions found on housing or taxes",
+    "No campaign website found",
+    "Pamphlet statement lists no endorsers"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "Sandy Seat 2: single candidate, pamphlet only."
+  }
+}

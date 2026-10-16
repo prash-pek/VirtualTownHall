@@ -1,0 +1,69 @@
+{
+  "id": "kc-bisenius",
+  "name": "KC Bisenius",
+  "race_id": "molalla-council",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.cityofmolalla.com/Departments/City-Recorders-Office/Elections",
+  "name_variants": [
+    "K.C. Bisenius",
+    "Kevin \"K.C.\" Bisenius"
+  ],
+  "occupation": "Molalla City Councilor",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "kc-bisenius-b1",
+      "topic": "custom:background",
+      "statement": "The city's profile says Councilor K.C. Bisenius has over 25 years of experience in sales and management.",
+      "excerpt": "He brings to the Council over 25 years of experience in Sales and Management",
+      "source": {
+        "url": "https://www.cityofmolalla.com/Government/Molalla-City-Council/Meet-the-Molalla-City-Council/K.C.-Bisenius",
+        "publisher": "City of Molalla (official city council page), councilor profile",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Page fetched 2026-10-16; text present.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kc-bisenius-b2",
+      "topic": "custom:background",
+      "statement": "The city's profile says Bisenius is committed to helping Molalla grow responsibly while protecting its small-town character.",
+      "excerpt": "committed to helping the City grow responsibly while protecting its small-town character",
+      "source": {
+        "url": "https://www.cityofmolalla.com/Government/Molalla-City-Council/Meet-the-Molalla-City-Council/K.C.-Bisenius",
+        "publisher": "City of Molalla (official city council page), councilor profile",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet extract and cited page checked 2026-10-16; excerpt verbatim, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "No pamphlet statement found (script extract)",
+    "Unopposed (3 candidates for 3 seats); no public positions found",
+    "No campaign website found"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Molalla Council: 3 candidates for 3 seats; no pamphlet statements filed by any. Bisenius has 2 city-profile bio items; Bergmann and Howe have none (documented gaps). Disparity reflects the sources, not unequal effort."
+  }
+}

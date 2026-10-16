@@ -1,0 +1,51 @@
+{
+  "id": "doug-mclean",
+  "name": "Doug McLean",
+  "race_id": "rivergrove-council",
+  "party": null,
+  "incumbent": true,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "doug-mclean-b1",
+      "topic": "custom:office",
+      "statement": "The City of Rivergrove city council page lists Doug McLean as a councilor.",
+      "excerpt": "Doug McLean Councilor",
+      "source": {
+        "url": "https://www.cityofrivergrove.org/government/city-council/",
+        "publisher": "City of Rivergrove, City Council page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched; excerpt present and attribution correct.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "no pamphlet statement found (script extract)",
+    "No campaign website found or linked",
+    "No sourced positions or biography beyond the city roster listing",
+    "Pamplin Media (pamplinmedia.com) articles blocked to automated fetch; not read",
+    "No endorsements (no pamphlet statement)"
+  ],
+  "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/",
+  "name_variants": [
+    "Douglas McLean"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Six candidates for three seats. Silber 8 items, Taylor 6, Egusa 6, Joyce 6, Dull 6, McLean 1 (roster only; no pamphlet statement, documented in gaps). Disparity for McLean reflects the absence of any statement or website, not search effort. Spot search found only aggregator pages (GoodParty) which are excluded."
+  }
+}

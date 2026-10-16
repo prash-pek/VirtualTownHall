@@ -1,0 +1,88 @@
+{
+  "id": "rhett-bernstein",
+  "name": "Rhett L Bernstein",
+  "race_id": "west-linn-municipal-judge",
+  "party": null,
+  "incumbent": true,
+  "occupation": "West Linn Municipal Court Judge",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "rhett-bernstein-b1",
+      "topic": "custom:office",
+      "statement": "The City of West Linn municipal judge page says voters reelected Rhett L. Bernstein as West Linn municipal court judge in November 2022, to serve through December 31, 2026.",
+      "excerpt": "reelected Rhett L. Bernstein to serve as their West Linn municipal court judge",
+      "source": {
+        "url": "https://westlinnoregon.gov/municipalcourt/municipal-judge",
+        "publisher": "City of West Linn, Municipal Judge page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched; excerpt present and attribution correct.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rhett-bernstein-b2",
+      "topic": "custom:background",
+      "statement": "The city page says Bernstein was born and raised in West Linn and received a Juris Doctorate from the Northwestern School of Law at Lewis and Clark College.",
+      "excerpt": "Born and raised in West Linn, Oregon, Rhett Bernstein received his Juris Doctorate from the Northwestern School of Law at Lewis and Clark College",
+      "source": {
+        "url": "https://westlinnoregon.gov/municipalcourt/municipal-judge",
+        "publisher": "City of West Linn, Municipal Judge page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt and statement extended to the full sentence on the page (school named).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rhett-bernstein-b3",
+      "topic": "education",
+      "statement": "Lewis & Clark Law School's profile says Bernstein holds a JD from 2002 and was reelected as West Linn's municipal judge in November 2022.",
+      "excerpt": "Rhett Bernstein JD ’02 was reelected as West Linn’s municipal judge in November 2022.",
+      "source": {
+        "url": "https://www.lclark.edu/live/profiles/17511-rhett-bernstein",
+        "publisher": "Lewis & Clark College, Rhett Bernstein profile",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched; excerpt present and attribution correct.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "no pamphlet statement found (script extract)",
+    "No campaign website found",
+    "No positions: municipal judicial office; no public policy statements found",
+    "Pamplin Media blocked to automated fetch",
+    "No endorsements (no pamphlet statement)"
+  ],
+  "incumbent_source_url": "https://westlinnoregon.gov/municipalcourt/municipal-judge",
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Single unopposed incumbent with no pamphlet statement; 3 biographical items (2 T1 city page, 1 T3 Lewis & Clark profile), no positions (judicial office), documented in gaps."
+  }
+}
