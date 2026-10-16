@@ -8,7 +8,9 @@
  *   ?step=start                      submit the answer batch
  *   ?step=status&id=msgbatch_…       batch progress
  *   ?step=judge&id=<answers batch>   submit the grading batch from the finished answers
- *   ?step=results&answers=…&judge=…[&page=N]  summary table plus 40 records per page
+ *   ?step=results&answers=…&judge=…[&judge2=…][&page=N]  summary table plus 40 records per page
+ *   ?step=raw&answers=…&ids=a-1,…    the model's raw output for up to 10 answers
+ *   ?step=judge&id=…&only=dropped    re-grade only answers production matching dropped sides from
  */
 import { createHash, timingSafeEqual } from "node:crypto";
 
@@ -18,6 +20,7 @@ import { NextResponse } from "next/server";
 import {
   answerParams,
   buildRecords,
+  droppedSides,
   judgeParams,
   parseAnswers,
   summarize,
@@ -93,8 +96,10 @@ export async function GET(request: Request) {
     if ((await client.messages.batches.retrieve(id)).processing_status !== "ended")
       return NextResponse.json({ error: "answers_not_finished" }, { status: 409 });
     const answers = await outcomes(client, id);
+    const onlyDropped = url.searchParams.get("only") === "dropped";
     const requests = bundle.tasks.flatMap((t) => {
       const item = bundle.items[t.itemKey]!;
+      if (onlyDropped && !droppedSides(item, answers.get(t.id)?.message)) return [];
       const parsed = parseAnswers(item, answers.get(t.id)?.message);
       return parsed ? [{ custom_id: `j-${t.id}`, params: judgeParams(t, item, parsed, bundle.judge) }] : [];
     });
@@ -106,7 +111,10 @@ export async function GET(request: Request) {
     const a = batchId(url.searchParams.get("answers"));
     const j = batchId(url.searchParams.get("judge"));
     if (!a || !j) return NextResponse.json({ error: "invalid_request" }, { status: 400 });
-    const records = buildRecords(bundle.tasks, bundle.items, await outcomes(client, a), await outcomes(client, j));
+    const j2 = batchId(url.searchParams.get("judge2"));
+    const judged = await outcomes(client, j);
+    if (j2) for (const [k, v] of await outcomes(client, j2)) judged.set(k, v);
+    const records = buildRecords(bundle.tasks, bundle.items, await outcomes(client, a), judged);
     const page = Math.max(0, Number(url.searchParams.get("page") ?? 0) || 0);
     return NextResponse.json({
       summary: summarize(records, bundle.configs),

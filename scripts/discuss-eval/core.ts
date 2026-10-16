@@ -133,10 +133,46 @@ export const parseJson = <T>(m: Anthropic.Message | null | undefined): T | null 
   }
 };
 
-/** The answer for each side, or null if the model's output didn't parse. */
-export function parseAnswers(item: Item, m: Anthropic.Message | null | undefined): SideAnswer[] | null {
+/**
+ * Maps the model's `side` values onto side ids. Models often return the label ("The case for YES",
+ * "Jeff Merkley, Democrat, incumbent") instead of the id; production's normalizeAnswers matches ids
+ * only, so those sides show "No answer was produced". This matches id, then label, then position.
+ */
+function relabel(item: Item, raw: SideAnswer[]): SideAnswer[] {
+  const norm = (s: string) =>
+    s
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, " ")
+      .trim();
+  const sides = item.pack.sides;
+  const pick = (a: SideAnswer, i: number) => {
+    const v = norm(a.side);
+    const hit =
+      sides.find((s) => s.id === a.side) ??
+      sides.find((s) => norm(s.label) === v) ??
+      sides.find((s) => v.startsWith(norm(s.label)) || v.includes(norm(s.label))) ??
+      (raw.length === sides.length ? sides[i] : undefined);
+    return { ...a, side: hit?.id ?? a.side };
+  };
+  return raw.map(pick);
+}
+
+/** The answer for each side, or null if the model's output didn't parse. strict = production matching. */
+export function parseAnswers(item: Item, m: Anthropic.Message | null | undefined, strict = false): SideAnswer[] | null {
   const raw = parseJson<{ responses: SideAnswer[] }>(m);
-  return raw ? normalizeAnswers(item.pack, buildPack(item.pack).sources, raw.responses) : null;
+  if (!raw) return null;
+  return normalizeAnswers(
+    item.pack,
+    buildPack(item.pack).sources,
+    strict ? raw.responses : relabel(item, raw.responses),
+  );
+}
+
+/** Sides production would show as "No answer was produced" for this output. */
+export function droppedSides(item: Item, m: Anthropic.Message | null | undefined): number {
+  const raw = parseJson<{ responses: SideAnswer[] }>(m);
+  if (!raw) return 0;
+  return item.pack.sides.filter((s) => !raw.responses.some((a) => a.side === s.id)).length;
 }
 
 /** Cost of one call at standard prices: cold = prefix written to cache, warm = prefix read from it. */
@@ -177,6 +213,7 @@ export type EvalRecord = {
   stopReason: string | null;
   usage: Anthropic.Usage | null;
   answers: SideAnswer[] | null;
+  droppedInProduction: number;
   grade: Grade | null;
   judgeUsage: Anthropic.Usage | null;
 };
@@ -203,6 +240,7 @@ export function buildRecords(
       stopReason: a?.message?.stop_reason ?? null,
       usage: a?.message?.usage ?? null,
       answers: parsed,
+      droppedInProduction: droppedSides(item, a?.message),
       grade: parseJson<Grade>(j?.message),
       judgeUsage: j?.message?.usage ?? null,
     };
@@ -213,8 +251,8 @@ export function buildRecords(
 export function summarize(records: EvalRecord[], configs: Config[]): string {
   const pct = (n: number, d: number) => (d ? `${((100 * n) / d).toFixed(1)}%` : "n/a");
   const lines = [
-    "| Config | Calls | Failed | Out tok/side | $/question cold | $/question warm | Fully grounded | Unsupported claim | Wrongly declined | Gap Qs declined | Neutral | Even-handed | Helpful (1-5) |",
-    "|---|---|---|---|---|---|---|---|---|---|---|---|---|",
+    "| Config | Calls | Failed | Out tok/side | $/question cold | $/question warm | Fully grounded | Unsupported claim | Wrongly declined | Gap Qs declined | Neutral | Even-handed | Helpful (1-5) | Sides dropped in production |",
+    "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|",
   ];
   for (const c of configs) {
     const rs = records.filter((r) => r.config === c.name);
@@ -240,6 +278,10 @@ export function summarize(records: EvalRecord[], configs: Config[]): string {
       pct(graded.filter((r) => r.grade!.neutral).length, graded.length),
       pct(graded.filter((r) => r.grade!.evenHanded).length, graded.length),
       (graded.reduce((s, r) => s + r.grade!.helpfulness, 0) / (graded.length || 1)).toFixed(2),
+      pct(
+        ok.reduce((s, r) => s + r.droppedInProduction, 0),
+        ok.reduce((s, r) => s + r.sides, 0),
+      ),
     ];
     lines.push(`| ${cells.join(" | ")} |`);
   }
