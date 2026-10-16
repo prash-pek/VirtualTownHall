@@ -244,19 +244,25 @@ itemKeys.forEach((itemKey, i) => {
 // Rough pre-run estimate: 3.5 chars/token in, ~130 output tokens per side incl. low-effort thinking.
 const discount = args.direct ? 1 : 0.5;
 let estimate = 0;
+const byPart = new Map<string, number>();
+const addPart = (k: string, v: number) => byPart.set(k, (byPart.get(k) ?? 0) + v * discount);
 for (const t of tasks) {
   const inTok = (systemPrompt(t.pack.kind).length + t.sourcesText.length) / 3.5;
   const outTok = 130 * t.pack.sides.length + 200;
   const p = prices[t.config.model]!;
   const j = prices[judge.model]!;
-  estimate += (inTok * p.input + outTok * p.output) / 1e6; // answer
-  estimate += ((inTok + outTok) * j.input + (600 + 100 * t.pack.sides.length) * j.output) / 1e6; // judge
+  const answerCost = (inTok * p.input + outTok * p.output) / 1e6;
+  const judgeCost = ((inTok + outTok) * j.input + (600 + 100 * t.pack.sides.length) * j.output) / 1e6;
+  estimate += answerCost + judgeCost;
+  addPart(`answers ${t.config.name}`, answerCost);
+  addPart(`judge (${judge.name})`, judgeCost);
 }
 estimate *= discount;
 console.log(
   `${tasks.length} answers (${itemKeys.length} items x ${Number(args.questions) + 2} questions x ${configs.length} configs) + ${tasks.length} judge calls`,
 );
 console.log(`estimated spend ≈ $${estimate.toFixed(2)}${args.direct ? "" : " (Batch API, half price)"}`);
+for (const [k, v] of byPart) console.log(`  ${k}: $${v.toFixed(2)}`);
 if (!args.yes) {
   console.log("dry run: pass --yes to spend it");
   process.exit(0);

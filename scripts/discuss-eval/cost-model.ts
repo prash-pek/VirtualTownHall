@@ -73,9 +73,16 @@ function itemCost(
   for (let i = 0; i < Math.ceil(q); i++) {
     const weight = i < Math.floor(q) ? 1 : q - Math.floor(q);
     const warm = i > 0 || firstWarm;
-    const history = Math.min(i, HISTORY_ROUNDS) * (answerTok + QUESTION_TOKENS);
+    // run.ts caches history up to the last earlier answer: rounds the previous request already sent are
+    // read, the newest is written. Once the 3-round window slides, the whole window is rewritten.
+    const round = answerTok + QUESTION_TOKENS;
+    const readRounds = i <= HISTORY_ROUNDS ? Math.max(i - 1, 0) : 0;
+    const writeRounds = Math.min(i, HISTORY_ROUNDS) - readRounds;
     const input =
-      (warm ? prefix * p.cacheRead : prefix * p.input * CACHE_WRITE) + (history + QUESTION_TOKENS) * p.input;
+      (warm ? prefix * p.cacheRead : prefix * p.input * CACHE_WRITE) +
+      readRounds * round * p.cacheRead +
+      writeRounds * round * p.input * CACHE_WRITE +
+      QUESTION_TOKENS * p.input;
     cost += (weight * (input + outTok * p.output)) / 1e6;
   }
   return cost;
