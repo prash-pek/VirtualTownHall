@@ -1,0 +1,164 @@
+{
+  "id": "john-goodhouse",
+  "name": "John Goodhouse",
+  "race_id": "tigard-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Independent Insurance Broker, Owner",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "john-goodhouse-b1",
+      "topic": "custom:background",
+      "statement": "Goodhouse's pamphlet statement lists past Tigard City Council president, Planning Commission and Chamber of Commerce government and public policy service.",
+      "excerpt": "Prior Governmental Experience: Tigard City Council, Past Council President; Tigard Planning Commission; Tigard Chamber of Commerce Government & Public Policy",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "john-goodhouse-b2",
+      "topic": "custom:background",
+      "statement": "He lists his occupation as independent insurance broker and owner, with a background as a downtown Tigard small business owner.",
+      "excerpt": "Occupation: Independent Insurance Broker, Owner Occupational Background: Small Business Owner, Downtown Tigard",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "john-goodhouse-b3",
+      "topic": "custom:background",
+      "statement": "The pamphlet lists committee appointments including the National League of Cities Transportation Committee and chair of the Willamette River Water Coalition board.",
+      "excerpt": "Committee Appointments: National League of Cities Transportation Committee; Board Chair-Willamette River Water Coalition",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "john-goodhouse-p1",
+      "topic": "local-business",
+      "statement": "Goodhouse's pamphlet statement lists supporting new and existing businesses in Tigard as a priority.",
+      "excerpt": "-Support New and Existing businesses in Tigard",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "john-goodhouse-p2",
+      "topic": "public-safety",
+      "statement": "His pamphlet statement lists supporting the Police Department to make the community safer.",
+      "excerpt": "-Supporting our Police Department to make our community a safer place to live, get around and raise our families",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "john-goodhouse-p3",
+      "topic": "housing",
+      "statement": "His pamphlet statement lists working with builders and city planning to make housing more affordable and to streamline the process of building homes.",
+      "excerpt": "-Work with builders and city planning to make the cost of housing more affordable to streamline the process of building homes",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement reworded to track the pamphlet's own wording.",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "john-goodhouse-p4",
+      "topic": "transportation",
+      "statement": "His pamphlet statement lists improving transportation, including sidewalks, bike lanes, trails and traffic congestion.",
+      "excerpt": "-Improve transportation throughout Tigard, from sidewalks, bike lanes, trails connecting neighborhoods and traffic congestion",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-36)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign website not identified; pamphlet directs to a Facebook page (social media not cited)",
+    "No public position found on taxes or budget",
+    "No Pamplin (Tigard Times) 2026 candidate Q&A readable (pamplinmedia.com blocks automated fetch)",
+    "Pamphlet statement names no endorsers; it refers readers to a Facebook page (not cited)"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Tigard council: pamphlet statements anchor all 7 candidates; Martinez has no pamphlet statement or public material (documented gap). Endorsement counts vary with what each pamphlet lists (Goodhouse and Darland list none). Spot searches found no additional T1/T2/T3 material."
+  }
+}

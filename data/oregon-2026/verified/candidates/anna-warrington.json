@@ -1,0 +1,317 @@
+{
+  "id": "anna-warrington",
+  "name": "Anna Warrington",
+  "race_id": "north-plains-council",
+  "party": null,
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": "Retired team lead and project manager",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "anna-warrington-b1",
+      "topic": "custom:background",
+      "statement": "Warrington's pamphlet statement lists North Plains City Councilor 2026 as prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: North Plains City Councilor 2026",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement trimmed: 'appointed councilor' is not in this excerpt (it is in b2).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-b2",
+      "topic": "custom:background",
+      "statement": "She says she has been a North Plains resident for two decades and is a retired team lead and project manager.",
+      "excerpt": "As a North Plains resident for two decades and a retired Team Lead and Project Manager, I am proud to serve as your appointed City Councilor.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "anna-warrington-p1",
+      "topic": "economy",
+      "statement": "Warrington's pamphlet statement says her focus is on constant, high-quality development over rapid expansion that reflects what residents want.",
+      "excerpt": "My focus is on constant, high-quality development over rapid expansion that reflects what North Plains residents want.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-p2",
+      "topic": "local-business",
+      "statement": "Her pamphlet statement says she is focused on Urban Renewal Agency funding that can help local businesses thrive.",
+      "excerpt": "I’m focused on our Urban Renewal Agency fundings that can help our local businesses thrive.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-p3",
+      "topic": "taxes",
+      "statement": "Warrington's pamphlet statement says addressing overdue audits is 'our top priority' and that she will keep working on the remaining reports until everything is current.",
+      "excerpt": "Addressing overdue audits is our top priority. We just received the 2021/22 audit from our accountants. I will keep working on the remaining reports until everything is current.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt extended to the text actually supporting the second half of the statement; statement made attributive.",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No public position found on housing, public safety or data centers",
+    "No Pamplin/Hillsboro News-Times 2026 candidate Q&A found",
+    "No campaign website identified"
+  ],
+  "endorsements": [
+    {
+      "id": "anna-warrington-e1",
+      "topic": "custom:endorsement",
+      "statement": "Warrington's pamphlet statement lists Aaron Nichols, Friends of Smart Growth as an endorser.",
+      "excerpt": "Aaron Nichols – Friends of Smart Growth",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Aaron Nichols, Friends of Smart Growth",
+      "endorser_type": "person",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-e2",
+      "topic": "custom:endorsement",
+      "statement": "Warrington's pamphlet statement lists Mel and Wendy Mortensen, Shepards Rest Tree Farm as an endorser.",
+      "excerpt": "Mel & Wendy Mortensen – Shepards Rest Tree Farm",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Mel and Wendy Mortensen, Shepards Rest Tree Farm",
+      "endorser_type": "person",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-e3",
+      "topic": "custom:endorsement",
+      "statement": "Warrington's pamphlet statement lists Linda Gales-Merten, Merten Vineyards LLC as an endorser.",
+      "excerpt": "Linda Gales-Merten – Merten Vineyards LLC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Linda Gales-Merten, Merten Vineyards LLC",
+      "endorser_type": "person",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-e4",
+      "topic": "custom:endorsement",
+      "statement": "Warrington's pamphlet statement lists John Platt, Helvetia Winery, LLC as an endorser.",
+      "excerpt": "John Platt - Helvetia Winery, LLC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "John Platt, Helvetia Winery, LLC",
+      "endorser_type": "person",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-e5",
+      "topic": "custom:endorsement",
+      "statement": "Warrington's pamphlet statement lists Faun Hosey, Save Helvetia as an endorser.",
+      "excerpt": "Faun Hosey – Save Helvetia",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Faun Hosey, Save Helvetia",
+      "endorser_type": "person",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-e6",
+      "topic": "custom:endorsement",
+      "statement": "Warrington's pamphlet statement lists Mandy Hagedorn, Previous North Plains City Councilor as an endorser.",
+      "excerpt": "Mandy Hagedorn – Previous NP City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Mandy Hagedorn, Previous North Plains City Councilor",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-e7",
+      "topic": "custom:endorsement",
+      "statement": "Warrington's pamphlet statement lists Don Weber, North Plains City Councilor as an endorser.",
+      "excerpt": "Don Weber – NP City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Don Weber, North Plains City Councilor",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-e8",
+      "topic": "custom:endorsement",
+      "statement": "Warrington's pamphlet statement lists Mark DeForge, North Plains City Councilor as an endorser.",
+      "excerpt": "Mark DeForge – NP City Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Mark DeForge, North Plains City Councilor",
+      "endorser_type": "official",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    },
+    {
+      "id": "anna-warrington-e9",
+      "topic": "custom:endorsement",
+      "statement": "Warrington's pamphlet statement lists Lora Dexheimer as an endorser.",
+      "excerpt": "Lora Dexheimer",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, Nov. 3, 2026 (page WC-24)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "endorser": "Lora Dexheimer",
+      "endorser_type": "person",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in the candidate's own pamphlet statement (extract, correct column).",
+        "verified_at": "2026-10-15"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 12,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "North Plains council: all 6 have pamphlet statements only (no campaign sites, no press found; Pamplin blocked, applied equally). Endorsement counts vary with each pamphlet (Axe 10, Weber 10, Warrington 9; VanDyke, Blancas, Ferrari-Harwood list none). Spot searches found no additional material."
+  }
+}
