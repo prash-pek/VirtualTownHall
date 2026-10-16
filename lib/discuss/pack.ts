@@ -73,6 +73,7 @@ Rules:
 - Use ONLY the numbered SOURCES. Do not use outside knowledge, even for well-known facts. Cite the source numbers each answer relies on in sourceIds.
 - If a side's sources don't address the question, say so plainly for that side (for example "The public record we have doesn't show X's position on this.") and return empty sourceIds. Never guess or infer a position.
 - ${voice}
+- Return one response per side. Set "side" to that side's id exactly as shown in SIDE id="…" (for example "yes", "no" or "jane-doe"), never its label.
 - Give every side the same care and roughly the same length (2 to 4 sentences). Answer in the order the sides are listed.
 - A side may cite OFFICIAL BACKGROUND. Endorsements are the endorser's opinion: attribute them ("Willamette Week endorsed…, saying…") and never present them as the side's own words.
 - Never recommend how to vote, and never say which side is better or right, even if asked. If the voter asks what to do, explain what each side says relevant to their concern and leave the choice to them.
@@ -82,11 +83,47 @@ Rules:
 
 export type SideAnswer = { side: string; answer: string; sourceIds: number[] };
 
+const norm = (s: string) =>
+  s
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+
+/**
+ * Which side a raw answer belongs to. Models sometimes return the label ("The case for YES",
+ * "Jane Doe, Democrat") instead of the id, so this matches the id, then the label, then position.
+ */
+function matchSides(pack: ItemPack, raw: SideAnswer[]): Map<string, SideAnswer> {
+  const out = new Map<string, SideAnswer>();
+  const free = (id: string) => !out.has(id);
+  const tests: ((side: PackSide, v: string, a: SideAnswer) => boolean)[] = [
+    (side, _v, a) => side.id === a.side,
+    (side, v) => norm(side.id) === v || norm(side.label) === v,
+    (side, v) => v.length > 0 && (v.includes(norm(side.label)) || norm(side.label).startsWith(v)),
+  ];
+  for (const test of tests) {
+    for (const a of raw) {
+      if ([...out.values()].includes(a)) continue;
+      const v = norm(a.side);
+      const side = pack.sides.find((s) => free(s.id) && test(s, v, a));
+      if (side) out.set(side.id, a);
+    }
+  }
+  if (raw.length === pack.sides.length) {
+    raw.forEach((a, i) => {
+      const side = pack.sides[i]!;
+      if (free(side.id) && ![...out.values()].includes(a)) out.set(side.id, a);
+    });
+  }
+  return out;
+}
+
 /** Keeps exactly one answer per side, in pack order, dropping citations that don't exist. */
 export function normalizeAnswers(pack: ItemPack, sources: NumberedSource[], raw: SideAnswer[]): SideAnswer[] {
   const valid = new Set(sources.map((s) => s.n));
+  const bySide = matchSides(pack, raw);
   return pack.sides.map((side) => {
-    const r = raw.find((a) => a.side === side.id);
+    const r = bySide.get(side.id);
     if (!r || !r.answer.trim()) {
       return { side: side.id, answer: "No answer was produced for this side. Please ask again.", sourceIds: [] };
     }

@@ -59,4 +59,51 @@ describe("normalizeAnswers", () => {
     expect(out[1]!.sourceIds).toEqual([2]);
     expect(out[0]!.answer).toMatch(/No answer/);
   });
+
+  it("matches answers that use labels instead of ids", () => {
+    const measure: ItemPack = {
+      kind: "measure",
+      title: "Measure 1",
+      background: [],
+      sides: [
+        { id: "yes", label: "The case for YES", facts: [src("Supporters say it helps.")], endorsements: [] },
+        { id: "no", label: "The case for NO", facts: [src("Opponents say it costs too much.")], endorsements: [] },
+      ],
+    };
+    const m = normalizeAnswers(measure, buildPack(measure).sources, [
+      { side: "The case for NO", answer: "Opponents cite cost.", sourceIds: [2] },
+      { side: "The case for YES", answer: "Supporters say it helps.", sourceIds: [1] },
+    ]);
+    expect(m.map((a) => [a.side, a.answer])).toEqual([
+      ["yes", "Supporters say it helps."],
+      ["no", "Opponents cite cost."],
+    ]);
+
+    const senate: ItemPack = {
+      ...race,
+      sides: [
+        { id: "jeff-merkley", label: "Jeff Merkley, Democrat, incumbent", facts: [src("A")], endorsements: [] },
+        { id: "jo-rae-perkins", label: "Jo Rae Perkins, Republican", facts: [src("B")], endorsements: [] },
+      ],
+    };
+    const c = normalizeAnswers(senate, buildPack(senate).sources, [
+      { side: "Jo Rae Perkins", answer: "Perkins answer.", sourceIds: [] },
+      { side: "Jeff Merkley, Democrat, incumbent", answer: "Merkley answer.", sourceIds: [] },
+    ]);
+    expect(c.map((a) => [a.side, a.answer])).toEqual([
+      ["jeff-merkley", "Merkley answer."],
+      ["jo-rae-perkins", "Perkins answer."],
+    ]);
+  });
+
+  it("falls back to position when every side answered but none match", () => {
+    const out = normalizeAnswers(race, buildPack(race).sources, [
+      { side: "first", answer: "One.", sourceIds: [] },
+      { side: "second", answer: "Two.", sourceIds: [] },
+    ]);
+    expect(out.map((a) => [a.side, a.answer])).toEqual([
+      ["ann", "One."],
+      ["bo", "Two."],
+    ]);
+  });
 });
