@@ -1,0 +1,340 @@
+{
+  "id": "ann-walker",
+  "name": "Ann Walker",
+  "race_id": "or-house-49",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/Hudson",
+  "occupation": "Small business owner; wildfire consultant",
+  "website_url": "https://www.friendsofannwalker.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf (p. 56)",
+  "bio": [
+    {
+      "id": "ann-walker-b1",
+      "topic": "custom:background",
+      "statement": "Ballotpedia lists Ann Walker, a Republican, as a candidate for Oregon House District 49 in 2026.",
+      "excerpt": "Ann Walker (Republican Party) is running for election to the Oregon House of Representatives to represent District 49.",
+      "source": {
+        "url": "https://ballotpedia.org/Ann_Walker",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-b2",
+      "topic": "custom:occupation",
+      "statement": "Walker's pamphlet statement lists the occupation as owner of Ann Walker Consulting, LLC and wildfire consultant for 14 years, with a background including Western Governors' Association fire and forestry policy director for 8 years.",
+      "excerpt": "Occupation: Small Business Owner, Ann Walker Consulting, LLC, Wildfire Consultant 14 years Occupational Background: Western Governors' Assn(WGA), Fire and Forestry Policy Director 8 years",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 56); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-b3",
+      "topic": "custom:education",
+      "statement": "Walker's pamphlet statement lists wildland fire and incident management training, forest law courses, a forest fire risk restoration course and Molalla Union High School as the educational background.",
+      "excerpt": "Educational Background: FEMA Cert 700 National Incident Management; ODF S-110 Wildland Fire Suppression; S-130 Firefighter Training; S-190 Fire Behavior; S-290 Intermediate Wildland Fire Behavior; D-510 Supervisory Dispatcher; Forest Law I & II; OFRI-Forest Fire Risk Restoration; Molalla Union High School.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt was cut before 'Molalla Union High School' which the statement mentions; extended to the full printed line (<=50 words) and statement adjusted.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-b4",
+      "topic": "custom:experience",
+      "statement": "Walker's pamphlet statement lists WGA Forest Health Advisory Committee lead and Oregon Governor's representative to that committee as prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: WGA Forest Health Advisory Committee Lead; OR Governor's representative (Kulongoski & Kitzhaber(2) Administration) to the WGA Forest Health Advisory Committee.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 56); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "ann-walker-p1",
+      "topic": "economy",
+      "statement": "Walker's pamphlet statement lists relief from rising gas, groceries and housing costs.",
+      "excerpt": "Relief from rising gas, groceries, and housing costs;",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 56); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-p2",
+      "topic": "custom:governance",
+      "statement": "Walker's pamphlet statement lists agency accountability for every penny collected and spent.",
+      "excerpt": "Agency accountability for every penny collected and spent;",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 56); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-p3",
+      "topic": "public-safety",
+      "statement": "Walker's pamphlet statement lists increased public safety resources for neighborhoods, schools, seniors and first responders.",
+      "excerpt": "Increased Public Safety resources for all Neighborhoods, Schools, Seniors and First Responders;",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 56); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-p4",
+      "topic": "local-business",
+      "statement": "Walker's pamphlet statement lists support for small businesses, revising the Corporate Activity Tax and reducing burdensome fees.",
+      "excerpt": "Support for Small Businesses, revise the CAT(Corporate Activity Tax), reduce burdensome fees;",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 56); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-p5",
+      "topic": "environment",
+      "statement": "Walker's pamphlet statement lists education and action for responsible stewardship of natural resources.",
+      "excerpt": "Education and Action for Responsible Stewardship of our Natural Resources.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 56); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-p6",
+      "topic": "education",
+      "statement": "Walker's pamphlet statement says parents want high school graduates to have the skills to get a job.",
+      "excerpt": "Parents say high school graduates MUST HAVE the skills to get a job",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 56); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-p7",
+      "topic": "taxes",
+      "statement": "On their campaign site, Walker lists no new taxes and reducing fees and taxes among their priorities.",
+      "excerpt": "NO NEW TAXES - REDUCE FEES & TAXES",
+      "source": {
+        "url": "https://www.friendsofannwalker.com",
+        "publisher": "Ann Walker campaign website (friendsofannwalker.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-p8",
+      "topic": "environment",
+      "statement": "On their campaign site, Walker lists managing forests and promoting energy development from wood.",
+      "excerpt": "MANAGE OUR FORESTS AND PROMOTE ENERGY DEVELOPMENT FROM WOOD",
+      "source": {
+        "url": "https://www.friendsofannwalker.com",
+        "publisher": "Ann Walker campaign website (friendsofannwalker.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-p9",
+      "topic": "education",
+      "statement": "On their campaign site, Walker lists instruction time focused on reading, math and science.",
+      "excerpt": "INSTRUCTION TIME FOCUSED ON READING, MATH, AND SCIENCE",
+      "source": {
+        "url": "https://www.friendsofannwalker.com",
+        "publisher": "Ann Walker campaign website (friendsofannwalker.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-p10",
+      "topic": "agriculture",
+      "statement": "On their campaign site, Walker lists support for local business and farms.",
+      "excerpt": "SUPPORT LOCAL BUSINESS & FARMS",
+      "source": {
+        "url": "https://www.friendsofannwalker.com",
+        "publisher": "Ann Walker campaign website (friendsofannwalker.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Ballotpedia: has not completed Candidate Connection survey"
+  ],
+  "endorsements": [
+    {
+      "id": "ann-walker-e1",
+      "endorser": "Lucetta Elmer, House Minority Leader, State Representative, HD 24",
+      "endorser_type": "official",
+      "statement": "Ann Walker's pamphlet statement lists Lucetta Elmer, House Minority Leader, State Representative, HD 24 as an endorser.",
+      "excerpt": "Lucetta Elmer, House Minority Leader, State Representative, HD 24",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 56.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "ann-walker-e2",
+      "endorser": "Alek Skarlatos, House Deputy Minority Leader, State Representative, HD 4",
+      "endorser_type": "official",
+      "statement": "Ann Walker's pamphlet statement lists Alek Skarlatos, House Deputy Minority Leader, State Representative, HD 4 as an endorser.",
+      "excerpt": "Alek Skarlatos, House Deputy Minority Leader, State Representative, HD 4",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 56",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 56.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 13,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "HD49: 14 items + 2 endorsements vs Zach Hudson 15 items + 14 endorsements. Item counts balanced (both have pamphlet plus campaign-site items); endorsement gap reflects what each pamphlet statement prints (Walker lists two).",
+    "endorsements": {
+      "verified": 2,
+      "corrected": 0,
+      "rejected": 0
+    }
+  }
+}

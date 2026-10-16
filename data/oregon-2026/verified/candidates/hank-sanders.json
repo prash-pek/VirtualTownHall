@@ -1,0 +1,620 @@
+{
+  "id": "hank-sanders",
+  "name": "Hank Sanders",
+  "race_id": "or-house-52",
+  "party": "Democrat",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/helfrich",
+  "occupation": "Legislative analyst; journalist",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "hank-sanders-b1",
+      "topic": "custom:background",
+      "statement": "In the Capital Chronicle's 2026 primary voter guide, Sanders is quoted as having worked as a reporter for the Chicago Tribune and a reporting fellow at the New York Times.",
+      "excerpt": "worked as a reporter for the Chicago Tribune and as a reporting fellow at the New York Times",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Reworded to attribute to the voter guide (page has no byline/date and does not say the answers came from a questionnaire; the guide covers the May 2026 primary).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-b2",
+      "topic": "custom:occupation",
+      "statement": "Sanders's pamphlet statement lists the occupation as legislative analyst and journalist, with past reporting for The New York Times, Chicago Tribune and Willamette Week.",
+      "excerpt": "Occupation: Legislative analyst, Journalist Occupational Background: Reporter, The New York Times, Chicago Tribune, Willamette Week",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-b3",
+      "topic": "custom:education",
+      "statement": "Sanders's pamphlet statement lists a BA in Economics from the University of Chicago and legislative analyst as prior governmental experience.",
+      "excerpt": "Educational Background: BA (Economics), University of Chicago Prior Governmental Experience: Legislative analyst",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-b4",
+      "topic": "custom:service",
+      "statement": "Sanders's pamphlet statement lists Sanders as founder of CardsCook, a nonprofit feeding homeless youth.",
+      "excerpt": "Service: Founder, CardsCook, nonprofit feeding homeless youth",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "hank-sanders-p1",
+      "topic": "housing",
+      "statement": "In the Capital Chronicle's 2026 primary voter guide, Sanders says Oregon needs to build more housing.",
+      "excerpt": "We need to build more housing, full stop.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Reworded to attribute to the voter guide (page has no byline/date and does not say the answers came from a questionnaire; the guide covers the May 2026 primary).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-p2",
+      "topic": "taxes",
+      "statement": "In the same voter guide, Sanders proposes a tax credit for rural childcare workers modeled on the rural nurse practitioner tax credit.",
+      "excerpt": "I want to create a tax credit for rural childcare WORKERS similar to the rural nurse practitioner tax credit.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Reworded to attribute to the voter guide (page has no byline/date and does not say the answers came from a questionnaire; the guide covers the May 2026 primary).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-p3",
+      "topic": "civil-rights",
+      "statement": "In the same voter guide, Sanders says Oregonians have consistently supported the state's sanctuary status and reproductive rights protections.",
+      "excerpt": "Oregonians have consistently supported our sanctuary state status and our protections of reproductive rights.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-52/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Reworded to attribute to the voter guide (page has no byline/date and does not say the answers came from a questionnaire; the guide covers the May 2026 primary).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-p4",
+      "topic": "technology",
+      "statement": "In a report on data centers, the Capital Chronicle quotes Sanders saying there should be a moratorium until the state can figure out how to resolve these complicated issues.",
+      "excerpt": "We have to make sure that we've got a moratorium until we can figure out how to make sure that we're resolving these complicated issues,",
+      "source": {
+        "url": "https://portlandtribune.com/2026/09/25/data-centers-take-center-stage-spur-mudslinging-in-competitive-gorge-based-oregon-house-race/",
+        "publisher": "Portland Tribune (Oregon Capital Chronicle)",
+        "tier": "T3",
+        "published_at": "2026-09-25",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim",
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt ended mid-thought ('make sure'); extended to the clause end. The quote itself does not name data centers (the reporter frames it that way), so the statement says 'In a report on data centers'.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-p5",
+      "topic": "housing",
+      "statement": "Sanders's pamphlet statement lists lowering housing costs by cutting red tape and supporting workforce developments.",
+      "excerpt": "Lowering housing costs by cutting red tape and supporting workforce developments.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-p6",
+      "topic": "technology",
+      "statement": "Sanders's pamphlet statement lists no new data centers in the community.",
+      "excerpt": "No new data centers in our community.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-p7",
+      "topic": "environment",
+      "statement": "Sanders's pamphlet statement lists protecting public lands from wildfires and fighting federal efforts to roll back protections.",
+      "excerpt": "Protecting our public lands from wildfires and fighting the federal government’s efforts to roll back protections for our community.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-p8",
+      "topic": "economy",
+      "statement": "Sanders's pamphlet statement lists making Oregon more affordable by taking on monopolies that drive up prices of groceries, utilities and healthcare.",
+      "excerpt": "Making Oregon more affordable by taking on monopolies that drive up the prices of groceries, utilities, and healthcare.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found verbatim in the candidate's own column of the SOS voters' pamphlet extract (page 55); attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "Campaign site not confirmed; sanders campaign domain not found in any fetched source",
+    "Primary-guide answers are undated beyond spring 2026"
+  ],
+  "endorsements": [
+    {
+      "id": "hank-sanders-e1",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Hank Sanders's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e2",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Hank Sanders's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e3",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Hank Sanders's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e4",
+      "endorser": "Oregon Education Association - PAC",
+      "endorser_type": "organization",
+      "statement": "Hank Sanders's pamphlet statement lists Oregon Education Association - PAC as an endorser.",
+      "excerpt": "Oregon Education Association - PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e5",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "Hank Sanders's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e6",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Hank Sanders's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e7",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Hank Sanders's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e8",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Hank Sanders's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e9",
+      "endorser": "East County Rising PAC",
+      "endorser_type": "organization",
+      "statement": "Hank Sanders's pamphlet statement lists East County Rising PAC as an endorser.",
+      "excerpt": "East County Rising PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e10",
+      "endorser": "U.S. Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Hank Sanders's pamphlet statement lists U.S. Senator Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e11",
+      "endorser": "Former Wasco County Commissioner Bill Lennox",
+      "endorser_type": "person",
+      "statement": "Hank Sanders's pamphlet statement lists Former Wasco County Commissioner Bill Lennox as an endorser.",
+      "excerpt": "Former Wasco County Commissioner Bill Lennox",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "endorser_type corrected to person; endorsement text found verbatim in this candidate's own pamphlet column.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e12",
+      "endorser": "The Dalles City Councilor Dan Richardson",
+      "endorser_type": "official",
+      "statement": "Hank Sanders's pamphlet statement lists The Dalles City Councilor Dan Richardson as an endorser.",
+      "excerpt": "The Dalles City Councilor Dan Richardson",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e13",
+      "endorser": "Hood River Mayor Paul Blackburn",
+      "endorser_type": "official",
+      "statement": "Hank Sanders's pamphlet statement lists Hood River Mayor Paul Blackburn as an endorser.",
+      "excerpt": "Hood River Mayor Paul Blackburn",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e14",
+      "endorser": "Hood River County Commissioner Leti Moretti",
+      "endorser_type": "official",
+      "statement": "Hank Sanders's pamphlet statement lists Hood River County Commissioner Leti Moretti as an endorser.",
+      "excerpt": "Hood River County Commissioner Leti Moretti",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Endorser appears verbatim in this candidate's own pamphlet statement column (not a neighbouring statement), page 55.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e15",
+      "endorser": "Hood River City Council President Gladys Rivera",
+      "endorser_type": "official",
+      "statement": "Hank Sanders's pamphlet statement lists Hood River City Council President Gladys Rivera as an endorser.",
+      "excerpt": "Hood River City Council President Gladys Rivera",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "endorser_type corrected to official; endorsement text found verbatim in this candidate's own pamphlet column.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e16",
+      "endorser": "Tofurky Founder Seth Tibbott",
+      "endorser_type": "person",
+      "statement": "Hank Sanders's pamphlet statement lists Tofurky Founder Seth Tibbott as an endorser.",
+      "excerpt": "Tofurky Founder Seth Tibbott",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "endorser_type corrected to person; endorsement text found verbatim in this candidate's own pamphlet column.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "hank-sanders-e17",
+      "endorser": "Double Mountain Brewery Owner Matt Swihart",
+      "endorser_type": "person",
+      "statement": "Hank Sanders's pamphlet statement lists Double Mountain Brewery Owner Matt Swihart as an endorser.",
+      "excerpt": "Double Mountain Brewery Owner Matt Swihart",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 55",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "endorser_type corrected to person; endorsement text found verbatim in this candidate's own pamphlet column.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "HD52: 12 items + 17 endorsements vs Scott Hege 14 items + 13 endorsements. Balanced. Both have Capital Chronicle voter-guide answers and a 2026-09-25 Capital Chronicle data-center article; Sanders has no confirmed campaign site (none found in any source).",
+    "endorsements": {
+      "verified": 13,
+      "corrected": 4,
+      "rejected": 0
+    }
+  }
+}

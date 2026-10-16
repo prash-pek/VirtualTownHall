@@ -1,0 +1,50 @@
+{
+  "id": "leo-morley",
+  "name": "Leo Morley",
+  "race_id": "or-house-46",
+  "party": "Republican",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/chotzen/Pages/biography.aspx",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "leo-morley-b1",
+      "topic": "custom:background",
+      "statement": "Ballotpedia lists Leo Morley, a Republican, as a candidate for Oregon House District 46 in 2026.",
+      "excerpt": "Leo Morley (Republican Party) is running for election to the Oregon House of Representatives to represent District 46.",
+      "source": {
+        "url": "https://ballotpedia.org/Leo_Morley",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present verbatim; attribution, tier and wording checked.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Ballotpedia: has not completed the 2026 Candidate Connection survey",
+    "No voters' pamphlet statement filed (asterisk on the SOS pamphlet list of candidates, p. 26)"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "HD46: 1 item vs Willy Chotzen 15 items + 24 endorsements. Morley filed no pamphlet statement (asterisk) and has not completed the Ballotpedia 2026 survey; verifier search found nothing further from T1-T3 sources. Documented in gaps.",
+    "endorsements": {
+      "verified": 0,
+      "corrected": 0,
+      "rejected": 0
+    }
+  }
+}
