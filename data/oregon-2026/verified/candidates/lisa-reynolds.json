@@ -1,0 +1,664 @@
+{
+  "id": "lisa-reynolds",
+  "name": "Lisa Reynolds",
+  "race_id": "or-senate-17",
+  "party": "Democrat",
+  "incumbent": true,
+  "occupation": "Pediatrician; State Senator",
+  "website_url": "http://www.LisaForOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+  "bio": [
+    {
+      "id": "lisa-reynolds-b1",
+      "topic": "healthcare",
+      "statement": "Reynolds's official legislative page describes Reynolds as a pediatrician with two decades of experience serving patients.",
+      "excerpt": "As a pediatrician with two decades of experience serving patients on the frontline",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/reynolds/Pages/default.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-b2",
+      "topic": "social-services",
+      "statement": "Reynolds's official page says Reynolds chairs the Senate Committee on Early Childhood and Behavioral Health.",
+      "excerpt": "I am proud to serve as the Chair of the Senate Committee on Early Childhood and Behavioral Health",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/reynolds/Pages/default.aspx",
+        "publisher": "Oregon Legislature",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-b3",
+      "topic": "custom:background",
+      "statement": "In the voters' pamphlet statement, Reynolds lists occupation as pediatrician and state senator, with The Children's Clinic since 1995, state representative 2021-2024 and state senator since 2024.",
+      "excerpt": "Occupation: Pediatrician, State Senator Occupational Background: The Children’s Clinic, 1995-present; Oregon State Representative, 2021-2024; Oregon State Senator, 2024-present.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-b4",
+      "topic": "custom:background",
+      "statement": "Reynolds lists a BA from the University of Chicago and an MD from the UCLA School of Medicine.",
+      "excerpt": "Educational Background: University of Chicago, BA; UCLA School of Medicine, MD",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-b5",
+      "topic": "custom:background",
+      "statement": "Reynolds lists legislator and Multnomah County Citizen Budget Advisory Committee as prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Legislator; Citizen Budget Advisory Committee, Multnomah County",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "lisa-reynolds-p1",
+      "topic": "housing",
+      "statement": "In the Oregon Capital Chronicle 2026 voter guide, Reynolds says housing should be made more affordable with less red tape and fewer restrictions.",
+      "excerpt": "We must make housing more affordable with less red tape, fewer restrictions",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-17/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p2",
+      "topic": "taxes",
+      "statement": "In the same voter guide, Reynolds says the state tax structure is regressive and should change.",
+      "excerpt": "We must change our tax structure, which continues to be regressive, harming lower-income people more.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-17/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p3",
+      "topic": "healthcare",
+      "statement": "In the voter guide, Reynolds cites improving access to health care, including behavioral health services, as a motivation.",
+      "excerpt": "improving access to health care, including behavioral health services",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-17/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p4",
+      "topic": "custom:cannabis",
+      "statement": "In an August 2026 Oregon Capital Chronicle story republished by the Portland Tribune, Reynolds describes cannabis-related psychosis risk as a long-term disability.",
+      "excerpt": "This is a long-term disability.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/08/20/oregon-lawmaker-says-shell-push-for-more-cannabis-regulations-in-2027-to-protect-kids/",
+        "publisher": "Portland Tribune (Oregon Capital Chronicle)",
+        "tier": "T3",
+        "published_at": "2026-08-20",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "attribution"
+        ],
+        "note": "Page is an Oregon Capital Chronicle story (Mia Maldonado, 2026-08-20) used with permission on portlandtribune.com. The 2027 regulation plan was not in the excerpt and was dropped; the preceding sentence distinguishes a short-term bad experience from lasting psychosis risk.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p5",
+      "topic": "healthcare",
+      "statement": "Reynolds cites legislation protecting patients, children in schools and people in their homes in response to the Trump administration.",
+      "excerpt": "Responded to the Trump administration with policies that protect patients in hospitals, children in schools, and people in their homes.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p6",
+      "topic": "education",
+      "statement": "Reynolds cites supporting the highest K-12 budget in Oregon history, including early literacy funding.",
+      "excerpt": "Supported the highest K-12 budget expenditure in Oregon history, including funding for early literacy programs.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p7",
+      "topic": "social-services",
+      "statement": "Reynolds cites establishing the Oregon Child Tax Credit and fighting for affordable childcare.",
+      "excerpt": "Established the Oregon Child Tax Credit and fought for affordable childcare.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p8",
+      "topic": "healthcare",
+      "statement": "Reynolds cites championing access to abortion services and protections and funding for providers.",
+      "excerpt": "Championed access to abortion services and bolstered protections and funding for providers.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p9",
+      "topic": "gun-policy",
+      "statement": "Reynolds cites passing gun safety legislation that outlawed bump stocks.",
+      "excerpt": "Passed gun safety legislation, protecting children from gun violence and outlawing bump stocks.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-p10",
+      "topic": "healthcare",
+      "statement": "Reynolds cites keeping vaccines widely available in Oregon.",
+      "excerpt": "Kept vaccines widely available in our state in the face of federal threats.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No sponsored-bill or roll-call items collected (phase 1: official page lists none)",
+    "Education: no question in questionnaire"
+  ],
+  "incumbent_source_url": "https://www.oregonlegislature.gov/reynolds/Pages/default.aspx",
+  "endorsements": [
+    {
+      "id": "lisa-reynolds-e1",
+      "endorser": "US Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Lisa Reynolds's pamphlet statement lists US Senator Ron Wyden as an endorser.",
+      "excerpt": "US Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e2",
+      "endorser": "US Congresswoman Suzanne Bonamici",
+      "endorser_type": "official",
+      "statement": "Lisa Reynolds's pamphlet statement lists US Congresswoman Suzanne Bonamici as an endorser.",
+      "excerpt": "US Congresswoman Suzanne Bonamici",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e3",
+      "endorser": "Oregon Attorney General Dan Rayfield",
+      "endorser_type": "official",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon Attorney General Dan Rayfield as an endorser.",
+      "excerpt": "Oregon Attorney General Dan Rayfield",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e4",
+      "endorser": "State Representative Mari Watanabe",
+      "endorser_type": "official",
+      "statement": "Lisa Reynolds's pamphlet statement lists State Representative Mari Watanabe as an endorser.",
+      "excerpt": "State Representative Mari Watanabe",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e5",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e6",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e7",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e8",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e9",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e10",
+      "endorser": "OR Labor Federation, AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists OR Labor Federation, AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation, AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e11",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e12",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e13",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e14",
+      "endorser": "United Food and Commercial Workers Local 555",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists United Food and Commercial Workers Local 555 as an endorser.",
+      "excerpt": "United Food and Commercial Workers Local 555",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e15",
+      "endorser": "Basic Rights Oregon PAC",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Basic Rights Oregon PAC as an endorser.",
+      "excerpt": "Basic Rights Oregon PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e16",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-reynolds-e17",
+      "endorser": "OFNHP AFT-5017",
+      "endorser_type": "organization",
+      "statement": "Lisa Reynolds's pamphlet statement lists OFNHP AFT-5017 as an endorser.",
+      "excerpt": "OFNHP AFT-5017",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 27,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "SD17: Chee 0 items (no pamphlet statement, marked with an asterisk in the SOS candidate list; Ballotpedia 2026 page has no bio, themes or survey; no website found); Reynolds 15 items + 17 endorsements. The disparity is documented in gaps and confirmed by independent search (Ballotpedia, BallotReady listings only). No evidence of unequal effort."
+  }
+}

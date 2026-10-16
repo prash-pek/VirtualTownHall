@@ -1,0 +1,410 @@
+{
+  "id": "roy-kaufmann",
+  "name": "Roy Kaufmann",
+  "race_id": "or-house-18",
+  "party": "Independent",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": "http://www.KaufmannforOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+  "bio": [
+    {
+      "id": "roy-kaufmann-b1",
+      "topic": "custom:background",
+      "statement": "In the voters' pamphlet statement, Kaufmann lists occupation as communications adviser, with communications work for local and state governments, nonprofits and higher education.",
+      "excerpt": "Occupation: Communications Adviser Occupational Background: Communications for local and state governments, nonprofits, and higher education.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-b2",
+      "topic": "custom:background",
+      "statement": "Kaufmann lists a bachelor's from UC Davis and a master's from the University of San Diego.",
+      "excerpt": "Educational Background: Bachelor's, UC Davis; Master's, University of San Diego",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-b3",
+      "topic": "custom:background",
+      "statement": "Kaufmann lists no prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: None",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "roy-kaufmann-p1",
+      "topic": "healthcare",
+      "statement": "Kaufmann says they will fight for a single-payer health plan covering every Oregonian.",
+      "excerpt": "I'll fight for a single-payer health plan that covers every Oregonian",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p2",
+      "topic": "economy",
+      "statement": "Kaufmann says they will fight for a state bank.",
+      "excerpt": "I'll fight for a state bank, to keep more of our wealth here.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p3",
+      "topic": "technology",
+      "statement": "Kaufmann says they will keep farmland growing food instead of data centers.",
+      "excerpt": "I'll keep our farmlands growing food instead of data centers.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p4",
+      "topic": "gun-policy",
+      "statement": "Kaufmann says they own guns, respect those who do, and are confident people can agree on measures that reduce gun violence.",
+      "excerpt": "I own guns, I respect the people who do, and I’m confident we can still agree on measures that reduce gun violence.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p5",
+      "topic": "healthcare",
+      "statement": "Kaufmann's campaign website says they will fight for affordable and accessible healthcare.",
+      "excerpt": "I will fight for affordable and accessible healthcare,",
+      "source": {
+        "url": "http://www.KaufmannforOregon.com",
+        "publisher": "Roy Kaufmann campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p6",
+      "topic": "agriculture",
+      "statement": "Kaufmann's campaign website says Kaufmann will fight for thriving farms that can be passed from this generation to the next.",
+      "excerpt": "thriving farms that can be passed from this generation to the next,",
+      "source": {
+        "url": "http://www.KaufmannforOregon.com",
+        "publisher": "Roy Kaufmann campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement placed the phrase under a farm-protection heading; the page has it in the introductory sentence (\"I will fight for ... thriving farms...\"). Reworded.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p7",
+      "topic": "education",
+      "statement": "Kaufmann's campaign website calls for schools that teach kids to question and think for themselves.",
+      "excerpt": "schools that teach our kids to question and think for themselves,",
+      "source": {
+        "url": "http://www.KaufmannforOregon.com",
+        "publisher": "Roy Kaufmann campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-p8",
+      "topic": "economy",
+      "statement": "Kaufmann's campaign website calls for an economy that rewards the people who do the work.",
+      "excerpt": "an economy that rewards the people who actually do the work.",
+      "source": {
+        "url": "http://www.KaufmannforOregon.com",
+        "publisher": "Roy Kaufmann campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No sourced bio or positions: KOIN pages located in search could not be fetched (fetch errors)",
+    "Pamphlet statement says 'More at www.KaufmannforOregon.com' (not recorded)."
+  ],
+  "endorsements": [
+    {
+      "id": "roy-kaufmann-e1",
+      "endorser": "Former Oregon Governor John Kitzhaber",
+      "endorser_type": "official",
+      "statement": "Roy Kaufmann's pamphlet statement lists Former Oregon Governor John Kitzhaber as an endorser.",
+      "excerpt": "Former Oregon Governor John Kitzhaber",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e2",
+      "endorser": "Aurora Mayor Brian Asher",
+      "endorser_type": "official",
+      "statement": "Roy Kaufmann's pamphlet statement lists Aurora Mayor Brian Asher as an endorser.",
+      "excerpt": "Aurora Mayor Brian Asher",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e3",
+      "endorser": "Silverton Mayor Jason Freilinger",
+      "endorser_type": "official",
+      "statement": "Roy Kaufmann's pamphlet statement lists Silverton Mayor Jason Freilinger as an endorser.",
+      "excerpt": "Silverton Mayor Jason Freilinger",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e4",
+      "endorser": "Silverton City Council President April Newton",
+      "endorser_type": "official",
+      "statement": "Roy Kaufmann's pamphlet statement lists Silverton City Council President April Newton as an endorser.",
+      "excerpt": "Silverton City Council President April Newton",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e5",
+      "endorser": "Jim Gilbert, Northwoods Nursery (Molalla)",
+      "endorser_type": "person",
+      "statement": "Roy Kaufmann's pamphlet statement lists Jim Gilbert, Northwoods Nursery (Molalla) as an endorser.",
+      "excerpt": "Jim Gilbert, Northwoods Nursery (Molalla)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e6",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Roy Kaufmann's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e7",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "Roy Kaufmann's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "roy-kaufmann-e8",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Roy Kaufmann's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Clackamas County edition), p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 12,
+    "corrected": 7,
+    "rejected": 0,
+    "balance_notes": "HD18: Staehely 12 items surviving (2 rejected) + 8 endorsements; Kaufmann 11 items (T1 pamphlet, T2 site) + 8 endorsements; Marnell 1 item (Ballotpedia 2020 run) and no statement or site (documented: asterisk in SOS list). Collector gaps for Staehely and Kaufmann wrongly claimed no website; removed. Spot search: KOIN has a Kaufmann feature (2025) that the collector could not fetch; Marnell absent from Ballotpedia 2026 listing but present in SOS candidate list."
+  }
+}

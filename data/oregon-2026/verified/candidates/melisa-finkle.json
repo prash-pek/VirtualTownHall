@@ -1,0 +1,238 @@
+{
+  "id": "melisa-finkle",
+  "name": "Melisa Finkle",
+  "race_id": "or-senate-16",
+  "party": "Independent",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "melisa-finkle-b1",
+      "topic": "custom:background",
+      "statement": "In a candidate-bylined article ('Melisa Finkle for District 16') in the Tillamook Headlight Herald, August 2026, Finkle is described as a ten year investigator with the State of Oregon.",
+      "excerpt": "a ten year investigator with the State of Oregon",
+      "source": {
+        "url": "https://www.tillamookheadlightherald.com/news/independent-candidate-takes-unconventional-path-in-oregon-senate-district-16/article_e01d8c82-438a-4047-96c9-100afb6533e4.html",
+        "publisher": "Tillamook Headlight Herald (byline: Melisa Finkle for District 16)",
+        "tier": "T3",
+        "published_at": "2026-08-28",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Page is a dated local-newspaper piece bylined \"Melisa Finkle for District 16\" (campaign-authored, not labelled paid); no campaign domain exists to support T2, so tier changed to T3 and the self-authored nature is stated.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "melisa-finkle-b2",
+      "topic": "custom:background",
+      "statement": "In the voters' pamphlet statement, Finkle lists occupation as client care surveyor, with ten years of public service.",
+      "excerpt": "Occupation: Client Care Surveyor Occupational Background: Ten years of public service",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "melisa-finkle-b3",
+      "topic": "custom:background",
+      "statement": "Finkle lists associate degrees in criminal justice and paralegal studies and a bachelor's degree in criminal justice, and says they are pursuing a master's degree in criminal justice.",
+      "excerpt": "Educational Background: Associate degrees in Criminal Justice and Paralegal Studies; bachelor’s degree in criminal justice; currently pursuing a master’s degree in criminal justice",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "melisa-finkle-b4",
+      "topic": "custom:background",
+      "statement": "Finkle lists ten years of public service as prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Ten years of public service",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "melisa-finkle-p1",
+      "topic": "infrastructure",
+      "statement": "In the same candidate-bylined article, Finkle's proposals include rural infrastructure and emergency preparedness.",
+      "excerpt": "rural infrastructure and emergency preparedness",
+      "source": {
+        "url": "https://www.tillamookheadlightherald.com/news/independent-candidate-takes-unconventional-path-in-oregon-senate-district-16/article_e01d8c82-438a-4047-96c9-100afb6533e4.html",
+        "publisher": "Tillamook Headlight Herald (byline: Melisa Finkle for District 16)",
+        "tier": "T3",
+        "published_at": "2026-08-28",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "tier",
+          "paraphrase_faithful"
+        ],
+        "note": "As b1: tier T3 with self-authorship disclosed; page says proposals \"related to short and long term care safety, rural infrastructure and emergency preparedness\".",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "melisa-finkle-p2",
+      "topic": "transportation",
+      "statement": "Finkle says they want practical work on safer travel and road repairs.",
+      "excerpt": "safer travel, roads that need more than another temporary patch",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "melisa-finkle-p3",
+      "topic": "housing",
+      "statement": "Finkle says they want housing people can afford.",
+      "excerpt": "housing that people can actually afford",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "melisa-finkle-p4",
+      "topic": "public-safety",
+      "statement": "Finkle says they want stronger emergency services.",
+      "excerpt": "stronger emergency services",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "melisa-finkle-p5",
+      "topic": "local-business",
+      "statement": "Finkle says they want infrastructure that helps small businesses grow.",
+      "excerpt": "infrastructure that helps small businesses grow instead of making them wait in line forever",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "melisa-finkle-p6",
+      "topic": "civil-rights",
+      "statement": "Finkle says they are not seeking endorsements or accepting money from groups that expect a vote in return.",
+      "excerpt": "I am not seeking endorsements, and I am not accepting money from groups who expect a vote in return.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No independent news coverage with direct quotes found",
+    "Positions on housing, taxes, health care not found outside the pamphlet",
+    "No campaign website confirmed"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 10,
+    "rejected": 0,
+    "balance_notes": "SD16: Bangs 9 items + 20 endorsements; Armitage 10 items + 11 endorsements; Finkle 10 items + 0 endorsements (her statement says she seeks none). Tiers mostly T1 pamphlet plus T3 voter guide/news for Bangs and Armitage. Finkle's only non-pamphlet source is a self-bylined Tillamook Headlight Herald piece (downgraded T2 to T3 with disclosure). Spot search found uncollected T3 coverage: Capital Chronicle 2025-07-08 (Bangs endorsement by Weber) and a Capital Chronicle profile of Armitage; Finkle has no campaign domain. Balance acceptable."
+  }
+}

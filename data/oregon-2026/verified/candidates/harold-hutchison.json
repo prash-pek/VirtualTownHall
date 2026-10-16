@@ -1,0 +1,297 @@
+{
+  "id": "harold-hutchison",
+  "name": "Harold Hutchison",
+  "race_id": "or-senate-15",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": "https://haroldhutchison.carrd.co",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+  "bio": [
+    {
+      "id": "harold-hutchison-b1",
+      "topic": "custom:background",
+      "statement": "In the voters' pamphlet statement, Hutchison lists occupation as retired, with a background as a computer systems engineer and technician.",
+      "excerpt": "Occupation: Retired Occupational Background: Computer systems engineer and technician",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "harold-hutchison-b2",
+      "topic": "custom:background",
+      "statement": "Hutchison lists an ASEET from 1988 and an AA in General Studies from 1978, both from Blue Mountain Community College.",
+      "excerpt": "Educational Background: ASEET 1988 Blue Mountain Community College; AA General Studies 1978 Blue Mountain Community College",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Pamphlet p.39 (two-column; excerpt words in order within the Hutchison column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "harold-hutchison-b3",
+      "topic": "custom:background",
+      "statement": "Hutchison lists Republican precinct committee person as prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: GOP Precinct Committee Person",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "harold-hutchison-p1",
+      "topic": "education",
+      "statement": "Hutchison lists restoring high academic standards among legislative goals.",
+      "excerpt": "Restore High Academic Standards",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "harold-hutchison-p2",
+      "topic": "economy",
+      "statement": "Hutchison lists reducing government regulation among legislative goals.",
+      "excerpt": "Reduce Government Regulation",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "harold-hutchison-p3",
+      "topic": "civil-rights",
+      "statement": "Hutchison lists restoring respect for the rule of law among legislative goals.",
+      "excerpt": "Restore Respect for the Rule of Law",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "harold-hutchison-p4",
+      "topic": "taxes",
+      "statement": "Hutchison lists eliminating the assessment-based property tax among legislative goals.",
+      "excerpt": "Eliminate Assessment-based Property Tax",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "harold-hutchison-p5",
+      "topic": "civil-rights",
+      "statement": "Hutchison lists upholding the US and Oregon constitutions among legislative goals.",
+      "excerpt": "Uphold the US and Oregon Constitutions",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "harold-hutchison-p6",
+      "topic": "healthcare",
+      "statement": "Hutchison says they support nationalized health insurance that extends Medicare to all citizens.",
+      "excerpt": "I support Nationalized Health INSURANCE, extending our current Medicare to cover ALL citizens.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "harold-hutchison-p7",
+      "topic": "civil-rights",
+      "statement": "Hutchison says they support personal accountability and oppose abortion.",
+      "excerpt": "I support personal accountability and oppose abortion.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized; verb agreement fixed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "harold-hutchison-p8",
+      "topic": "education",
+      "statement": "Hutchison says they support parents' rights to raise their children without government interference.",
+      "excerpt": "I support parent's rights. Parents have the responsibility to raise their children to be good citizens, therefore have the RIGHT to do so without government interference.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "harold-hutchison-p9",
+      "topic": "civil-rights",
+      "statement": "Hutchison says they oppose vote-by-mail.",
+      "excerpt": "I oppose Vote-By-Mail (VBM).",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement added support for in-person voting with photo ID, which is in a different pamphlet sentence than the excerpt; trimmed to the excerpt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "harold-hutchison-p10",
+      "topic": "civil-rights",
+      "statement": "Hutchison says they support term limits for national and state elected office.",
+      "excerpt": "I support TERM LIMITS for National and State elected office;",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No public positions found outside the pamphlet",
+    "No news coverage found"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 12,
+    "rejected": 0,
+    "balance_notes": "SD15: Munoz 10 items (9 T1 pamphlet, 1 T3 OPB) plus 16 pamphlet endorsements; Hutchison 13 items (all T1 pamphlet), none endorsements (his statement prints none). Item counts comparable and both rely on pamphlet. Spot search: Munoz has more T3 coverage not collected (WW 2026-05-21, 2026-06-13 on the Sollman primary upset); Hutchison has a carrd.co site (T2, listed in pamphlet) not fetched by the collector. Collector effort looks roughly equal; both gaps note pamphlet-only positions."
+  }
+}

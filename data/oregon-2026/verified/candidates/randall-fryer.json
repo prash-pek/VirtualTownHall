@@ -1,0 +1,140 @@
+{
+  "id": "randall-fryer",
+  "name": "Randall Fryer",
+  "race_id": "or-house-28",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "randall-fryer-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Fryer lists his occupation as retired physician, with a background in rural emergency medicine, family practice and software.",
+      "excerpt": "Occupation: Physician, retired. Occupational Background: Emergency medicine at several rural Oregon hospitals (locum). Family Practice Medicine. Product software integration manager, technical marketing support, software developer.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Book12 pamphlet page 49 (Fryer statement).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "randall-fryer-b2",
+      "topic": "custom:background",
+      "statement": "Fryer lists a Doctor of Osteopathic Medicine from Western University of Health Sciences and a Bachelor of Liberal Arts from St. John's College.",
+      "excerpt": "Educational Background: Doctor of Osteopathic Medicine, College of Osteopathic Medicine of the Pacific, Western University of Health Sciences. Bachelor of Liberal Arts, St. John's College, Santa Fe, NM.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Book12 pamphlet page 49 (Fryer statement).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "randall-fryer-b3",
+      "topic": "custom:background",
+      "statement": "Fryer lists combat medic service in the U.S. Army as his prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Combat Medic, United States Army",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Book12 pamphlet page 49 (Fryer statement).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "randall-fryer-p1",
+      "topic": "education",
+      "statement": "Fryer says he would reduce administrative growth, free teachers from state mandates and set high graduation standards.",
+      "excerpt": "Prune bloated administrative growth and free good teachers from one-size-fits-all mandates from Salem. Set high standards for graduation, and students will rise to meet them.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Book12 pamphlet page 49 (Fryer statement).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "randall-fryer-p2",
+      "topic": "public-safety",
+      "statement": "Fryer says sobriety centers and detox should be required for people cycling through the streets.",
+      "excerpt": "Sobriety centers and detox should be required, not optional, for those cycling through our streets.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed in Book12 pamphlet page 49 (Fryer statement).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "randall-fryer-p3",
+      "topic": "economy",
+      "statement": "Fryer says Oregon can downsize its government at the ballot box or watch out-migration and a shrinking private sector do it.",
+      "excerpt": "Oregon can downsize its government at the ballot box, or watch family out-migration and a shrinking private sector do it for us.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 49",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt covers only the downsizing sentence; statement trimmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No bio, positions or website found for this candidate"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "See dacia-grayber file: Fryer has pamphlet-only content (documented gap)."
+  }
+}

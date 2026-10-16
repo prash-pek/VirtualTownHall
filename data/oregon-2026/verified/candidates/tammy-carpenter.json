@@ -1,0 +1,812 @@
+{
+  "id": "tammy-carpenter",
+  "name": "Tammy Carpenter",
+  "race_id": "or-house-27",
+  "party": "Democrat",
+  "incumbent": null,
+  "occupation": "Anesthesiologist",
+  "website_url": "http://www.TammyforOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+  "bio": [
+    {
+      "id": "tammy-carpenter-b1",
+      "topic": "custom:background",
+      "statement": "Willamette Week describes Carpenter as an anesthesiologist for two decades.",
+      "excerpt": "an anesthesiologist for two decades",
+      "source": {
+        "url": "https://www.wweek.com/news/2026/04/29/wws-may-2026-endorsements-oregon-house/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-04-29",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-b2",
+      "topic": "education",
+      "statement": "Ballotpedia says Carpenter earned an M.D. from the University of Chicago in 2003.",
+      "excerpt": "an M.D. from the University of Chicago in 2003",
+      "source": {
+        "url": "https://ballotpedia.org/Tammy_Carpenter_(Oregon)",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-b3",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Carpenter lists her occupation as retired, with a background as an anesthesiologist and executive board member of the Oregon Society of Anesthesiologists.",
+      "excerpt": "Occupation: Retired Occupational Background: Anesthesiologist, Oregon Society of Anesthesiologists, Executive Board; American Society of Anesthesiologists, Delegate",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-b4",
+      "topic": "custom:background",
+      "statement": "Carpenter lists a BS from Washington University in St. Louis and an MD from the University of Chicago.",
+      "excerpt": "Educational Background: Washington University St. Louis, BS; University of Chicago, MD",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-b5",
+      "topic": "custom:background",
+      "statement": "Carpenter lists Beaverton School Board member as her prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Beaverton School Board Member",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "tammy-carpenter-p1",
+      "topic": "healthcare",
+      "statement": "In the Capital Chronicle questionnaire, Carpenter says she will champion a universal healthcare package covering every Oregonian.",
+      "excerpt": "will champion a universal healthcare package that guarantees care to every Oregonian.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p2",
+      "topic": "housing",
+      "statement": "In the Capital Chronicle questionnaire, Carpenter says the state needs to explore social housing.",
+      "excerpt": "I believe we need to explore social housing.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p3",
+      "topic": "taxes",
+      "statement": "In the Capital Chronicle questionnaire, Carpenter says she plans to introduce a wealth tax to fund universal childcare and schools.",
+      "excerpt": "I plan to introduce a wealth tax that will fund universal childcare and strong Oregon schools.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p4",
+      "topic": "education",
+      "statement": "In the Capital Chronicle questionnaire, Carpenter says schools can be fully funded only with revenue system reform.",
+      "excerpt": "We must fully fund our schools and we can only do that with revenue system reform",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p5",
+      "topic": "transportation",
+      "statement": "In the Capital Chronicle questionnaire, Carpenter says she will vote only on a transportation package focused on the basics.",
+      "excerpt": "I will only vote on a transportation package focused on the basics.",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p6",
+      "topic": "immigration",
+      "statement": "In the Capital Chronicle questionnaire, Carpenter says Oregon must uphold its status as a sanctuary state.",
+      "excerpt": "We must uphold our status as a sanctuary state",
+      "source": {
+        "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-house-district-27/",
+        "publisher": "Oregon Capital Chronicle",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p7",
+      "topic": "taxes",
+      "statement": "Carpenter says she will tax the wealthy and corporations to fund public services.",
+      "excerpt": "Tax the rich and corporations to fund public services",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p8",
+      "topic": "healthcare",
+      "statement": "Carpenter says she will guarantee universal healthcare for all Oregonians.",
+      "excerpt": "Guarantee universal healthcare for all Oregonians",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p9",
+      "topic": "education",
+      "statement": "Carpenter says she will fund high-quality education and make college free.",
+      "excerpt": "Fund high-quality education and make college free",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-p10",
+      "topic": "transportation",
+      "statement": "Carpenter says she will expand public transportation.",
+      "excerpt": "Expand public transportation",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No public position found on public safety (guide did not quote one)",
+    "Pamphlet endorser list longer than the 25-entry cap; not recorded: State Representatives Farrah Chaichi; State Representatives Farrah Chaichi, Lesly Muñoz; Travis Nelson; Mark Gamba"
+  ],
+  "endorsements": [
+    {
+      "id": "tammy-carpenter-e1",
+      "endorser": "Democratic Socialists of America",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Democratic Socialists of America as an endorser.",
+      "excerpt": "Democratic Socialists of America",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e2",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e3",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e4",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e5",
+      "endorser": "American Federation of Teachers - Oregon",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists American Federation of Teachers - Oregon as an endorser.",
+      "excerpt": "American Federation of Teachers - Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e6",
+      "endorser": "OR Labor Federation AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists OR Labor Federation AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e7",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e8",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e9",
+      "endorser": "Joint Council of Teamsters 37",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Joint Council of Teamsters 37 as an endorser.",
+      "excerpt": "Joint Council of Teamsters 37",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e10",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e11",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e12",
+      "endorser": "UFCW 555",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists UFCW 555 as an endorser.",
+      "excerpt": "UFCW 555",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e13",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e14",
+      "endorser": "Sierra Club",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Sierra Club as an endorser.",
+      "excerpt": "Sierra Club",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e15",
+      "endorser": "Sunrise PDX",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Sunrise PDX as an endorser.",
+      "excerpt": "Sunrise PDX",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e16",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e17",
+      "endorser": "Women’s Investment Network",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Women’s Investment Network as an endorser.",
+      "excerpt": "Women’s Investment Network",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e18",
+      "endorser": "The Mother PAC",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists The Mother PAC as an endorser.",
+      "excerpt": "The Mother PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e19",
+      "endorser": "Basic Rights Oregon PAC",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists Basic Rights Oregon PAC as an endorser.",
+      "excerpt": "Basic Rights Oregon PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e20",
+      "endorser": "PCUN",
+      "endorser_type": "organization",
+      "statement": "Tammy Carpenter's pamphlet statement lists PCUN as an endorser.",
+      "excerpt": "PCUN",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e21",
+      "endorser": "U.S. Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Tammy Carpenter's pamphlet statement lists U.S. Senator Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e22",
+      "endorser": "Attorney General Dan Rayfield",
+      "endorser_type": "official",
+      "statement": "Tammy Carpenter's pamphlet statement lists Attorney General Dan Rayfield as an endorser.",
+      "excerpt": "Attorney General Dan Rayfield",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e23",
+      "endorser": "Senate Majority Leader Kayse Jama",
+      "endorser_type": "official",
+      "statement": "Tammy Carpenter's pamphlet statement lists Senate Majority Leader Kayse Jama as an endorser.",
+      "excerpt": "Senate Majority Leader Kayse Jama",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e24",
+      "endorser": "House Majority Leader Ben Bowman",
+      "endorser_type": "official",
+      "statement": "Tammy Carpenter's pamphlet statement lists House Majority Leader Ben Bowman as an endorser.",
+      "excerpt": "House Majority Leader Ben Bowman",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "tammy-carpenter-e25",
+      "endorser": "State Senator Khanh Pham",
+      "endorser_type": "official",
+      "statement": "Tammy Carpenter's pamphlet statement lists State Senator Khanh Pham as an endorser.",
+      "excerpt": "State Senator Khanh Pham",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Washington County edition), p. 48",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited source (pamphlet page 48 Book12 / re-fetched web page).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 40,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Carpenter has 3 T3 bio/8+ positions plus 25 endorsements; Norman has only pamphlet items (T1) and no website. Disparity documented in his gaps; spot searches found no T1/T2 material for Norman (Capital Chronicle guide covers Democratic primary only)."
+  }
+}
