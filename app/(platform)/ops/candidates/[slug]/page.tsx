@@ -62,6 +62,8 @@ export default async function CandidateReview({ params }: { params: Promise<{ sl
       )}
       <h2 className="font-display text-xl font-semibold">Sourced items</h2>
       <ReviewItems kind="candidate" items={items} />
+      <h2 className="font-display text-xl font-semibold">Endorsements</h2>
+      <ReviewItems kind="endorsement" items={r.endorsements} />
     </main>
   );
 }

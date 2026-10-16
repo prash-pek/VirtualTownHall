@@ -20,6 +20,8 @@ import * as schema from "../lib/db/schema";
 import {
   canonicalUrl,
   contentHash,
+  endorsementHash,
+  outletSlateSchema,
   usable,
   verifiedCandidateSchema,
   verifiedMeasureSchema,
@@ -40,12 +42,34 @@ async function readAll<T>(sub: string, parse: (v: unknown) => T): Promise<T[]> {
 
 const candidates = await readAll("candidates", (v) => verifiedCandidateSchema.parse(v));
 const measures = await readAll("measures", (v) => verifiedMeasureSchema.parse(v));
+const outletDir = join(dir, "..", "endorsements", "outlets");
+const slates = await readdir(outletDir)
+  .then((files) =>
+    Promise.all(
+      files
+        .filter((f) => f.endsWith(".json"))
+        .sort()
+        .map(async (f) => outletSlateSchema.parse(JSON.parse(await readFile(join(outletDir, f), "utf8")))),
+    ),
+  )
+  .catch((e: NodeJS.ErrnoException) => {
+    if (e.code === "ENOENT") return [];
+    throw e;
+  });
 
 const pool = new Pool({ connectionString: url, max: 1 });
 const db = drizzle(pool, { schema });
 type Tx = Parameters<Parameters<typeof db.transaction>[0]>[0];
 
-const stats = { candidates: 0, measures: 0, sources: 0, items: 0, arguments: 0, skippedMissing: 0 };
+const stats = {
+  candidates: 0,
+  measures: 0,
+  sources: 0,
+  items: 0,
+  arguments: 0,
+  endorsements: 0,
+  skippedMissing: 0,
+};
 const sourceIds = new Map<string, string>();
 
 async function sourceId(tx: Tx, s: VerifiedItem["source"]): Promise<string> {
@@ -81,8 +105,23 @@ async function recordVerification(tx: Tx, subjectType: string, subjectId: string
   });
 }
 
+type EndorsementRow = Omit<typeof schema.endorsements.$inferInsert, "id" | "status">;
+
+async function addEndorsement(tx: Tx, row: EndorsementRow, v?: VerifiedItem["verification"]) {
+  const [inserted] = await tx
+    .insert(schema.endorsements)
+    .values(row)
+    .onConflictDoNothing()
+    .returning({ id: schema.endorsements.id });
+  if (!inserted) return;
+  stats.endorsements++;
+  if (v) await recordVerification(tx, "endorsement", inserted.id, v);
+}
+
 try {
   await db.transaction(async (tx) => {
+    const measureIds = new Map<string, string>();
+    const candidateIds = new Map<string, string>();
     for (const m of measures) {
       const [row] = await tx
         .update(schema.ballotMeasures)
@@ -104,6 +143,23 @@ try {
         continue;
       }
       stats.measures++;
+      measureIds.set(m.id, row.id);
+      for (const e of usable(m.endorsements)) {
+        await addEndorsement(
+          tx,
+          {
+            measureId: row.id,
+            side: e.side,
+            endorser: e.endorser,
+            endorserType: e.endorser_type,
+            statement: e.statement,
+            excerpt: e.excerpt ?? null,
+            sourceId: await sourceId(tx, e.source),
+            contentHash: endorsementHash(`measure:${m.id}:${e.side}`, e, e.source.url),
+          },
+          e.verification,
+        );
+      }
       for (const a of usable(m.arguments)) {
         const [inserted] = await tx
           .insert(schema.measureArguments)
@@ -144,6 +200,22 @@ try {
         continue;
       }
       stats.candidates++;
+      candidateIds.set(c.id, row.id);
+      for (const e of usable(c.endorsements)) {
+        await addEndorsement(
+          tx,
+          {
+            candidateId: row.id,
+            endorser: e.endorser,
+            endorserType: e.endorser_type,
+            statement: e.statement,
+            excerpt: e.excerpt ?? null,
+            sourceId: await sourceId(tx, e.source),
+            contentHash: endorsementHash(`candidate:${c.id}`, e, e.source.url),
+          },
+          e.verification,
+        );
+      }
       const groups = [
         ["bio", c.bio],
         ["position", c.positions],
@@ -168,6 +240,55 @@ try {
             stats.items++;
             await recordVerification(tx, "candidate_item", inserted.id, i.verification);
           }
+        }
+      }
+    }
+
+    // Outlet slates were verified as a whole (see their reports/), so they carry no per-row verification.
+    const lookup = async (table: typeof schema.candidates | typeof schema.ballotMeasures, slug: string) =>
+      (await tx.select({ id: table.id }).from(table).where(eq(table.slug, slug)))[0]?.id;
+    for (const slate of slates) {
+      for (const e of slate.endorsements) {
+        const source = {
+          url: e.source,
+          publisher: slate.outlet,
+          tier: "T3" as const,
+          published_at: e.date ?? null,
+          retrieved_at: null,
+        };
+        const base = {
+          endorser: e.endorser,
+          endorserType: e.endorser_type,
+          rank: e.rank ?? null,
+          statement: e.statement,
+          excerpt: e.excerpt ?? null,
+          endorsedOn: e.date && /^\d{4}-\d{2}-\d{2}$/.test(e.date) ? e.date : null,
+        };
+        if (e.pick === "candidate" && e.candidate_id) {
+          const id = candidateIds.get(e.candidate_id) ?? (await lookup(schema.candidates, e.candidate_id));
+          if (!id) {
+            stats.skippedMissing++;
+            continue;
+          }
+          await addEndorsement(tx, {
+            ...base,
+            candidateId: id,
+            sourceId: await sourceId(tx, source),
+            contentHash: endorsementHash(`candidate:${e.candidate_id}`, e, e.source),
+          });
+        } else if ((e.pick === "yes" || e.pick === "no") && e.measure_id) {
+          const id = measureIds.get(e.measure_id) ?? (await lookup(schema.ballotMeasures, e.measure_id));
+          if (!id) {
+            stats.skippedMissing++;
+            continue;
+          }
+          await addEndorsement(tx, {
+            ...base,
+            measureId: id,
+            side: e.pick,
+            sourceId: await sourceId(tx, source),
+            contentHash: endorsementHash(`measure:${e.measure_id}:${e.pick}`, e, e.source),
+          });
         }
       }
     }

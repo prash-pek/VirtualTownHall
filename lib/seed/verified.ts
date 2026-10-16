@@ -29,6 +29,17 @@ const item = z.looseObject({
   verification,
 });
 
+/** A pamphlet-listed endorser on a candidate or measure record. */
+const endorsement = z.looseObject({
+  id: z.string(),
+  endorser: z.string().min(1),
+  endorser_type: z.string().min(1),
+  statement: z.string().min(1),
+  excerpt: z.string().nullish(),
+  source,
+  verification,
+});
+
 export const verifiedCandidateSchema = z.looseObject({
   id: z.string(),
   race_id: z.string(),
@@ -37,6 +48,7 @@ export const verifiedCandidateSchema = z.looseObject({
   bio: z.array(item).default([]),
   positions: z.array(item).default([]),
   voting_record: z.array(item).default([]),
+  endorsements: z.array(endorsement).default([]),
   gaps: z.array(z.string()).default([]),
 });
 
@@ -55,9 +67,32 @@ export const verifiedMeasureSchema = z.looseObject({
       author: z.string().nullish(),
     }),
   ),
+  endorsements: z.array(endorsement.extend({ side: z.enum(["yes", "no"]) })).default([]),
   gaps: z.array(z.string()).default([]),
 });
 
+/** One outlet's endorsement slate (data/oregon-2026/endorsements/outlets/*.json), verified as a whole. */
+export const outletSlateSchema = z.looseObject({
+  outlet: z.string(),
+  endorsements: z.array(
+    z.looseObject({
+      id: z.string(),
+      endorser: z.string().min(1),
+      endorser_type: z.string().min(1),
+      race_id: z.string().nullish(),
+      measure_id: z.string().nullish(),
+      pick: z.enum(["candidate", "yes", "no", "none", "dual"]),
+      candidate_id: z.string().nullish(),
+      rank: z.number().int().nullish(),
+      statement: z.string().min(1),
+      excerpt: z.string().nullish(),
+      source: z.url(),
+      date: z.string().nullish(),
+    }),
+  ),
+});
+
+export type VerifiedEndorsement = z.infer<typeof endorsement>;
 export type VerifiedItem = z.infer<typeof item>;
 export type VerifiedCandidate = z.infer<typeof verifiedCandidateSchema>;
 export type VerifiedMeasure = z.infer<typeof verifiedMeasureSchema>;
@@ -74,6 +109,17 @@ export function canonicalUrl(raw: string): string {
   u.hostname = u.hostname.toLowerCase();
   const s = u.toString();
   return s.endsWith("/") && u.pathname !== "/" ? s.slice(0, -1) : s;
+}
+
+/** Identity of an endorsement: who, for which subject, saying what, where. */
+export function endorsementHash(
+  subject: string,
+  e: { endorser: string; statement: string; excerpt?: string | null },
+  url: string,
+) {
+  return createHash("sha256")
+    .update([subject, e.endorser, e.statement, e.excerpt ?? "", canonicalUrl(url)].join("\u0000"))
+    .digest("hex");
 }
 
 /** Identity of a content row, so re-running the import doesn't duplicate it. */

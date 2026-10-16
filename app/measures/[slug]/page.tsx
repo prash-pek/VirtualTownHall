@@ -1,12 +1,14 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
+import { DiscussionPanel } from "@/components/ballot/discussion-panel";
+import { EndorsedBy } from "@/components/ballot/endorsed-by";
 import { PreviewBanner, Sourced } from "@/components/ballot/sourced";
 import { WalkPosition, YourChoice } from "@/components/ballot/walk-through";
 import { getSession } from "@/lib/auth/session";
 import { hasRole } from "@/lib/auth/roles";
 import { getCatalog } from "@/lib/ballot/catalog";
-import { getMeasureDetail, type MeasureArgument } from "@/lib/ballot/content";
+import { getMeasureDetail, type Endorsement, type MeasureArgument } from "@/lib/ballot/content";
 
 export const dynamic = "force-dynamic";
 
@@ -26,6 +28,7 @@ export default async function MeasurePage({ params }: { params: Promise<{ slug: 
   const d = await getMeasureDetail(slug, preview);
   // Explanations are neutral even when collection filed them under a side; they never sit under YES or NO.
   const neutral = d?.arguments.filter((a) => a.kind === "explainer") ?? [];
+  const endorsed = (s: "yes" | "no") => d?.endorsements.filter((e) => e.side === s) ?? [];
   const side = (s: "yes" | "no") => d?.arguments.filter((a) => a.side === s && a.kind !== "explainer") ?? [];
 
   return (
@@ -81,8 +84,8 @@ export default async function MeasurePage({ params }: { params: Promise<{ slug: 
             </section>
           )}
           <section className="grid gap-4 sm:grid-cols-2">
-            <Side title="For (YES)" items={side("yes")} />
-            <Side title="Against (NO)" items={side("no")} />
+            <Side title="For (YES)" items={side("yes")} endorsements={endorsed("yes")} />
+            <Side title="Against (NO)" items={side("no")} endorsements={endorsed("no")} />
           </section>
           {d.ballotLabel && (
             <details className="note">
@@ -98,6 +101,10 @@ export default async function MeasurePage({ params }: { params: Promise<{ slug: 
         </>
       )}
 
+      <DiscussionPanel
+        itemKey={measure.key}
+        starters={["What would this change for me?", "How much will it cost?", "Who supports and opposes it, and why?"]}
+      />
       <YourChoice
         itemKey={measure.key}
         options={[
@@ -109,7 +116,15 @@ export default async function MeasurePage({ params }: { params: Promise<{ slug: 
   );
 }
 
-function Side({ title, items }: { title: string; items: MeasureArgument[] }) {
+function Side({
+  title,
+  items,
+  endorsements,
+}: {
+  title: string;
+  items: MeasureArgument[];
+  endorsements: Endorsement[];
+}) {
   return (
     <div className="card flex flex-col gap-3">
       <h2 className="eyebrow">{title}</h2>
@@ -128,6 +143,7 @@ function Side({ title, items }: { title: string; items: MeasureArgument[] }) {
           ))}
         </ul>
       )}
+      <EndorsedBy endorsements={endorsements} />
     </div>
   );
 }

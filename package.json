@@ -24,6 +24,7 @@
     "vercel-build": "tsx scripts/predeploy.ts && next build"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.135.0",
     "@clerk/nextjs": "^7.9.15",
     "@fontsource-variable/dm-sans": "^5.3.0",
     "@fontsource/playfair-display": "^5.3.0",

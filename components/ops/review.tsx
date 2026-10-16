@@ -1,5 +1,5 @@
 import { publishAction, rejectAction } from "@/app/(platform)/ops/actions";
-import type { QueueStatus, ReviewItem, SubjectKind } from "@/lib/review/queue";
+import type { ItemKind, QueueStatus, ReviewItem, SubjectKind } from "@/lib/review/queue";
 
 const statusLabel: Record<QueueStatus, string> = {
   draft: "Not yet reviewed",
@@ -32,7 +32,7 @@ export function PublishForm({ kind, slug, published }: { kind: SubjectKind; slug
   );
 }
 
-export function ReviewItems({ kind, items }: { kind: SubjectKind; items: ReviewItem[] }) {
+export function ReviewItems({ kind, items }: { kind: ItemKind; items: ReviewItem[] }) {
   if (items.length === 0) return <p className="card text-muted">No sourced items.</p>;
   return (
     <ul className="card flex flex-col p-0">

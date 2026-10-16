@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Version** | 2.2 |
-| **Date** | October 15, 2026 (2.1: voter-curated My ballot, as-built foundation details; 2.2: walk-through, summary, verified-content import, Reflection score and Alignment names) |
+| **Version** | 2.3 |
+| **Date** | October 15, 2026 (2.1: voter-curated My ballot, as-built foundation details; 2.2: walk-through, summary, verified-content import, Reflection score and Alignment names; 2.3: review queue and publish as built, per-item discussion, endorsements, candidate platform moved to phase 2) |
 | **Implements** | [PRD v2](TownHall_AI_PRD_v2.md) |
 | **Data policy** | [data-sourcing-policy.md](data-sourcing-policy.md) |
 | **Replaces** | v1 TRD and the v1 codebase (Vite SPA + Express + SQLite) |
@@ -115,6 +115,8 @@ All ids are UUIDv7. All tables have `created_at`, `updated_at`. `status` columns
 - `verifications` (id, subject_type, subject_id, status `verified|corrected|rejected`, checks_failed text[], note, verifier `agent|admin`, model, created_at) — append-only history per item
 - `ingestion_runs` (id, scope, started_at, finished_at, stats jsonb, report_md)
 
+- `endorsements` (2026-10-16): endorser, endorser_type, rank, statement, verbatim excerpt, source, date, status; attached to a candidate or to one side of a measure (check constraint), unique by content hash. Imported from pamphlet endorsers on verified records and from outlet slates (`data/oregon-2026/endorsements/outlets`); published with their subject.
+
 ### 3.4 Scores & values
 - `alignment_scores` (id, candidate_id, score nullable, basis `public_seed_identity|computed`, status `ok|pending|failed`, discrepancies jsonb, rationale, model, computed_at) — latest row is current
 - `values_statements` (id, topic, text, display_order)
@@ -167,27 +169,32 @@ No PostGIS boundary layers are needed for suggestions. `jurisdictions.boundary` 
 
 | Service | Trigger | Input | Output |
 |---|---|---|---|
-| `classifyTurn` | each voter message | message + subject's blocked topics + taxonomy | `{blocked_topic_id?, topics[], is_abusive}` |
-| `candidateChat` | voter message | retrieved candidate items (as cited documents) + persona config + windowed history | streamed text with citations |
-| `measureExplainer` | voter message | measure record + arguments (as cited documents) + history | streamed text with citations |
+| `discuss` (built) | voter question on an item page | the item's visible record as a numbered source pack (cached) + last 3 rounds | `{responses: [{side, answer, sourceIds[]}]}`, one per candidate or YES/NO |
+| `classifyTurn` (phase 2) | each voter message | message + subject's blocked topics + taxonomy | `{blocked_topic_id?, topics[], is_abusive}` |
 | `summarize` | conversation end | transcript | `{summary, positions_discussed[]}` |
 | `mapValues` | ingestion / item change | items + values statements | `position_mappings[]` (admin-reviewed) |
-| `scoreAlignment` | claimed-profile context change (debounced) | candidate's active items + fetched public record | `{score, discrepancies[], rationale}` |
+| `scoreAlignment` (Reflection, phase 2) | claimed-profile context change (debounced) | candidate's active items + fetched public record | `{score, discrepancies[], rationale}` |
 | `collect` | ingestion workflow | race/measure + policy | raw items with sources |
 | `verify` | after collect | item + freshly fetched source text | verification result |
 
 ### 5.3 Voice rules
-- Public-seed candidate (`profile_source = public_seed`): **third person** ("Based on public statements, Jane Doe…"). The candidate's name is never used as the speaker.
-- Claimed and verified candidate: first-person persona, persistent PRD disclaimer.
-- Measures: neutral explainer. Must present YES and NO, must cite, must decline to recommend a vote (enforced by prompt + eval suite).
-- All modes: answer only from provided documents; say so when the documents don't cover the question; no polling, predictions or endorsements.
+- Every candidate in phase 1: **third person** ("Based on public statements, Jane Doe…"). The candidate's name is never used as the speaker.
+- Claimed and verified candidate choosing first person: phase 2, with the persistent PRD disclaimer.
+- Measures: "The case for YES" and "The case for NO", each attributed to its sources; neutral official background is available to both; never recommends a vote (enforced by prompt + eval suite).
+- All modes: answer only from provided documents; say so when the documents don't cover the question; no polling or predictions; endorsements only as the endorser's attributed opinion.
 
-### 5.4 Grounding
+### 5.4 Per-item discussion (as built, 2026-10-16)
+- `lib/discuss/pack.ts` numbers every visible source for the item (official background, then each side's statements and endorsements) into one deterministic text block; `lib/discuss/run.ts` sends it as a cached system block with one structured-output call (`output_config.format`, zod) and `effort: low`. Model and effort come from `DISCUSS_MODEL` (default `claude-opus-5-5`) and `DISCUSS_EFFORT`.
+- The server keeps exactly one answer per side in ballot order and drops citations to sources that don't exist. Usage and cost go to `ai_calls` (route `discuss`).
+- Not streamed, and refusal fallbacks are not enabled yet (both §5.1 defaults); add them if latency or refusals show up in `ai_calls`.
+- Needs `ANTHROPIC_API_KEY` in Vercel; without it the route returns `unavailable` and the panel says the discussion isn't switched on.
+
+### 5.5 Grounding
 - Context is the subject's `candidate_items` / measure records, passed as `document` blocks with `citations: {enabled: true}`. Citations map back to `sources` for the UI's source chips.
 - Retrieval: Postgres full-text + topic filter selects the top items for the turn (a subject's verified corpus is small; embeddings are a later optimization if needed).
 - History: last N turns verbatim plus a running summary; hard cap on input tokens per call.
 
-### 5.5 Untrusted content
+### 5.6 Untrusted content
 - Candidate uploads, fetched web pages and voter messages are data. They're placed only inside document blocks or clearly delimited user content, never concatenated into system prompts.
 - The alignment scorer and verifier only output schema-constrained JSON, so injected instructions can't change the output shape. Scores outside expected bounds or with missing citations are rejected.
 
@@ -240,19 +247,19 @@ Voter (anonymous allowed unless noted):
 - `GET` / `PUT /api/me/ballot` (signed-in) → the voter's saved ballot keys
 - Pages: `/` (Start: address and state), `/ballot` (check your ballot; `?address=&state=` runs a lookup), `/races/:slug` and `/measures/:slug` (walk-through item pages with "Item N of M", Previous/Next and "Your choice"), `/ballot/summary` (printable summary)
 - `GET /api/races/:slug`, `/api/candidates/:slug`, `/api/measures/:slug`
-- `POST /api/conversations` {subject_type, subject_id} → owner-bound conversation
-- `POST /api/conversations/:id/messages` → SSE stream (owner check, rate limit, BotID)
-- `POST /api/conversations/:id/end` → summary
+- `POST /api/discuss` {itemKey, question, history[]} → `{responses[]}` with each side's answer and cited sources (rate-limited per IP; nothing stored)
+- (Phase 2) `POST /api/conversations` and `/api/conversations/:id/messages|end` for saved conversations
 - `PUT /api/me/values` (signed-in) / client-side storage for anonymous
-- `GET /api/candidates/:slug/audit` → public timeline
+- (Phase 2) `GET /api/candidates/:slug/audit` → public timeline
 
-Candidate (role `candidate`, owner of the candidate):
+Candidate (role `candidate`, owner of the candidate) — all phase 2:
 - `POST /api/claims` (any signed-in user) → claim request
 - CRUD `/api/admin/items`, `/api/admin/uploads` (Blob client upload with size/type limits), `/api/admin/persona`, `/api/admin/blocked-topics`, `POST /api/admin/pause`
 - `GET /api/admin/analytics`
 
 Platform (role `admin`):
-- Review queue, publish/reject, claims approval, ingestion runs, AI usage.
+- Built: `/ops` review queue, `/ops/measures/:slug` and `/ops/candidates/:slug` review pages, and server actions to publish or unpublish a subject with its non-hidden items and endorsements, or hide/restore one item. Each change appends to the hash-chained `audit_log` in the same transaction.
+- Later: claims approval (phase 2), ingestion runs, AI usage.
 
 All inputs are zod-validated. Errors use `{error: {code, message}}`.
 
@@ -288,15 +295,17 @@ All inputs are zod-validated. Errors use `{error: {code, message}}`.
 
 1. **Foundation**: Next.js app, Vercel project, Neon/Clerk/Upstash provisioned, Drizzle schema + migrations, auth roles, CI.
 2. **Ballot core**: elections/jurisdictions/races/measures, Oregon seed import, voter-curated My ballot (Census-geocoder suggestions, browse and add, saved list), race and measure pages.
-3. **Content & review**: sources/verifications, admin review queue, publish flow, audit chain.
-4. **Conversations**: classifyTurn, candidateChat (both voices), measureExplainer, summaries, rate limits, BotID.
-5. **Scores**: Reflection score (identity + computed), evaluation statements, mappings, Alignment UI. Consider running Alignment alongside phase 4, since the evaluation is step 3 of the voter flow.
-6. **Candidate platform**: claim flow, uploads, persona, blocked topics, pause, analytics.
-7. **Hardening**: eval suite green, e2e green, load test chat, security headers, launch checklist.
+Phase 1 (voters), in order:
+3. **Content & review** (built 2026-10-16): admin review queue, publish flow, audit chain.
+4. **Per-item discussion** (built 2026-10-16): one call answers for every side; "Endorsed by" lists.
+5. **Alignment**: evaluation statements, mappings, Alignment UI.
+7. **Hardening**: eval suite green, e2e green, load test, security headers, launch checklist.
+
+Phase 2 (candidates join): **6. Candidate platform** (claim flow, uploads, persona and first-person voice, blocked topics, pause, analytics) and the **Reflection score**.
 
 ## 14. Open technical questions
 
 1. ~~Boundary data coverage for school/special districts~~ Resolved 2026-10-15: school districts come from Census layers statewide; special districts are offered as "may apply" in the voter's county, and voters add what they want.
-2. Retrieval: is Postgres full-text enough for claimed candidates with large uploads, or add pgvector embeddings in phase 6?
+2. (Phase 2) Retrieval: is Postgres full-text enough for claimed candidates with large uploads, or add pgvector embeddings in phase 6?
 3. Should anonymous voters' evaluation answers be storable server-side via an opt-in anonymous profile?
 4. Spend cap level and alert channel.
