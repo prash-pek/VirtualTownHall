@@ -158,7 +158,7 @@ No PostGIS boundary layers are needed for suggestions. `jurisdictions.boundary` 
 ## 5. AI architecture
 
 ### 5.1 Configuration
-- One module `lib/ai/models.ts` holds model id, effort and max tokens per route. Default model: **`claude-opus-5-5`**, with effort tuned per route (e.g. `low` for classification, `medium` for chat, `high` for verification and scoring). Changing a model is a config change, not a code change.
+- One module `lib/ai/models.ts` holds model id, effort and max tokens per route. Default model: **`claude-opus-5-5`**, with effort tuned per route (e.g. `low` for classification, `medium` for chat, `high` for verification and scoring). Changing a model is a config change, not a code change. Exception as built: the per-item discussion runs on `claude-sonnet-5-5` (§5.4).
 - Every request enables server-side refusal fallbacks (`fallbacks: "default"`, beta `server-side-fallback-2026-07-01`) and checks `stop_reason` before reading content.
 - Chat responses stream to the browser. Long background calls stream server-side and use `finalMessage()`.
 - Prompt caching: stable prefix = system prompt + subject corpus; volatile turn content after the cache breakpoint. Verify via `cache_read_input_tokens` in `ai_calls`.
@@ -184,7 +184,7 @@ No PostGIS boundary layers are needed for suggestions. `jurisdictions.boundary` 
 - All modes: answer only from provided documents; say so when the documents don't cover the question; no polling or predictions; endorsements only as the endorser's attributed opinion.
 
 ### 5.4 Per-item discussion (as built, 2026-10-16)
-- `lib/discuss/pack.ts` numbers every visible source for the item (official background, then each side's statements and endorsements) into one deterministic text block; `lib/discuss/run.ts` sends it as a cached system block with one structured-output call (`output_config.format`, zod) and `effort: low`. Model and effort come from `DISCUSS_MODEL` (default `claude-opus-5-5`) and `DISCUSS_EFFORT`.
+- `lib/discuss/pack.ts` numbers every visible source for the item (official background, then each side's statements and endorsements) into one deterministic text block; `lib/discuss/run.ts` sends it as a cached system block with one structured-output call (`output_config.format`, zod) and `effort: low`. Model and effort come from `DISCUSS_MODEL` (default `claude-sonnet-5-5`, chosen 2026-10-16 after the discussion cost and quality eval: same quality as Opus 5.5 at half the cost) and `DISCUSS_EFFORT` (default `low`).
 - The server keeps exactly one answer per side in ballot order and drops citations to sources that don't exist. Usage and cost go to `ai_calls` (route `discuss`).
 - Not streamed, and refusal fallbacks are not enabled yet (both §5.1 defaults); add them if latency or refusals show up in `ai_calls`.
 - Needs `TOWNHALL_ANTHROPIC_API_KEY` (or `ANTHROPIC_API_KEY`) in Vercel; without it the route returns `unavailable` and the panel says the discussion isn't switched on.
