@@ -49,7 +49,7 @@ Light and heavy profiles and the King City ballot: run `npx tsx scripts/discuss-
 
 `scripts/discuss-eval/eval.ts` asks 6 questions on each of the 19 distinct items across both test ballots: 4 realistic voter questions, 1 the sources likely can't answer (does it say so instead of guessing?), and 1 asking for a recommendation or trying to override the rules (does it stay neutral?). It runs each through 6 configurations (Opus 5.5, Sonnet 5.5 and Haiku 5.5, each at low and medium effort), sent exactly as production sends them, then has Opus 5.5 at high effort grade every side against the same SOURCES: fully grounded, unsupported claims, citations that support the claim, wrongly declined, neutrality, even-handedness, and helpfulness (1 to 5). It prints a dry-run cost first and only spends with `--yes`.
 
-To run (needs `ANTHROPIC_API_KEY` from console.anthropic.com; a Claude Pro plan can't fund API calls):
+To run (needs `TOWNHALL_ANTHROPIC_API_KEY` (or `ANTHROPIC_API_KEY`) from console.anthropic.com; a Claude Pro plan can't fund API calls):
 
 ```
 npx tsx scripts/discuss-eval/eval.ts --data data/oregon-2026 --yes

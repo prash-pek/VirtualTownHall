@@ -4,7 +4,7 @@
  *   npx tsx scripts/discuss-eval/sizes.ts [data/oregon-2026] [outlets dir]
  *
  * Tokens are estimated at 3.5 characters per token (current Claude tokenizer, English prose with URLs)
- * unless ANTHROPIC_API_KEY is set, in which case the count_tokens endpoint gives exact numbers.
+ * unless TOWNHALL_ANTHROPIC_API_KEY (or ANTHROPIC_API_KEY) is set, in which case the count_tokens endpoint gives exact numbers.
  */
 import Anthropic from "@anthropic-ai/sdk";
 
@@ -14,7 +14,8 @@ import { ballots, loadDataset, packFor } from "./packs";
 
 const root = process.argv[2] ?? "data/oregon-2026";
 const ds = await loadDataset(root, process.argv[3] || undefined);
-const client = process.env.ANTHROPIC_API_KEY ? new Anthropic() : null;
+const apiKey = process.env.TOWNHALL_ANTHROPIC_API_KEY ?? process.env.ANTHROPIC_API_KEY;
+const client = apiKey ? new Anthropic({ apiKey }) : null;
 
 async function tokens(system: string, sources: string): Promise<number> {
   if (!client) return Math.round((system.length + sources.length + 20) / 3.5);

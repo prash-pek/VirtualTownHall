@@ -267,9 +267,10 @@ if (!args.yes) {
   console.log("dry run: pass --yes to spend it");
   process.exit(0);
 }
-if (!process.env.ANTHROPIC_API_KEY) throw new Error("ANTHROPIC_API_KEY is not set");
+const apiKey = process.env.TOWNHALL_ANTHROPIC_API_KEY ?? process.env.ANTHROPIC_API_KEY;
+if (!apiKey) throw new Error("TOWNHALL_ANTHROPIC_API_KEY is not set");
 
-const client = new Anthropic();
+const client = new Anthropic({ apiKey });
 const answers = await runAll(
   client,
   tasks.map((t) => ({ id: t.id, params: answerParams(t) })),
