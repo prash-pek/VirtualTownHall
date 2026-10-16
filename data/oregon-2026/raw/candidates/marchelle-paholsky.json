@@ -89,6 +89,19 @@
         "published_at": null,
         "retrieved_at": "2026-10-14"
       }
+    },
+    {
+      "id": "marchelle-paholsky-p5",
+      "topic": "custom:community",
+      "statement": "On her campaign site, Paholsky says she wants to foster a sense of community where everyone feels connected and heard.",
+      "excerpt": "Most importantly, I want to foster a sense of community where everyone feels connected and heard.",
+      "source": {
+        "url": "https://www.marchelle4happyvalley.com",
+        "publisher": "Marchelle Paholsky campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
     }
   ],
   "voting_record": [],
@@ -135,7 +148,17 @@
       "step": "5",
       "query_or_url": "\"Marchelle Paholsky\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
       "result": "not found"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "https://www.marchelle4happyvalley.com",
+      "result": "used"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "https://www.marchelle4happyvalley.com/what-i-care-about",
+      "result": "nothing relevant: headings only"
     }
   ],
-  "collection_notes": "incumbent=false: city notice says Position 1 is held by Joshua Callahan. Pamphlet spells 'Graudate Studies' (sic). Pamphlet also lists precinct committee person and 2024 national delegate roles (party roles, not used)."
+  "collection_notes": "incumbent=false: city notice says Position 1 is held by Joshua Callahan. Pamphlet spells 'Graudate Studies' (sic). Pamphlet also lists precinct committee person and 2024 national delegate roles (party roles, not used). Gap-fill 2026-10-16: Site re-fetched; only one new topic. Opponent David Sharyan not checked in this pass."
 }

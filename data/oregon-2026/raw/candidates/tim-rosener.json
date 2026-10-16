@@ -48,6 +48,19 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "tim-rosener-b4",
+      "topic": "custom:bio",
+      "statement": "The city's council page says Rosener moved to the Sherwood area with his family in 1975.",
+      "excerpt": "moved to the Sherwood area in 1975 with his family.",
+      "source": {
+        "url": "https://sherwoodoregon.gov/citycouncil/page/council-members",
+        "publisher": "City of Sherwood, Council Members page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
     }
   ],
   "positions": [],
@@ -103,7 +116,12 @@
       "step": "5",
       "query_or_url": "\"Tim Rosener\" allowed_domains: portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
       "result": "nothing relevant"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "https://sherwoodoregon.gov/citycouncil/page/council-members",
+      "result": "used"
     }
   ],
-  "collection_notes": "Washington County Nov 3 2026 voters' pamphlet PDF text truncates at ~119,746 chars (ends in Portland D4, WC-28/29); City of Sherwood section (WC-34) listed in TOC but unreachable via WebFetch, so no pamphlet statement was quoted for any Sherwood candidate. Candidate filing PDFs (SEL 101) on sherwoodoregon.gov are scans with no text. Incumbency: the City Council page lists the candidate as a sitting member with term expiring January 2027; it does not use the word 'incumbent', so incumbent=true is inferred from the official roster. Sherwood's election page calls the office 'Mayoral ... (2-year term)'. Inventory has incumbent null and party null (nonpartisan); incumbent now true. Pamphlet text shows 'Tim Rosener, Sherwood' only inside other candidates' endorsement lists (not used). goodparty.org page for him appeared in search but was not cited."
+  "collection_notes": "Washington County Nov 3 2026 voters' pamphlet PDF text truncates at ~119,746 chars (ends in Portland D4, WC-28/29); City of Sherwood section (WC-34) listed in TOC but unreachable via WebFetch, so no pamphlet statement was quoted for any Sherwood candidate. Candidate filing PDFs (SEL 101) on sherwoodoregon.gov are scans with no text. Incumbency: the City Council page lists the candidate as a sitting member with term expiring January 2027; it does not use the word 'incumbent', so incumbent=true is inferred from the official roster. Sherwood's election page calls the office 'Mayoral ... (2-year term)'. Inventory has incumbent null and party null (nonpartisan); incumbent now true. Pamphlet text shows 'Tim Rosener, Sherwood' only inside other candidates' endorsement lists (not used). goodparty.org page for him appeared in search but was not cited. Gap-fill 2026-10-16: City bio page fetched; only one new bio fact added. Rosener is the only mayor candidate in the inventory."
 }

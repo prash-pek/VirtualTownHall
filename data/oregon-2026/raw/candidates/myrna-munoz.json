@@ -139,6 +139,32 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "myrna-munoz-p8",
+      "topic": "technology",
+      "statement": "Willamette Week reports Muñoz called for a moratorium on data centers in Washington County and made the issue central to her campaign.",
+      "excerpt": "Muñoz called for a moratorium on data centers in Washington County and made the issue central to her campaign.",
+      "source": {
+        "url": "https://www.wweek.com/news/state/2026/05/21/myrna-munoz-unseats-sen-janeen-sollman-in-key-democratic-primary/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-05-21",
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "myrna-munoz-p9",
+      "topic": "taxes",
+      "statement": "Willamette Week reports Muñoz wants Hillsboro to end all tax breaks for data centers.",
+      "excerpt": "she wants Hillsboro to end all tax breaks for data centers",
+      "source": {
+        "url": "https://www.wweek.com/news/environment/2026/06/13/data-center-backlash-decided-an-oregon-senate-race-in-the-silicon-forest-it-could-factor-big-in-november/",
+        "publisher": "Willamette Week (Garrett Andrews)",
+        "tier": "T3",
+        "published_at": "2026-06-13",
+        "retrieved_at": "2026-10-16"
+      }
     }
   ],
   "voting_record": [],
@@ -198,9 +224,19 @@
       "step": "6",
       "query_or_url": "https://oregoncapitalchronicle.com/2026/02/16/education-consultant-sister-of-oregon-house-representative-will-challenge-hillsboro-democrat/",
       "result": "blocked (fetch error)"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "https://www.wweek.com/news/state/2026/05/21/myrna-munoz-unseats-sen-janeen-sollman-in-key-democratic-primary/",
+      "result": "used"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "https://www.wweek.com/news/environment/2026/06/13/data-center-backlash-decided-an-oregon-senate-race-in-the-silicon-forest-it-could-factor-big-in-november/",
+      "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent. Ballot name 'Myrna A Munoz'; press use 'Myrna Muñoz' (name_variants). Pamphlet: Washington Book12 p.39 per index (not read for content). Won the May 2026 Democratic primary over incumbent Sen. Janeen Sollman per WW/OPB headlines; not incumbent. Pamphlet statement: SOS Washington edition p. 39 (same text in other editions). Campaign site printed in pamphlet but could not be fetched (robots.txt); no T2 items.",
+  "collection_notes": "Inventory consistent. Ballot name 'Myrna A Munoz'; press use 'Myrna Muñoz' (name_variants). Pamphlet: Washington Book12 p.39 per index (not read for content). Won the May 2026 Democratic primary over incumbent Sen. Janeen Sollman per WW/OPB headlines; not incumbent. Pamphlet statement: SOS Washington edition p. 39 (same text in other editions). Campaign site printed in pamphlet but could not be fetched (robots.txt); no T2 items. Gap-fill 2026-10-16: WW coverage added. Opponent Harold Hutchison has 10 positions already; his carrd site domain unconfirmed, so no T2 added.",
   "name_variants": [
     "Myrna Muñoz",
     "Myrna Munoz"

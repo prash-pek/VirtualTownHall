@@ -48,6 +48,19 @@
         "published_at": null,
         "retrieved_at": "2026-10-14"
       }
+    },
+    {
+      "id": "ivette-pantoja-b4",
+      "topic": "custom:bio",
+      "statement": "Her campaign site says she was born and raised in Hillsboro and is the daughter of Mexican immigrants.",
+      "excerpt": "Born and raised in Hillsboro, Ivette is the daughter of Mexican immigrants",
+      "source": {
+        "url": "https://www.ivettepantoja.com",
+        "publisher": "Ivette Pantoja campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
     }
   ],
   "positions": [
@@ -88,6 +101,19 @@
         "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-14"
+      }
+    },
+    {
+      "id": "ivette-pantoja-p4",
+      "topic": "custom:priorities",
+      "statement": "On her campaign site, Pantoja lists livability, community engagement, economic opportunity and workforce development, and environmental stewardship as her issues.",
+      "excerpt": "livability, community engagement, economic opportunity and workforce development, environmental stewardship",
+      "source": {
+        "url": "https://www.ivettepantoja.com",
+        "publisher": "Ivette Pantoja campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
       }
     }
   ],
@@ -141,7 +167,17 @@
       "step": "6",
       "query_or_url": "https://www.opb.org/article/2026/09/25/data-centers-ice-and-the-dsa-election-tensions-rise-in-washington-county/",
       "result": "nothing relevant"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "https://www.ivettepantoja.com",
+      "result": "used"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "OPB 2026-09-28 Hillsboro article",
+      "result": "not found: OPB URL fetch error; search surfaced only the 2026-09-25 article already logged"
     }
   ],
-  "collection_notes": "Hillsboro's June 2026 candidate packet (T1) lists the seats up as Ward 1 Position A (Cristian Salgado), Ward 2 Position A (Kipperlyn Sinclair) and Ward 3 Position A (Olivia Alcaire). A June 23, 2026 city news release instead labels the Ward 2 and Ward 3 seats 'Position B'; the county certification and packet say Position A, so this is a city-side labeling inconsistency. Hillsboro news pages for Salgado's appointment returned client errors. Step 5 searches turned up older (2022 or earlier) Pamplin coverage only, not used. Seat holder per packet is Kipperlyn Sinclair (running for county commission), so incumbent=false. Campaign domain printed in pamphlet; site text describes school board service and did not state the council race, so no items were taken from it."
+  "collection_notes": "Hillsboro's June 2026 candidate packet (T1) lists the seats up as Ward 1 Position A (Cristian Salgado), Ward 2 Position A (Kipperlyn Sinclair) and Ward 3 Position A (Olivia Alcaire). A June 23, 2026 city news release instead labels the Ward 2 and Ward 3 seats 'Position B'; the county certification and packet say Position A, so this is a city-side labeling inconsistency. Hillsboro news pages for Salgado's appointment returned client errors. Step 5 searches turned up older (2022 or earlier) Pamplin coverage only, not used. Seat holder per packet is Kipperlyn Sinclair (running for county commission), so incumbent=false. Campaign domain printed in pamphlet; site text describes school board service and did not state the council race, so no items were taken from it. Gap-fill 2026-10-16: Campaign site added (T2). OPB 2026-09-28 article not retrievable (gap). Opponent Karim Delgado already has a campaign-site T2 source; Ward 3 Russell likewise."
 }

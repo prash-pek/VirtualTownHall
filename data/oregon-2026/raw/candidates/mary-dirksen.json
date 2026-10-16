@@ -46,6 +46,19 @@
         "published_at": null,
         "retrieved_at": "2026-10-15"
       }
+    },
+    {
+      "id": "mary-dirksen-b4",
+      "topic": "custom:bio",
+      "statement": "Her campaign site says she volunteered 15 years at Coffee Creek Correctional Facility and is a certified Master Gardener.",
+      "excerpt": "I volunteered for 15 years at Coffee Creek Correctional Facility and am a certified Master Gardener.",
+      "source": {
+        "url": "http://marydirksen.com",
+        "publisher": "Mary Dirksen campaign website (domain printed in voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
     }
   ],
   "positions": [
@@ -142,9 +155,14 @@
       "step": "5",
       "query_or_url": "\"Mary Dirksen\" allowed_domains group (c) portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
       "result": "nothing relevant (search returned unrelated 'Dirksen' Metro Council items)"
+    },
+    {
+      "step": "gap-fill",
+      "query_or_url": "http://marydirksen.com",
+      "result": "used"
     }
   ],
-  "collection_notes": "Inventory consistent. Pamphlet Book13 p.43 / Book14 p.41 (pending). Pamphlet statement: SOS Clackamas edition p. 41 (same text in other editions). Campaign site printed in pamphlet but could not be fetched (robots.txt); no T2 items.",
+  "collection_notes": "Inventory consistent. Pamphlet Book13 p.43 / Book14 p.41 (pending). Pamphlet statement: SOS Clackamas edition p. 41 (same text in other editions). Campaign site printed in pamphlet but could not be fetched (robots.txt); no T2 items. Gap-fill 2026-10-16: Campaign site now fetchable; issue topics (public safety, taxes, education, economy) already covered by existing items, so only a bio fact added.",
   "endorsements": [
     {
       "id": "mary-dirksen-e1",
