@@ -13,38 +13,6 @@
     {
       "id": "reynolds-sd-7-26-268-y1",
       "side": "yes",
-      "kind": "explainer",
-      "author": "Reynolds School District (explanatory statement)",
-      "topic": "education",
-      "statement": "The district's explanatory statement says the bond would replace the 72-year-old Glenfair school, which it describes as overcrowded, containing hazardous materials, and with building and security systems beyond repair.",
-      "excerpt": "Replace the 72-year-old school, which is overcrowded, contains hazardous materials, and has building and security systems beyond repair;",
-      "source": {
-        "url": "https://multco.us/info/measure-26-268-bonds-increase-safety-security-repair-construct-schools-increase-accessibility",
-        "publisher": "Multnomah County Elections Division",
-        "tier": "T1",
-        "published_at": null,
-        "retrieved_at": "2026-10-14"
-      }
-    },
-    {
-      "id": "reynolds-sd-7-26-268-y2",
-      "side": "yes",
-      "kind": "explainer",
-      "author": "Reynolds School District (explanatory statement)",
-      "topic": "education",
-      "statement": "The explanatory statement says the district would receive $8,168,000 in state matching funds only if the bond passes.",
-      "excerpt": "Additionally, the District would receive $8,168,000 in state matching funds through the Oregon School Capital Improvement Match Program, but only if the bond measure passes.",
-      "source": {
-        "url": "https://multco.us/info/measure-26-268-bonds-increase-safety-security-repair-construct-schools-increase-accessibility",
-        "publisher": "Multnomah County Elections Division",
-        "tier": "T1",
-        "published_at": null,
-        "retrieved_at": "2026-10-14"
-      }
-    },
-    {
-      "id": "reynolds-sd-7-26-268-y3",
-      "side": "yes",
       "kind": "argument",
       "author": "Reynolds School Board (furnished by Michael Reyes, Board Chair)",
       "topic": "education",
@@ -60,7 +28,7 @@
       }
     },
     {
-      "id": "reynolds-sd-7-26-268-y4",
+      "id": "reynolds-sd-7-26-268-y2",
       "side": "yes",
       "kind": "argument",
       "author": "Reynolds principals (furnished by Joyce Rosenau)",
@@ -77,7 +45,7 @@
       }
     },
     {
-      "id": "reynolds-sd-7-26-268-y5",
+      "id": "reynolds-sd-7-26-268-y3",
       "side": "yes",
       "kind": "argument",
       "author": "Reynolds educators (furnished by Ana Gonzalez Muñoz)",
@@ -94,7 +62,7 @@
       }
     },
     {
-      "id": "reynolds-sd-7-26-268-y6",
+      "id": "reynolds-sd-7-26-268-y4",
       "side": "yes",
       "kind": "argument",
       "author": "Reynolds taxpayers (furnished by Shelby Tooze-Williams, Margaret Breithaupt and William J. Ohle)",
@@ -109,6 +77,40 @@
         "retrieved_at": "2026-10-16",
         "page": "M-101"
       }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-y5",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Community Partners (furnished by Michael Reyes)",
+      "topic": "education",
+      "statement": "A group of community partners argues that passage would unlock $8,168,000 in state matching funds that Reynolds cannot receive without voter approval.",
+      "excerpt": "Passage of Measure 26-268 would unlock $8,168,000 in state matching funds that Reynolds cannot receive without voter approval of the bond.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-102)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-102"
+      }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-y6",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Local elected leaders (furnished by State Rep. Zach Hudson)",
+      "topic": "education",
+      "statement": "Local elected leaders argue the measure would address roofs, HVAC, plumbing and electrical systems across Reynolds schools and improve fire safety, security and accessibility.",
+      "excerpt": "Measure 26-268 would address failing roofs, HVAC, plumbing and electrical systems across Reynolds schools.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-102)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-102"
+      }
     }
   ],
   "topics": [
@@ -117,9 +119,9 @@
   ],
   "gaps": [
     "No argument in opposition was filed in the county voters' pamphlet (M-99: 'No arguments in opposition of this measure were filed').",
-    "Six arguments in favor were filed (M-100 to M-102). The 6-per-side cap is filled by the two explanatory-statement explainers already on file plus the first four in pamphlet order; the fifth, 'Community Partners' (furnished by Michael Reyes), and the sixth, 'Local Elected Leaders' (furnished by State Rep. Zach Hudson), are not itemized."
+    "All six arguments in favor filed in the county voters' pamphlet (M-100 to M-102) are itemized."
   ],
-  "collection_notes": "Updated 2026-10-16 from the Multnomah County voters' pamphlet extract (M-99 ballot title and explanatory statement, M-100 to M-102 arguments). Existing explanatory-statement explainers (y1, y2) are kept; four of the six filed arguments in favor are added in pamphlet order up to the 6-per-side cap. No argument in opposition was filed. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction (Reynolds School District No. 7) match the multco.us page and filings list (filed 8/31/2026). The full question's constitutional-limits sentence is quoted in the ballot_label as paraphrased by the fetch tool from the measure page ('payable from taxes ... not subject to the limits of sections 11 and 11b, Article XI'); verifier should confirm exact wording. The Spanish guide names the explanatory statement's furnisher as Frank Caropelo, superintendent; not confirmed on the English page. The measure page refers voters to ReynoldsSchoolBond.org, but no fetchable page from that domain was returned by search, so it is not cited. Both y items come from the district-written explanatory statement (kind explainer), not filed arguments. The same search set was run for yes and no.",
+  "collection_notes": "Updated 2026-10-16 from the Multnomah County voters' pamphlet extract (M-99 ballot title and explanatory statement, M-100 to M-102 arguments). Per coordinator decision, all six filed arguments in favor fill the 6 slots; the two earlier explanatory-statement explainers (Glenfair replacement; $8,168,000 state matching funds) no longer fit and were dropped (their facts remain in summary and fiscal_impact). No argument in opposition was filed. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction (Reynolds School District No. 7) match the multco.us page and filings list (filed 8/31/2026). The full question's constitutional-limits sentence is quoted in the ballot_label as paraphrased by the fetch tool from the measure page ('payable from taxes ... not subject to the limits of sections 11 and 11b, Article XI'); verifier should confirm exact wording. The Spanish guide names the explanatory statement's furnisher as Frank Caropelo, superintendent; not confirmed on the English page. The measure page refers voters to ReynoldsSchoolBond.org, but no fetchable page from that domain was returned by search, so it is not cited. Both y items come from the district-written explanatory statement (kind explainer), not filed arguments. The same search set was run for yes and no.",
   "collection_log": [
     {
       "step": "1",

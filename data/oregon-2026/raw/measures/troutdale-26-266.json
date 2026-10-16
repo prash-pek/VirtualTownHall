@@ -27,22 +27,6 @@
       }
     },
     {
-      "id": "troutdale-26-266-y2",
-      "side": "yes",
-      "kind": "explainer",
-      "author": "City of Troutdale (explanatory statement, submitted by Sarah Skroch, City Recorder)",
-      "topic": "public-safety",
-      "statement": "The explanatory statement says supporters note a locally managed department may make future police service costs more predictable.",
-      "excerpt": "Supporters also note that a locally managed department may provide greater predictability in future police service costs",
-      "source": {
-        "url": "https://multco.us/info/measure-26-266-advisory-vote-should-troutdale-create-municipal-police-department",
-        "publisher": "Multnomah County Elections Division",
-        "tier": "T1",
-        "published_at": null,
-        "retrieved_at": "2026-10-14"
-      }
-    },
-    {
       "id": "troutdale-26-266-y3",
       "side": "yes",
       "kind": "argument",
@@ -82,22 +66,6 @@
       "topic": "public-safety",
       "statement": "The explanatory statement says those favoring the current contract note it provides access to regional investigative resources, specialized units and a larger law enforcement network.",
       "excerpt": "They note that the current model provides access to regional investigative resources, specialized units, emergency response capabilities, established administrative systems, and a larger regional law enforcement network.",
-      "source": {
-        "url": "https://multco.us/info/measure-26-266-advisory-vote-should-troutdale-create-municipal-police-department",
-        "publisher": "Multnomah County Elections Division",
-        "tier": "T1",
-        "published_at": null,
-        "retrieved_at": "2026-10-14"
-      }
-    },
-    {
-      "id": "troutdale-26-266-n2",
-      "side": "no",
-      "kind": "explainer",
-      "author": "City of Troutdale (explanatory statement, submitted by Sarah Skroch, City Recorder)",
-      "topic": "public-safety",
-      "statement": "The explanatory statement says contract supporters point to the costs and challenges of starting a new department, including recruiting staff, buying equipment, and writing policies.",
-      "excerpt": "They also point to the costs and operational challenges associated with establishing a new Police Department, including recruiting and retaining qualified personnel, purchasing equipment, developing policies and procedures,",
       "source": {
         "url": "https://multco.us/info/measure-26-266-advisory-vote-should-troutdale-create-municipal-police-department",
         "publisher": "Multnomah County Elections Division",
@@ -171,6 +139,23 @@
         "retrieved_at": "2026-10-16",
         "page": "M-95"
       }
+    },
+    {
+      "id": "troutdale-26-266-n7",
+      "side": "no",
+      "kind": "argument",
+      "author": "Greg Vining, retired detective and union leader",
+      "topic": "public-safety",
+      "statement": "Greg Vining, a retired Troutdale-area detective and union leader, argues the City's plan for a municipal department is a limited-service model he describes as unable to meet the city's basic needs.",
+      "excerpt": "The current fully functioning service contract with the Sherrif’s Office is the only reasonable and sustainable option.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-96)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-96"
+      }
     }
   ],
   "topics": [
@@ -178,9 +163,9 @@
   ],
   "gaps": [
     "No argument in favor was filed in the county voters' pamphlet (M-94: 'No arguments in favor of this measure were filed'); YES-side items are the City's explanatory statement and two news-sourced quotes.",
-    "Three arguments in opposition were filed (M-95 to M-96). The 6-per-side cap is filled by the two explainers and two news quotes already on file plus the first two in pamphlet order; the third, by Greg Vining (retired detective and union leader, M-96), is not itemized."
+    "Three arguments in opposition were filed (M-95 to M-96); all three are itemized."
   ],
-  "collection_notes": "Updated 2026-10-16 from the Multnomah County voters' pamphlet extract (M-94 ballot title and explanatory statement, M-95 to M-96 arguments). Official explanatory-statement explainers (y1, y2, n1, n2) and existing KATU arguments are kept; two of the three filed arguments in opposition are added in pamphlet order up to the 6-per-side cap. Balance: 4 yes / 6 no items, because no argument in favor was filed. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction match the multco.us page and filings list (filed 8/12/2026). The explanatory statement itself presents both supporters' and contract-supporters' views; those are recorded as kind 'explainer' (2 yes, 2 no). KATU quotes (July 14, 2026) predate the Aug 12 measure filing and concern the City's proposal to revive the department, which this advisory vote asks about. Zwick is an MCSO sergeant and union president (the current contractor's employee association).",
+  "collection_notes": "Updated 2026-10-16 from the Multnomah County voters' pamphlet extract (M-94 ballot title and explanatory statement, M-95 to M-96 arguments). Per coordinator decision, all three filed arguments in opposition are itemized and one explainer per side is kept (y1, n1); explainers y2 and n2 (also from the explanatory statement) were dropped to keep the same treatment on both sides. Existing KATU arguments (y3, y4, n3, n4) still fit under the cap and are kept. No argument in favor was filed. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction match the multco.us page and filings list (filed 8/12/2026). The explanatory statement itself presents both supporters' and contract-supporters' views; those are recorded as kind 'explainer' (2 yes, 2 no). KATU quotes (July 14, 2026) predate the Aug 12 measure filing and concern the City's proposal to revive the department, which this advisory vote asks about. Zwick is an MCSO sergeant and union president (the current contractor's employee association).",
   "collection_log": [
     {
       "step": "1",
