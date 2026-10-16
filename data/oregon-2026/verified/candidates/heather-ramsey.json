@@ -136,5 +136,327 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Lake Oswego (6 candidates): items Guiney 8, Walsh 7, Tunmore 6, Ramsey 6, Tiemann 6, Miles 6. All six filed pamphlet statements; Guiney, Walsh, Tunmore also have a T2 item from their sites. Ramsey site only repeats her pamphlet text; Tiemann site blocked by robots; Miles lists no site. Disparity is source access, not effort. No T3 press found for anyone."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "heather-ramsey-e1",
+      "endorser": "Lake Oswego Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Heather Ramsey's pamphlet statement lists Lake Oswego Chamber of Commerce as an endorser.",
+      "excerpt": "Endorsements: Lake Oswego Chamber of Commerce; Mayor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e2",
+      "endorser": "Joe Buck",
+      "endorser_type": "official",
+      "statement": "Heather Ramsey's pamphlet statement lists Joe Buck as an endorser.",
+      "excerpt": "Joe Buck; City Councilors Rachel Verdick, John Wendland, Ali",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e3",
+      "endorser": "Rachel Verdick",
+      "endorser_type": "official",
+      "statement": "Heather Ramsey's pamphlet statement lists Rachel Verdick as an endorser.",
+      "excerpt": "Joe Buck; City Councilors Rachel Verdick, John Wendland, Ali",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e4",
+      "endorser": "John Wendland",
+      "endorser_type": "official",
+      "statement": "Heather Ramsey's pamphlet statement lists John Wendland as an endorser.",
+      "excerpt": "Joe Buck; City Councilors Rachel Verdick, John Wendland, Ali",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e5",
+      "endorser": "Ali Afghan",
+      "endorser_type": "official",
+      "statement": "Heather Ramsey's pamphlet statement lists Ali Afghan as an endorser.",
+      "excerpt": "Joe Buck; City Councilors Rachel Verdick, John Wendland, Ali",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e6",
+      "endorser": "Trudy Corrigan",
+      "endorser_type": "official",
+      "statement": "Heather Ramsey's pamphlet statement lists Trudy Corrigan as an endorser.",
+      "excerpt": "Afghan, and Trudy Corrigan; School Board Directors Neelam",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e7",
+      "endorser": "Neelam Gupta",
+      "endorser_type": "official",
+      "statement": "Heather Ramsey's pamphlet statement lists Neelam Gupta as an endorser.",
+      "excerpt": "Afghan, and Trudy Corrigan; School Board Directors Neelam",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e8",
+      "endorser": "Kate Lupton",
+      "endorser_type": "official",
+      "statement": "Heather Ramsey's pamphlet statement lists Kate Lupton as an endorser.",
+      "excerpt": "Gupta and Kate Lupton; Mary Puskas, William ONeill, Mark",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e9",
+      "endorser": "Mary Puskas",
+      "endorser_type": "person",
+      "statement": "Heather Ramsey's pamphlet statement lists Mary Puskas as an endorser.",
+      "excerpt": "Gupta and Kate Lupton; Mary Puskas, William ONeill, Mark",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e10",
+      "endorser": "William ONeill",
+      "endorser_type": "person",
+      "statement": "Heather Ramsey's pamphlet statement lists William ONeill as an endorser.",
+      "excerpt": "Gupta and Kate Lupton; Mary Puskas, William ONeill, Mark",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e11",
+      "endorser": "Mark Waller",
+      "endorser_type": "person",
+      "statement": "Heather Ramsey's pamphlet statement lists Mark Waller as an endorser.",
+      "excerpt": "Gupta and Kate Lupton; Mary Puskas, William ONeill, Mark",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e12",
+      "endorser": "Courtney Clements",
+      "endorser_type": "person",
+      "statement": "Heather Ramsey's pamphlet statement lists Courtney Clements as an endorser.",
+      "excerpt": "Waller, Courtney Clements, Liz Hartman, Dorothy Atwood, Jay",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e13",
+      "endorser": "Liz Hartman",
+      "endorser_type": "official",
+      "statement": "Heather Ramsey's pamphlet statement lists Liz Hartman as an endorser.",
+      "excerpt": "Liz Hartman, Past Chair Lake",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e14",
+      "endorser": "Dorothy Atwood",
+      "endorser_type": "person",
+      "statement": "Heather Ramsey's pamphlet statement lists Dorothy Atwood as an endorser.",
+      "excerpt": "Waller, Courtney Clements, Liz Hartman, Dorothy Atwood, Jay",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e15",
+      "endorser": "Jay Haladay",
+      "endorser_type": "person",
+      "statement": "Heather Ramsey's pamphlet statement lists Jay Haladay as an endorser.",
+      "excerpt": "Waller, Courtney Clements, Liz Hartman, Dorothy Atwood, Jay",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "heather-ramsey-e16",
+      "endorser": "Mark Birge",
+      "endorser_type": "person",
+      "statement": "Heather Ramsey's pamphlet statement lists Mark Birge as an endorser.",
+      "excerpt": "Haladay, Mark Birge",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

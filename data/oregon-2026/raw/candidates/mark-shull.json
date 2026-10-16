@@ -195,5 +195,35 @@
       "result": "used"
     }
   ],
-  "collection_notes": "incumbent=false: Paul Savas holds Position 2 per clackamas.us/elections/localofficials.html (inventory_fixes). Shull is a former commissioner (pamphlet lists prior government experience). Step-5 KGW/KOIN/KATU/Pamplin hits are 2020-2024 coverage of controversies, not 2026 positions; not used. OPB article also quotes Shull on sanctuary policy (\"Public safety suffers when criminal illegal immigrants are released...\"); omitted to stay within cap and because the article context mixes paraphrase. The pamphlet's self-description 'common-sense results' not used (loaded wording)."
+  "collection_notes": "incumbent=false: Paul Savas holds Position 2 per clackamas.us/elections/localofficials.html (inventory_fixes). Shull is a former commissioner (pamphlet lists prior government experience). Step-5 KGW/KOIN/KATU/Pamplin hits are 2020-2024 coverage of controversies, not 2026 positions; not used. OPB article also quotes Shull on sanctuary policy (\"Public safety suffers when criminal illegal immigrants are released...\"); omitted to stay within cap and because the article context mixes paraphrase. The pamphlet's self-description 'common-sense results' not used (loaded wording).",
+  "endorsements": [
+    {
+      "id": "mark-shull-e1",
+      "endorser": "Angela Brandenburg",
+      "endorser_type": "official",
+      "statement": "Mark Shull's pamphlet statement lists Angela Brandenburg as an endorser.",
+      "excerpt": "Clackamas County Sheriff Angela Brandenburg, ret.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-shull-e2",
+      "endorser": "The Libertarian Party of Oregon Executive Committee",
+      "endorser_type": "organization",
+      "statement": "Mark Shull's pamphlet statement lists The Libertarian Party of Oregon Executive Committee as an endorser.",
+      "excerpt": "The Libertarian Party of Oregon Executive Committee",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

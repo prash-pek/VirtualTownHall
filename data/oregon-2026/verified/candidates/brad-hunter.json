@@ -161,5 +161,87 @@
     "corrected": 2,
     "rejected": 0,
     "balance_notes": "Incumbent set true (was null): his pamphlet statement Prior Governmental Experience reads 'Currently serve as Director East Multnomah SWCD (Appointed in 2026)'. The EMSWCD board page could not be fetched (robots)."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "brad-hunter-e1",
+      "endorser": "Jasmine Zimmer-Stucky",
+      "endorser_type": "official",
+      "statement": "Brad Hunter's pamphlet statement lists Jasmine Zimmer-Stucky as an endorser.",
+      "excerpt": "Jasmine Zimmer-Stucky, EMSWCD Board Chair/At Larger",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 73",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brad-hunter-e2",
+      "endorser": "Laura Masterson",
+      "endorser_type": "official",
+      "statement": "Brad Hunter's pamphlet statement lists Laura Masterson as an endorser.",
+      "excerpt": "Laura Masterson, Owner 47th Avenue Farm/EMSWCD Director,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 73",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brad-hunter-e3",
+      "endorser": "Michael Guebert",
+      "endorser_type": "official",
+      "statement": "Brad Hunter's pamphlet statement lists Michael Guebert as an endorser.",
+      "excerpt": "Michael Guebert, Owner Terra Farma/Former EMSWCD Director",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 73",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "brad-hunter-e4",
+      "endorser": "Kate Coppeletta",
+      "endorser_type": "person",
+      "statement": "Brad Hunter's pamphlet statement lists Kate Coppeletta as an endorser.",
+      "excerpt": "Kate Coppeletta, Owner Fiddlehead Farm",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 73",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

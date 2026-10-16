@@ -217,5 +217,91 @@
       "result": "nothing relevant: only 2022-cycle results surfaced"
     }
   ],
-  "collection_notes": "Forest Grove Elections page (T1) lists the seats up Nov. 3, 2026: Mayor Malynda Wenzl, Councilor Mike Marshall, Councilor Karen Martinez and Council President Mariana Valenzuela; the Meet-the-Council page blocks automated fetch. Step 5 found only 2022-cycle Pamplin articles (not used, to keep treatment equal) and no 2026 coverage. Not among incumbents listed on the city's Elections page. Three pamphlet excerpts are truncated at ~110 characters by the fetch tool's quote limit. Gap-fill 2026-10-16: Campaign site issues/bio pages added (T2). Other Forest Grove candidates: Pereyda, Valenzuela, Knight have pamphlet items; Mejia and LePari have none, and the News-Times 2026 Q&A was not found, so source parity is uneven."
+  "collection_notes": "Forest Grove Elections page (T1) lists the seats up Nov. 3, 2026: Mayor Malynda Wenzl, Councilor Mike Marshall, Councilor Karen Martinez and Council President Mariana Valenzuela; the Meet-the-Council page blocks automated fetch. Step 5 found only 2022-cycle Pamplin articles (not used, to keep treatment equal) and no 2026 coverage. Not among incumbents listed on the city's Elections page. Three pamphlet excerpts are truncated at ~110 characters by the fetch tool's quote limit. Gap-fill 2026-10-16: Campaign site issues/bio pages added (T2). Other Forest Grove candidates: Pereyda, Valenzuela, Knight have pamphlet items; Mejia and LePari have none, and the News-Times 2026 Q&A was not found, so source parity is uneven.",
+  "endorsements": [
+    {
+      "id": "mallory-hiefield-e1",
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization",
+      "statement": "Mallory Hiefield's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Washington County Democrats",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e2",
+      "endorser": "Myrna Munoz",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Myrna Munoz as an endorser.",
+      "excerpt": "Oregon State Senator nominee, Myrna Munoz",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e3",
+      "endorser": "Malynda Wenzl",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Malynda Wenzl as an endorser.",
+      "excerpt": "Forest Grove Mayor, Malynda Wenzl",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e4",
+      "endorser": "Mike Marshall",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Mike Marshall as an endorser.",
+      "excerpt": "Mike Marshall, Brian Schimmel,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e5",
+      "endorser": "Brian Schimmel",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Brian Schimmel as an endorser.",
+      "excerpt": "Mike Marshall, Brian Schimmel,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e6",
+      "endorser": "Angel Falconer",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Angel Falconer as an endorser.",
+      "excerpt": "Angel Falconer",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -107,5 +107,105 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Incumbency null: her pamphlet statement says she has served as councilor for four years (president 2025-current), but no official roster was found. Likely incumbent=true. Pamplin 2022 hits concern her first election; not used."
+  "collection_notes": "Incumbency null: her pamphlet statement says she has served as councilor for four years (president 2025-current), but no official roster was found. Likely incumbent=true. Pamplin 2022 hits concern her first election; not used.",
+  "endorsements": [
+    {
+      "id": "vanessa-huckaby-e1",
+      "endorser": "Michael Milch",
+      "endorser_type": "official",
+      "statement": "Vanessa Huckaby's pamphlet statement lists Michael Milch as an endorser.",
+      "excerpt": "Michael Milch, City of Gladstone",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 25",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "vanessa-huckaby-e2",
+      "endorser": "Denyse McGriff",
+      "endorser_type": "official",
+      "statement": "Vanessa Huckaby's pamphlet statement lists Denyse McGriff as an endorser.",
+      "excerpt": "Denyse McGriff, Oregon City",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 25",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "vanessa-huckaby-e3",
+      "endorser": "Gabrielle Blaug",
+      "endorser_type": "official",
+      "statement": "Vanessa Huckaby's pamphlet statement lists Gabrielle Blaug as an endorser.",
+      "excerpt": "Gabrielle Blaug, Gladstone City Councilor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 25",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "vanessa-huckaby-e4",
+      "endorser": "Maria Mitchell",
+      "endorser_type": "official",
+      "statement": "Vanessa Huckaby's pamphlet statement lists Maria Mitchell as an endorser.",
+      "excerpt": "Maria Mitchell Gladstone City Councilor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 25",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "vanessa-huckaby-e5",
+      "endorser": "Adam Marl",
+      "endorser_type": "official",
+      "statement": "Vanessa Huckaby's pamphlet statement lists Adam Marl as an endorser.",
+      "excerpt": "Adam Marl, Commissioner, Oregon City",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 25",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "vanessa-huckaby-e6",
+      "endorser": "Nicole Quakenbush",
+      "endorser_type": "official",
+      "statement": "Vanessa Huckaby's pamphlet statement lists Nicole Quakenbush as an endorser.",
+      "excerpt": "Nicole Quakenbush, Gladstone SD",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 25",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "vanessa-huckaby-e7",
+      "endorser": "Charlie Chu",
+      "endorser_type": "official",
+      "statement": "Vanessa Huckaby's pamphlet statement lists Charlie Chu as an endorser.",
+      "excerpt": "Charlie Chu, Gladstone SD",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 25",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

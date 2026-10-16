@@ -197,5 +197,207 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Race or-us-house-2: Bentz 5 bio/5 pos/2 votes, Beck 4/5/0; all T1. The disparity reflects incumbency and is documented. Beck's 1997-2003 Oregon House votes were not collected (documented). Website confirmed in pamphlet (Book 17). Spot-search found substantial 2026 T3 coverage not collected (OPB 2026-09-30 piece on rural health care, Oregon Capital Chronicle, JPR, KOBI 'Five on 5'). It was not collected for Bentz either, so treatment is equal but thin."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "chris-beck-e1",
+      "endorser": "John Kitzhaber",
+      "endorser_type": "official",
+      "statement": "Chris Beck's pamphlet statement lists John Kitzhaber as an endorser.",
+      "excerpt": "Dr. John Kitzhaber, former Oregon governor and archi-",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chris-beck-e2",
+      "endorser": "Laura Pryor",
+      "endorser_type": "official",
+      "statement": "Chris Beck's pamphlet statement lists Laura Pryor as an endorser.",
+      "excerpt": "Laura Pryor, former Gilliam County Judge",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chris-beck-e3",
+      "endorser": "Jim Wood",
+      "endorser_type": "person",
+      "statement": "Chris Beck's pamphlet statement lists Jim Wood as an endorser.",
+      "excerpt": "Jim Wood, cattle rancher; Crook County",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chris-beck-e4",
+      "endorser": "Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Chris Beck's pamphlet statement lists Jeff Merkley as an endorser.",
+      "excerpt": "U.S Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chris-beck-e5",
+      "endorser": "Phil Chang",
+      "endorser_type": "official",
+      "statement": "Chris Beck's pamphlet statement lists Phil Chang as an endorser.",
+      "excerpt": "Phil Chang, Deschutes County Commissioner",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chris-beck-e6",
+      "endorser": "Mark Huddelston",
+      "endorser_type": "official",
+      "statement": "Chris Beck's pamphlet statement lists Mark Huddelston as an endorser.",
+      "excerpt": "Mark Huddelston, Jackson County District Attorney; retired",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chris-beck-e7",
+      "endorser": "John Frohnmayer",
+      "endorser_type": "official",
+      "statement": "Chris Beck's pamphlet statement lists John Frohnmayer as an endorser.",
+      "excerpt": "John Frohnmayer, former Chairman, National Endowment for",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chris-beck-e8",
+      "endorser": "Debi Ferrer",
+      "endorser_type": "person",
+      "statement": "Chris Beck's pamphlet statement lists Debi Ferrer as an endorser.",
+      "excerpt": "Debi Ferrer, retired teacher; Wasco County",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chris-beck-e9",
+      "endorser": "John Lamoreau",
+      "endorser_type": "official",
+      "statement": "Chris Beck's pamphlet statement lists John Lamoreau as an endorser.",
+      "excerpt": "John Lamoreau, Republican; former Union County",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "chris-beck-e10",
+      "endorser": "The Mother PAC",
+      "endorser_type": "organization",
+      "statement": "Chris Beck's pamphlet statement lists The Mother PAC as an endorser.",
+      "excerpt": "The Mother PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Clackamas edition, p. 32",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

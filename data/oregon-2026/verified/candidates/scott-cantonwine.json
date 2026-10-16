@@ -157,5 +157,47 @@
     "corrected": 1,
     "rejected": 0,
     "balance_notes": "Canby council: Cantonwine 7, Thompson 6, Ayres 6; Mullins and Varwig have 0 items because the pamphlet marks them as not purchasing space (*Not all candidates choose to purchase space) and no website/press was found; applied equally."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "scott-cantonwine-e1",
+      "endorser": "Jim Davis",
+      "endorser_type": "official",
+      "statement": "Scott Cantonwine's pamphlet statement lists Jim Davis as an endorser.",
+      "excerpt": "Endorsed by Canby City Councilors Jim Davis and Traci Hensley",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 19",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-cantonwine-e2",
+      "endorser": "Traci Hensley",
+      "endorser_type": "official",
+      "statement": "Scott Cantonwine's pamphlet statement lists Traci Hensley as an endorser.",
+      "excerpt": "Endorsed by Canby City Councilors Jim Davis and Traci Hensley",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 19",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

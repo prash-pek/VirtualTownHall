@@ -219,5 +219,127 @@
     "corrected": 2,
     "rejected": 0,
     "balance_notes": "Race gresham-council-pos-2: Coleman-Cox 9 items, DelPlato 10 items, all T1 pamphlet statements. Comparable coverage; neither has T3 coverage, consistent with spot-searches. Both incumbent=false, supported by greshamoregon.gov/meet-the-council (Position 2 is held by Eddy Morales). City elections page lists exactly these two (DelPlato as 'William DelPlato'). Website votedelplato.com printed in his statement."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "will-delplato-e1",
+      "endorser": "Cathy Keahley",
+      "endorser_type": "official",
+      "statement": "Will DelPlato's pamphlet statement lists Cathy Keahley as an endorser.",
+      "excerpt": "Cathy Keahley, Gresham City Council President",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-delplato-e2",
+      "endorser": "Sue Piazza",
+      "endorser_type": "official",
+      "statement": "Will DelPlato's pamphlet statement lists Sue Piazza as an endorser.",
+      "excerpt": "Sue Piazza, Gresham City Councilor",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-delplato-e3",
+      "endorser": "Randy Lauer",
+      "endorser_type": "official",
+      "statement": "Will DelPlato's pamphlet statement lists Randy Lauer as an endorser.",
+      "excerpt": "Randy Lauer, Past Troutdale Mayor",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-delplato-e4",
+      "endorser": "Bess Wills",
+      "endorser_type": "person",
+      "statement": "Will DelPlato's pamphlet statement lists Bess Wills as an endorser.",
+      "excerpt": "Bess Wills, local business owner",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-delplato-e5",
+      "endorser": "Greg Moen",
+      "endorser_type": "person",
+      "statement": "Will DelPlato's pamphlet statement lists Greg Moen as an endorser.",
+      "excerpt": "Greg Moen, local business owner",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "will-delplato-e6",
+      "endorser": "Jim Riegelmann",
+      "endorser_type": "person",
+      "statement": "Will DelPlato's pamphlet statement lists Jim Riegelmann as an endorser.",
+      "excerpt": "Jim Riegelmann, local business owner",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 42",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

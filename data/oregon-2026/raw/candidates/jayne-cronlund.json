@@ -209,5 +209,77 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Steps run identically for all 12 District 4 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF plus the City Auditor's AUD-120 candidate filing form (linked from portland.gov 2026 city candidates page); (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the two articles that profile every District 4 candidate: OPB 'What to know about Portland's District 4 council race' (2026-10-07) and Portland Mercury 'Meet the Candidates For City Council District 4' (2026-09-11). Multi-winner race: OPB states three District 4 seats are on the ballot. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Website discrepancy: the pamphlet statement prints 'jayneforaflourishingfuture.com' while the AUD-120 filing form lists 'jayneforaflourishingportland.com'; the pamphlet version is recorded. Filing form gives occupation 'small business owner, consultant'."
+  "collection_notes": "Steps run identically for all 12 District 4 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF plus the City Auditor's AUD-120 candidate filing form (linked from portland.gov 2026 city candidates page); (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the two articles that profile every District 4 candidate: OPB 'What to know about Portland's District 4 council race' (2026-10-07) and Portland Mercury 'Meet the Candidates For City Council District 4' (2026-09-11). Multi-winner race: OPB states three District 4 seats are on the ballot. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Website discrepancy: the pamphlet statement prints 'jayneforaflourishingfuture.com' while the AUD-120 filing form lists 'jayneforaflourishingportland.com'; the pamphlet version is recorded. Filing form gives occupation 'small business owner, consultant'.",
+  "endorsements": [
+    {
+      "id": "jayne-cronlund-e1",
+      "endorser": "Amanda Fritz",
+      "endorser_type": "official",
+      "statement": "Jayne Cronlund's pamphlet statement lists Amanda Fritz as an endorser.",
+      "excerpt": "Amanda Fritz, Former Portland City Commissioner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jayne-cronlund-e2",
+      "endorser": "Terri Preeg Riggsby",
+      "endorser_type": "official",
+      "statement": "Jayne Cronlund's pamphlet statement lists Terri Preeg Riggsby as an endorser.",
+      "excerpt": "Terri Preeg Riggsby, West Multnomah Soil & Water Conservation",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jayne-cronlund-e3",
+      "endorser": "Sue Marshall",
+      "endorser_type": "official",
+      "statement": "Jayne Cronlund's pamphlet statement lists Sue Marshall as an endorser.",
+      "excerpt": "Sue Marshall, Clark County Council Chair",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jayne-cronlund-e4",
+      "endorser": "Amy Beacom",
+      "endorser_type": "person",
+      "statement": "Jayne Cronlund's pamphlet statement lists Amy Beacom as an endorser.",
+      "excerpt": "Amy Beacom Ed.D, founder Center for Parental Leave",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jayne-cronlund-e5",
+      "endorser": "Andrea Kappa",
+      "endorser_type": "person",
+      "statement": "Jayne Cronlund's pamphlet statement lists Andrea Kappa as an endorser.",
+      "excerpt": "Andrea Kappa, founder Chip Drop and Freya Apps",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -157,5 +157,107 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Race maywood-park-council (vote for 3): Bussema 10, Collins 8, Holly 8, Ripley Feller 7, Akers 1 item; all T1 (pamphlet statements and city roster). Four filed readable statements and got comparable coverage. Akers's thin profile is a source-access gap, not missed effort: the county Candidate Index lists 'Jim Akers M-50' (no asterisk, so he filed), but his statement file is an image with no machine-readable text (verifier confirmed) and the full pamphlet text the fetch tool receives stops at M-34. No T3 coverage exists for any candidate (spot-searches returned only county documents). Roster (cityofmaywoodpark.com/government/council-staff) lists Jim Akers (Mayor), Kevin Bussema (Council President), Jeff Baltzell, Miriam Berman, Thomas Welander; Collins, Holly and Ripley Feller are absent, so incumbent=false is supported for them. Website kellyformaywood.com printed in her statement. Gap 'does not address specific services, budget or infrastructure' confirmed."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "kelly-ripley-feller-e1",
+      "endorser": "Kate Lamb",
+      "endorser_type": "person",
+      "statement": "Kelly Ripley Feller's pamphlet statement lists Kate Lamb as an endorser.",
+      "excerpt": "—Kate Lamb, lifelong Maywood Park resident",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kelly-ripley-feller-e2",
+      "endorser": "Linda Harden",
+      "endorser_type": "person",
+      "statement": "Kelly Ripley Feller's pamphlet statement lists Linda Harden as an endorser.",
+      "excerpt": "Linda Harden, longtime Maywood Park resident",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kelly-ripley-feller-e3",
+      "endorser": "Kevin Bussema",
+      "endorser_type": "official",
+      "statement": "Kelly Ripley Feller's pamphlet statement lists Kevin Bussema as an endorser.",
+      "excerpt": "Kevin Bussema, President, Maywood Park City Council",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kelly-ripley-feller-e4",
+      "endorser": "Miriam Berman",
+      "endorser_type": "official",
+      "statement": "Kelly Ripley Feller's pamphlet statement lists Miriam Berman as an endorser.",
+      "excerpt": "Miriam Berman, Councilor, Maywood Park City Council",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kelly-ripley-feller-e5",
+      "endorser": "Breylan Deak-Eriksen",
+      "endorser_type": "person",
+      "statement": "Kelly Ripley Feller's pamphlet statement lists Breylan Deak-Eriksen as an endorser.",
+      "excerpt": "Breylan Deak-Eriksen, Maywood Park resident",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

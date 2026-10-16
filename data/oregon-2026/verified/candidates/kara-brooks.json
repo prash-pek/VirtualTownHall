@@ -117,5 +117,207 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Circuit Court 5th District Pos 5, unopposed: 5 items (all from the T1 Governor's release, 2026-08-07). incumbent_source_url was changed to the official ballot directive, which prints 'Kara A Brooks Incumbent' under this exact position. The Governor's release doesn't name the position number. Her state voters' pamphlet statement is still unread: the verifier also could not reach the SOS pamphlet PDF, so this gap is confirmed, not a sign of unequal effort."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "kara-brooks-e1",
+      "endorser": "Ann Lininger",
+      "endorser_type": "official",
+      "statement": "Kara A Brooks's pamphlet statement lists Ann Lininger as an endorser.",
+      "excerpt": "Ann Lininger (Presiding)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kara-brooks-e2",
+      "endorser": "Colleen Gilmartin",
+      "endorser_type": "official",
+      "statement": "Kara A Brooks's pamphlet statement lists Colleen Gilmartin as an endorser.",
+      "excerpt": "Gilmartin, Susie L. Norby",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kara-brooks-e3",
+      "endorser": "Susie L. Norby",
+      "endorser_type": "official",
+      "statement": "Kara A Brooks's pamphlet statement lists Susie L. Norby as an endorser.",
+      "excerpt": "Susie L. Norby",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kara-brooks-e4",
+      "endorser": "Michelle Bartov",
+      "endorser_type": "official",
+      "statement": "Kara A Brooks's pamphlet statement lists Michelle Bartov as an endorser.",
+      "excerpt": "Michelle Bartov",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kara-brooks-e5",
+      "endorser": "Michael Wetzel",
+      "endorser_type": "official",
+      "statement": "Kara A Brooks's pamphlet statement lists Michael Wetzel as an endorser.",
+      "excerpt": "Michael Wetzel",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kara-brooks-e6",
+      "endorser": "Heather Karabeika",
+      "endorser_type": "official",
+      "statement": "Kara A Brooks's pamphlet statement lists Heather Karabeika as an endorser.",
+      "excerpt": "Karabeika",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kara-brooks-e7",
+      "endorser": "Cierra Brown",
+      "endorser_type": "official",
+      "statement": "Kara A Brooks's pamphlet statement lists Cierra Brown as an endorser.",
+      "excerpt": "Cierra Brown",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kara-brooks-e8",
+      "endorser": "John Wentworth",
+      "endorser_type": "official",
+      "statement": "Kara A Brooks's pamphlet statement lists John Wentworth as an endorser.",
+      "excerpt": "Clackamas County District Attorney John Wentworth",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kara-brooks-e9",
+      "endorser": "Rhett Bernstein",
+      "endorser_type": "official",
+      "statement": "Kara A Brooks's pamphlet statement lists Rhett Bernstein as an endorser.",
+      "excerpt": "West Linn Municipal Judge Rhett Bernstein",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kara-brooks-e10",
+      "endorser": "Ruben Medina",
+      "endorser_type": "person",
+      "statement": "Kara A Brooks's pamphlet statement lists Ruben Medina as an endorser.",
+      "excerpt": "Ruben Medina, Executive Director of the Clackamas Indigent",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

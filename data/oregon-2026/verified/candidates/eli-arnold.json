@@ -217,5 +217,167 @@
     "corrected": 5,
     "rejected": 0,
     "balance_notes": "D4: 10 items (8 T1, 2 T3); comparable. Website EliforPortland.com printed in pamphlet. Incumbent false confirmed. Possible missed T3: Willamette Week 2025-11-08 'Portland cop Eli Arnold will run for City Council again'. No pronouns stated; gendered pronouns replaced."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "eli-arnold-e1",
+      "endorser": "Portland Fire Fighters’ Association, IAFF Local 43",
+      "endorser_type": "organization",
+      "statement": "Eli Arnold's pamphlet statement lists Portland Fire Fighters’ Association, IAFF Local 43 as an endorser.",
+      "excerpt": "Portland Fire Fighters’ Association, IAFF Local 43",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e2",
+      "endorser": "Lisa Naito",
+      "endorser_type": "official",
+      "statement": "Eli Arnold's pamphlet statement lists Lisa Naito as an endorser.",
+      "excerpt": "Lisa Naito, former State Representative",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e3",
+      "endorser": "Amanda Fritz",
+      "endorser_type": "official",
+      "statement": "Eli Arnold's pamphlet statement lists Amanda Fritz as an endorser.",
+      "excerpt": "Amanda Fritz, former City Commissioner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e4",
+      "endorser": "Go Portland Go",
+      "endorser_type": "organization",
+      "statement": "Eli Arnold's pamphlet statement lists Go Portland Go as an endorser.",
+      "excerpt": "Go Portland Go",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e5",
+      "endorser": "Lisa Caballero",
+      "endorser_type": "person",
+      "statement": "Eli Arnold's pamphlet statement lists Lisa Caballero as an endorser.",
+      "excerpt": "Lisa Caballero, Transportation Advocate",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e6",
+      "endorser": "Bruce Studer",
+      "endorser_type": "person",
+      "statement": "Eli Arnold's pamphlet statement lists Bruce Studer as an endorser.",
+      "excerpt": "Bruce Studer, Community Organizer",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e7",
+      "endorser": "Mike Lindberg",
+      "endorser_type": "official",
+      "statement": "Eli Arnold's pamphlet statement lists Mike Lindberg as an endorser.",
+      "excerpt": "Mike Lindberg, former City Commissioner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "eli-arnold-e8",
+      "endorser": "Bob Weinstein",
+      "endorser_type": "person",
+      "statement": "Eli Arnold's pamphlet statement lists Bob Weinstein as an endorser.",
+      "excerpt": "Bob Weinstein, Government Watchdog",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

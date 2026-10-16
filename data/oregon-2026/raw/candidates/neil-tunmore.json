@@ -134,5 +134,119 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Incumbency null: no official Lake Oswego council roster was found; the pamphlet statement does not say the candidate serves on council. Race: vote for 4 (top three 4-year terms, fourth a 2-year term per city certification). Pamphlet index prints 'Niel Tunmore'; statement page and city/Multnomah certifications print 'Neil' (see inventory_fixes)."
+  "collection_notes": "Incumbency null: no official Lake Oswego council roster was found; the pamphlet statement does not say the candidate serves on council. Race: vote for 4 (top three 4-year terms, fourth a 2-year term per city certification). Pamphlet index prints 'Niel Tunmore'; statement page and city/Multnomah certifications print 'Neil' (see inventory_fixes).",
+  "endorsements": [
+    {
+      "id": "neil-tunmore-e1",
+      "endorser": "Jackie Manz",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists Jackie Manz as an endorser.",
+      "excerpt": "Jackie Manz, Current LO City Councilor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e2",
+      "endorser": "Lake Oswego Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Neil Tunmore's pamphlet statement lists Lake Oswego Chamber of Commerce as an endorser.",
+      "excerpt": "Lake Oswego Chamber of Commerce",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e3",
+      "endorser": "John Wendland",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists John Wendland as an endorser.",
+      "excerpt": "John Wendland Ali Afghan Jackie Manz Current City Councilors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e4",
+      "endorser": "Ali Afghan",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists Ali Afghan as an endorser.",
+      "excerpt": "John Wendland Ali Afghan Jackie Manz Current City Councilors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e5",
+      "endorser": "Skip O’Neill",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists Skip O’Neill as an endorser.",
+      "excerpt": "Skip O’Neill Jeff Gudman Aaron Rapf Former City Councilors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e6",
+      "endorser": "Jeff Gudman",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists Jeff Gudman as an endorser.",
+      "excerpt": "Skip O’Neill Jeff Gudman Aaron Rapf Former City Councilors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e7",
+      "endorser": "Aaron Rapf",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists Aaron Rapf as an endorser.",
+      "excerpt": "Skip O’Neill Jeff Gudman Aaron Rapf Former City Councilors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "neil-tunmore-e8",
+      "endorser": "Liz Hartman",
+      "endorser_type": "official",
+      "statement": "Neil Tunmore's pamphlet statement lists Liz Hartman as an endorser.",
+      "excerpt": "Liz Hartman Former LO School Board Chair",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 31",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -125,5 +125,49 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "incumbent=false for the mayor race: the City of Estacada directory lists Sean Drinkwine as Mayor (term ends 2026-12-31). Metcalf is a sitting councilor per his pamphlet statement and OPB (elected Nov. 2024, term to 2028). OPB article covers councilors' criminal histories (Metcalf's DUII probation at appointment); not used as position evidence. Step-4/5 queries add 'Estacada' to disambiguate names, same for all Estacada candidates."
+  "collection_notes": "incumbent=false for the mayor race: the City of Estacada directory lists Sean Drinkwine as Mayor (term ends 2026-12-31). Metcalf is a sitting councilor per his pamphlet statement and OPB (elected Nov. 2024, term to 2028). OPB article covers councilors' criminal histories (Metcalf's DUII probation at appointment); not used as position evidence. Step-4/5 queries add 'Estacada' to disambiguate names, same for all Estacada candidates.",
+  "endorsements": [
+    {
+      "id": "jonathan-metcalf-e1",
+      "endorser": "Michele Lee Stroh",
+      "endorser_type": "person",
+      "statement": "Jonathan Metcalf's pamphlet statement lists Michele Lee Stroh as an endorser.",
+      "excerpt": "Michele Lee Stroh",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jonathan-metcalf-e2",
+      "endorser": "Traci Hensley",
+      "endorser_type": "official",
+      "statement": "Jonathan Metcalf's pamphlet statement lists Traci Hensley as an endorser.",
+      "excerpt": "Traci Hensley, Canby City Council President",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jonathan-metcalf-e3",
+      "endorser": "Melissa A. Hill",
+      "endorser_type": "official",
+      "statement": "Jonathan Metcalf's pamphlet statement lists Melissa A. Hill as an endorser.",
+      "excerpt": "Melissa A. Hill, Estacada City Councilor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

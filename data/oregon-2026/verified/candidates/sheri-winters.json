@@ -22,5 +22,147 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "No items. The Candidate Index lists 'Sheri Winters M-67' with no asterisk, so a statement was filed; the per-candidate file troutdale_councilor_sheri_winters is an image scan with no machine-readable text and the fetchable pamphlet text ends at M-33. Spot-search found no T1/T2/T3 material. Source-access gap. Incumbent=false supported: she is not on the City of Troutdale council roster (node/721)."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "sheri-winters-e1",
+      "endorser": "Dave Ripma",
+      "endorser_type": "official",
+      "statement": "Sheri Winters's pamphlet statement lists Dave Ripma as an endorser.",
+      "excerpt": "Dave Ripma – Troutdale Mayor",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 67",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sheri-winters-e2",
+      "endorser": "Tanney Staffenson",
+      "endorser_type": "official",
+      "statement": "Sheri Winters's pamphlet statement lists Tanney Staffenson as an endorser.",
+      "excerpt": "Tanney Staffenson: Budget Committee Chair, Planning",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 67",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sheri-winters-e3",
+      "endorser": "Glenn White",
+      "endorser_type": "official",
+      "statement": "Sheri Winters's pamphlet statement lists Glenn White as an endorser.",
+      "excerpt": "Glenn White – Troutdale Council President",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 67",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sheri-winters-e4",
+      "endorser": "Carol Allen",
+      "endorser_type": "official",
+      "statement": "Sheri Winters's pamphlet statement lists Carol Allen as an endorser.",
+      "excerpt": "Carol Allen – Troutdale Councilor",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 67",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sheri-winters-e5",
+      "endorser": "Shelby Staffenson",
+      "endorser_type": "official",
+      "statement": "Sheri Winters's pamphlet statement lists Shelby Staffenson as an endorser.",
+      "excerpt": "Shelby Staffenson – PSEAC Chair",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 67",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sheri-winters-e6",
+      "endorser": "William Knight III",
+      "endorser_type": "official",
+      "statement": "Sheri Winters's pamphlet statement lists William Knight III as an endorser.",
+      "excerpt": "William Knight III – TCAB Chair",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 67",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sheri-winters-e7",
+      "endorser": "Rip Caswell",
+      "endorser_type": "person",
+      "statement": "Sheri Winters's pamphlet statement lists Rip Caswell as an endorser.",
+      "excerpt": "Rip Caswell – Caswell Sculptures",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 67",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

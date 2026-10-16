@@ -205,5 +205,107 @@
     "corrected": 1,
     "rejected": 0,
     "balance_notes": "D4: 10 items (7 T1, 3 T3); comparable. Website jayneforaflourishingfuture.com printed in pamphlet. Incumbent false confirmed. No pronouns stated; gendered pronouns replaced."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "jayne-cronlund-e1",
+      "endorser": "Amanda Fritz",
+      "endorser_type": "official",
+      "statement": "Jayne Cronlund's pamphlet statement lists Amanda Fritz as an endorser.",
+      "excerpt": "Amanda Fritz, Former Portland City Commissioner",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jayne-cronlund-e2",
+      "endorser": "Terri Preeg Riggsby",
+      "endorser_type": "official",
+      "statement": "Jayne Cronlund's pamphlet statement lists Terri Preeg Riggsby as an endorser.",
+      "excerpt": "Terri Preeg Riggsby, West Multnomah Soil & Water Conservation",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jayne-cronlund-e3",
+      "endorser": "Sue Marshall",
+      "endorser_type": "official",
+      "statement": "Jayne Cronlund's pamphlet statement lists Sue Marshall as an endorser.",
+      "excerpt": "Sue Marshall, Clark County Council Chair",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jayne-cronlund-e4",
+      "endorser": "Amy Beacom",
+      "endorser_type": "person",
+      "statement": "Jayne Cronlund's pamphlet statement lists Amy Beacom as an endorser.",
+      "excerpt": "Amy Beacom Ed.D, founder Center for Parental Leave",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jayne-cronlund-e5",
+      "endorser": "Andrea Kappa",
+      "endorser_type": "person",
+      "statement": "Jayne Cronlund's pamphlet statement lists Andrea Kappa as an endorser.",
+      "excerpt": "Andrea Kappa, founder Chip Drop and Freya Apps",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 45",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -156,5 +156,147 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Ward 1A: Salgado 8 items, Garcia 7, Marugg 8, Jackson 9 (incl. one T2 site item and one T3 OPB item). All four filed pamphlet statements; Salgado, Garcia have no website; Jackson alone has press (OPB 2026-09-28 names her). Disparities reflect source availability, applied equally."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "luis-garcia-e1",
+      "endorser": "Beach Pace",
+      "endorser_type": "official",
+      "statement": "Luis Garcia's pamphlet statement lists Beach Pace as an endorser.",
+      "excerpt": "Hillsboro Mayor Beach Pace",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "luis-garcia-e2",
+      "endorser": "Janeen Sollman",
+      "endorser_type": "official",
+      "statement": "Luis Garcia's pamphlet statement lists Janeen Sollman as an endorser.",
+      "excerpt": "Senator Janeen Sollman (D-Hillsboro)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "luis-garcia-e3",
+      "endorser": "Hillsboro Police Officers Association",
+      "endorser_type": "organization",
+      "statement": "Luis Garcia's pamphlet statement lists Hillsboro Police Officers Association as an endorser.",
+      "excerpt": "Hillsboro Police Officers Association",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "luis-garcia-e4",
+      "endorser": "Washington County Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Luis Garcia's pamphlet statement lists Washington County Chamber of Commerce as an endorser.",
+      "excerpt": "Washington County Chamber of Commerce",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "luis-garcia-e5",
+      "endorser": "Jensen Yip",
+      "endorser_type": "person",
+      "statement": "Luis Garcia's pamphlet statement lists Jensen Yip as an endorser.",
+      "excerpt": "Jensen Yip, Owner 808 Grinds",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "luis-garcia-e6",
+      "endorser": "Mark Hemenway",
+      "endorser_type": "person",
+      "statement": "Luis Garcia's pamphlet statement lists Mark Hemenway as an endorser.",
+      "excerpt": "Mark Hemenway, Coyote’s Bar and Grill",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "luis-garcia-e7",
+      "endorser": "Patrick Ribellia",
+      "endorser_type": "person",
+      "statement": "Luis Garcia's pamphlet statement lists Patrick Ribellia as an endorser.",
+      "excerpt": "Patrick Ribellia, Former Hillsboro Planning Director",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

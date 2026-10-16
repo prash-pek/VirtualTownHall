@@ -279,5 +279,187 @@
     "corrected": 4,
     "rejected": 0,
     "balance_notes": "Race gresham-mayor: Stovall 13 items (12 T1, 1 T3), Piazza 12 items (11 T1, 1 T3); both have pamphlet statements, an official city page and one quote from the same 2026-10-02 Portland Tribune article. Coverage is comparable. Spot-searches found no missed T1/T2/T3 policy material. City elections page lists exactly these two candidates. Incumbency (mayor) confirmed by greshamoregon.gov/meet-the-council; website www.GreshamTogether.org printed in his pamphlet statement."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "travis-stovall-e1",
+      "endorser": "Shane Bemis",
+      "endorser_type": "person",
+      "statement": "Travis Stovall's pamphlet statement lists Shane Bemis as an endorser.",
+      "excerpt": "Shane Bemis",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "travis-stovall-e2",
+      "endorser": "Maxine Dexter",
+      "endorser_type": "person",
+      "statement": "Travis Stovall's pamphlet statement lists Maxine Dexter as an endorser.",
+      "excerpt": "Maxine Dexter",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "travis-stovall-e3",
+      "endorser": "Gresham Professional Firefighters Association Local #1062",
+      "endorser_type": "organization",
+      "statement": "Travis Stovall's pamphlet statement lists Gresham Professional Firefighters Association Local #1062 as an endorser.",
+      "excerpt": "Gresham Professional Firefighters Association Local #1062",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "travis-stovall-e4",
+      "endorser": "Ricki Ruiz",
+      "endorser_type": "person",
+      "statement": "Travis Stovall's pamphlet statement lists Ricki Ruiz as an endorser.",
+      "excerpt": "Ricki Ruiz",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "travis-stovall-e5",
+      "endorser": "Ashton Simpson",
+      "endorser_type": "person",
+      "statement": "Travis Stovall's pamphlet statement lists Ashton Simpson as an endorser.",
+      "excerpt": "Ashton Simpson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "travis-stovall-e6",
+      "endorser": "Jerry Hinton",
+      "endorser_type": "person",
+      "statement": "Travis Stovall's pamphlet statement lists Jerry Hinton as an endorser.",
+      "excerpt": "Jerry Hinton",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "travis-stovall-e7",
+      "endorser": "Karylinn Echols",
+      "endorser_type": "person",
+      "statement": "Travis Stovall's pamphlet statement lists Karylinn Echols as an endorser.",
+      "excerpt": "Karylinn Echols",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "travis-stovall-e8",
+      "endorser": "Laurie Monnes Anderson",
+      "endorser_type": "person",
+      "statement": "Travis Stovall's pamphlet statement lists Laurie Monnes Anderson as an endorser.",
+      "excerpt": "Laurie Monnes Anderson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "travis-stovall-e9",
+      "endorser": "David Widmark",
+      "endorser_type": "person",
+      "statement": "Travis Stovall's pamphlet statement lists David Widmark as an endorser.",
+      "excerpt": "David Widmark",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -215,5 +215,47 @@
     "corrected": 4,
     "rejected": 0,
     "balance_notes": "Commissioner Pos 2: Shull and Savas have 10 items each, with the same pamphlet plus OPB May 2026 primary questionnaire structure. Savas has one extra T1 county bio item because he is the incumbent; Shull has no campaign website (OPB 2026-05-05 confirms this). Balanced. Pamphlet heading confirms both are in Position 2."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "mark-shull-e1",
+      "endorser": "Angela Brandenburg",
+      "endorser_type": "official",
+      "statement": "Mark Shull's pamphlet statement lists Angela Brandenburg as an endorser.",
+      "excerpt": "Clackamas County Sheriff Angela Brandenburg, ret.",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mark-shull-e2",
+      "endorser": "The Libertarian Party of Oregon Executive Committee",
+      "endorser_type": "organization",
+      "statement": "Mark Shull's pamphlet statement lists The Libertarian Party of Oregon Executive Committee as an endorser.",
+      "excerpt": "The Libertarian Party of Oregon Executive Committee",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 17",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

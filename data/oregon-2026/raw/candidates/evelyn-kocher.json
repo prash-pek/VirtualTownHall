@@ -195,5 +195,273 @@
       "result": "used"
     }
   ],
-  "collection_notes": "City's Council Position 1 page names Ashley (first name only; joined council fall 2021) as the Position 1 councilor, so neither runoff candidate is the incumbent; the page is undated. Campaign domain is printed in the county pamphlet statement but the site blocked automated fetch (robots). Pamphlet quotes capped ~125 chars."
+  "collection_notes": "City's Council Position 1 page names Ashley (first name only; joined council fall 2021) as the Position 1 councilor, so neither runoff candidate is the incumbent; the page is undated. Campaign domain is printed in the county pamphlet statement but the site blocked automated fetch (robots). Pamphlet quotes capped ~125 chars.",
+  "endorsements": [
+    {
+      "id": "evelyn-kocher-e1",
+      "endorser": "Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Evelyn Kocher's pamphlet statement lists Working Families Party as an endorser.",
+      "excerpt": "Working Families Party",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e2",
+      "endorser": "UFCW 555",
+      "endorser_type": "organization",
+      "statement": "Evelyn Kocher's pamphlet statement lists UFCW 555 as an endorser.",
+      "excerpt": "UFCW 555",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e3",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Evelyn Kocher's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e4",
+      "endorser": "PCC Faculty Federation and Academic Professionals",
+      "endorser_type": "organization",
+      "statement": "Evelyn Kocher's pamphlet statement lists PCC Faculty Federation and Academic Professionals as an endorser.",
+      "excerpt": "PCC Faculty Federation and Academic Professionals",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e5",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Evelyn Kocher's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e6",
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization",
+      "statement": "Evelyn Kocher's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Washington County Democrats",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e7",
+      "endorser": "Washington County Ignite",
+      "endorser_type": "organization",
+      "statement": "Evelyn Kocher's pamphlet statement lists Washington County Ignite as an endorser.",
+      "excerpt": "Washington County Ignite",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e8",
+      "endorser": "Oregon Futures Lab & Color PAC",
+      "endorser_type": "organization",
+      "statement": "Evelyn Kocher's pamphlet statement lists Oregon Futures Lab & Color PAC as an endorser.",
+      "excerpt": "Oregon Futures Lab & Color PAC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e9",
+      "endorser": "Basic Rights Oregon PAC",
+      "endorser_type": "organization",
+      "statement": "Evelyn Kocher's pamphlet statement lists Basic Rights Oregon PAC as an endorser.",
+      "excerpt": "Basic Rights Oregon PAC",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e10",
+      "endorser": "Pineros y Campesinos Unidos del Noroeste",
+      "endorser_type": "organization",
+      "statement": "Evelyn Kocher's pamphlet statement lists Pineros y Campesinos Unidos del Noroeste as an endorser.",
+      "excerpt": "Pineros y Campesinos Unidos del Noroeste",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e11",
+      "endorser": "Sierra Club",
+      "endorser_type": "organization",
+      "statement": "Evelyn Kocher's pamphlet statement lists Sierra Club as an endorser.",
+      "excerpt": "Sierra Club",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e12",
+      "endorser": "APANO Action Fund",
+      "endorser_type": "organization",
+      "statement": "Evelyn Kocher's pamphlet statement lists APANO Action Fund as an endorser.",
+      "excerpt": "APANO Action Fund",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e13",
+      "endorser": "Farrah Chaichi",
+      "endorser_type": "official",
+      "statement": "Evelyn Kocher's pamphlet statement lists Farrah Chaichi as an endorser.",
+      "excerpt": "Farrah Chaichi, State Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e14",
+      "endorser": "Lamar Wise",
+      "endorser_type": "official",
+      "statement": "Evelyn Kocher's pamphlet statement lists Lamar Wise as an endorser.",
+      "excerpt": "Lamar Wise,State Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e15",
+      "endorser": "Khanh Pham",
+      "endorser_type": "official",
+      "statement": "Evelyn Kocher's pamphlet statement lists Khanh Pham as an endorser.",
+      "excerpt": "State Senator Khanh Pham",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e16",
+      "endorser": "Angelita Morillo",
+      "endorser_type": "official",
+      "statement": "Evelyn Kocher's pamphlet statement lists Angelita Morillo as an endorser.",
+      "excerpt": "Portland City Councilor Angelita Morillo",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e17",
+      "endorser": "Tammy Carpenter",
+      "endorser_type": "official",
+      "statement": "Evelyn Kocher's pamphlet statement lists Tammy Carpenter as an endorser.",
+      "excerpt": "Beaverton School Board member Dr. Tammy Carpenter",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e18",
+      "endorser": "Barbie Minor",
+      "endorser_type": "official",
+      "statement": "Evelyn Kocher's pamphlet statement lists Barbie Minor as an endorser.",
+      "excerpt": "THPRD board member Barbie Minor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "evelyn-kocher-e19",
+      "endorser": "Dorian Russell",
+      "endorser_type": "official",
+      "statement": "Evelyn Kocher's pamphlet statement lists Dorian Russell as an endorser.",
+      "excerpt": "NWESD Zone 3 Director Dorian Russell",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 9",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

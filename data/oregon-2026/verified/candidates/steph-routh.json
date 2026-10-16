@@ -100,5 +100,507 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Pamphlet statement (M-72) exists at multco.us/file/emswcd_at-large_pos_2_steph_routh/download but is a scan with no text layer; the full pamphlet text ends ~M-33 (about 104k chars, offsets return nothing). Source-access gap, same as Freshman. MISSED MATERIAL: campaign site stephfororegon.com (steph4eastportland.com redirects) states EMSWCD At-Large 2 run, bio and priorities (farmland, streams, data-center water demand); domain is linked only from the Multnomah County Democrats profile (not an accepted tier), so T2 use needs ORESTAR or T3 confirmation. Her pronouns on the 2024 OPB profile are she/they; no stated 2026 pronouns found. The only items are 2024 T3 about a different office."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "steph-routh-e1",
+      "endorser": "East County Rising PAC",
+      "endorser_type": "organization",
+      "statement": "Steph Routh's pamphlet statement lists East County Rising PAC as an endorser.",
+      "excerpt": "East County Rising PAC",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e2",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Steph Routh's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e3",
+      "endorser": "Sunrise Movement PDX",
+      "endorser_type": "organization",
+      "statement": "Steph Routh's pamphlet statement lists Sunrise Movement PDX as an endorser.",
+      "excerpt": "Sunrise Movement PDX",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e4",
+      "endorser": "APANO Action Fund",
+      "endorser_type": "organization",
+      "statement": "Steph Routh's pamphlet statement lists APANO Action Fund as an endorser.",
+      "excerpt": "APANO Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e5",
+      "endorser": "Basic Rights Oregon",
+      "endorser_type": "organization",
+      "statement": "Steph Routh's pamphlet statement lists Basic Rights Oregon as an endorser.",
+      "excerpt": "Basic Rights Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e6",
+      "endorser": "The Ebony Collective Coalition",
+      "endorser_type": "organization",
+      "statement": "Steph Routh's pamphlet statement lists The Ebony Collective Coalition as an endorser.",
+      "excerpt": "The Ebony Collective Coalition",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e7",
+      "endorser": "Next Up Action Fund",
+      "endorser_type": "organization",
+      "statement": "Steph Routh's pamphlet statement lists Next Up Action Fund as an endorser.",
+      "excerpt": "Next Up Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e8",
+      "endorser": "Khanh Pham",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Khanh Pham as an endorser.",
+      "excerpt": "State Senator Khanh Pham",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e9",
+      "endorser": "Willy Chotzen",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Willy Chotzen as an endorser.",
+      "excerpt": "State Representatives Willy Chotzen, Mark Gamba, Dacia",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e10",
+      "endorser": "Mark Gamba",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Mark Gamba as an endorser.",
+      "excerpt": "State Representatives Willy Chotzen, Mark Gamba, Dacia",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e11",
+      "endorser": "Dacia Grayber",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Dacia Grayber as an endorser.",
+      "excerpt": "State Representatives Willy Chotzen, Mark Gamba, Dacia",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e12",
+      "endorser": "Zach Hudson",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Zach Hudson as an endorser.",
+      "excerpt": "Grayber, Zach Hudson, Lesly Muñoz, Travis Nelson, Ricki Ruiz,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e13",
+      "endorser": "Lesly Muñoz",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Lesly Muñoz as an endorser.",
+      "excerpt": "Grayber, Zach Hudson, Lesly Muñoz, Travis Nelson, Ricki Ruiz,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e14",
+      "endorser": "Travis Nelson",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Travis Nelson as an endorser.",
+      "excerpt": "Grayber, Zach Hudson, Lesly Muñoz, Travis Nelson, Ricki Ruiz,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e15",
+      "endorser": "Ricki Ruiz",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Ricki Ruiz as an endorser.",
+      "excerpt": "Grayber, Zach Hudson, Lesly Muñoz, Travis Nelson, Ricki Ruiz,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e16",
+      "endorser": "Lamar Wise",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Lamar Wise as an endorser.",
+      "excerpt": "Lamar Wise",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e17",
+      "endorser": "Mary Colombo",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Mary Colombo as an endorser.",
+      "excerpt": "EMSWCD Directors Mary Colombo, Ramona DeNies",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e18",
+      "endorser": "Ramona DeNies",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Ramona DeNies as an endorser.",
+      "excerpt": "EMSWCD Directors Mary Colombo, Ramona DeNies",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e19",
+      "endorser": "Juan Carlos Gonzalez",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Juan Carlos Gonzalez as an endorser.",
+      "excerpt": "Metro Councilors Juan Carlos Gonzalez (Chair), Duncan",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e20",
+      "endorser": "Duncan Hwang",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Duncan Hwang as an endorser.",
+      "excerpt": "Hwang, Christine Lewis, Miles Palacios, Ashton Simpson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e21",
+      "endorser": "Christine Lewis",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Christine Lewis as an endorser.",
+      "excerpt": "Hwang, Christine Lewis, Miles Palacios, Ashton Simpson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e22",
+      "endorser": "Miles Palacios",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Miles Palacios as an endorser.",
+      "excerpt": "Hwang, Christine Lewis, Miles Palacios, Ashton Simpson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e23",
+      "endorser": "Ashton Simpson",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Ashton Simpson as an endorser.",
+      "excerpt": "Hwang, Christine Lewis, Miles Palacios, Ashton Simpson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e24",
+      "endorser": "Tiffany Koyama Lane",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Tiffany Koyama Lane as an endorser.",
+      "excerpt": "Portland City Councilor Tiffany Koyama Lane",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steph-routh-e25",
+      "endorser": "Eddy Morales",
+      "endorser_type": "official",
+      "statement": "Steph Routh's pamphlet statement lists Eddy Morales as an endorser.",
+      "excerpt": "Gresham City Councilor Eddy Morales",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 72",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

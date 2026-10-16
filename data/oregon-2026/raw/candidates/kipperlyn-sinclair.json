@@ -210,5 +210,301 @@
       "result": "used"
     }
   ],
-  "collection_notes": "County board page lists Jerry Willey as Vice Chair and District 4 Commissioner, so neither runoff candidate is the incumbent. Hillsboro city news pages (hillsboro-oregon.gov/Home/Components/News/...) returned client errors and the Hillsboro 101 page has no named roster, so city-office facts come from the pamphlet and press. Campaign domain printed in the county pamphlet statement. Pamphlet quotes capped ~125 chars by the fetch tool."
+  "collection_notes": "County board page lists Jerry Willey as Vice Chair and District 4 Commissioner, so neither runoff candidate is the incumbent. Hillsboro city news pages (hillsboro-oregon.gov/Home/Components/News/...) returned client errors and the Hillsboro 101 page has no named roster, so city-office facts come from the pamphlet and press. Campaign domain printed in the county pamphlet statement. Pamphlet quotes capped ~125 chars by the fetch tool.",
+  "endorsements": [
+    {
+      "id": "kipperlyn-sinclair-e1",
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Endorsements: Washington County Democrats, Sierra Club,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e2",
+      "endorser": "Sierra Club",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Sierra Club as an endorser.",
+      "excerpt": "Sierra Club",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e3",
+      "endorser": "Friends of Smart Growth",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Friends of Smart Growth as an endorser.",
+      "excerpt": "Friends of Smart Growth",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e4",
+      "endorser": "Oregon Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Oregon Working Families Party as an endorser.",
+      "excerpt": "Oregon Working Families Party",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e5",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e6",
+      "endorser": "For All Families Oregon Action",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists For All Families Oregon Action as an endorser.",
+      "excerpt": "For All Families Oregon Action",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e7",
+      "endorser": "Oregon Data Center Defiance",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Oregon Data Center Defiance as an endorser.",
+      "excerpt": "Oregon Data",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e8",
+      "endorser": "Susan McLain",
+      "endorser_type": "official",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Susan McLain as an endorser.",
+      "excerpt": "Representative Susan McLain",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e9",
+      "endorser": "Nafisa Fai",
+      "endorser_type": "official",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Nafisa Fai as an endorser.",
+      "excerpt": "Nafisa Fai",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e10",
+      "endorser": "Olivia Alcaire",
+      "endorser_type": "official",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Olivia Alcaire as an endorser.",
+      "excerpt": "Councilor Olivia Alcaire",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e11",
+      "endorser": "Myrna Munoz",
+      "endorser_type": "official",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Myrna Munoz as an endorser.",
+      "excerpt": "Senate Candidate Myrna",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e12",
+      "endorser": "Dean Moberg",
+      "endorser_type": "person",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Dean Moberg as an endorser.",
+      "excerpt": "Dean Moberg, Tualatin Soil & Water Conservation",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e13",
+      "endorser": "Stoneboat Farm",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Stoneboat Farm as an endorser.",
+      "excerpt": "Stoneboat Farm",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e14",
+      "endorser": "Vanasche Farm",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Vanasche Farm as an endorser.",
+      "excerpt": "Vanasche Farm",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e15",
+      "endorser": "Duyke Family Farms",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Duyke Family Farms as an endorser.",
+      "excerpt": "Duyke Family",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e16",
+      "endorser": "Spiesschaert Farm",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Spiesschaert Farm as an endorser.",
+      "excerpt": "Spiesschaert Farm",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e17",
+      "endorser": "La Finquita del Buho CSA",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists La Finquita del Buho CSA as an endorser.",
+      "excerpt": "La Finquita del Buho CSA",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e18",
+      "endorser": "James Sullivan, Working Theory Farm",
+      "endorser_type": "person",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists James Sullivan, Working Theory Farm as an endorser.",
+      "excerpt": "Sullivan, Working Theory Farm",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e19",
+      "endorser": "Helvetia Gardens",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Helvetia Gardens as an endorser.",
+      "excerpt": "Helvetia Gardens",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e20",
+      "endorser": "Comida KIN",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Comida KIN as an endorser.",
+      "excerpt": "Comida KIN",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "kipperlyn-sinclair-e21",
+      "endorser": "Foodways at Nana Cardoon",
+      "endorser_type": "organization",
+      "statement": "Kipperlyn Sinclair's pamphlet statement lists Foodways at Nana Cardoon as an endorser.",
+      "excerpt": "Foodways at Nana Cardoon.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 5",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

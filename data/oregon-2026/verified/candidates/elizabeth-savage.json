@@ -60,5 +60,507 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Both candidates have two comparable T3 bio items from the same two Willamette Week articles; descriptive facts only (evaluative phrases omitted). Pamphlet statements not readable; oregonvotes.gov military-guide page for Hagedorn redirects (unreachable). File-level: incumbent set false per ballot directive (no incumbent for Position 14; WW reports Judge Amy Holmes Hehn leaving). Name matches."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "elizabeth-savage-e1",
+      "endorser": "NW Oregon Labor Council",
+      "endorser_type": "organization",
+      "statement": "Elizabeth Savage's pamphlet statement lists NW Oregon Labor Council as an endorser.",
+      "excerpt": "NW Oregon Labor Council, Teamsters Joint Council No. 37,",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e2",
+      "endorser": "Teamsters Joint Council No. 37",
+      "endorser_type": "organization",
+      "statement": "Elizabeth Savage's pamphlet statement lists Teamsters Joint Council No. 37 as an endorser.",
+      "excerpt": "NW Oregon Labor Council, Teamsters Joint Council No. 37,",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e3",
+      "endorser": "UFCW Local #555",
+      "endorser_type": "organization",
+      "statement": "Elizabeth Savage's pamphlet statement lists UFCW Local #555 as an endorser.",
+      "excerpt": "UFCW Local #555",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e4",
+      "endorser": "Alliance for a Safe Oregon",
+      "endorser_type": "organization",
+      "statement": "Elizabeth Savage's pamphlet statement lists Alliance for a Safe Oregon as an endorser.",
+      "excerpt": "Alliance for a Safe Oregon; Asian American Coalition; Dr. Eric",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e5",
+      "endorser": "Asian American Coalition",
+      "endorser_type": "organization",
+      "statement": "Elizabeth Savage's pamphlet statement lists Asian American Coalition as an endorser.",
+      "excerpt": "Alliance for a Safe Oregon; Asian American Coalition; Dr. Eric",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e6",
+      "endorser": "East County Rising",
+      "endorser_type": "organization",
+      "statement": "Elizabeth Savage's pamphlet statement lists East County Rising as an endorser.",
+      "excerpt": "Szeto, Founder, AHSC; East County Rising; Frank Garcia, Jr.,",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e7",
+      "endorser": "Oregon Muslim Bar Association",
+      "endorser_type": "organization",
+      "statement": "Elizabeth Savage's pamphlet statement lists Oregon Muslim Bar Association as an endorser.",
+      "excerpt": "Musse Olol, President, SACOO; Oregon Muslim Bar",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e8",
+      "endorser": "Portland Gray Panthers",
+      "endorser_type": "organization",
+      "statement": "Elizabeth Savage's pamphlet statement lists Portland Gray Panthers as an endorser.",
+      "excerpt": "Association; Portland Gray Panthers",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e9",
+      "endorser": "Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Ron Wyden as an endorser.",
+      "excerpt": "Senator Ron Wyden; Former Governors: Barbara Roberts, Ted",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e10",
+      "endorser": "Barbara Roberts",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Barbara Roberts as an endorser.",
+      "excerpt": "Senator Ron Wyden; Former Governors: Barbara Roberts, Ted",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e11",
+      "endorser": "Ted Kulongoski",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Ted Kulongoski as an endorser.",
+      "excerpt": "Kulongoski; Commissioner Christina Stephenson, BOLI; State",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e12",
+      "endorser": "Christina Stephenson",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Christina Stephenson as an endorser.",
+      "excerpt": "Kulongoski; Commissioner Christina Stephenson, BOLI; State",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e13",
+      "endorser": "Kayse Jama",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Kayse Jama as an endorser.",
+      "excerpt": "Senators:Kayse Jama, Kate Lieber, James Manning; Former Mayor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e14",
+      "endorser": "Kate Lieber",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Kate Lieber as an endorser.",
+      "excerpt": "Senators:Kayse Jama, Kate Lieber, James Manning; Former Mayor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e15",
+      "endorser": "James Manning",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists James Manning as an endorser.",
+      "excerpt": "Senators:Kayse Jama, Kate Lieber, James Manning; Former Mayor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e16",
+      "endorser": "Tom Potter",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Tom Potter as an endorser.",
+      "excerpt": "Tom Potter; Councilor Loretta Smith",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e17",
+      "endorser": "Loretta Smith",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Loretta Smith as an endorser.",
+      "excerpt": "Tom Potter; Councilor Loretta Smith",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e18",
+      "endorser": "Rebecca Duncan",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Rebecca Duncan as an endorser.",
+      "excerpt": "Rebecca Duncan; Bronson James; Aruna Masih; Richard Baldwin*;",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e19",
+      "endorser": "Bronson James",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Bronson James as an endorser.",
+      "excerpt": "Rebecca Duncan; Bronson James; Aruna Masih; Richard Baldwin*;",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e20",
+      "endorser": "Aruna Masih",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Aruna Masih as an endorser.",
+      "excerpt": "Rebecca Duncan; Bronson James; Aruna Masih; Richard Baldwin*;",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e21",
+      "endorser": "Erin Lagesen",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Erin Lagesen as an endorser.",
+      "excerpt": "Erin Lagesen, Chief Judge",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e22",
+      "endorser": "Benjamin Souede",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Benjamin Souede as an endorser.",
+      "excerpt": "Judge Benjamin Souede",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e23",
+      "endorser": "Michelle Bassi",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Michelle Bassi as an endorser.",
+      "excerpt": "Michelle Bassi; Beatrice Grace; Robert Johnson; Melvin Oden-Orr;",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e24",
+      "endorser": "Beatrice Grace",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Beatrice Grace as an endorser.",
+      "excerpt": "Michelle Bassi; Beatrice Grace; Robert Johnson; Melvin Oden-Orr;",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elizabeth-savage-e25",
+      "endorser": "Melvin Oden-Orr",
+      "endorser_type": "official",
+      "statement": "Elizabeth Savage's pamphlet statement lists Melvin Oden-Orr as an endorser.",
+      "excerpt": "Michelle Bassi; Beatrice Grace; Robert Johnson; Melvin Oden-Orr;",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, Multnomah edition, p. 60",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

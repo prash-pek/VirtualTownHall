@@ -174,5 +174,407 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Lake Oswego (6 candidates): items Guiney 8, Walsh 7, Tunmore 6, Ramsey 6, Tiemann 6, Miles 6. All six filed pamphlet statements; Guiney, Walsh, Tunmore also have a T2 item from their sites. Ramsey site only repeats her pamphlet text; Tiemann site blocked by robots; Miles lists no site. Disparity is source access, not effort. No T3 press found for anyone."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "bryan-guiney-e1",
+      "endorser": "Joe Buck",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Joe Buck as an endorser.",
+      "excerpt": "Mayor Joe Buck",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e2",
+      "endorser": "Rachel Verdick",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Rachel Verdick as an endorser.",
+      "excerpt": "Rachel Verdick",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e3",
+      "endorser": "Massene Mboup",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Massene Mboup as an endorser.",
+      "excerpt": "Massene Mboup",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e4",
+      "endorser": "Trudy Corrigan",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Trudy Corrigan as an endorser.",
+      "excerpt": "Trudy Corrigan",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e5",
+      "endorser": "John Wendland",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists John Wendland as an endorser.",
+      "excerpt": "John Wendland",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e6",
+      "endorser": "Ali Afghan",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Ali Afghan as an endorser.",
+      "excerpt": "Ali Afghan",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e7",
+      "endorser": "Jackie Manz",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Jackie Manz as an endorser.",
+      "excerpt": "Jackie Manz",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e8",
+      "endorser": "Kirsten Aird",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Kirsten Aird as an endorser.",
+      "excerpt": "LO School Board Chair Kirsten Aird",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e9",
+      "endorser": "Neelam Gupta",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Neelam Gupta as an endorser.",
+      "excerpt": "Neelam Gupta",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e10",
+      "endorser": "John Wallin",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists John Wallin as an endorser.",
+      "excerpt": "John Wallin",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e11",
+      "endorser": "Kate Lupton",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Kate Lupton as an endorser.",
+      "excerpt": "Kate Lupton",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e12",
+      "endorser": "Craig Roberts",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Craig Roberts as an endorser.",
+      "excerpt": "County Chair Craig Roberts",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e13",
+      "endorser": "Martha Schrader",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Martha Schrader as an endorser.",
+      "excerpt": "Commissioner Martha Schrader",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e14",
+      "endorser": "Angela Brandenburg",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Angela Brandenburg as an endorser.",
+      "excerpt": "Sheriff Angela Brandenburg (ret.)",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e15",
+      "endorser": "Juan Carlos González",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Juan Carlos González as an endorser.",
+      "excerpt": "Metro Council President Juan",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e16",
+      "endorser": "Christine Lewis",
+      "endorser_type": "official",
+      "statement": "Bryan Guiney's pamphlet statement lists Christine Lewis as an endorser.",
+      "excerpt": "Metro Councilor Christine Lewis",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e17",
+      "endorser": "Professional Firefighters of Clackamas County IAFF Local 1159",
+      "endorser_type": "organization",
+      "statement": "Bryan Guiney's pamphlet statement lists Professional Firefighters of Clackamas County IAFF Local 1159 as an endorser.",
+      "excerpt": "Firefighters of Clackamas County IAFF Local 1159",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e18",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Bryan Guiney's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "League of Conservation Voters",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e19",
+      "endorser": "Lake Oswego Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Bryan Guiney's pamphlet statement lists Lake Oswego Chamber of Commerce as an endorser.",
+      "excerpt": "Lake Oswego Chamber of",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bryan-guiney-e20",
+      "endorser": "AFSCME Local 1546",
+      "endorser_type": "organization",
+      "statement": "Bryan Guiney's pamphlet statement lists AFSCME Local 1546 as an endorser.",
+      "excerpt": "AFSCME Local 1546",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 29",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -118,5 +118,67 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Estacada mayor: Metcalf 5, Drinkwine 6; both filed pamphlet statements; no websites listed; no T3 campaign coverage found. Balanced."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "jonathan-metcalf-e1",
+      "endorser": "Michele Lee Stroh",
+      "endorser_type": "person",
+      "statement": "Jonathan Metcalf's pamphlet statement lists Michele Lee Stroh as an endorser.",
+      "excerpt": "Michele Lee Stroh",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jonathan-metcalf-e2",
+      "endorser": "Traci Hensley",
+      "endorser_type": "official",
+      "statement": "Jonathan Metcalf's pamphlet statement lists Traci Hensley as an endorser.",
+      "excerpt": "Traci Hensley, Canby City Council President",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jonathan-metcalf-e3",
+      "endorser": "Melissa A. Hill",
+      "endorser_type": "official",
+      "statement": "Jonathan Metcalf's pamphlet statement lists Melissa A. Hill as an endorser.",
+      "excerpt": "Melissa A. Hill, Estacada City Councilor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

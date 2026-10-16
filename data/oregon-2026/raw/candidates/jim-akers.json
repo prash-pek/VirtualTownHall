@@ -79,5 +79,21 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Incumbent council member per the city roster (no role listed; mayor not named on the page). A Willamette Week article on mayoral endorsements surfaced in step 5 but endorsement content is excluded; Akers' title was not confirmed from it. Maywood Park council roster (council-staff page) lists Jim Akers, Kevin Bussema (Council President), Jeff Baltzell, Miriam Berman and Thomas Welander. Step-5 queries used \"Jim Akers\" Maywood Park because the bare name is common."
+  "collection_notes": "Incumbent council member per the city roster (no role listed; mayor not named on the page). A Willamette Week article on mayoral endorsements surfaced in step 5 but endorsement content is excluded; Akers' title was not confirmed from it. Maywood Park council roster (council-staff page) lists Jim Akers, Kevin Bussema (Council President), Jeff Baltzell, Miriam Berman and Thomas Welander. Step-5 queries used \"Jim Akers\" Maywood Park because the bare name is common.",
+  "endorsements": [
+    {
+      "id": "jim-akers-e1",
+      "endorser": "Julia Brim-Edwards",
+      "endorser_type": "official",
+      "statement": "Jim Akers's pamphlet statement lists Julia Brim-Edwards as an endorser.",
+      "excerpt": "Endorsed by: Julia Brim-Edwards, Multnomah County",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

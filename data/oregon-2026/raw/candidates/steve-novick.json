@@ -259,5 +259,91 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Steps run identically for all 21 District 3 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF (with the full and large-print county pamphlets tried where the statement PDF was a scan; the pamphlet's candidate index marks candidates who filed no statement) plus the City Auditor's AUD-120 candidate filing form linked from portland.gov's 2026 city candidates page; (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the three articles that cover the whole District 3 field: OPB 'What to know about Portland's District 3 council race' (2026-10-07), Portland Mercury 'Meet the Candidates For City Council District 3' (2026-09-09) and Portland Tribune 'Meet the Portland City Council District 3 candidates' (2026-10-13; Q&A — the Tribune says Sollitt, Pham, Parker, McCormick, Kelly and Frankenstein did not respond and Tucker withdrew). Multi-winner race: OPB states three council seats are available in District 3. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Incumbent per portland.gov/council. Date discrepancy: pamphlet lists commissioner service 2013-16; OPB says 2013 to 2017."
+  "collection_notes": "Steps run identically for all 21 District 3 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF (with the full and large-print county pamphlets tried where the statement PDF was a scan; the pamphlet's candidate index marks candidates who filed no statement) plus the City Auditor's AUD-120 candidate filing form linked from portland.gov's 2026 city candidates page; (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the three articles that cover the whole District 3 field: OPB 'What to know about Portland's District 3 council race' (2026-10-07), Portland Mercury 'Meet the Candidates For City Council District 3' (2026-09-09) and Portland Tribune 'Meet the Portland City Council District 3 candidates' (2026-10-13; Q&A — the Tribune says Sollitt, Pham, Parker, McCormick, Kelly and Frankenstein did not respond and Tucker withdrew). Multi-winner race: OPB states three council seats are available in District 3. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report. Incumbent per portland.gov/council. Date discrepancy: pamphlet lists commissioner service 2013-16; OPB says 2013 to 2017.",
+  "endorsements": [
+    {
+      "id": "steve-novick-e1",
+      "endorser": "Portland Firefighters",
+      "endorser_type": "organization",
+      "statement": "Steve Novick's pamphlet statement lists Portland Firefighters as an endorser.",
+      "excerpt": "Portland Firefighters",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-novick-e2",
+      "endorser": "Columbia Pacific Building Trades",
+      "endorser_type": "organization",
+      "statement": "Steve Novick's pamphlet statement lists Columbia Pacific Building Trades as an endorser.",
+      "excerpt": "Columbia Pacific Building Trades",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-novick-e3",
+      "endorser": "AFSCME Local 189",
+      "endorser_type": "organization",
+      "statement": "Steve Novick's pamphlet statement lists AFSCME Local 189 as an endorser.",
+      "excerpt": "AFSCME Local 189",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-novick-e4",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Steve Novick's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-novick-e5",
+      "endorser": "Northwest Oregon Labor Council, AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Steve Novick's pamphlet statement lists Northwest Oregon Labor Council, AFL-CIO as an endorser.",
+      "excerpt": "Northwest Oregon Labor Council, AFL-CIO",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-novick-e6",
+      "endorser": "Building Power for Communities of Color",
+      "endorser_type": "organization",
+      "statement": "Steve Novick's pamphlet statement lists Building Power for Communities of Color as an endorser.",
+      "excerpt": "Building Power for Communities of Color",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 57",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

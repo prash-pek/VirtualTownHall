@@ -118,5 +118,27 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "see reports/verification/candidates-metro-v5.md"
-  }
+  },
+  "endorsements": [
+    {
+      "id": "josh-smith-e1",
+      "endorser": "Michael Milch",
+      "endorser_type": "official",
+      "statement": "Josh Smith's pamphlet statement lists Michael Milch as an endorser.",
+      "excerpt": "Michael Milch, Gladstone Mayor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 26",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

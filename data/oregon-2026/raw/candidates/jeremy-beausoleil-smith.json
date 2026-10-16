@@ -236,5 +236,119 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Steps run identically for all 12 District 4 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF plus the City Auditor's AUD-120 candidate filing form (linked from portland.gov 2026 city candidates page); (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the two articles that profile every District 4 candidate: OPB 'What to know about Portland's District 4 council race' (2026-10-07) and Portland Mercury 'Meet the Candidates For City Council District 4' (2026-09-11). Multi-winner race: OPB states three District 4 seats are on the ballot. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report."
+  "collection_notes": "Steps run identically for all 12 District 4 candidates: (1) county Military & Overseas Online Voters' Guide statement PDF plus the City Auditor's AUD-120 candidate filing form (linked from portland.gov 2026 city candidates page); (2) portland.gov/council roster and councilor page for incumbents; (3) campaign domain only as printed in the pamphlet statement or filing form; (4) one general WebSearch; (5) three fixed allowed-domain WebSearch groups (opb.org+oregoncapitalchronicle.com+wweek.com+ballotpedia.org; kgw.com+koin.com+kptv.com+katu.com; portlandmercury.com+vote411.org+pamplinmedia.com+portlandtribune.com) because the search proxy rejects oregonlive.com and apnews.com; (6) the two articles that profile every District 4 candidate: OPB 'What to know about Portland's District 4 council race' (2026-10-07) and Portland Mercury 'Meet the Candidates For City Council District 4' (2026-09-11). Multi-winner race: OPB states three District 4 seats are on the ballot. Excerpts come through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Ballot name/order match inventory.json and the county Ballot Content RCV report.",
+  "endorsements": [
+    {
+      "id": "jeremy-beausoleil-smith-e1",
+      "endorser": "PSU-AAUP",
+      "endorser_type": "organization",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists PSU-AAUP as an endorser.",
+      "excerpt": "PSU-AAUP",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e2",
+      "endorser": "Travis Nelson",
+      "endorser_type": "official",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Travis Nelson as an endorser.",
+      "excerpt": "Rep. Travis Nelson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e3",
+      "endorser": "Latino Network Action Fund",
+      "endorser_type": "organization",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Latino Network Action Fund as an endorser.",
+      "excerpt": "Latino Network Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e4",
+      "endorser": "Steph Routh",
+      "endorser_type": "official",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Steph Routh as an endorser.",
+      "excerpt": "Steph Routh - Portland Planning",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e5",
+      "endorser": "Sunrise Movement PDX",
+      "endorser_type": "organization",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Sunrise Movement PDX as an endorser.",
+      "excerpt": "Sunrise Movement PDX",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e6",
+      "endorser": "Katrina Doughty",
+      "endorser_type": "official",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Katrina Doughty as an endorser.",
+      "excerpt": "Katrina Doughty - Multnomah",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e7",
+      "endorser": "Pro-Animal Oregon",
+      "endorser_type": "organization",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Pro-Animal Oregon as an endorser.",
+      "excerpt": "Pro-Animal Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-e8",
+      "endorser": "Pacific Green Party",
+      "endorser_type": "organization",
+      "statement": "Jeremy Beausoleil Smith's pamphlet statement lists Pacific Green Party as an endorser.",
+      "excerpt": "Pacific Green Party",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 61",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

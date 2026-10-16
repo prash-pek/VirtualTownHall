@@ -239,5 +239,127 @@
     "corrected": 3,
     "rejected": 0,
     "balance_notes": "Pamphlet statement collected; campaign domain confirmed by the pamphlet-printed address. Campaign site issues page and bio not collected (gap note was incorrect, now fixed). Three excerpts were cut mid-sentence and corrected."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "mallory-hiefield-e1",
+      "endorser": "Washington County Democrats",
+      "endorser_type": "organization",
+      "statement": "Mallory Hiefield's pamphlet statement lists Washington County Democrats as an endorser.",
+      "excerpt": "Washington County Democrats",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e2",
+      "endorser": "Myrna Munoz",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Myrna Munoz as an endorser.",
+      "excerpt": "Oregon State Senator nominee, Myrna Munoz",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e3",
+      "endorser": "Malynda Wenzl",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Malynda Wenzl as an endorser.",
+      "excerpt": "Forest Grove Mayor, Malynda Wenzl",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e4",
+      "endorser": "Mike Marshall",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Mike Marshall as an endorser.",
+      "excerpt": "Mike Marshall, Brian Schimmel,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e5",
+      "endorser": "Brian Schimmel",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Brian Schimmel as an endorser.",
+      "excerpt": "Mike Marshall, Brian Schimmel,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-e6",
+      "endorser": "Angel Falconer",
+      "endorser_type": "official",
+      "statement": "Mallory Hiefield's pamphlet statement lists Angel Falconer as an endorser.",
+      "excerpt": "Angel Falconer",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 13",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

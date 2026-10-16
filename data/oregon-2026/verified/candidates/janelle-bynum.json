@@ -253,5 +253,87 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Race or-us-house-5: Bynum 5 bio/5 pos/2 votes, Adair 5/5/0, Townsend 0/0/0; all T1. Votes: same two roll calls as other House incumbents. Bynum's Yea on S. 5 is a crossover vote, confirmed on clerk.house.gov, and shows the pair is not one-sided across members. Incumbent=true confirmed. Gap wording is slightly off: bynum.house.gov/about refers to 'Oregon's Fifth' without a district number."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "janelle-bynum-e1",
+      "endorser": "Planned Parenthood Action Fund",
+      "endorser_type": "organization",
+      "statement": "Janelle S Bynum's pamphlet statement lists Planned Parenthood Action Fund as an endorser.",
+      "excerpt": "Planned Parenthood Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janelle-bynum-e2",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Janelle S Bynum's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janelle-bynum-e3",
+      "endorser": "Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Janelle S Bynum's pamphlet statement lists Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "janelle-bynum-e4",
+      "endorser": "Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Janelle S Bynum's pamphlet statement lists Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

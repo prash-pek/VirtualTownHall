@@ -139,5 +139,107 @@
     "corrected": 1,
     "rejected": 0,
     "balance_notes": "Estacada mayor: Metcalf 5, Drinkwine 6; both filed pamphlet statements; no websites listed; no T3 campaign coverage found. Balanced."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "sean-drinkwine-e1",
+      "endorser": "Christine Drazan",
+      "endorser_type": "person",
+      "statement": "Sean Drinkwine's pamphlet statement lists Christine Drazan as an endorser.",
+      "excerpt": "Christine Drazan",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sean-drinkwine-e2",
+      "endorser": "Diana Helm",
+      "endorser_type": "person",
+      "statement": "Sean Drinkwine's pamphlet statement lists Diana Helm as an endorser.",
+      "excerpt": "Diana Helm",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sean-drinkwine-e3",
+      "endorser": "Tom Ellis",
+      "endorser_type": "person",
+      "statement": "Sean Drinkwine's pamphlet statement lists Tom Ellis as an endorser.",
+      "excerpt": "Tom Ellis",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sean-drinkwine-e4",
+      "endorser": "Jon Dolezal",
+      "endorser_type": "person",
+      "statement": "Sean Drinkwine's pamphlet statement lists Jon Dolezal as an endorser.",
+      "excerpt": "Jon Dolezal",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sean-drinkwine-e5",
+      "endorser": "Steve Locke",
+      "endorser_type": "person",
+      "statement": "Sean Drinkwine's pamphlet statement lists Steve Locke as an endorser.",
+      "excerpt": "Steve Locke",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 21",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -208,5 +208,307 @@
     "corrected": 2,
     "rejected": 0,
     "balance_notes": "Commissioner Pos 4: Helm and Smith have 10 items each. Helm has 2 T1 county items (bio page and her 2025 appointment release) that Smith lacks as a non-incumbent, and Smith has one more OPB item. Balanced. Incumbency: clackamas.us/elections/localofficials.html lists 'Diana Helm, County Commissioner, Position 4', and the 2025-05-19 release says she was appointed to Position #4 through December 2026. The seat on the ballot is the unexpired remainder (Jan 2027 to Dec 2028)."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "diana-helm-e1",
+      "endorser": "Professional Firefighters of Clackamas County, IAFF Local 1159",
+      "endorser_type": "organization",
+      "statement": "Diana Helm's pamphlet statement lists Professional Firefighters of Clackamas County, IAFF Local 1159 as an endorser.",
+      "excerpt": "Professional Firefighters of Clackamas County, IAFF Local 1159",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e2",
+      "endorser": "North Clackamas Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Diana Helm's pamphlet statement lists North Clackamas Chamber of Commerce as an endorser.",
+      "excerpt": "North Clackamas Chamber of Commerce",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e3",
+      "endorser": "Clackamas County Peace Officers Association",
+      "endorser_type": "organization",
+      "statement": "Diana Helm's pamphlet statement lists Clackamas County Peace Officers Association as an endorser.",
+      "excerpt": "Clackamas County Peace Officers Association",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e4",
+      "endorser": "United Food and Commercial Workers Local 555/UFCW 555",
+      "endorser_type": "organization",
+      "statement": "Diana Helm's pamphlet statement lists United Food and Commercial Workers Local 555/UFCW 555 as an endorser.",
+      "excerpt": "United Food and Commercial Workers Local 555/UFCW 555",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e5",
+      "endorser": "NW Oregon Labor Council",
+      "endorser_type": "organization",
+      "statement": "Diana Helm's pamphlet statement lists NW Oregon Labor Council as an endorser.",
+      "excerpt": "NW Oregon Labor Council",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e6",
+      "endorser": "Home Building Association of Greater Portland®",
+      "endorser_type": "organization",
+      "statement": "Diana Helm's pamphlet statement lists Home Building Association of Greater Portland® as an endorser.",
+      "excerpt": "Home Building Association of Greater Portland®",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e7",
+      "endorser": "Portland Metropolitan Association of Realtors",
+      "endorser_type": "organization",
+      "statement": "Diana Helm's pamphlet statement lists Portland Metropolitan Association of Realtors as an endorser.",
+      "excerpt": "Portland Metropolitan Association of Realtors",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e8",
+      "endorser": "John Wentworth",
+      "endorser_type": "official",
+      "statement": "Diana Helm's pamphlet statement lists John Wentworth as an endorser.",
+      "excerpt": "District Attorney John Wentworth",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e9",
+      "endorser": "Scott Keyser",
+      "endorser_type": "official",
+      "statement": "Diana Helm's pamphlet statement lists Scott Keyser as an endorser.",
+      "excerpt": "Mayors: Scott Keyser, Molalla",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e10",
+      "endorser": "Sean Drinkwine",
+      "endorser_type": "official",
+      "statement": "Diana Helm's pamphlet statement lists Sean Drinkwine as an endorser.",
+      "excerpt": "Sean Drinkwine, Estacada",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e11",
+      "endorser": "Joe Buck",
+      "endorser_type": "official",
+      "statement": "Diana Helm's pamphlet statement lists Joe Buck as an endorser.",
+      "excerpt": "Joe Buck, Lake Oswego",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e12",
+      "endorser": "Brian Hodson",
+      "endorser_type": "official",
+      "statement": "Diana Helm's pamphlet statement lists Brian Hodson as an endorser.",
+      "excerpt": "Brian Hodson, Canby",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e13",
+      "endorser": "Lori Olund",
+      "endorser_type": "person",
+      "statement": "Diana Helm's pamphlet statement lists Lori Olund as an endorser.",
+      "excerpt": "Lori Olund, President, Miles Fiberglass",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e14",
+      "endorser": "Dan Fowler",
+      "endorser_type": "person",
+      "statement": "Diana Helm's pamphlet statement lists Dan Fowler as an endorser.",
+      "excerpt": "Dan Fowler, Business Leader",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "diana-helm-e15",
+      "endorser": "Wilda Parks",
+      "endorser_type": "official",
+      "statement": "Diana Helm's pamphlet statement lists Wilda Parks as an endorser.",
+      "excerpt": "Wilda Parks, Former Milwaukie Mayor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 18",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

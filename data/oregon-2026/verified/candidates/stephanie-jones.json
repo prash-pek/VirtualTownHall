@@ -177,5 +177,167 @@
     "corrected": 1,
     "rejected": 0,
     "balance_notes": "Race banks-council-pos-1. Terrall has 4 bio and 4 positions; Jones has 5 bio and 3 positions. All are T1, except one T3 and one minutes item for Jones. Coverage is balanced. The spot-search found no 2026 position coverage. Banks Post (2026-08-18) said it would publish questionnaire answers, but none was found as of 2026-10-14. File-level: name matches pamphlet/official listing. Incumbent set to null. The Feb 11, 2025 minutes list Jones as a councilor but give no position numbers and are 20 months old, so they do not show she holds Position 1 now. Only T3 sources support it: Banks Post (Jan 14, 2025; Aug 18, 2026) calls her the appointed incumbent of Position CC1. Per the inventory, the county certified-candidate PDF marks her as appointed incumbent, but that PDF is image-only and could not be read. Restore to true if that PDF is read."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "stephanie-jones-e1",
+      "endorser": "Denise Holmes",
+      "endorser_type": "person",
+      "statement": "Stephanie Jones's pamphlet statement lists Denise Holmes as an endorser.",
+      "excerpt": "Denise Holmes; Peter Edison; April Randall; Niki Walters; Dan",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 7",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-jones-e2",
+      "endorser": "Peter Edison",
+      "endorser_type": "person",
+      "statement": "Stephanie Jones's pamphlet statement lists Peter Edison as an endorser.",
+      "excerpt": "Denise Holmes; Peter Edison; April Randall; Niki Walters; Dan",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 7",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-jones-e3",
+      "endorser": "April Randall",
+      "endorser_type": "person",
+      "statement": "Stephanie Jones's pamphlet statement lists April Randall as an endorser.",
+      "excerpt": "Denise Holmes; Peter Edison; April Randall; Niki Walters; Dan",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 7",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-jones-e4",
+      "endorser": "Niki Walters",
+      "endorser_type": "person",
+      "statement": "Stephanie Jones's pamphlet statement lists Niki Walters as an endorser.",
+      "excerpt": "Denise Holmes; Peter Edison; April Randall; Niki Walters; Dan",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 7",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-jones-e5",
+      "endorser": "Dan Streblow",
+      "endorser_type": "person",
+      "statement": "Stephanie Jones's pamphlet statement lists Dan Streblow as an endorser.",
+      "excerpt": "Streblow; James Bogroff; Pam Treece; Kathryn Harrington,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 7",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-jones-e6",
+      "endorser": "James Bogroff",
+      "endorser_type": "person",
+      "statement": "Stephanie Jones's pamphlet statement lists James Bogroff as an endorser.",
+      "excerpt": "Streblow; James Bogroff; Pam Treece; Kathryn Harrington,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 7",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-jones-e7",
+      "endorser": "Pam Treece",
+      "endorser_type": "person",
+      "statement": "Stephanie Jones's pamphlet statement lists Pam Treece as an endorser.",
+      "excerpt": "Streblow; James Bogroff; Pam Treece; Kathryn Harrington,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 7",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-jones-e8",
+      "endorser": "Kathryn Harrington",
+      "endorser_type": "official",
+      "statement": "Stephanie Jones's pamphlet statement lists Kathryn Harrington as an endorser.",
+      "excerpt": "Streblow; James Bogroff; Pam Treece; Kathryn Harrington,",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 7",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

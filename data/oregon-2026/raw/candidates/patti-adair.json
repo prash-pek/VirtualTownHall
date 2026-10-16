@@ -192,5 +192,77 @@
   "nominating_parties": [
     "Republican",
     "Libertarian"
+  ],
+  "endorsements": [
+    {
+      "id": "patti-adair-e1",
+      "endorser": "Oregon Coalition of Police & Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Patti Adair's pamphlet statement lists Oregon Coalition of Police & Sheriffs as an endorser.",
+      "excerpt": "Oregon Coalition of Police & Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patti-adair-e2",
+      "endorser": "Christine Drazan",
+      "endorser_type": "official",
+      "statement": "Patti Adair's pamphlet statement lists Christine Drazan as an endorser.",
+      "excerpt": "State Senator Christine Drazan",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patti-adair-e3",
+      "endorser": "Oregon Farm Bureau",
+      "endorser_type": "organization",
+      "statement": "Patti Adair's pamphlet statement lists Oregon Farm Bureau as an endorser.",
+      "excerpt": "Oregon Farm Bureau",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patti-adair-e4",
+      "endorser": "Ben West",
+      "endorser_type": "official",
+      "statement": "Patti Adair's pamphlet statement lists Ben West as an endorser.",
+      "excerpt": "Clackamas County Commissioner Ben West",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "patti-adair-e5",
+      "endorser": "Ty Rupert",
+      "endorser_type": "official",
+      "statement": "Patti Adair's pamphlet statement lists Ty Rupert as an endorser.",
+      "excerpt": "Deschutes County Sheriff Ty Rupert",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
   ]
 }

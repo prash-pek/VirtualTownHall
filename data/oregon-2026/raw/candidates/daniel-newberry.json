@@ -182,5 +182,119 @@
       "result": "nothing relevant (older watershed coverage)"
     }
   ],
-  "collection_notes": "EMSWCD board page (emswcd.org/about/board/) is out of date (lists Mike Guebert in Zone 3 and Jasmine Zimmer-Stucky in At-Large 2, both terms up Nov 2026, and omits board member Ramona DeNies named by OPB in Oct 2025), so incumbency is left null for all EMSWCD candidates."
+  "collection_notes": "EMSWCD board page (emswcd.org/about/board/) is out of date (lists Mike Guebert in Zone 3 and Jasmine Zimmer-Stucky in At-Large 2, both terms up Nov 2026, and omits board member Ramona DeNies named by OPB in Oct 2025), so incumbency is left null for all EMSWCD candidates.",
+  "endorsements": [
+    {
+      "id": "daniel-newberry-e1",
+      "endorser": "Mark Gamba",
+      "endorser_type": "official",
+      "statement": "Daniel Newberry's pamphlet statement lists Mark Gamba as an endorser.",
+      "excerpt": "Mark Gamba, Oregon State Representative",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 71",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "daniel-newberry-e2",
+      "endorser": "Jeff Reardon",
+      "endorser_type": "official",
+      "statement": "Daniel Newberry's pamphlet statement lists Jeff Reardon as an endorser.",
+      "excerpt": "Jeff Reardon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 71",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "daniel-newberry-e3",
+      "endorser": "Shirley Craddick",
+      "endorser_type": "official",
+      "statement": "Daniel Newberry's pamphlet statement lists Shirley Craddick as an endorser.",
+      "excerpt": "Shirley Craddick",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 71",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "daniel-newberry-e4",
+      "endorser": "Annette Mattson",
+      "endorser_type": "official",
+      "statement": "Daniel Newberry's pamphlet statement lists Annette Mattson as an endorser.",
+      "excerpt": "Mattson, former Mt. Hood Community College",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 71",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "daniel-newberry-e5",
+      "endorser": "Mike Houck",
+      "endorser_type": "person",
+      "statement": "Daniel Newberry's pamphlet statement lists Mike Houck as an endorser.",
+      "excerpt": "Mike Houck,",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 71",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "daniel-newberry-e6",
+      "endorser": "Meryl Redisch",
+      "endorser_type": "person",
+      "statement": "Daniel Newberry's pamphlet statement lists Meryl Redisch as an endorser.",
+      "excerpt": "Redisch, former Executive Director, Bird Alliance of Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 71",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "daniel-newberry-e7",
+      "endorser": "Yashar Vasef",
+      "endorser_type": "person",
+      "statement": "Daniel Newberry's pamphlet statement lists Yashar Vasef as an endorser.",
+      "excerpt": "Yashar Vasef",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 71",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "daniel-newberry-e8",
+      "endorser": "Vivek Shandas",
+      "endorser_type": "person",
+      "statement": "Daniel Newberry's pamphlet statement lists Vivek Shandas as an endorser.",
+      "excerpt": "Vivek Shandas",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 71",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

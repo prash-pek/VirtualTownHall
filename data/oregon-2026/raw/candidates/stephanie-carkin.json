@@ -53,5 +53,119 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Statewide Voters' Pamphlet, Washington County edition (Book12): WebFetch text truncates before the State Representative District 26 statements (index lists pp. 46-47; text cuts off at p. 43). incumbent_source_url is the HD26 incumbent's official page (Rieke Smith). Matches inventory (nominated by Republican and Libertarian parties)."
+  "collection_notes": "Statewide Voters' Pamphlet, Washington County edition (Book12): WebFetch text truncates before the State Representative District 26 statements (index lists pp. 46-47; text cuts off at p. 43). incumbent_source_url is the HD26 incumbent's official page (Rieke Smith). Matches inventory (nominated by Republican and Libertarian parties).",
+  "endorsements": [
+    {
+      "id": "stephanie-carkin-e1",
+      "endorser": "Associated Builders & Contractors",
+      "endorser_type": "organization",
+      "statement": "Stephanie Carkin's pamphlet statement lists Associated Builders & Contractors as an endorser.",
+      "excerpt": "Associated Builders & Contractors",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-carkin-e2",
+      "endorser": "Oregon Small Business Association",
+      "endorser_type": "organization",
+      "statement": "Stephanie Carkin's pamphlet statement lists Oregon Small Business Association as an endorser.",
+      "excerpt": "Oregon Small Business Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-carkin-e3",
+      "endorser": "Kim Young",
+      "endorser_type": "official",
+      "statement": "Stephanie Carkin's pamphlet statement lists Kim Young as an endorser.",
+      "excerpt": "Kim Young, Sherwood City Council President",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-carkin-e4",
+      "endorser": "Kelly Sloop",
+      "endorser_type": "official",
+      "statement": "Stephanie Carkin's pamphlet statement lists Kelly Sloop as an endorser.",
+      "excerpt": "Kelly Sloop, WLWV School Board Chair",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-carkin-e5",
+      "endorser": "Christy Thompson",
+      "endorser_type": "official",
+      "statement": "Stephanie Carkin's pamphlet statement lists Christy Thompson as an endorser.",
+      "excerpt": "Christy Thompson, WLWV School Board 2019-2023",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-carkin-e6",
+      "endorser": "Adam Cunningham",
+      "endorser_type": "official",
+      "statement": "Stephanie Carkin's pamphlet statement lists Adam Cunningham as an endorser.",
+      "excerpt": "Adam Cunningham, Wilsonville City Councilor",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-carkin-e7",
+      "endorser": "National Federation of Independent Business/OR PAC",
+      "endorser_type": "organization",
+      "statement": "Stephanie Carkin's pamphlet statement lists National Federation of Independent Business/OR PAC as an endorser.",
+      "excerpt": "National Federation of Independent Business/OR PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "stephanie-carkin-e8",
+      "endorser": "Oregon Coalition of Police and Sheriffs (ORCOPS)",
+      "endorser_type": "organization",
+      "statement": "Stephanie Carkin's pamphlet statement lists Oregon Coalition of Police and Sheriffs (ORCOPS) as an endorser.",
+      "excerpt": "Oregon Coalition of Police and Sheriffs (ORCOPS)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet (Clackamas edition), p. 46",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

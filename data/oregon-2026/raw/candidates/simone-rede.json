@@ -212,5 +212,175 @@
       "result": "used"
     }
   ],
-  "collection_notes": "Sole candidate in the race (unopposed). Ballot order and spelling match the county Ballot Content RCV report. Incumbency per portland.gov/auditor/simone-rede. Excerpts were obtained through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Step 5 ran as three fixed domain groups because the search proxy rejects oregonlive.com and apnews.com."
+  "collection_notes": "Sole candidate in the race (unopposed). Ballot order and spelling match the county Ballot Content RCV report. Incumbency per portland.gov/auditor/simone-rede. Excerpts were obtained through a summarizing fetch tool that limits verbatim quotes to ~125 characters, so some are fragments. Step 5 ran as three fixed domain groups because the search proxy rejects oregonlive.com and apnews.com.",
+  "endorsements": [
+    {
+      "id": "simone-rede-e1",
+      "endorser": "Danny Cage",
+      "endorser_type": "official",
+      "statement": "Simone Rede's pamphlet statement lists Danny Cage as an endorser.",
+      "excerpt": "Danny Cage, MESD Board Member",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "simone-rede-e2",
+      "endorser": "Brian Evans",
+      "endorser_type": "official",
+      "statement": "Simone Rede's pamphlet statement lists Brian Evans as an endorser.",
+      "excerpt": "Metro Auditor Brian Evans",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "simone-rede-e3",
+      "endorser": "Kristine Adams-Wannberg",
+      "endorser_type": "official",
+      "statement": "Simone Rede's pamphlet statement lists Kristine Adams-Wannberg as an endorser.",
+      "excerpt": "Washington County Auditor Kristine Adams-Wannberg",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "simone-rede-e4",
+      "endorser": "Suzanne Flynn",
+      "endorser_type": "official",
+      "statement": "Simone Rede's pamphlet statement lists Suzanne Flynn as an endorser.",
+      "excerpt": "Former County & Metro Auditor Suzanne Flynn",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "simone-rede-e5",
+      "endorser": "Amanda Fritz",
+      "endorser_type": "official",
+      "statement": "Simone Rede's pamphlet statement lists Amanda Fritz as an endorser.",
+      "excerpt": "Former City Commissioner Amanda Fritz",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "simone-rede-e6",
+      "endorser": "East County Rising PAC",
+      "endorser_type": "organization",
+      "statement": "Simone Rede's pamphlet statement lists East County Rising PAC as an endorser.",
+      "excerpt": "East County Rising PAC",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "simone-rede-e7",
+      "endorser": "APANO Action Fund",
+      "endorser_type": "organization",
+      "statement": "Simone Rede's pamphlet statement lists APANO Action Fund as an endorser.",
+      "excerpt": "APANO Action Fund",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "simone-rede-e8",
+      "endorser": "Building Power for Communities of Color",
+      "endorser_type": "organization",
+      "statement": "Simone Rede's pamphlet statement lists Building Power for Communities of Color as an endorser.",
+      "excerpt": "Building Power for Communities of Color",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "simone-rede-e9",
+      "endorser": "Oregon Futures Lab & Color PAC",
+      "endorser_type": "organization",
+      "statement": "Simone Rede's pamphlet statement lists Oregon Futures Lab & Color PAC as an endorser.",
+      "excerpt": "Oregon Futures Lab & Color PAC",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "simone-rede-e10",
+      "endorser": "Portland Gray Panthers",
+      "endorser_type": "organization",
+      "statement": "Simone Rede's pamphlet statement lists Portland Gray Panthers as an endorser.",
+      "excerpt": "Portland Gray Panthers",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "simone-rede-e11",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Simone Rede's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "simone-rede-e12",
+      "endorser": "AFSCME Local 189",
+      "endorser_type": "organization",
+      "statement": "Simone Rede's pamphlet statement lists AFSCME Local 189 as an endorser.",
+      "excerpt": "AFSCME Local 189",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

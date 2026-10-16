@@ -100,5 +100,87 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "see reports/verification/candidates-metro-v5.md"
-  }
+  },
+  "endorsements": [
+    {
+      "id": "gabrielle-blaug-e1",
+      "endorser": "Michael Milch",
+      "endorser_type": "official",
+      "statement": "Gabrielle Blaug's pamphlet statement lists Michael Milch as an endorser.",
+      "excerpt": "Michael Milch, Gladstone City Mayor",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 26",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "gabrielle-blaug-e2",
+      "endorser": "Vanessa Huckaby",
+      "endorser_type": "official",
+      "statement": "Gabrielle Blaug's pamphlet statement lists Vanessa Huckaby as an endorser.",
+      "excerpt": "Vanessa Huckaby, Council President, City of Gladstone",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 26",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "gabrielle-blaug-e3",
+      "endorser": "Denyse McGriff",
+      "endorser_type": "official",
+      "statement": "Gabrielle Blaug's pamphlet statement lists Denyse McGriff as an endorser.",
+      "excerpt": "Denyse McGriff, Mayor Oregon City",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 26",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "gabrielle-blaug-e4",
+      "endorser": "Christine Lewis",
+      "endorser_type": "official",
+      "statement": "Gabrielle Blaug's pamphlet statement lists Christine Lewis as an endorser.",
+      "excerpt": "Christine Lewis, Metro Councilor District 2",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 26",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

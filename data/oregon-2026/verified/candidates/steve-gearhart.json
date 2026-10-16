@@ -159,5 +159,47 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "King City: pamphlet-only for all six candidates (WC-19 to WC-22), 5-8 items each; no websites or 2026 press found for any. Balanced."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "steve-gearhart-e1",
+      "endorser": "Rachel Kazmierski",
+      "endorser_type": "official",
+      "statement": "Steve Gearhart's pamphlet statement lists Rachel Kazmierski as an endorser.",
+      "excerpt": "Endorsed by Rachel Kazmierski, Mayor of King City",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 20",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "steve-gearhart-e2",
+      "endorser": "John Cook",
+      "endorser_type": "official",
+      "statement": "Steve Gearhart's pamphlet statement lists John Cook as an endorser.",
+      "excerpt": "Endorsed by John Cook, former Mayor of Tigard",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 20",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

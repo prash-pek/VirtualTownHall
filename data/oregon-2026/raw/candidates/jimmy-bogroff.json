@@ -173,5 +173,77 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Banks certification letter PDF returned no machine-readable text, and the city's council roster page (cityofbanks.org/meetmayor-council) blocks automated fetch. Incumbency is taken from the City of Banks council minutes of Feb. 11, 2025 (T1), which list Mayor Marsha Kirk and Councilors Peter Edison, Don Giannetti, Marilyn McCalister, Niki Walters, Pearcia Bogroff and Stephanie Jones. Banks Post (bankspost.com, bylined local newspaper by Chas Hundley) is treated as T3. Step 5 searches found no coverage of Banks candidates in the fixed outlet groups. Feb. 2025 minutes show Marsha Kirk as mayor, so Bogroff is not the incumbent. Campaign domain printed in his pamphlet statement."
+  "collection_notes": "Banks certification letter PDF returned no machine-readable text, and the city's council roster page (cityofbanks.org/meetmayor-council) blocks automated fetch. Incumbency is taken from the City of Banks council minutes of Feb. 11, 2025 (T1), which list Mayor Marsha Kirk and Councilors Peter Edison, Don Giannetti, Marilyn McCalister, Niki Walters, Pearcia Bogroff and Stephanie Jones. Banks Post (bankspost.com, bylined local newspaper by Chas Hundley) is treated as T3. Step 5 searches found no coverage of Banks candidates in the fixed outlet groups. Feb. 2025 minutes show Marsha Kirk as mayor, so Bogroff is not the incumbent. Campaign domain printed in his pamphlet statement.",
+  "endorsements": [
+    {
+      "id": "jimmy-bogroff-e1",
+      "endorser": "Peter Edison",
+      "endorser_type": "official",
+      "statement": "Jimmy Bogroff's pamphlet statement lists Peter Edison as an endorser.",
+      "excerpt": "Peter Edison (former Mayor)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 6",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jimmy-bogroff-e2",
+      "endorser": "Stephanie Jones",
+      "endorser_type": "official",
+      "statement": "Jimmy Bogroff's pamphlet statement lists Stephanie Jones as an endorser.",
+      "excerpt": "Banks City Councilors: Peter Edison (former Mayor), Stephanie",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 6",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jimmy-bogroff-e3",
+      "endorser": "Pearcia Bogroff",
+      "endorser_type": "official",
+      "statement": "Jimmy Bogroff's pamphlet statement lists Pearcia Bogroff as an endorser.",
+      "excerpt": "Pearcia Bogroff",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 6",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jimmy-bogroff-e4",
+      "endorser": "Niki Walters",
+      "endorser_type": "official",
+      "statement": "Jimmy Bogroff's pamphlet statement lists Niki Walters as an endorser.",
+      "excerpt": "Niki Walters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 6",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "jimmy-bogroff-e5",
+      "endorser": "April Randall",
+      "endorser_type": "official",
+      "statement": "Jimmy Bogroff's pamphlet statement lists April Randall as an endorser.",
+      "excerpt": "April",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 6",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -138,5 +138,343 @@
     }
   ],
   "collection_notes": "Steps run identically for all 7 District 2 candidates. Voters' pamphlet: the SOS Book 13 and the county's regular and large-print Multnomah pamphlet PDFs are cut off by the fetch tool (~105-120k characters); the large-print text ends partway through Herman Greene's statement (p. 44), so pamphlet statements for Bri Williams, Serena Cruz, Nathan Ong Norris, Nabil Zaghloul and Tony Robertson (pp. 45-47) could not be read there. The county's Military & Overseas Online Voters' Guide links an individual statement PDF for all 7 candidates; those for Cruz and Robertson are machine-readable, while those for Broussard, Greene, Williams, Ong Norris and Zaghloul are scans with no readable text (Broussard and part of Greene were read from the large-print pamphlet instead). SEL 101 candidate filings were machine-readable only for Cruz and Robertson (others scanned/empty). The Portland Mercury District 2 profile (2026-09-26) covers all 7 candidates and is the common T3 source. Step 5 ran with allowed_domains limited to opb.org, wweek.com, portlandmercury.com because the proxy rejected longer domain lists. Incumbency: the current District 2 commissioner is Shannon Singleton (multco.us/board), who is running for Chair, so no D2 candidate is the incumbent. The fetch tool limits verbatim quotes to ~125 characters, so some excerpts are fragments.",
-  "voting_record": []
+  "voting_record": [],
+  "endorsements": [
+    {
+      "id": "bri-williams-e1",
+      "endorser": "APANO Action Fund",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists APANO Action Fund as an endorser.",
+      "excerpt": "APANO Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e2",
+      "endorser": "Oregon Futures Lab & Color PAC",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists Oregon Futures Lab & Color PAC as an endorser.",
+      "excerpt": "Oregon Futures Lab & Color PAC",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e3",
+      "endorser": "The Mother PAC",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists The Mother PAC as an endorser.",
+      "excerpt": "The Mother PAC",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e4",
+      "endorser": "AFSCME local 88",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists AFSCME local 88 as an endorser.",
+      "excerpt": "AFSCME local 88",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e5",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e6",
+      "endorser": "Portland For All",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists Portland For All as an endorser.",
+      "excerpt": "Portland For All",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e7",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e8",
+      "endorser": "The Ebony Collective Coalition",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists The Ebony Collective Coalition as an endorser.",
+      "excerpt": "The Ebony Collective Coalition",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e9",
+      "endorser": "Basic Rights Oregon PAC",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists Basic Rights Oregon PAC as an endorser.",
+      "excerpt": "Basic Rights Oregon PAC",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e10",
+      "endorser": "Next Up Action Fund",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists Next Up Action Fund as an endorser.",
+      "excerpt": "Next Up Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e11",
+      "endorser": "PCCFFAP",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists PCCFFAP as an endorser.",
+      "excerpt": "PCCFFAP",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e12",
+      "endorser": "Working Families Party",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists Working Families Party as an endorser.",
+      "excerpt": "Working Families Party",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e13",
+      "endorser": "East County Rising",
+      "endorser_type": "organization",
+      "statement": "Bri Williams's pamphlet statement lists East County Rising as an endorser.",
+      "excerpt": "East County Rising",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e14",
+      "endorser": "Rashelle Chase-Miller",
+      "endorser_type": "official",
+      "statement": "Bri Williams's pamphlet statement lists Rashelle Chase-Miller as an endorser.",
+      "excerpt": "PPS Board member Rashelle Chase-Miller",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e15",
+      "endorser": "Michelle Depass",
+      "endorser_type": "official",
+      "statement": "Bri Williams's pamphlet statement lists Michelle Depass as an endorser.",
+      "excerpt": "PPS Board Member Michelle Depass",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e16",
+      "endorser": "Lamar Wise",
+      "endorser_type": "official",
+      "statement": "Bri Williams's pamphlet statement lists Lamar Wise as an endorser.",
+      "excerpt": "Oregon State Representative Lamar Wise",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e17",
+      "endorser": "Jamie Dunphy",
+      "endorser_type": "official",
+      "statement": "Bri Williams's pamphlet statement lists Jamie Dunphy as an endorser.",
+      "excerpt": "City Council President Jamie Dunphy",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e18",
+      "endorser": "Sameer Kanal",
+      "endorser_type": "official",
+      "statement": "Bri Williams's pamphlet statement lists Sameer Kanal as an endorser.",
+      "excerpt": "City Councilor Sameer Kanal",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e19",
+      "endorser": "Angelita Morillo",
+      "endorser_type": "official",
+      "statement": "Bri Williams's pamphlet statement lists Angelita Morillo as an endorser.",
+      "excerpt": "City Councilor Angelita Morillo",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e20",
+      "endorser": "Steph Routh",
+      "endorser_type": "person",
+      "statement": "Bri Williams's pamphlet statement lists Steph Routh as an endorser.",
+      "excerpt": "Steph Routh",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e21",
+      "endorser": "Michael Fesser",
+      "endorser_type": "person",
+      "statement": "Bri Williams's pamphlet statement lists Michael Fesser as an endorser.",
+      "excerpt": "Michael Fesser",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e22",
+      "endorser": "Lakeitha Elliott",
+      "endorser_type": "person",
+      "statement": "Bri Williams's pamphlet statement lists Lakeitha Elliott as an endorser.",
+      "excerpt": "Lakeitha Elliott",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e23",
+      "endorser": "Salome Chimuku",
+      "endorser_type": "person",
+      "statement": "Bri Williams's pamphlet statement lists Salome Chimuku as an endorser.",
+      "excerpt": "Salome Chimuku",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "bri-williams-e24",
+      "endorser": "Dr. Chrysanthius Lathan",
+      "endorser_type": "person",
+      "statement": "Bri Williams's pamphlet statement lists Dr. Chrysanthius Lathan as an endorser.",
+      "excerpt": "Dr. Chrysanthius Lathan",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Voters' Pamphlet, p. 35",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

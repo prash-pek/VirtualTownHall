@@ -174,5 +174,47 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Ward 1A: Salgado 8 items, Garcia 7, Marugg 8, Jackson 9 (incl. one T2 site item and one T3 OPB item). All four filed pamphlet statements; Salgado, Garcia have no website; Jackson alone has press (OPB 2026-09-28 names her). Disparities reflect source availability, applied equally."
-  }
+  },
+  "endorsements": [
+    {
+      "id": "sarah-marugg-e1",
+      "endorser": "Hillsboro Professional Firefighters",
+      "endorser_type": "organization",
+      "statement": "Sarah Marugg's pamphlet statement lists Hillsboro Professional Firefighters as an endorser.",
+      "excerpt": "Hillsboro Professional Firefighters",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "sarah-marugg-e2",
+      "endorser": "Hillsboro Police",
+      "endorser_type": "organization",
+      "statement": "Sarah Marugg's pamphlet statement lists Hillsboro Police as an endorser.",
+      "excerpt": "Hillsboro Police",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 16",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Script check: excerpt found verbatim (whitespace-normalized) in the cited pamphlet extract.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ]
 }

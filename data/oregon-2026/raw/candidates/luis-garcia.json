@@ -156,5 +156,105 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "Hillsboro's June 2026 candidate packet (T1) lists the seats up as Ward 1 Position A (Cristian Salgado), Ward 2 Position A (Kipperlyn Sinclair) and Ward 3 Position A (Olivia Alcaire). A June 23, 2026 city news release instead labels the Ward 2 and Ward 3 seats 'Position B'; the county certification and packet say Position A, so this is a city-side labeling inconsistency. Hillsboro news pages for Salgado's appointment returned client errors. Step 5 searches turned up older (2022 or earlier) Pamplin coverage only, not used. Pamphlet misspelling 'STENGTHEN' preserved in excerpt."
+  "collection_notes": "Hillsboro's June 2026 candidate packet (T1) lists the seats up as Ward 1 Position A (Cristian Salgado), Ward 2 Position A (Kipperlyn Sinclair) and Ward 3 Position A (Olivia Alcaire). A June 23, 2026 city news release instead labels the Ward 2 and Ward 3 seats 'Position B'; the county certification and packet say Position A, so this is a city-side labeling inconsistency. Hillsboro news pages for Salgado's appointment returned client errors. Step 5 searches turned up older (2022 or earlier) Pamplin coverage only, not used. Pamphlet misspelling 'STENGTHEN' preserved in excerpt.",
+  "endorsements": [
+    {
+      "id": "luis-garcia-e1",
+      "endorser": "Beach Pace",
+      "endorser_type": "official",
+      "statement": "Luis Garcia's pamphlet statement lists Beach Pace as an endorser.",
+      "excerpt": "Hillsboro Mayor Beach Pace",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "luis-garcia-e2",
+      "endorser": "Janeen Sollman",
+      "endorser_type": "official",
+      "statement": "Luis Garcia's pamphlet statement lists Janeen Sollman as an endorser.",
+      "excerpt": "Senator Janeen Sollman (D-Hillsboro)",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "luis-garcia-e3",
+      "endorser": "Hillsboro Police Officers Association",
+      "endorser_type": "organization",
+      "statement": "Luis Garcia's pamphlet statement lists Hillsboro Police Officers Association as an endorser.",
+      "excerpt": "Hillsboro Police Officers Association",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "luis-garcia-e4",
+      "endorser": "Washington County Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Luis Garcia's pamphlet statement lists Washington County Chamber of Commerce as an endorser.",
+      "excerpt": "Washington County Chamber of Commerce",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "luis-garcia-e5",
+      "endorser": "Jensen Yip",
+      "endorser_type": "person",
+      "statement": "Luis Garcia's pamphlet statement lists Jensen Yip as an endorser.",
+      "excerpt": "Jensen Yip, Owner 808 Grinds",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "luis-garcia-e6",
+      "endorser": "Mark Hemenway",
+      "endorser_type": "person",
+      "statement": "Luis Garcia's pamphlet statement lists Mark Hemenway as an endorser.",
+      "excerpt": "Mark Hemenway, Coyote’s Bar and Grill",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "luis-garcia-e7",
+      "endorser": "Patrick Ribellia",
+      "endorser_type": "person",
+      "statement": "Luis Garcia's pamphlet statement lists Patrick Ribellia as an endorser.",
+      "excerpt": "Patrick Ribellia, Former Hillsboro Planning Director",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, p. 15",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }

@@ -145,5 +145,35 @@
       "result": "nothing relevant"
     }
   ],
-  "collection_notes": "incumbent=false: not on the Jan. 2026 council roster. Campaign domain printed in the pamphlet. Pamphlet wording 'common sense' not used."
+  "collection_notes": "incumbent=false: not on the Jan. 2026 council roster. Campaign domain printed in the pamphlet. Pamphlet wording 'common sense' not used.",
+  "endorsements": [
+    {
+      "id": "scott-cantonwine-e1",
+      "endorser": "Jim Davis",
+      "endorser_type": "official",
+      "statement": "Scott Cantonwine's pamphlet statement lists Jim Davis as an endorser.",
+      "excerpt": "Endorsed by Canby City Councilors Jim Davis and Traci Hensley",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 19",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "scott-cantonwine-e2",
+      "endorser": "Traci Hensley",
+      "endorser_type": "official",
+      "statement": "Scott Cantonwine's pamphlet statement lists Traci Hensley as an endorser.",
+      "excerpt": "Endorsed by Canby City Councilors Jim Davis and Traci Hensley",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Voters' Pamphlet, p. 19",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      }
+    }
+  ]
 }
