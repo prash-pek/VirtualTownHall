@@ -223,7 +223,7 @@
   "gaps": [
     "The county voters' pamphlet printed 19 arguments in favor (extract pages 69-78; printed C-68 to C-77). Six were recorded in pamphlet order (cap 6 per side); 13 further arguments in favor are not recorded, including those furnished by Chris Heydemann (Neighbors for Wilsonville), Andrew Engel, Mary Rooney, Christie Mayer, Rick Wallace, Erio E. Hoem, Caroline Berry, Jason Jones, Frank Garcia Jr. and Bill Bagnall (second argument).",
     "The county voters' pamphlet printed 21 arguments in opposition (extract pages 78-88; printed C-77 to C-87). Six were recorded in pamphlet order (cap 6 per side); 15 further arguments in opposition are not recorded, including those furnished by Bryan Smith, Rod and Valorie Boucher, Kristin Roche, Kate Johnson, Robyn M. Rebers, Ned and Glenda Walls, Dwight Sims, John Ludlow, J. Michele Seal, Steve Gaschler, Steve Schopp, Jason Williams (Taxpayers Association of Oregon), Becky L. Fromhart, Kristi Corno (City of Wilsonville Parks & Rec Advisory Board) and Eric Winters (second argument).",
-    "Sponsors of the 28 unrecorded pamphlet arguments were not added as endorsements; only sponsors of recorded arguments were."
+    "Endorsements: sponsors of the first 12 filed arguments on each side (pamphlet order) are recorded, 24 of the 25 allowed. Not recorded: further yes sponsors Andrew Engel, Mary Rooney, Frank Garcia Jr. (repeat sponsors Bagnall, Heydemann, Mayer, Engel omitted as duplicates); further no sponsors Dwight Sims, John Ludlow, J. Michele Seal, Steve Gaschler, Steve Schopp, Jason Williams (Taxpayers Association of Oregon), Becky L. Fromhart, Kristi Corno (City of Wilsonville Parks & Rec Advisory Board)."
   ],
   "collection_notes": "yes_means/no_means: Oregon local ballot titles carry no official result-of-vote statement; these are neutral one-sentence descriptions written by the collector strictly from the official ballot question/summary. Ballot title text taken from the City's Notice of Receipt of Ballot Title (filed Aug 6, 2026). Washington County pamphlet (https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline) lists 3-641 at WC-47-50 but extraction also truncated at WC-29. Many 2026 Wilsonville Spokesman pieces (April-May) concern the earlier May 2026 urban renewal measure (3-632) and were not used. Wilsonville Spokesman (wilsonvillespokesman.com) is the local bylined newspaper (formerly Pamplin); classified T3. Letters to the editor are used as attributed opinion only; YES side has fewer items because only one supportive letter was found with equal search effort (YES-specific search also run). Aug 7 Spokesman article quotes about the referral process (Dempsey, Cunningham, O'Neil) were not used as they concern ballot-title process, not the measure's merits. Inventory title matches the county caption (no trailing period). Pamphlet read 2026-10-16 from the script extract of the Clackamas County voters' pamphlet (extract pages 68-88, printed C-67 to C-87); the Washington County edition (extract pages 47-50) was not used for arguments. Arguments y1-y6 and n1-n6 are the first six filed on each side in pamphlet order and replace the earlier items from Wilsonville Spokesman letters and a column (Mark Smith, Eric Winters, Doris Wehler), removed to stay within the 6-per-side cap; those authors also filed pamphlet arguments (Wehler n5, Winters's Keep Wilsonville Voting argument n4, Smith co-signed y3). Two-column pages: excerpts quote only the attributed argument's column. The pamphlet prints the OSBA name as 'Assocation'. fiscal_impact updated from the county explanatory statement; ballot_label, summary, yes_means and no_means unchanged (they match the pamphlet ballot title). Proponent-side and opponent-side figures in arguments (for example the $174.5 million tax figure) are the arguers' claims, not the official statement. Pamphlet read 2026-10-16 from the script extract of the Clackamas County voters' pamphlet (extract pages 68-88, printed C-67 to C-87); the Washington County edition (extract pages 47-50) was not used for arguments. Arguments y1-y6 and n1-n6 are the first six filed on each side in pamphlet order and replace the earlier items from Wilsonville Spokesman letters and a column (Mark Smith, Eric Winters, Doris Wehler), removed to stay within the 6-per-side cap; those authors also filed pamphlet arguments (Wehler n5, Winters's Keep Wilsonville Voting argument n4, Smith co-signed y3). Two-column pages: excerpts quote only the attributed argument's column. The pamphlet prints the OSBA name as 'Assocation'. fiscal_impact updated from the county explanatory statement; ballot_label, summary, yes_means and no_means unchanged (they match the pamphlet ballot title). Proponent-side and opponent-side figures in arguments (for example the $174.5 million tax figure) are the arguers' claims, not the official statement.",
   "collection_log": [
@@ -509,6 +509,198 @@
         "published_at": null,
         "retrieved_at": "2026-10-16",
         "page": "Extract page 81 (printed C-80)"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e13",
+      "endorser": "Rick Wallace",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Rick Wallace furnished a voters' pamphlet argument in favor of Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Rick Wallace",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 72 (printed C-71)"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e14",
+      "endorser": "Erio E. Hoem",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Erio E. Hoem furnished a voters' pamphlet argument in favor of Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Erio E. Hoem",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 72 (printed C-71)"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e15",
+      "endorser": "Caroline Berry",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Caroline Berry furnished a voters' pamphlet argument in favor of Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Caroline Berry",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 73 (printed C-72)"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e16",
+      "endorser": "Neighbors for Wilsonville",
+      "endorser_type": "organization",
+      "side": "yes",
+      "statement": "Neighbors for Wilsonville furnished a voters' pamphlet argument in favor of Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Chris Heydemann, Neighbors for Wilsonville",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 73 (printed C-72)"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e17",
+      "endorser": "Jason Jones",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Jason Jones furnished a voters' pamphlet argument in favor of Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Jason Jones",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 74 (printed C-73)"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e18",
+      "endorser": "Christie Mayer",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Christie Mayer furnished a voters' pamphlet argument in favor of Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Christie Mayer",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 74 (printed C-73)"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e19",
+      "endorser": "Bryan Smith",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Bryan Smith furnished a voters' pamphlet argument in opposition to Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Bryan Smith",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 81 (printed C-80)"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e20",
+      "endorser": "Rod and Valorie Boucher",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Rod and Valorie Boucher furnished a voters' pamphlet argument in opposition to Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Rod & Valorie Boucher",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 82 (printed C-81)"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e21",
+      "endorser": "Kristin Roche",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Kristin Roche furnished a voters' pamphlet argument in opposition to Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Kristin Roche",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 82 (printed C-81)"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e22",
+      "endorser": "Kate Johnson",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Kate Johnson furnished a voters' pamphlet argument in opposition to Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Kate Johnson",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 83 (printed C-82)"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e23",
+      "endorser": "Robyn M. Rebers",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Robyn M. Rebers furnished a voters' pamphlet argument in opposition to Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Robyn M. Rebers",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 83 (printed C-82)"
+      }
+    },
+    {
+      "id": "wilsonville-3-641-e24",
+      "endorser": "Ned and Glenda Walls",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Ned and Glenda Walls furnished a voters' pamphlet argument in opposition to Measure 3-641 (not among the six recorded per side).",
+      "excerpt": "This information furnished by Ned and Glenda Walls",
+      "source": {
+        "url": "https://dochub.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+        "publisher": "Clackamas County Elections",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "Extract page 84 (printed C-83)"
       }
     }
   ]
