@@ -1,0 +1,339 @@
+{
+  "id": "rob-nosse",
+  "name": "Rob Nosse",
+  "race_id": "or-house-42",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/Nosse",
+  "occupation": "State Representative; labor representative (Oregon Nurses Association)",
+  "website_url": "https://www.robnosse.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf (p. 51)",
+  "bio": [
+    {
+      "id": "rob-nosse-b1",
+      "topic": "custom:background",
+      "statement": "Nosse's official page says they represent voters in southeast and northeast Portland.",
+      "excerpt": "I'm proud to represent the voters of SE and NE Portland",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/Nosse",
+        "publisher": "Oregon Legislature, Rep. Nosse member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-b2",
+      "topic": "custom:background",
+      "statement": "Ballotpedia says their professional experience includes working as a labor representative for the Oregon Nurses Association since 2004.",
+      "excerpt": "His professional experience includes working as a labor representative for the Oregon Nurses Association since 2004.",
+      "source": {
+        "url": "https://ballotpedia.org/Rob_Nosse",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-b3",
+      "topic": "custom:occupation",
+      "statement": "Nosse's pamphlet statement lists Nosse's occupation as State Representative, with a background as a labor representative for the Oregon Nurses Association, SEIU staff director and organizer, and Oregon Student Association executive director.",
+      "excerpt": "Occupation: State Representative Occupational Background: Labor Representative, Oregon Nurses Association; Staff Director and organizer at SEIU; Executive Director, Oregon Student Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-b4",
+      "topic": "custom:education",
+      "statement": "Nosse's pamphlet statement lists Miami University, Oxford, Ohio (B.A.) as their educational background.",
+      "excerpt": "Educational Background: Miami University, Oxford, Ohio; B.A",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-b5",
+      "topic": "custom:experience",
+      "statement": "Nosse's pamphlet statement lists the Public Employee Benefits Board as their prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Public Employee Benefits Board",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "rob-nosse-p1",
+      "topic": "social-services",
+      "statement": "Nosse says in the pamphlet statement that, if re-elected, they will advocate for more mental health, addiction and homeless services.",
+      "excerpt": "Advocate for more mental health, addiction, and homeless services.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt is the \"will advocate\" bullet only; statement trimmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-p2",
+      "topic": "housing",
+      "statement": "Nosse lists making it easier to build more housing and apartments among the things they have championed.",
+      "excerpt": "Making it easier to build more housing and apartments.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-p3",
+      "topic": "economy",
+      "statement": "Nosse lists Paid Family and Medical Leave among the things they have championed.",
+      "excerpt": "Paid Family and Medical Leave.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-p4",
+      "topic": "taxes",
+      "statement": "Nosse lists a corporate activities tax to better fund schools among the things they have championed.",
+      "excerpt": "A corporate activities tax to better fund schools.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-p5",
+      "topic": "education",
+      "statement": "Nosse says they will demand better K-12 funding, with no more layoffs in Portland Public Schools.",
+      "excerpt": "Demand better funding for K – 12 education -- No more layoffs in PPS.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-p6",
+      "topic": "education",
+      "statement": "Nosse says they will demand better funding for universities and community colleges to reduce tuition and student debt.",
+      "excerpt": "Demand better funding for universities and community colleges so we can reduce tuition and lower student debt.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-p7",
+      "topic": "healthcare",
+      "statement": "Nosse says in the pamphlet statement that they will work toward a universal healthcare system so everyone has affordable medical and mental healthcare.",
+      "excerpt": "Work toward a universal healthcare system so that everyone can have affordable medical and mental healthcare.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-p8",
+      "topic": "healthcare",
+      "statement": "Nosse says in the pamphlet statement that, if re-elected, they will always stand up for legal, safe and affordable reproductive healthcare including abortion.",
+      "excerpt": "Always stand up for legal, safe, and affordable reproductive healthcare including abortion.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Planned Parenthood support is a separate bullet outside the excerpt; removed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-p9",
+      "topic": "environment",
+      "statement": "Nosse says they will push for more action on climate change, particularly in transportation, and wants a transportation package passed.",
+      "excerpt": "Push for more action on climate change particularly when it comes to transportation. We have to get a transportation package passed.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "rob-nosse-p10",
+      "topic": "infrastructure",
+      "statement": "Nosse lists adequate funding for road and bridge maintenance and transit among the things they have championed.",
+      "excerpt": "Adequate funding for road and bridge maintenance and transit.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 51",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.51: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "rob-nosse-v1",
+      "topic": "environment",
+      "statement": "The Portland Tribune reports Nosse introduced a bill in 2025 to eliminate day-use state park passes with an optional donation; it received no hearing.",
+      "excerpt": "Rep. Rob Nosse, D-Portland, introduced a bill in 2025 offering to eliminate day-use state park passes with an option for",
+      "source": {
+        "url": "https://portlandtribune.com/2026/07/31/oregon-lawmaker-says-hell-introduce-bill-to-make-state-parks-free-to-residents/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-07-31",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "gaps": [
+    "No 2026 issue statements found; Ballotpedia themes for Nosse date to 2014 and were not used",
+    "Capital Chronicle: no 2026 contested-primary guide page found for HD42",
+    "Bill number for park-pass bill not captured",
+    "Pamphlet also lists more funding for arts and cultural organizations (not added, positions cap 10)",
+    "Pamphlet statement says the campaign is supported by many organizations and unions but names none"
+  ],
+  "endorsements": [],
+  "verification_summary": {
+    "verified": 14,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "HD42: see Straus note. Balanced on position count (10 each); no missed T1/T2 material found."
+  }
+}

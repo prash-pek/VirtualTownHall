@@ -1,0 +1,663 @@
+{
+  "id": "valerie-pratt",
+  "name": "Valerie Pratt",
+  "race_id": "tualatin-mayor",
+  "party": null,
+  "incumbent": false,
+  "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information",
+  "occupation": "Chief Financial Officer",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "valerie-pratt-b1",
+      "topic": "custom:background",
+      "statement": "In a June 2026 Tualatin Life letter written by Pratt, Pratt cites being a Certified Public Accountant and former business owner as giving Pratt the skills to manage city finances responsibly.",
+      "excerpt": "As a Certified Public Accountant and former business owner, I have the skills to manage city finances responsibly",
+      "source": {
+        "url": "https://tualatinlife.com/local-news/why-i-am-running-for-mayor-a-letter-to-tualatin",
+        "publisher": "Tualatin Life (candidate-written, bylined)",
+        "tier": "T3",
+        "published_at": "2026-06-04",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "neutral_wording"
+        ],
+        "note": "Not labelled a guest letter on the page; relabelled as candidate-written; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-b2",
+      "topic": "custom:background",
+      "statement": "Pratt's pamphlet statement says Pratt is running for Mayor to continue three decades of community service in Tualatin.",
+      "excerpt": "I am running for Mayor to continue my three decades of community service in the wonderful city of Tualatin.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended to the full sentence; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "valerie-pratt-p1",
+      "topic": "economy",
+      "statement": "Pratt's pamphlet statement lists revitalizing Tualatin's downtown core as a goal as mayor.",
+      "excerpt": "My goals as Mayor include: Revitalizing Tualatin’s downtown core making it a destination of choice",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended to include the 'goals as Mayor' framing; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-p2",
+      "topic": "transportation",
+      "statement": "Pratt's pamphlet statement lists improved public transit and transportation system as a goal as mayor.",
+      "excerpt": "Improved public transit and transportation system",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-p3",
+      "topic": "housing",
+      "statement": "Pratt's pamphlet statement lists reducing home insecurity as a goal as mayor.",
+      "excerpt": "Reducing home insecurity",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-p4",
+      "topic": "local-business",
+      "statement": "Pratt's pamphlet statement lists supporting local businesses and workforce development as a goal as mayor.",
+      "excerpt": "Supporting local businesses and workforce development",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-p5",
+      "topic": "transportation",
+      "statement": "In a June 2026 Tualatin Life letter written by Pratt, Pratt says Pratt is working to fix traffic flow, improve safety and explore public transit improvements.",
+      "excerpt": "I am actively working to fix traffic flow, improve safety, and explore improvements to our public transit.",
+      "source": {
+        "url": "https://tualatinlife.com/local-news/why-i-am-running-for-mayor-a-letter-to-tualatin",
+        "publisher": "Tualatin Life (candidate-written, bylined)",
+        "tier": "T3",
+        "published_at": "2026-06-04",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "neutral_wording"
+        ],
+        "note": "Relabelled as candidate-written (page is bylined by Pratt, not labelled 'guest'); Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-p6",
+      "topic": "civil-rights",
+      "statement": "In a June 2026 Tualatin Life letter written by Pratt, Pratt says Pratt championed creating the IDEA Advisory Committee so everyone in Tualatin is heard.",
+      "excerpt": "I championed the creation of our IDEA Advisory Committee because everyone in Tualatin deserves to be heard.",
+      "source": {
+        "url": "https://tualatinlife.com/local-news/why-i-am-running-for-mayor-a-letter-to-tualatin",
+        "publisher": "Tualatin Life (candidate-written, bylined)",
+        "tier": "T3",
+        "published_at": "2026-06-04",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "neutral_wording"
+        ],
+        "note": "Relabelled as candidate-written; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [
+    {
+      "id": "valerie-pratt-e1",
+      "endorser": "Bridget Brooks",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Bridget Brooks as an endorser.",
+      "excerpt": "Bridget Brooks, Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e2",
+      "endorser": "Christen Sacco",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Christen Sacco as an endorser.",
+      "excerpt": "Christen Sacco, Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e3",
+      "endorser": "Robert Kellogg",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Robert Kellogg as an endorser.",
+      "excerpt": "Robert Kellogg, Former Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e4",
+      "endorser": "Beth Dittman",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Beth Dittman as an endorser.",
+      "excerpt": "Beth Dittman, Council Candidate",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e5",
+      "endorser": "Tim Rosener",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Tim Rosener as an endorser.",
+      "excerpt": "Tim Rosener, Sherwood",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e6",
+      "endorser": "Yi-Kang Hu",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Yi-Kang Hu as an endorser.",
+      "excerpt": "Yi-Kang Hu, Tigard",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e7",
+      "endorser": "Rory Bialostosky",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Rory Bialostosky as an endorser.",
+      "excerpt": "Rory Bialostosky, West Linn",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e8",
+      "endorser": "Shawn O’Neal",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Shawn O’Neal as an endorser.",
+      "excerpt": "Shawn O’Neal, Wilsonville",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e9",
+      "endorser": "Adam Marl",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Adam Marl as an endorser.",
+      "excerpt": "Adam Marl, Oregon City Mayoral Candidate",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e10",
+      "endorser": "Roy Rogers",
+      "endorser_type": "person",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Roy Rogers as an endorser.",
+      "excerpt": "Roy Rogers, Former Tualatin Mayor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e11",
+      "endorser": "Paul Savas",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Paul Savas as an endorser.",
+      "excerpt": "Paul Savas, Commissioner",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e12",
+      "endorser": "Sonya Fischer",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Sonya Fischer as an endorser.",
+      "excerpt": "Sonya Fischer, Commissioner-Elect",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e13",
+      "endorser": "Jason Snider",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Jason Snider as an endorser.",
+      "excerpt": "Jason Snider, Commissioner",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e14",
+      "endorser": "Pam Treece",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Pam Treece as an endorser.",
+      "excerpt": "Pam Treece, Commissioner",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e15",
+      "endorser": "Juan Carlos Gonzalez",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Juan Carlos Gonzalez as an endorser.",
+      "excerpt": "Juan Carlos Gonzalez, President",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e16",
+      "endorser": "Christine Lewis",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Christine Lewis as an endorser.",
+      "excerpt": "Christine Lewis, Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e17",
+      "endorser": "Gerritt Rosenthal",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Gerritt Rosenthal as an endorser.",
+      "excerpt": "Gerritt Rosenthal, Councilor",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e18",
+      "endorser": "Courtney Neron Misslin",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Courtney Neron Misslin as an endorser.",
+      "excerpt": "Courtney Neron Misslin, Senator",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e19",
+      "endorser": "Ben Bowman",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Ben Bowman as an endorser.",
+      "excerpt": "Ben Bowman, Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e20",
+      "endorser": "Mark Gamba",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Mark Gamba as an endorser.",
+      "excerpt": "Mark Gamba, Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e21",
+      "endorser": "Sue Reike Smith",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Sue Reike Smith as an endorser.",
+      "excerpt": "Sue Reike Smith, Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-e22",
+      "endorser": "Jules Walters",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Pratt's pamphlet statement lists Jules Walters as an endorser.",
+      "excerpt": "Jules Walters, Representative",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-40)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Name appears in this candidate's own endorsement list (not a neighbouring column).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "gaps": [
+    "No official campaign website found",
+    "Council voting record not collected (phase 1)"
+  ],
+  "verification_summary": {
+    "verified": 22,
+    "corrected": 8,
+    "rejected": 0,
+    "balance_notes": "Mayor race: Gonzalez has 7 items (2 pamphlet bio, 1 pamphlet position, 3 website, 1 candidate-written article; no endorsements by choice, pamphlet says he will not seek or accept them); Pratt has 8 items (5 T1 pamphlet, 3 T3 candidate-written) plus 22 pamphlet endorsements. Counts are comparable; Pratt's Sept 2025 Tualatin Life 'Council Corner' and the Sept 17 2026 Chamber forum page (no transcript) were not collected; neither candidate has a Q&A. Pratt has no campaign website (gap documented). (items 0v/8c/0r; endorsements 22v/0c/0r) Incumbency/website checks: see report."
+  }
+}

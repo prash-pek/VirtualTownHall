@@ -1,0 +1,275 @@
+{
+  "id": "elvis-clark",
+  "name": "Elvis Clark",
+  "race_id": "or-house-41",
+  "party": "Republican",
+  "incumbent": null,
+  "incumbent_source_url": null,
+  "occupation": null,
+  "website_url": "https://www.emilwaukieor.org",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf (p. 50)",
+  "bio": [
+    {
+      "id": "elvis-clark-b1",
+      "topic": "custom:background",
+      "statement": "Ballotpedia records that Elvis Clark, a Republican, ran for the Oregon House in District 41 in 2024.",
+      "excerpt": "Elvis Clark (Republican Party) ran for election to the Oregon House of Representatives to represent District 41.",
+      "source": {
+        "url": "https://ballotpedia.org/Elvis_Clark",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Re-fetched 2026-10-16; excerpt present, attribution and tier confirmed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elvis-clark-b2",
+      "topic": "custom:occupation",
+      "statement": "Clark's pamphlet statement lists Clark's occupation as retired economist, with a background as Senior Economist at the Oregon Utility Commission.",
+      "excerpt": "Occupation: Retired Economist Occupational Background: Senior Economist, Oregon Utility Commission",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.50: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elvis-clark-b3",
+      "topic": "custom:education",
+      "statement": "Clark's pamphlet statement lists a master's degree from Portland State as their educational background.",
+      "excerpt": "Educational Background: Masters, Portland State",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.50: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elvis-clark-b4",
+      "topic": "custom:experience",
+      "statement": "Clark's pamphlet statement lists the Milwaukie Public Safety Committee (2018-2026) as their prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Milwaukie Public Safety Committee (2018-2026)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.50: excerpt present in the candidate's own statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "elvis-clark-p1",
+      "topic": "custom:governance",
+      "statement": "Ballotpedia lists U.S. Term Limits among the pledges in its 2024 election coverage of Clark.",
+      "excerpt": "U.S. Term Limits",
+      "source": {
+        "url": "https://ballotpedia.org/Elvis_Clark",
+        "publisher": "Ballotpedia",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Ballotpedia lists the pledge in its 2024 election section without a signing date; statement reworded.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elvis-clark-p2",
+      "topic": "taxes",
+      "statement": "In the pamphlet statement, Clark says that eliminating or dialing back state programs they describe as having little benefit would eliminate the need to create new taxes.",
+      "excerpt": "Eliminating or dialing back these programs would eliminate the need to create new taxes.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement trimmed to what the excerpt supports.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elvis-clark-p3",
+      "topic": "environment",
+      "statement": "Clark says in the pamphlet statement that the state \"Clean\" Fuels program costs Oregonians $200 million in higher gasoline costs.",
+      "excerpt": "There is the state's \"Clean\" Fuels program costing Oregonians $200 million in higher gasoline costs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Removed \"red-tape burden\" and \"about\"; those words are outside the excerpt.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elvis-clark-p4",
+      "topic": "transportation",
+      "statement": "Clark says in the pamphlet statement that the state is adding urban renewal costs to the Rose Quarter I-5 project, going over $500 million into debt.",
+      "excerpt": "going in hock for over $500 million - adding urban renewal costs onto the cost of the Rose Quarter I-5 project.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Reworded neutrally and attributed.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elvis-clark-p5",
+      "topic": "economy",
+      "statement": "Clark says in the pamphlet statement that the state creates new programs with one-time federal money, which they say creates dependencies and leads to new taxes and fees.",
+      "excerpt": "The state government creates new programs with one-time federal monies, creating new government dependencies, causing state government to gin up new taxes and fees.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "\"Should stop\" is not in the excerpt; statement now reports what Clark says.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elvis-clark-p6",
+      "topic": "taxes",
+      "statement": "In an October 12, 2026 post on Clark's campaign site, Clark says Ashland's measure provides a template for seeking a Milwaukie ballot measure requiring voter approval of new taxes and fees.",
+      "excerpt": "a ballot measure that would require Milwaukie City Council to gain voter approval of any new taxes and/or fees",
+      "source": {
+        "url": "https://emilwaukieor.org/other-tax-news",
+        "publisher": "Elvis Clark campaign website (emilwaukieor.org)",
+        "tier": "T2",
+        "published_at": "2026-10-12",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Original excerpt \"How about the same Measure for Milwaukie?\" is not on the page. Replaced with text that is (post bylined Elvis Clark, dated 12 Oct 2026). Domain emilwaukieor.org confirmed by the www.emilwaukieor.org line in his Book13 p.50 statement.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "No 2026 issue statements found",
+    "Occupation not stated on any fetched page",
+    "Did not complete Ballotpedia Candidate Connection survey in 2022 or 2024",
+    "Campaign site menu lists Housing, Health Care and Energy pages whose text did not load; no About page found"
+  ],
+  "name_variants": [
+    "Bob Elvis Clark"
+  ],
+  "endorsements": [
+    {
+      "id": "elvis-clark-e1",
+      "endorser": "State Representative Lucetta Elmer",
+      "endorser_type": "official",
+      "statement": "Elvis Clark's pamphlet statement lists State Representative Lucetta Elmer as an endorser.",
+      "excerpt": "I am honored to be endorsed by state representatives Lucetta Elmer (House District 24) and Alek Skarlatos (District 4).",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.50: endorser listed in the candidate's own statement (not the neighbouring one).",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "elvis-clark-e2",
+      "endorser": "State Representative Alek Skarlatos",
+      "endorser_type": "official",
+      "statement": "Elvis Clark's pamphlet statement lists State Representative Alek Skarlatos as an endorser.",
+      "excerpt": "I am honored to be endorsed by state representatives Lucetta Elmer (House District 24) and Alek Skarlatos (District 4).",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet (Multnomah County edition), p. 50",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against SOS Book13 extract p.50: endorser listed in the candidate's own statement (not the neighbouring one).",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 6,
+    "rejected": 0,
+    "balance_notes": "HD41: see Gamba note. Five pamphlet statements were reworded to what the excerpts support; one site item had an absent excerpt and was replaced with verifiable text."
+  }
+}

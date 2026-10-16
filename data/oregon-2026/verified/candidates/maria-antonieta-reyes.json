@@ -1,0 +1,142 @@
+{
+  "id": "maria-antonieta-reyes",
+  "name": "Maria Antonieta Reyes",
+  "name_variants": [
+    "Maria Reyes",
+    "María A. Reyes"
+  ],
+  "race_id": "tualatin-council-pos-1",
+  "party": null,
+  "incumbent": true,
+  "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information",
+  "occupation": "Director of Philanthropy",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "maria-antonieta-reyes-b1",
+      "topic": "custom:background",
+      "statement": "Reyes's pamphlet statement says Reyes has served as Tualatin City Councilor for two terms since 2019.",
+      "excerpt": "Tualatin City Councilor, serving two terms since 2019.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Removed 'seeking a third' (not in the excerpt) and extended the excerpt; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "maria-antonieta-reyes-p1",
+      "topic": "housing",
+      "statement": "Reyes's pamphlet statement says Reyes will continue pursuing practical housing solutions that serve residents at every stage of life.",
+      "excerpt": "I will continue pursuing practical housing solutions that serve residents at every stage of life",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended to match the statement; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "maria-antonieta-reyes-p2",
+      "topic": "economy",
+      "statement": "Reyes's pamphlet statement says that over the next four years Reyes will focus on revitalizing the City Center.",
+      "excerpt": "Over the next four years, I will focus on revitalizing our City Center",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Voters' Pamphlet, November 3, 2026 (p. WC-41)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Excerpt extended to include 'Over the next four years'; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "maria-antonieta-reyes-p3",
+      "topic": "infrastructure",
+      "statement": "In an October 2026 Tualatin Life article written by Reyes, Reyes says the focus would be on implementing the Transportation Plan, strengthening public safety and supporting local businesses and economic development.",
+      "excerpt": "implementing our Transportation Plan, strengthening public safety, and supporting local businesses and economic development",
+      "source": {
+        "url": "https://tualatinlife.com/local-news/maria-antonieta-reyes-candidate-for-tualatin-city-council/",
+        "publisher": "Tualatin Life (candidate-written, bylined)",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "paraphrase_faithful",
+          "neutral_wording"
+        ],
+        "note": "Page is a candidate statement by Reyes, not labelled a guest column; relabelled; statement fully covered by the excerpt; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "maria-antonieta-reyes-p4",
+      "topic": "housing",
+      "statement": "In an October 2026 Tualatin Life article written by Reyes, Reyes says Reyes would work toward practical, attainable housing solutions while preserving the character and livability of neighborhoods.",
+      "excerpt": "practical, attainable housing solutions while preserving the character and livability of our neighborhoods",
+      "source": {
+        "url": "https://tualatinlife.com/local-news/maria-antonieta-reyes-candidate-for-tualatin-city-council/",
+        "publisher": "Tualatin Life (candidate-written, bylined)",
+        "tier": "T3",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-15"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "neutral_wording"
+        ],
+        "note": "Relabelled as candidate-written; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
+        "verified_at": "2026-10-16"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No campaign website found",
+    "No endorsements listed in her pamphlet statement"
+  ],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "Unopposed incumbent. Pamphlet (2 bio/position T1) plus 2 candidate-written T3 items; no website, no endorsements listed in her statement (documented gaps). (items 0v/5c/0r; endorsements 0v/0c/0r) Incumbency/website checks: see report."
+  }
+}
