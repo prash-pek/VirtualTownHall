@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-import { StatusTag } from "@/components/ops/review";
+import { PublishRaceForm, StatusTag } from "@/components/ops/review";
 import { getQueue } from "@/lib/review/queue";
 
 import { requireAdminPage } from "./admin-gate";
@@ -12,6 +12,7 @@ export default async function OpsHome() {
   await requireAdminPage();
   const q = await getQueue();
   const done = (xs: { status: string }[]) => xs.filter((x) => x.status === "published").length;
+  const candidates = q.races.flatMap((r) => r.candidates);
 
   return (
     <main className="page">
@@ -57,29 +58,49 @@ export default async function OpsHome() {
 
       <section className="flex flex-col gap-3">
         <h2 className="font-display text-2xl font-semibold">
-          Candidates{" "}
+          Races{" "}
           <span className="note">
-            {done(q.candidates)} of {q.candidates.length} published
+            {done(candidates)} of {candidates.length} candidates published
           </span>
         </h2>
-        <p className="note">{q.candidatesWithoutContent} more candidates have no verified content yet.</p>
-        <ul className="card flex flex-col p-0">
-          {q.candidates.map((c) => (
-            <li
-              key={c.slug}
-              className="flex items-start justify-between gap-3 border-b border-line px-4 py-3 last:border-b-0"
-            >
-              <div>
-                <p className="eyebrow">{c.race}</p>
-                <Link href={`/ops/candidates/${c.slug}`} className="font-medium hover:text-olive">
-                  {c.name}
-                </Link>
-                <p className="note">{c.items} sourced items</p>
-              </div>
-              <StatusTag status={c.status} />
-            </li>
-          ))}
-        </ul>
+        <p className="note">
+          {q.candidatesWithoutContent} more candidates have no verified content yet. &ldquo;Publish all&rdquo; publishes
+          every candidate listed under that race; each one is recorded in the audit log.
+        </p>
+        {q.races.map((r) => {
+          const published = done(r.candidates);
+          const allPublished = published === r.candidates.length;
+          return (
+            <details key={r.slug} className="card p-0" open={!allPublished}>
+              <summary className="flex cursor-pointer items-center justify-between gap-3 px-4 py-3">
+                <span>
+                  <span className="font-medium">{r.label}</span>{" "}
+                  <span className="note">
+                    {published} of {r.candidates.length} published
+                    {r.withoutContent > 0 && ` · ${r.withoutContent} without content`}
+                  </span>
+                </span>
+                <PublishRaceForm race={r.slug} count={r.candidates.length - published} allPublished={allPublished} />
+              </summary>
+              <ul className="flex flex-col border-t border-line">
+                {r.candidates.map((c) => (
+                  <li
+                    key={c.slug}
+                    className="flex items-start justify-between gap-3 border-b border-line px-4 py-2 last:border-b-0"
+                  >
+                    <div>
+                      <Link href={`/ops/candidates/${c.slug}`} className="font-medium hover:text-olive">
+                        {c.name}
+                      </Link>
+                      <p className="note">{c.items} sourced items</p>
+                    </div>
+                    <StatusTag status={c.status} />
+                  </li>
+                ))}
+              </ul>
+            </details>
+          );
+        })}
       </section>
     </main>
   );

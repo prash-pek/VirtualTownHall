@@ -14,8 +14,9 @@ export default async function CandidateReview({ params }: { params: Promise<{ sl
   const [r, q] = await Promise.all([getCandidateReview(slug), getQueue()]);
   if (!r) notFound();
   const { candidate: c, items } = r;
-  const at = q.candidates.findIndex((x) => x.slug === slug);
-  const next = q.candidates.slice(at + 1).find((x) => x.status !== "published");
+  const queue = q.races.flatMap((race) => race.candidates);
+  const at = queue.findIndex((x) => x.slug === slug);
+  const next = queue.slice(at + 1).find((x) => x.status !== "published");
 
   return (
     <main className="page">

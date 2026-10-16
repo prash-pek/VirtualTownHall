@@ -4,7 +4,7 @@ import { revalidatePath } from "next/cache";
 import { z } from "zod";
 
 import { requireRole } from "@/lib/auth/session";
-import { setItemRejected, setSubjectPublished } from "@/lib/review/queue";
+import { setItemRejected, setRacePublished, setSubjectPublished } from "@/lib/review/queue";
 
 const kind = z.enum(["measure", "candidate"]);
 
@@ -14,6 +14,13 @@ export async function publishAction(form: FormData) {
     .object({ kind, slug: z.string().min(1), publish: z.enum(["1", "0"]) })
     .parse(Object.fromEntries(form));
   await setSubjectPublished(input.kind, input.slug, input.publish === "1", session.userId);
+  revalidatePath("/ops", "layout");
+}
+
+export async function publishRaceAction(form: FormData) {
+  const session = await requireRole("admin");
+  const input = z.object({ race: z.string().min(1), publish: z.enum(["1", "0"]) }).parse(Object.fromEntries(form));
+  await setRacePublished(input.race, input.publish === "1", session.userId);
   revalidatePath("/ops", "layout");
 }
 
