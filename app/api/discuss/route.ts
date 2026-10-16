@@ -19,6 +19,8 @@ const body = z.object({
     .array(z.object({ question: z.string().max(500), responses: z.array(answer).max(60) }))
     .max(10)
     .default([]),
+  /** Candidate slugs the voter chose to ask; omitted means everyone. */
+  sides: z.array(z.string().max(200)).max(60).optional(),
 });
 
 const status: Record<DiscussError["code"], number> = {
@@ -39,8 +41,8 @@ export async function POST(request: Request) {
 
   const preview = hasRole(await getSession(), "admin");
   try {
-    const { itemKey, question, history } = parsed.data;
-    return NextResponse.json(await discuss(itemKey, question, history, preview));
+    const { itemKey, question, history, sides } = parsed.data;
+    return NextResponse.json(await discuss(itemKey, question, history, preview, sides));
   } catch (e) {
     if (e instanceof DiscussError) return NextResponse.json({ error: e.code }, { status: status[e.code] });
     throw e;

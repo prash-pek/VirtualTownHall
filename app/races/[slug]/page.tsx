@@ -37,6 +37,15 @@ export default async function RacePage({ params }: { params: Promise<{ slug: str
         <div className="title-rule" />
       </div>
       {preview && profiles.some((p) => p.draft) && <PreviewBanner />}
+      <DiscussionPanel
+        itemKey={race.key}
+        sides={profiles.map((p) => ({ id: p.slug, label: p.name }))}
+        starters={[
+          "What are their top priorities?",
+          "Where do they stand on housing and homelessness?",
+          "What experience do they bring?",
+        ]}
+      />
       <ul className="grid gap-4">
         {profiles.map((c) => (
           <CandidateCard key={c.slug} c={c} />
@@ -45,14 +54,6 @@ export default async function RacePage({ params }: { params: Promise<{ slug: str
       <p className="note">
         Candidates are listed in the order the filing source lists them. Names and parties are from official filings.
       </p>
-      <DiscussionPanel
-        itemKey={race.key}
-        starters={[
-          "What are their top priorities?",
-          "Where do they stand on housing and homelessness?",
-          "What experience do they bring?",
-        ]}
-      />
       <YourChoice itemKey={race.key} options={race.candidates.map((c) => ({ value: c.slug, label: c.name }))} />
     </main>
   );
