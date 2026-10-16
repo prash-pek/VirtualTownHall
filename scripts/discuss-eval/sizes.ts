@@ -13,7 +13,7 @@ import { buildPack, systemPrompt } from "@/lib/discuss/pack";
 import { ballots, loadDataset, packFor } from "./packs";
 
 const root = process.argv[2] ?? "data/oregon-2026";
-const ds = await loadDataset(root, process.argv[3]);
+const ds = await loadDataset(root, process.argv[3] || undefined);
 const client = process.env.ANTHROPIC_API_KEY ? new Anthropic() : null;
 
 async function tokens(system: string, sources: string): Promise<number> {
