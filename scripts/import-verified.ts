@@ -3,11 +3,13 @@
  * and verification notes). Run after seed:inventory, which creates the candidates and measures.
  *
  * Idempotent: sources are upserted by canonical URL, and items and arguments by content hash, so
- * re-running adds only new content. New rows land as `draft` for admin review (TRD v2 §6) and an
+ * re-running adds only new content. A run whose input files and import code match an earlier finished run
+ * is skipped (keyed by a fingerprint in ingestion_runs.scope), which keeps unchanged deploys fast. New rows land as `draft` for admin review (TRD v2 §6) and an
  * existing row's status is never changed. Rejected items are skipped.
  *
  * Usage: DATABASE_URL=... npm run seed:verified [-- data/oregon-2026/verified]
  */
+import { createHash } from "node:crypto";
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 
@@ -35,23 +37,31 @@ if (!url) {
   process.exit(1);
 }
 
+// Fingerprint of every input file plus the import code, so an unchanged deploy can skip the import.
+const fingerprint = createHash("sha256");
+for (const f of ["scripts/import-verified.ts", "lib/seed/verified.ts"]) fingerprint.update(await readFile(f, "utf8"));
+async function readJson(path: string): Promise<unknown> {
+  const text = await readFile(path, "utf8");
+  fingerprint.update(`${path}\0${text}\0`);
+  return JSON.parse(text);
+}
+
 async function readAll<T>(sub: string, parse: (v: unknown) => T): Promise<T[]> {
   const files = (await readdir(join(dir, sub))).filter((f) => f.endsWith(".json")).sort();
-  return Promise.all(files.map(async (f) => parse(JSON.parse(await readFile(join(dir, sub, f), "utf8")))));
+  const raw = [];
+  for (const f of files) raw.push(await readJson(join(dir, sub, f)));
+  return raw.map(parse);
 }
 
 const candidates = await readAll("candidates", (v) => verifiedCandidateSchema.parse(v));
 const measures = await readAll("measures", (v) => verifiedMeasureSchema.parse(v));
 const outletDir = join(dir, "..", "endorsements", "outlets");
 const slates = await readdir(outletDir)
-  .then((files) =>
-    Promise.all(
-      files
-        .filter((f) => f.endsWith(".json"))
-        .sort()
-        .map(async (f) => outletSlateSchema.parse(JSON.parse(await readFile(join(outletDir, f), "utf8")))),
-    ),
-  )
+  .then(async (files) => {
+    const raw = [];
+    for (const f of files.filter((f) => f.endsWith(".json")).sort()) raw.push(await readJson(join(outletDir, f)));
+    return raw.map((v) => outletSlateSchema.parse(v));
+  })
   .catch((e: NodeJS.ErrnoException) => {
     if (e.code === "ENOENT") return [];
     throw e;
@@ -59,6 +69,7 @@ const slates = await readdir(outletDir)
 
 const pool = new Pool({ connectionString: url, max: 1 });
 const db = drizzle(pool, { schema });
+const scope = `verified:${dir}:${fingerprint.digest("hex").slice(0, 16)}`;
 type Tx = Parameters<Parameters<typeof db.transaction>[0]>[0];
 
 const stats = {
@@ -116,6 +127,17 @@ async function addEndorsement(tx: Tx, row: EndorsementRow, v?: VerifiedItem["ver
   if (!inserted) return;
   stats.endorsements++;
   if (v) await recordVerification(tx, "endorsement", inserted.id, v);
+}
+
+const [done] = await db
+  .select({ id: schema.ingestionRuns.id })
+  .from(schema.ingestionRuns)
+  .where(eq(schema.ingestionRuns.scope, scope))
+  .limit(1);
+if (done) {
+  console.log(`verified import: skipped, ${scope} already imported`);
+  await pool.end();
+  process.exit(0);
 }
 
 try {
@@ -293,7 +315,7 @@ try {
       }
     }
 
-    await tx.insert(schema.ingestionRuns).values({ scope: `verified:${dir}`, finishedAt: new Date(), stats });
+    await tx.insert(schema.ingestionRuns).values({ scope, finishedAt: new Date(), stats });
   });
   console.log("verified import:", stats);
 } finally {
