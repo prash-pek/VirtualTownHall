@@ -22,9 +22,21 @@ const pricing: Record<string, [number, number, number]> = {
   "claude-haiku-5-5": [0.1, 0.5, 0.1],
 };
 
-const answersSchema = z.object({
-  responses: z.array(z.object({ side: z.string(), answer: z.string(), sourceIds: z.array(z.number().int()) })),
-});
+/**
+ * The side field names this item's side ids. It stays a plain string, not an enum: the SDK turns an
+ * enum into a description the API doesn't enforce, and an answer with a label would then fail to parse
+ * as a whole. normalizeAnswers maps labels back to ids instead.
+ */
+const answersSchema = (ids: string[]) =>
+  z.object({
+    responses: z.array(
+      z.object({
+        side: z.string().describe(`The side's id, exactly one of: ${ids.join(", ")}`),
+        answer: z.string(),
+        sourceIds: z.array(z.number().int()),
+      }),
+    ),
+  });
 
 export type Round = { question: string; responses: SideAnswer[] };
 
@@ -98,7 +110,8 @@ export async function discuss(itemKey: string, question: string, history: Round[
   if (!apiKey) throw new DiscussError("unavailable");
   const pack = await loadPack(itemKey, preview);
   const hasContent = pack.background.length > 0 || pack.sides.some((s) => s.facts.length || s.endorsements.length);
-  if (!hasContent) throw new DiscussError("no_content");
+  const ids = pack.sides.map((s) => s.id);
+  if (!hasContent || ids.length === 0) throw new DiscussError("no_content");
   const { text, sources } = buildPack(pack);
 
   const client = new Anthropic({ apiKey });
@@ -129,7 +142,7 @@ export async function discuss(itemKey: string, question: string, history: Round[
         ]),
         { role: "user", content: question },
       ],
-      output_config: { effort, format: zodOutputFormat(answersSchema) },
+      output_config: { effort, format: zodOutputFormat(answersSchema(ids)) },
     });
   } catch (e) {
     if (e instanceof Anthropic.APIError) {
