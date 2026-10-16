@@ -93,13 +93,15 @@ async function loadPack(itemKey: string, preview: boolean): Promise<ItemPack> {
 }
 
 export async function discuss(itemKey: string, question: string, history: Round[], preview: boolean) {
-  if (!process.env.ANTHROPIC_API_KEY) throw new DiscussError("unavailable");
+  // Vercel holds the key as TOWNHALL_ANTHROPIC_API_KEY; ANTHROPIC_API_KEY also works (local dev, SDK default).
+  const apiKey = process.env.TOWNHALL_ANTHROPIC_API_KEY ?? process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) throw new DiscussError("unavailable");
   const pack = await loadPack(itemKey, preview);
   const hasContent = pack.background.length > 0 || pack.sides.some((s) => s.facts.length || s.endorsements.length);
   if (!hasContent) throw new DiscussError("no_content");
   const { text, sources } = buildPack(pack);
 
-  const client = new Anthropic();
+  const client = new Anthropic({ apiKey });
   const started = Date.now();
   let message;
   try {
