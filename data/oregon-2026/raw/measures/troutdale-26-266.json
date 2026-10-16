@@ -137,15 +137,50 @@
         "published_at": "2026-07-14",
         "retrieved_at": "2026-10-14"
       }
+    },
+    {
+      "id": "troutdale-26-266-n5",
+      "side": "no",
+      "kind": "argument",
+      "author": "Nicole Morrisey O'Donnell, Multnomah County Sheriff",
+      "topic": "public-safety",
+      "statement": "Sheriff Nicole Morrisey O'Donnell argues that ending the contract and creating a police department would require Troutdale to hire its own workforce and build its own operations.",
+      "excerpt": "Ending the partnership with MCSO and establishing an entire police department would require Troutdale to hire its own workforce and build and sustain its own operations.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-95)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-95"
+      }
+    },
+    {
+      "id": "troutdale-26-266-n6",
+      "side": "no",
+      "kind": "argument",
+      "author": "Eric Anderson, former Troutdale City Councilor",
+      "topic": "public-safety",
+      "statement": "Former City Councilor Eric Anderson, who voted for the 2015 Sheriff's Office contract, argues a small municipal department would mean recreating much of the existing infrastructure.",
+      "excerpt": "Creating a small municipal department means recreating much of that infrastructure ourselves.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-95)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-95"
+      }
     }
   ],
   "topics": [
     "public-safety"
   ],
   "gaps": [
-    "Official voters' pamphlet arguments (yes and no) could not be read: the county pamphlet PDF text is truncated before the measures section."
+    "No argument in favor was filed in the county voters' pamphlet (M-94: 'No arguments in favor of this measure were filed'); YES-side items are the City's explanatory statement and two news-sourced quotes.",
+    "Three arguments in opposition were filed (M-95 to M-96). The 6-per-side cap is filled by the two explainers and two news quotes already on file plus the first two in pamphlet order; the third, by Greg Vining (retired detective and union leader, M-96), is not itemized."
   ],
-  "collection_notes": "Voters' pamphlet: the SOS Book 13 PDF text (120,052 chars) ends at the statewide section; the multco.us English (104,260 chars) and large-print (105,643 chars) county pamphlet PDFs are cut off by WebFetch text extraction in the candidate statements, before the Measures & Arguments section, so printed pamphlet arguments (if any) could not be read. The SOS Spanish-language Multnomah guide (ES-MUL-1126) was checked only to see whether arguments exist: per the fetch tool it prints the measure and an explanation for each of 26-265 to 26-269 but no argument sections; translated guides may omit arguments, so this is not conclusive. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction match the multco.us page and filings list (filed 8/12/2026). The explanatory statement itself presents both supporters' and contract-supporters' views; those are recorded as kind 'explainer' (2 yes, 2 no). KATU quotes (July 14, 2026) predate the Aug 12 measure filing and concern the City's proposal to revive the department, which this advisory vote asks about. Zwick is an MCSO sergeant and union president (the current contractor's employee association). Balanced 4 yes / 4 no.",
+  "collection_notes": "Updated 2026-10-16 from the Multnomah County voters' pamphlet extract (M-94 ballot title and explanatory statement, M-95 to M-96 arguments). Official explanatory-statement explainers (y1, y2, n1, n2) and existing KATU arguments are kept; two of the three filed arguments in opposition are added in pamphlet order up to the 6-per-side cap. Balance: 4 yes / 6 no items, because no argument in favor was filed. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction match the multco.us page and filings list (filed 8/12/2026). The explanatory statement itself presents both supporters' and contract-supporters' views; those are recorded as kind 'explainer' (2 yes, 2 no). KATU quotes (July 14, 2026) predate the Aug 12 measure filing and concern the City's proposal to revive the department, which this advisory vote asks about. Zwick is an MCSO sergeant and union president (the current contractor's employee association).",
   "collection_log": [
     {
       "step": "1",
@@ -246,6 +281,61 @@
       "step": "3",
       "query_or_url": "https://www.koin.com/local/multnomah-county/troutdales-proposed-police-unit-may-cut-multnomah-county-sheriffs-office-services/",
       "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download  [extract multnomah-county/troutdale-26-266.txt, pages M-94 to M-96: ballot title, explanatory statement, 0 arguments in favor, 3 in opposition]",
+      "result": "used"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "troutdale-26-266-e1",
+      "endorser": "Nicole Morrisey O'Donnell, Multnomah County Sheriff",
+      "endorser_type": "official",
+      "side": "no",
+      "statement": "Multnomah County Sheriff Nicole Morrisey O'Donnell furnished an argument in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Nicole Morrisey O’Donnell, Multnomah County Sheriff",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-95)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-95"
+      }
+    },
+    {
+      "id": "troutdale-26-266-e2",
+      "endorser": "Eric Anderson",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Eric Anderson, former Troutdale City Councilor, furnished an argument in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Eric Anderson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-95)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-95"
+      }
+    },
+    {
+      "id": "troutdale-26-266-e3",
+      "endorser": "Greg Vining",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Greg Vining, a retired detective and union leader, furnished an argument in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Greg Vining",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-96)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-96"
+      }
     }
   ]
 }

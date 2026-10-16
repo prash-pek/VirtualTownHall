@@ -3,11 +3,11 @@
   "jurisdiction_id": "king-city",
   "number": "34-354",
   "title": "City of King City Charter Modernization Amendment",
-  "ballot_label": "City of King City Charter Modernization Amendment",
-  "summary": "King City asks voters to amend its city charter. Your Oregon News reports the proposal would let the council consider councilor compensation through the budget process, keep the council's power to fill vacancies by appointment, allow creation of an urban renewal agency, remove the 2012 voter-approval requirement for rail transit spending, and shorten the preamble. If rejected, the current charter remains.",
-  "yes_means": "A yes vote adopts the City of King City Charter Modernization Amendment, changing the city charter.",
-  "no_means": "A no vote leaves the current King City charter in effect without the proposed amendment.",
-  "fiscal_impact": null,
+  "ballot_label": "Caption: City of King City Charter Modernization Amendment. Question: Shall the City of King City amend and restate the existing Charter to modernize, update, and clarify Charter provisions?",
+  "summary": "King City asks voters to amend and restate its 2006 city charter. The measure adds definitions, mirrors the League of Oregon Cities model charter, clarifies vacancies and councilor duties and prohibitions, removes the prohibition on councilor compensation, adds a charter review section, and moves duties of the City Manager, Judge and City Attorney to ordinance or resolution. It keeps the council-manager form and the current way of selecting the mayor.",
+  "yes_means": "A yes vote amends and restates the King City charter as described in the ballot title.",
+  "no_means": "A no vote leaves the current King City charter in effect.",
+  "fiscal_impact": "The ballot title and explanatory statement give no cost or revenue estimate. The measure would remove the charter's prohibition on compensation for councilors.",
   "full_text_url": "https://www.washingtoncountyor.gov/elections/documents/34-354-city-king-city-charter-modernization-amendment/download?inline",
   "arguments": [
     {
@@ -25,15 +25,31 @@
         "published_at": null,
         "retrieved_at": "2026-10-14"
       }
+    },
+    {
+      "id": "king-city-34-354-n2",
+      "side": "no",
+      "kind": "argument",
+      "author": "Vincent Arditi",
+      "topic": "custom:governance",
+      "statement": "Vincent Arditi argues the amendment does not change the present system in which the city council chooses the mayor, and urges a no vote so residents can vote for their mayor.",
+      "excerpt": "4 out of 7 council members still control their choice for your mayor as selected by city council.",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-58)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-58"
+      }
     }
   ],
   "topics": [
     "custom:governance"
   ],
   "gaps": [
-    "No YES arguments collected: the county voters' pamphlet measure pages (WC-57 to WC-58) could not be read, and no attributed supporting statement was found; Your Oregon News (Sept 28, 2026) reports council approval but quotes no one.",
-    "NO side has only one item, from a candidate statement rather than a filed measure argument; filed pamphlet arguments, if any, could not be read.",
-    "Ballot question, summary and explanatory statement not collected: the county ballot-title PDF is a scanned image and the city's charter page links only the current charter."
+    "No YES argument was filed in the county voters' pamphlet (WC-57: 'No Arguments in Favor of this measure were filed').",
+    "One argument in opposition was filed (Vincent Arditi, WC-58); the other NO item (n1) is a council candidate's pamphlet statement, not a filed measure argument."
   ],
   "collection_log": [
     {
@@ -115,7 +131,30 @@
       "step": "3",
       "query_or_url": "WebSearch: \"Measure 34-354\" King City",
       "result": "blocked"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline  [extract washington-county/king-city-34-354.txt, WC-57 to WC-58: ballot title, explanatory statement, 0 arguments in favor, 1 in opposition]",
+      "result": "used"
     }
   ],
-  "collection_notes": "Oregon local ballot titles have no official result-of-vote text; yes_means/no_means are neutral one-sentence descriptions written by the collector strictly from the official ballot caption/question. Caption quoted from the Washington County current-election page link text; matches inventory.json; number and jurisdiction match. Summary content comes from Your Oregon News, Ray Pitz, Sept 28, 2026 (T3; youroregonnews.com is the Carpenter Media Group site that carries former Pamplin Media coverage; the article does not name the measure number but describes King City's Nov 3 charter measure). Verbatim support: compensation: 'would allow councilors to look at such a proposal and seek approval during the city’s annual budget process.'; urban renewal: 'ensures that the council is not prevented from creating an urban renewal agency.'; rail: 'That language has been entirely removed as part of the proposed charter amendments.'; rejection: 'If the measure does not pass, the current charter will remain in effect.' The NO-side item is from a council candidate's pamphlet statement, not a filed measure argument. A citizenportal.ai result (AI summary site, excluded) said the council debated enabling an elected mayor; not used. The Washington County Nov 3, 2026 voters' pamphlet lists this measure in its table of contents, but the fetchable text layer of the PDF ends at about page WC-29 (119,746 characters), so the measure pages (ballot title, explanatory statement, arguments) could not be read. The county ballot-title PDF linked from the current-election page is a scanned image with no machine-readable text. A verifier or human with a PDF/OCR viewer should check the pamphlet measure pages for filed arguments. The session-wide WebSearch budget ran out before the final per-side '\"Measure <number>\" <jurisdiction>' search could be run; the allowed_domains T3 search was rejected by the search proxy (HTTP 400) on every attempt, so T3 coverage relies on plain searches. Outlet-specific follow-up searches were not possible."
+  "collection_notes": "Updated 2026-10-16 from the Washington County voters' pamphlet extract (WC-57 ballot title and explanatory statement, submitted by Ronnie Smith; WC-58 argument in opposition). ballot_label and summary now follow the official ballot title and explanatory statement; the earlier summary relied on a Your Oregon News article (Sept 28, 2026), whose items on urban renewal and rail transit are not in the official ballot summary and were dropped. The pamphlet notes Washington County does not fact-check measure arguments. Oregon local ballot titles have no official result-of-vote text; yes_means/no_means are neutral one-sentence descriptions written by the collector strictly from the official ballot caption/question. Caption quoted from the Washington County current-election page link text; matches inventory.json; number and jurisdiction match. The NO-side item is from a council candidate's pamphlet statement, not a filed measure argument. A citizenportal.ai result (AI summary site, excluded) said the council debated enabling an elected mayor; not used. The session-wide WebSearch budget ran out before the final per-side '\"Measure <number>\" <jurisdiction>' search could be run; the allowed_domains T3 search was rejected by the search proxy (HTTP 400) on every attempt, so T3 coverage relies on plain searches. Outlet-specific follow-up searches were not possible.",
+  "endorsements": [
+    {
+      "id": "king-city-34-354-e1",
+      "endorser": "Vincent Arditi",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Vincent Arditi furnished the only argument in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This Information Furnished By: Vincent Arditi",
+      "source": {
+        "url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+        "publisher": "Washington County Elections (Nov 3, 2026 Voters' Pamphlet, p. WC-58)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "WC-58"
+      }
+    }
+  ]
 }

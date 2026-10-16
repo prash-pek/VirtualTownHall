@@ -105,6 +105,108 @@
         "published_at": "2026-08-31",
         "retrieved_at": "2026-10-14"
       }
+    },
+    {
+      "id": "portland-26-267-y4",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Max Steele",
+      "topic": "custom:city-budget",
+      "statement": "Max Steele's argument in favor urges a yes vote, saying the measure would likely create one of the largest participatory budgets in the country.",
+      "excerpt": "You should vote yes on what is likely to be one of the largest participatory budgets in the country.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-79)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-79"
+      }
+    },
+    {
+      "id": "portland-26-267-y5",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Edward Kurtz, Yes on Your 2 Cents PDX",
+      "topic": "custom:city-budget",
+      "statement": "The Yes on Your 2 Cents PDX argument says the measure does not raise taxes and lets Portlanders help choose what their neighborhoods need most.",
+      "excerpt": "This measure does not raise taxes. A Yes vote for Measure 26-267 lets Portlanders help choose what our neighborhoods need most.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-79)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-79"
+      }
+    },
+    {
+      "id": "portland-26-267-y6",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Edward Kurtz, Yes on Your 2 Cents PDX",
+      "topic": "custom:city-budget",
+      "statement": "The Yes on Your 2 Cents PDX frequently-asked-questions argument says the measure does not raise taxes and gives Portlanders a greater say in how existing city funds are spent.",
+      "excerpt": "Measure 26-267 does not raise taxes. It simply gives Portlanders a greater say in how existing city funds are spent.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-80)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-80"
+      }
+    },
+    {
+      "id": "portland-26-267-n4",
+      "side": "no",
+      "kind": "argument",
+      "author": "Tony Morse, Protect Our City Services",
+      "topic": "custom:city-budget",
+      "statement": "Protect Our City Services cites a City Club of Portland report that described charter-mandated participatory budgeting as nearly unprecedented and difficult to justify from the available evidence.",
+      "excerpt": "Proposals to adopt and institutionalize PB as a city-wide program funded through a charter change or citizen initiative appear to be nearly unprecedented in the U.S. and difficult to justify from the available evidence about PB’s benefits.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-85)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-85"
+      }
+    },
+    {
+      "id": "portland-26-267-n5",
+      "side": "no",
+      "kind": "argument",
+      "author": "Bob Weinstein (with Mike Lindberg and Vadim Mozyrsky)",
+      "topic": "custom:city-budget",
+      "statement": "Bob Weinstein, with Mike Lindberg and Vadim Mozyrsky, argues the charter amendment would require the city to direct at least 2% of discretionary spending, initially $16 million, to participatory budgeting.",
+      "excerpt": "The proposal would amend Portland’s Charter to require the city to forever hand over at least 2% of discretionary spending — initially $16 million— to a participatory budgeting process, no matter what else the city needs.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-86)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-86"
+      }
+    },
+    {
+      "id": "portland-26-267-n6",
+      "side": "no",
+      "kind": "argument",
+      "author": "Jason Williams, Taxpayers Association of Oregon",
+      "topic": "custom:city-budget",
+      "statement": "The Taxpayers Association of Oregon argues the program would spend $16 to $17 million a year through a process separate from the Council's normal budget hearings.",
+      "excerpt": "The City’s own estimate puts this program at $16.4 million in FY 2027-28 and $17.0 million the year after — spent through a process separate from the Council’s normal budget hearings.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-86)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-86"
+      }
     }
   ],
   "topics": [
@@ -112,10 +214,12 @@
     "taxes"
   ],
   "gaps": [
-    "Official voters' pamphlet arguments (yes and no) could not be read: the county pamphlet PDF text is truncated before the measures section.",
-    "The multco.us measure page shows no explanatory statement for 26-267; none was collected."
+    "Arguments printed in the county voters' pamphlet (Multnomah, M-79 to M-91): 15 in favor and 15 in opposition. The 6-per-side cap is filled by the 3 existing news-sourced arguments plus the first 3 pamphlet arguments per side in pamphlet order; the other 12 in favor and 12 in opposition are not itemized.",
+    "Omitted in favor (pamphlet order): Healthy Democracy; Portland Small Businesses; East Portland Residents; Black-led Organizations & Black Leaders; Portland Democratic Socialists of America; three political-science professors; and six others, all but one furnished by Edward Kurtz, Yes on Your 2 Cents PDX (M-79 to M-85).",
+    "Omitted in opposition (pamphlet order): Portland Firefighters' Association (M-87); NW Oregon Labor Council (M-87); Portland Police Association (M-88); Mayor Keith Wilson (M-88); City Councilors (M-88); Future Portland Action Fund (M-91); and six others furnished by Protect Our City Services, Taxpayers Association of Oregon and others (M-86 to M-91).",
+    "No explanatory statement was filed for this measure (county pamphlet M-78)."
   ],
-  "collection_notes": "Voters' pamphlet: the SOS Book 13 PDF text (120,052 chars) ends at the statewide section; the multco.us English (104,260 chars) and large-print (105,643 chars) county pamphlet PDFs are cut off by WebFetch text extraction in the candidate statements, before the Measures & Arguments section, so printed pamphlet arguments (if any) could not be read. The SOS Spanish-language Multnomah guide (ES-MUL-1126) was checked only to see whether arguments exist: per the fetch tool it prints the measure and an explanation for each of 26-265 to 26-269 but no argument sections; translated guides may omit arguments, so this is not conclusive. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number (26-267) and jurisdiction (City of Portland) match the multco.us page and filings list (filed 8/28/2026; ballot title submitted by Louise Hansen, City Elections Officer). Per inventory, the measure also appears in Washington and Clackamas county lists. Willamette Week pages did not display a publication date; published_at is taken from the URL path. The Oct 7, 2026 WW article returned a server error on three attempts. The yes committee is reported as Your 2 Cents PDX; no committee website was linked from a T1/T3 page, so none is cited. Arguments are balanced 3 yes / 3 no, all T3.",
+  "collection_notes": "Updated 2026-10-16 from the Multnomah County voters' pamphlet extract (pages M-78 to M-91; cited by source_url and printed page). Ballot title text matches the existing ballot_label. The Washington County pamphlet edition (WC-51 to WC-54) also prints this measure, with fewer arguments; consulted, not cited. Max Steele's argument is filed 'in favor' but is written in a sarcastic tone that reads as opposition; it is included because it is the first filed argument in favor, attributed only to its literal vote-yes statement. Existing news-sourced arguments (y1-y3, n1-n3) are kept; the validator caps arguments at 6 per side so only 3 pamphlet arguments per side are itemized. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number (26-267) and jurisdiction (City of Portland) match the multco.us page and filings list (filed 8/28/2026; ballot title submitted by Louise Hansen, City Elections Officer). Per inventory, the measure also appears in Washington and Clackamas county lists. Willamette Week pages did not display a publication date; published_at is taken from the URL path. The Oct 7, 2026 WW article returned a server error on three attempts. The yes committee is reported as Your 2 Cents PDX; no committee website was linked from a T1/T3 page, so none is cited.",
   "collection_log": [
     {
       "step": "1",
@@ -196,6 +300,162 @@
       "step": "3",
       "query_or_url": "https://www.wweek.com/news/city/2026/07/23/community-budgeting-initiative-qualifies-for-november-ballot/",
       "result": "nothing relevant"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download  [extract multnomah-county/portland-26-267.txt, pages M-77 to M-91: ballot title, no explanatory statement, 15 arguments in favor, 15 in opposition]",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline  [extract washington-county/portland-26-267.txt, WC-51 to WC-54]",
+      "result": "nothing relevant"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "portland-26-267-e1",
+      "endorser": "Max Steele",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Max Steele furnished an argument in favor printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Max Steele",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-79)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-79"
+      }
+    },
+    {
+      "id": "portland-26-267-e2",
+      "endorser": "Yes on Your 2 Cents PDX",
+      "endorser_type": "organization",
+      "side": "yes",
+      "statement": "Edward Kurtz, Yes on Your 2 Cents PDX, furnished all but one of the arguments in favor printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Edward Kurtz, Yes on Your 2 Cents PDX",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-79)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-79"
+      }
+    },
+    {
+      "id": "portland-26-267-e3",
+      "endorser": "Protect Our City Services",
+      "endorser_type": "organization",
+      "side": "no",
+      "statement": "Protect Our City Services (Tony Morse, Amy Ruiz) furnished arguments in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Tony Morse, Protect Our City Services",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-85)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-85"
+      }
+    },
+    {
+      "id": "portland-26-267-e4",
+      "endorser": "Bob Weinstein",
+      "endorser_type": "person",
+      "side": "no",
+      "statement": "Bob Weinstein furnished an argument in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Bob Weinstein",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-86)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-86"
+      }
+    },
+    {
+      "id": "portland-26-267-e5",
+      "endorser": "Taxpayers Association of Oregon",
+      "endorser_type": "organization",
+      "side": "no",
+      "statement": "Jason Williams, Taxpayers Association of Oregon, furnished two arguments in opposition printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Jason Williams, Taxpayers Association of Oregon",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-86)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-86"
+      }
+    },
+    {
+      "id": "portland-26-267-e6",
+      "endorser": "Portland Firefighters' Association, IAFF Local 43",
+      "endorser_type": "organization",
+      "side": "no",
+      "statement": "Isaac McLennan, President, furnished an argument in opposition on behalf of the Portland Firefighters' Association.",
+      "excerpt": "This information furnished by Isaac McLennan, President, Portland Firefighters’ Association, IAFF Local 43",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-87)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-87"
+      }
+    },
+    {
+      "id": "portland-26-267-e7",
+      "endorser": "Northwest Oregon Labor Council",
+      "endorser_type": "organization",
+      "side": "no",
+      "statement": "Laurie Wimmer furnished an argument in opposition on behalf of the NW Oregon Labor Council.",
+      "excerpt": "This information furnished by Laurie Wimmer, NW Oregon Labor Council",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-87)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-87"
+      }
+    },
+    {
+      "id": "portland-26-267-e8",
+      "endorser": "Portland Police Association",
+      "endorser_type": "organization",
+      "side": "no",
+      "statement": "Sgt. Aaron Schmautz furnished an argument in opposition on behalf of the Portland Police Association.",
+      "excerpt": "This information furnished by Sgt. Aaron Schmautz, Portland Police Association",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-88)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-88"
+      }
+    },
+    {
+      "id": "portland-26-267-e9",
+      "endorser": "Future Portland Action Fund",
+      "endorser_type": "organization",
+      "side": "no",
+      "statement": "Vikki Payne furnished an argument in opposition on behalf of the Future Portland Action Fund.",
+      "excerpt": "This information furnished by Vikki Payne, Future Portland Action Fund",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-91)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-91"
+      }
     }
   ]
 }

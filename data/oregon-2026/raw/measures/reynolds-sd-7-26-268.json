@@ -41,6 +41,74 @@
         "published_at": null,
         "retrieved_at": "2026-10-14"
       }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-y3",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Reynolds School Board (furnished by Michael Reyes, Board Chair)",
+      "topic": "education",
+      "statement": "The Reynolds School Board argues the measure renews an existing bond and would not be a tax increase, funding repairs, security and the Glenfair Elementary replacement.",
+      "excerpt": "we made sure that any ask put before voters would NOT be a tax increase. We’re asking you to renew an existing bond, not approve a new tax.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-100)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-100"
+      }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-y4",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Reynolds principals (furnished by Joyce Rosenau)",
+      "topic": "education",
+      "statement": "Reynolds principals argue the bond would fund perimeter fencing, access controls, secure vestibules and door hardware for school security.",
+      "excerpt": "Controlling who enters our schools is critical. This bond funds perimeter fencing, new access controls, secure vestibules and door hardware.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-100)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-100"
+      }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-y5",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Reynolds educators (furnished by Ana Gonzalez Muñoz)",
+      "topic": "education",
+      "statement": "Reynolds teachers and staff argue the bond problems can be fixed without a rate increase.",
+      "excerpt": "The good news? You can fix these problems without raising your taxes. The rate you pay today, you will continue to pay. $0.00 rate increase.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-101"
+      }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-y6",
+      "side": "yes",
+      "kind": "argument",
+      "author": "Reynolds taxpayers (furnished by Shelby Tooze-Williams, Margaret Breithaupt and William J. Ohle)",
+      "topic": "education",
+      "statement": "A taxpayers' argument says the measure would make Reynolds eligible for $8,168,000 in state matching funds that would otherwise go to another district.",
+      "excerpt": "This measure also makes Reynolds eligible for $8,168,000 in state matching funds, money that will go to another district if voters don’t renew this bond.",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-101"
+      }
     }
   ],
   "topics": [
@@ -48,11 +116,10 @@
     "taxes"
   ],
   "gaps": [
-    "No NO arguments found: no opposition statement in any reachable official source or T3 outlet; voters' pamphlet arguments section could not be read.",
-    "No T3 news coverage of the 2026 bond measure was found.",
-    "Official voters' pamphlet arguments (yes and no) could not be read: the county pamphlet PDF text is truncated before the measures section."
+    "No argument in opposition was filed in the county voters' pamphlet (M-99: 'No arguments in opposition of this measure were filed').",
+    "Six arguments in favor were filed (M-100 to M-102). The 6-per-side cap is filled by the two explanatory-statement explainers already on file plus the first four in pamphlet order; the fifth, 'Community Partners' (furnished by Michael Reyes), and the sixth, 'Local Elected Leaders' (furnished by State Rep. Zach Hudson), are not itemized."
   ],
-  "collection_notes": "Voters' pamphlet: the SOS Book 13 PDF text (120,052 chars) ends at the statewide section; the multco.us English (104,260 chars) and large-print (105,643 chars) county pamphlet PDFs are cut off by WebFetch text extraction in the candidate statements, before the Measures & Arguments section, so printed pamphlet arguments (if any) could not be read. The SOS Spanish-language Multnomah guide (ES-MUL-1126) was checked only to see whether arguments exist: per the fetch tool it prints the measure and an explanation for each of 26-265 to 26-269 but no argument sections; translated guides may omit arguments, so this is not conclusive. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction (Reynolds School District No. 7) match the multco.us page and filings list (filed 8/31/2026). The full question's constitutional-limits sentence is quoted in the ballot_label as paraphrased by the fetch tool from the measure page ('payable from taxes ... not subject to the limits of sections 11 and 11b, Article XI'); verifier should confirm exact wording. The Spanish guide names the explanatory statement's furnisher as Frank Caropelo, superintendent; not confirmed on the English page. The measure page refers voters to ReynoldsSchoolBond.org, but no fetchable page from that domain was returned by search, so it is not cited. Both y items come from the district-written explanatory statement (kind explainer), not filed arguments. The same search set was run for yes and no.",
+  "collection_notes": "Updated 2026-10-16 from the Multnomah County voters' pamphlet extract (M-99 ballot title and explanatory statement, M-100 to M-102 arguments). Existing explanatory-statement explainers (y1, y2) are kept; four of the six filed arguments in favor are added in pamphlet order up to the 6-per-side cap. No argument in opposition was filed. The Sept 8, 2026 argument deadline has passed per the county filings page. Measure document PDFs on multco.us (measure_26-26x/download, referral documents) have no machine-readable text (scanned). WebFetch limits quotes to 125 characters, so several excerpts are sentence segments. yes_means/no_means are not official text: Oregon local ballot titles have no official result-of-vote statement, so they are neutral one-sentence descriptions written strictly from the official ballot question. Inventory title, number and jurisdiction (Reynolds School District No. 7) match the multco.us page and filings list (filed 8/31/2026). The full question's constitutional-limits sentence is quoted in the ballot_label as paraphrased by the fetch tool from the measure page ('payable from taxes ... not subject to the limits of sections 11 and 11b, Article XI'); verifier should confirm exact wording. The Spanish guide names the explanatory statement's furnisher as Frank Caropelo, superintendent; not confirmed on the English page. The measure page refers voters to ReynoldsSchoolBond.org, but no fetchable page from that domain was returned by search, so it is not cited. Both y items come from the district-written explanatory statement (kind explainer), not filed arguments. The same search set was run for yes and no.",
   "collection_log": [
     {
       "step": "1",
@@ -133,6 +200,125 @@
       "step": "3",
       "query_or_url": "T3 allowed-domain searches run singly (multi-domain rejected by proxy): opb.org, katu.com",
       "result": "nothing relevant"
+    },
+    {
+      "step": "1",
+      "query_or_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download  [extract multnomah-county/reynolds-sd-7-26-268.txt, pages M-99 to M-102: ballot title, explanatory statement, 6 arguments in favor, 0 in opposition]",
+      "result": "used"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "reynolds-sd-7-26-268-e1",
+      "endorser": "Michael Reyes",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Michael Reyes, Reynolds School Board Chair, furnished two arguments in favor printed in the county voters' pamphlet.",
+      "excerpt": "This information furnished by Michael Reyes",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-100)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-100"
+      }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-e2",
+      "endorser": "Joyce Rosenau",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Joyce Rosenau, Reynolds School Board Vice Chair, furnished the principals' argument in favor.",
+      "excerpt": "This information furnished by Joyce Rosenau",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-100)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-100"
+      }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-e3",
+      "endorser": "Ana Gonzalez Muñoz",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "Ana Gonzalez Muñoz, a Reynolds School Board member, furnished the educators' argument in favor.",
+      "excerpt": "This information furnished by Ana Gonzalez Muñoz",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-101"
+      }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-e4",
+      "endorser": "Shelby Tooze-Williams",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Shelby Tooze-Williams furnished the taxpayers' argument in favor with two others.",
+      "excerpt": "This information furnished by Shelby Tooze-Williams, Margaret Breithaupt, and William J. Ohle",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-101"
+      }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-e5",
+      "endorser": "Margaret Breithaupt",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "Margaret Breithaupt furnished the taxpayers' argument in favor with two others.",
+      "excerpt": "This information furnished by Shelby Tooze-Williams, Margaret Breithaupt, and William J. Ohle",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-101"
+      }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-e6",
+      "endorser": "William J. Ohle",
+      "endorser_type": "person",
+      "side": "yes",
+      "statement": "William J. Ohle furnished the taxpayers' argument in favor with two others.",
+      "excerpt": "This information furnished by Shelby Tooze-Williams, Margaret Breithaupt, and William J. Ohle",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-101)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-101"
+      }
+    },
+    {
+      "id": "reynolds-sd-7-26-268-e7",
+      "endorser": "State Rep. Zach Hudson",
+      "endorser_type": "official",
+      "side": "yes",
+      "statement": "State Representative Zach Hudson furnished the local elected leaders' argument in favor.",
+      "excerpt": "This information furnished by State Rep. Zach Hudson",
+      "source": {
+        "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+        "publisher": "Multnomah County Elections (Nov 3, 2026 Voters' Pamphlet, p. M-102)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16",
+        "page": "M-102"
+      }
     }
   ]
 }
