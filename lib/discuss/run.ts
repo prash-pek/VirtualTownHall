@@ -104,11 +104,13 @@ async function loadPack(itemKey: string, preview: boolean): Promise<ItemPack> {
   };
 }
 
-export async function discuss(itemKey: string, question: string, history: Round[], preview: boolean) {
+/** `only` limits a race to the candidates the voter chose to ask; measures always ask both sides. */
+export async function discuss(itemKey: string, question: string, history: Round[], preview: boolean, only?: string[]) {
   // Vercel holds the key as TOWNHALL_ANTHROPIC_API_KEY; ANTHROPIC_API_KEY also works (local dev, SDK default).
   const apiKey = process.env.TOWNHALL_ANTHROPIC_API_KEY ?? process.env.ANTHROPIC_API_KEY;
   if (!apiKey) throw new DiscussError("unavailable");
   const pack = await loadPack(itemKey, preview);
+  if (pack.kind === "race" && only?.length) pack.sides = pack.sides.filter((s) => only.includes(s.id));
   const hasContent = pack.background.length > 0 || pack.sides.some((s) => s.facts.length || s.endorsements.length);
   const ids = pack.sides.map((s) => s.id);
   if (!hasContent || ids.length === 0) throw new DiscussError("no_content");
