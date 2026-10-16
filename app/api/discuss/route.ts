@@ -16,7 +16,7 @@ const body = z.object({
   itemKey: z.string().regex(/^(race|measure):[a-z0-9-]+$/),
   question: z.string().trim().min(2).max(500),
   history: z
-    .array(z.object({ question: z.string().max(500), responses: z.array(answer).max(12) }))
+    .array(z.object({ question: z.string().max(500), responses: z.array(answer).max(60) }))
     .max(10)
     .default([]),
 });

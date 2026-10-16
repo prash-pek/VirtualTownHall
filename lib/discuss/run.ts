@@ -15,11 +15,11 @@ import { buildPack, normalizeAnswers, systemPrompt, type ItemPack, type PackSour
 const model = process.env.DISCUSS_MODEL ?? "claude-opus-5-5";
 const effort = (process.env.DISCUSS_EFFORT ?? "low") as "low" | "medium" | "high";
 
-/** USD per million tokens [input, output]; cache reads bill at 0.1x input, writes at 1.25x. */
-const pricing: Record<string, [number, number]> = {
-  "claude-opus-5-5": [4, 20],
-  "claude-sonnet-5-5": [2, 10],
-  "claude-haiku-5-5": [0.1, 0.5],
+/** USD per million tokens [input, output, cache-read multiplier]; 5-minute cache writes bill at 1.25x input. */
+const pricing: Record<string, [number, number, number]> = {
+  "claude-opus-5-5": [4, 20, 0.05],
+  "claude-sonnet-5-5": [2, 10, 0.1],
+  "claude-haiku-5-5": [0.1, 0.5, 0.1],
 };
 
 const answersSchema = z.object({
@@ -111,9 +111,19 @@ export async function discuss(itemKey: string, question: string, history: Round[
         { type: "text", text: `SOURCES:\n${text}`, cache_control: { type: "ephemeral" } },
       ],
       messages: [
-        ...history.slice(-3).flatMap((r) => [
+        // A breakpoint on the last earlier answer lets the next follow-up read the history from cache too.
+        ...history.slice(-3).flatMap((r, i, recent) => [
           { role: "user" as const, content: r.question },
-          { role: "assistant" as const, content: JSON.stringify({ responses: r.responses }) },
+          {
+            role: "assistant" as const,
+            content: [
+              {
+                type: "text" as const,
+                text: JSON.stringify({ responses: r.responses }),
+                ...(i === recent.length - 1 ? { cache_control: { type: "ephemeral" as const } } : {}),
+              },
+            ],
+          },
         ]),
         { role: "user", content: question },
       ],
@@ -128,9 +138,10 @@ export async function discuss(itemKey: string, question: string, history: Round[
   }
 
   const u = message.usage;
-  const [inPrice, outPrice] = pricing[model] ?? [0, 0];
+  const [inPrice, outPrice, readRate] = pricing[model] ?? [0, 0, 0];
   const cost =
-    ((u.input_tokens + (u.cache_read_input_tokens ?? 0) * 0.1 + (u.cache_creation_input_tokens ?? 0) * 1.25) * inPrice +
+    ((u.input_tokens + (u.cache_read_input_tokens ?? 0) * readRate + (u.cache_creation_input_tokens ?? 0) * 1.25) *
+      inPrice +
       u.output_tokens * outPrice) /
     1e6;
   await getDb()
