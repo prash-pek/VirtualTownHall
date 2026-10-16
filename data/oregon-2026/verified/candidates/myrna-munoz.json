@@ -217,6 +217,44 @@
         "note": "Pronouns neutralized (no stated pronouns); wording otherwise unchanged.",
         "verified_at": "2026-10-16"
       }
+    },
+    {
+      "id": "myrna-munoz-p8",
+      "topic": "technology",
+      "statement": "Willamette Week reports Muñoz called for a moratorium on data centers in Washington County and made the issue central to her campaign.",
+      "excerpt": "Muñoz called for a moratorium on data centers in Washington County and made the issue central to her campaign.",
+      "source": {
+        "url": "https://www.wweek.com/news/state/2026/05/21/myrna-munoz-unseats-sen-janeen-sollman-in-key-democratic-primary/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-05-21",
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "myrna-munoz-p9",
+      "topic": "taxes",
+      "statement": "Willamette Week reports Muñoz wants Hillsboro to end all tax breaks for data centers.",
+      "excerpt": "she wants Hillsboro to end all tax breaks for data centers",
+      "source": {
+        "url": "https://www.wweek.com/news/environment/2026/06/13/data-center-backlash-decided-an-oregon-senate-race-in-the-silicon-forest-it-could-factor-big-in-november/",
+        "publisher": "Willamette Week (Garrett Andrews)",
+        "tier": "T3",
+        "published_at": "2026-06-13",
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
     }
   ],
   "voting_record": [],
@@ -552,7 +590,7 @@
     }
   ],
   "verification_summary": {
-    "verified": 17,
+    "verified": 19,
     "corrected": 9,
     "rejected": 0,
     "balance_notes": "SD15: Munoz 10 items (9 T1 pamphlet, 1 T3 OPB) plus 16 pamphlet endorsements; Hutchison 13 items (all T1 pamphlet), none endorsements (his statement prints none). Item counts comparable and both rely on pamphlet. Spot search: Munoz has more T3 coverage not collected (WW 2026-05-21, 2026-06-13 on the Sollman primary upset); Hutchison has a carrd.co site (T2, listed in pamphlet) not fetched by the collector. Collector effort looks roughly equal; both gaps note pamphlet-only positions."

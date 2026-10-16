@@ -183,6 +183,44 @@
         "note": "Relabelled as candidate-written; Pronoun removed: the candidate does not state pronouns in the cited source; reworded with the surname.",
         "verified_at": "2026-10-16"
       }
+    },
+    {
+      "id": "valerie-pratt-p7",
+      "topic": "environment",
+      "statement": "In a Sept. 2025 Council Corner column, Pratt says Tualatin should move forward on steps in its Climate Action Plan.",
+      "excerpt": "This highlights the urgency for Tualatin to move forward implementing steps in its Climate Action Plan",
+      "source": {
+        "url": "https://tualatinlife.com/local-news/council-corner-community-involvement-defines-tualatin/",
+        "publisher": "Tualatin Life, \"Council Corner\" column by Valerie Pratt",
+        "tier": "T3",
+        "published_at": "2025-09-14",
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "valerie-pratt-p8",
+      "topic": "custom:library",
+      "statement": "In the column, Pratt says the library's high usage as a community center should be a factor in county funding decisions.",
+      "excerpt": "the high usage of our library as a community center is included as a factor",
+      "source": {
+        "url": "https://tualatinlife.com/local-news/council-corner-community-involvement-defines-tualatin/",
+        "publisher": "Tualatin Life, \"Council Corner\" column by Valerie Pratt",
+        "tier": "T3",
+        "published_at": "2025-09-14",
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
     }
   ],
   "voting_record": [],
@@ -655,7 +693,7 @@
     "Council voting record not collected (phase 1)"
   ],
   "verification_summary": {
-    "verified": 22,
+    "verified": 24,
     "corrected": 8,
     "rejected": 0,
     "balance_notes": "Mayor race: Gonzalez has 7 items (2 pamphlet bio, 1 pamphlet position, 3 website, 1 candidate-written article; no endorsements by choice, pamphlet says he will not seek or accept them); Pratt has 8 items (5 T1 pamphlet, 3 T3 candidate-written) plus 22 pamphlet endorsements. Counts are comparable; Pratt's Sept 2025 Tualatin Life 'Council Corner' and the Sept 17 2026 Chamber forum page (no transcript) were not collected; neither candidate has a Q&A. Pratt has no campaign website (gap documented). (items 0v/8c/0r; endorsements 22v/0c/0r) Incumbency/website checks: see report."

@@ -68,6 +68,25 @@
         "status": "corrected",
         "note": "\"Retired attorney\" appears in the pamphlet occupation field but not in the excerpt; removed from statement."
       }
+    },
+    {
+      "id": "lisa-batey-b4",
+      "topic": "custom:bio",
+      "statement": "Her campaign site describes over two decades of Milwaukie service from neighborhood chair through Planning Commission and City Council to Mayor.",
+      "excerpt": "A mayor who has studied and served Milwaukie for over two decades, from neighborhood chair to utility committee to Planning Commission to City Council to Mayor.",
+      "source": {
+        "url": "https://lisabateyformilwaukie.com/",
+        "publisher": "Lisa Batey campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
     }
   ],
   "positions": [
@@ -108,6 +127,101 @@
         "status": "verified",
         "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
       }
+    },
+    {
+      "id": "lisa-batey-p3",
+      "topic": "transportation",
+      "statement": "On her campaign site, Batey lists developing local smaller-scale transit connecting employment areas and neighborhood hubs to light rail as a priority.",
+      "excerpt": "Developing local smaller-scale transit to connect employment areas and neighborhood hubs to light rail",
+      "source": {
+        "url": "https://lisabateyformilwaukie.com/accomplishments-and-priorities/",
+        "publisher": "Lisa Batey campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-p4",
+      "topic": "custom:parks",
+      "statement": "On her campaign site, Batey lists filling park gaps so all residents have a park within a 10-minute walk.",
+      "excerpt": "Filling in the gaps so that all residents have a park within a 10-minute walk.",
+      "source": {
+        "url": "https://lisabateyformilwaukie.com/accomplishments-and-priorities/",
+        "publisher": "Lisa Batey campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-p5",
+      "topic": "environment",
+      "statement": "On her campaign site, Batey lists advancing Milwaukie's climate goals through electrification and electric vehicle programs.",
+      "excerpt": "Advancing Milwaukie’s climate goals by enhancements to electrification and electric vehicle programs",
+      "source": {
+        "url": "https://lisabateyformilwaukie.com/accomplishments-and-priorities/",
+        "publisher": "Lisa Batey campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-p6",
+      "topic": "economy",
+      "statement": "On her campaign site, Batey lists attracting more family-wage jobs to industrial areas.",
+      "excerpt": "Working to attract more jobs, and more family-wage jobs, to our industrial areas",
+      "source": {
+        "url": "https://lisabateyformilwaukie.com/accomplishments-and-priorities/",
+        "publisher": "Lisa Batey campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "lisa-batey-p7",
+      "topic": "immigration",
+      "statement": "Her campaign site homepage says neighbors live in fear because of their immigration status.",
+      "excerpt": "We have neighbors who live in fear because of their immigration status.",
+      "source": {
+        "url": "https://lisabateyformilwaukie.com/",
+        "publisher": "Lisa Batey campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
     }
   ],
   "voting_record": [],
@@ -117,7 +231,7 @@
     "No 2026 T3 interview found (KOIN Kellogg Dam piece undated)"
   ],
   "verification_summary": {
-    "verified": 4,
+    "verified": 10,
     "corrected": 1,
     "rejected": 0,
     "balance_notes": "see reports/verification/candidates-metro-v5.md"

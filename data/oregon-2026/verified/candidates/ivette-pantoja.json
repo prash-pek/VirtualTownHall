@@ -66,6 +66,25 @@
         "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
         "verified_at": "2026-10-15"
       }
+    },
+    {
+      "id": "ivette-pantoja-b4",
+      "topic": "custom:bio",
+      "statement": "Her campaign site says she was born and raised in Hillsboro and is the daughter of Mexican immigrants.",
+      "excerpt": "Born and raised in Hillsboro, Ivette is the daughter of Mexican immigrants",
+      "source": {
+        "url": "https://www.ivettepantoja.com",
+        "publisher": "Ivette Pantoja campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
     }
   ],
   "positions": [
@@ -125,6 +144,27 @@
         "note": "Re-fetched 2026-10-15; excerpt present verbatim, attribution and tier confirmed.",
         "verified_at": "2026-10-15"
       }
+    },
+    {
+      "id": "ivette-pantoja-p4",
+      "topic": "custom:priorities",
+      "statement": "Her campaign site names livability, community engagement, economic opportunity and workforce development, and environmental stewardship among the issues it highlights.",
+      "excerpt": "livability, community engagement, economic opportunity and workforce development, environmental stewardship",
+      "source": {
+        "url": "https://www.ivettepantoja.com",
+        "publisher": "Ivette Pantoja campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "statement"
+        ],
+        "note": "Site lists these as issues that matter to voters; statement reworded to avoid overstating them as her ranked priorities.",
+        "verified_at": "2026-10-16"
+      }
     }
   ],
   "voting_record": [],
@@ -133,8 +173,8 @@
     "Campaign site text does not name the office sought"
   ],
   "verification_summary": {
-    "verified": 6,
-    "corrected": 0,
+    "verified": 7,
+    "corrected": 1,
     "rejected": 0,
     "balance_notes": "Ward 2A: Pantoja 6, Delgado 8 items. Missed material: Delgado is quoted in the same OPB 2026-09-28 article; Pantoja campaign site (ivettepantoja.com) has stated priorities not collected, and her gap note says no site text names the office. Effort slightly uneven."
   }

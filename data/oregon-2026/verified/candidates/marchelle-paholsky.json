@@ -125,6 +125,25 @@
         "status": "verified",
         "note": "Re-fetched 2026-10-15; excerpt present verbatim (line breaks/curly quotes aside), attribution and tier confirmed."
       }
+    },
+    {
+      "id": "marchelle-paholsky-p5",
+      "topic": "custom:community",
+      "statement": "On her campaign site, Paholsky says she wants to foster a sense of community where everyone feels connected and heard.",
+      "excerpt": "Most importantly, I want to foster a sense of community where everyone feels connected and heard.",
+      "source": {
+        "url": "https://www.marchelle4happyvalley.com",
+        "publisher": "Marchelle Paholsky campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
     }
   ],
   "voting_record": [],
@@ -132,7 +151,7 @@
     "No T3 press coverage found"
   ],
   "verification_summary": {
-    "verified": 6,
+    "verified": 7,
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "see reports/verification/candidates-metro-v5.md"

@@ -68,6 +68,25 @@
         "note": "Re-fetched 2026-10-15; excerpt present verbatim on the Sherwood city council page; attribution and tier confirmed.",
         "verified_at": "2026-10-15"
       }
+    },
+    {
+      "id": "tim-rosener-b4",
+      "topic": "custom:bio",
+      "statement": "The city's council page says Rosener moved to the Sherwood area with his family in 1975.",
+      "excerpt": "moved to the Sherwood area in 1975 with his family.",
+      "source": {
+        "url": "https://sherwoodoregon.gov/citycouncil/page/council-members",
+        "publisher": "City of Sherwood, Council Members page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
     }
   ],
   "positions": [],
@@ -79,7 +98,7 @@
     "No occupation item collected; the city council page bio describes a software engineer at a small local software company"
   ],
   "verification_summary": {
-    "verified": 2,
+    "verified": 3,
     "corrected": 1,
     "rejected": 0,
     "balance_notes": "Unopposed mayor. Pamphlet unreachable (access gap for all Sherwood candidates). City bio items verified; the page also states a software engineer/small business owner background (not collected as an item)."

@@ -66,6 +66,25 @@
         "note": "Excerpt present verbatim at the cited source (re-checked 2026-10-15/16); attribution, tier and wording confirmed.",
         "verified_at": "2026-10-16"
       }
+    },
+    {
+      "id": "mary-dirksen-b4",
+      "topic": "custom:bio",
+      "statement": "Her campaign site says she volunteered 15 years at Coffee Creek Correctional Facility and is a certified Master Gardener.",
+      "excerpt": "I volunteered for 15 years at Coffee Creek Correctional Facility and am a certified Master Gardener.",
+      "source": {
+        "url": "http://marydirksen.com",
+        "publisher": "Mary Dirksen campaign website (domain printed in voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
     }
   ],
   "positions": [
@@ -261,7 +280,7 @@
     }
   ],
   "verification_summary": {
-    "verified": 7,
+    "verified": 8,
     "corrected": 5,
     "rejected": 0,
     "balance_notes": "SD19: Wagner 14 items (T1 pamphlet and official page, T2 site, T3 Portland Tribune) + 18 endorsements; Dirksen 7 items (all T1 pamphlet) + 5 endorsements. Dirksen has no T2/T3 items: her site marydirksen.com and a oregonvotes.gov voters-guide page exist and were not fetched; Ballotpedia profile also not fetched (gap says so). Mild imbalance explained by challenger coverage; flagged as possible under-search for Dirksen."

@@ -66,6 +66,44 @@
         "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
         "verified_at": "2026-10-15"
       }
+    },
+    {
+      "id": "mallory-hiefield-b4",
+      "topic": "custom:bio",
+      "statement": "Her campaign site says she serves on the City's Parks & Recreation Commission and Budget Committee.",
+      "excerpt": "my work on the City's Parks & Recreation Commission and the City's Budget Committee",
+      "source": {
+        "url": "https://votemalloryhiefield.com/meet_mallory",
+        "publisher": "Mallory Hiefield campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
+    },
+    {
+      "id": "mallory-hiefield-b5",
+      "topic": "custom:bio",
+      "statement": "Her campaign site says she is Assistant Athletic Director and Senior Woman Administrator at Pacific University.",
+      "excerpt": "now serve as the Assistant Athletic Director and Senior Woman Administrator at Pacific University.",
+      "source": {
+        "url": "https://votemalloryhiefield.com/meet_mallory",
+        "publisher": "Mallory Hiefield campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
     }
   ],
   "positions": [
@@ -170,6 +208,25 @@
         "note": "Re-fetched 2026-10-15; excerpt present verbatim in the Nov 3 2026 Washington County voters' pamphlet; attribution and tier confirmed.",
         "verified_at": "2026-10-15"
       }
+    },
+    {
+      "id": "mallory-hiefield-p6",
+      "topic": "custom:community-health",
+      "statement": "On her campaign Issues page, Hiefield says she believes in the power of movement and human connection.",
+      "excerpt": "I believe whole heartedly in the power of movement and human connection.",
+      "source": {
+        "url": "https://votemalloryhiefield.com/issues",
+        "publisher": "Mallory Hiefield campaign website (domain confirmed in county voters' pamphlet)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
     }
   ],
   "voting_record": [],
@@ -178,7 +235,7 @@
     "Campaign site has an issues page (votemalloryhiefield.com/issues, T2) with stated positions on sustainability, economic development, housing and community health that was not collected"
   ],
   "verification_summary": {
-    "verified": 5,
+    "verified": 8,
     "corrected": 3,
     "rejected": 0,
     "balance_notes": "Pamphlet statement collected; campaign domain confirmed by the pamphlet-printed address. Campaign site issues page and bio not collected (gap note was incorrect, now fixed). Three excerpts were cut mid-sentence and corrected."

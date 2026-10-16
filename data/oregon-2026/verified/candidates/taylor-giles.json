@@ -68,6 +68,25 @@
         "note": "Re-fetched 2026-10-15; excerpt present verbatim on the Sherwood city council page; attribution and tier confirmed.",
         "verified_at": "2026-10-15"
       }
+    },
+    {
+      "id": "taylor-giles-b4",
+      "topic": "custom:bio",
+      "statement": "The city's council page says Giles worked as a Product Manager and then Product Executive focused on improving access to healthcare.",
+      "excerpt": "As a Product Manager and then Product Executive, Taylor has worked to improve access to healthcare for most of his career.",
+      "source": {
+        "url": "https://sherwoodoregon.gov/citycouncil/page/council-members",
+        "publisher": "City of Sherwood, Council Members page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-16"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed at source; attribution and tier OK.",
+        "verified_at": "2026-10-16"
+      }
     }
   ],
   "positions": [],
@@ -78,7 +97,7 @@
     "No voting record collected"
   ],
   "verification_summary": {
-    "verified": 2,
+    "verified": 3,
     "corrected": 1,
     "rejected": 0,
     "balance_notes": "Pamphlet unreachable (access gap for all Sherwood candidates). City bio provides three items; the page also states his healthcare product-management career (not collected)."
