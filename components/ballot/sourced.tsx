@@ -1,39 +1,74 @@
+"use client";
+
+import { useId, useState } from "react";
+
 import type { SourcedItem } from "@/lib/ballot/content";
 
-/** One sourced statement: what we say, the verbatim excerpt, and where it came from. */
-export function Sourced({ item }: { item: SourcedItem }) {
+/** The shared <Citation>: a real button after the claim that opens the verbatim excerpt, publisher and link inline. */
+export function Citation({
+  excerpt,
+  publisher,
+  sourceUrl,
+  label = "Source",
+}: {
+  excerpt: string | null;
+  publisher: string | null;
+  sourceUrl: string | null;
+  label?: string;
+}) {
+  const [open, setOpen] = useState(false);
+  const id = useId();
+  if (!excerpt && !sourceUrl) return null;
   return (
-    <div className="flex flex-col gap-1">
-      <p>
-        {item.statement} {item.draft && <span className="preview-tag">Not yet reviewed</span>}
-      </p>
-      {(item.excerpt || item.sourceUrl) && (
-        <details className="note">
-          <summary className="cursor-pointer select-none">Source{item.publisher ? `: ${item.publisher}` : ""}</summary>
-          {item.excerpt && (
-            <blockquote className="mt-1 border-l-2 border-line pl-3 italic">“{item.excerpt}”</blockquote>
-          )}
-          {item.sourceUrl && (
-            <a
-              href={item.sourceUrl}
-              className="link mt-1 inline-block break-all"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              {item.sourceUrl}
-            </a>
-          )}
-        </details>
+    <>
+      <button
+        type="button"
+        className="cite"
+        aria-expanded={open}
+        aria-controls={id}
+        aria-label={`${label}${publisher ? `: ${publisher}` : ""}`}
+        onClick={() => setOpen((v) => !v)}
+      >
+        {label}
+      </button>
+      {open && (
+        <span id={id} className="mt-2 block border border-line bg-paper px-3.5 py-3 text-sm">
+          {excerpt && <span className="block italic">“{excerpt}”</span>}
+          <span className="mt-1.5 block text-[12.5px] text-muted">
+            {publisher ?? "Source"}
+            {sourceUrl && (
+              <>
+                {" · "}
+                <a href={sourceUrl} className="link" target="_blank" rel="noopener noreferrer">
+                  Open source ↗
+                </a>
+              </>
+            )}
+          </span>
+        </span>
       )}
-    </div>
+    </>
+  );
+}
+
+/** One sourced statement: what we say, then its citation. */
+export function Sourced({ item, className = "" }: { item: SourcedItem; className?: string }) {
+  return (
+    <p className={className}>
+      {item.statement} {item.draft && <span className="preview-tag">Not yet reviewed</span>}
+      <Citation excerpt={item.excerpt} publisher={item.publisher} sourceUrl={item.sourceUrl} />
+    </p>
   );
 }
 
 export function PreviewBanner() {
   return (
-    <p className="no-print border-l-2 border-warn bg-gold-soft px-3 py-2 text-sm">
-      <strong>Admin preview.</strong> Items marked “Not yet reviewed” are hidden from voters until they&apos;re
-      published in the review queue.
+    <p className="no-print flex items-start gap-2.5 border border-warn bg-gold-soft px-4 py-3 text-[14.5px]">
+      <span className="preview-tag mt-0.5 shrink-0">Preview</span>
+      <span>
+        <strong>Admin preview.</strong> Items marked “Not yet reviewed” are hidden from voters until they&apos;re
+        published in the review queue.
+      </span>
     </p>
   );
 }

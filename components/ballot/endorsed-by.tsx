@@ -10,12 +10,18 @@ const groupLabel: Record<string, string> = {
 
 /** Collapsed "Endorsed by" list (one line closed). Shown as a public record, never scored. */
 export function EndorsedBy({ endorsements }: { endorsements: Endorsement[] }) {
-  if (endorsements.length === 0) return <p className="note">Endorsed by: none on record in the sources we checked.</p>;
+  if (endorsements.length === 0)
+    return <p className="note border-t border-line pt-3">Endorsed by: none on record in the sources we checked.</p>;
   const groups = Map.groupBy(endorsements, (e) => groupLabel[e.endorserType] ?? "Others");
   return (
-    <details className="border-t border-line pt-2">
-      <summary className="link cursor-pointer text-sm">Endorsed by ({endorsements.length})</summary>
-      <div className="mt-2 flex flex-col gap-3">
+    <details className="group border border-line bg-cream">
+      <summary className="flex min-h-11 cursor-pointer list-none items-center justify-between gap-2 px-3.5 text-sm font-semibold [&::-webkit-details-marker]:hidden">
+        <span>Endorsed by ({endorsements.length})</span>
+        <span aria-hidden className="text-muted transition-transform group-open:rotate-180">
+          ▾
+        </span>
+      </summary>
+      <div className="flex flex-col gap-3 border-t border-line px-3.5 py-3">
         {[...groups].map(([label, list]) => (
           <div key={label}>
             <p className="eyebrow">{label}</p>
