@@ -7,6 +7,10 @@
   --color-ink: #1f2328;
   --color-muted: #5b6168;
   --color-line: #e4e2da;
+  /* Borders of form controls and dashed "optional" outlines: 3.2:1 on white (WCAG 1.4.11); cards keep line. */
+  --color-line-strong: #8c9097;
+  /* Body text on tints (olive-soft) and long paragraphs: 8.5:1 on olive-soft. */
+  --color-ink-soft: #3f454b;
   --color-gold: #d97706;
   --color-gold-soft: #fdf3e3;
   --color-olive: #4d5b2f;
@@ -18,6 +22,14 @@
 
 :root {
   color-scheme: light;
+}
+
+/* One visible focus ring on everything focusable. */
+@layer base {
+  :focus-visible {
+    outline: 2px solid var(--color-ink);
+    outline-offset: 2px;
+  }
 }
 
 @layer components {
@@ -38,13 +50,13 @@
     @apply border border-line bg-paper p-4;
   }
   .input {
-    @apply border border-line bg-paper px-3 py-2 text-ink outline-none focus:border-ink;
+    @apply border border-line-strong bg-paper px-3 py-2 text-ink focus:border-ink;
   }
   .btn {
-    @apply inline-flex items-center justify-center gap-2 border border-ink px-4 py-2 font-medium text-ink hover:bg-ink hover:text-cream disabled:opacity-40;
+    @apply inline-flex min-h-10 items-center justify-center gap-2 border border-ink px-4 py-2 font-medium text-ink hover:bg-ink hover:text-cream disabled:opacity-40;
   }
   .btn-primary {
-    @apply inline-flex items-center justify-center gap-2 border border-ink bg-ink px-4 py-2 font-medium text-cream hover:bg-olive hover:border-olive disabled:opacity-40;
+    @apply inline-flex min-h-11 items-center justify-center gap-2 border border-ink bg-ink px-4 py-2 font-medium text-cream hover:bg-olive hover:border-olive disabled:opacity-40;
   }
   .link {
     @apply underline decoration-gold decoration-2 underline-offset-4 hover:text-olive;
@@ -54,6 +66,31 @@
   }
   .preview-tag {
     @apply inline-block border border-warn px-1.5 text-[11px] font-semibold tracking-wide text-warn uppercase;
+  }
+  /* Section heading inside a page (Playfair, 24px). */
+  .section-title {
+    @apply font-display text-2xl leading-tight font-semibold;
+  }
+  /* Small uppercase label above a YES/NO or side column. */
+  .side-label {
+    @apply text-[13px] font-bold tracking-[0.12em] uppercase;
+  }
+  /* Claim-status and similar badges: describe the profile, never the candidate's merit. */
+  .badge {
+    @apply inline-flex items-center border border-ink px-2 py-0.5 text-[11.5px] font-semibold tracking-[0.05em] uppercase;
+  }
+  /* The <Citation> marker: a real button that opens the verbatim excerpt. */
+  .cite {
+    @apply mx-0.5 inline-flex h-5 min-w-[22px] cursor-pointer items-center justify-center border border-line-strong bg-paper px-1 align-[1px] text-[11.5px] leading-none font-semibold hover:border-ink hover:bg-ink hover:text-cream;
+  }
+  .cite[aria-expanded="true"] {
+    @apply border-ink bg-ink text-cream;
+  }
+  .chip {
+    @apply min-h-10 cursor-pointer border border-line bg-cream px-3 py-2 text-left text-sm hover:border-ink disabled:opacity-40;
+  }
+  .skeleton {
+    @apply bg-[#eceae3];
   }
 }
 

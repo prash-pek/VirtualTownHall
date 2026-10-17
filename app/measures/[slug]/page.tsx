@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import { DiscussionPanel } from "@/components/ballot/discussion-panel";
 import { EndorsedBy } from "@/components/ballot/endorsed-by";
 import { PreviewBanner, Sourced } from "@/components/ballot/sourced";
-import { WalkPosition, YourChoice } from "@/components/ballot/walk-through";
+import { StepBar, WalkPosition, YourChoice } from "@/components/ballot/walk-through";
 import { getSession } from "@/lib/auth/session";
 import { hasRole } from "@/lib/auth/roles";
 import { getCatalog } from "@/lib/ballot/catalog";
@@ -32,87 +32,130 @@ export default async function MeasurePage({ params }: { params: Promise<{ slug: 
   const side = (s: "yes" | "no") => d?.arguments.filter((a) => a.side === s && a.kind !== "explainer") ?? [];
 
   return (
-    <main className="page">
-      <WalkPosition itemKey={measure.key} />
-      <div>
-        <p className="eyebrow">
-          Measure {measure.number} · {measure.jurisdiction}
-        </p>
-        <h1 className="title mt-1">{measure.title}</h1>
-        <div className="title-rule" />
-      </div>
+    <>
+      <StepBar current="items" itemKey={measure.key} />
+      <main className="page">
+        <WalkPosition itemKey={measure.key} />
+        <div>
+          <p className="eyebrow">
+            Measure {measure.number} · {measure.jurisdiction}
+          </p>
+          <h1 className="title mt-1">{measure.title}</h1>
+          <div className="title-rule" />
+        </div>
 
-      {!d ? (
-        <p className="card text-muted">
-          The plain-language summary, what YES and NO do, and arguments on both sides appear here once they pass review.
-        </p>
-      ) : (
-        <>
-          {d.draft && <PreviewBanner />}
-          {d.summary && (
-            <section className="flex flex-col gap-2">
-              <h2 className="eyebrow">Summary</h2>
-              <p className="text-lg leading-relaxed">{d.summary}</p>
+        {!d ? (
+          <p className="border border-dashed border-line-strong bg-paper p-5 text-muted">
+            The plain-language summary, what YES and NO do, and arguments on both sides appear here once they pass
+            review.
+          </p>
+        ) : (
+          <>
+            {d.draft && <PreviewBanner />}
+            {d.summary && (
+              <section aria-labelledby="plain" className="border border-line bg-paper p-5">
+                <h2 id="plain" className="eyebrow">
+                  In plain words
+                </h2>
+                <p className="mt-2 text-lg leading-relaxed">{d.summary}</p>
+              </section>
+            )}
+            <section aria-labelledby="vote-does" className="flex flex-col gap-3">
+              <h2 id="vote-does" className="section-title">
+                What your vote does
+              </h2>
+              <div className="grid gap-4 sm:grid-cols-2">
+                <VoteMeans side="YES" text={d.yesMeans} />
+                <VoteMeans side="NO" text={d.noMeans} />
+              </div>
             </section>
-          )}
-          <section className="grid gap-4 sm:grid-cols-2">
-            <div className="card">
-              <h2 className="eyebrow">A YES vote</h2>
-              <p className="mt-2">{d.yesMeans ?? "Not stated in the sources we checked."}</p>
-            </div>
-            <div className="card">
-              <h2 className="eyebrow">A NO vote</h2>
-              <p className="mt-2">{d.noMeans ?? "Not stated in the sources we checked."}</p>
-            </div>
-          </section>
-          {d.fiscalImpact && (
-            <section className="flex flex-col gap-2">
-              <h2 className="eyebrow">Fiscal impact</h2>
-              <p>{d.fiscalImpact}</p>
+            {d.fiscalImpact && (
+              <section aria-labelledby="fiscal" className="flex gap-3 border border-line bg-paper p-5">
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.6"
+                  strokeLinecap="round"
+                  aria-hidden
+                  className="mt-0.5 size-6 shrink-0 text-muted"
+                >
+                  <circle cx="12" cy="12" r="8.5" />
+                  <path d="M14.5 9.2c-.5-.9-1.4-1.4-2.5-1.4-1.5 0-2.6.8-2.6 2s1.1 1.7 2.6 2.1 2.6.9 2.6 2.1-1.1 2-2.6 2c-1.2 0-2.1-.5-2.6-1.4M12 6.3v1.5M12 16.2v1.5" />
+                </svg>
+                <div>
+                  <h2 id="fiscal" className="eyebrow">
+                    Fiscal impact
+                  </h2>
+                  <p className="mt-1.5">{d.fiscalImpact}</p>
+                </div>
+              </section>
+            )}
+            {neutral.length > 0 && (
+              <section aria-labelledby="neutral" className="flex flex-col gap-2">
+                <h2 id="neutral" className="eyebrow">
+                  Explained by official sources
+                </h2>
+                <ul className="flex flex-col gap-3">
+                  {neutral.map((a, n) => (
+                    <li key={n}>
+                      <Sourced item={a} className="text-ink-soft" />
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            )}
+            <section aria-labelledby="arguments" className="flex flex-col gap-3">
+              <h2 id="arguments" className="section-title">
+                Arguments filed
+              </h2>
+              <div className="grid gap-4 sm:grid-cols-2">
+                <Side title="In favor (YES)" items={side("yes")} endorsements={endorsed("yes")} />
+                <Side title="In opposition (NO)" items={side("no")} endorsements={endorsed("no")} />
+              </div>
             </section>
-          )}
-          {neutral.length > 0 && (
-            <section className="flex flex-col gap-2">
-              <h2 className="eyebrow">Explained by official sources</h2>
-              <ul className="flex flex-col gap-3">
-                {neutral.map((a, n) => (
-                  <li key={n}>
-                    <Sourced item={a} />
-                  </li>
-                ))}
-              </ul>
-            </section>
-          )}
-          <section className="grid gap-4 sm:grid-cols-2">
-            <Side title="For (YES)" items={side("yes")} endorsements={endorsed("yes")} />
-            <Side title="Against (NO)" items={side("no")} endorsements={endorsed("no")} />
-          </section>
-          {d.ballotLabel && (
-            <details className="note">
-              <summary className="cursor-pointer">Official ballot title</summary>
-              <p className="mt-2">{d.ballotLabel}</p>
-            </details>
-          )}
-          {d.fullTextUrl && (
-            <a href={d.fullTextUrl} className="link text-sm" target="_blank" rel="noopener noreferrer">
-              Full text of the measure
-            </a>
-          )}
-        </>
-      )}
+            {d.ballotLabel && (
+              <details className="note">
+                <summary className="cursor-pointer py-1">Official ballot title</summary>
+                <p className="mt-2">{d.ballotLabel}</p>
+              </details>
+            )}
+            {d.fullTextUrl && (
+              <a href={d.fullTextUrl} className="link text-sm" target="_blank" rel="noopener noreferrer">
+                Full text of the measure ↗
+              </a>
+            )}
+          </>
+        )}
 
-      <DiscussionPanel
-        itemKey={measure.key}
-        starters={["What would this change for me?", "How much will it cost?", "Who supports and opposes it, and why?"]}
-      />
-      <YourChoice
-        itemKey={measure.key}
-        options={[
-          { value: "yes", label: "Yes" },
-          { value: "no", label: "No" },
-        ]}
-      />
-    </main>
+        <DiscussionPanel
+          itemKey={measure.key}
+          starters={[
+            "What would this change for me?",
+            "How much will it cost?",
+            "Who supports and opposes it, and why?",
+          ]}
+        />
+        <YourChoice
+          itemKey={measure.key}
+          label={`Measure ${measure.number}: ${measure.title}`}
+          options={[
+            { value: "yes", label: "Yes" },
+            { value: "no", label: "No" },
+          ]}
+        />
+      </main>
+    </>
+  );
+}
+
+/** YES and NO get identical cards: same border, same weight. Never color-coded. */
+function VoteMeans({ side, text }: { side: "YES" | "NO"; text: string | null }) {
+  return (
+    <div className="border border-t-[3px] border-line border-t-ink bg-paper p-5">
+      <h3 className="side-label">A {side} vote</h3>
+      <p className="mt-2 text-[15.5px] leading-relaxed">{text ?? "Not stated in the sources we checked."}</p>
+    </div>
   );
 }
 
@@ -126,15 +169,17 @@ function Side({
   endorsements: Endorsement[];
 }) {
   return (
-    <div className="card flex flex-col gap-3">
-      <h2 className="eyebrow">{title}</h2>
+    <div
+      className={`flex flex-col gap-3 p-5 ${items.length === 0 ? "border border-dashed border-line-strong bg-cream" : "border border-line bg-paper"}`}
+    >
+      <h3 className="side-label">{title}</h3>
       {items.length === 0 ? (
-        <p className="note">No arguments on this side were found in the sources we checked.</p>
+        <p className="text-[15px] text-ink-soft">No arguments on this side were found in the sources we checked.</p>
       ) : (
         <ul className="flex flex-col gap-4">
           {items.map((a, n) => (
-            <li key={n} className="flex flex-col gap-1">
-              <p className="note">
+            <li key={n} className="flex flex-col gap-1 border-l-2 border-line pl-3">
+              <p className="text-[12.5px] font-semibold text-muted">
                 {kindLabel[a.kind] ?? a.kind}
                 {a.author ? ` · ${a.author}` : ""}
               </p>

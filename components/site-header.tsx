@@ -13,14 +13,14 @@ export function SiteHeader() {
           TownHall AI
         </Link>
         <div className="flex items-center gap-4">
-          <Link href="/ballot" className="text-sm font-medium hover:text-olive">
+          <Link href="/ballot" className="flex min-h-10 items-center text-sm font-medium hover:text-olive">
             My ballot
           </Link>
           {clerkEnabled() && (
             <>
               <Show when="signed-out">
                 <SignInButton mode="redirect">
-                  <button className="btn px-3 py-1 text-sm">Sign in</button>
+                  <button className="btn min-h-10 px-3 py-1 text-sm">Sign in</button>
                 </SignInButton>
               </Show>
               <Show when="signed-in">

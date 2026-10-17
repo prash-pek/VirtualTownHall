@@ -82,11 +82,27 @@ export function DiscussionPanel({
         : sides.filter((s) => s.id === id || cur.includes(s.id)).map((s) => s.id),
     );
 
+  // Equal columns for 2 or 3 sides on desktop; 4 or more stack as equal cards. Phones always stack. Never tabs.
+  const cols = (n: number) => (n === 2 ? "sm:grid-cols-2" : n === 3 ? "sm:grid-cols-3" : "");
+  const asking =
+    sides.length > 0
+      ? sides.filter((s) => selected.includes(s.id))
+      : [
+          { id: "yes", label: "YES" },
+          { id: "no", label: "NO" },
+        ];
+
   return (
-    <section className="no-print card flex flex-col gap-4">
+    <section
+      aria-labelledby={`discuss-${itemKey}`}
+      className="no-print flex flex-col gap-4 border border-line bg-paper p-5"
+    >
       <div>
-        <h2 className="font-display text-xl font-semibold">Ask every side</h2>
-        <p className="note">
+        <p className="eyebrow">Discussion</p>
+        <h2 id={`discuss-${itemKey}`} className="mt-1 font-display text-[22px] leading-tight font-semibold">
+          Ask every side
+        </h2>
+        <p className="note mt-1">
           Ask a question and each side answers from the sources on this page. When the sources don&apos;t cover
           something, it says so.
         </p>
@@ -99,76 +115,119 @@ export function DiscussionPanel({
         </p>
       )}
 
-      {rounds.map((r, i) => (
-        <div key={i} className="flex flex-col gap-3">
-          <p className="border-l-2 border-gold pl-3 font-medium">{r.question}</p>
-          <div className="grid gap-3 sm:grid-cols-2">
-            {r.responses
-              .filter((a) => !grouped(r) || !uncovered(a))
-              .map((a) => (
-                <div key={a.side} className="flex flex-col gap-2 border border-line bg-cream p-3">
-                  <p className="eyebrow">{a.label}</p>
-                  <p className="text-sm leading-relaxed">{a.answer}</p>
-                  {a.sources.length > 0 && (
-                    <p className="note flex flex-wrap gap-x-2">
-                      Sources:
-                      {a.sources.map((s) =>
-                        s.url ? (
-                          <a
-                            key={s.n}
-                            href={s.url}
-                            className="link"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            title={s.publisher ?? s.url}
-                          >
-                            [{s.n}]
-                          </a>
-                        ) : (
-                          <span key={s.n} title={s.publisher ?? undefined}>
-                            [{s.n}]
-                          </span>
-                        ),
-                      )}
-                    </p>
-                  )}
-                </div>
-              ))}
-          </div>
-          {grouped(r) && (
-            <p className="border border-line bg-cream p-3 text-sm">
-              The sources we have don&apos;t address this for{" "}
-              {r.responses
-                .filter(uncovered)
-                .map((a) => a.label)
-                .join("; ")}
-              .
+      {rounds.map((r, i) => {
+        const shown = r.responses.filter((a) => !grouped(r) || !uncovered(a));
+        return (
+          <div key={i} className="flex flex-col gap-3">
+            <p className="max-w-[85%] self-end bg-ink px-3.5 py-2.5 text-[15px] text-cream">
+              <span className="sr-only">You asked: </span>
+              {r.question}
             </p>
-          )}
+            {shown.length > 0 && (
+              <div className={`grid gap-3 ${cols(shown.length)}`}>
+                {shown.map((a) => (
+                  <div key={a.side} className="flex flex-col gap-2 border border-line bg-cream p-4">
+                    <p className="side-label">{a.label}</p>
+                    {uncovered(a) ? (
+                      <p className="text-[15px]">
+                        <strong>Our sources don&apos;t cover this.</strong>{" "}
+                        <span className="text-ink-soft">{a.answer}</span>
+                      </p>
+                    ) : (
+                      <p className="text-[15px] leading-relaxed">{a.answer}</p>
+                    )}
+                    {a.sources.length > 0 && (
+                      <p className="flex flex-wrap items-center gap-1.5 text-[12.5px] text-muted">
+                        Sources:
+                        {a.sources.map((s) =>
+                          s.url ? (
+                            <a
+                              key={s.n}
+                              href={s.url}
+                              className="cite"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              title={s.publisher ?? s.url}
+                              aria-label={`Source ${s.n}${s.publisher ? `: ${s.publisher}` : ""}`}
+                            >
+                              {s.n}
+                            </a>
+                          ) : (
+                            <span key={s.n} className="cite" title={s.publisher ?? undefined}>
+                              {s.n}
+                            </span>
+                          ),
+                        )}
+                      </p>
+                    )}
+                  </div>
+                ))}
+              </div>
+            )}
+            {grouped(r) && (
+              <p className="border border-dashed border-line-strong bg-cream p-4 text-[15px]">
+                <strong>Our sources don&apos;t cover this</strong> for{" "}
+                {r.responses
+                  .filter(uncovered)
+                  .map((a) => a.label)
+                  .join("; ")}
+                .
+              </p>
+            )}
+          </div>
+        );
+      })}
+
+      {busy && (
+        <div role="status" className="flex flex-col gap-2">
+          <span className="sr-only">Waiting for answers</span>
+          {asking.map((s) => (
+            <div
+              key={s.id}
+              aria-hidden
+              className="flex items-center justify-between border border-line bg-cream px-4 py-2.5"
+            >
+              <span className="side-label">{s.label}</span>
+              <span className="flex gap-1">
+                {[0, 1, 2].map((d) => (
+                  <span
+                    key={d}
+                    className="size-1.5 animate-pulse bg-muted"
+                    style={{ animationDelay: `${d * 150}ms` }}
+                  />
+                ))}
+              </span>
+            </div>
+          ))}
         </div>
-      ))}
+      )}
 
       {sides.length > 2 && (
-        <details className="border border-line px-3 py-2">
-          <summary className="cursor-pointer text-sm">
+        <details className="border border-line bg-cream px-3.5 py-2">
+          <summary className="flex min-h-9 cursor-pointer items-center gap-2 text-sm">
             {selected.length === sides.length
               ? `Asking all ${sides.length} candidates`
               : `Asking ${selected.length} of ${sides.length} candidates`}{" "}
             <span className="link">Choose</span>
           </summary>
-          <div className="mt-2 flex gap-3 text-sm">
-            <button type="button" className="link" onClick={() => setSelected(sides.map((s) => s.id))}>
+          <div className="mt-2 flex gap-4 text-sm">
+            <button type="button" className="link py-1" onClick={() => setSelected(sides.map((s) => s.id))}>
               Select all
             </button>
-            <button type="button" className="link" onClick={() => setSelected([])}>
+            <button type="button" className="link py-1" onClick={() => setSelected([])}>
               Clear
             </button>
           </div>
           <fieldset className="mt-2 grid gap-1 sm:grid-cols-2">
             <legend className="sr-only">Candidates to ask</legend>
             {sides.map((s) => (
-              <label key={s.id} className="flex items-center gap-2 text-sm">
-                <input type="checkbox" checked={selected.includes(s.id)} onChange={() => toggle(s.id)} />
+              <label key={s.id} className="flex min-h-9 items-center gap-2 text-sm">
+                <input
+                  type="checkbox"
+                  className="size-4 accent-ink"
+                  checked={selected.includes(s.id)}
+                  onChange={() => toggle(s.id)}
+                />
                 {s.label}
               </label>
             ))}
@@ -176,10 +235,10 @@ export function DiscussionPanel({
         </details>
       )}
 
-      {rounds.length === 0 && (
+      {rounds.length === 0 && !busy && (
         <div className="flex flex-wrap gap-2">
           {starters.map((s) => (
-            <button key={s} onClick={() => void ask(s)} disabled={busy} className="btn px-3 py-1 text-sm">
+            <button key={s} type="button" onClick={() => void ask(s)} disabled={busy} className="chip">
               {s}
             </button>
           ))}
@@ -212,7 +271,7 @@ export function DiscussionPanel({
         </button>
       </form>
       {error && (
-        <p role="alert" className="border-l-2 border-warn bg-gold-soft px-3 py-2 text-sm">
+        <p role="alert" className="border border-warn bg-gold-soft px-4 py-3 text-[14.5px]">
           {error}
         </p>
       )}
