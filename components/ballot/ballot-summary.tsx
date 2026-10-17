@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 
-import { readBallot, readChoices } from "@/lib/ballot/storage";
+import { readBallot, readChoices, readShortlists } from "@/lib/ballot/storage";
 import {
   inBallotOrder,
   isRace,
@@ -30,9 +30,17 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
     () => new Map<string, CatalogItem>([...catalog.races, ...catalog.measures].map((i) => [i.key, i])),
     [catalog],
   );
-  const [state, setState] = useState<{ ballot: BallotKey[]; choices: Record<string, Choice> } | null>(null);
+  const [state, setState] = useState<{
+    ballot: BallotKey[];
+    choices: Record<string, Choice>;
+    shortlists: Record<string, string[]>;
+  } | null>(null);
   useEffect(() => {
-    void Promise.resolve({ ballot: inBallotOrder(readBallot(), catalog), choices: readChoices() }).then(setState);
+    void Promise.resolve({
+      ballot: inBallotOrder(readBallot(), catalog),
+      choices: readChoices(),
+      shortlists: readShortlists(),
+    }).then(setState);
   }, [catalog]);
   if (!state) return null;
 
@@ -48,11 +56,29 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
       </p>
     );
   }
-  const open = items.filter((i) => choiceLabel(i, state.choices[i.key]) === null).length;
+  const shortlistOf = (i: CatalogItem) =>
+    isRace(i) ? (state.shortlists[i.key] ?? []).flatMap((slug) => i.candidates.find((c) => c.slug === slug) ?? []) : [];
+  const open = items.filter((i) => choiceLabel(i, state.choices[i.key]) === null && shortlistOf(i).length === 0).length;
 
   return (
     <div className="flex flex-col gap-6">
-      <div className="no-print flex flex-wrap items-center justify-between gap-3 border border-line bg-paper px-4 py-3">
+      <div
+        className={`no-print flex flex-wrap items-center gap-2.5 border px-4 py-3 ${
+          open === 0 ? "border-[#d5dcc3] bg-olive-soft" : "border-line bg-paper"
+        }`}
+      >
+        {open === 0 && (
+          <svg
+            viewBox="0 0 20 20"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            aria-hidden
+            className="size-5 text-olive"
+          >
+            <path d="M4 10.5l4 4 8-9" />
+          </svg>
+        )}
         <span className={`text-[15px] font-semibold ${open === 0 ? "text-olive" : ""}`}>
           {open === 0 ? "You've made a call on everything." : `${open} left to decide.`}
         </span>
@@ -77,7 +103,7 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
               <div className="shrink-0 text-right">
                 {label ? (
                   <p className="font-display text-lg font-semibold">{label}</p>
-                ) : (
+                ) : shortlistOf(i).length === 0 ? (
                   <>
                     <p className="border border-dashed border-line-strong px-2 py-0.5 text-sm font-semibold text-ink-soft">
                       Not sure yet
@@ -86,6 +112,28 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
                       Go back
                     </Link>
                   </>
+                ) : null}
+                {isRace(i) && shortlistOf(i).length > 0 && (
+                  <div className={label ? "mt-1" : ""}>
+                    <p className="text-[12.5px] text-muted">Your shortlist</p>
+                    <ol className="text-[15px] font-semibold">
+                      {shortlistOf(i).map((c, r) => (
+                        <li key={c.slug}>
+                          {r + 1}. {c.name}
+                        </li>
+                      ))}
+                    </ol>
+                    {shortlistOf(i).length >= 2 && (
+                      <Link
+                        href={`${itemHref(i)}?ask=${shortlistOf(i)
+                          .map((c) => c.slug)
+                          .join(",")}#ask`}
+                        className="no-print link text-sm"
+                      >
+                        Ask your shortlist
+                      </Link>
+                    )}
+                  </div>
                 )}
               </div>
             </li>
@@ -100,6 +148,10 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
         .
       </p>
       <p className="note">These are your notes, not a vote. They stay on this device and we never see them.</p>
+      {/* Only on paper: who made this, so a printed copy explains itself. */}
+      <p className="hidden border-t border-line pt-3 text-sm print:block">
+        Made with TownHall AI · townhallai.outsetinno.com
+      </p>
     </div>
   );
 }
