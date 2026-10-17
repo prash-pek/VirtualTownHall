@@ -14,7 +14,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "TownHall AI",
   description:
-    "Get ready to fill out your Oregon ballot for November 3, 2026: walk through every race and measure, with sources for everything we show.",
+    "Talk to the candidates and measures on your Oregon ballot for November 3, 2026, using public sources. We never tell you how to vote.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

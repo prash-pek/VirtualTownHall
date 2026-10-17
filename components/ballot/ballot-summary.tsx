@@ -40,7 +40,7 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
   if (items.length === 0) {
     return (
       <p className="border border-dashed border-line-strong bg-paper p-5">
-        Your ballot is empty.{" "}
+        Your ballot is empty so far.{" "}
         <Link href="/ballot" className="link">
           Build your ballot
         </Link>{" "}
@@ -54,11 +54,8 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
     <div className="flex flex-col gap-6">
       <div className="no-print flex flex-wrap items-center justify-between gap-3 border border-line bg-paper px-4 py-3">
         <span className={`text-[15px] font-semibold ${open === 0 ? "text-olive" : ""}`}>
-          {open === 0 ? "Every item has a choice." : `${open} still undecided.`}
+          {open === 0 ? "You've made a call on everything." : `${open} left to decide.`}
         </span>
-        <button onClick={() => window.print()} className="link text-sm">
-          Print a copy
-        </button>
       </div>
       <ol className="flex flex-col border border-line bg-paper">
         {items.map((i, n) => {
@@ -83,7 +80,7 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
                 ) : (
                   <>
                     <p className="border border-dashed border-line-strong px-2 py-0.5 text-sm font-semibold text-ink-soft">
-                      Undecided
+                      Not sure yet
                     </p>
                     <Link href={itemHref(i)} className="no-print link text-sm">
                       Go back
@@ -95,10 +92,14 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
           );
         })}
       </ol>
-      <p className="note">
-        Your choices are stored only in this browser. They&apos;re your own notes: we never see them, and they
-        don&apos;t submit a vote.
+      <p className="no-print">
+        Missing a race?{" "}
+        <Link href="/ballot" className="link">
+          Find it and add it to your ballot
+        </Link>
+        .
       </p>
+      <p className="note">These are your notes, not a vote. They stay on this device and we never see them.</p>
     </div>
   );
 }

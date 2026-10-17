@@ -3,8 +3,8 @@ export function Disclaimer() {
   return (
     <footer className="border-t border-line px-4 py-6 text-sm text-muted">
       <p className="mx-auto max-w-3xl">
-        TownHall AI is nonpartisan and does not endorse candidates or measures. AI answers are based only on cited
-        public sources and may be incomplete. Not legal or voting advice. Check your official ballot on{" "}
+        TownHall AI is nonpartisan and doesn&apos;t endorse anyone. Answers come from public sources and can miss
+        things. Not legal or voting advice. Double-check your ballot at{" "}
         <a className="link" href="https://sos.oregon.gov/voting/Pages/myvote.aspx" rel="noopener noreferrer">
           Oregon My Vote
         </a>

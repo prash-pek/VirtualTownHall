@@ -24,8 +24,8 @@ export default async function BallotPage({
           <h1 className="title mt-1">Check your ballot</h1>
           <div className="title-rule" />
           <p className="mt-3 text-muted">
-            Make this list match your paper ballot. Then we&apos;ll go through it one item at a time, and you&apos;ll
-            end with a summary to fill it out from.
+            Grab your paper ballot. Does this list match it? Take off anything extra and add anything that&apos;s
+            missing.
           </p>
         </div>
         <BallotBuilder

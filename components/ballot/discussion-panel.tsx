@@ -12,9 +12,9 @@ type Answer = {
 type Round = { question: string; responses: Answer[] };
 
 const errors: Record<string, string> = {
-  rate_limited: "You've asked a lot of questions in a short time. Please try again later.",
-  no_content: "There isn't reviewed material on this item yet, so there's nothing to discuss from.",
-  unavailable: "The discussion isn't switched on yet.",
+  rate_limited: "That's a lot of questions at once. Give it a minute and try again.",
+  no_content: "We don't have sources for this one yet.",
+  unavailable: "Questions aren't switched on yet.",
 };
 
 const noAnswer = (a: Answer) => a.answer.startsWith("No answer was produced");
@@ -100,18 +100,16 @@ export function DiscussionPanel({
       <div>
         <p className="eyebrow">Discussion</p>
         <h2 id={`discuss-${itemKey}`} className="mt-1 font-display text-[22px] leading-tight font-semibold">
-          Ask every side
+          {sides.length > 0 ? "Ask the candidates" : "Ask both sides"}
         </h2>
         <p className="note mt-1">
-          Ask a question and each side answers from the sources on this page. When the sources don&apos;t cover
-          something, it says so.
+          Answers come only from the sources on this page. If they don&apos;t cover something, you&apos;ll hear that.
         </p>
       </div>
 
       {rounds.length > 0 && (
         <p className="note border-l-2 border-line pl-3">
-          TownHall AI never tells you how to vote. Each answer is AI-generated from the cited public record only. Not
-          voting advice.
+          Written by AI from the sources on this page. It won&apos;t tell you how to vote.
         </p>
       )}
 

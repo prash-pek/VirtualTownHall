@@ -5,7 +5,7 @@ import { BallotSummary } from "@/components/ballot/ballot-summary";
 import { getCatalog } from "@/lib/ballot/catalog";
 
 export const dynamic = "force-dynamic";
-export const metadata: Metadata = { title: "My ballot summary · TownHall AI" };
+export const metadata: Metadata = { title: "Your votes · TownHall AI" };
 
 export default async function SummaryPage() {
   const catalog = await getCatalog();
@@ -15,9 +15,12 @@ export default async function SummaryPage() {
       <main className="page">
         <div>
           <p className="eyebrow">Oregon General Election · November 3, 2026</p>
-          <h1 className="title mt-1">Your ballot summary</h1>
+          <h1 className="title mt-1">Your votes</h1>
           <div className="title-rule" />
-          <p className="mt-3 text-muted">Keep this next to your paper ballot while you fill it out.</p>
+          <p className="mt-3 text-muted">
+            Ask any last questions, then fill out your paper ballot. If you missed a race, you can add it at the bottom
+            of the page.
+          </p>
         </div>
         <BallotSummary catalog={catalog} />
         <section className="no-print flex flex-col gap-2 border border-line bg-paper p-5">

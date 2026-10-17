@@ -48,10 +48,7 @@ export default async function RacePage({ params }: { params: Promise<{ slug: str
               <CandidateCard key={c.slug} c={c} />
             ))}
           </ul>
-          <p className="note">
-            Candidates are listed in the order the filing source lists them. Names and parties are from official
-            filings.
-          </p>
+          <p className="note">Listed in the same order as the official filings.</p>
         </section>
         <DiscussionPanel
           itemKey={race.key}
@@ -89,7 +86,7 @@ function CandidateCard({ c }: { c: CandidateProfile }) {
       {intro ? (
         <Sourced item={intro} className="text-[15px] leading-relaxed text-ink-soft" />
       ) : (
-        <p className="note">We haven&apos;t published a sourced profile for this candidate yet.</p>
+        <p className="note">Nothing published on this candidate yet.</p>
       )}
       {details.length > 0 && (
         <details>

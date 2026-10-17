@@ -111,10 +111,10 @@ export function BallotBuilder({
       if (!res.ok) {
         setStatus(
           data.error === "address_not_found"
-            ? "We couldn't find that address. Check the state, or add the city and ZIP code. You can also add items yourself below."
+            ? "We couldn't find that address. Try adding the city and ZIP, or add your races yourself below."
             : data.error === "rate_limited"
-              ? "Too many lookups. Please try again later, or add items yourself below."
-              : "Address lookup isn't available right now. You can still add items yourself below.",
+              ? "That's a lot of lookups at once. Give it a minute, or add your races yourself below."
+              : "Address lookup isn't working right now. You can still add your races yourself below.",
         );
         return;
       }
@@ -128,10 +128,10 @@ export function BallotBuilder({
       add(suggested);
       setNearbyKeys(sanitizeBallot(data.nearby));
       setStatus(
-        `Added ${suggested.length} items for ${data.matchedAddress}. Remove anything that isn't on your paper ballot.`,
+        `Found ${suggested.length} races and measures for ${data.matchedAddress}. Check them against your paper ballot.`,
       );
     } catch {
-      setStatus("Address lookup isn't available right now. You can still add items yourself below.");
+      setStatus("Address lookup isn't working right now. You can still add your races yourself below.");
     } finally {
       setLooking(false);
     }
@@ -206,7 +206,7 @@ export function BallotBuilder({
             Suggest my ballot
           </button>
         </form>
-        <p className="note">We use your address once to suggest your ballot, then throw it away.</p>
+        <p className="note">Your address is never saved. We just use it to find the races you can vote in.</p>
         {status && (
           <p
             role="status"
@@ -309,7 +309,7 @@ export function BallotBuilder({
             <span className="text-sm">
               <strong>{mine.length}</strong> {mine.length === 1 ? "item" : "items"} on your ballot
               <Link href="/ballot/summary" className="link ml-3 hidden sm:inline">
-                Go to my summary
+                See your votes
               </Link>
             </span>
             <Link href={itemHref(first)} className="btn-primary">

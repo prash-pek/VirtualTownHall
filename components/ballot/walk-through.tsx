@@ -122,7 +122,7 @@ export function WalkPosition({ itemKey }: { itemKey: BallotKey }) {
   );
 }
 
-/** "Your choice for this item": the voter picks; nothing is preselected. Stored in this browser only. */
+/** "Your call": the voter picks; nothing is preselected. Stored in this browser only. */
 export function YourChoice({ itemKey, label, options }: { itemKey: BallotKey; label: string; options: Option[] }) {
   const [choice, setChoice] = useState<Choice | null>(null);
   const [saved, setSaved] = useState(false);
@@ -142,7 +142,7 @@ export function YourChoice({ itemKey, label, options }: { itemKey: BallotKey; la
     setSaved(true);
     writeChoice(itemKey, value);
   };
-  const all: Option[] = [...options, { value: undecided, label: "Undecided" }, { value: skipped, label: "Skip" }];
+  const all: Option[] = [...options, { value: undecided, label: "Not sure yet" }, { value: skipped, label: "Skip" }];
 
   return (
     <>
@@ -152,7 +152,7 @@ export function YourChoice({ itemKey, label, options }: { itemKey: BallotKey; la
       >
         <div className="flex flex-wrap items-baseline justify-between gap-2">
           <h2 id={`choice-${itemKey}`} className="font-display text-[22px] font-semibold">
-            Your choice for this item
+            Your call
           </h2>
           {saved && <p className="text-[13.5px] font-semibold text-olive">Saved in this browser</p>}
         </div>
@@ -184,14 +184,14 @@ export function YourChoice({ itemKey, label, options }: { itemKey: BallotKey; la
             );
           })}
         </fieldset>
-        <p className="note">Only you see this. It stays in this browser and goes on your summary.</p>
+        <p className="note">Only you see this. It stays on this device.</p>
       </section>
       <nav aria-label="Ballot items, bottom" className="no-print flex flex-wrap justify-between gap-3">
         <Link href={prev ? hrefFor(prev) : "/ballot"} className="btn">
           {prev ? "← Previous" : "← Your ballot"}
         </Link>
         <Link href={next ? hrefFor(next) : "/ballot/summary"} className="btn-primary">
-          {next ? "Next item →" : at >= 0 ? "See my summary →" : "Go to my summary →"}
+          {next ? "Next →" : "See your votes →"}
         </Link>
       </nav>
     </>
