@@ -9,12 +9,13 @@ export default function Home() {
       <div>
         <p className="eyebrow">Oregon General Election · November 3, 2026</p>
         <h1 className="mt-2 font-display text-4xl leading-tight font-semibold tracking-tight sm:text-5xl">
-          Get ready to fill out your Oregon ballot
+          Talk to the candidates and measures affecting you this election
         </h1>
         <div className="title-rule" />
         <p className="mt-4 text-lg text-muted">
-          Go through your ballot one race and measure at a time, with sources for everything we show. Finish with a
-          summary of your own choices to fill out your paper ballot from. We never tell you how to vote.
+          We&apos;ve brought together publicly available information for all the races happening this cycle, so you can
+          ask the questions that matter to you. We never tell you how to vote. We&apos;re here to make the process more
+          personal.
         </p>
       </div>
       <HowItWorks />
@@ -47,10 +48,10 @@ export default function Home() {
             Start
           </button>
         </div>
-        <p className="note">We use your address once to find your ballot, then throw it away.</p>
+        <p className="note">We don&apos;t store your address. We just use it to find the races you can vote in.</p>
       </form>
       <Link href="/ballot" className="link self-start">
-        Just browse
+        Or just look around
       </Link>
     </main>
   );

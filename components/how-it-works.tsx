@@ -48,7 +48,7 @@ const icons = {
 const steps: { title: string; body: string; icon: keyof typeof icons; kind: Kind; loopsBack?: boolean }[] = [
   {
     title: "Tell us where you live",
-    body: "Your address suggests the races and measures on your ballot. We use it once, then throw it away.",
+    body: "Your address suggests the races and measures on your ballot. We don’t store it.",
     icon: "address",
     kind: "plain",
   },
@@ -78,7 +78,7 @@ const steps: { title: string; body: string; icon: keyof typeof icons; kind: Kind
     loopsBack: true,
   },
   {
-    title: "See your summary",
+    title: "See your votes",
     body: "All your choices on one page, in ballot order, so filling in your mail-in ballot is quick.",
     icon: "summary",
     kind: "plain",
