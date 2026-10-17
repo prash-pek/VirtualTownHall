@@ -35,3 +35,28 @@ export function sortByLevel<T>(rows: T[], level: (row: T) => number): T[] {
 export function compareMeasureNumbers(a: string, b: string): number {
   return a.localeCompare(b, "en", { numeric: true });
 }
+
+const raceGroups: Record<number, string> = {
+  0: "Federal",
+  1: "Statewide",
+  2: "State Senate",
+  3: "State House",
+  4: "County",
+  5: "Courts and other offices",
+  6: "Metro",
+  7: "City",
+  8: "School districts",
+  9: "Special districts",
+};
+const measureGroups: Record<number, string> = {
+  1: "State measures",
+  4: "County measures",
+  6: "Metro measures",
+  7: "City measures",
+  8: "School district measures",
+  9: "Special district measures",
+};
+
+/** The ballot section a race or measure is listed under, for grouping the voter's list. */
+export const raceGroup = (level: number) => raceGroups[level] ?? "Other races";
+export const measureGroup = (level: number) => measureGroups[level] ?? "Other measures";

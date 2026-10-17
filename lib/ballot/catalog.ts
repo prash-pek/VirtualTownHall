@@ -7,7 +7,7 @@ import { getDb } from "@/lib/db/client";
 import { ballotMeasures, candidates, jurisdictions, races } from "@/lib/db/schema";
 
 import type { JurisdictionRef } from "./districts";
-import { compareMeasureNumbers, measureLevel, raceLevel, sortByLevel } from "./order";
+import { compareMeasureNumbers, measureGroup, measureLevel, raceGroup, raceLevel, sortByLevel } from "./order";
 import type { Catalog, CatalogRace } from "./types";
 
 /**
@@ -63,6 +63,7 @@ export const getCatalog = cache(async (): Promise<Catalog> => {
       districtLabel: r.districtLabel,
       jurisdiction: r.jurisdiction,
       jurisdictionSlug: r.jurisdictionSlug,
+      group: raceGroup(raceLevel(r)),
       candidates: (byRace.get(r.id) ?? []).map(({ slug, name, party, incumbent }) => ({
         slug,
         name,
@@ -80,6 +81,7 @@ export const getCatalog = cache(async (): Promise<Catalog> => {
       title: m.title,
       jurisdiction: m.jurisdiction,
       jurisdictionSlug: m.jurisdictionSlug,
+      group: measureGroup(measureLevel(m)),
     })),
   };
 });

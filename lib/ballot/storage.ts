@@ -6,6 +6,7 @@ import { sanitizeBallot, type BallotKey, type Choice } from "./types";
 
 const ballotKey = "townhall:ballot";
 const choicesKey = "townhall:choices";
+const shortlistsKey = "townhall:shortlists";
 
 function read(key: string): unknown {
   try {
@@ -39,4 +40,28 @@ export function writeChoice(key: BallotKey, choice: Choice | null) {
   if (choice === null) delete all[key];
   else all[key] = choice;
   write(choicesKey, all);
+}
+
+/**
+ * A voter's shortlist for a race, in their order. For a ranked-choice race the order is their ranking;
+ * otherwise it's the few candidates they're still weighing. Browser only, like choices.
+ */
+export function readShortlists(): Record<string, string[]> {
+  const v = read(shortlistsKey);
+  if (!v || typeof v !== "object") return {};
+  return Object.fromEntries(
+    Object.entries(v)
+      .filter(([k, list]) => k.length <= 120 && Array.isArray(list))
+      .map(([k, list]) => [
+        k,
+        (list as unknown[]).filter((x): x is string => typeof x === "string" && x.length <= 120).slice(0, 20),
+      ]),
+  );
+}
+
+export function writeShortlist(key: BallotKey, list: string[]) {
+  const all = readShortlists();
+  if (list.length === 0) delete all[key];
+  else all[key] = list.slice(0, 20);
+  write(shortlistsKey, all);
 }
