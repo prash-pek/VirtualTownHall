@@ -37,11 +37,10 @@ const icons = {
       <path d="M14 7l3 3" />
     </>
   ),
-  print: (
+  summary: (
     <>
-      <path d="M7 9V3h10v6" />
-      <rect x="3" y="9" width="18" height="8" rx="1" />
-      <path d="M7 14h10v7H7z" />
+      <rect x="4" y="3" width="16" height="18" rx="1" />
+      <path d="M7.5 8l1.5 1.5L11.5 7M7.5 14l1.5 1.5 2.5-2.5M14 8.5h3M14 14.5h3" />
     </>
   ),
 };
@@ -79,9 +78,9 @@ const steps: { title: string; body: string; icon: keyof typeof icons; kind: Kind
     loopsBack: true,
   },
   {
-    title: "Print your summary",
-    body: "One page of your choices in ballot order, ready to fill out your mail-in ballot from.",
-    icon: "print",
+    title: "See your summary",
+    body: "All your choices on one page, in ballot order, so filling in your mail-in ballot is quick.",
+    icon: "summary",
     kind: "plain",
   },
 ];
