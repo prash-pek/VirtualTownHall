@@ -382,9 +382,14 @@ function ItemRow({ item, index, action }: { item: CatalogItem; index?: number; a
           <span className="w-6 shrink-0 pt-0.5 text-right text-sm font-semibold text-muted">{index}.</span>
         )}
         <div>
-          <p className="text-[12.5px] text-muted">
-            {isRace(item) ? item.jurisdiction : `Measure · ${item.jurisdiction}`}
-          </p>
+          {/* In the grouped list the group heading already names the jurisdiction. */}
+          {index === undefined ? (
+            <p className="text-[12.5px] text-muted">
+              {isRace(item) ? item.jurisdiction : `Measure · ${item.jurisdiction}`}
+            </p>
+          ) : (
+            !isRace(item) && <p className="text-[12.5px] text-muted">Measure</p>
+          )}
           <Link href={itemHref(item)} className="font-semibold hover:text-olive">
             {itemTitle(item)}
           </Link>
