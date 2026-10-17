@@ -107,3 +107,24 @@ describe("normalizeAnswers", () => {
     ]);
   });
 });
+
+describe("vote disclaimers", () => {
+  const one = (answer: string) =>
+    normalizeAnswers(race, buildPack(race).sources, [{ side: "ann", answer, sourceIds: [1] }])[0]!.answer;
+
+  it("drops a leading per-answer disclaimer", () => {
+    expect(
+      one("I can't tell you how to vote, so here is what the public record says about Ann. She supports more parks."),
+    ).toBe("She supports more parks.");
+    expect(one("I can't tell you how to vote. Ann supports more parks [1].")).toBe("Ann supports more parks [1].");
+    expect(one("I cannot recommend who to vote for, but the record shows Ann supports more parks.")).toBe(
+      "The record shows Ann supports more parks.",
+    );
+  });
+
+  it("leaves ordinary answers alone", () => {
+    expect(one("Ann supports more parks [1].")).toBe("Ann supports more parks [1].");
+    const gap = "Our sources don't say how Ann would vote on the levy. She has spoken about parks.";
+    expect(one(gap)).toBe(gap);
+  });
+});
