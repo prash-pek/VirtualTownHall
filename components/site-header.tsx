@@ -6,7 +6,7 @@ import { clerkEnabled } from "@/lib/env";
 export function SiteHeader() {
   return (
     <header className="border-b border-line bg-paper px-4 py-3">
-      <div className="mx-auto flex max-w-3xl items-center justify-between">
+      <div className="mx-auto flex max-w-3xl items-center justify-between lg:max-w-6xl">
         <Link href="/" className="flex items-center gap-2 font-display text-lg font-semibold">
           {/* eslint-disable-next-line @next/next/no-img-element -- static SVG, no optimization needed */}
           <img src="/logo.svg" alt="" width={24} height={24} />

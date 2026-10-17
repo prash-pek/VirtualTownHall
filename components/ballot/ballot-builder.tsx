@@ -153,12 +153,12 @@ export function BallotBuilder({
     return all.filter((i) => searchText(i).includes(q));
   }, [all, query, browseAll]);
   const first = mine[0];
-  // Catalog order is ballot order, so consecutive items with the same jurisdiction form one group.
+  // Catalog order is ballot order, so consecutive items in the same ballot section form one group.
   const groups = mine.reduce<{ name: string; start: number; items: { item: CatalogItem; n: number }[] }[]>(
     (acc, item, n) => {
       const last = acc.at(-1);
-      if (last && last.name === item.jurisdiction) last.items.push({ item, n: n + 1 });
-      else acc.push({ name: item.jurisdiction, start: n + 1, items: [{ item, n: n + 1 }] });
+      if (last && last.name === item.group) last.items.push({ item, n: n + 1 });
+      else acc.push({ name: item.group, start: n + 1, items: [{ item, n: n + 1 }] });
       return acc;
     },
     [],
@@ -252,14 +252,25 @@ export function BallotBuilder({
         ) : (
           <div className="flex flex-col gap-4">
             {groups.map((g) => (
-              <section key={`${g.name}-${g.start}`} aria-label={g.name} className="flex flex-col gap-1.5">
-                <h3 className="side-label text-muted">{g.name}</h3>
-                <ol start={g.start} className="flex flex-col border border-line bg-paper">
+              <section
+                key={`${g.name}-${g.start}`}
+                aria-labelledby={`group-${g.start}`}
+                className="border border-line bg-paper"
+              >
+                <h3
+                  id={`group-${g.start}`}
+                  className="flex items-baseline justify-between gap-3 border-b border-line bg-cream px-4 py-2.5"
+                >
+                  <span className="side-label">{g.name}</span>
+                  <span className="text-[12.5px] text-muted">{g.items.length}</span>
+                </h3>
+                <ol start={g.start} className="flex flex-col">
                   {g.items.map(({ item: i, n }) => (
                     <ItemRow
                       key={i.key}
                       item={i}
                       index={n}
+                      showPlace={new Set(g.items.map(({ item }) => item.jurisdiction)).size > 1}
                       action={
                         <button onClick={() => remove(i.key)} className="btn shrink-0 px-3 py-1 text-sm">
                           Remove<span className="sr-only"> {itemTitle(i)}</span>
@@ -374,7 +385,18 @@ export function BallotBuilder({
   );
 }
 
-function ItemRow({ item, index, action }: { item: CatalogItem; index?: number; action: React.ReactNode }) {
+function ItemRow({
+  item,
+  index,
+  action,
+  showPlace = true,
+}: {
+  item: CatalogItem;
+  index?: number;
+  action: React.ReactNode;
+  /** In a group where every item has the same place, the place is left off each row. */
+  showPlace?: boolean;
+}) {
   return (
     <li className="flex items-start justify-between gap-3 border-b border-line px-4 py-3 last:border-b-0">
       <div className="flex gap-3">
@@ -382,13 +404,10 @@ function ItemRow({ item, index, action }: { item: CatalogItem; index?: number; a
           <span className="w-6 shrink-0 pt-0.5 text-right text-sm font-semibold text-muted">{index}.</span>
         )}
         <div>
-          {/* In the grouped list the group heading already names the jurisdiction. */}
-          {index === undefined ? (
+          {(showPlace || !isRace(item)) && (
             <p className="text-[12.5px] text-muted">
-              {isRace(item) ? item.jurisdiction : `Measure · ${item.jurisdiction}`}
+              {isRace(item) ? item.jurisdiction : showPlace ? `Measure · ${item.jurisdiction}` : "Measure"}
             </p>
-          ) : (
-            !isRace(item) && <p className="text-[12.5px] text-muted">Measure</p>
           )}
           <Link href={itemHref(item)} className="font-semibold hover:text-olive">
             {itemTitle(item)}

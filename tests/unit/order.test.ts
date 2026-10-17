@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 
-import { compareMeasureNumbers, raceLevel, sortByLevel } from "@/lib/ballot/order";
+import { compareMeasureNumbers, measureGroup, raceGroup, raceLevel, sortByLevel } from "@/lib/ballot/order";
 import { inBallotOrder, type Catalog } from "@/lib/ballot/types";
 
 describe("ballot order", () => {
@@ -42,5 +42,14 @@ describe("ballot order", () => {
       "race:b",
       "measure:m",
     ]);
+  });
+
+  it("names the ballot section for grouping the voter's list", () => {
+    expect(raceGroup(raceLevel({ office: "State Representative", jurisdictionType: "state_house_district" }))).toBe(
+      "State House",
+    );
+    expect(raceGroup(raceLevel({ office: "US Senator", jurisdictionType: "state" }))).toBe("Federal");
+    expect(raceGroup(42)).toBe("Other races");
+    expect(measureGroup(4)).toBe("County measures");
   });
 });
