@@ -43,7 +43,7 @@ export function StepBar({ current, itemKey }: { current: Step; itemKey?: BallotK
   const currentIndex = steps.findIndex((s) => s.id === current);
   return (
     <nav aria-label="Progress" className="no-print border-b border-line bg-paper px-4">
-      <ol className="mx-auto flex max-w-3xl gap-1 lg:max-w-6xl">
+      <ol className={`mx-auto flex max-w-3xl gap-1 ${current === "items" ? "lg:max-w-6xl" : ""}`}>
         {steps.map((s, i) => {
           const done = i < currentIndex;
           const here = i === currentIndex;
