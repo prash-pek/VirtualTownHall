@@ -9,12 +9,13 @@ export default function Home() {
       <div>
         <p className="eyebrow">Oregon General Election · November 3, 2026</p>
         <h1 className="mt-2 font-display text-4xl leading-tight font-semibold tracking-tight sm:text-5xl">
-          Talk to the candidates and measures on your ballot this election
+          Talk to the candidates and measures affecting you this election
         </h1>
         <div className="title-rule" />
         <p className="mt-4 text-lg text-muted">
-          We&apos;ve brought together public information on every race this cycle, so you can ask the questions that
-          matter to you. We never tell you how to vote. We&apos;re here to make the process more personal.
+          We&apos;ve brought together publicly available information for all the races happening this cycle, so you can
+          ask the questions that matter to you. We never tell you how to vote. We&apos;re here to make the process more
+          personal.
         </p>
       </div>
       <HowItWorks />
