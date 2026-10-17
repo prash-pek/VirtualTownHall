@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+import { HowItWorks } from "@/components/how-it-works";
 import { defaultState, usStates } from "@/lib/ballot/states";
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
           summary of your own choices to fill out your paper ballot from. We never tell you how to vote.
         </p>
       </div>
+      <HowItWorks />
       <form action="/ballot" method="get" className="card flex flex-col gap-3">
         <label htmlFor="address" className="eyebrow">
           Where do you live?
