@@ -47,7 +47,7 @@ export default function Home() {
             Start
           </button>
         </div>
-        <p className="note">Your address is never saved. We just use it to find the races you can vote in.</p>
+        <p className="note">We don&apos;t store your address. We just use it to find the races you can vote in.</p>
       </form>
       <Link href="/ballot" className="link self-start">
         Or just look around

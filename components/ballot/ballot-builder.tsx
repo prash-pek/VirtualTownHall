@@ -206,7 +206,7 @@ export function BallotBuilder({
             Suggest my ballot
           </button>
         </form>
-        <p className="note">Your address is never saved. We just use it to find the races you can vote in.</p>
+        <p className="note">We don&apos;t store your address. We just use it to find the races you can vote in.</p>
         {status && (
           <p
             role="status"
