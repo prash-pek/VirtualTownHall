@@ -27,6 +27,7 @@ type Step = "ballot" | "items" | "summary";
  * underline. Phones show only the current step's label.
  */
 export function StepBar({ current, itemKey }: { current: Step; itemKey?: BallotKey }) {
+  // Item pages use the wide two-column layout, so the bar matches the header width there.
   const [ballot] = useBallot();
   const at = itemKey && ballot ? ballot.indexOf(itemKey) : -1;
   const first = ballot?.[0];
@@ -42,7 +43,7 @@ export function StepBar({ current, itemKey }: { current: Step; itemKey?: BallotK
   const currentIndex = steps.findIndex((s) => s.id === current);
   return (
     <nav aria-label="Progress" className="no-print border-b border-line bg-paper px-4">
-      <ol className="mx-auto flex max-w-3xl gap-1">
+      <ol className="mx-auto flex max-w-3xl gap-1 lg:max-w-6xl">
         {steps.map((s, i) => {
           const done = i < currentIndex;
           const here = i === currentIndex;
@@ -123,7 +124,18 @@ export function WalkPosition({ itemKey }: { itemKey: BallotKey }) {
 }
 
 /** "Your call": the voter picks; nothing is preselected. Stored in this browser only. */
-export function YourChoice({ itemKey, label, options }: { itemKey: BallotKey; label: string; options: Option[] }) {
+export function YourChoice({
+  itemKey,
+  label,
+  options,
+  children,
+}: {
+  itemKey: BallotKey;
+  label: string;
+  options: Option[];
+  /** Extra controls inside the box, e.g. the race shortlist. */
+  children?: React.ReactNode;
+}) {
   const [choice, setChoice] = useState<Choice | null>(null);
   const [saved, setSaved] = useState(false);
   const [ballot, setBallot] = useState<BallotKey[]>([]);
@@ -184,6 +196,7 @@ export function YourChoice({ itemKey, label, options }: { itemKey: BallotKey; la
             );
           })}
         </fieldset>
+        {children}
         <p className="note">Only you see this. It stays on this device.</p>
       </section>
       <nav aria-label="Ballot items, bottom" className="no-print flex flex-wrap justify-between gap-3">

@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
+import { AskJump, AskProvider, AskToggle } from "@/components/ballot/ask-context";
 import { DiscussionPanel } from "@/components/ballot/discussion-panel";
 import { EndorsedBy } from "@/components/ballot/endorsed-by";
+import { Shortlist } from "@/components/ballot/shortlist";
 import { PreviewBanner, Sourced } from "@/components/ballot/sourced";
 import { StepBar, WalkPosition, YourChoice } from "@/components/ballot/walk-through";
 import { getSession } from "@/lib/auth/session";
@@ -21,17 +23,25 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return { title: race ? `${itemTitle(race)} · TownHall AI` : "TownHall AI" };
 }
 
-export default async function RacePage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params;
+export default async function RacePage({
+  params,
+  searchParams,
+}: {
+  params: Promise<{ slug: string }>;
+  searchParams: Promise<{ ask?: string }>;
+}) {
+  const [{ slug }, { ask }] = await Promise.all([params, searchParams]);
   const race = (await getCatalog()).races.find((r) => r.slug === slug);
   if (!race) notFound();
   const preview = hasRole(await getSession(), "admin");
   const profiles = await getRaceProfiles(slug, preview);
 
+  const sides = profiles.map((p) => ({ id: p.slug, label: p.name }));
+
   return (
-    <>
+    <AskProvider sides={sides} initial={ask?.slice(0, 2000).split(",")}>
       <StepBar current="items" itemKey={race.key} />
-      <main className="page">
+      <main className="page lg:max-w-6xl">
         <WalkPosition itemKey={race.key} />
         <div>
           <p className="eyebrow">{race.jurisdiction}</p>
@@ -39,39 +49,58 @@ export default async function RacePage({ params }: { params: Promise<{ slug: str
           <div className="title-rule" />
         </div>
         {preview && profiles.some((p) => p.draft) && <PreviewBanner />}
-        <section aria-labelledby="candidates" className="flex flex-col gap-3">
-          <h2 id="candidates" className="section-title">
-            The candidates
-          </h2>
-          <ul className="grid gap-4">
-            {profiles.map((c) => (
-              <CandidateCard key={c.slug} c={c} />
-            ))}
-          </ul>
-          <p className="note">Listed in the same order as the official filings.</p>
-        </section>
-        <DiscussionPanel
-          itemKey={race.key}
-          sides={profiles.map((p) => ({ id: p.slug, label: p.name }))}
-          starters={[
-            "What are their top priorities?",
-            "Where do they stand on housing and homelessness?",
-            "What experience do they bring?",
-          ]}
-        />
-        <YourChoice
-          itemKey={race.key}
-          label={itemTitle(race)}
-          options={race.candidates.map((c) => ({ value: c.slug, label: c.name }))}
-        />
+        {/* Phones: the ask box comes first. Desktop: cards on the left, the ask box stays in view on the right. */}
+        <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_minmax(360px,420px)] lg:items-start">
+          <aside
+            id="ask"
+            aria-label="Ask the candidates"
+            className="scroll-mt-4 lg:sticky lg:top-4 lg:order-2 lg:max-h-[calc(100dvh-2rem)] lg:overflow-y-auto"
+          >
+            <DiscussionPanel
+              itemKey={race.key}
+              sides={sides}
+              layout="sidebar"
+              starters={[
+                "What are their top priorities?",
+                "Where do they stand on housing and homelessness?",
+                "What experience do they bring?",
+              ]}
+            />
+          </aside>
+          <div className="flex flex-col gap-6 lg:order-1">
+            <section aria-labelledby="candidates" className="flex flex-col gap-3">
+              <h2 id="candidates" className="section-title">
+                The candidates
+              </h2>
+              <ul className="grid gap-4">
+                {profiles.map((c) => (
+                  <CandidateCard key={c.slug} c={c} />
+                ))}
+              </ul>
+              <p className="note">Listed in the same order as the official filings.</p>
+            </section>
+            <YourChoice
+              itemKey={race.key}
+              label={itemTitle(race)}
+              options={race.candidates.map((c) => ({ value: c.slug, label: c.name }))}
+            >
+              <Shortlist itemKey={race.key} candidates={race.candidates} />
+            </YourChoice>
+          </div>
+        </div>
+        <AskJump targetId="ask" />
       </main>
-    </>
+    </AskProvider>
   );
 }
 
+/** How many positions show on the card before "More". Enough to compare at a glance without long scrolling. */
+const shownPositions = 3;
+
 function CandidateCard({ c }: { c: CandidateProfile }) {
   const intro = c.bio[0];
-  const details = [...c.bio.slice(1), ...c.positions, ...c.votingRecord];
+  const highlights = c.positions.slice(0, shownPositions);
+  const more = [...c.positions.slice(shownPositions), ...c.bio.slice(1), ...c.votingRecord];
   return (
     <li className="flex flex-col gap-3 border border-line bg-paper p-5">
       <div className="flex flex-wrap items-start justify-between gap-2">
@@ -81,20 +110,38 @@ function CandidateCard({ c }: { c: CandidateProfile }) {
             {[c.party ?? "No party listed", c.incumbent ? "Incumbent" : null, c.occupation].filter(Boolean).join(" · ")}
           </p>
         </div>
-        <span className="badge">{c.claimed ? "Claimed and verified" : "Public record only"}</span>
+        <div className="flex items-center gap-2">
+          {/* Every profile is built from public sources until candidates can claim theirs (phase 2), so every
+              card carries the same tag. Showing it on some cards and not others reads as unequal treatment. */}
+          <span className="badge">Public record only</span>
+          <AskToggle id={c.slug} name={c.name} />
+        </div>
       </div>
       {intro ? (
         <Sourced item={intro} className="text-[15px] leading-relaxed text-ink-soft" />
       ) : (
         <p className="note">Nothing published on this candidate yet.</p>
       )}
-      {details.length > 0 && (
+      {highlights.length > 0 && (
+        <div className="flex flex-col gap-2 border-l-2 border-line pl-3">
+          <p className="side-label text-muted">Where they stand</p>
+          <ul className="flex flex-col gap-2">
+            {highlights.map((p, n) => (
+              <li key={n} className="text-[15px] text-ink-soft">
+                {p.topic && <span className="font-semibold text-ink">{p.topic}: </span>}
+                <Sourced item={p} className="inline" />
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+      {more.length > 0 && (
         <details>
           <summary className="link cursor-pointer py-1 text-sm">
-            Positions and record ({c.positions.length + c.votingRecord.length}), more background ({c.bio.length - 1})
+            More on {c.name} ({more.length})
           </summary>
           <ul className="mt-3 flex flex-col gap-3">
-            {details.map((i, n) => (
+            {more.map((i, n) => (
               <li key={n}>
                 <Sourced item={i} className="text-[15px] text-ink-soft" />
               </li>
