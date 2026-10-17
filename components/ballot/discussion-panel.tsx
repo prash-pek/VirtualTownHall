@@ -92,6 +92,13 @@ export function DiscussionPanel({
         </p>
       </div>
 
+      {rounds.length > 0 && (
+        <p className="note border-l-2 border-line pl-3">
+          TownHall AI never tells you how to vote. Each answer is AI-generated from the cited public record only. Not
+          voting advice.
+        </p>
+      )}
+
       {rounds.map((r, i) => (
         <div key={i} className="flex flex-col gap-3">
           <p className="border-l-2 border-gold pl-3 font-medium">{r.question}</p>
@@ -209,7 +216,6 @@ export function DiscussionPanel({
           {error}
         </p>
       )}
-      <p className="note">AI-generated from the cited sources. It never recommends a vote. Not voting advice.</p>
     </section>
   );
 }
