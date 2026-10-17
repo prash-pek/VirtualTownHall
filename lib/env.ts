@@ -20,6 +20,7 @@ const serverEnv = z.object({
   KV_REST_API_TOKEN: z.string().min(1).optional(),
   ANTHROPIC_API_KEY: z.string().min(1).optional(),
   TOWNHALL_ANTHROPIC_API_KEY: z.string().min(1).optional(),
+  TOWNHALL_API_PROD: z.string().min(1).optional(),
 });
 
 export const env = serverEnv.parse(process.env);

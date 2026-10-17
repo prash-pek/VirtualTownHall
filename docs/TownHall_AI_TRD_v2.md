@@ -187,7 +187,7 @@ No PostGIS boundary layers are needed for suggestions. `jurisdictions.boundary` 
 - `lib/discuss/pack.ts` numbers every visible source for the item (official background, then each side's statements and endorsements) into one deterministic text block; `lib/discuss/run.ts` sends it as a cached system block with one structured-output call (`output_config.format`, zod) and `effort: low`. Model and effort come from `DISCUSS_MODEL` (default `claude-sonnet-5-5`, chosen 2026-10-16 after the discussion cost and quality eval: same quality as Opus 5.5 at half the cost) and `DISCUSS_EFFORT` (default `low`).
 - The server keeps exactly one answer per side in ballot order and drops citations to sources that don't exist. Usage and cost go to `ai_calls` (route `discuss`).
 - Not streamed, and refusal fallbacks are not enabled yet (both §5.1 defaults); add them if latency or refusals show up in `ai_calls`.
-- Needs `TOWNHALL_ANTHROPIC_API_KEY` (or `ANTHROPIC_API_KEY`) in Vercel; without it the route returns `unavailable` and the panel says the discussion isn't switched on.
+- Needs `TOWNHALL_API_PROD` (production) or `TOWNHALL_ANTHROPIC_API_KEY` (preview and dev), or `ANTHROPIC_API_KEY`, in Vercel; without it the route returns `unavailable` and the panel says the discussion isn't switched on.
 
 ### 5.5 Grounding
 - Context is the subject's `candidate_items` / measure records, passed as `document` blocks with `citations: {enabled: true}`. Citations map back to `sources` for the UI's source chips.
