@@ -2551,11 +2551,12 @@
         "guy-frankenstein",
         "keir-legree",
         "esther-leon",
-        "kenneth-landgraver-iii"
+        "kenneth-landgraver-iii",
+        "michael-a-johnson"
       ],
       "source_url": "https://multco.us/file/ballot_content_rcv_-_nov._2026/download",
       "ranked_choice": true,
-      "notes": "Multi-winner ranked choice; three councilors elected per district (City Elections Officer statement). Incumbents per portland.gov/council. Clackamas pamphlet prints 'Esther León'."
+      "notes": "Multi-winner ranked choice; three councilors elected per district (City Elections Officer statement). Incumbents per portland.gov/council. Clackamas pamphlet prints 'Esther León'. Certified write-in Michael A. Johnson (portland.gov 'Certified Write-In Candidates', AUD-141) is listed last; not printed on the ballot."
     },
     {
       "id": "portland-council-d4",
@@ -2576,11 +2577,12 @@
         "jamey-evenstar",
         "timothy-anderson",
         "eli-arnold",
-        "josh-leake"
+        "josh-leake",
+        "rachelle-a-dixon"
       ],
       "source_url": "https://multco.us/file/ballot_content_rcv_-_nov._2026/download",
       "ranked_choice": true,
-      "notes": "Multi-winner ranked choice; three councilors elected per district. Incumbents per portland.gov/council."
+      "notes": "Multi-winner ranked choice; three councilors elected per district. Incumbents per portland.gov/council. Certified write-in Rachelle A. Dixon (portland.gov 'Certified Write-In Candidates', AUD-141) is listed last; not printed on the ballot."
     },
     {
       "id": "lake-oswego-council",
@@ -6244,6 +6246,17 @@
       ]
     },
     {
+      "id": "michael-a-johnson",
+      "name": "Michael A. Johnson",
+      "race_id": "portland-council-d3",
+      "party": "Write-in candidate (not printed on the ballot)",
+      "incumbent": false,
+      "filing_source_url": "https://www.portland.gov/auditor/elections/run4office/2026-city-candidates",
+      "incumbent_source_url": "https://www.portland.gov/council",
+      "write_in": true,
+      "write_in_filing_url": "https://www.portland.gov/auditor/elections/documents/johnson-michael-aud-141/download"
+    },
+    {
       "id": "matt-schulte",
       "name": "Matt Schulte",
       "race_id": "portland-council-d4",
@@ -6364,6 +6377,17 @@
       "name_variants": [
         "Joshua J Leake"
       ]
+    },
+    {
+      "id": "rachelle-a-dixon",
+      "name": "Rachelle A. Dixon",
+      "race_id": "portland-council-d4",
+      "party": "Write-in candidate (not printed on the ballot)",
+      "incumbent": false,
+      "filing_source_url": "https://www.portland.gov/auditor/elections/run4office/2026-city-candidates",
+      "incumbent_source_url": "https://www.portland.gov/council",
+      "write_in": true,
+      "write_in_filing_url": "https://www.portland.gov/auditor/elections/documents/dixon-rachelle-aud-141/download"
     },
     {
       "id": "peren-tiemann",
