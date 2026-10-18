@@ -26,10 +26,10 @@
       "race_id": "multnomah-county-chair",
       "pick": "candidate",
       "candidate_id": "julia-brim-edwards",
-      "rank": null,
-      "statement": "The Oregonian/OregonLive endorsed Julia Brim-Edwards for Multnomah County chair.",
-      "excerpt": "Multnomah County Board of Commissioners chair: Julia Brim-Edwards",
-      "source": "https://www.oregonlive.com/opinion/2026/10/editorial-endorsements-november-2026-our-editorial-boards-voting-recommendations.html",
+      "rank": 1,
+      "statement": "The Oregonian/OregonLive endorsed Julia Brim-Edwards for Multnomah County chair (ranked #1).",
+      "excerpt": "Pragmatic and effective, she is Multnomah County’s best choice — and best chance — for righting the ship. Voters should rank Brim-Edwards as their number one candidate for chair.",
+      "source": "https://www.oregonlive.com/opinion/2026/10/editorial-endorsement-november-2026-elect-julia-brim-edwards-as-multnomah-county-chair-to-end-the-dysfunction.html",
       "date": "PENDING"
     },
     {
@@ -188,5 +188,5 @@
     }
   ],
   "unmatched": [],
-  "notes": "Source text came from an RTF Prash pasted from oregonlive.com on 2026-10-18 (the site blocks our fetchers). Ranked-choice picks carry rank: County D2 Cruz #1 only (\"rank Cruz as their number one choice\"; the board endorses only Cruz), Council D3 Torres, Novick, Morillo and D4 Zimmerman, Clark, Arnold \"in that order\". Multnomah chair: the article says the board endorses only Brim-Edwards (per the Cruz article, \"As with the chair's race, we are only endorsing Cruz\"); the chair article text was not in the paste, so the excerpt is the summary-list line and rank is null. Washington County chair = inventory race washington-county-commissioner-at-large (Treece vs Fai). Multnomah judge Pos. 2 and 14 = 4th District circuit court; \"Joe Hagedorn\" = Joseph Hagedorn, \"Diane Sykes\" = Diane S Sykes. Not endorsed (explicitly): Tiffany Koyama Lane (D3), Mitch Green (D4); other interviewed candidates mentioned without endorsement."
+  "notes": "Source text came from an RTF Prash pasted from oregonlive.com on 2026-10-18 (the site blocks our fetchers). Ranked-choice picks carry rank: Multnomah chair Brim-Edwards #1 only, County D2 Cruz #1 only (\"rank Cruz as their number one choice\"; the board endorses only Cruz), Council D3 Torres, Novick, Morillo and D4 Zimmerman, Clark, Arnold \"in that order\". Multnomah chair: Brim-Edwards #1 only (\"Voters should rank Brim-Edwards as their number one candidate for chair\"; \"we are recommending only Brim-Edwards\"); her article was pasted separately by Prash in the thread on 2026-10-18 (markdown links reduced to their text). Washington County chair = inventory race washington-county-commissioner-at-large (Treece vs Fai). Multnomah judge Pos. 2 and 14 = 4th District circuit court; \"Joe Hagedorn\" = Joseph Hagedorn, \"Diane Sykes\" = Diane S Sykes. Not endorsed (explicitly): Tiffany Koyama Lane (D3), Mitch Green (D4); other interviewed candidates mentioned without endorsement."
 }
