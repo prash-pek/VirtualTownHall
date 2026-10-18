@@ -8,6 +8,19 @@ Follow `COLLECTOR.md` (tools, content rules, excluded sources, "nothing from mod
 `docs/data-sourcing-policy.md`. Only what differs is written here. Run on Sonnet, at most 3 agents at once, one
 candidate per agent (RUNNING.md).
 
+## Token budget (Prash, 2026-10-18: keep it efficient)
+- Sonnet only, at most 3 agents at once, one candidate per agent. The orchestrator doesn't browse.
+- Skip any issue the candidate already has 1 or more items on (log `already covered`). Only extra topics from /ops
+  are searched regardless.
+- Early stop, the same rule for everyone: after 6 searches in a row with nothing usable, stop and log the remaining
+  issues as `not searched (low coverage)` in `gaps`. Low-profile candidates cost little this way.
+- One WebFetch per issue at most, and reuse a page you already fetched for every issue it covers (a campaign issues
+  page often answers 10 issues in one fetch). Ask WebFetch only for the verbatim passages you need, never a summary.
+- Later weeks: search only the /ops gap topics plus issues still in `gaps`, and add the month and year to the query
+  so results are new. Don't re-search covered issues.
+- Verifier: fetch each URL once and check all of its items in that one call.
+- Record each agent's token use in the verification report.
+
 ## Inputs
 - The candidate id and race (from `inventory.json`).
 - `data/oregon-2026/issues.json`: the issue list. Skip issues whose `levels` exclude the office
@@ -20,7 +33,7 @@ candidate per agent (RUNNING.md).
 ## Steps (the same for every candidate in the race)
 1. **Campaign issues page (T2)**, once: only if the candidate file has a confirmed `website_url`. Fetch its
    issues or priorities page and take what maps to the issue list.
-2. **Per issue**: skip it if the candidate already has 2 or more items on that topic (log `already covered`).
+2. **Per issue**: skip it if the candidate already has an item on that topic (log `already covered`).
    Otherwise run one WebSearch `"<full name>" <issue search terms>` and at most one WebFetch of the best result.
    Prefer, in order: official records (senate.gov / house.gov roll calls, oregonlegislature.gov votes, the
    office's own .gov pages; congress.gov blocks fetches), the confirmed campaign site, then the T3 outlets in
