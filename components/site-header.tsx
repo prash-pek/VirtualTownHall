@@ -13,6 +13,9 @@ export function SiteHeader() {
           TownHall AI
         </Link>
         <div className="flex items-center gap-4">
+          <Link href="/about" className="flex min-h-10 items-center text-sm font-medium hover:text-olive">
+            About
+          </Link>
           <Link href="/ballot" className="flex min-h-10 items-center text-sm font-medium hover:text-olive">
             My ballot
           </Link>

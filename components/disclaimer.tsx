@@ -13,6 +13,9 @@ export function Disclaimer() {
         .
       </p>
       <p className="mx-auto mt-2 flex max-w-3xl flex-wrap gap-x-4 gap-y-1">
+        <a className="link" href="/about">
+          About
+        </a>
         <a className="link" href="/privacy">
           Privacy
         </a>
