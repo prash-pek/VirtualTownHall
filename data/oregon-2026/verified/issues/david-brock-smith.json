@@ -1,0 +1,197 @@
+{
+  "id": "david-brock-smith",
+  "name": "David Brock Smith",
+  "race_id": "or-us-senate",
+  "sweeps": [
+    "2026-10-18"
+  ],
+  "positions": [
+    {
+      "id": "david-brock-smith-i1",
+      "topic": "cost-of-living",
+      "statement": "His campaign website's affordability section lists no new taxes, more support for local businesses and eliminating fraud.",
+      "excerpt": "That means no new taxes, more support for our local businesses, eliminating fraud",
+      "source": {
+        "url": "https://www.davidbrocksmithfororegon.com/issues",
+        "publisher": "David Brock Smith for Oregon campaign website (Issues page)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "swept_at": "2026-10-18",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited page; attribution, tier, wording ok.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "david-brock-smith-i2",
+      "topic": "housing",
+      "statement": "His campaign website says he wants solutions that encourage job growth and make homes more affordable.",
+      "excerpt": "We need common-sense solutions that incentivize job growth in our communities, help make homes more affordable",
+      "source": {
+        "url": "https://www.davidbrocksmithfororegon.com/issues",
+        "publisher": "David Brock Smith for Oregon campaign website (Issues page)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "swept_at": "2026-10-18",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited page; attribution, tier, wording ok.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "david-brock-smith-i3",
+      "topic": "homelessness",
+      "statement": "His campaign website's homelessness section calls for an end to permanent street camping.",
+      "excerpt": "an end to permanent street camping",
+      "source": {
+        "url": "https://www.davidbrocksmithfororegon.com/issues",
+        "publisher": "David Brock Smith for Oregon campaign website (Issues page)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "swept_at": "2026-10-18",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited page; attribution, tier, wording ok.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "david-brock-smith-i4",
+      "topic": "addiction-mental-health",
+      "statement": "His campaign website says Oregon needs drug and mental health treatment that works.",
+      "excerpt": "We need drug and mental health treatment that works",
+      "source": {
+        "url": "https://www.davidbrocksmithfororegon.com/issues",
+        "publisher": "David Brock Smith for Oregon campaign website (Issues page)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "swept_at": "2026-10-18",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited page; attribution, tier, wording ok.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "david-brock-smith-i5",
+      "topic": "public-safety",
+      "statement": "His campaign website says he supports law enforcement, accountability for repeat offenders and restoring consequences.",
+      "excerpt": "I support law enforcement, accountability for repeat offenders, and restoring consequences",
+      "source": {
+        "url": "https://www.davidbrocksmithfororegon.com/issues",
+        "publisher": "David Brock Smith for Oregon campaign website (Issues page)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "swept_at": "2026-10-18",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited page; attribution, tier, wording ok.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "david-brock-smith-i6",
+      "topic": "wildfire",
+      "statement": "His campaign website's wildfire section supports active forest management, fuel reduction and working with landowners.",
+      "excerpt": "active forest management, fuel reduction, and working with landowners to better protect homes and communities.",
+      "source": {
+        "url": "https://www.davidbrocksmithfororegon.com/issues",
+        "publisher": "David Brock Smith for Oregon campaign website (Issues page)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "swept_at": "2026-10-18",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited page; attribution, tier, wording ok.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "david-brock-smith-i7",
+      "topic": "immigration",
+      "statement": "OPB reported in March 2026 that, during Senate debate on a bill barring federal immigration agents from wearing masks, Brock Smith spoke about the effect of demonizing public safety officers.",
+      "excerpt": "The demonization of public safety officers is something that has a deep impact",
+      "source": {
+        "url": "https://www.opb.org/article/2026/03/05/oregon-lawmakers-approve-measure-prohibit-masks-ice-agents/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-03-06",
+        "retrieved_at": "2026-10-18"
+      },
+      "swept_at": "2026-10-18",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited page; attribution, tier, wording ok.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "david-brock-smith-i8",
+      "topic": "energy",
+      "statement": "KOIN reported on March 3, 2026 that Brock Smith voted against the POWER Act, a bill on data centers and electricity rates.",
+      "excerpt": "Brock Smith also recently voted against the POWER Act, which aims to shield Oregonians from energy rate increases driven",
+      "source": {
+        "url": "https://www.yahoo.com/news/articles/oregon-republican-lawmaker-running-unseat-220901834.html",
+        "publisher": "KOIN (syndicated on Yahoo News)",
+        "tier": "T3",
+        "published_at": "2026-03-03",
+        "retrieved_at": "2026-10-18"
+      },
+      "swept_at": "2026-10-18",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on cited page; attribution, tier, wording ok.",
+        "verified_at": "2026-10-18"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "healthcare: nothing found (2026-10-18)",
+    "education: nothing found (2026-10-18)",
+    "gun-policy: nothing found (2026-10-18)",
+    "environment: nothing found (2026-10-18)",
+    "agriculture: nothing found (2026-10-18)",
+    "abortion: nothing found (2026-10-18)",
+    "transportation: nothing found (2026-10-18)",
+    "labor: nothing found (2026-10-18)",
+    "veterans: fetch blocked (official Oregon Legislature PDF not readable), nothing collected (2026-10-18)",
+    "childcare: not searched (low coverage) (2026-10-18)",
+    "water: not searched (low coverage) (2026-10-18)",
+    "infrastructure: not searched (low coverage) (2026-10-18)",
+    "local-business: not searched (low coverage) (2026-10-18)",
+    "social-security-medicare: not searched (low coverage) (2026-10-18)",
+    "civil-rights: not searched (low coverage) (2026-10-18)",
+    "elections-democracy: not searched (low coverage) (2026-10-18)",
+    "trade: not searched (low coverage) (2026-10-18)",
+    "foreign-policy: not searched (low coverage) (2026-10-18)"
+  ],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": ""
+  }
+}
