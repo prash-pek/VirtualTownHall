@@ -35,7 +35,7 @@ export default async function SummaryPage() {
         {clerkEnabled() && !session && (
           <section className="no-print flex flex-wrap items-center justify-between gap-3 border border-line bg-paper p-5">
             <div className="max-w-md">
-              <h2 className="font-display text-xl font-semibold">Need more time?</h2>
+              <h2 className="font-display text-xl font-semibold">Need to come back to this later?</h2>
               <p className="mt-1 text-[15px] text-ink-soft">
                 Sign in and we&apos;ll keep your ballot list, so you can pick up where you left off. Your choices stay
                 on this device either way.
