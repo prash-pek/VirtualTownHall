@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 
 import { AskJump, AskProvider, AskToggle } from "@/components/ballot/ask-context";
 import { DiscussionPanel } from "@/components/ballot/discussion-panel";
+import { NotReady } from "@/components/ballot/not-ready";
 import { EndorsedBy } from "@/components/ballot/endorsed-by";
 import { Shortlist } from "@/components/ballot/shortlist";
 import { PreviewBanner, Sourced } from "@/components/ballot/sourced";
@@ -37,6 +38,10 @@ export default async function RacePage({
   const profiles = await getRaceProfiles(slug, preview);
 
   const sides = profiles.map((p) => ({ id: p.slug, label: p.name }));
+  // Questions can only be answered from published sources, so the ask box waits until something is published.
+  const canAsk = profiles.some(
+    (p) => p.bio.length || p.positions.length || p.votingRecord.length || p.endorsements.length,
+  );
 
   return (
     <AskProvider sides={sides} initial={ask?.slice(0, 2000).split(",")}>
@@ -56,16 +61,20 @@ export default async function RacePage({
             aria-label="Ask the candidates"
             className="scroll-mt-4 lg:sticky lg:top-4 lg:order-2 lg:max-h-[calc(100dvh-2rem)] lg:overflow-y-auto"
           >
-            <DiscussionPanel
-              itemKey={race.key}
-              sides={sides}
-              layout="sidebar"
-              starters={[
-                "What are their top priorities?",
-                "Where do they stand on housing and homelessness?",
-                "What experience do they bring?",
-              ]}
-            />
+            {canAsk ? (
+              <DiscussionPanel
+                itemKey={race.key}
+                sides={sides}
+                layout="sidebar"
+                starters={[
+                  "What are their top priorities?",
+                  "Where do they stand on housing and homelessness?",
+                  "What experience do they bring?",
+                ]}
+              />
+            ) : (
+              <NotReady />
+            )}
           </aside>
           <div className="flex flex-col gap-6 lg:order-1">
             <section aria-labelledby="candidates" className="flex flex-col gap-3">
@@ -74,7 +83,7 @@ export default async function RacePage({
               </h2>
               <ul className="grid gap-4">
                 {profiles.map((c) => (
-                  <CandidateCard key={c.slug} c={c} />
+                  <CandidateCard key={c.slug} c={c} canAsk={canAsk} />
                 ))}
               </ul>
               <p className="note">Listed in the same order as the official filings.</p>
@@ -88,7 +97,7 @@ export default async function RacePage({
             </YourChoice>
           </div>
         </div>
-        <AskJump targetId="ask" />
+        {canAsk && <AskJump targetId="ask" />}
       </main>
     </AskProvider>
   );
@@ -97,7 +106,7 @@ export default async function RacePage({
 /** How many positions show on the card before "More". Enough to compare at a glance without long scrolling. */
 const shownPositions = 3;
 
-function CandidateCard({ c }: { c: CandidateProfile }) {
+function CandidateCard({ c, canAsk }: { c: CandidateProfile; canAsk: boolean }) {
   const intro = c.bio[0];
   const highlights = c.positions.slice(0, shownPositions);
   const more = [...c.positions.slice(shownPositions), ...c.bio.slice(1), ...c.votingRecord];
@@ -114,7 +123,7 @@ function CandidateCard({ c }: { c: CandidateProfile }) {
           {/* Every profile is built from public sources until candidates can claim theirs (phase 2), so every
               card carries the same tag. Showing it on some cards and not others reads as unequal treatment. */}
           <span className="badge">Public record only</span>
-          <AskToggle id={c.slug} name={c.name} />
+          {canAsk && <AskToggle id={c.slug} name={c.name} />}
         </div>
       </div>
       {intro ? (

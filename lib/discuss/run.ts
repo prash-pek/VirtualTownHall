@@ -9,6 +9,8 @@ import { getMeasureDetail, getRaceProfiles } from "@/lib/ballot/content";
 import { getDb } from "@/lib/db/client";
 import { aiCalls } from "@/lib/db/schema";
 
+import { overDailyBudget } from "./budget";
+import { signRound, verifiedHistory, type SignedRound } from "./history";
 import { buildPack, normalizeAnswers, systemPrompt, type ItemPack, type PackSource, type SideAnswer } from "./pack";
 
 /**
@@ -41,14 +43,14 @@ const answersSchema = (ids: string[]) =>
     ),
   });
 
-export type Round = { question: string; responses: SideAnswer[] };
-
 export type DiscussResult = {
   responses: (SideAnswer & { label: string; sources: { n: number; url: string | null; publisher: string | null }[] })[];
+  /** Sent back with the next question so the server can tell this round wasn't edited. */
+  sig: string;
 };
 
 export class DiscussError extends Error {
-  constructor(readonly code: "not_found" | "no_content" | "unavailable" | "upstream") {
+  constructor(readonly code: "not_found" | "no_content" | "unavailable" | "upstream" | "paused") {
     super(code);
   }
 }
@@ -108,12 +110,20 @@ async function loadPack(itemKey: string, preview: boolean): Promise<ItemPack> {
 }
 
 /** `only` limits a race to the candidates the voter chose to ask; measures always ask both sides. */
-export async function discuss(itemKey: string, question: string, history: Round[], preview: boolean, only?: string[]) {
+export async function discuss(
+  itemKey: string,
+  question: string,
+  signedHistory: SignedRound[],
+  preview: boolean,
+  only?: string[],
+) {
   // Production uses TOWNHALL_API_PROD (its own spend limits); preview and dev use TOWNHALL_ANTHROPIC_API_KEY.
   // ANTHROPIC_API_KEY also works (local dev, SDK default).
   const apiKey =
     process.env.TOWNHALL_API_PROD ?? process.env.TOWNHALL_ANTHROPIC_API_KEY ?? process.env.ANTHROPIC_API_KEY;
   if (!apiKey) throw new DiscussError("unavailable");
+  if (await overDailyBudget()) throw new DiscussError("paused");
+  const history = verifiedHistory(apiKey, itemKey, signedHistory);
   const pack = await loadPack(itemKey, preview);
   if (pack.kind === "race" && only?.length) pack.sides = pack.sides.filter((s) => only.includes(s.id));
   const hasContent = pack.background.length > 0 || pack.sides.some((s) => s.facts.length || s.endorsements.length);
@@ -185,6 +195,7 @@ export async function discuss(itemKey: string, question: string, history: Round[
   if (!message.parsed_output) throw new DiscussError("upstream");
   const answers = normalizeAnswers(pack, sources, message.parsed_output.responses);
   return {
+    sig: signRound(apiKey, itemKey, { question, responses: answers }),
     responses: answers.map((a) => ({
       ...a,
       label: pack.sides.find((s) => s.id === a.side)?.label ?? a.side,

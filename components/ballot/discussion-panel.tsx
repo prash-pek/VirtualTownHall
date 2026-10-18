@@ -11,13 +11,23 @@ type Answer = {
   sourceIds: number[];
   sources: { n: number; url: string | null; publisher: string | null }[];
 };
-type Round = { question: string; responses: Answer[] };
+type Round = { question: string; responses: Answer[]; sig?: string };
 
 const errors: Record<string, string> = {
   rate_limited: "That's a lot of questions at once. Give it a minute and try again.",
   no_content: "We don't have sources for this one yet.",
   unavailable: "Questions aren't switched on yet.",
+  paused: "We've paused questions for a little while because of heavy use. Please try again later.",
 };
+
+const contactEmail = process.env.NEXT_PUBLIC_CONTACT_EMAIL;
+
+/** A prefilled email so a voter (or a candidate) can flag an answer that looks wrong. */
+function reportHref(itemKey: string, question: string) {
+  const page = typeof window === "undefined" ? "" : window.location.href;
+  const body = `Item: ${itemKey}\nPage: ${page}\nQuestion: ${question}\n\nWhat looks wrong:\n`;
+  return `mailto:${contactEmail}?subject=${encodeURIComponent("Report a mistake")}&body=${encodeURIComponent(body)}`;
+}
 
 const noAnswer = (a: Answer) => a.answer.startsWith("No answer was produced");
 /** An answer with no citations is the "our sources don't cover this" case (the prompt requires empty sourceIds). */
@@ -63,18 +73,20 @@ export function DiscussionPanel({
           itemKey,
           question: q.trim(),
           ...(selected.length < sides.length ? { sides: selected } : {}),
-          history: rounds.map((r) => ({
+          // The server only uses the last 3 rounds, and only ones it signed.
+          history: rounds.slice(-3).map((r) => ({
             question: r.question,
             responses: r.responses.map(({ side, answer, sourceIds }) => ({ side, answer, sourceIds })),
+            sig: r.sig,
           })),
         }),
       });
-      const data = (await res.json()) as { responses?: Answer[]; error?: string };
+      const data = (await res.json()) as { responses?: Answer[]; sig?: string; error?: string };
       if (!res.ok || !data.responses) {
         setError(errors[data.error ?? ""] ?? "Something went wrong. Please try again.");
         return;
       }
-      setRounds((r) => [...r, { question: q.trim(), responses: data.responses! }]);
+      setRounds((r) => [...r, { question: q.trim(), responses: data.responses!, sig: data.sig }]);
       setQuestion("");
     } catch {
       setError("Something went wrong. Please try again.");
@@ -222,9 +234,22 @@ export function DiscussionPanel({
                 .
               </p>
             )}
+            {contactEmail && (
+              <p className="text-sm text-muted">
+                Something look wrong?{" "}
+                <a className="link" href={reportHref(itemKey, r.question)}>
+                  Report a mistake
+                </a>
+              </p>
+            )}
           </div>
         );
       })}
+
+      {/* Mounted from the start so screen readers announce new answers when they arrive. */}
+      <p aria-live="polite" className="sr-only">
+        {!busy && rounds.length > 0 ? `Answers to "${rounds[rounds.length - 1]!.question}" are below.` : ""}
+      </p>
 
       {busy && (
         <div role="status" className="flex flex-col gap-2">
@@ -240,7 +265,7 @@ export function DiscussionPanel({
                 {[0, 1, 2].map((d) => (
                   <span
                     key={d}
-                    className="size-1.5 animate-pulse bg-muted"
+                    className="size-1.5 bg-muted motion-safe:animate-pulse"
                     style={{ animationDelay: `${d * 150}ms` }}
                   />
                 ))}

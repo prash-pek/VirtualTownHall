@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 
 import { AskJump } from "@/components/ballot/ask-context";
 import { DiscussionPanel } from "@/components/ballot/discussion-panel";
+import { NotReady } from "@/components/ballot/not-ready";
 import { EndorsedBy } from "@/components/ballot/endorsed-by";
 import { PreviewBanner, Sourced } from "@/components/ballot/sourced";
 import { StepBar, WalkPosition, YourChoice } from "@/components/ballot/walk-through";
@@ -52,15 +53,21 @@ export default async function MeasurePage({ params }: { params: Promise<{ slug: 
             aria-label="Ask both sides"
             className="scroll-mt-4 lg:sticky lg:top-4 lg:order-2 lg:max-h-[calc(100dvh-2rem)] lg:overflow-y-auto"
           >
-            <DiscussionPanel
-              itemKey={measure.key}
-              layout="sidebar"
-              starters={[
-                "What would this change for me?",
-                "How much will it cost?",
-                "Who supports and opposes it, and why?",
-              ]}
-            />
+            {/* Same test the discussion endpoint uses: something official or an argument must be published. */}
+            {d &&
+            (d.summary || d.yesMeans || d.noMeans || d.fiscalImpact || d.arguments.length || d.endorsements.length) ? (
+              <DiscussionPanel
+                itemKey={measure.key}
+                layout="sidebar"
+                starters={[
+                  "What would this change for me?",
+                  "How much will it cost?",
+                  "Who supports and opposes it, and why?",
+                ]}
+              />
+            ) : (
+              <NotReady />
+            )}
           </aside>
           <div className="flex flex-col gap-6 lg:order-1">
             {!d ? (
