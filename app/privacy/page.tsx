@@ -8,8 +8,8 @@ export default function PrivacyPage() {
   return (
     <LegalPage title="Privacy" updated="October 18, 2026">
       <p>
-        TownHall AI is run by Outset. We built it to help you get through your ballot, not to learn how you vote. This
-        page says what happens to the information you give us.
+        TownHall AI is run by Outset Innovation. We built it to help you get through your ballot, not to learn how you
+        vote. This page says what happens to the information you give us.
       </p>
 
       <section>
