@@ -1,12 +1,14 @@
 import Link from "next/link";
 
-import { PublishRaceForm, StatusTag } from "@/components/ops/review";
+import { PublishEverythingForm, PublishRaceForm, StatusTag } from "@/components/ops/review";
 import { getQueue } from "@/lib/review/queue";
 
 import { requireAdminPage } from "./admin-gate";
 
 // Role checks need the request; never prerender these.
 export const dynamic = "force-dynamic";
+// "Publish everything" publishes a few hundred subjects one transaction at a time.
+export const maxDuration = 300;
 
 export default async function OpsHome() {
   await requireAdminPage();
@@ -28,6 +30,13 @@ export default async function OpsHome() {
           Claude usage and costs
         </Link>
       </p>
+
+      <PublishEverythingForm
+        count={
+          q.measures.filter((m) => m.status !== "published").length +
+          candidates.filter((c) => c.status !== "published").length
+        }
+      />
 
       <section className="flex flex-col gap-3">
         <h2 className="font-display text-2xl font-semibold">
