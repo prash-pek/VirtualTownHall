@@ -29,3 +29,10 @@ None. Explicit non-endorsements (Koyama Lane "did not make our list", Mitch Gree
 - Statement nit (optional): the Treece statement says "Washington County chair"; fine and matches source.
 - Statement nit (optional): D3/D4 statements say "(ranked #n)"; consistent with Mercury/WW precedent.
 - published/date/source "PENDING" are known and not reported. JSON parses (13 entries, unmatched empty).
+
+## Update: Brim-Edwards article (2026-10-18)
+Verdict: OK (entry oregonian-multnomah-county-chair-1).
+- Explicit pick: "Voters should rank Brim-Edwards as their number one candidate for chair"; "we are recommending only Brim-Edwards". Race multnomah-county-chair and candidate julia-brim-edwards both exist in inventory-lookup.txt. Rank 1 justified.
+- Excerpt is verbatim (curly apostrophe and em dashes preserved) and is two adjacent sentences giving the reason (best choice and best chance) plus the rank-first instruction; 31 words.
+- Statement is accurate. Source URL equals the file's SOURCE line exactly.
+- Known placeholder: date and published are still "PENDING" (not counted as a defect).
