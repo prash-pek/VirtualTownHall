@@ -4,58 +4,293 @@
   "race_id": "or-senate-3",
   "party": "Republican",
   "incumbent": null,
-  "occupation": null,
+  "occupation": "Small Business Owner",
   "website_url": null,
   "website_verified_via": null,
-  "bio": [],
-  "positions": [],
+  "bio": [
+    {
+      "id": "brad-hicks-b1",
+      "topic": "custom:background",
+      "statement": "In his pamphlet statement, Hicks lists his occupation as small business owner and his background as former president and CEO of The Chamber of Medford & Jackson County.",
+      "excerpt": "Occupation: Small Business Owner Occupational Background: Former President/CEO The Chamber of Medford & Jackson County",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-b2",
+      "topic": "custom:background",
+      "statement": "Hicks lists prior governmental experience on the Oregon Transportation Vision Panel, Oregon Revenue Restructuring Task Force, Jackson County Public Safety Coordinating Council and Jackson County Airport Advisory Committee.",
+      "excerpt": "Prior Governmental Experience: Oregon Transportation Vision Panel, Oregon Revenue Restructuring Task Force, Jackson County Public Safety Coordinating Council, Jackson County Airport Advisory Committee",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "brad-hicks-p1",
+      "topic": "economy",
+      "statement": "Hicks lists affordability as a priority: lower cost of living, lower taxes, less wasteful spending, support for small businesses and tackling the housing crisis.",
+      "excerpt": "Affordability - Lower the cost of living, lower taxes, cut wasteful spending, support small businesses, and tackle Oregon's housing crisis.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-p2",
+      "topic": "environment",
+      "statement": "Hicks says he would invest in wildfire prevention, raise education standards and fully support law enforcement.",
+      "excerpt": "Invest in real wildfire prevention, raise education standards, and fully support law enforcement.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-p3",
+      "topic": "custom:governance",
+      "statement": "Hicks says he would put Southern Oregon first rather than politics or special interests.",
+      "excerpt": "Balance - Put Southern Oregon first, not politics or special interests.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-p4",
+      "topic": "taxes",
+      "statement": "Hicks says he could no longer watch Salem raise taxes and the cost of living.",
+      "excerpt": "I never planned on running for office, but I could no longer sit back and watch Salem politicians raise our taxes, drive up the cost of living, push businesses out of Oregon, and treat Southern Oregon like an afterthought.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
   "voting_record": [],
-  "endorsements": [],
+  "endorsements": [
+    {
+      "id": "brad-hicks-e1",
+      "endorser": "Oregon Coalition of Police and Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Brad Hicks's pamphlet statement lists Oregon Coalition of Police and Sheriffs as an endorser.",
+      "excerpt": "Oregon Coalition of Police and Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-e2",
+      "endorser": "Stand for Children",
+      "endorser_type": "organization",
+      "statement": "Brad Hicks's pamphlet statement lists Stand for Children as an endorser.",
+      "excerpt": "Stand for Children",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-e3",
+      "endorser": "Oregonians for Food & Shelter",
+      "endorser_type": "organization",
+      "statement": "Brad Hicks's pamphlet statement lists Oregonians for Food & Shelter as an endorser.",
+      "excerpt": "Oregonians for Food & Shelter",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-e4",
+      "endorser": "Housing Oregon Action Fund",
+      "endorser_type": "organization",
+      "statement": "Brad Hicks's pamphlet statement lists Housing Oregon Action Fund as an endorser.",
+      "excerpt": "Housing Oregon Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-e5",
+      "endorser": "Defend Small Business PAC",
+      "endorser_type": "organization",
+      "statement": "Brad Hicks's pamphlet statement lists Defend Small Business PAC as an endorser.",
+      "excerpt": "Defend Small Business PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-e6",
+      "endorser": "National Federation of Independent Business/OR PAC",
+      "endorser_type": "organization",
+      "statement": "Brad Hicks's pamphlet statement lists National Federation of Independent Business/OR PAC as an endorser.",
+      "excerpt": "National Federation of Independent Business/OR PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-e7",
+      "endorser": "Oregon Farm Bureau",
+      "endorser_type": "organization",
+      "statement": "Brad Hicks's pamphlet statement lists Oregon Farm Bureau as an endorser.",
+      "excerpt": "Oregon Farm Bureau",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-e8",
+      "endorser": "Former Senator Betsy Johnson",
+      "endorser_type": "official",
+      "statement": "Brad Hicks's pamphlet statement lists Former Senator Betsy Johnson as an endorser.",
+      "excerpt": "Former Senator Betsy Johnson",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-e9",
+      "endorser": "Former Congressman Greg Walden",
+      "endorser_type": "official",
+      "statement": "Brad Hicks's pamphlet statement lists Former Congressman Greg Walden as an endorser.",
+      "excerpt": "Former Congressman Greg Walden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-e10",
+      "endorser": "Medford Mayor Michael Zarosinski",
+      "endorser_type": "official",
+      "statement": "Brad Hicks's pamphlet statement lists Medford Mayor Michael Zarosinski as an endorser.",
+      "excerpt": "Medford Mayor Michael Zarosinski",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "brad-hicks-e11",
+      "endorser": "Phoenix Council Vice-President Larry Dickson",
+      "endorser_type": "official",
+      "statement": "Brad Hicks's pamphlet statement lists Phoenix Council Vice-President Larry Dickson as an endorser.",
+      "excerpt": "Phoenix Council Vice-President Larry Dickson",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Jackson/Josephine edition (Book 3), p. 37",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
   "gaps": [
-    "No voters' pamphlet statement found in the extract: list of candidates (p. 26) shows no '*' for him, but the extract contains no statement page for him",
-    "No sourced bio, positions or endorsements: WebFetch unavailable"
+    "Pamphlet statement refers to a full endorsement list at HicksForSenate.com (not fetched)",
+    "No official-page, interview or press-sourced items: news and third-party hosts could not be fetched (ENOTFOUND)"
   ],
   "collection_log": [
     {
       "step": "1",
-      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf (extract: 'List of Candidates' p. 26 only; no '*' beside name, no statement page in extract)",
-      "result": "nothing relevant"
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf (extract, statement p. 37; list p. 26)",
+      "result": "used"
     },
     {
       "step": "2",
-      "query_or_url": "none: WebFetch unavailable in this run (DNS failure on every host); not attempted for official pages",
-      "result": "blocked"
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
     },
     {
       "step": "3",
-      "query_or_url": "none: no campaign site fetchable",
+      "query_or_url": "campaign domain printed in pamphlet statement (non-.gov host)",
       "result": "blocked"
     },
     {
       "step": "4",
-      "query_or_url": "\"Brad Hicks\" Oregon State Senate District 3 2026",
-      "result": "nothing relevant (search returned only summaries; no page fetched, so nothing quotable)"
+      "query_or_url": "\"Brad Hicks\" State Senate District 3 2026",
+      "result": "nothing relevant (summary-only results; non-.gov fetch blocked, nothing quotable)"
     },
     {
       "step": "5",
       "query_or_url": "\"Brad Hicks\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
-      "result": "nothing relevant (Capital Chronicle/Ballotpedia pages found but WebFetch unavailable)"
+      "result": "nothing relevant (pages found (Ballotpedia stub, Capital Chronicle, OPB) but fetch blocked)"
     },
     {
       "step": "5",
       "query_or_url": "\"Brad Hicks\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
-      "result": "nothing relevant"
+      "result": "nothing relevant (different people)"
     },
     {
       "step": "5",
       "query_or_url": "\"Brad Hicks\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
-      "result": "nothing relevant (Portland Tribune pieces found but WebFetch unavailable)"
+      "result": "nothing relevant (pages found (Portland Tribune) but fetch blocked)"
     },
     {
       "step": "6",
-      "query_or_url": "none",
+      "query_or_url": "follow-up fetches of promising T3 results (non-.gov hosts)",
       "result": "blocked"
     }
   ],
-  "collection_notes": "Inventory lists Republican and Libertarian nominations. Same extract gap as Bearnson. WebFetch failed with getaddrinfo ENOTFOUND on every host (opb.org, oregoncapitalchronicle.com, ballotpedia.org) and was then denied by the harness, so steps 2-6 produced no fetched, quotable material. This file is pamphlet-only (T1). Incumbency left null: no official page fetched; inventory says incumbent=False. Re-run steps 2-6 when WebFetch works."
+  "collection_notes": "Inventory lists Republican and Libertarian nominations. Statement is the RIGHT column of Book3 p. 37 (Bearnson left). Environment limit: WebFetch reaches only .gov hosts (news/third-party hosts fail with ENOTFOUND), so steps 3, 5 and 6 produced no fetched material; steps 4-5 searches were run for every candidate in SD3-SD11 with identical queries. Items are pamphlet-only (T1). Incumbent left null (no official page stating it)."
 }

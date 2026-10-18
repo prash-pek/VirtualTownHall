@@ -3,7 +3,7 @@
   "name": "James I Manning Jr",
   "race_id": "or-senate-7",
   "party": "Democrat",
-  "incumbent": null,
+  "incumbent": true,
   "occupation": "State Senator",
   "website_url": null,
   "website_verified_via": null,
@@ -16,6 +16,32 @@
       "source": {
         "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
         "publisher": "Oregon Voters' Pamphlet 2026 General, Lane edition (Book 4), p. 40",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "james-manning-jr-b2",
+      "topic": "custom:office",
+      "statement": "Manning's official legislative page lists him as the Democrat for Senate District 7, covering Eugene communities.",
+      "excerpt": "Democrat - District 7 - Eugene communities of Bethel, Churchill, Sheldon, Cal Young, Whiteaker",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/manning",
+        "publisher": "Oregon Legislature, Senator James Manning Jr. home page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "james-manning-jr-b3",
+      "topic": "custom:background",
+      "statement": "Manning's official biography says he was appointed to the Oregon State Senate for District 7 on 12 December 2016 and retired from the US Army after over 24 years of active service.",
+      "excerpt": "James was appointed to the Oregon State Senate representing Senate District 7 on 12 December 2016.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/manning/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Senator James Manning Jr. biography",
         "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-18"
@@ -374,8 +400,8 @@
     }
   ],
   "gaps": [
-    "No voting-record items: no official legislative page fetched",
-    "No interview or press-sourced items: WebFetch unavailable"
+    "No interview or press-sourced items: WebFetch unavailable",
+    "No voting_record items: oregonlegislature.gov member pages link only to generic bill search; OLIS measure pages did not return vote tallies through the fetch tool"
   ],
   "collection_log": [
     {
@@ -385,29 +411,50 @@
     },
     {
       "step": "2",
-      "query_or_url": "none: WebFetch unavailable in this run (DNS failure on every host); not attempted for official pages",
-      "result": "blocked"
+      "query_or_url": "https://www.oregonlegislature.gov/manning",
+      "result": "used (district, incumbency)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/manning/Pages/biography.aspx",
+      "result": "used (biography)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "oregonlegislature.gov member page and OLIS bill pages for roll-call votes",
+      "result": "nothing relevant (member page links only to generic bill search; OLIS measure pages returned no vote tallies via fetch)"
     },
     {
       "step": "3",
-      "query_or_url": "none: no campaign site fetchable",
+      "query_or_url": "campaign domain printed in pamphlet statement (non-.gov host)",
       "result": "blocked"
     },
     {
       "step": "4",
-      "query_or_url": "not run (WebFetch unavailable, so no result could be quoted)",
-      "result": "blocked"
+      "query_or_url": "\"James Manning\" State Senate District 7 2026",
+      "result": "nothing relevant (summary-only results; non-.gov fetch blocked, nothing quotable)"
     },
     {
       "step": "5",
-      "query_or_url": "not run for this race group (see collection_notes)",
-      "result": "blocked"
+      "query_or_url": "\"James Manning\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (pages found (Ballotpedia, Capital Chronicle, OPB, WW) but fetch blocked)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"James Manning\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (pages found (KATU, KOIN) but fetch blocked)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"James Manning\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (pages found (Portland Tribune, Mercury) but fetch blocked)"
     },
     {
       "step": "6",
-      "query_or_url": "none",
+      "query_or_url": "follow-up fetches of promising T3 results (non-.gov hosts)",
       "result": "blocked"
     }
   ],
-  "collection_notes": "Statement is the LEFT column of Book4 p. 40 (Huff is the right column). Excerpt 'stabliza-tion' joins a hyphenated line break; verifier may normalise. Inventory name 'James I Manning Jr' matches the pamphlet. WebFetch failed with getaddrinfo ENOTFOUND on every host (opb.org, oregoncapitalchronicle.com, ballotpedia.org) and was then denied by the harness, so steps 2-6 produced no fetched, quotable material. This file is pamphlet-only (T1). Incumbency left null: no official page fetched; inventory says incumbent=True. Re-run steps 2-6 when WebFetch works."
+  "collection_notes": "Statement is the LEFT column of Book4 p. 40 (Huff is the right column). Excerpt 'stabliza-tion' joins a hyphenated line break; verifier may normalise. Inventory name 'James I Manning Jr' matches the pamphlet. Environment limit: WebFetch reaches only .gov hosts (news/third-party hosts fail with ENOTFOUND), so steps 3, 5 and 6 produced no fetched material; steps 4-5 searches were run for every candidate in SD3-SD11 with identical queries. Items are T1 (pamphlet and oregonlegislature.gov member pages). Incumbency set true only because the official member page states the Senator represents the district; inventory agrees.",
+  "incumbent_source_url": "https://www.oregonlegislature.gov/manning"
 }

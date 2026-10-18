@@ -1,0 +1,72 @@
+{
+  "id": "jonathan-abrahamsen",
+  "name": "Jonathan T Abrahamsen",
+  "race_id": "or-house-13",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "jonathan-abrahamsen-b1",
+      "topic": "custom:background",
+      "statement": "The voters' pamphlet List of Candidates shows Jonathan T Abrahamsen, Republican, as a candidate for State Representative, 13th District, marked with an asterisk meaning he chose not to submit a voters' pamphlet statement.",
+      "excerpt": "Jonathan T Abrahamsen*",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book4)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "He chose not to submit a voters' pamphlet statement (marked '*' on the List of Candidates, Book4 p.26), so no pamphlet bio, positions or endorsements exist.",
+    "No campaign website, official office page or news coverage with his own statements was found; news-domain searches returned nothing about him.",
+    "No positions or voting record were collected."
+  ],
+  "name_variants": [],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "official office page (holds no public office)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website (not fetched: non-.gov hosts unreachable in this session)",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Jonathan Abrahamsen\" House District 13 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jonathan Abrahamsen\" allowed_domains: opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jonathan Abrahamsen\" allowed_domains: kgw.com, koin.com, kptv.com, katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Jonathan Abrahamsen\" allowed_domains: portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Name spelling on ballot: 'Jonathan T Abrahamsen'. A Willamette Week 2019 item about a 'Jonathan Abrahamsen' and Mushroom PAC surfaced in search; not confirmed to be the same person and not used. Non-.gov hosts unreachable except portlandtribune.com."
+}

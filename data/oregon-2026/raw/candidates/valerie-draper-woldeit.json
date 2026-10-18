@@ -23,29 +23,39 @@
     },
     {
       "step": "2",
-      "query_or_url": "none: WebFetch unavailable in this run (DNS failure on every host); not attempted for official pages",
-      "result": "blocked"
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
     },
     {
       "step": "3",
-      "query_or_url": "none: no campaign site fetchable",
+      "query_or_url": "campaign domain printed in pamphlet statement (non-.gov host)",
       "result": "blocked"
     },
     {
       "step": "4",
-      "query_or_url": "not run (WebFetch unavailable, so no result could be quoted)",
-      "result": "blocked"
+      "query_or_url": "\"Valerie Draper Woldeit\" State Senate District 8 2026",
+      "result": "nothing relevant (summary-only results; non-.gov fetch blocked, nothing quotable)"
     },
     {
       "step": "5",
-      "query_or_url": "not run for this race group (see collection_notes)",
-      "result": "blocked"
+      "query_or_url": "\"Valerie Draper Woldeit\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (pages found (Ballotpedia, Capital Chronicle voter guide) but fetch blocked)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Valerie Draper Woldeit\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Valerie Draper Woldeit\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
     },
     {
       "step": "6",
-      "query_or_url": "none",
+      "query_or_url": "follow-up fetches of promising T3 results (non-.gov hosts)",
       "result": "blocked"
     }
   ],
-  "collection_notes": "Not a pamphlet filer. WebFetch failed with getaddrinfo ENOTFOUND on every host (opb.org, oregoncapitalchronicle.com, ballotpedia.org) and was then denied by the harness, so steps 2-6 produced no fetched, quotable material. This file is pamphlet-only (T1). Incumbency left null: no official page fetched; inventory says incumbent=False. Re-run steps 2-6 when WebFetch works."
+  "collection_notes": "Not a pamphlet filer. Environment limit: WebFetch reaches only .gov hosts (news/third-party hosts fail with ENOTFOUND), so steps 3, 5 and 6 produced no fetched material; steps 4-5 searches were run for every candidate in SD3-SD11 with identical queries. Items are pamphlet-only (T1). Incumbent left null (no official page stating it)."
 }

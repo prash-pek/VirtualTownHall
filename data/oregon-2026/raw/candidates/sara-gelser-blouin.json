@@ -3,7 +3,7 @@
   "name": "Sara Gelser Blouin",
   "race_id": "or-senate-8",
   "party": "Democrat",
-  "incumbent": null,
+  "incumbent": true,
   "occupation": "State Senator",
   "website_url": null,
   "website_verified_via": null,
@@ -16,6 +16,32 @@
       "source": {
         "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf",
         "publisher": "Oregon Voters' Pamphlet 2026 General, Benton/Linn/Lane edition (Book 6), p. 38",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "sara-gelser-blouin-b2",
+      "topic": "custom:office",
+      "statement": "Gelser Blouin's official legislative page says she represents Senate District 8.",
+      "excerpt": "It is my privilege to represent Senate District 8",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/gelser",
+        "publisher": "Oregon Legislature, Senator Sara Gelser Blouin home page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "sara-gelser-blouin-b3",
+      "topic": "custom:background",
+      "statement": "Gelser Blouin's official biography says she chairs the Senate Human Services Committee and was elected to the Oregon State Senate in 2014.",
+      "excerpt": "She is Chair of the Senate Human Services Committee.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/gelser/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Senator Sara Gelser Blouin biography",
         "tier": "T1",
         "published_at": null,
         "retrieved_at": "2026-10-18"
@@ -304,7 +330,8 @@
   ],
   "gaps": [
     "The legislative actions above are the candidate's own pamphlet claims; no official voting-record page fetched, so voting_record is empty",
-    "No interview or press-sourced items: WebFetch unavailable"
+    "No interview or press-sourced items: WebFetch unavailable",
+    "No voting_record items: oregonlegislature.gov member pages link only to generic bill search; OLIS measure pages did not return vote tallies through the fetch tool"
   ],
   "collection_log": [
     {
@@ -314,29 +341,50 @@
     },
     {
       "step": "2",
-      "query_or_url": "none: WebFetch unavailable in this run (DNS failure on every host); not attempted for official pages",
-      "result": "blocked"
+      "query_or_url": "https://www.oregonlegislature.gov/gelser",
+      "result": "used (district, incumbency)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/gelser/Pages/biography.aspx",
+      "result": "used (biography)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "oregonlegislature.gov member page and OLIS bill pages for roll-call votes",
+      "result": "nothing relevant (member page links only to generic bill search; OLIS measure pages returned no vote tallies via fetch)"
     },
     {
       "step": "3",
-      "query_or_url": "none: no campaign site fetchable",
+      "query_or_url": "campaign domain printed in pamphlet statement (non-.gov host)",
       "result": "blocked"
     },
     {
       "step": "4",
-      "query_or_url": "not run (WebFetch unavailable, so no result could be quoted)",
-      "result": "blocked"
+      "query_or_url": "\"Sara Gelser Blouin\" State Senate District 8 2026",
+      "result": "nothing relevant (summary-only results; non-.gov fetch blocked, nothing quotable)"
     },
     {
       "step": "5",
-      "query_or_url": "not run for this race group (see collection_notes)",
-      "result": "blocked"
+      "query_or_url": "\"Sara Gelser Blouin\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (pages found (Ballotpedia, Capital Chronicle, OPB) but fetch blocked)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sara Gelser Blouin\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant (pages found (KATU, KPTV, KOIN) but fetch blocked)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Sara Gelser Blouin\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (pages found (Portland Tribune) but fetch blocked)"
     },
     {
       "step": "6",
-      "query_or_url": "none",
+      "query_or_url": "follow-up fetches of promising T3 results (non-.gov hosts)",
       "result": "blocked"
     }
   ],
-  "collection_notes": "Statement on Book6 p. 38 (single-candidate page; opponent Valerie Draper Woldeit did not file a statement). Ballot name 'Sara Gelser Blouin'. WebFetch failed with getaddrinfo ENOTFOUND on every host (opb.org, oregoncapitalchronicle.com, ballotpedia.org) and was then denied by the harness, so steps 2-6 produced no fetched, quotable material. This file is pamphlet-only (T1). Incumbency left null: no official page fetched; inventory says incumbent=True. Re-run steps 2-6 when WebFetch works."
+  "collection_notes": "Statement on Book6 p. 38 (single-candidate page; opponent Valerie Draper Woldeit did not file a statement). Ballot name 'Sara Gelser Blouin'. Environment limit: WebFetch reaches only .gov hosts (news/third-party hosts fail with ENOTFOUND), so steps 3, 5 and 6 produced no fetched material; steps 4-5 searches were run for every candidate in SD3-SD11 with identical queries. Items are T1 (pamphlet and oregonlegislature.gov member pages). Incumbency set true only because the official member page states the Senator represents the district; inventory agrees.",
+  "incumbent_source_url": "https://www.oregonlegislature.gov/gelser"
 }

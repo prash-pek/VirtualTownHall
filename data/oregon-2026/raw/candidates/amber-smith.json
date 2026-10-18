@@ -1,0 +1,77 @@
+{
+  "id": "amber-smith",
+  "name": "Amber Smith",
+  "race_id": "or-house-12",
+  "party": "Democrat",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "amber-smith-b1",
+      "topic": "custom:background",
+      "statement": "The voters' pamphlet List of Candidates shows Amber Smith, Democrat, as a candidate for State Representative, 12th District, marked with an asterisk meaning she chose not to submit a voters' pamphlet statement.",
+      "excerpt": "Amber Smith*",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book4)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "She chose not to submit a voters' pamphlet statement (marked '*' on the pamphlet's List of Candidates, Book4 p.26 and Book7 p.26), so no pamphlet bio, positions or endorsements exist.",
+    "No campaign website, official office page or news coverage with her own statements was found; Portland Tribune search snippets say she has no campaign website or social media presence (not fetched).",
+    "No positions or voting record were collected; she holds no public office per available sources."
+  ],
+  "name_variants": [],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "official office page (holds no public office)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website (not fetched: non-.gov hosts unreachable in this session)",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Amber Smith\" House District 12 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Amber Smith\" allowed_domains: opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Amber Smith\" allowed_domains: kgw.com, koin.com, kptv.com, katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Amber Smith\" allowed_domains: portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2026/04/17/commentary-a-measure-of-independence-in-oregons-political-parties/",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Surname-only noise file: the extract for amber-smith matches every 'Smith'; only the List of Candidates entries (Book4 p.26 and Book7 p.26, 'Amber Smith*' under 12th District) belong to her. Step 1 result: no statement (non-filer). Name and party match inventory. Search results: Oregon Capital Chronicle voter guide says neither HD12 candidate responded to questions; former Rep. Charlie Conrad (write-in/independent) reportedly withdrew (not fetched). Non-.gov hosts unreachable except portlandtribune.com."
+}
