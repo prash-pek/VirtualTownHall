@@ -1,0 +1,61 @@
+{
+  "id": "clay-bearnson",
+  "name": "Clay Bearnson",
+  "race_id": "or-senate-3",
+  "party": "Independent",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No voters' pamphlet statement found in the extract: list of candidates (p. 26) shows no '*' for him, but the extract contains no statement page for him",
+    "No sourced bio, positions or endorsements: WebFetch unavailable"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf (extract: 'List of Candidates' p. 26 only; no '*' beside name, no statement page in extract)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: WebFetch unavailable in this run (DNS failure on every host); not attempted for official pages",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign site fetchable",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Clay Bearnson\" Oregon State Senate District 3 2026",
+      "result": "nothing relevant (search returned only summaries; no page fetched, so nothing quotable)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Clay Bearnson\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "nothing relevant (Capital Chronicle/Ballotpedia pages found but WebFetch unavailable)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Clay Bearnson\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Clay Bearnson\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant (Portland Tribune pieces found but WebFetch unavailable)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "none",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Inventory lists Independent and Pacific Green nominations. Extract has no statement page for him although the list page does not mark him as a non-filer: verifier should check Book3 for an SD3 page showing Bearnson and Hicks. WebFetch failed with getaddrinfo ENOTFOUND on every host (opb.org, oregoncapitalchronicle.com, ballotpedia.org) and was then denied by the harness, so steps 2-6 produced no fetched, quotable material. This file is pamphlet-only (T1). Incumbency left null: no official page fetched; inventory says incumbent=False. Re-run steps 2-6 when WebFetch works."
+}

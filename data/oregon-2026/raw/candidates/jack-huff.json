@@ -1,0 +1,118 @@
+{
+  "id": "jack-huff",
+  "name": "Jack (Jake) D Huff",
+  "race_id": "or-senate-7",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": "FAA (Retired)",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "jack-huff-b1",
+      "topic": "custom:background",
+      "statement": "In his pamphlet statement, Huff lists his occupation as retired from the FAA, where he worked as a radar maintenance technician from 1989 to 2025.",
+      "excerpt": "Occupation: FAA (Retired) Occupational Background: FAA Radar Maintenance Technician (1989-2025).",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Lane edition (Book 4), p. 40",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "jack-huff-p1",
+      "topic": "taxes",
+      "statement": "Huff says he wants to revise state regulatory and tax policies based on outcome results.",
+      "excerpt": "Revising bureaucratic state regulatory and tax policies based on outcome results",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Lane edition (Book 4), p. 40",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "jack-huff-p2",
+      "topic": "economy",
+      "statement": "Huff says he commits to encouraging business and employment growth.",
+      "excerpt": "Encouraging business/employment growth with practical policies that work",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Lane edition (Book 4), p. 40",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "jack-huff-p3",
+      "topic": "housing",
+      "statement": "Huff says he commits to seeking ways to increase housing supply while reducing costs.",
+      "excerpt": "Seeking and implementing ways to increase housing supply while reducing costs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Lane edition (Book 4), p. 40",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "jack-huff-p4",
+      "topic": "social-services",
+      "statement": "Huff says he commits to drastically reducing and eliminating homelessness.",
+      "excerpt": "Drastically reduce and eliminate homelessness with practical realistic solutions",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Lane edition (Book 4), p. 40",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "Pamphlet statement lists no endorsers",
+    "No official-page, interview or press-sourced items: WebFetch unavailable"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf (extract sos-rest-of-oregon, p. 40)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: WebFetch unavailable in this run (DNS failure on every host); not attempted for official pages",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign site fetchable",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "not run (WebFetch unavailable, so no result could be quoted)",
+      "result": "blocked"
+    },
+    {
+      "step": "5",
+      "query_or_url": "not run for this race group (see collection_notes)",
+      "result": "blocked"
+    },
+    {
+      "step": "6",
+      "query_or_url": "none",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "jack-huff.txt extract contains only the list page; his statement is on Book4 p. 40 (right column), taken from the james-manning-jr.txt extract, same edition URL. Ballot name 'Jack (Jake) D Huff'; pamphlet contact line 'Jake4Oregon'. WebFetch failed with getaddrinfo ENOTFOUND on every host (opb.org, oregoncapitalchronicle.com, ballotpedia.org) and was then denied by the harness, so steps 2-6 produced no fetched, quotable material. This file is pamphlet-only (T1). Incumbency left null: no official page fetched; inventory says incumbent=False. Re-run steps 2-6 when WebFetch works."
+}

@@ -1,0 +1,118 @@
+{
+  "id": "caleb-ticer",
+  "name": "Caleb Ticer",
+  "race_id": "or-senate-6",
+  "party": "Libertarian",
+  "incumbent": null,
+  "occupation": "Retail Manager",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "caleb-ticer-b1",
+      "topic": "custom:background",
+      "statement": "In his pamphlet statement, Ticer lists his occupation as retail manager, with about 10 years in retail across Senate District 6, some college at LCC and no prior governmental experience.",
+      "excerpt": "Occupation: Retail Manager Occupational Background: Approximately 10 years in retail across OR-SD6, beginning in sales with a major corporation and advancing into management",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Lane edition (Book 4), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "caleb-ticer-b2",
+      "topic": "custom:background",
+      "statement": "Ticer cites community work including facilitating donations that supplied more than 30,000 meals, hand-cleaning 21 miles of highway and connecting eight schools and four libraries with literacy grants.",
+      "excerpt": "helping facilitate donations that supplied more than 30,000 meals, helping clean 21 miles of highway by hand, and connecting eight schools and four libraries with corporate literacy grants.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Lane edition (Book 4), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "caleb-ticer-p1",
+      "topic": "economy",
+      "statement": "Ticer says he wants to create more opportunities for good jobs, increase domestic food production and help bring down grocery costs.",
+      "excerpt": "I want to create more opportunities for good jobs, manage our forests effectively, increase domestic food production and help bring down grocery costs.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Lane edition (Book 4), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "caleb-ticer-p2",
+      "topic": "environment",
+      "statement": "Ticer says he wants to manage forests effectively.",
+      "excerpt": "manage our forests effectively",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Lane edition (Book 4), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "caleb-ticer-p3",
+      "topic": "civil-rights",
+      "statement": "As a Libertarian, Ticer says government and corporations must be accountable to the people, while individuals and communities should have the freedom to build their own future.",
+      "excerpt": "As a Libertarian, I believe government and corporations must be accountable to the people, while individuals and communities should have the freedom to build their own future.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Lane edition (Book 4), p. 39",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "Pamphlet statement lists no endorsers",
+    "No official-page, interview or press-sourced items: WebFetch unavailable"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf (extract sos-rest-of-oregon, p. 39)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: WebFetch unavailable in this run (DNS failure on every host); not attempted for official pages",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign site fetchable",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "not run (WebFetch unavailable, so no result could be quoted)",
+      "result": "blocked"
+    },
+    {
+      "step": "5",
+      "query_or_url": "not run for this race group (see collection_notes)",
+      "result": "blocked"
+    },
+    {
+      "step": "6",
+      "query_or_url": "none",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Statement is the RIGHT column of Book4 p. 39. WebFetch failed with getaddrinfo ENOTFOUND on every host (opb.org, oregoncapitalchronicle.com, ballotpedia.org) and was then denied by the harness, so steps 2-6 produced no fetched, quotable material. This file is pamphlet-only (T1). Incumbency left null: no official page fetched; inventory says incumbent=False. Re-run steps 2-6 when WebFetch works."
+}

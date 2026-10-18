@@ -1,0 +1,412 @@
+{
+  "id": "deb-patterson",
+  "name": "Deb Patterson",
+  "race_id": "or-senate-10",
+  "party": "Democrat",
+  "incumbent": null,
+  "occupation": "State Senator",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "deb-patterson-b1",
+      "topic": "custom:background",
+      "statement": "In her pamphlet statement, Patterson lists her occupation as State Senator, with a background as ordained clergy and executive director of the International Parish Nurse Resource Center.",
+      "excerpt": "Occupation: State Senator Occupational Background: Ordained clergy; Executive Director, International Parish Nurse Resource Center; Vice President, Deaconess Foundation",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "deb-patterson-p1",
+      "topic": "taxes",
+      "statement": "Patterson says she is fighting for working families by closing tax loopholes for wealthy corporations and expanding a tax credit for 200,000 low-income Oregon families.",
+      "excerpt": "Fighting for working families by closing Trump’s tax loopholes for wealthy corporations and expanding a tax credit for 200,000 low-income Oregon families.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-p2",
+      "topic": "economy",
+      "statement": "Patterson says she is working to reduce costs by taking on utility companies to lower rates.",
+      "excerpt": "Reducing costs by taking on utility companies to lower rates and holding big corporations responsible for raising prices to pad their profits.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-p3",
+      "topic": "healthcare",
+      "statement": "Patterson says she is working to make healthcare more affordable by capping the price of essential medications and protecting access to healthcare.",
+      "excerpt": "Making healthcare more affordable by taking on Big Pharma to cap the price of essential medications and protecting access to healthcare for over one million Oregonians.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-p4",
+      "topic": "education",
+      "statement": "Patterson says she is championing investments in public schools and pushing for smaller classes.",
+      "excerpt": "Championing historic investments in public schools, pushing for smaller classes, and ensuring that funds are spent improving educational outcomes for our children.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-p5",
+      "topic": "housing",
+      "statement": "Patterson says she is addressing homelessness by securing funding for affordable housing, public safety and resources to improve quality of life.",
+      "excerpt": "Addressing homelessness by securing funding for affordable housing, public safety, and the needed resources to improve quality of life for all Oregonians.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [
+    {
+      "id": "deb-patterson-e1",
+      "endorser": "U.S. Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Deb Patterson's pamphlet statement lists U.S. Senator Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senator Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e2",
+      "endorser": "U.S. Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Deb Patterson's pamphlet statement lists U.S. Senator Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senator Jeff Merkley",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e3",
+      "endorser": "Attorney General Dan Rayfield",
+      "endorser_type": "official",
+      "statement": "Deb Patterson's pamphlet statement lists Attorney General Dan Rayfield as an endorser.",
+      "excerpt": "Attorney General Dan Rayfield",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e4",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e5",
+      "endorser": "Trooper PAC",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists Trooper PAC as an endorser.",
+      "excerpt": "Trooper PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e6",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e7",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e8",
+      "endorser": "Oregon Education Association - PAC",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists Oregon Education Association - PAC as an endorser.",
+      "excerpt": "Oregon Education Association - PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e9",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e10",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e11",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e12",
+      "endorser": "IBEW 48",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists IBEW 48 as an endorser.",
+      "excerpt": "IBEW 48",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e13",
+      "endorser": "UFCW 555",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists UFCW 555 as an endorser.",
+      "excerpt": "UFCW 555",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e14",
+      "endorser": "OR Labor Federation, AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists OR Labor Federation, AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation, AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e15",
+      "endorser": "Housing Oregon Action Fund",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists Housing Oregon Action Fund as an endorser.",
+      "excerpt": "Housing Oregon Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e16",
+      "endorser": "PCUN",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists PCUN as an endorser.",
+      "excerpt": "PCUN",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e17",
+      "endorser": "The Mother PAC",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists The Mother PAC as an endorser.",
+      "excerpt": "The Mother PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e18",
+      "endorser": "Basic Rights Oregon PAC",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists Basic Rights Oregon PAC as an endorser.",
+      "excerpt": "Basic Rights Oregon PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e19",
+      "endorser": "APANO Action Fund",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists APANO Action Fund as an endorser.",
+      "excerpt": "APANO Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "deb-patterson-e20",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Deb Patterson's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet 2026 General, Marion/Polk edition (Book 8), p. 41",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "gaps": [
+    "No voting-record items: no official legislative page fetched (opponent's pamphlet statement makes claims about Patterson's votes; not used as evidence)",
+    "No interview or press-sourced items: WebFetch unavailable"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf (extract sos-rest-of-oregon, p. 41)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: WebFetch unavailable in this run (DNS failure on every host); not attempted for official pages",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign site fetchable",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "not run (WebFetch unavailable, so no result could be quoted)",
+      "result": "blocked"
+    },
+    {
+      "step": "5",
+      "query_or_url": "not run for this race group (see collection_notes)",
+      "result": "blocked"
+    },
+    {
+      "step": "6",
+      "query_or_url": "none",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Statement is the LEFT column of Book8 p. 41 (Plowhead is the right column). The same page also appears in Book9. WebFetch failed with getaddrinfo ENOTFOUND on every host (opb.org, oregoncapitalchronicle.com, ballotpedia.org) and was then denied by the harness, so steps 2-6 produced no fetched, quotable material. This file is pamphlet-only (T1). Incumbency left null: no official page fetched; inventory says incumbent=True. Re-run steps 2-6 when WebFetch works."
+}

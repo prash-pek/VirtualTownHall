@@ -1,0 +1,51 @@
+{
+  "id": "valerie-draper-woldeit",
+  "name": "Valerie Draper Woldeit",
+  "race_id": "or-senate-8",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "Candidate chose not to submit a voters' pamphlet statement (List of Candidates p. 26 marks her with '*')",
+    "No sourced bio, positions or endorsements: WebFetch unavailable"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf (List of Candidates, p. 26: 'Valerie Draper Woldeit*' = chose not to submit a statement)",
+      "result": "nothing relevant (no statement filed)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: WebFetch unavailable in this run (DNS failure on every host); not attempted for official pages",
+      "result": "blocked"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none: no campaign site fetchable",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "not run (WebFetch unavailable, so no result could be quoted)",
+      "result": "blocked"
+    },
+    {
+      "step": "5",
+      "query_or_url": "not run for this race group (see collection_notes)",
+      "result": "blocked"
+    },
+    {
+      "step": "6",
+      "query_or_url": "none",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Not a pamphlet filer. WebFetch failed with getaddrinfo ENOTFOUND on every host (opb.org, oregoncapitalchronicle.com, ballotpedia.org) and was then denied by the harness, so steps 2-6 produced no fetched, quotable material. This file is pamphlet-only (T1). Incumbency left null: no official page fetched; inventory says incumbent=False. Re-run steps 2-6 when WebFetch works."
+}
