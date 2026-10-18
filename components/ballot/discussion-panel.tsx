@@ -2,6 +2,8 @@
 
 import { useState } from "react";
 
+import { useAsk } from "./ask-context";
+
 type Answer = {
   side: string;
   label: string;
@@ -30,12 +32,20 @@ export function DiscussionPanel({
   itemKey,
   starters,
   sides = [],
+  layout = "page",
 }: {
   itemKey: string;
   starters: string[];
   sides?: { id: string; label: string }[];
+  /** "sidebar": a narrow column beside the cards, so answers always stack. */
+  layout?: "page" | "sidebar";
 }) {
-  const [selected, setSelected] = useState<string[]>(() => sides.map((s) => s.id));
+  // On a race page the selection is shared with the candidate cards (AskProvider); elsewhere it's local.
+  const shared = useAsk();
+  // Nobody is selected to start: the voter picks who they want to hear from.
+  const [local, setLocal] = useState<string[]>([]);
+  const selected = shared?.selected ?? local;
+  const setSelected = shared?.setSelected ?? setLocal;
   const [rounds, setRounds] = useState<Round[]>([]);
   const [question, setQuestion] = useState("");
   const [busy, setBusy] = useState(false);
@@ -75,15 +85,18 @@ export function DiscussionPanel({
 
   // Repeated "not covered" answers read as noise; show them as one line instead.
   const grouped = (r: Round) => r.responses.filter(uncovered).length >= 2;
-  const toggle = (id: string) =>
-    setSelected((cur) =>
-      cur.includes(id)
-        ? cur.filter((x) => x !== id)
-        : sides.filter((s) => s.id === id || cur.includes(s.id)).map((s) => s.id),
-    );
+  const toggle =
+    shared?.toggle ??
+    ((id: string) =>
+      setLocal((cur) =>
+        cur.includes(id)
+          ? cur.filter((x) => x !== id)
+          : sides.filter((s) => s.id === id || cur.includes(s.id)).map((s) => s.id),
+      ));
 
   // Equal columns for 2 or 3 sides on desktop; 4 or more stack as equal cards. Phones always stack. Never tabs.
-  const cols = (n: number) => (n === 2 ? "sm:grid-cols-2" : n === 3 ? "sm:grid-cols-3" : "");
+  const cols = (n: number) =>
+    layout === "sidebar" ? "" : n === 2 ? "sm:grid-cols-2" : n === 3 ? "sm:grid-cols-3" : "";
   const asking =
     sides.length > 0
       ? sides.filter((s) => selected.includes(s.id))
@@ -106,6 +119,43 @@ export function DiscussionPanel({
           Answers come only from the sources on this page. If they don&apos;t cover something, you&apos;ll hear that.
         </p>
       </div>
+
+      {sides.length >= 2 && (
+        <fieldset className="flex flex-col gap-2">
+          <div className="flex items-baseline justify-between gap-3">
+            <legend className="side-label float-left">Who you&apos;re asking</legend>
+            <span className="flex gap-3 text-sm">
+              <button type="button" className="link" onClick={() => setSelected(sides.map((s) => s.id))}>
+                Everyone
+              </button>
+              <button type="button" className="link" onClick={() => setSelected([])}>
+                Clear
+              </button>
+            </span>
+          </div>
+          <div className="flex flex-wrap gap-2">
+            {sides.map((s) => {
+              const on = selected.includes(s.id);
+              return (
+                <button
+                  key={s.id}
+                  type="button"
+                  aria-pressed={on}
+                  onClick={() => toggle(s.id)}
+                  className={`min-h-10 px-3 text-left text-sm ${
+                    on
+                      ? "border-2 border-ink bg-paper font-semibold"
+                      : "border border-dashed border-line-strong bg-cream text-ink-soft hover:border-ink"
+                  }`}
+                >
+                  {s.label}
+                </button>
+              );
+            })}
+          </div>
+          {selected.length === 0 && <p className="note">Pick who you&apos;d like to hear from, then ask away.</p>}
+        </fieldset>
+      )}
 
       {rounds.length > 0 && (
         <p className="note border-l-2 border-line pl-3">
@@ -200,43 +250,16 @@ export function DiscussionPanel({
         </div>
       )}
 
-      {sides.length > 2 && (
-        <details className="border border-line bg-cream px-3.5 py-2">
-          <summary className="flex min-h-9 cursor-pointer items-center gap-2 text-sm">
-            {selected.length === sides.length
-              ? `Asking all ${sides.length} candidates`
-              : `Asking ${selected.length} of ${sides.length} candidates`}{" "}
-            <span className="link">Choose</span>
-          </summary>
-          <div className="mt-2 flex gap-4 text-sm">
-            <button type="button" className="link py-1" onClick={() => setSelected(sides.map((s) => s.id))}>
-              Select all
-            </button>
-            <button type="button" className="link py-1" onClick={() => setSelected([])}>
-              Clear
-            </button>
-          </div>
-          <fieldset className="mt-2 grid gap-1 sm:grid-cols-2">
-            <legend className="sr-only">Candidates to ask</legend>
-            {sides.map((s) => (
-              <label key={s.id} className="flex min-h-9 items-center gap-2 text-sm">
-                <input
-                  type="checkbox"
-                  className="size-4 accent-ink"
-                  checked={selected.includes(s.id)}
-                  onChange={() => toggle(s.id)}
-                />
-                {s.label}
-              </label>
-            ))}
-          </fieldset>
-        </details>
-      )}
-
       {rounds.length === 0 && !busy && (
         <div className="flex flex-wrap gap-2">
           {starters.map((s) => (
-            <button key={s} type="button" onClick={() => void ask(s)} disabled={busy} className="chip">
+            <button
+              key={s}
+              type="button"
+              onClick={() => void ask(s)}
+              disabled={busy || (sides.length > 0 && selected.length === 0)}
+              className="chip"
+            >
               {s}
             </button>
           ))}

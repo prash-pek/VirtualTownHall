@@ -9,6 +9,8 @@ export type CatalogRace = {
   districtLabel: string | null;
   jurisdiction: string;
   jurisdictionSlug: string;
+  /** Section of the printed ballot this race sits in, e.g. "State House" (lib/ballot/order.ts). */
+  group: string;
   candidates: CatalogCandidate[];
 };
 
@@ -19,6 +21,8 @@ export type CatalogMeasure = {
   title: string;
   jurisdiction: string;
   jurisdictionSlug: string;
+  /** Section of the printed ballot, e.g. "County measures". */
+  group: string;
 };
 
 /** Races and measures are each already in printed-ballot order; races come before measures. */
