@@ -1,0 +1,66 @@
+{
+  "id": "taylor-rickey",
+  "name": "Taylor A Rickey",
+  "race_id": "or-house-20",
+  "party": "Libertarian",
+  "incumbent": false,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/evans",
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "name_variants": [
+    "Taylor Rickey"
+  ],
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "Candidate chose not to submit a voters' pamphlet statement: marked '*' on the pamphlet's List of Candidates (Book 8, p. 26, https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf; footnote '*Candidate chose not to submit a voters' pamphlet statement.').",
+    "No official page, campaign website or T2 source identified.",
+    "No T3 article could be fetched in this session (news hosts blocked); search snippets were not used."
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf (List of Candidates, p. 26 and Index of Candidates in pamphlet extract)",
+      "result": "used (candidate marked * : chose not to submit a statement)"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Taylor Rickey\" House District 20 2026",
+      "result": "blocked (hits returned only on third-party hosts, not fetchable in this session; nothing cited)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Taylor Rickey\" [opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org] group a",
+      "result": "blocked (hits returned only on third-party hosts, not fetchable in this session; nothing cited)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Taylor Rickey\" [kgw.com, koin.com, kptv.com, katu.com] group b",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Taylor Rickey\" [portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com] group c",
+      "result": "blocked (hits returned only on third-party hosts, not fetchable in this session; nothing cited)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "none run",
+      "result": "blocked (T3 hosts not fetchable in this session; no T3 items created from snippets)"
+    }
+  ],
+  "collection_notes": "Name on ballot 'Taylor A Rickey'; searches used 'Taylor Rickey' (name_variants). Inventory matches (Libertarian, non-incumbent). Zero items: no collectable statement. Search snippets (Ballotpedia/Capital Chronicle) mention prior campaigns in 2020 and 2022 but nothing could be fetched, so nothing is cited."
+}

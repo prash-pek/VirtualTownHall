@@ -1,0 +1,436 @@
+{
+  "id": "tom-andersen",
+  "name": "Tom Andersen",
+  "race_id": "or-house-19",
+  "party": "Democrat",
+  "incumbent": true,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/andersen",
+  "occupation": "State Representative",
+  "website_url": "https://electtomandersen.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+  "bio": [
+    {
+      "id": "tom-andersen-b1",
+      "topic": "custom:background",
+      "statement": "Andersen's pamphlet statement lists his occupation as State Representative and his occupational background as Oregon trial attorney from 1979 to 2024.",
+      "excerpt": "Occupation: State Representative Occupational Background: Oregon Trial Attorney, 1979-2024",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-b2",
+      "topic": "custom:background",
+      "statement": "His official legislature page says he represents House District 19, which includes South Salem.",
+      "excerpt": "I am proud to represent my constituents in House District 19, which includes South Salem,",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/andersen",
+        "publisher": "Oregon Legislature, official member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-b3",
+      "topic": "custom:background",
+      "statement": "His official page says he served on the Salem City Council for eight years.",
+      "excerpt": "I served on Salem City Council for eight years;",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/andersen",
+        "publisher": "Oregon Legislature, official member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-b4",
+      "topic": "custom:background",
+      "statement": "His official page says he was first elected in the 2022 elections.",
+      "excerpt": "I was first elected during the 2022 elections.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/andersen",
+        "publisher": "Oregon Legislature, official member page",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "tom-andersen-p1",
+      "topic": "technology",
+      "statement": "In his pamphlet statement, Andersen lists opposing unchecked data center development in Salem among his goals for his next term.",
+      "excerpt": "Oppose unchecked data center development in Salem",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-p2",
+      "topic": "housing",
+      "statement": "Andersen says he will push for affordable housing and address the homelessness crisis in his next term.",
+      "excerpt": "Push for affordable housing and address our homelessness crisis",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-p3",
+      "topic": "environment",
+      "statement": "Andersen lists responding to the climate crisis among his goals for his next term.",
+      "excerpt": "Respond to our climate crisis",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-p4",
+      "topic": "education",
+      "statement": "Andersen says he will invest in students, teachers and the education system in his next term.",
+      "excerpt": "Invest in students, teachers, and our education system",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-p5",
+      "topic": "healthcare",
+      "statement": "Andersen's pamphlet statement lists support for women's rights and reproductive healthcare among his previous legislative work.",
+      "excerpt": "Supported women’s rights and reproductive healthcare",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [
+    {
+      "id": "tom-andersen-e1",
+      "endorser": "Senator Jeff Merkley",
+      "endorser_type": "official",
+      "statement": "Andersen's pamphlet statement lists Senator Jeff Merkley as an endorser.",
+      "excerpt": "U.S. Senators Jeff Merkley and Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e2",
+      "endorser": "Senator Ron Wyden",
+      "endorser_type": "official",
+      "statement": "Andersen's pamphlet statement lists Senator Ron Wyden as an endorser.",
+      "excerpt": "U.S. Senators Jeff Merkley and Ron Wyden",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e3",
+      "endorser": "State Senator Deb Patterson",
+      "endorser_type": "official",
+      "statement": "Andersen's pamphlet statement lists State Senator Deb Patterson as an endorser.",
+      "excerpt": "State Senator Deb Patterson",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e4",
+      "endorser": "Vanessa Nordyke",
+      "endorser_type": "official",
+      "statement": "Andersen's pamphlet statement lists Vanessa Nordyke as an endorser.",
+      "excerpt": "Salem City Councilors Vanessa Nordyke, Linda Nishioka, and Paul Tigan",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e5",
+      "endorser": "Linda Nishioka",
+      "endorser_type": "official",
+      "statement": "Andersen's pamphlet statement lists Linda Nishioka as an endorser.",
+      "excerpt": "Salem City Councilors Vanessa Nordyke, Linda Nishioka, and Paul Tigan",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e6",
+      "endorser": "Paul Tigan",
+      "endorser_type": "official",
+      "statement": "Andersen's pamphlet statement lists Paul Tigan as an endorser.",
+      "excerpt": "Salem City Councilors Vanessa Nordyke, Linda Nishioka, and Paul Tigan",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e7",
+      "endorser": "OR Labor Federation, AFL-CIO",
+      "endorser_type": "organization",
+      "statement": "Andersen's pamphlet statement lists OR Labor Federation, AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation, AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e8",
+      "endorser": "SEIU Oregon",
+      "endorser_type": "organization",
+      "statement": "Andersen's pamphlet statement lists SEIU Oregon as an endorser.",
+      "excerpt": "SEIU Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e9",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "statement": "Andersen's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e10",
+      "endorser": "Oregon Education Association PAC",
+      "endorser_type": "organization",
+      "statement": "Andersen's pamphlet statement lists Oregon Education Association PAC as an endorser.",
+      "excerpt": "Oregon Education Association PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e11",
+      "endorser": "American Federation of Teachers Oregon",
+      "endorser_type": "organization",
+      "statement": "Andersen's pamphlet statement lists American Federation of Teachers Oregon as an endorser.",
+      "excerpt": "American Federation of Teachers Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e12",
+      "endorser": "Oregon School Employees Association",
+      "endorser_type": "organization",
+      "statement": "Andersen's pamphlet statement lists Oregon School Employees Association as an endorser.",
+      "excerpt": "Oregon School Employees Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e13",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "statement": "Andersen's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e14",
+      "endorser": "Oregon State Fire Fighters Council",
+      "endorser_type": "organization",
+      "statement": "Andersen's pamphlet statement lists Oregon State Fire Fighters Council as an endorser.",
+      "excerpt": "Oregon State Fire Fighters Council",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e15",
+      "endorser": "Oregon's Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Andersen's pamphlet statement lists Oregon's Sheriffs as an endorser.",
+      "excerpt": "Oregon’s Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e16",
+      "endorser": "Oregon Chiefs of Police Association",
+      "endorser_type": "organization",
+      "statement": "Andersen's pamphlet statement lists Oregon Chiefs of Police Association as an endorser.",
+      "excerpt": "Oregon Chiefs of Police Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e17",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "statement": "Andersen's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "tom-andersen-e18",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "statement": "Andersen's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+        "publisher": "Oregon Voters' Pamphlet, General Election 2026 (Book 8), p. 47",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "gaps": [
+    "His official member page lists no roll-call votes, so no voting record was collected.",
+    "Official page does not state his occupation; the pamphlet statement is the source.",
+    "No T3 article could be fetched in this session (news hosts blocked).",
+    "Campaign website electtomandersen.com (printed in the pamphlet) was not fetched."
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf (pamphlet extract, statement page 47)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/andersen",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "https://electtomandersen.com",
+      "result": "blocked (third-party host, not fetched)"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Tom Andersen\" House District 19 2026",
+      "result": "blocked (hits returned only on third-party hosts, not fetchable in this session; nothing cited)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tom Andersen\" [opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org] group a",
+      "result": "blocked (hits returned only on third-party hosts, not fetchable in this session; nothing cited)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tom Andersen\" [kgw.com, koin.com, kptv.com, katu.com] group b",
+      "result": "blocked (hits returned only on third-party hosts, not fetchable in this session; nothing cited)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Tom Andersen\" [portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com] group c",
+      "result": "blocked (hits returned only on third-party hosts, not fetchable in this session; nothing cited)"
+    },
+    {
+      "step": "6",
+      "query_or_url": "none run",
+      "result": "blocked (T3 hosts not fetchable in this session; no T3 items created from snippets)"
+    }
+  ],
+  "collection_notes": "Statement is the right column of Book 8 p. 47 (Andersen); Munson is the left column. The extract also includes a second block from Book 13 (same candidate, other edition); Book 8 cited. Incumbent per official page (presents him as sitting Representative, Democrat, District 19; 'first elected during the 2022 elections'). Inventory matches. Pamphlet apostrophes are curly in excerpts."
+}
