@@ -1,0 +1,115 @@
+{
+  "id": "gary-lyndon-dye",
+  "name": "Gary Lyndon Dye",
+  "race_id": "or-us-senate",
+  "sweeps": [
+    "2026-10-18"
+  ],
+  "positions": [
+    {
+      "id": "gary-lyndon-dye-i1",
+      "topic": "taxes",
+      "statement": "In a May 2024 KATU Know Your Candidates profile (his 2024 U.S. House run), Dye described implementing a single-rate transaction tax on all transactions.",
+      "excerpt": "implementing a universal, single-rate transaction tax on anything and everything",
+      "source": {
+        "url": "https://katu.com/news/know-your-candidates/know-your-candidates-2024-gary-dye-r-congress-district-3",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2024-05-01",
+        "retrieved_at": "2026-10-18"
+      },
+      "swept_at": "2026-10-18"
+    },
+    {
+      "id": "gary-lyndon-dye-i2",
+      "topic": "social-services",
+      "statement": "In a May 2024 KATU Know Your Candidates profile (his 2024 U.S. House run), Dye said the transaction tax would be paired with a universal basic income for everyone.",
+      "excerpt": "This would be coupled with universal basic income for everyone \u2013 including billionaires.",
+      "source": {
+        "url": "https://katu.com/news/know-your-candidates/know-your-candidates-2024-gary-dye-r-congress-district-3",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2024-05-01",
+        "retrieved_at": "2026-10-18"
+      },
+      "swept_at": "2026-10-18"
+    },
+    {
+      "id": "gary-lyndon-dye-i3",
+      "topic": "foreign-policy",
+      "statement": "In a May 2024 KATU Know Your Candidates profile (his 2024 U.S. House run), Dye said the standing army should be minimized.",
+      "excerpt": "Minimize our standing army because it is not needed except to engage in foreign wars.",
+      "source": {
+        "url": "https://katu.com/news/know-your-candidates/know-your-candidates-2024-gary-dye-r-congress-district-3",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2024-05-01",
+        "retrieved_at": "2026-10-18"
+      },
+      "swept_at": "2026-10-18"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: not searched (low coverage)",
+    "cost-of-living: not searched (low coverage)",
+    "housing: not searched (low coverage)",
+    "homelessness: not searched (low coverage)",
+    "healthcare: not searched (low coverage)",
+    "addiction-mental-health: not searched (low coverage)",
+    "education: not searched (low coverage)",
+    "childcare: not searched (low coverage)",
+    "public-safety: not searched (low coverage)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-security-medicare: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)",
+    "trade: not searched (low coverage)",
+    "All items are from a May 2024 KATU profile of Dye's 2024 U.S. House (CD3) run; no 2026 Senate-specific issue statements found (2026-10-18)"
+  ],
+  "collection_log": [
+    {
+      "step": "5",
+      "issue": "all",
+      "query_or_url": "\"Gary Dye\" Oregon Senate 2026 Libertarian",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "issue": "all",
+      "query_or_url": "\"Gary Dye\" (opb, oregoncapitalchronicle, wweek, ballotpedia)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "issue": "all",
+      "query_or_url": "\"Gary Dye\" Senate (mercury, vote411, pamplin, tribune)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "issue": "taxes",
+      "query_or_url": "\"Gary Dye\" Libertarian Oregon taxes healthcare immigration (local TV)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "taxes,social-services,foreign-policy",
+      "query_or_url": "https://katu.com/news/know-your-candidates/know-your-candidates-2024-gary-dye-r-congress-district-3",
+      "result": "used"
+    }
+  ]
+}
