@@ -40,6 +40,8 @@ export default function PrivacyPage() {
           When you ask a question, we send it with our sources to Anthropic, the company that makes the Claude AI model,
           to write the answers. Anthropic doesn&apos;t use it to train its models. We don&apos;t keep the text of your
           questions or the answers. We keep only counts of how much AI each question used, so we can watch our costs.
+          When our sources can&apos;t answer a question, we note its general topic, such as &ldquo;water,&rdquo; so we
+          know where to look for more sources. We don&apos;t note the question itself or anything about you.
         </p>
       </section>
 

@@ -9,6 +9,8 @@ type Answer = {
   label: string;
   answer: string;
   sourceIds: number[];
+  /** False when the side's sources don't directly address the question; it may still cite something related. */
+  covered?: boolean;
   sources: { n: number; url: string | null; publisher: string | null }[];
 };
 type Round = { question: string; responses: Answer[]; sig?: string };
@@ -32,6 +34,8 @@ function reportHref(itemKey: string, question: string) {
 const noAnswer = (a: Answer) => a.answer.startsWith("No answer was produced");
 /** An answer with no citations is the "our sources don't cover this" case (the prompt requires empty sourceIds). */
 const uncovered = (a: Answer) => a.sourceIds.length === 0 && !noAnswer(a);
+/** Not covered directly, but the answer points to the closest related source. */
+const related = (a: Answer) => a.covered === false && a.sourceIds.length > 0;
 
 /**
  * Ask one question; every candidate (or YES and NO) answers from our sources, side by side. For a race,
@@ -41,11 +45,14 @@ const uncovered = (a: Answer) => a.sourceIds.length === 0 && !noAnswer(a);
 export function DiscussionPanel({
   itemKey,
   starters,
+  topics = [],
   sides = [],
   layout = "page",
 }: {
   itemKey: string;
   starters: string[];
+  /** Issues this item has published sources on, offered as "Ask about" prompts. */
+  topics?: { id: string; label: string }[];
   sides?: { id: string; label: string }[];
   /** "sidebar": a narrow column beside the cards, so answers always stack. */
   layout?: "page" | "sidebar";
@@ -188,6 +195,7 @@ export function DiscussionPanel({
                 {shown.map((a) => (
                   <div key={a.side} className="flex flex-col gap-2 border border-line bg-cream p-4">
                     <p className="side-label">{a.label}</p>
+                    {related(a) && <p className="note">Not covered directly. Closest related source:</p>}
                     {uncovered(a) ? (
                       <p className="text-[15px]">
                         <strong>Our sources don&apos;t cover this.</strong>{" "}
@@ -272,6 +280,25 @@ export function DiscussionPanel({
               </span>
             </div>
           ))}
+        </div>
+      )}
+
+      {topics.length > 0 && !busy && (
+        <div className="flex flex-col gap-2">
+          <p className="side-label">Ask about</p>
+          <div className="flex flex-wrap gap-2">
+            {topics.map((t) => (
+              <button
+                key={t.id}
+                type="button"
+                onClick={() => void ask(`What have they said about ${t.label.toLowerCase()}?`)}
+                disabled={busy || (sides.length > 0 && selected.length === 0)}
+                className="chip"
+              >
+                {t.label}
+              </button>
+            ))}
+          </div>
         </div>
       )}
 

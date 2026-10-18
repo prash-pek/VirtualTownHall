@@ -40,6 +40,8 @@ export type QueueCandidate = {
   name: string;
   status: QueueStatus;
   items: number;
+  /** Items and endorsements still in draft, such as a weekly issue sweep added to a published candidate. */
+  pending: number;
 };
 
 /** A race with the candidates that have content to review (or are already published). */
@@ -52,6 +54,12 @@ export type QueueRace = {
 };
 
 const reviewable = (c: { items: number; status: string }) => c.items > 0 || c.status === "published";
+
+/** Draft items and endorsements on a candidate (new content waiting for review). */
+const pendingSql = sql<number>`((select count(*)::int from ${candidateItems} ci where ci.candidate_id = ${candidates.id} and ci.status in ('draft', 'in_review')) + (select count(*)::int from ${endorsements} e where e.candidate_id = ${candidates.id} and e.status in ('draft', 'in_review')))`;
+
+/** Whether publishing would change anything: a draft candidate, or a published one with new drafts. */
+const needsPublish = (c: { status: string; pending: number }) => c.status !== "published" || c.pending > 0;
 
 export async function getQueue() {
   const db = getDb();
@@ -87,6 +95,7 @@ export async function getQueue() {
         districtLabel: races.districtLabel,
         status: candidates.status,
         items: sql<number>`(select count(*)::int from ${candidateItems} ci where ci.candidate_id = ${candidates.id} and ci.status <> 'rejected')`,
+        pending: pendingSql,
       })
       .from(candidates)
       .innerJoin(races, eq(candidates.raceId, races.id))
@@ -119,7 +128,8 @@ export async function getQueue() {
       };
       byRace.set(c.raceSlug, race);
     }
-    if (reviewable(c)) race.candidates.push({ slug: c.slug, name: c.name, status: c.status, items: c.items });
+    if (reviewable(c))
+      race.candidates.push({ slug: c.slug, name: c.name, status: c.status, items: c.items, pending: c.pending });
     else race.withoutContent++;
   }
   const allRaces = [...byRace.values()];
@@ -339,12 +349,14 @@ export async function setRacePublished(raceSlug: string, publish: boolean, actor
       slug: candidates.slug,
       status: candidates.status,
       items: sql<number>`(select count(*)::int from ${candidateItems} ci where ci.candidate_id = ${candidates.id} and ci.status <> 'rejected')`,
+      pending: pendingSql,
     })
     .from(candidates)
     .innerJoin(races, eq(candidates.raceId, races.id))
     .where(eq(races.slug, raceSlug))
     .orderBy(asc(candidates.ballotOrder));
-  const todo = rows.filter((c) => reviewable(c) && (c.status === "published") !== publish);
+  // Publishing also picks up a published candidate's new drafts (for example a weekly issue sweep).
+  const todo = rows.filter((c) => reviewable(c) && (publish ? needsPublish(c) : c.status === "published"));
   for (const c of todo) await setSubjectPublished("candidate", c.slug, publish, actorId);
   return todo.length;
 }

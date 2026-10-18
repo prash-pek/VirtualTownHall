@@ -16,7 +16,8 @@ export default async function CandidateReview({ params }: { params: Promise<{ sl
   const { candidate: c, items } = r;
   const queue = q.races.flatMap((race) => race.candidates);
   const at = queue.findIndex((x) => x.slug === slug);
-  const next = queue.slice(at + 1).find((x) => x.status !== "published");
+  const next = queue.slice(at + 1).find((x) => x.status !== "published" || x.pending > 0);
+  const pending = [...items, ...r.endorsements].filter((i) => i.status === "draft" || i.status === "in_review").length;
 
   return (
     <main className="page">
@@ -41,7 +42,7 @@ export default async function CandidateReview({ params }: { params: Promise<{ sl
       </div>
       <div className="flex flex-wrap items-center gap-3">
         <StatusTag status={c.status} />
-        <PublishForm kind="candidate" slug={c.slug} published={c.status === "published"} />
+        <PublishForm kind="candidate" slug={c.slug} published={c.status === "published"} pending={pending} />
         <Link href={`/races/${c.raceSlug}`} className="link text-sm">
           See the voter page
         </Link>

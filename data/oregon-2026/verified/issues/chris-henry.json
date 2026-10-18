@@ -1,0 +1,605 @@
+{
+  "id": "chris-henry",
+  "name": "Chris Henry",
+  "race_id": "or-us-senate",
+  "sweeps": [
+    "2026-10-18"
+  ],
+  "positions": [
+    {
+      "id": "chris-henry-i1",
+      "topic": "housing",
+      "statement": "Henry's campaign platform calls for expanding public and nonprofit housing.",
+      "excerpt": "Expand public and nonprofit housing.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i2",
+      "topic": "housing",
+      "statement": "His campaign platform says he supports community land trusts and permanently affordable housing.",
+      "excerpt": "Support community land trusts and permanently affordable housing.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i3",
+      "topic": "homelessness",
+      "statement": "Henry's campaign platform calls for investing in supportive housing and evidence-based approaches to chronic homelessness.",
+      "excerpt": "Invest in supportive housing and evidence-based approaches to ending chronic homelessness.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i4",
+      "topic": "childcare",
+      "statement": "Henry's campaign platform calls for universal pre-kindergarten and affordable child care.",
+      "excerpt": "Universal pre-kindergarten and affordable childcare.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i5",
+      "topic": "gun-policy",
+      "statement": "Henry's campaign platform lists universal background checks.",
+      "excerpt": "Universal background checks.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i6",
+      "topic": "gun-policy",
+      "statement": "His campaign positions page says he would advocate for a bullet ban bill.",
+      "excerpt": "Advocate for a Bullet Ban Bill",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/my-positions",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file. Page undated; statement implies no date.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i7",
+      "topic": "environment",
+      "statement": "Henry's campaign platform calls for accelerating the transition to renewable energy and energy-efficient buildings and transportation.",
+      "excerpt": "Accelerate the transition to renewable energy and energy-efficient buildings and transportation.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i8",
+      "topic": "environment",
+      "statement": "His campaign positions page lists emissions caps without pollution trading.",
+      "excerpt": "Emissions Caps (no pollution trading)",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/my-positions",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file. Page undated; statement implies no date.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i9",
+      "topic": "energy",
+      "statement": "Henry's campaign platform says he supports expanding rooftop and community solar.",
+      "excerpt": "Expand rooftop and community solar.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i10",
+      "topic": "energy",
+      "statement": "His campaign platform says he opposes new nuclear power development and nuclear subsidies.",
+      "excerpt": "I oppose new nuclear power development and nuclear subsidies.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i11",
+      "topic": "water",
+      "statement": "Henry's campaign platform calls for protecting groundwater, drinking water and coastal ecosystems.",
+      "excerpt": "Protect groundwater, drinking water and coastal ecosystems.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i12",
+      "topic": "wildfire",
+      "statement": "Henry's campaign platform calls for reducing wildfire risk through scientifically informed forest management.",
+      "excerpt": "Reduce wildfire risk through scientifically informed forest management",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i13",
+      "topic": "agriculture",
+      "statement": "Henry's campaign platform calls for supporting family farms, independent farmers and agricultural cooperatives.",
+      "excerpt": "Support family farms, independent farmers and agricultural cooperatives.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i14",
+      "topic": "transportation",
+      "statement": "Henry's campaign platform calls for expanding passenger and freight rail with electrified track.",
+      "excerpt": "Expand passenger rail and freight rail (with electrified track to replace diesel engines).",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i15",
+      "topic": "infrastructure",
+      "statement": "Henry's campaign platform calls for a national infrastructure bank to finance long-term public priorities.",
+      "excerpt": "Establish a national infrastructure bank to finance long-term public priorities.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i16",
+      "topic": "technology",
+      "statement": "Henry's campaign platform says he supports public-interest conditions on major data-center development, including local control over siting.",
+      "excerpt": "I support strong public-interest conditions on major data-center development, including:",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i17",
+      "topic": "technology",
+      "statement": "His campaign platform lists local control over the siting of data centers.",
+      "excerpt": "Local control over the siting of data centers.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i18",
+      "topic": "labor",
+      "statement": "Henry's campaign issues page says he will advocate for higher wages and better working conditions for workers.",
+      "excerpt": "I will advocate for workers to raise wages and improve working conditions",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/issues",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file. Page undated; statement implies no date.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i19",
+      "topic": "labor",
+      "statement": "His campaign issues page lists a maximum wage with a 10:1 wage ratio.",
+      "excerpt": "A Maximum Wage w/ a 10:1 Wage Ratio",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/issues",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file. Page undated; statement implies no date.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i20",
+      "topic": "local-business",
+      "statement": "Henry's campaign platform calls for expanding access to capital for worker-owned cooperatives, small businesses and community enterprises.",
+      "excerpt": "Expand access to capital for worker-owned cooperatives, small businesses and community enterprises.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i21",
+      "topic": "social-security-medicare",
+      "statement": "Henry's campaign platform calls for strengthening Social Security, disability support and retirement security.",
+      "excerpt": "Strengthen Social Security, disability support and retirement security.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i22",
+      "topic": "abortion",
+      "statement": "In a 2022 League of Women Voters Portland voter guide for the U.S. Senate race, Henry said he does not support any restrictions or limitations on a woman's right to choose.",
+      "excerpt": "I do not support any restrictions or limitations on a woman’s right to choose.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://lwvpdx.org/november-2022-candidates-us-senator/",
+        "publisher": "League of Women Voters of Portland, November 2022 candidates guide",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt verbatim on page. Statement reworded to track excerpt (removed 'supports reproductive rights'). Identity: 2022 guide lists Chris Henry, Progressive, Oregon City, former Co Chair Pacific Green Party; web search (The Ballot Brief, ballot-access) shows the same Progressive Chris Henry ran for US Senate in 2022 and is the 2026 Progressive nominee (also on Pacific Green line) with serial runs since 2008. Statement is dated 2022.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i23",
+      "topic": "immigration",
+      "statement": "Henry's campaign platform calls for a path to citizenship for long-term undocumented residents.",
+      "excerpt": "Establish a fair path to citizenship for long-term undocumented residents.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i24",
+      "topic": "immigration",
+      "statement": "His campaign platform also calls for ending family separation and reducing reliance on detention.",
+      "excerpt": "End family separation and reduce reliance on detention.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i25",
+      "topic": "civil-rights",
+      "statement": "Henry's campaign platform calls for protecting voting rights and opposing voter intimidation and discriminatory suppression.",
+      "excerpt": "Protect voting rights and oppose voter intimidation and discriminatory suppression.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i26",
+      "topic": "elections-democracy",
+      "statement": "Henry's campaign platform calls for publicly financed federal elections as an alternative to reliance on wealthy donors.",
+      "excerpt": "Establish publicly financed federal elections that give candidates a viable alternative to dependence on wealthy donors.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i27",
+      "topic": "elections-democracy",
+      "statement": "His campaign platform calls for STAR Voting or ranked-choice voting in federal elections.",
+      "excerpt": "Adopt STAR Voting or ranked-choice voting for federal elections.",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i28",
+      "topic": "trade",
+      "statement": "Henry's campaign platform says he supports reviewing the effects of NAFTA and its successor, USMCA.",
+      "excerpt": "I support reviewing the effects of NAFTA and its successor, USMCA,",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "chris-henry-i29",
+      "topic": "trade",
+      "statement": "His campaign platform says future trade agreements should include enforceable labor rights and environmental standards.",
+      "excerpt": "Future trade agreements should include enforceable labor rights, environmental standards",
+      "swept_at": "2026-10-18",
+      "source": {
+        "url": "https://chrishenry.org/detailed-platform",
+        "publisher": "Chris Henry campaign website (chrishenry.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      },
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt verbatim on cited page; campaign domain chrishenryforsenate/chrishenry.org confirmed by verified candidate file.",
+        "verified_at": "2026-10-18"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-18)",
+    "addiction-mental-health: nothing found (2026-10-18)",
+    "social-services: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 28,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race or-us-senate swept 2026-10-18 with the same issue list and stop rules for all four. Henry: 29 new items, 28 from his detailed campaign platform pages (one fetch covers many issues), 1 from a 2022 LWV guide (identity confirmed). Count reflects his site's breadth, not extra search effort."
+  }
+}

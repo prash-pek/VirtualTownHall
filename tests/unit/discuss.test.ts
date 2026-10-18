@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 
-import { buildPack, normalizeAnswers, systemPrompt, type ItemPack } from "@/lib/discuss/pack";
+import { issueLabel, topIssues } from "@/lib/ballot/issues";
+import { buildPack, normalizeAnswers, normalizeTopic, systemPrompt, type ItemPack } from "@/lib/discuss/pack";
 
 const src = (statement: string, url: string | null = "https://example.org/a") => ({
   statement,
@@ -126,5 +127,59 @@ describe("vote disclaimers", () => {
     expect(one("Ann supports more parks [1].")).toBe("Ann supports more parks [1].");
     const gap = "Our sources don't say how Ann would vote on the levy. She has spoken about parks.";
     expect(one(gap)).toBe(gap);
+  });
+});
+
+describe("coverage and topics", () => {
+  it("marks an answer covered only when the model says so and it cites something", () => {
+    const { sources } = buildPack(race);
+    const out = normalizeAnswers(race, sources, [
+      { side: "ann", answer: "Ann has said X.", sourceIds: [1], covered: true },
+      { side: "bo", answer: "Nothing on this. On a related subject, Bo said Y.", sourceIds: [2], covered: false },
+    ]);
+    expect(out.map((a) => a.covered)).toEqual([true, false]);
+    const none = normalizeAnswers(race, sources, [{ side: "ann", answer: "Nothing.", sourceIds: [], covered: true }]);
+    expect(none[0]!.covered).toBe(false);
+  });
+
+  it("keeps the topic to an issue id or a few plain words", () => {
+    expect(normalizeTopic("energy")).toBe("energy");
+    expect(normalizeTopic(" Housing ")).toBe("housing");
+    expect(normalizeTopic("other: Ferry service on the river at 5pm daily!")).toBe("other: ferry service on the");
+    expect(normalizeTopic("")).toBe("other");
+  });
+
+  it("labels sources with their issue so related questions can find them", () => {
+    const pack: ItemPack = {
+      kind: "race",
+      title: "Test",
+      background: [],
+      sides: [
+        {
+          id: "ann",
+          label: "Ann",
+          facts: [
+            {
+              topic: "energy",
+              statement: "Ann spoke on power bills.",
+              excerpt: null,
+              sourceUrl: null,
+              publisher: null,
+            },
+          ],
+          endorsements: [],
+        },
+      ],
+    };
+    expect(buildPack(pack).text).toContain("[1] (Energy, utilities and data centers) Ann spoke");
+    expect(systemPrompt("race")).toMatch(/covered/);
+  });
+});
+
+describe("topIssues", () => {
+  it("ranks issues by how many candidates have sources on them", () => {
+    const out = topIssues([{ topics: ["housing", "energy", "custom:bio"] }, { topics: ["energy", "energy", null] }]);
+    expect(out.map((i) => i.id)).toEqual(["energy", "housing"]);
+    expect(issueLabel("custom:bio")).toBeNull();
   });
 });
