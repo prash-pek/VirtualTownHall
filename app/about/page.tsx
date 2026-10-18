@@ -16,9 +16,9 @@ export default function AboutPage() {
           selling more things.
         </p>
         <p>
-          We think the same technology can do something better. It can help people take part in the structures that
-          were here long before AI: elections, local government, the places where we decide how our neighborhoods, our
-          region and our country work.
+          We think the same technology can do something better. It can help people take part in the structures that were
+          here long before AI: elections, local government, the places where we decide how our neighborhoods, our region
+          and our country work.
         </p>
         <p>
           Life keeps getting busier, and most of us have less time than ever for civic life. So we asked one question:
