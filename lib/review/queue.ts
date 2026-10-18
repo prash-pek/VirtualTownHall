@@ -349,6 +349,20 @@ export async function setRacePublished(raceSlug: string, publish: boolean, actor
   return todo.length;
 }
 
+/** Publishes every draft measure and every candidate with content, one subject at a time (each audited). */
+export async function publishEverything(actorId: string) {
+  const db = getDb();
+  const measureRows = await db
+    .select({ slug: ballotMeasures.slug })
+    .from(ballotMeasures)
+    .where(inArray(ballotMeasures.status, ["draft", "in_review"]));
+  for (const m of measureRows) await setSubjectPublished("measure", m.slug, true, actorId);
+  const raceRows = await db.select({ slug: races.slug }).from(races);
+  let candidatesPublished = 0;
+  for (const r of raceRows) candidatesPublished += await setRacePublished(r.slug, true, actorId);
+  return { measures: measureRows.length, candidates: candidatesPublished };
+}
+
 /** Hide one item from voters, or restore it to its subject's current state. */
 export type ItemKind = SubjectKind | "endorsement";
 

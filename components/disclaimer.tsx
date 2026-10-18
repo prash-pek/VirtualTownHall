@@ -1,3 +1,5 @@
+const contactEmail = process.env.NEXT_PUBLIC_CONTACT_EMAIL;
+
 /** Rendered by the root layout so it can't be omitted from any page (TRD v2 §10). */
 export function Disclaimer() {
   return (
@@ -9,6 +11,19 @@ export function Disclaimer() {
           Oregon My Vote
         </a>
         .
+      </p>
+      <p className="mx-auto mt-2 flex max-w-3xl flex-wrap gap-x-4 gap-y-1">
+        <a className="link" href="/privacy">
+          Privacy
+        </a>
+        <a className="link" href="/terms">
+          Terms
+        </a>
+        {contactEmail && (
+          <a className="link" href={`mailto:${contactEmail}?subject=${encodeURIComponent("Report a mistake")}`}>
+            Report a mistake
+          </a>
+        )}
       </p>
     </footer>
   );

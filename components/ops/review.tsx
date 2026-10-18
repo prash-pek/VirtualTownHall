@@ -1,4 +1,4 @@
-import { publishAction, publishRaceAction, rejectAction } from "@/app/(platform)/ops/actions";
+import { publishAction, publishEverythingAction, publishRaceAction, rejectAction } from "@/app/(platform)/ops/actions";
 import type { ItemKind, QueueStatus, ReviewItem, SubjectKind } from "@/lib/review/queue";
 
 const statusLabel: Record<QueueStatus, string> = {
@@ -28,6 +28,19 @@ export function PublishForm({ kind, slug, published }: { kind: SubjectKind; slug
       <button className={published ? "btn" : "btn-primary"}>
         {published ? "Unpublish (back to draft)" : "Publish to voters"}
       </button>
+    </form>
+  );
+}
+
+/** One button for every draft measure and every candidate with content. Hidden items stay hidden. */
+export function PublishEverythingForm({ count }: { count: number }) {
+  if (count === 0) return null;
+  return (
+    <form action={publishEverythingAction} className="card flex flex-wrap items-center justify-between gap-3">
+      <p className="text-[15px]">
+        {count} measures and candidates with content are still drafts. Items you hid stay hidden.
+      </p>
+      <button className="btn-primary px-3 py-1 text-sm">Publish everything</button>
     </form>
   );
 }

@@ -21,8 +21,16 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   const body = (
     <html lang="en">
       <body className="flex min-h-dvh flex-col bg-cream font-sans text-ink antialiased">
+        <a
+          href="#main"
+          className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:bg-paper focus:px-3 focus:py-2"
+        >
+          Skip to main content
+        </a>
         <SiteHeader />
-        <div className="flex-1">{children}</div>
+        <div id="main" tabIndex={-1} className="flex-1 outline-none">
+          {children}
+        </div>
         <Disclaimer />
       </body>
     </html>
