@@ -1,0 +1,63 @@
+{
+  "id": "john-holm",
+  "name": "John P Holm",
+  "race_id": "or-house-6",
+  "party": "Democrat",
+  "incumbent": false,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/wallan/Pages/default.aspx",
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "Chose not to submit a voters' pamphlet statement (marked * on the List of Candidates, Book 3 p. 26)",
+    "No campaign website found",
+    "No bio or positions collected: news-group name searches returned only older (2020) mentions as a congressional candidate; Capital Chronicle 2026 voter guide (search result) lists him only as the Democratic candidate"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "VP_G26-Book3 List of Candidates p.26: 'John P Holm*' = no statement submitted",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"John Holm\" Oregon House District 6 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"John Holm\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (search results only; page fetches of these domains were refused, see collection_notes)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"John Holm\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"John Holm\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "follow-up WebFetch of T3 results (opb.org, oregoncapitalchronicle.com, ballotpedia.org)",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Inventory name 'John P Holm' matches ballot spelling (searches also use 'John Holm'). Non-filer of pamphlet statement, so no items. Step 6 follow-up fetches of T3 pages were blocked in this session (WebFetch to opb.org and oregoncapitalchronicle.com failed to connect; ballotpedia.org was refused by the permission layer), so T3 items are limited to quotations that appeared in WebSearch result text and need the verifier to re-fetch. Voting records not collected (no roll-call page reached)."
+}

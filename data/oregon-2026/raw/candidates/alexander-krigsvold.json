@@ -1,0 +1,63 @@
+{
+  "id": "alexander-krigsvold",
+  "name": "Alexander Krigsvold",
+  "race_id": "or-house-5",
+  "party": "Republican",
+  "incumbent": false,
+  "occupation": null,
+  "website_url": null,
+  "website_verified_via": null,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/marsh/Pages/default.aspx",
+  "bio": [],
+  "positions": [],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "Chose not to submit a voters' pamphlet statement (marked * on the List of Candidates, Book 3 p. 26)",
+    "No campaign website found",
+    "No bio or positions found in public sources searched (name searches in news groups returned unrelated results; Capital Chronicle voter guide result lists him only as the Republican candidate)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "VP_G26-Book3 List of Candidates p.26: 'Alexander Krigsvold*' = no statement submitted",
+      "result": "not found"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Alexander Krigsvold\" Oregon House District 5 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Alexander Krigsvold\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (search results only; page fetches of these domains were refused, see collection_notes)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Alexander Krigsvold\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Alexander Krigsvold\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "follow-up WebFetch of T3 results (opb.org, oregoncapitalchronicle.com, ballotpedia.org)",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Inventory matches (Republican). Non-filer of pamphlet statement, so no items. A Montana House candidate 'Alex Krigsvold' (2016) appeared in search results; not verified as the same person and not used. Step 6 follow-up fetches of T3 pages were blocked in this session (WebFetch to opb.org and oregoncapitalchronicle.com failed to connect; ballotpedia.org was refused by the permission layer), so T3 items are limited to quotations that appeared in WebSearch result text and need the verifier to re-fetch. Voting records not collected (no roll-call page reached)."
+}

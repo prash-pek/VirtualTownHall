@@ -1,0 +1,479 @@
+{
+  "id": "lisa-fragala",
+  "name": "Lisa Fragala",
+  "race_id": "or-house-8",
+  "party": "Democrat",
+  "incumbent": true,
+  "occupation": "State Representative",
+  "website_url": null,
+  "website_verified_via": null,
+  "incumbent_source_url": "https://www.oregonlegislature.gov/fragala/Pages/biography.aspx",
+  "bio": [
+    {
+      "id": "lisa-fragala-b1",
+      "topic": "custom:background",
+      "statement": "Fragala's pamphlet statement lists her occupation as State Representative.",
+      "excerpt": "Occupation: State Representative",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-b2",
+      "topic": "custom:background",
+      "statement": "She lists her background as elementary teacher and higher education program coordinator.",
+      "excerpt": "Occupational Background: Elementary Teacher, Higher Education Program Coordinator",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-b3",
+      "topic": "education",
+      "statement": "She lists an M.Ed. from Oregon State University and a BA in Environmental Sciences from Binghamton University.",
+      "excerpt": "M.Ed-Education, Oregon State University; BA-Environmental Sciences, Binghamton University",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-b4",
+      "topic": "custom:background",
+      "statement": "She lists prior governmental experience as State Representative, LCC Board of Education and City of Eugene Planning Commission.",
+      "excerpt": "Prior Governmental Experience: State Representative; LCC Board of Education; City of Eugene Planning Commission",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-b5",
+      "topic": "custom:background",
+      "statement": "Her official biography says she worked as an educator for over 25 years before being elected.",
+      "excerpt": "Before being elected to the Oregon Legislature she worked as an educator for over 25 years",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/fragala/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Rep. Lisa Fragala biography",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "lisa-fragala-p1",
+      "topic": "healthcare",
+      "statement": "Fragala's statement says she stands up against corporate control of healthcare.",
+      "excerpt": "Stands up against corporate control of healthcare",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-p2",
+      "topic": "housing",
+      "statement": "Fragala's statement says she delivers on affordable housing and infrastructure investments.",
+      "excerpt": "Delivers on affordable housing and infrastructure investments",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-p3",
+      "topic": "immigration",
+      "statement": "Fragala's statement says she strengthens protections for immigrant and refugee communities.",
+      "excerpt": "Strengthens protections for immigrant and refugee communities",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-p4",
+      "topic": "healthcare",
+      "statement": "Fragala's statement says she protects comprehensive reproductive healthcare.",
+      "excerpt": "Protects comprehensive reproductive healthcare",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-p5",
+      "topic": "environment",
+      "statement": "Fragala's statement says she defends conservation and wildlife programs.",
+      "excerpt": "Defends conservation and wildlife programs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-p6",
+      "topic": "economy",
+      "statement": "Fragala's statement says she advocates for union jobs and family wages.",
+      "excerpt": "Advocates for union jobs and family wages",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-p7",
+      "topic": "public-safety",
+      "statement": "Reported by KOIN, Fragala said rising reported campus assault cases reflect students speaking up rather than more violence.",
+      "excerpt": "I see these five cases in the first week of classes not as an increase in violence but an increase in students finding their voice to speak on it,",
+      "source": {
+        "url": "https://www.koin.com/news/oregon/lawmakers-university-of-oregon-sexual-assaults-cornell-lawsuit/",
+        "publisher": "KOIN",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [
+    {
+      "id": "lisa-fragala-e1",
+      "endorser": "State Senator Floyd Prozanski",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists State Senator Floyd Prozanski as an endorser.",
+      "excerpt": "State Senators Floyd Prozanski and James Manning Jr.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e2",
+      "endorser": "State Senator James Manning Jr.",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists State Senator James Manning Jr. as an endorser.",
+      "excerpt": "State Senators Floyd Prozanski and James Manning Jr.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e3",
+      "endorser": "Speaker of the House Julie Fahey",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists Speaker of the House Julie Fahey as an endorser.",
+      "excerpt": "Speaker of the House Julie Fahey",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e4",
+      "endorser": "Lane County Commissioner Laurie Trieger",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists Lane County Commissioner Laurie Trieger as an endorser.",
+      "excerpt": "Lane County Commissioner Laurie Trieger",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e5",
+      "endorser": "Mayor Kaarin Knudson",
+      "endorser_type": "official",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists Mayor Kaarin Knudson as an endorser.",
+      "excerpt": "Mayor Kaarin Knudson",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e6",
+      "endorser": "OR Labor Federation AFL-CIO",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists OR Labor Federation AFL-CIO as an endorser.",
+      "excerpt": "OR Labor Federation AFL-CIO",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e7",
+      "endorser": "Oregon Education Association-PAC",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists Oregon Education Association-PAC as an endorser.",
+      "excerpt": "Oregon Education Association-PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e8",
+      "endorser": "American Federation of Teachers",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists American Federation of Teachers as an endorser.",
+      "excerpt": "American Federation of Teachers",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e9",
+      "endorser": "Lane Professional Firefighters",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists Lane Professional Firefighters as an endorser.",
+      "excerpt": "Lane Professional Firefighters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e10",
+      "endorser": "North Coast States Carpenters Union",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists North Coast States Carpenters Union as an endorser.",
+      "excerpt": "North Coast States Carpenters Union",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e11",
+      "endorser": "Oregon Nurses Association",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists Oregon Nurses Association as an endorser.",
+      "excerpt": "Oregon Nurses Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e12",
+      "endorser": "SEIU-Oregon",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists SEIU-Oregon as an endorser.",
+      "excerpt": "SEIU-Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e13",
+      "endorser": "Oregon AFSCME",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists Oregon AFSCME as an endorser.",
+      "excerpt": "Oregon AFSCME",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e14",
+      "endorser": "Housing Oregon Action Fund",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists Housing Oregon Action Fund as an endorser.",
+      "excerpt": "Housing Oregon Action Fund",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e15",
+      "endorser": "Young Democrats of Oregon",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists Young Democrats of Oregon as an endorser.",
+      "excerpt": "Young Democrats of Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e16",
+      "endorser": "Oregon League of Conservation Voters",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists Oregon League of Conservation Voters as an endorser.",
+      "excerpt": "Oregon League of Conservation Voters",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "lisa-fragala-e17",
+      "endorser": "Planned Parenthood Action Oregon",
+      "endorser_type": "organization",
+      "topic": "custom:endorsement",
+      "statement": "Lisa Fragala's pamphlet statement lists Planned Parenthood Action Oregon as an endorser.",
+      "excerpt": "Planned Parenthood Action Oregon",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 4, p. 42)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "gaps": [
+    "No campaign website listed in pamphlet statement",
+    "Official member page lists no roll-call votes",
+    "KOIN quote (T3) came from search-result text; undated in results",
+    "Testimonial quotes in the pamphlet (Kitty Piercy, Jenny Jonak, Val Hoyle) not entered as endorsements; only the 'Endorsed By' list was",
+    "Capital Chronicle voter guide (search result) says Fragala did not answer its questionnaire"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "Book4 p.42 extract",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/fragala/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "none linked in pamphlet",
+      "result": "not found"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Lisa Fragala\" Oregon House District 8 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Lisa Fragala\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (search results only; page fetches of these domains were refused, see collection_notes)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Lisa Fragala\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Lisa Fragala\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "follow-up WebFetch of T3 results (opb.org, oregoncapitalchronicle.com, ballotpedia.org)",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Inventory matches (Democrat, incumbent). Step 6 follow-up fetches of T3 pages were blocked in this session (WebFetch to opb.org and oregoncapitalchronicle.com failed to connect; ballotpedia.org was refused by the permission layer), so T3 items are limited to quotations that appeared in WebSearch result text and need the verifier to re-fetch. Voting records not collected (no roll-call page reached)."
+}

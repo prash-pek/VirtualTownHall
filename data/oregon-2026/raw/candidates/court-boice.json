@@ -1,0 +1,182 @@
+{
+  "id": "court-boice",
+  "name": "Court Boice",
+  "race_id": "or-house-1",
+  "party": "Republican",
+  "incumbent": true,
+  "occupation": "Oregon State Representative - Coos, Curry, and Douglas Counties",
+  "website_url": "https://courtboicefororegon.com",
+  "website_verified_via": "Linked in Boice's pamphlet statement (Book 1, p. 38): CourtBoiceforOregon.com",
+  "incumbent_source_url": "https://www.oregonlegislature.gov/boice/Pages/biography.aspx",
+  "bio": [
+    {
+      "id": "court-boice-b1",
+      "topic": "custom:background",
+      "statement": "In his pamphlet statement Boice lists his occupation as Oregon State Representative for Coos, Curry, and Douglas Counties.",
+      "excerpt": "Occupation: Oregon State Representative - Coos, Curry, and Douglas Counties",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "court-boice-b2",
+      "topic": "custom:background",
+      "statement": "Boice's pamphlet statement lists prior governmental experience of 6 years as a county commissioner and 8 years on the Oregon Marine Board.",
+      "excerpt": "Prior Governmental Experience: 6 years County Commissioner; 8 years Oregon Marine Board;",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "court-boice-b3",
+      "topic": "custom:background",
+      "statement": "His official legislative biography lists Curry County Commissioner for 6 years and Oregon State Marine Board for 8 years.",
+      "excerpt": "Curry County Commissioner 6 years, Oregon State Marine Board 8 years.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/boice/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Rep. Court Boice biography",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "court-boice-b4",
+      "topic": "custom:background",
+      "statement": "His official biography lists owner/operator of Paradise Wilderness Lodge from 1973 through 2007 and part owner of Jerry's Jet Boats from 1973 to 1997.",
+      "excerpt": "Owner/Operator Paradise Wilderness Lodge 1973 thru 2007, Part Owner Jerry’s Jet Boats 1973- 1997.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/boice/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Rep. Court Boice biography",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "court-boice-p1",
+      "topic": "taxes",
+      "statement": "Boice's pamphlet statement says he is committed to reversing policies he says weakened rural Oregon and states 'No new taxes.'",
+      "excerpt": "Court is committed to reversing decades of policies that weakened rural Oregon and continues working toward practical solutions. NO NEW TAXES.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "court-boice-p2",
+      "topic": "environment",
+      "statement": "Boice says he would restore healthy forests, strengthen the timber industry and reduce wildfire risk.",
+      "excerpt": "Restore healthy forests, strengthen the timber industry, and reduce wildfire risk",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "court-boice-p3",
+      "topic": "public-safety",
+      "statement": "Boice says he would hold criminals accountable and support law enforcement.",
+      "excerpt": "Hold criminals accountable and support the men and women who protect our communities",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "court-boice-p4",
+      "topic": "local-business",
+      "statement": "Boice says he would reduce over-regulation and taxation so businesses and workers can succeed.",
+      "excerpt": "Reduce over-regulation and taxation so businesses and workers can succeed",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "court-boice-p5",
+      "topic": "environment",
+      "statement": "Boice says he would continue restoring rivers and watersheds that support fisheries and coastal economies.",
+      "excerpt": "Continue restoring rivers and watersheds supporting fisheries and coastal economies",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No named endorsers: pamphlet says only 'Supported by pro-business, farming, timber, tourism, fishing, and law enforcement leaders.'",
+    "No roll-call votes collected: the official member page lists none",
+    "No positions found on housing or healthcare beyond committee assignment"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "Book1 p.38 extract; List of Candidates Book1 p.26",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/boice/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "CourtBoiceforOregon.com linked in pamphlet",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Court Boice\" Oregon House District 1 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Court Boice\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (search results only; page fetches of these domains were refused, see collection_notes)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Court Boice\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Court Boice\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "follow-up WebFetch of T3 results (opb.org, oregoncapitalchronicle.com, ballotpedia.org)",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Inventory matches (Republican, incumbent). Court Boice is distinct from Douglas County Commissioner Chris Boice (also on the ballot, different race). Step 6 follow-up fetches of T3 pages were blocked in this session (WebFetch to opb.org and oregoncapitalchronicle.com failed to connect; ballotpedia.org was refused by the permission layer), so T3 items are limited to quotations that appeared in WebSearch result text and need the verifier to re-fetch. Voting records not collected (no roll-call page reached)."
+}

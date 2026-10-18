@@ -1,0 +1,169 @@
+{
+  "id": "john-ezra-scheirman",
+  "name": "John Ezra Scheirman",
+  "race_id": "or-house-9",
+  "party": "Democrat",
+  "incumbent": null,
+  "occupation": "School Bus Driver",
+  "website_url": null,
+  "website_verified_via": null,
+  "bio": [
+    {
+      "id": "john-ezra-scheirman-b1",
+      "topic": "custom:background",
+      "statement": "In his voters' pamphlet statement, Scheirman lists his occupation as school bus driver.",
+      "excerpt": "Occupation: School Bus Driver",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "john-ezra-scheirman-b2",
+      "topic": "education",
+      "statement": "His pamphlet statement lists a Bachelor of Science in Professional Management among his educational background.",
+      "excerpt": "Bachelor of Science in Professional Management",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "john-ezra-scheirman-b3",
+      "topic": "education",
+      "statement": "He says he taught electronics and physics at the community college level and electronics and music in an after-school youth program.",
+      "excerpt": "taught Electronics and Physics at the Community College level as a",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "john-ezra-scheirman-b4",
+      "topic": "custom:background",
+      "statement": "His pamphlet statement lists the Coos County Democratic Party under prior governmental experience.",
+      "excerpt": "Prior Governmental Experience: Coos County Democtatic Party",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "john-ezra-scheirman-p1",
+      "topic": "economy",
+      "statement": "In his pamphlet statement, Scheirman names family wage jobs as one of three key issues of his platform.",
+      "excerpt": "Family Wage Jobs.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "john-ezra-scheirman-p2",
+      "topic": "healthcare",
+      "statement": "He names quality affordable healthcare as one of three key issues of his platform.",
+      "excerpt": "Quality Affordable Healthcare",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "john-ezra-scheirman-p3",
+      "topic": "education",
+      "statement": "He names restoring excellence in education as one of three key issues of his platform.",
+      "excerpt": "Restore Excellence in Education",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "john-ezra-scheirman-p4",
+      "topic": "custom:governance",
+      "statement": "He says that as the Democratic House representative he would approach the position in a more non-partisan manner because the office represents all Oregonians in the district.",
+      "excerpt": "I believe as the Democratic House Representative I should approach the position in a more non-partisan manner as holding this office represents all Oregonians within our district.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No campaign website was found in the pamphlet statement or other sources read.",
+    "No public position beyond the pamphlet statement's three platform headings (jobs, healthcare, education) was found; no news coverage with his own statements was found.",
+    "No endorsements are listed in his pamphlet statement."
+  ],
+  "name_variants": [],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "official office page (holds no public office)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website (not fetched: non-.gov hosts unreachable in this session)",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"John Ezra Scheirman\" House District 9 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"John Ezra Scheirman\" allowed_domains: opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"John Ezra Scheirman\" allowed_domains: kgw.com, koin.com, kptv.com, katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"John Ezra Scheirman\" allowed_domains: portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2026/01/08/coastal-oregon-republican-boomer-wright-will-retire/",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Statement page: Book1 p.41 (side by side with Claire Lynn; Scheirman is the left column). The pamphlet text has typos reproduced verbatim in excerpts. Inventory name, party and race match. Search results listed him as John Scheirman (Portland Tribune: school bus driver from North Bend); a VOTE411 page lists a John Ezra Scheirman as a South Coast ESD candidate, not fetched. Non-.gov hosts were unreachable for fetching except portlandtribune.com."
+}

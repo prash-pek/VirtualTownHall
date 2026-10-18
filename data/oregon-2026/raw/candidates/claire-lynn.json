@@ -1,0 +1,479 @@
+{
+  "id": "claire-lynn",
+  "name": "Claire Lynn",
+  "race_id": "or-house-9",
+  "party": "Republican",
+  "incumbent": null,
+  "occupation": "Small Business Owner, Claire Lynn Consulting LLC; Payroll Assistant, R&R King Logging/Crown Alaska Inc.",
+  "website_url": "https://www.ClaireForOregon.com",
+  "website_verified_via": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+  "bio": [
+    {
+      "id": "claire-lynn-b1",
+      "topic": "custom:background",
+      "statement": "In her voters' pamphlet statement, Lynn lists her occupation as small business owner (Claire Lynn Consulting LLC) and payroll assistant at R&R King Logging/Crown Alaska Inc.",
+      "excerpt": "Small Business Owner, Claire Lynn Consulting LLC; Payroll Assistant, R&R King Logging/Crown Alaska Inc.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-b2",
+      "topic": "custom:background",
+      "statement": "Her statement lists past roles as legislative staff for state and federal elected officials, government affairs associate at the Oregon Farm Bureau, a ranch hand and a city intern.",
+      "excerpt": "Legislative Staff for State/Federal Elected Officials; Government Affairs Associate, Oregon Farm Bureau; Ranch Hand, King Land & Cattle LLC; Paid Intern, City of Florence",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-b3",
+      "topic": "education",
+      "statement": "Her statement lists bachelor's degrees in political science and history from Oregon State University.",
+      "excerpt": "Bachelor’s Degrees: Political Science/ History, Oregon State University",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-b4",
+      "topic": "custom:background",
+      "statement": "Her statement lists Lane County CASA and the City of Florence Community and Economic Development Committee as prior governmental experience.",
+      "excerpt": "Lane County CASA; City of Florence Community and Economic Development Committee",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-b5",
+      "topic": "custom:background",
+      "statement": "She describes herself as a seventh-generation Oregonian who grew up in Florence helping with her family's logging business and cow-calf operation.",
+      "excerpt": "Claire is a seventh-generation Oregonian who grew up in Florence helping with her family’s logging business and cow-calf operation.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "claire-lynn-p1",
+      "topic": "economy",
+      "statement": "Her pamphlet statement lists fighting policies that drive up costs among her commitments.",
+      "excerpt": "Fighting policies that drive up costs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-p2",
+      "topic": "agriculture",
+      "statement": "She says she is committed to defending Oregon's natural resource industries.",
+      "excerpt": "Defending Oregon’s natural resource industries",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-p3",
+      "topic": "education",
+      "statement": "She says she is committed to championing improved K-12 education.",
+      "excerpt": "Championing improved K-12 education",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-p4",
+      "topic": "veterans",
+      "statement": "She says she is committed to honoring veterans with action.",
+      "excerpt": "Honoring our veterans with action",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-p5",
+      "topic": "public-safety",
+      "statement": "She says she is committed to standing with law enforcement to keep communities safe.",
+      "excerpt": "Standing with law enforcement to keep our communities safe",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-p6",
+      "topic": "transportation",
+      "statement": "Lynn says she helped stop a $4.3 billion transportation tax proposed by Tina Kotek.",
+      "excerpt": "She helped put a stop to Tina Kotek’s $4.3 billion transportation tax",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [
+    {
+      "id": "claire-lynn-e1",
+      "endorser": "Oregon Coalition of Police & Sheriffs (ORCOPS)",
+      "endorser_type": "organization",
+      "statement": "Lynn's pamphlet statement lists Oregon Coalition of Police & Sheriffs (ORCOPS) as an endorser.",
+      "excerpt": "Oregon Coalition of Police & Sheriffs (ORCOPS)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e2",
+      "endorser": "Oregon Chiefs of Police Association",
+      "endorser_type": "organization",
+      "statement": "Lynn's pamphlet statement lists Oregon Chiefs of Police Association as an endorser.",
+      "excerpt": "Oregon Chiefs of Police Association",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e3",
+      "endorser": "Oregon’s Sheriffs",
+      "endorser_type": "organization",
+      "statement": "Lynn's pamphlet statement lists Oregon’s Sheriffs as an endorser.",
+      "excerpt": "Oregon’s Sheriffs",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e4",
+      "endorser": "Bay Area Chamber of Commerce",
+      "endorser_type": "organization",
+      "statement": "Lynn's pamphlet statement lists Bay Area Chamber of Commerce as an endorser.",
+      "excerpt": "Bay Area Chamber of Commerce",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e5",
+      "endorser": "Jason Smith, CEO, Southport Lumber (Coos Bay)",
+      "endorser_type": "person",
+      "statement": "Lynn's pamphlet statement lists Jason Smith, CEO, Southport Lumber (Coos Bay) as an endorser.",
+      "excerpt": "Jason Smith, CEO, Southport Lumber (Coos Bay)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e6",
+      "endorser": "Mark Mattecheck, North Bend Lanes (North Bend)",
+      "endorser_type": "person",
+      "statement": "Lynn's pamphlet statement lists Mark Mattecheck, North Bend Lanes (North Bend) as an endorser.",
+      "excerpt": "Mark Mattecheck, North Bend Lanes (North Bend)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e7",
+      "endorser": "Fred Wahl, Fred Wahl Marine Construction (Reedsport)",
+      "endorser_type": "person",
+      "statement": "Lynn's pamphlet statement lists Fred Wahl, Fred Wahl Marine Construction (Reedsport) as an endorser.",
+      "excerpt": "Fred Wahl, Fred Wahl Marine Construction (Reedsport)",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e8",
+      "endorser": "Associated Oregon Loggers, Inc.",
+      "endorser_type": "organization",
+      "statement": "Lynn's pamphlet statement lists Associated Oregon Loggers, Inc. as an endorser.",
+      "excerpt": "Associated Oregon Loggers, Inc.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e9",
+      "endorser": "Oregon Farm Bureau",
+      "endorser_type": "organization",
+      "statement": "Lynn's pamphlet statement lists Oregon Farm Bureau as an endorser.",
+      "excerpt": "Oregon Farm Bureau",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e10",
+      "endorser": "NFIB/OR PAC",
+      "endorser_type": "organization",
+      "statement": "Lynn's pamphlet statement lists NFIB/OR PAC as an endorser.",
+      "excerpt": "NFIB/OR PAC",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e11",
+      "endorser": "State Representative Boomer Wright",
+      "endorser_type": "official",
+      "statement": "Lynn's pamphlet statement lists State Representative Boomer Wright as an endorser.",
+      "excerpt": "State Representative Boomer Wright",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e12",
+      "endorser": "State Senator Christine Drazan",
+      "endorser_type": "official",
+      "statement": "Lynn's pamphlet statement lists State Senator Christine Drazan as an endorser.",
+      "excerpt": "State Senator Christine Drazan",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e13",
+      "endorser": "Coos Bay Mayor Joe Benetti",
+      "endorser_type": "official",
+      "statement": "Lynn's pamphlet statement lists Coos Bay Mayor Joe Benetti as an endorser.",
+      "excerpt": "Coos Bay Mayor Joe Benetti",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e14",
+      "endorser": "Florence Mayor Rob Ward",
+      "endorser_type": "official",
+      "statement": "Lynn's pamphlet statement lists Florence Mayor Rob Ward as an endorser.",
+      "excerpt": "Florence Mayor Rob Ward",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e15",
+      "endorser": "Lakeside Mayor Nikki Wood",
+      "endorser_type": "official",
+      "statement": "Lynn's pamphlet statement lists Lakeside Mayor Nikki Wood as an endorser.",
+      "excerpt": "Lakeside Mayor Nikki Wood",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e16",
+      "endorser": "Dunes City Mayor Ed McGuire",
+      "endorser_type": "official",
+      "statement": "Lynn's pamphlet statement lists Dunes City Mayor Ed McGuire as an endorser.",
+      "excerpt": "Dunes City Mayor Ed McGuire",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e17",
+      "endorser": "Lane County Commissioner Ryan Ceniga",
+      "endorser_type": "official",
+      "statement": "Lynn's pamphlet statement lists Lane County Commissioner Ryan Ceniga as an endorser.",
+      "excerpt": "Lane County Commissioner Ryan Ceniga",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e18",
+      "endorser": "Douglas County Commissioner Tim Freeman",
+      "endorser_type": "official",
+      "statement": "Lynn's pamphlet statement lists Douglas County Commissioner Tim Freeman as an endorser.",
+      "excerpt": "Douglas County Commissioner Tim Freeman",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "claire-lynn-e19",
+      "endorser": "Coos County Commissioner John Sweet",
+      "endorser_type": "official",
+      "statement": "Lynn's pamphlet statement lists Coos County Commissioner John Sweet as an endorser.",
+      "excerpt": "Coos County Commisioner John Sweet",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Nov 3 2026 Voters' Pamphlet (edition Book1)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "gaps": [
+    "No news coverage with her own policy statements beyond the pamphlet was fetched (news-domain searches returned only candidate-list and primary coverage).",
+    "Website www.ClaireForOregon.com was not fetched (non-.gov hosts unreachable in this session)."
+  ],
+  "name_variants": [],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "official office page (holds no public office)",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "campaign website (not fetched: non-.gov hosts unreachable in this session)",
+      "result": "blocked"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Claire Lynn\" House District 9 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Claire Lynn\" allowed_domains: opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Claire Lynn\" allowed_domains: kgw.com, koin.com, kptv.com, katu.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Claire Lynn\" allowed_domains: portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://portlandtribune.com/2026/01/08/coastal-oregon-republican-boomer-wright-will-retire/",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/2026-general-election/",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Statement page: Book1 p.41 (right column; Scheirman on left). Open seat: pamphlet and Portland Tribune say Rep. Boomer Wright is retiring. Last endorser line is spelled 'Commisioner' in the pamphlet. Inventory name, party and race match. Non-.gov hosts were unreachable for fetching except portlandtribune.com."
+}

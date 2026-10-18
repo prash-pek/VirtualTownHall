@@ -1,0 +1,195 @@
+{
+  "id": "virgle-osborne",
+  "name": "Virgle J Osborne",
+  "race_id": "or-house-2",
+  "party": "Republican",
+  "incumbent": true,
+  "occupation": "State Representative; Small Business Owner, Twin Peaks Off-Road",
+  "website_url": "https://www.virgleosborne.com",
+  "website_verified_via": "Linked in Osborne's pamphlet statement (Book 1, p. 39): www.VirgleOsborne.com",
+  "incumbent_source_url": "https://www.oregonlegislature.gov/osborne/Pages/biography.aspx",
+  "bio": [
+    {
+      "id": "virgle-osborne-b1",
+      "topic": "custom:background",
+      "statement": "Osborne's pamphlet statement lists his occupation as State Representative and owner of Twin Peaks Off-Road.",
+      "excerpt": "Occupation: State Representative; Small Business Owner, Twin Peaks Off-Road",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "virgle-osborne-b2",
+      "topic": "custom:background",
+      "statement": "He lists prior governmental experience as two terms as state representative and chair or member of Douglas County, Oregon State Parks OHV Oversight and Winston bodies.",
+      "excerpt": "Prior Governmental Experience: 2-Term State Representative; Chairman, Douglas County Planning Commission; Chairman, Oregon State Parks OHV Oversight Committee; Member, Winston Planning Commission",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "virgle-osborne-b3",
+      "topic": "custom:background",
+      "statement": "His official biography says he is serving his second term as State Representative for House District 2.",
+      "excerpt": "Now serving his second term as State Representative for Oregon House District 2",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/osborne/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Rep. Virgle Osborne biography",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "virgle-osborne-b4",
+      "topic": "custom:background",
+      "statement": "His official biography says he has owned Twin Peaks Offroad since 2014.",
+      "excerpt": "owning Twin Peaks Offroad since 2014.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/osborne/Pages/biography.aspx",
+        "publisher": "Oregon Legislature, Rep. Virgle Osborne biography",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "virgle-osborne-p1",
+      "topic": "immigration",
+      "statement": "Osborne says he supports more cooperation among local, county, state and federal law enforcement to disrupt drug operations.",
+      "excerpt": "I strongly support increasing cooperation among local, county, state, and federal law enforcement agencies.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "virgle-osborne-p2",
+      "topic": "economy",
+      "statement": "Osborne says the Habitat Conservation Plan threatens timber jobs and that he opposes it.",
+      "excerpt": "Policies such as the Habitat Conservation Plan pose significant threats to timber companies and put countless jobs at risk. I am firmly opposed to these harmful policies and stand with our timber industry",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "virgle-osborne-p3",
+      "topic": "taxes",
+      "statement": "Osborne says he opposes further taxes and regulations on small businesses.",
+      "excerpt": "I strongly oppose the implementation of further taxes and regulations on small businesses.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "virgle-osborne-p4",
+      "topic": "gun-policy",
+      "statement": "Osborne says he has always opposed gun control measures.",
+      "excerpt": "I have always stood firmly against gun control measures and remain committed to protecting this fundamental right.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 39)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "virgle-osborne-p5",
+      "topic": "gun-policy",
+      "statement": "Reported by KGW, Osborne said the problem is mental health rather than gun access.",
+      "excerpt": "“Because we do not have a gun violence problem, we have a mental health problem,” said Rep. Virgle Osborne, R-Roseburg.",
+      "source": {
+        "url": "https://kgw.com/amp/article/news/politics/oregon-lawmakers-gun-violence-prevention-bills/283-a3257792-8330-40d6-b58b-de1f41166940",
+        "publisher": "KGW",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "virgle-osborne-p6",
+      "topic": "immigration",
+      "statement": "Reported by KGW, Osborne opposed Senate Bill 703 and questioned the state's ability to fund the program.",
+      "excerpt": "Rep. Virgle Osborne, R-Roseburg, questioned the state’s ability to fund the program.",
+      "source": {
+        "url": "https://www.kgw.com/article/news/politics/national-politics/democrat-lawmakers-oregon-push-bill-fund-immigrants-citizenship/283-9fc63c7c-697f-4428-906c-2cdc900b61c4",
+        "publisher": "KGW",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No endorsers listed in pamphlet statement",
+    "Official member page lists no roll-call votes",
+    "KGW quotes (T3) came from search-result text; articles undated in results"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "Book1 p.39 extract",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "https://www.oregonlegislature.gov/osborne/Pages/biography.aspx",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "query_or_url": "VirgleOsborne.com linked in pamphlet",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Virgle Osborne\" Oregon House District 2 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Virgle Osborne\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (search results only; page fetches of these domains were refused, see collection_notes)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Virgle Osborne\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Virgle Osborne\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "used"
+    },
+    {
+      "step": "6",
+      "query_or_url": "follow-up WebFetch of T3 results (opb.org, oregoncapitalchronicle.com, ballotpedia.org)",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Inventory matches. Race has no listed opponent in inventory; ballot lists him as Republican and Democrat nominee (Book1 p.26: 'Republican, Democrat'). Step 6 follow-up fetches of T3 pages were blocked in this session (WebFetch to opb.org and oregoncapitalchronicle.com failed to connect; ballotpedia.org was refused by the permission layer), so T3 items are limited to quotations that appeared in WebSearch result text and need the verifier to re-fetch. Voting records not collected (no roll-call page reached)."
+}

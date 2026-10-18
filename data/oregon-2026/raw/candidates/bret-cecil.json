@@ -1,0 +1,143 @@
+{
+  "id": "bret-cecil",
+  "name": "Bret Cecil",
+  "race_id": "or-house-1",
+  "party": "Democrat",
+  "incumbent": false,
+  "occupation": "Full-Time Community Volunteer",
+  "website_url": "https://bretcecil.com",
+  "website_verified_via": "Linked in Cecil's pamphlet statement (Book 1, p. 38): BretCecil.com",
+  "incumbent_source_url": "https://www.oregonlegislature.gov/boice/Pages/biography.aspx",
+  "bio": [
+    {
+      "id": "bret-cecil-b1",
+      "topic": "custom:background",
+      "statement": "Cecil's pamphlet statement lists his occupation as full-time community volunteer.",
+      "excerpt": "Occupation: Full-Time Community Volunteer",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "bret-cecil-b2",
+      "topic": "custom:background",
+      "statement": "Cecil lists prior governmental experience as elected precinct committee person, South Coast ESD budget committee member, Curry County Transit Advisory Committee member and chair of the Curry County Democratic Central Committee.",
+      "excerpt": "Prior Governmental Experience: Elected Precinct Committee Person; South Coast Education Service District (SCESD) Budget Committee Member; Curry County Transit Advisory Committee Member; Chair, Curry County Democratic Central Committee.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "bret-cecil-b3",
+      "topic": "custom:background",
+      "statement": "Cecil says he lives in Port Orford on the rural coast.",
+      "excerpt": "Hello! I’m your neighbor on the rural coast in Port Orford.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "bret-cecil-p1",
+      "topic": "custom:representation",
+      "statement": "Cecil pledges to hold regular town hall meetings in Coos, Curry and Douglas counties.",
+      "excerpt": "I pledge to hold regular town hall meetings in Coos, Curry and Douglas counties.",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "bret-cecil-p2",
+      "topic": "custom:legislative-priorities",
+      "statement": "Cecil's pamphlet statement lists vote-by-mail, fair taxation, healthcare, housing, education, transportation, public safety and child and elder care as issues he pledges to support and address.",
+      "excerpt": "As your Representative, I pledge to support and address:",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    },
+    {
+      "id": "bret-cecil-p3",
+      "topic": "custom:campaign-finance",
+      "statement": "Cecil says he would support campaign finance reform.",
+      "excerpt": "Support campaign finance reform",
+      "source": {
+        "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+        "publisher": "Oregon Secretary of State, Voters' Pamphlet, General Election Nov. 3, 2026 (Book 1, p. 38)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-18"
+      }
+    }
+  ],
+  "voting_record": [],
+  "endorsements": [],
+  "gaps": [
+    "No endorsers listed in pamphlet statement",
+    "No detail on specific policy proposals beyond the issue list",
+    "No T3 coverage with quotable positions found in search results"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "query_or_url": "Book1 p.38 extract",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "query_or_url": "none: not a current officeholder",
+      "result": "not found"
+    },
+    {
+      "step": "3",
+      "query_or_url": "BretCecil.com linked in pamphlet",
+      "result": "used"
+    },
+    {
+      "step": "4",
+      "query_or_url": "\"Bret Cecil\" Oregon House District 1 2026",
+      "result": "used"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Bret Cecil\" (allowed_domains opb.org, oregoncapitalchronicle.com, wweek.com, ballotpedia.org)",
+      "result": "used (search results only; page fetches of these domains were refused, see collection_notes)"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Bret Cecil\" (allowed_domains kgw.com, koin.com, kptv.com, katu.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "5",
+      "query_or_url": "\"Bret Cecil\" (allowed_domains portlandmercury.com, vote411.org, pamplinmedia.com, portlandtribune.com)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "6",
+      "query_or_url": "follow-up WebFetch of T3 results (opb.org, oregoncapitalchronicle.com, ballotpedia.org)",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Inventory matches (Democrat, non-incumbent; incumbency false per Boice's official page). Oregon Capital Chronicle voter guide (search result) says only Cecil responded to its questionnaire; page not fetchable. Step 6 follow-up fetches of T3 pages were blocked in this session (WebFetch to opb.org and oregoncapitalchronicle.com failed to connect; ballotpedia.org was refused by the permission layer), so T3 items are limited to quotations that appeared in WebSearch result text and need the verifier to re-fetch. Voting records not collected (no roll-call page reached)."
+}
