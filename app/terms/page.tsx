@@ -12,9 +12,9 @@ export default function TermsPage() {
       <section>
         <h2>What TownHall AI is</h2>
         <p>
-          A free, nonpartisan tool from Outset for learning about the candidates and measures on your Oregon ballot.
-          It&apos;s for information only. It isn&apos;t voting, legal or financial advice, and it never tells you how to
-          vote.
+          A free, nonpartisan tool from Outset Innovation for learning about the candidates and measures on your Oregon
+          ballot. It&apos;s for information only. It isn&apos;t voting, legal or financial advice, and it never tells
+          you how to vote.
         </p>
       </section>
 
@@ -51,8 +51,8 @@ export default function TermsPage() {
       <section>
         <h2>No warranty</h2>
         <p>
-          TownHall AI is provided as is, without warranties of any kind. To the extent the law allows, Outset isn&apos;t
-          liable for any loss that comes from using it or relying on it.
+          TownHall AI is provided as is, without warranties of any kind. To the extent the law allows, Outset Innovation
+          isn&apos;t liable for any loss that comes from using it or relying on it.
         </p>
       </section>
 
