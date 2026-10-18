@@ -26,10 +26,10 @@ export function AskProvider({
   initial?: string[];
   children: React.ReactNode;
 }) {
-  const [selected, setSelected] = useState<string[]>(() => {
-    const fromLink = (initial ?? []).filter((id) => sides.some((s) => s.id === id));
-    return fromLink.length > 0 ? fromLink : sides.map((s) => s.id);
-  });
+  // Nobody is selected to start, unless a link (e.g. "Ask your shortlist") names who to ask.
+  const [selected, setSelected] = useState<string[]>(() =>
+    (initial ?? []).filter((id) => sides.some((s) => s.id === id)),
+  );
   // Keep the filing order, whatever order the voter clicked in.
   const toggle = (id: string) =>
     setSelected((cur) =>

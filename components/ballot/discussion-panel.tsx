@@ -42,7 +42,8 @@ export function DiscussionPanel({
 }) {
   // On a race page the selection is shared with the candidate cards (AskProvider); elsewhere it's local.
   const shared = useAsk();
-  const [local, setLocal] = useState<string[]>(() => sides.map((s) => s.id));
+  // Nobody is selected to start: the voter picks who they want to hear from.
+  const [local, setLocal] = useState<string[]>([]);
   const selected = shared?.selected ?? local;
   const setSelected = shared?.setSelected ?? setLocal;
   const [rounds, setRounds] = useState<Round[]>([]);
@@ -152,7 +153,7 @@ export function DiscussionPanel({
               );
             })}
           </div>
-          {selected.length === 0 && <p className="note">Pick at least one candidate to ask.</p>}
+          {selected.length === 0 && <p className="note">Pick who you&apos;d like to hear from, then ask away.</p>}
         </fieldset>
       )}
 
@@ -252,7 +253,13 @@ export function DiscussionPanel({
       {rounds.length === 0 && !busy && (
         <div className="flex flex-wrap gap-2">
           {starters.map((s) => (
-            <button key={s} type="button" onClick={() => void ask(s)} disabled={busy} className="chip">
+            <button
+              key={s}
+              type="button"
+              onClick={() => void ask(s)}
+              disabled={busy || (sides.length > 0 && selected.length === 0)}
+              className="chip"
+            >
               {s}
             </button>
           ))}
