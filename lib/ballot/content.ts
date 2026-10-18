@@ -49,7 +49,7 @@ export type CandidateProfile = {
   draft: boolean;
   bio: SourcedItem[];
   positions: (SourcedItem & { topic: string | null })[];
-  votingRecord: SourcedItem[];
+  votingRecord: (SourcedItem & { topic: string | null })[];
   endorsements: Endorsement[];
 };
 
@@ -197,7 +197,7 @@ export async function getRaceProfiles(raceSlug: string, preview: boolean): Promi
       draft: c.status !== "published",
       bio: own.filter((i) => i.kind === "bio").map(toItem),
       positions: own.filter((i) => i.kind === "position").map((i) => ({ ...toItem(i), topic: i.topic })),
-      votingRecord: own.filter((i) => i.kind === "voting_record").map(toItem),
+      votingRecord: own.filter((i) => i.kind === "voting_record").map((i) => ({ ...toItem(i), topic: i.topic })),
       endorsements: shown.includes(c) ? (endorsed.get(c.id) ?? []).map((e) => e.endorsement) : [],
     };
   });

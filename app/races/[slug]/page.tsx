@@ -12,6 +12,7 @@ import { getSession } from "@/lib/auth/session";
 import { hasRole } from "@/lib/auth/roles";
 import { getCatalog } from "@/lib/ballot/catalog";
 import { getRaceProfiles, type CandidateProfile } from "@/lib/ballot/content";
+import { issueLabel, topIssues } from "@/lib/ballot/issues";
 import { itemTitle } from "@/lib/ballot/types";
 
 export const dynamic = "force-dynamic";
@@ -42,6 +43,8 @@ export default async function RacePage({
   const canAsk = profiles.some(
     (p) => p.bio.length || p.positions.length || p.votingRecord.length || p.endorsements.length,
   );
+  // "Ask about": the issues this race has sources on, most widely covered first.
+  const topics = topIssues(profiles.map((p) => ({ topics: [...p.positions, ...p.votingRecord].map((i) => i.topic) })));
 
   return (
     <AskProvider sides={sides} initial={ask?.slice(0, 2000).split(",")}>
@@ -66,11 +69,8 @@ export default async function RacePage({
                 itemKey={race.key}
                 sides={sides}
                 layout="sidebar"
-                starters={[
-                  "What are their top priorities?",
-                  "Where do they stand on housing and homelessness?",
-                  "What experience do they bring?",
-                ]}
+                topics={topics}
+                starters={["What are their top priorities?", "What experience do they bring?"]}
               />
             ) : (
               <NotReady />
@@ -137,7 +137,7 @@ function CandidateCard({ c, canAsk }: { c: CandidateProfile; canAsk: boolean }) 
           <ul className="flex flex-col gap-2">
             {highlights.map((p, n) => (
               <li key={n} className="text-[15px] text-ink-soft">
-                {p.topic && <span className="font-semibold text-ink">{p.topic}: </span>}
+                {issueLabel(p.topic) && <span className="font-semibold text-ink">{issueLabel(p.topic)}: </span>}
                 <Sourced item={p} className="inline" />
               </li>
             ))}

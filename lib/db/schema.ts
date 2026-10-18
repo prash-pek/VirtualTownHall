@@ -575,6 +575,28 @@ export const aiCalls = pgTable(
 );
 
 /**
+ * Questions our sources couldn't fully answer, as a topic only (an issue id from data/oregon-2026/issues.json,
+ * or "other: <a few words>"). Never the question text and nothing about the voter: the privacy page promises we
+ * don't keep questions. The weekly issue sweep searches the most common gaps first.
+ */
+export const sourceGaps = pgTable(
+  "source_gaps",
+  {
+    id: id(),
+    itemKey: text("item_key").notNull(),
+    topic: text("topic").notNull(),
+    /** Side ids (candidate slugs, or yes/no) whose sources didn't address the question. */
+    uncoveredSides: text("uncovered_sides")
+      .array()
+      .notNull()
+      .default(sql`'{}'::text[]`),
+    sidesAsked: integer("sides_asked").notNull().default(0),
+    createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
+  },
+  (t) => [index("source_gaps_item_created_idx").on(t.itemKey, t.createdAt)],
+);
+
+/**
  * Hash-chained audit log: hash = sha256(prev_hash ‖ canonical_json(entry)), seq monotonic per subject.
  * UPDATE and DELETE are blocked by a trigger (see drizzle/0002_audit_log_append_only.sql).
  */

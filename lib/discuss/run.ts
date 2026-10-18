@@ -7,11 +7,19 @@ import { z } from "zod";
 import { getCatalog } from "@/lib/ballot/catalog";
 import { getMeasureDetail, getRaceProfiles } from "@/lib/ballot/content";
 import { getDb } from "@/lib/db/client";
-import { aiCalls } from "@/lib/db/schema";
+import { aiCalls, sourceGaps } from "@/lib/db/schema";
 
 import { overDailyBudget } from "./budget";
 import { signRound, verifiedHistory, type SignedRound } from "./history";
-import { buildPack, normalizeAnswers, systemPrompt, type ItemPack, type PackSource, type SideAnswer } from "./pack";
+import {
+  buildPack,
+  normalizeAnswers,
+  normalizeTopic,
+  systemPrompt,
+  type ItemPack,
+  type PackSource,
+  type SideAnswer,
+} from "./pack";
 
 /**
  * Sonnet 5.5 at low effort (Prash, 2026-10-16): it matched Opus 5.5 on every quality measure in the
@@ -34,10 +42,12 @@ const pricing: Record<string, [number, number, number]> = {
  */
 const answersSchema = (ids: string[]) =>
   z.object({
+    topic: z.string().describe("The question's issue id, or other: and a few words"),
     responses: z.array(
       z.object({
         side: z.string().describe(`The side's id, exactly one of: ${ids.join(", ")}`),
         answer: z.string(),
+        covered: z.boolean().describe("True only if this side's sources directly address the question"),
         sourceIds: z.array(z.number().int()),
       }),
     ),
@@ -45,6 +55,8 @@ const answersSchema = (ids: string[]) =>
 
 export type DiscussResult = {
   responses: (SideAnswer & { label: string; sources: { n: number; url: string | null; publisher: string | null }[] })[];
+  /** The question's issue id (or "other: …"); never the question itself. */
+  topic: string;
   /** Sent back with the next question so the server can tell this round wasn't edited. */
   sig: string;
 };
@@ -194,7 +206,17 @@ export async function discuss(
 
   if (!message.parsed_output) throw new DiscussError("upstream");
   const answers = normalizeAnswers(pack, sources, message.parsed_output.responses);
+  const topic = normalizeTopic(message.parsed_output.topic);
+  const uncovered = answers.filter((a) => a.covered === false);
+  if (uncovered.length > 0) {
+    // Topic and side ids only, never the question: the privacy page promises we don't keep questions.
+    await getDb()
+      .insert(sourceGaps)
+      .values({ itemKey, topic, uncoveredSides: uncovered.map((a) => a.side), sidesAsked: answers.length })
+      .catch((e: unknown) => console.error("discuss: failed to log source gap", e));
+  }
   return {
+    topic,
     sig: signRound(apiKey, itemKey, { question, responses: answers }),
     responses: answers.map((a) => ({
       ...a,

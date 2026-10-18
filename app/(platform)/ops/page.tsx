@@ -29,12 +29,16 @@ export default async function OpsHome() {
         <Link href="/ops/costs" className="link">
           Claude usage and costs
         </Link>
+        {" · "}
+        <Link href="/ops/gaps" className="link">
+          Questions our sources couldn&apos;t answer
+        </Link>
       </p>
 
       <PublishEverythingForm
         count={
           q.measures.filter((m) => m.status !== "published").length +
-          candidates.filter((c) => c.status !== "published").length
+          candidates.filter((c) => c.status !== "published" || c.pending > 0).length
         }
       />
 
@@ -81,7 +85,9 @@ export default async function OpsHome() {
         </p>
         {q.races.map((r) => {
           const published = done(r.candidates);
-          const allPublished = published === r.candidates.length;
+          // A published candidate with new drafts (a weekly issue sweep) still needs publishing.
+          const toPublish = r.candidates.filter((c) => c.status !== "published" || c.pending > 0).length;
+          const allPublished = toPublish === 0;
           return (
             <details key={r.slug} className="card p-0" open={!allPublished}>
               <summary className="flex cursor-pointer items-center justify-between gap-3 px-4 py-3">
@@ -92,7 +98,7 @@ export default async function OpsHome() {
                     {r.withoutContent > 0 && ` · ${r.withoutContent} without content`}
                   </span>
                 </span>
-                <PublishRaceForm race={r.slug} count={r.candidates.length - published} allPublished={allPublished} />
+                <PublishRaceForm race={r.slug} count={toPublish} allPublished={allPublished} />
               </summary>
               <ul className="flex flex-col border-t border-line">
                 {r.candidates.map((c) => (
@@ -104,7 +110,10 @@ export default async function OpsHome() {
                       <Link href={`/ops/candidates/${c.slug}`} className="font-medium hover:text-olive">
                         {c.name}
                       </Link>
-                      <p className="note">{c.items} sourced items</p>
+                      <p className="note">
+                        {c.items} sourced items
+                        {c.status === "published" && c.pending > 0 && ` · ${c.pending} new to review`}
+                      </p>
                     </div>
                     <StatusTag status={c.status} />
                   </li>

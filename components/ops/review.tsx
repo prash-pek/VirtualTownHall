@@ -19,7 +19,31 @@ export function StatusTag({ status }: { status: QueueStatus }) {
   );
 }
 
-export function PublishForm({ kind, slug, published }: { kind: SubjectKind; slug: string; published: boolean }) {
+export function PublishForm({
+  kind,
+  slug,
+  published,
+  pending = 0,
+}: {
+  kind: SubjectKind;
+  slug: string;
+  published: boolean;
+  /** New drafts on an already published subject (for example a weekly issue sweep). */
+  pending?: number;
+}) {
+  if (published && pending > 0) {
+    return (
+      <span className="flex flex-wrap gap-2">
+        <form action={publishAction}>
+          <input type="hidden" name="kind" value={kind} />
+          <input type="hidden" name="slug" value={slug} />
+          <input type="hidden" name="publish" value="1" />
+          <button className="btn-primary">Publish {pending} new</button>
+        </form>
+        <PublishForm kind={kind} slug={slug} published />
+      </span>
+    );
+  }
   return (
     <form action={publishAction}>
       <input type="hidden" name="kind" value={kind} />

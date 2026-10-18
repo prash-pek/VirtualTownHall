@@ -52,6 +52,16 @@ export const verifiedCandidateSchema = z.looseObject({
   gaps: z.array(z.string()).default([]),
 });
 
+/** A candidate's weekly issue sweeps (data/oregon-2026/verified/issues/<id>.json, see ISSUE_SWEEP.md). */
+export const verifiedIssueSweepSchema = z.looseObject({
+  id: z.string(),
+  race_id: z.string(),
+  sweeps: z.array(z.string()).default([]),
+  positions: z.array(item).default([]),
+  voting_record: z.array(item).default([]),
+  gaps: z.array(z.string()).default([]),
+});
+
 export const verifiedMeasureSchema = z.looseObject({
   id: z.string(),
   ballot_label: z.string().nullish(),
@@ -95,6 +105,7 @@ export const outletSlateSchema = z.looseObject({
 export type VerifiedEndorsement = z.infer<typeof endorsement>;
 export type VerifiedItem = z.infer<typeof item>;
 export type VerifiedCandidate = z.infer<typeof verifiedCandidateSchema>;
+export type VerifiedIssueSweep = z.infer<typeof verifiedIssueSweepSchema>;
 export type VerifiedMeasure = z.infer<typeof verifiedMeasureSchema>;
 
 /** Items the verifier rejected never reach the database. */

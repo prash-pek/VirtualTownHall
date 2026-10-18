@@ -26,6 +26,7 @@ import {
   outletSlateSchema,
   usable,
   verifiedCandidateSchema,
+  verifiedIssueSweepSchema,
   verifiedMeasureSchema,
   type VerifiedItem,
 } from "../lib/seed/verified";
@@ -46,8 +47,12 @@ async function readJson(path: string): Promise<unknown> {
   return JSON.parse(text);
 }
 
-async function readAll<T>(sub: string, parse: (v: unknown) => T): Promise<T[]> {
-  const files = (await readdir(join(dir, sub))).filter((f) => f.endsWith(".json")).sort();
+async function readAll<T>(sub: string, parse: (v: unknown) => T, optional = false): Promise<T[]> {
+  const listing = await readdir(join(dir, sub)).catch((e: NodeJS.ErrnoException) => {
+    if (optional && e.code === "ENOENT") return [];
+    throw e;
+  });
+  const files = listing.filter((f) => f.endsWith(".json")).sort();
   const raw = [];
   for (const f of files) raw.push(await readJson(join(dir, sub, f)));
   return raw.map(parse);
@@ -55,6 +60,8 @@ async function readAll<T>(sub: string, parse: (v: unknown) => T): Promise<T[]> {
 
 const candidates = await readAll("candidates", (v) => verifiedCandidateSchema.parse(v));
 const measures = await readAll("measures", (v) => verifiedMeasureSchema.parse(v));
+// Weekly issue sweeps (ISSUE_SWEEP.md) add items to candidates imported above.
+const sweeps = await readAll("issues", (v) => verifiedIssueSweepSchema.parse(v), true);
 const outletDir = join(dir, "..", "endorsements", "outlets");
 const slates = await readdir(outletDir)
   .then(async (files) => {
@@ -114,6 +121,33 @@ async function recordVerification(tx: Tx, subjectType: string, subjectId: string
     note: v.note ?? null,
     verifier: "agent",
   });
+}
+
+type ItemKind = "bio" | "position" | "voting_record";
+
+/** New candidate items land as drafts; an item already imported (same content hash) is left alone. */
+async function addItems(tx: Tx, candidateId: string, groups: (readonly [ItemKind, VerifiedItem[]])[]) {
+  for (const [kind, items] of groups) {
+    for (const i of usable(items)) {
+      const [inserted] = await tx
+        .insert(schema.candidateItems)
+        .values({
+          candidateId,
+          kind,
+          topic: i.topic ?? null,
+          statement: i.statement,
+          excerpt: i.excerpt ?? null,
+          sourceId: await sourceId(tx, i.source),
+          contentHash: contentHash(i),
+        })
+        .onConflictDoNothing()
+        .returning({ id: schema.candidateItems.id });
+      if (inserted) {
+        stats.items++;
+        await recordVerification(tx, "candidate_item", inserted.id, i.verification);
+      }
+    }
+  }
 }
 
 type EndorsementRow = Omit<typeof schema.endorsements.$inferInsert, "id" | "status">;
@@ -238,32 +272,28 @@ try {
           e.verification,
         );
       }
-      const groups = [
+      await addItems(tx, row.id, [
         ["bio", c.bio],
         ["position", c.positions],
         ["voting_record", c.voting_record],
-      ] as const;
-      for (const [kind, items] of groups) {
-        for (const i of usable(items)) {
-          const [inserted] = await tx
-            .insert(schema.candidateItems)
-            .values({
-              candidateId: row.id,
-              kind,
-              topic: i.topic ?? null,
-              statement: i.statement,
-              excerpt: i.excerpt ?? null,
-              sourceId: await sourceId(tx, i.source),
-              contentHash: contentHash(i),
-            })
-            .onConflictDoNothing()
-            .returning({ id: schema.candidateItems.id });
-          if (inserted) {
-            stats.items++;
-            await recordVerification(tx, "candidate_item", inserted.id, i.verification);
-          }
-        }
+      ]);
+    }
+
+    for (const s of sweeps) {
+      const id =
+        candidateIds.get(s.id) ??
+        (
+          await tx.select({ id: schema.candidates.id }).from(schema.candidates).where(eq(schema.candidates.slug, s.id))
+        )[0]?.id;
+      if (!id) {
+        stats.skippedMissing++;
+        console.warn(`issue sweep for ${s.id}: candidate is not in the database`);
+        continue;
       }
+      await addItems(tx, id, [
+        ["position", s.positions],
+        ["voting_record", s.voting_record],
+      ]);
     }
 
     // Outlet slates were verified as a whole (see their reports/), so they carry no per-row verification.
