@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Schema and policy checks for Oregon 2026 seed files.
 
-  validate.py raw <file>...        check collector output
+  validate.py raw <file>...        check collector output (candidates/, measures/ or issues/)
   validate.py verified <file>...   check verifier output
   validate.py strip <file> <out>   copy a raw file without collector notes/log (verifier input)
   validate.py status               coverage table: inventory vs raw vs verified
@@ -18,12 +18,9 @@ MEASURES = {m["id"]: m for m in INVENTORY["measures"]}
 
 TIERS = {"T1", "T2", "T3"}
 STATUSES = {"verified", "corrected", "rejected"}
-TOPICS = {
-    "economy", "education", "healthcare", "housing", "environment", "public-safety",
-    "infrastructure", "taxes", "immigration", "civil-rights", "local-business",
-    "transportation", "technology", "veterans", "agriculture", "foreign-policy",
-    "gun-policy", "social-services",
-}
+# The fixed issue list (data/oregon-2026/issues.json) is the topic taxonomy.
+ISSUES = {i["id"]: i for i in json.loads((ROOT / "issues.json").read_text())["issues"]}
+TOPICS = set(ISSUES)
 LOADED = re.compile(
     r"\b(radical|common[- ]sense|extreme|extremist|slams?|slammed|failed|failing|disastrous|"
     r"so-called|reckless|dangerous|crazy|woke|heroic|brave|corrupt)\b",
@@ -177,16 +174,53 @@ def check_measure(d, errs, verified):
                 check_verification(d[f"{key}_verification"], key, errs)
 
 
+ISSUE_CAP_PER_TOPIC = 2
+ISSUE_CAP_TOTAL = 40
+
+
+def check_issue_sweep(d, errs, verified):
+    """A weekly issue sweep for one candidate (ISSUE_SWEEP.md). Items must use a fixed issue id."""
+    cid = d.get("id")
+    inv = CANDIDATES.get(cid)
+    if not inv:
+        errs.append(f"unknown candidate id {cid}")
+        return
+    if d.get("race_id") != inv["race_id"]:
+        errs.append(f"race_id {d.get('race_id')} != inventory {inv['race_id']}")
+    for key in ("name", "sweeps", "positions", "voting_record", "gaps"):
+        if key not in d:
+            errs.append(f"missing {key}")
+    if not d.get("sweeps") or not all(DATE.match(x or "") for x in d.get("sweeps") or []):
+        errs.append("sweeps must list the sweep dates (YYYY-MM-DD)")
+    per_topic, ids, total = {}, set(), 0
+    for key in ("positions", "voting_record"):
+        for i, item in enumerate(d.get(key) or []):
+            where = f"{key}[{i}]"
+            check_item(item, where, errs, verified)
+            if item.get("topic") not in TOPICS:
+                errs.append(f"{where}: topic must be an issue id from issues.json")
+            if item.get("id") in ids:
+                errs.append(f"duplicate item id {item.get('id')}")
+            ids.add(item.get("id"))
+            total += 1
+            per_topic[item.get("topic")] = per_topic.get(item.get("topic"), 0) + 1
+    for topic, n in per_topic.items():
+        if n > ISSUE_CAP_PER_TOPIC * max(1, len(d.get("sweeps") or [])):
+            errs.append(f"{topic}: {n} items, cap {ISSUE_CAP_PER_TOPIC} per issue per sweep")
+    if total > ISSUE_CAP_TOTAL * max(1, len(d.get("sweeps") or [])):
+        errs.append(f"{total} items, cap {ISSUE_CAP_TOTAL} per sweep")
+
+
 def check_file(path, verified):
     errs = []
     try:
         d = json.loads(Path(path).read_text())
     except Exception as e:  # noqa: BLE001
         return [f"invalid JSON: {e}"]
-    kind = "measures" if "/measures/" in str(path) else "candidates"
+    kind = "measures" if "/measures/" in str(path) else "issues" if "/issues/" in str(path) else "candidates"
     if Path(path).stem != d.get("id"):
         errs.append(f"file name {Path(path).stem} != id {d.get('id')}")
-    (check_measure if kind == "measures" else check_candidate)(d, errs, verified)
+    {"measures": check_measure, "issues": check_issue_sweep, "candidates": check_candidate}[kind](d, errs, verified)
     if verified:
         for key in COLLECTOR_ONLY:
             if key in d:
