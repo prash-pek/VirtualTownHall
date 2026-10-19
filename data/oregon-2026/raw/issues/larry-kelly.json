@@ -1,0 +1,205 @@
+{
+  "id": "larry-kelly",
+  "name": "Larry Kelly",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: not searched (low coverage)",
+    "childcare: not searched (low coverage)",
+    "public-safety: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "all",
+      "query_or_url": "no confirmed campaign website; fetched Portland Mercury and OPB District 3 guides for Kelly passages",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "\"Larry Kelly\" city councilor Portland Oregon economy jobs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Larry Kelly\" city councilor Portland Oregon cost of living prices",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Larry Kelly\" Portland Oregon taxes council candidate",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "verified/candidates/larry-kelly.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Larry Kelly\" Portland City Council District 3 homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "verified/candidates/larry-kelly.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "\"Larry Kelly\" Portland Oregon addiction mental health drugs council",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "\"Larry Kelly\" Portland council Oregon public safety police crime",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "agriculture",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "infrastructure",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "technology",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "labor",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "local-business",
+      "query_or_url": "verified/candidates/larry-kelly.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "verified/candidates/larry-kelly.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "abortion",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "veterans",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    }
+  ]
+}
