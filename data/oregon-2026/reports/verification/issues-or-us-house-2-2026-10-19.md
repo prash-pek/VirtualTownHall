@@ -68,4 +68,5 @@ No evidence of unequal effort.
 |---|---|---|
 | Collector, Cliff Bentz | 118.8k | 56 |
 | Collector, Chris Beck | 93.3k | 22 |
-| Verifier, both | see round-2 ledger | |
+| Verifier, both | 99.2k | 32 |
+| Total | 311.3k | 110 |

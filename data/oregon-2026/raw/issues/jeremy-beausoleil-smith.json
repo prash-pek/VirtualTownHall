@@ -340,5 +340,6 @@
       "query_or_url": "verified/candidates file",
       "result": "already covered"
     }
-  ]
+  ],
+  "collection_notes": "Identity: all items concern the 2026 Portland District 4 candidate (campaign site jeremy4pdx.com verified in verified/candidates file; OpGov.News interview is of the District 4 candidate). validate.py EXCLUDED_HOSTS regex 'x.com' is unanchored and falsely matches 'jeremy4pdx.com'; 10 T2 items flagged only for that reason. Skipped as sources: Portland DSA voter guide (endorsement/advocacy), portlandciviclab.org (AI-assisted guide), Threads/Bluesky (social)."
 }
