@@ -38,6 +38,8 @@ export default function AboutPage() {
           </p>
         </section>
 
+        <hr className="my-3 border-line" />
+
         <section className="flex flex-col gap-3">
           <h2>How we find sources</h2>
           <p>
@@ -73,6 +75,16 @@ export default function AboutPage() {
           <Link href="/ballot" className="link">
             Start on your ballot
           </Link>
+        </p>
+
+        <hr className="my-3 border-line" />
+
+        <p className="text-[15px] text-muted">
+          TownHall AI is built by{" "}
+          <a className="link" href="https://outsetinno.com" rel="noopener noreferrer">
+            Outset Innovation
+          </a>
+          , an agency in Portland, Oregon that brings creative solutions to complicated problems.
         </p>
       </div>
     </main>
