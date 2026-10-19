@@ -278,6 +278,8 @@ export const candidates = pgTable(
     incumbent: boolean("incumbent"),
     occupation: text("occupation"),
     websiteUrl: text("website_url"),
+    /** The office's own page for an incumbent (link bank; see data/oregon-2026/pipeline/fill_links.py). */
+    officialUrl: text("official_url"),
     profileSource: profileSource("profile_source").notNull().default("public_seed"),
     ownerUserId: text("owner_user_id"),
     claimedAt: timestamp("claimed_at", { withTimezone: true }),

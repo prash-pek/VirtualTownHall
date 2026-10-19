@@ -23,7 +23,19 @@ export type PackSide = {
   label: string;
   facts: PackSource[];
   endorsements: PackEndorsement[];
+  /** Where a voter can look for themselves when our sources don't cover a question. Never sent to the model. */
+  links?: SideLink[];
 };
+
+export type SideLink = { label: string; url: string };
+
+/** The candidate's own pages from our stored link bank (candidates.official_url, website_url). */
+export function sideLinks(c: { officialUrl: string | null; websiteUrl: string | null }): SideLink[] {
+  return [
+    ...(c.officialUrl ? [{ label: "Official page", url: c.officialUrl }] : []),
+    ...(c.websiteUrl ? [{ label: "Campaign website", url: c.websiteUrl }] : []),
+  ];
+}
 
 export type ItemPack = {
   kind: "race" | "measure";

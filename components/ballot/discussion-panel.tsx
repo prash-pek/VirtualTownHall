@@ -12,6 +12,8 @@ type Answer = {
   /** False when the side's sources don't directly address the question; it may still cite something related. */
   covered?: boolean;
   sources: { n: number; url: string | null; publisher: string | null }[];
+  /** For a candidate our sources don't cover: their own pages, so the voter can look for themselves. */
+  links?: { label: string; url: string }[];
 };
 type Round = { question: string; responses: Answer[]; sig?: string };
 
@@ -36,6 +38,25 @@ const noAnswer = (a: Answer) => a.answer.startsWith("No answer was produced");
 const uncovered = (a: Answer) => a.sourceIds.length === 0 && !noAnswer(a);
 /** Not covered directly, but the answer points to the closest related source. */
 const related = (a: Answer) => a.covered === false && a.sourceIds.length > 0;
+
+/** "Look for yourself" links from the candidate's stored pages, or a plain note that we have none. */
+function LookYourself({ a }: { a: Answer }) {
+  if (!a.links) return null;
+  if (a.links.length === 0) return <p className="note">We don&apos;t have a website on file for {a.label}.</p>;
+  return (
+    <p className="text-sm">
+      Look for yourself:{" "}
+      {a.links.map((l, i) => (
+        <span key={l.url}>
+          {i > 0 && " · "}
+          <a href={l.url} className="link" target="_blank" rel="noopener noreferrer">
+            {l.label}
+          </a>
+        </span>
+      ))}
+    </p>
+  );
+}
 
 /**
  * Ask one question; every candidate (or YES and NO) answers from our sources, side by side. For a race,
@@ -204,6 +225,7 @@ export function DiscussionPanel({
                     ) : (
                       <p className="text-[15px] leading-relaxed">{a.answer}</p>
                     )}
+                    <LookYourself a={a} />
                     {a.sources.length > 0 && (
                       <p className="flex flex-wrap items-center gap-1.5 text-[12.5px] text-muted">
                         Sources:
@@ -233,14 +255,25 @@ export function DiscussionPanel({
               </div>
             )}
             {grouped(r) && (
-              <p className="border border-dashed border-line-strong bg-cream p-4 text-[15px]">
-                <strong>Our sources don&apos;t cover this</strong> for{" "}
-                {r.responses
-                  .filter(uncovered)
-                  .map((a) => a.label)
-                  .join("; ")}
-                .
-              </p>
+              <div className="flex flex-col gap-2 border border-dashed border-line-strong bg-cream p-4 text-[15px]">
+                <p>
+                  <strong>Our sources don&apos;t cover this</strong> for{" "}
+                  {r.responses
+                    .filter(uncovered)
+                    .map((a) => a.label)
+                    .join("; ")}
+                  .
+                </p>
+                {r.responses.filter(uncovered).some((a) => a.links) && (
+                  <ul className="flex flex-col gap-1">
+                    {r.responses.filter(uncovered).map((a) => (
+                      <li key={a.side} className="flex flex-wrap gap-x-1">
+                        <span className="font-semibold">{a.label}:</span> <LookYourself a={a} />
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
             )}
             {contactEmail && (
               <p className="text-sm text-muted">

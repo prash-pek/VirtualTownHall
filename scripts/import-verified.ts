@@ -245,6 +245,7 @@ try {
         .set({
           occupation: c.occupation ?? null,
           websiteUrl: c.website_url ?? null,
+          officialUrl: c.official_url ?? null,
           gaps: c.gaps,
           updatedAt: sql`now()`,
         })

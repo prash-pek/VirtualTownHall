@@ -1,7 +1,14 @@
 import { describe, expect, it } from "vitest";
 
 import { issueLabel, topIssues } from "@/lib/ballot/issues";
-import { buildPack, normalizeAnswers, normalizeTopic, systemPrompt, type ItemPack } from "@/lib/discuss/pack";
+import {
+  buildPack,
+  normalizeAnswers,
+  normalizeTopic,
+  sideLinks,
+  systemPrompt,
+  type ItemPack,
+} from "@/lib/discuss/pack";
 
 const src = (statement: string, url: string | null = "https://example.org/a") => ({
   statement,
@@ -181,5 +188,17 @@ describe("topIssues", () => {
     const out = topIssues([{ topics: ["housing", "energy", "custom:bio"] }, { topics: ["energy", "energy", null] }]);
     expect(out.map((i) => i.id)).toEqual(["energy", "housing"]);
     expect(issueLabel("custom:bio")).toBeNull();
+  });
+});
+
+describe("sideLinks", () => {
+  it("reads the stored link bank, official page first, and never invents one", () => {
+    expect(
+      sideLinks({ officialUrl: "https://www.merkley.senate.gov/", websiteUrl: "https://jeffmerkley.com" }),
+    ).toEqual([
+      { label: "Official page", url: "https://www.merkley.senate.gov/" },
+      { label: "Campaign website", url: "https://jeffmerkley.com" },
+    ]);
+    expect(sideLinks({ officialUrl: null, websiteUrl: null })).toEqual([]);
   });
 });

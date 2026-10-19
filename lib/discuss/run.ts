@@ -15,10 +15,12 @@ import {
   buildPack,
   normalizeAnswers,
   normalizeTopic,
+  sideLinks,
   systemPrompt,
   type ItemPack,
   type PackSource,
   type SideAnswer,
+  type SideLink,
 } from "./pack";
 
 /**
@@ -54,7 +56,12 @@ const answersSchema = (ids: string[]) =>
   });
 
 export type DiscussResult = {
-  responses: (SideAnswer & { label: string; sources: { n: number; url: string | null; publisher: string | null }[] })[];
+  responses: (SideAnswer & {
+    label: string;
+    sources: { n: number; url: string | null; publisher: string | null }[];
+    /** For a side our sources don't cover: the candidate's own pages, so the voter can look themselves. */
+    links?: SideLink[];
+  })[];
   /** The question's issue id (or "other: …"); never the question itself. */
   topic: string;
   /** Sent back with the next question so the server can tell this round wasn't edited. */
@@ -83,6 +90,7 @@ async function loadPack(itemKey: string, preview: boolean): Promise<ItemPack> {
         label: [p.name, p.party, p.incumbent ? "incumbent" : null].filter(Boolean).join(", "),
         facts: [...p.bio, ...p.positions, ...p.votingRecord],
         endorsements: p.endorsements,
+        links: sideLinks(p),
       })),
     };
   }
@@ -221,6 +229,9 @@ export async function discuss(
     responses: answers.map((a) => ({
       ...a,
       label: pack.sides.find((s) => s.id === a.side)?.label ?? a.side,
+      ...(a.covered === false && pack.kind === "race"
+        ? { links: pack.sides.find((s) => s.id === a.side)?.links ?? [] }
+        : {}),
       sources: a.sourceIds.flatMap((n) => {
         const s = sources.find((x) => x.n === n);
         return s ? [{ n, url: s.url, publisher: s.publisher }] : [];

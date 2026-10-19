@@ -160,6 +160,11 @@ function CandidateCard({ c, canAsk }: { c: CandidateProfile; canAsk: boolean }) 
       )}
       <EndorsedBy endorsements={c.endorsements} />
       <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm">
+        {c.officialUrl && (
+          <a href={c.officialUrl} className="link" target="_blank" rel="noopener noreferrer">
+            Official page
+          </a>
+        )}
         {c.websiteUrl && (
           <a href={c.websiteUrl} className="link" target="_blank" rel="noopener noreferrer">
             Campaign website
