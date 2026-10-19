@@ -1,0 +1,105 @@
+{
+  "id": "loran-ayles",
+  "name": "Loran Ayles",
+  "race_id": "or-us-house-3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "housing: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: not searched (low coverage)",
+    "education: not searched (low coverage)",
+    "childcare: not searched (low coverage)",
+    "public-safety: not searched (low coverage)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "social-security-medicare: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)",
+    "trade: not searched (low coverage)",
+    "foreign-policy: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "all",
+      "query_or_url": "no confirmed campaign website (website_url null); issues page step skipped",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "\"Loran Ayles\" US House Oregon economy jobs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Loran Ayles\" Congress Oregon cost of living prices inflation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-us-house-district-3/",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Loran Ayles\" Congress Oregon taxes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "https://ivoterguide.com/candidate/91844/race/32662/election/1473",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "https://www.ballotready.org/people/loran-ayles",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"Loran Ayles\" Congress Oregon housing rent",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Loran Ayles\" Congress Oregon homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Loran Ayles\" Congress Oregon health care",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Stopped after 6 consecutive searches (economy through healthcare) with nothing usable. Candidate file has no website. Oregon Capital Chronicle voter guide returned HTTP 403 (blocked). iVoterGuide shows every questionnaire item 'Did not answer'; BallotReady lists only his employer. Search snippets mentioning priorities came from excluded or unattributable sources (theballotbrief.com, aggregator pages) and were not used. One search returned an unverified 'Ayles voted no on OBBBA' claim from a ballot-information site; he holds no office, so it was not used."
+}
