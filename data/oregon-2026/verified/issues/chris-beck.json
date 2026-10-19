@@ -1,0 +1,296 @@
+{
+  "id": "chris-beck",
+  "name": "Chris Beck",
+  "race_id": "or-us-house-2",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "chris-beck-i1",
+      "topic": "cost-of-living",
+      "statement": "On his campaign issues page, Beck says everything costs too much.",
+      "excerpt": "Everything costs too much. Everything.",
+      "source": {
+        "url": "https://ChrisBeckforCongress.com/district2issues",
+        "publisher": "Chris Beck campaign site (ChrisBeckforCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Section heading on undated campaign page. Campaign domain previously confirmed in verified/candidates/chris-beck.json; page is Chris Beck for Congress, District 2.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "chris-beck-i2",
+      "topic": "economy",
+      "statement": "OPB reported that Beck criticized \"50 years of trickle-down economics.\"",
+      "excerpt": "50 years of trickle-down economics",
+      "source": {
+        "url": "https://www.opb.org/article/2026/09/30/chris-beck-puts-rural-health-care-at-the-center-of-race-against-cliff-bentz/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-09-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "OPB (Sept 30, 2026, by JPR reporters) attributes the phrase to Beck.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "chris-beck-i3",
+      "topic": "taxes",
+      "statement": "On his campaign issues page, Beck lists adjusting excessive tax breaks on vacation and luxury homes.",
+      "excerpt": "Adjusting excessive tax breaks on vacation and luxury homes",
+      "source": {
+        "url": "https://ChrisBeckforCongress.com/district2issues",
+        "publisher": "Chris Beck campaign site (ChrisBeckforCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Bullet under 'Here's what I'll fight for' (housing). Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "chris-beck-i4",
+      "topic": "energy",
+      "statement": "On his campaign issues page, Beck says data centers in some communities pollute the water and raise energy prices.",
+      "excerpt": "When data centers in some communities pollute the water and raise energy prices, everyone pays.",
+      "source": {
+        "url": "https://ChrisBeckforCongress.com/district2issues",
+        "publisher": "Chris Beck campaign site (ChrisBeckforCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Bullet in the intro issues list. Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "chris-beck-i5",
+      "topic": "water",
+      "statement": "OPB reported that, asked about Snake River dams, Beck said he would not say to tear them all down.",
+      "excerpt": "I'm not going to stand up here and say tear them all down",
+      "source": {
+        "url": "https://www.opb.org/article/2026/09/30/chris-beck-puts-rural-health-care-at-the-center-of-race-against-cliff-bentz/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-09-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Direct Beck quote in OPB, Sept 30, 2026, on Snake River dams.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "chris-beck-i6",
+      "topic": "wildfire",
+      "statement": "On his campaign issues page, Beck says the 40% funding cut to federal wildfire prevention at the U.S. Forest Service must be restored.",
+      "excerpt": "We also must restore the 40% funding cut to federal wildfire prevention at the U.S. Forest Service, before it's too late",
+      "source": {
+        "url": "https://ChrisBeckforCongress.com/district2issues",
+        "publisher": "Chris Beck campaign site (ChrisBeckforCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Federal-issues section. Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "chris-beck-i7",
+      "topic": "agriculture",
+      "statement": "On his campaign issues page, Beck lists getting fuel costs under control for farmers.",
+      "excerpt": "getting fuel costs under control for our farmers",
+      "source": {
+        "url": "https://ChrisBeckforCongress.com/district2issues",
+        "publisher": "Chris Beck campaign site (ChrisBeckforCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Intro paragraph, bolded link text. Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "chris-beck-i8",
+      "topic": "agriculture",
+      "statement": "On his campaign issues page, Beck lists bolstering the USDA's Beginning Farmer and Rancher programs.",
+      "excerpt": "Bolster the USDA's Beginning Farmer and Rancher programs",
+      "source": {
+        "url": "https://ChrisBeckforCongress.com/district2issues",
+        "publisher": "Chris Beck campaign site (ChrisBeckforCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt covers only the USDA programs bullet. 'Support and preserve our working lands' is a separate bullet whose wording differs from the excerpt; dropped from the statement.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "chris-beck-i9",
+      "topic": "trade",
+      "statement": "On his campaign issues page, Beck refers to the international tariffs on most imports as ill-advised.",
+      "excerpt": "the ill-advised international tariffs on just about everything we import",
+      "source": {
+        "url": "https://ChrisBeckforCongress.com/district2issues",
+        "publisher": "Chris Beck campaign site (ChrisBeckforCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Affordability intro. Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "chris-beck-i10",
+      "topic": "foreign-policy",
+      "statement": "On his campaign issues page, Beck lists cutting the human and financial losses in Iran.",
+      "excerpt": "cutting our human (19 American lives lost; 800+ wounded) and financial ($100+ billion) losses in Iran",
+      "source": {
+        "url": "https://ChrisBeckforCongress.com/district2issues",
+        "publisher": "Chris Beck campaign site (ChrisBeckforCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Intro paragraph. Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "chris-beck-i11",
+      "topic": "immigration",
+      "statement": "On his campaign issues page, Beck lists a bipartisan approach to legal immigration.",
+      "excerpt": "a sensible, bipartisan approach to legal immigration",
+      "source": {
+        "url": "https://ChrisBeckforCongress.com/district2issues",
+        "publisher": "Chris Beck campaign site (ChrisBeckforCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Agriculture section, paired with a call to repeal tariffs. Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "chris-beck-i12",
+      "topic": "labor",
+      "statement": "On his campaign issues page, Beck describes jobs in a proposed rural service corps as good-paying jobs with benefits that AI can't do.",
+      "excerpt": "These will be good-paying jobs with benefits that AI can't do",
+      "source": {
+        "url": "https://ChrisBeckforCongress.com/district2issues",
+        "publisher": "Chris Beck campaign site (ChrisBeckforCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "The excerpt describes jobs in a proposed rural service corps; the original statement lacked that context.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "chris-beck-i13",
+      "topic": "social-services",
+      "statement": "On his campaign issues page, Beck says to restore funding stripped from Medicaid and SNAP benefits.",
+      "excerpt": "restore the mountain of funding it stripped away from Medicaid and SNAP benefits",
+      "source": {
+        "url": "https://ChrisBeckforCongress.com/district2issues",
+        "publisher": "Chris Beck campaign site (ChrisBeckforCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Intro, demand to repeal HR 1 and restore funding. Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "homelessness: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "public-safety: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "local-business: nothing found (2026-10-19)",
+    "social-security-medicare: nothing found (2026-10-19)",
+    "abortion: nothing found (2026-10-19)",
+    "veterans: nothing found (2026-10-19)",
+    "infrastructure: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 11,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Bentz has 18 items (7 T1, 11 T3); Beck has 13 (11 T2, 2 T3). Counts and tiers differ because of what exists: Beck's one campaign issues page covers many issues, Bentz has no confirmed campaign site on file so his T1 items come from house.gov and T3 from news. Both were swept on the same list with the same early-stop rule."
+  }
+}
