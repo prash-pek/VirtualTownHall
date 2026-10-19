@@ -2,7 +2,7 @@ import Link from "next/link";
 import { desc, gt, sql } from "drizzle-orm";
 
 import { getCatalog } from "@/lib/ballot/catalog";
-import { issueLabel } from "@/lib/ballot/issues";
+import { topicLabel } from "@/lib/ballot/issues";
 import { itemHref, itemTitle } from "@/lib/ballot/types";
 import { getDb } from "@/lib/db/client";
 import { sourceGaps } from "@/lib/db/schema";
@@ -82,7 +82,7 @@ export default async function GapsPage() {
                         r.itemKey
                       )}
                     </td>
-                    <td className="px-3 py-2">{issueLabel(r.topic) ?? r.topic}</td>
+                    <td className="px-3 py-2">{topicLabel(r.topic) ?? r.topic}</td>
                     <td className="px-3 py-2 text-right">{r.times}</td>
                     <td className="px-3 py-2">{[...r.sides].map((s) => names.get(s) ?? s.toUpperCase()).join(", ")}</td>
                   </tr>

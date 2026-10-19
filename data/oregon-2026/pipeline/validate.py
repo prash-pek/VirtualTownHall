@@ -120,6 +120,8 @@ def check_candidate(d, errs, verified):
         errs.append("incumbent set without incumbent_source_url")
     if d.get("website_url") and not d.get("website_verified_via"):
         errs.append("website_url without website_verified_via")
+    if d.get("official_url") and not d.get("official_url_via"):
+        errs.append("official_url without official_url_via")
     caps = {"bio": 5, "positions": 10, "voting_record": 5}
     ids = set()
     for key, cap in caps.items():

@@ -45,6 +45,7 @@ export const verifiedCandidateSchema = z.looseObject({
   race_id: z.string(),
   occupation: z.string().nullish(),
   website_url: z.url().nullish(),
+  official_url: z.url().nullish(),
   bio: z.array(item).default([]),
   positions: z.array(item).default([]),
   voting_record: z.array(item).default([]),
