@@ -23,7 +23,10 @@ export function topicLabel(topic: string | null | undefined): string | null {
   if (!topic) return null;
   const known = issueLabel(topic);
   if (known) return known;
-  const words = topic.replace(/^(custom|other)\s*:\s*/i, "").replace(/[-_]+/g, " ").trim();
+  const words = topic
+    .replace(/^(custom|other)\s*:\s*/i, "")
+    .replace(/[-_]+/g, " ")
+    .trim();
   return words ? words.charAt(0).toUpperCase() + words.slice(1) : null;
 }
 
