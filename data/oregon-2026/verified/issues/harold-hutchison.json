@@ -1,0 +1,79 @@
+{
+  "id": "harold-hutchison",
+  "name": "Harold Hutchison",
+  "race_id": "or-senate-15",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "harold-hutchison-i1",
+      "topic": "elections-democracy",
+      "statement": "On his campaign website, Hutchison lists restoring elections confidence among his legislative goals.",
+      "excerpt": "Restore Elections Confidence",
+      "source": {
+        "url": "https://haroldhutchison.carrd.co",
+        "publisher": "Harold Hutchison campaign site (haroldhutchison.carrd.co)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Domain confirmed by Voters' Pamphlet (p.39, www.haroldhutchison.carrd.co). Listed under \"My legislative goals\".",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "harold-hutchison-i2",
+      "topic": "abortion",
+      "statement": "Willamette Week reported in its October 2026 legislative endorsements that Hutchison said doctors who perform abortions are evil.",
+      "excerpt": "He said doctors who perform abortions are evil.",
+      "source": {
+        "url": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+        "publisher": "Willamette Week, WW's Fall 2026 Endorsements: Oregon Legislature",
+        "tier": "T3",
+        "published_at": "2026-10-14",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Willamette Week, \"WW Staff\", 2026-10-14. Page reads \"He said doctors who perform abortions are evil.\" in the Hutchison section. Statement attributes the report to WW and does not assert it as his own words beyond what WW reports. WW does not give the date or setting of the remark.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "housing: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "public-safety: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "immigration: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race or-senate-15 swept 2026-10-19. Hutchison 2 items (1 T2, 1 T3); Muñoz 8 items (T2). Hutchison's own pamphlet and a lightly populated campaign site limited his material; the abortion item is press reporting, WW being the only outlet. Not a search-effort gap."
+  }
+}
