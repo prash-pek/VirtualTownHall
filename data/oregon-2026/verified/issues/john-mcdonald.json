@@ -1,0 +1,99 @@
+{
+  "id": "john-mcdonald",
+  "name": "John McDonald",
+  "race_id": "portland-council-d4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "john-mcdonald-i1",
+      "topic": "housing",
+      "statement": "In the voters' pamphlet statement, McDonald says affordable housing requires more than promises.",
+      "excerpt": "affordable housing requires more than promises",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_john_mcdonald/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Voters' pamphlet PDF read via local text extraction of the fetched file (WebFetch could not parse it); candidate statement, Nov 3 2026 election.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "john-mcdonald-i2",
+      "topic": "homelessness",
+      "statement": "In the voters' pamphlet statement, McDonald says homelessness demands both compassion and accountability.",
+      "excerpt": "homelessness demands both compassion and accountability",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_john_mcdonald/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Voters' pamphlet PDF read via local text extraction of the fetched file (WebFetch could not parse it); candidate statement, Nov 3 2026 election.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "john-mcdonald-i3",
+      "topic": "public-safety",
+      "statement": "In the voters' pamphlet statement, McDonald describes a Portland with clean, safe streets as part of a city that works.",
+      "excerpt": "a city with clean, safe streets, thriving neighborhoods, reliable transportation, affordable housing and an economy that creates opportunity",
+      "source": {
+        "url": "https://multco.us/file/portland_dist_4_john_mcdonald/download",
+        "publisher": "Multnomah County Elections Division",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Voters' pamphlet PDF read via local text extraction of the fetched file (WebFetch could not parse it); candidate statement, Nov 3 2026 election.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "taxes: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Part B of the portland-council-d4 race (6 of 12 candidates). Item counts: see report. Gaps documented; no per-candidate spot-search run (budget)."
+  }
+}

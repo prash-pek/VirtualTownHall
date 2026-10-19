@@ -1,0 +1,99 @@
+{
+  "id": "josh-leake",
+  "name": "Josh Leake",
+  "race_id": "portland-council-d4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "josh-leake-i1",
+      "topic": "addiction-mental-health",
+      "statement": "On the campaign site home page, Leake lists ending the drug emergency as Priority 01 and includes treatment on demand.",
+      "excerpt": "Treatment on demand.",
+      "source": {
+        "url": "https://joshforportland.com",
+        "publisher": "Josh Leake campaign site (joshforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "josh-leake-i2",
+      "topic": "addiction-mental-health",
+      "statement": "On the campaign site home page, Leake's drug emergency priority describes a team of a physician, psychologist, pharmacist, benefits navigator, police and an ACLU attorney.",
+      "excerpt": "Deploy MD, psychologist, pharmacist, Trillium/OHP navigator, police + ACLU attorney team",
+      "source": {
+        "url": "https://joshforportland.com",
+        "publisher": "Josh Leake campaign site (joshforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "josh-leake-i3",
+      "topic": "local-business",
+      "statement": "On the campaign site home page, Leake's Priority 03 on arts and culture says arts fill empty storefronts and keep small businesses alive.",
+      "excerpt": "Arts fills empty storefronts, drives tourism, keeps small businesses alive.",
+      "source": {
+        "url": "https://joshforportland.com",
+        "publisher": "Josh Leake campaign site (joshforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "homelessness: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Part B of the portland-council-d4 race (6 of 12 candidates). Item counts: see report. Gaps documented; no per-candidate spot-search run (budget)."
+  }
+}

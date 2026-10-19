@@ -1,0 +1,103 @@
+{
+  "id": "mary-dirksen",
+  "name": "Mary Dirksen",
+  "race_id": "or-senate-19",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "mary-dirksen-i1",
+      "topic": "cost-of-living",
+      "statement": "On her campaign website, Dirksen says the cost of living and of doing business in Oregon has become unsustainable.",
+      "excerpt": "The cost of living and doing business in Oregon has become unsustainable.",
+      "source": {
+        "url": "http://marydirksen.com",
+        "publisher": "Mary Dirksen campaign website (marydirksen.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under Economic Growth & Cost of Living. Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mary-dirksen-i2",
+      "topic": "local-business",
+      "statement": "On her campaign website, Dirksen says she will champion tax relief and support for small businesses.",
+      "excerpt": "I will champion tax relief, and support for small businesses",
+      "source": {
+        "url": "http://marydirksen.com",
+        "publisher": "Mary Dirksen campaign website (marydirksen.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present in the same section (opening of a longer sentence ending 'so Oregon can become a place where companies stop leaving and start choosing again'); statement claims only the quoted part.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mary-dirksen-i3",
+      "topic": "public-safety",
+      "statement": "On her campaign website, under Public Safety & Victims' Rights, Dirksen says she believes Oregon needs accountability and appropriate remedies to address crime, addiction, and hazards on our streets.",
+      "excerpt": "I believe Oregon needs accountability and appropriate remedies to address crime, addiction, and hazards on our streets.",
+      "source": {
+        "url": "http://marydirksen.com",
+        "publisher": "Mary Dirksen campaign website (marydirksen.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Loose fit. The line sits under 'Public Safety & Victims' Rights', not a health or treatment section, and states no addiction-treatment or mental-health policy. Topic changed from addiction-mental-health to public-safety; statement now names the section and keeps 'our streets'.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "housing: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "childcare: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)",
+    "campaign site has no stated position on housing, homelessness, health care, child care, guns, environment, energy, water, wildfire, farms, transportation, infrastructure, technology, workers, social services, abortion, immigration, civil rights, elections or veterans (checked 2026-10-19)",
+    "addiction-mental-health: no treatment or mental-health position found; the only mention is the crime/addiction line under public safety (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race or-senate-19 swept 2026-10-19. Dirksen: 3 T2 items from a one-page site; Wagner: 12 items (8 T2 from his priorities page, 4 T1 from 2022-2023 Legislature press releases). Wagner's count reflects his site and legislative record, not extra search effort."
+  }
+}

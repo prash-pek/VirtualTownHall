@@ -1,0 +1,194 @@
+{
+  "id": "barbara-kahl",
+  "name": "Barbara J Kahl",
+  "race_id": "or-us-house-1",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "barbara-kahl-i1",
+      "topic": "local-business",
+      "statement": "On her campaign platform, Kahl says she would cut red tape and lower costs for Oregon small businesses.",
+      "excerpt": "Cutting red tape and lowering costs so Oregon small businesses can grow, hire, and compete.",
+      "source": {
+        "url": "https://Drkahlforcongress.com",
+        "publisher": "Barbara Kahl campaign site (Drkahlforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "barbara-kahl-i2",
+      "topic": "housing",
+      "statement": "On her campaign platform, Kahl says she supports expanding housing supply at every price point and streamlining permitting.",
+      "excerpt": "expanding housing supply at every price point, streamlining permitting so projects don't die in bureaucratic delay",
+      "source": {
+        "url": "https://Drkahlforcongress.com",
+        "publisher": "Barbara Kahl campaign site (Drkahlforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "barbara-kahl-i3",
+      "topic": "public-safety",
+      "statement": "On her campaign platform, Kahl says she supports local law enforcement with funding and accountability.",
+      "excerpt": "Supporting local law enforcement with funding and accountability \u2014 safe streets, real trust.",
+      "source": {
+        "url": "https://Drkahlforcongress.com",
+        "publisher": "Barbara Kahl campaign site (Drkahlforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "barbara-kahl-i4",
+      "topic": "healthcare",
+      "statement": "On her campaign platform, Kahl lists putting Oregon families first and lowering costs among her health care priorities.",
+      "excerpt": "Putting Oregon families first\u2014lowering costs, strengthening care for our veterans",
+      "source": {
+        "url": "https://Drkahlforcongress.com",
+        "publisher": "Barbara Kahl campaign site (Drkahlforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "barbara-kahl-i5",
+      "topic": "veterans",
+      "statement": "On her campaign platform, Kahl says she would strengthen care for veterans.",
+      "excerpt": "Putting Oregon families first\u2014lowering costs, strengthening care for our veterans",
+      "source": {
+        "url": "https://Drkahlforcongress.com",
+        "publisher": "Barbara Kahl campaign site (Drkahlforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "barbara-kahl-i6",
+      "topic": "wildfire",
+      "statement": "On her campaign platform, Kahl calls for responsible forest and land stewardship that sustains the environment and timber-dependent communities.",
+      "excerpt": "Responsible stewardship that sustains both the environment and timber-dependent communities.",
+      "source": {
+        "url": "https://Drkahlforcongress.com",
+        "publisher": "Barbara Kahl campaign site (Drkahlforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "barbara-kahl-i7",
+      "topic": "transportation",
+      "statement": "On her campaign platform, Kahl says she would protect working waterfronts, ports and shipping jobs.",
+      "excerpt": "protecting the working waterfronts, ports, and shipping jobs that move Oregon's economy.",
+      "source": {
+        "url": "https://Drkahlforcongress.com",
+        "publisher": "Barbara Kahl campaign site (Drkahlforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: not searched (low coverage) (2026-10-19)",
+    "addiction-mental-health: not searched (low coverage) (2026-10-19)",
+    "childcare: not searched (low coverage) (2026-10-19)",
+    "environment: not searched (low coverage) (2026-10-19)",
+    "water: not searched (low coverage) (2026-10-19)",
+    "technology: not searched (low coverage) (2026-10-19)",
+    "labor: not searched (low coverage) (2026-10-19)",
+    "social-services: not searched (low coverage) (2026-10-19)",
+    "social-security-medicare: not searched (low coverage) (2026-10-19)",
+    "civil-rights: not searched (low coverage) (2026-10-19)",
+    "elections-democracy: not searched (low coverage) (2026-10-19)",
+    "trade: not searched (low coverage) (2026-10-19)",
+    "foreign-policy: not searched (low coverage) (2026-10-19)",
+    "infrastructure: not searched (low coverage) (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "immigration: nothing found (2026-10-19)",
+    "abortion: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign",
+      "query_or_url": "https://Drkahlforcongress.com",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "existing items in verified/candidates/barbara-kahl.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "existing items in verified/candidates/barbara-kahl.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "agriculture",
+      "query_or_url": "existing items in verified/candidates/barbara-kahl.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Barbara Kahl\" Congress Oregon taxes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Barbara Kahl\" Congress Oregon homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "\"Barbara Kahl\" Congress Oregon immigration",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "abortion",
+      "query_or_url": "\"Barbara Kahl\" Congress Oregon abortion reproductive",
+      "result": "nothing relevant (only advocacy-group questionnaire/aggregator results, excluded sources)"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "\"Barbara Kahl\" Congress Oregon guns firearms",
+      "result": "nothing relevant (only advocacy-group questionnaire/aggregator results, excluded sources)"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "\"Barbara Kahl\" Congress Oregon energy utilities data centers",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Items rest on the campaign site Drkahlforcongress.com, confirmed in the candidate file via the 2026 Voters' Pamphlet. Early stop after 6 searches in a row with nothing usable. An iVoterGuide questionnaire page (ivoterguide.com) with her answers on abortion, guns, taxes, immigration, energy and others was seen but not used: it is an advocacy-group guide, not a policy-listed source. Aggregator profile pages (predictionedge) not used. Capital Chronicle guide mislabels her 'Incumbent' and shows no response from her."
+}

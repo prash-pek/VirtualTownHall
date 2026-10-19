@@ -1,0 +1,143 @@
+{
+  "id": "guy-frankenstein",
+  "name": "Guy Frankenstein",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "guy-frankenstein-i1",
+      "topic": "immigration",
+      "statement": "In a Portland Mercury candidate profile, Frankenstein says he is running to personally escort ICE agents to the county line.",
+      "excerpt": "I'm running to personally escort ICE agents to the county line,",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "guy-frankenstein-i2",
+      "topic": "immigration",
+      "statement": "In a Portland Mercury candidate profile, Frankenstein says City Council and state government have offered empty words and no action on federal immigration enforcement.",
+      "excerpt": "City Council and state government offer empty words accompanied by zero action,",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "guy-frankenstein-i3",
+      "topic": "economy",
+      "statement": "In a Portland Mercury candidate profile, Frankenstein says he wants to bleed every billion dollar company operating within the city.",
+      "excerpt": "bleed every billion dollar company operating within this city,",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "housing: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "public-safety: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "healthcare: not searched (low coverage)",
+    "addiction-mental-health: not searched (low coverage)",
+    "education: not searched (low coverage)",
+    "childcare: not searched (low coverage)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "all",
+      "query_or_url": "https://guyfrankenstein.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "economy, immigration",
+      "query_or_url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "\"Guy Frankenstein\" Portland City Council District 3 economy",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"Guy Frankenstein\" Portland City Council District 3 housing",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Guy Frankenstein\" Portland City Council District 3 homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "\"Guy Frankenstein\" city council Oregon public safety police crime",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Guy Frankenstein\" city council Oregon taxes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "\"Guy Frankenstein\" city council Oregon transportation roads transit",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Guy Frankenstein\" city council Oregon cost of living prices inflation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/ (check of search-summary claim; profile has no public safety text)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Campaign site guyfrankenstein.com is a placeholder ('Website under deconstruction'). All items come from the Portland Mercury District 3 profile (2026-09-09); WebFetch quote cap forced short excerpts. Early stop after 6 searches in a row with nothing usable. A search summary claimed data-driven public safety views; the Mercury page has no such text, so it was not used."
+}

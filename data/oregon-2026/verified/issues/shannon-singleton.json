@@ -1,0 +1,160 @@
+{
+  "id": "shannon-singleton",
+  "name": "Shannon Singleton",
+  "race_id": "multnomah-county-chair",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "shannon-singleton-i1",
+      "topic": "homelessness",
+      "statement": "Singleton's campaign site says too many county neighbors are experiencing or at risk of becoming homeless.",
+      "excerpt": "Too many of our neighbors are experiencing or at risk of becoming homeless",
+      "source": {
+        "url": "https://www.shannonsingleton.org",
+        "publisher": "Shannon Singleton campaign site (shannonsingleton.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt is a fragment of one sentence on the page; campaign site, undated.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "shannon-singleton-i2",
+      "topic": "addiction-mental-health",
+      "statement": "Singleton's campaign site says some county residents are unable to access the addiction and mental health care they need.",
+      "excerpt": "unable to access the addiction and mental health care they need,",
+      "source": {
+        "url": "https://www.shannonsingleton.org",
+        "publisher": "Shannon Singleton campaign site (shannonsingleton.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Same sentence as i1; excerpt is the page's wording.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "shannon-singleton-i3",
+      "topic": "homelessness",
+      "statement": "The Portland Mercury reported in March 2026 that Singleton described the county's Homeless Services Department as overly focused on emergency response such as unsheltered homelessness and shelters.",
+      "excerpt": "overly focused on that emergency response—unsheltered homelessness and shelters",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/2026/03/10/48369037/inside-the-race-for-county-chair-financial-woes-homeless-services-and-capitulating-to-trump",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-03-10",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Attributed to Portland Mercury, dated March 2026; full sentence begins 'The work of the Homeless Services Department has been'.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "shannon-singleton-i4",
+      "topic": "taxes",
+      "statement": "The Portland Mercury reported in March 2026 that Singleton said, 'We're not in a position to be adding new programs.'",
+      "excerpt": "We're not in a position to be adding new programs",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/2026/03/10/48369037/inside-the-race-for-county-chair-financial-woes-homeless-services-and-capitulating-to-trump",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-03-10",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Dropped 'should focus on core services', which is not in the excerpt.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "shannon-singleton-i5",
+      "topic": "immigration",
+      "statement": "The Portland Mercury reported in March 2026 that Singleton said she does not believe there is anything that makes Oregon, Portland and Multnomah County not a target.",
+      "excerpt": "I do not believe there is anything we can do that makes Oregon and Portland and Multnomah County not a target",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/2026/03/10/48369037/inside-the-race-for-county-chair-financial-woes-homeless-services-and-capitulating-to-trump",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-03-10",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Dropped 'wants the county to continue to fight' and 'federal', which are not in the excerpt.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "shannon-singleton-i6",
+      "topic": "taxes",
+      "statement": "Willamette Week's October 2026 endorsement editorial said Singleton used budget amendments to build the 2025-26 county budget on recurring funds.",
+      "excerpt": "Only Singleton's judicious use of amendments to build the 2025–26 budget on recurring funds",
+      "source": {
+        "url": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-multnomah-county/",
+        "publisher": "Willamette Week (editorial endorsement)",
+        "tier": "T3",
+        "published_at": "2026-10-14",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Attributed to Willamette Week's editorial board, which endorses Singleton; this is the outlet's view of her budget action, not a statement of her position. Item is thin as an issue position; reviewer may prefer to drop it.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "See reports/verification/issues-multnomah-county-chair-2026-10-19.md."
+  }
+}

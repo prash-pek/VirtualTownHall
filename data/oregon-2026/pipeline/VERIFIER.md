@@ -20,6 +20,11 @@ Follow `docs/data-sourcing-policy.md` §5. Your input is a stripped copy of the 
 5. `paraphrase_faithful` — the statement says no more and no less than the excerpt.
 6. `neutral_wording` — no loaded or evaluative language; attributed framing.
 7. `recency` — 2025–2026 preferred; older content must be dated in the statement.
+8. `low_confidence` — add this when you keep an item but are not fully sure, and say why in `note`: an identity
+   match that is likely but not proven (older material under a different name or office), a tier or source-type
+   judgment call (an office release run by an outlet, a third-party page on the candidate's site), or a loose
+   topic fit. Items with `low_confidence` or `recency` are grouped under "Needs a look" on /ops, so the reviewer
+   reads them before publishing. Don't add it to items you were able to fix.
 
 Status:
 - `verified` — all checks pass.

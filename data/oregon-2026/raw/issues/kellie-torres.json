@@ -1,0 +1,274 @@
+{
+  "id": "kellie-torres",
+  "name": "Kellie Torres",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "kellie-torres-i1",
+      "topic": "housing",
+      "statement": "On her campaign priorities page, Torres lists working toward building 4,000 housing units per year.",
+      "excerpt": "Work toward building 4,000 housing units per year.",
+      "source": {
+        "url": "https://www.kellietorresforportland.com/priorities",
+        "publisher": "Kellie Torres campaign site (kellietorresforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "kellie-torres-i2",
+      "topic": "public-safety",
+      "statement": "On her campaign priorities page, Torres lists filling the police positions Portland already funds.",
+      "excerpt": "Fill the police positions Portland already funds.",
+      "source": {
+        "url": "https://www.kellietorresforportland.com/priorities",
+        "publisher": "Kellie Torres campaign site (kellietorresforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "kellie-torres-i3",
+      "topic": "local-business",
+      "statement": "On her campaign priorities page, Torres lists delivering policies to attract and retain businesses.",
+      "excerpt": "Deliver policies that will help attract and retain businesses.",
+      "source": {
+        "url": "https://www.kellietorresforportland.com/priorities",
+        "publisher": "Kellie Torres campaign site (kellietorresforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "kellie-torres-i4",
+      "topic": "environment",
+      "statement": "On her campaign priorities page, Torres lists pursuing Portland Clean Energy Community Benefits Fund dollars for eligible climate work.",
+      "excerpt": "Pursue Portland Clean Energy Community Benefits Fund (PCEF) dollars for eligible climate work",
+      "source": {
+        "url": "https://www.kellietorresforportland.com/priorities",
+        "publisher": "Kellie Torres campaign site (kellietorresforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "kellie-torres-i5",
+      "topic": "addiction-mental-health",
+      "statement": "On her campaign priorities page, Torres describes connecting people in crisis with lifesaving services.",
+      "excerpt": "connecting people in crisis with lifesaving services",
+      "source": {
+        "url": "https://www.kellietorresforportland.com/priorities",
+        "publisher": "Kellie Torres campaign site (kellietorresforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "education: not searched (low coverage)",
+    "childcare: not searched (low coverage)",
+    "gun-policy: not searched (low coverage)",
+    "energy: nothing found (2026-10-19)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: nothing found (2026-10-19)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign-site",
+      "query_or_url": "https://www.kellietorresforportland.com/ and /priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "verified/candidates/kellie-torres.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Kellie Torres\" Oregon cost-of-living (WebSearch)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Kellie Torres\" Oregon taxes (WebSearch)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "https://www.kellietorresforportland.com/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Kellie Torres\" Oregon homelessness (WebSearch)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Kellie Torres\" Oregon healthcare (WebSearch)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "https://www.kellietorresforportland.com/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "https://www.kellietorresforportland.com/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "https://www.kellietorresforportland.com/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "\"Kellie Torres\" Oregon energy (WebSearch)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "agriculture",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "\"Kellie Torres\" Oregon transportation (WebSearch)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "infrastructure",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "technology",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "labor",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "local-business",
+      "query_or_url": "https://www.kellietorresforportland.com/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "abortion",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "veterans",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    }
+  ]
+}

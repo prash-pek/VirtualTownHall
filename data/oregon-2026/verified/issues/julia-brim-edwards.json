@@ -1,0 +1,265 @@
+{
+  "id": "julia-brim-edwards",
+  "name": "Julia Brim-Edwards",
+  "race_id": "multnomah-county-chair",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "julia-brim-edwards-i1",
+      "topic": "homelessness",
+      "statement": "A news release posted on her campaign site lists reducing unsheltered homelessness, increasing access to housing and ending street encampments.",
+      "excerpt": "reducing unsheltered homelessness, increasing access to housing, ending street encampments",
+      "source": {
+        "url": "https://juliabrim-edwards.com",
+        "publisher": "Julia Brim-Edwards campaign site (juliabrim-edwards.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "attribution"
+        ],
+        "note": "Phrase is in a news release posted on her campaign site; reworded so it does not claim 'her record' beyond the excerpt.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-i2",
+      "topic": "addiction-mental-health",
+      "statement": "An Oregonian excerpt posted on her campaign site describes her as championing the effort to construct a new 24/7 sobering center.",
+      "excerpt": "championing the effort to construct a new 24/7 sobering center",
+      "source": {
+        "url": "https://juliabrim-edwards.com",
+        "publisher": "Julia Brim-Edwards campaign site (juliabrim-edwards.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "attribution"
+        ],
+        "note": "Text is an Oregonian excerpt reposted on her campaign site, not her own words; reattributed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-i3",
+      "topic": "education",
+      "statement": "An Oregonian excerpt posted on her campaign site describes her as protecting the county's school-based mental health program from cuts last year.",
+      "excerpt": "protecting the county’s school-based mental health program from cuts last year.",
+      "source": {
+        "url": "https://juliabrim-edwards.com",
+        "publisher": "Julia Brim-Edwards campaign site (juliabrim-edwards.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "attribution"
+        ],
+        "note": "Text is an Oregonian excerpt reposted on her campaign site, not her own words; reattributed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-i4",
+      "topic": "social-services",
+      "statement": "On her campaign site, Brim-Edwards says she will fight back against attacks on healthcare, food assistance, fair elections, local jobs and immigrant neighbors.",
+      "excerpt": "fight back against the attacks on healthcare, food assistance, fair elections, local jobs, and our immigrant neighbors.",
+      "source": {
+        "url": "https://juliabrim-edwards.com",
+        "publisher": "Julia Brim-Edwards campaign site (juliabrim-edwards.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "From the letter to neighbors on her campaign site.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-i5",
+      "topic": "labor",
+      "statement": "On her campaign site, Brim-Edwards says she will work with labor and business for more good jobs with benefits.",
+      "excerpt": "I will work with labor and business for more good jobs with benefits so we can all thrive.",
+      "source": {
+        "url": "https://juliabrim-edwards.com",
+        "publisher": "Julia Brim-Edwards campaign site (juliabrim-edwards.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "From the letter to neighbors on her campaign site.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-i6",
+      "topic": "elections-democracy",
+      "statement": "An Oregonian excerpt posted on her campaign site describes her as pushing for more accountability and transparency in how the government operates.",
+      "excerpt": "pushing for more accountability and transparency in how the government operates.",
+      "source": {
+        "url": "https://juliabrim-edwards.com",
+        "publisher": "Julia Brim-Edwards campaign site (juliabrim-edwards.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "attribution"
+        ],
+        "note": "Text is an Oregonian excerpt reposted on her campaign site, not her own words; reattributed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-i7",
+      "topic": "cost-of-living",
+      "statement": "On her campaign site, Brim-Edwards describes the context for her campaign as life's basics being more expensive and a struggling local economy.",
+      "excerpt": "With life’s basics more expensive and a struggling local economy,",
+      "source": {
+        "url": "https://juliabrim-edwards.com",
+        "publisher": "Julia Brim-Edwards campaign site (juliabrim-edwards.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "From the letter to neighbors on her campaign site; source has a double space after the comma.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-i8",
+      "topic": "gun-policy",
+      "statement": "In a September 2025 county news release on the Board's vote to ban concealed guns in county buildings, Brim-Edwards said, 'This will extend the prohibition to licensed concealed firearms.'",
+      "excerpt": "This will extend the prohibition to licensed concealed firearms.",
+      "source": {
+        "url": "https://multco.us/news/multnomah-county-board-unanimously-approves-ban-concealed-guns-county-buildings",
+        "publisher": "Multnomah County",
+        "tier": "T1",
+        "published_at": "2025-09-04",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "'Board's ordinance' and 'existing ban' are not in the excerpt; reworded to the quoted sentence and the release title.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-i9",
+      "topic": "transportation",
+      "statement": "In an August 29, 2025 letter to the Legislature's transportation funding committee supporting HB 3991, Brim-Edwards wrote that without additional and stable revenue, county roads will deteriorate.",
+      "excerpt": "Without additional and stable revenue, Multnomah County roads will deteriorate and become more dangerous.",
+      "source": {
+        "url": "https://multco.us/file/brim-edwards_support_for_hb_3991_transportation_funding_8.29.2025/download",
+        "publisher": "Office of Commissioner Julia Brim-Edwards, Multnomah County (letter)",
+        "tier": "T1",
+        "published_at": "2025-08-29",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Page is a PDF WebFetch could not decode; text read from the PDF WebFetch saved locally (same single fetch). Letter dated August 29, 2025 to the Joint Committee on Transportation Funding, signed by Commissioner Brim-Edwards.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-i10",
+      "topic": "civil-rights",
+      "statement": "Willamette Week reported in October 2026 that Basic Rights Oregon rescinded its endorsement of Brim-Edwards over alleged statements as a school board member; she disputed this, saying the idea she is anti-trans is a lie.",
+      "excerpt": "The idea that I'm anti-trans in any way is an out-and-out lie.",
+      "source": {
+        "url": "https://www.wweek.com/news/2026/10/16/basic-rights-oregon-rescinds-its-julia-brim-edwards-endorsement/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-10-16",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Quote and BRO rescission confirmed. Article says three Portland School Board members alleged she raised concerns about trans athletes in executive sessions; statement is consistent.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "julia-brim-edwards-i11",
+      "topic": "veterans",
+      "statement": "At a November 2024 county Veterans Day proclamation, Brim-Edwards spotlighted her chief of staff, a member of the Oregon Army National Guard, saying he has been a voice for veterans.",
+      "excerpt": "He has been a voice for veterans.",
+      "source": {
+        "url": "https://www.multco.us/multnomah-county/news/board-county-commissioners-proclaims-nov-11-veterans-day-multnomah-county-0",
+        "publisher": "Multnomah County",
+        "tier": "T1",
+        "published_at": "2024-11-14",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Praise of a staffer at a Veterans Day proclamation; not a position by Brim-Edwards on veterans policy, and the statement frames it as one. Quote and date confirmed on the page.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "childcare: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "local-business: nothing found (2026-10-19)",
+    "abortion: nothing found (2026-10-19)",
+    "agriculture: nothing found (2026-10-19)",
+    "infrastructure: nothing found (2026-10-19)",
+    "technology: nothing found (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 5,
+    "rejected": 1,
+    "balance_notes": "See reports/verification/issues-multnomah-county-chair-2026-10-19.md."
+  }
+}

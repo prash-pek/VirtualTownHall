@@ -1,0 +1,157 @@
+{
+  "id": "mary-dirksen",
+  "name": "Mary Dirksen",
+  "race_id": "or-senate-19",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "mary-dirksen-i1",
+      "topic": "cost-of-living",
+      "statement": "On her campaign website, Dirksen says the cost of living and of doing business in Oregon has become unsustainable.",
+      "excerpt": "The cost of living and doing business in Oregon has become unsustainable.",
+      "source": {
+        "url": "http://marydirksen.com",
+        "publisher": "Mary Dirksen campaign website (marydirksen.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "mary-dirksen-i2",
+      "topic": "local-business",
+      "statement": "On her campaign website, Dirksen says she will champion tax relief and support for small businesses.",
+      "excerpt": "I will champion tax relief, and support for small businesses",
+      "source": {
+        "url": "http://marydirksen.com",
+        "publisher": "Mary Dirksen campaign website (marydirksen.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "mary-dirksen-i3",
+      "topic": "addiction-mental-health",
+      "statement": "On her campaign website, Dirksen says Oregon needs accountability and appropriate remedies to address crime, addiction and hazards on streets.",
+      "excerpt": "I believe Oregon needs accountability and appropriate remedies to address crime, addiction, and hazards on our streets.",
+      "source": {
+        "url": "http://marydirksen.com",
+        "publisher": "Mary Dirksen campaign website (marydirksen.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "housing: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "childcare: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)",
+    "campaign site has no stated position on housing, homelessness, health care, child care, guns, environment, energy, water, wildfire, farms, transportation, infrastructure, technology, workers, social services, abortion, immigration, civil rights, elections or veterans (checked 2026-10-19)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign issues page",
+      "query_or_url": "http://marydirksen.com",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "verified/candidates/mary-dirksen.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "verified/candidates/mary-dirksen.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "verified/candidates/mary-dirksen.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "verified/candidates/mary-dirksen.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"Mary Dirksen\" state senate Oregon housing rent",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Mary Dirksen\" state senate Oregon homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Mary Dirksen\" state senate Oregon health care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "\"Mary Dirksen\" state senate Oregon guns firearms",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "\"Mary Dirksen\" state senate Oregon climate environment energy",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "\"Mary Dirksen\" state senate Oregon transportation roads transit",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "same search as environment (query covered climate environment energy)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "https://oregonvotes.gov/voters-guide-military/marydirksen.html",
+      "result": "blocked"
+    }
+  ],
+  "collection_notes": "Identity: campaign site marydirksen.com is the domain printed in her voters' pamphlet statement (website_verified_via in verified file). Search results (oregonvotes.gov guide, GoodParty unclaimed profile) matched her as Republican SD19 candidate. GoodParty not used (unclaimed profile). oregonvotes.gov voters-guide page redirected on fetch (logged blocked). Search stopped early after 6 consecutive searches with no usable result. Federal-only issues skipped by levels."
+}

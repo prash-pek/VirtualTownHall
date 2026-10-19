@@ -1,0 +1,117 @@
+{
+  "id": "patrick-hilton",
+  "name": "Patrick Hilton",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "patrick-hilton-i1",
+      "topic": "homelessness",
+      "statement": "On his campaign homepage, Hilton says he would offer alternative options for people who have no place to go after shelters close in the mornings.",
+      "excerpt": "offer alternative options for those that have no place to go after shelters close in the mornings.",
+      "source": {
+        "url": "https://patrickhilton4pdx.org",
+        "publisher": "Patrick Hilton campaign site (patrickhilton4pdx.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "patrick-hilton-i2",
+      "topic": "public-safety",
+      "statement": "On his campaign homepage, Hilton lists as a priority to understand and deal with the current reality of loitering, littering, open drug use and inadequate enforcement.",
+      "excerpt": "Understand and deal with our current reality of loitering, littering, open drug use, and inadequate enforcement",
+      "source": {
+        "url": "https://patrickhilton4pdx.org",
+        "publisher": "Patrick Hilton campaign site (patrickhilton4pdx.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "patrick-hilton-i3",
+      "topic": "economy",
+      "statement": "On his campaign local business page, Hilton says to put local businesses, local arts and local culture before global business profits.",
+      "excerpt": "make sure to put local businesses, local arts, and local culture before global business profits.",
+      "source": {
+        "url": "https://patrickhilton4pdx.org/general-2",
+        "publisher": "Patrick Hilton campaign site (patrickhilton4pdx.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "patrick-hilton-i4",
+      "topic": "cost-of-living",
+      "statement": "On his campaign affordable housing page, Hilton says $1,000 for a studio is not affordable.",
+      "excerpt": "$1,000 for a studio is not affordable.",
+      "source": {
+        "url": "https://patrickhilton4pdx.org/take-action",
+        "publisher": "Patrick Hilton campaign site (patrickhilton4pdx.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Part B of the portland-council-d3 race. Item counts and tiers: see report. Gaps documented; per-candidate spot-search skipped (budget)."
+  }
+}

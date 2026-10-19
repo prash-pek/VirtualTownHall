@@ -1,0 +1,87 @@
+{
+  "id": "andrea-townsend",
+  "name": "Andrea Townsend",
+  "race_id": "or-us-house-5",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "housing: nothing found (2026-10-19)",
+    "homelessness: not searched (low coverage) (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: not searched (low coverage) (2026-10-19)",
+    "education: not searched (low coverage) (2026-10-19)",
+    "childcare: not searched (low coverage) (2026-10-19)",
+    "public-safety: not searched (low coverage) (2026-10-19)",
+    "gun-policy: not searched (low coverage) (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: not searched (low coverage) (2026-10-19)",
+    "water: not searched (low coverage) (2026-10-19)",
+    "wildfire: not searched (low coverage) (2026-10-19)",
+    "agriculture: not searched (low coverage) (2026-10-19)",
+    "transportation: not searched (low coverage) (2026-10-19)",
+    "infrastructure: not searched (low coverage) (2026-10-19)",
+    "technology: not searched (low coverage) (2026-10-19)",
+    "labor: not searched (low coverage) (2026-10-19)",
+    "local-business: not searched (low coverage) (2026-10-19)",
+    "social-services: not searched (low coverage) (2026-10-19)",
+    "social-security-medicare: not searched (low coverage) (2026-10-19)",
+    "abortion: not searched (low coverage) (2026-10-19)",
+    "immigration: not searched (low coverage) (2026-10-19)",
+    "civil-rights: not searched (low coverage) (2026-10-19)",
+    "elections-democracy: not searched (low coverage) (2026-10-19)",
+    "veterans: not searched (low coverage) (2026-10-19)",
+    "trade: not searched (low coverage) (2026-10-19)",
+    "foreign-policy: not searched (low coverage) (2026-10-19)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign issues page",
+      "query_or_url": "no confirmed website_url in candidate file",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "\"Andrea Townsend\" US House Oregon 5th district Pacific Green economy jobs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Andrea Townsend\" congress Oregon cost of living prices inflation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Andrea Townsend\" congress Oregon taxes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"Andrea Townsend\" Pacific Green Party Oregon housing rent",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Andrea Townsend\" Oregon congress health care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "\"Andrea Townsend\" Pacific Green Party climate environment Oregon",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Early stop after 6 consecutive searches with nothing usable. Only pages naming her were BallotReady (2024 CD5 run, no policy content) and theballotbrief (aggregator, no positions); results otherwise concerned Andrea Salinas (OR-06), a different person. No campaign website."
+}

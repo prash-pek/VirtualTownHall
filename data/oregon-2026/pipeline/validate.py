@@ -27,8 +27,9 @@ LOADED = re.compile(
     re.I,
 )
 EXCLUDED_HOSTS = re.compile(
-    r"(wikipedia\.org|theballotbrief\.com|bluevoterguide\.org|thegreenpapers\.com|"
-    r"facebook\.com|x\.com|twitter\.com|instagram\.com|tiktok\.com|youtube\.com|reddit\.com)",
+    # Anchored to the host so "jeremy4pdx.com" doesn't match "x.com".
+    r"(?:^|[/.])(?:wikipedia\.org|theballotbrief\.com|bluevoterguide\.org|thegreenpapers\.com|"
+    r"facebook\.com|x\.com|twitter\.com|instagram\.com|tiktok\.com|youtube\.com|reddit\.com)(?:[/:?#]|$)",
     re.I,
 )
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")

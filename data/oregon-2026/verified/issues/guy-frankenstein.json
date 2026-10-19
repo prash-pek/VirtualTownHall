@@ -1,0 +1,104 @@
+{
+  "id": "guy-frankenstein",
+  "name": "Guy Frankenstein",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "guy-frankenstein-i1",
+      "topic": "immigration",
+      "statement": "In a Portland Mercury candidate profile, Frankenstein says he is running to personally escort ICE agents to the county line.",
+      "excerpt": "I'm running to personally escort ICE agents to the county line,",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Quote verbatim in Frankenstein's Mercury entry; tone may be rhetorical but attributed as his statement.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "guy-frankenstein-i2",
+      "topic": "immigration",
+      "statement": "In a Portland Mercury candidate profile, Frankenstein says City Council and state government have offered empty words and no action on federal immigration enforcement.",
+      "excerpt": "City Council and state government offer empty words accompanied by zero action,",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "guy-frankenstein-i3",
+      "topic": "economy",
+      "statement": "In a Portland Mercury candidate profile, Frankenstein says he wants to bleed every billion dollar company operating within the city.",
+      "excerpt": "bleed every billion dollar company operating within this city,",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "housing: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "public-safety: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "healthcare: not searched (low coverage)",
+    "addiction-mental-health: not searched (low coverage)",
+    "education: not searched (low coverage)",
+    "childcare: not searched (low coverage)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Part B of the portland-council-d3 race. Item counts and tiers: see report. Gaps documented; per-candidate spot-search skipped (budget)."
+  }
+}

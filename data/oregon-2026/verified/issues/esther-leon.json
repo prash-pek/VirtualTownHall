@@ -1,0 +1,330 @@
+{
+  "id": "esther-leon",
+  "name": "Esther Leon",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "esther-leon-i1",
+      "topic": "taxes",
+      "statement": "On her campaign website, León says Portlanders are overtaxed and underdelivered.",
+      "excerpt": "Portlanders are overtaxed and underdelivered.",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i2",
+      "topic": "taxes",
+      "statement": "On her campaign website's property tax reform section, León proposes a Land Value Tax that taxes only the value of the land.",
+      "excerpt": "Land Value Tax, in which only the value of the land is taxed, not the value of the property resting on the land.",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i3",
+      "topic": "homelessness",
+      "statement": "On her campaign website, under Resolving Houselessness, León lists directing focus toward long-term housing stability for the highest-need houseless residents.",
+      "excerpt": "Directing focus toward long-term housing stability for our highest need houseless neighbors",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Page frames this as a bullet under a \"Let's ... by\" list, not a first-person 'would'; reworded to 'lists'.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i4",
+      "topic": "homelessness",
+      "statement": "On her campaign website, León lists redirecting efforts away from practices like city sweeps and hostile architecture.",
+      "excerpt": "Redirecting efforts away from practices like city sweeps and hostile architecture,",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i5",
+      "topic": "healthcare",
+      "statement": "On her campaign website's health care section, León says health care is a human right.",
+      "excerpt": "Healthcare is a human right.",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i6",
+      "topic": "addiction-mental-health",
+      "statement": "On her campaign website, León supports a combination of housing and health and/or substance treatment for high-need houseless residents.",
+      "excerpt": "a combo of housing + health and/or substance treatment",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i7",
+      "topic": "education",
+      "statement": "On her campaign website, León proposes funding free Spanish, Vietnamese, Chinese and Russian language classes at Portland Community College.",
+      "excerpt": "Funding free Spanish, Vietnamese, Chinese, and Russian",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i8",
+      "topic": "childcare",
+      "statement": "On her campaign website, León proposes on-site child care for government employees to make it easier for parents to be public servants.",
+      "excerpt": "Offering on-site childcare for government employees to make it easier for parents to be public servants.",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i9",
+      "topic": "energy",
+      "statement": "On her campaign website's environment section, León proposes a moratorium on AI data centers, citing the takeover of natural resources.",
+      "excerpt": "Implementing a moratorium on AI data centers to stop the takeover of natural resources.",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i10",
+      "topic": "transportation",
+      "statement": "On her campaign website's transportation section, León lists expanding bus and light rail hours to past bar closing time.",
+      "excerpt": "Expanding bus and light rail hours to past bar closing time",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i11",
+      "topic": "labor",
+      "statement": "On her campaign website, León proposes paying city janitorial staff a living wage to keep park restrooms clean and open year-round.",
+      "excerpt": "Paying city janitorial staff a living wage to keep park restrooms clean and open 365 days a year.",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i12",
+      "topic": "local-business",
+      "statement": "On her campaign website's health care section, León says most small business owners cannot afford to provide their employees with benefits.",
+      "excerpt": "Most small business owners simply cannot afford to provide their employees with benefits.",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i13",
+      "topic": "social-services",
+      "statement": "On her campaign website, León proposes living wage paid work for houseless residents collecting trash in public spaces.",
+      "excerpt": "Offering our houseless neighbors the dignity of living wage paid work for collecting trash in public spaces.",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i14",
+      "topic": "civil-rights",
+      "statement": "On her campaign website's public safety section, León says Portland Police Bureau needs to acknowledge harmful practices used to target marginalized groups.",
+      "excerpt": "Portland Police Bureau needs to acknowledge the harmful practices it has utilized to target marginalized groups",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "esther-leon-i15",
+      "topic": "elections-democracy",
+      "statement": "On her campaign website, León pledges not to take contributions from police unions or associations.",
+      "excerpt": "I pledge not to take contributions from police unions or associations",
+      "source": {
+        "url": "https://estherforportland.com",
+        "publisher": "Esther for Portland campaign site (estherforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "abortion: nothing found (2026-10-19)",
+    "veterans: nothing found (2026-10-19)",
+    "economy: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 14,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Part B of the portland-council-d3 race. Item counts and tiers: see report. Gaps documented; per-candidate spot-search skipped (budget)."
+  }
+}

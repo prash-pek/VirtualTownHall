@@ -1,0 +1,451 @@
+{
+  "id": "maxine-dexter",
+  "name": "Maxine E Dexter",
+  "race_id": "or-us-house-3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "maxine-dexter-i1",
+      "topic": "housing",
+      "statement": "On her campaign site, Dexter says she would incentivize development of new and innovative types of affordable housing with federal grants and incentives.",
+      "excerpt": "Incentivize the development of new and innovative types of affordable housing with federal grants and incentives.",
+      "source": {
+        "url": "https://maxinefororegon.com/issue/housing-and-homelessness/",
+        "publisher": "Maxine Dexter campaign site (maxinefororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i2",
+      "topic": "homelessness",
+      "statement": "Her official House housing page says she is committed to ensuring Congress does its part to invest in housing and homelessness programs.",
+      "excerpt": "Now, she is committed to ensuring Congress does its part to invest in housing and homelessness programs.",
+      "source": {
+        "url": "https://dexter.house.gov/issues/housing",
+        "publisher": "U.S. Rep. Maxine Dexter's office (dexter.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i3",
+      "topic": "addiction-mental-health",
+      "statement": "On her campaign site, Dexter says she would close the de minimis loophole so the government can crack down on fentanyl imports.",
+      "excerpt": "Close the de minimis loophole to allow our government to crack down on fentanyl imports",
+      "source": {
+        "url": "https://maxinefororegon.com/issue/addiction-and-mental-health/",
+        "publisher": "Maxine Dexter campaign site (maxinefororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found; the page bullet continues past it ('and curb the supply chain...'), statement does not claim more. Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i4",
+      "topic": "public-safety",
+      "statement": "On her campaign site, Dexter says she would advocate for comprehensive criminal justice reform that prioritizes effective treatment over punishment.",
+      "excerpt": "Advocate for comprehensive criminal justice reform, prioritizing effective treatment over punishment.",
+      "source": {
+        "url": "https://maxinefororegon.com/issue/addiction-and-mental-health/",
+        "publisher": "Maxine Dexter campaign site (maxinefororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i5",
+      "topic": "gun-policy",
+      "statement": "On her campaign site, Dexter says she would reauthorize the federal assault weapons ban.",
+      "excerpt": "Reauthorize the federal assault weapons ban to keep weapons of war off of our streets.",
+      "source": {
+        "url": "https://maxinefororegon.com/issue/gun-violence-prevention/",
+        "publisher": "Maxine Dexter campaign site (maxinefororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i6",
+      "topic": "gun-policy",
+      "statement": "On her campaign site, Dexter says she would expand federal background checks for gun purchases.",
+      "excerpt": "Expand federal background checks to prevent prohibited individuals from purchasing guns without adequate scrutiny.",
+      "source": {
+        "url": "https://maxinefororegon.com/issue/gun-violence-prevention/",
+        "publisher": "Maxine Dexter campaign site (maxinefororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i7",
+      "topic": "social-security-medicare",
+      "statement": "On her campaign site, Dexter says she would fight any attempt to privatize or roll back Social Security or Medicare.",
+      "excerpt": "Fight back any attempt to privatize or roll back Social Security or Medicare.",
+      "source": {
+        "url": "https://maxinefororegon.com/issue/protecting-social-security-and-medicare/",
+        "publisher": "Maxine Dexter campaign site (maxinefororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i8",
+      "topic": "social-security-medicare",
+      "statement": "On her campaign site, Dexter says she would eliminate the Social Security tax cap to ensure the program's longevity.",
+      "excerpt": "Eliminate the Social Security Tax Cap to ensure the longevity of Social Security.",
+      "source": {
+        "url": "https://maxinefororegon.com/issue/protecting-social-security-and-medicare/",
+        "publisher": "Maxine Dexter campaign site (maxinefororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i9",
+      "topic": "abortion",
+      "statement": "Her official House page says Dexter believes every person has the right to make health care decisions about their own bodies.",
+      "excerpt": "every single person has the right to make health care decisions about their own bodies",
+      "source": {
+        "url": "https://dexter.house.gov/issues/reproductive-rights",
+        "publisher": "U.S. Rep. Maxine Dexter's office (dexter.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i10",
+      "topic": "veterans",
+      "statement": "Her official House veterans page says Dexter is committed to ensuring Oregon veterans receive the care and support they have earned.",
+      "excerpt": "Dexter is deeply committed to ensuring that Oregon veterans receive the care and support they have earned",
+      "source": {
+        "url": "https://dexter.house.gov/issues/veterans-0",
+        "publisher": "U.S. Rep. Maxine Dexter's office (dexter.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i11",
+      "topic": "labor",
+      "statement": "Her official House economic opportunity page says she supports legislation to protect the right to organize and strengthen collective bargaining.",
+      "excerpt": "protect the right to organize, strengthen collective bargaining",
+      "source": {
+        "url": "https://dexter.house.gov/issues/economic-opportunity",
+        "publisher": "U.S. Rep. Maxine Dexter's office (dexter.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Page text continues after 'collective bargaining' (', and close persistent wage gaps.'); trailing period removed from the excerpt so it is text actually on the page. Statement unchanged.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i12",
+      "topic": "labor",
+      "statement": "Her official House page calls a $17 federal minimum wage a critical step toward ensuring full-time work provides a pathway to stability.",
+      "excerpt": "a critical step toward ensuring that full-time work provides a pathway to stability.",
+      "source": {
+        "url": "https://dexter.house.gov/issues/economic-opportunity",
+        "publisher": "U.S. Rep. Maxine Dexter's office (dexter.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i13",
+      "topic": "elections-democracy",
+      "statement": "Her official House democracy page says the right to vote is the cornerstone of democracy.",
+      "excerpt": "the right to vote is the cornerstone of our democracy",
+      "source": {
+        "url": "https://dexter.house.gov/issues/democracy",
+        "publisher": "U.S. Rep. Maxine Dexter's office (dexter.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Sentence continues past 'democracy' on the page; trailing period removed from the excerpt. Statement unchanged.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i14",
+      "topic": "trade",
+      "statement": "In a May 19, 2025 press release on joining an amicus brief, Dexter says the tariffs are an illegal, unconstitutional overreach.",
+      "excerpt": "Trump’s tariffs aren’t just a tax on working families—they’re an illegal, unconstitutional overreach.",
+      "source": {
+        "url": "https://dexter.house.gov/media/press-releases/dexter-lockstep-ag-rayfield-joins-amicus-brief-support-fight-against-trumps",
+        "publisher": "U.S. Rep. Maxine Dexter's office (dexter.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; press release date in statement matches page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i15",
+      "topic": "energy",
+      "statement": "In a September 5, 2025 press release on her data center amendment, Dexter says data centers are draining water, a precious resource.",
+      "excerpt": "Data centers are draining our most precious resource: water.",
+      "source": {
+        "url": "https://dexter.house.gov/media/press-releases/dexters-amendment-protect-water-data-center-strain-passes-republican",
+        "publisher": "U.S. Rep. Maxine Dexter's office (dexter.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; press release date in statement matches page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i16",
+      "topic": "water",
+      "statement": "In the same September 2025 release, Dexter says the climate crisis is fueling water scarcity and the country cannot afford to look away.",
+      "excerpt": "As the climate crisis fuels water scarcity across the country, we cannot afford to look away.",
+      "source": {
+        "url": "https://dexter.house.gov/media/press-releases/dexters-amendment-protect-water-data-center-strain-passes-republican",
+        "publisher": "U.S. Rep. Maxine Dexter's office (dexter.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; press release date in statement matches page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i17",
+      "topic": "wildfire",
+      "statement": "In opening remarks at a May 15, 2025 hearing, Dexter said the Senate version of the Fix Our Forests Act provides crucial funding to support community-led wildfire resilience plans.",
+      "excerpt": "provides crucial funding to support community-led wildfire resilience plans",
+      "source": {
+        "url": "https://dexter.house.gov/media/press-releases/ranking-member-dexter-fights-community-led-fire-resilience",
+        "publisher": "U.S. Rep. Maxine Dexter's office (dexter.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Page quote is 'the Senate version of the Fix Our Forests Act provides crucial funding to support community-led wildfire resilience plans' in her opening remarks as ranking member (May 15, 2025). 'Encouraged' is not in the excerpt; statement reworded to say no more than the quote.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i18",
+      "topic": "agriculture",
+      "statement": "In an August 6, 2025 press release on a farmworker protection bill, Dexter says farmworkers are among the most exposed to hazardous air.",
+      "excerpt": "Farmworkers are among the most exposed, laboring in hazardous air to keep food on our tables.",
+      "source": {
+        "url": "https://dexter.house.gov/media/press-releases/dexter-merkley-congress-must-protect-farmworkers-hazardous-wildfire-smoke",
+        "publisher": "U.S. Rep. Maxine Dexter's office (dexter.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; press release date in statement matches page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i19",
+      "topic": "education",
+      "statement": "On her campaign site, Dexter says she would establish tuition-free public community colleges, leading to a publicly funded system, pre-K through grade 14.",
+      "excerpt": "Establish tuition-free public community colleges, leading to a publicly funded system, pre-K through grade 14.",
+      "source": {
+        "url": "https://maxinefororegon.com/issue/high-quality-schools/",
+        "publisher": "Maxine Dexter campaign site (maxinefororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "maxine-dexter-i20",
+      "topic": "education",
+      "statement": "On her campaign site, Dexter says she would pass legislation guaranteeing free breakfast and lunch to public school students nationwide.",
+      "excerpt": "Pass legislation guaranteeing free breakfast and lunch to public school students nationwide.",
+      "source": {
+        "url": "https://maxinefororegon.com/issue/high-quality-schools/",
+        "publisher": "Maxine Dexter campaign site (maxinefororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "maxine-dexter-i21",
+      "topic": "foreign-policy",
+      "statement": "Her office's March 6, 2026 press release says Dexter voted for the Khanna-Massie War Powers Resolution, directing the President to terminate unauthorized hostilities against Iran.",
+      "excerpt": "voted for the Khanna-Massie War Powers Resolution, legislation directing the President to terminate unauthorized hostilities against Iran.",
+      "source": {
+        "url": "https://dexter.house.gov/media/press-releases/dexter-votes-against-war-iran",
+        "publisher": "U.S. Rep. Maxine Dexter's office (dexter.house.gov)",
+        "tier": "T1",
+        "published_at": "2026-03-06",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found; release dated March 6, 2026. Page links 'Khanna-Massie War Powers Resolution'; roll-call number not checked, statement attributes to the press release.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "technology: nothing found (2026-10-19)",
+    "local-business: nothing found (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 18,
+    "corrected": 3,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-3 swept 2026-10-19 with the same issue list and stop rules. Dexter: 21 new items (12 T1 house.gov, 9 T2 campaign site), 5 issues gapped. Ayles: 0 items, no campaign site or 2026 issue coverage found; most issues logged not searched (low coverage) after the early-stop rule. Difference reflects available material (incumbent .gov pages and detailed campaign site), not unequal effort."
+  }
+}

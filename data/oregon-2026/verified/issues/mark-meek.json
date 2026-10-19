@@ -1,0 +1,275 @@
+{
+  "id": "mark-meek",
+  "name": "Mark Meek",
+  "race_id": "or-senate-20",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "mark-meek-i1",
+      "topic": "cost-of-living",
+      "statement": "On his campaign website, Meek is described as continuing to fight to bring down the cost of housing, health care, prescription drugs and child care.",
+      "excerpt": "keeps fighting to bring down the cost of housing, health care, prescription drugs, and childcare",
+      "source": {
+        "url": "http://www.VoteMarkMeek.com",
+        "publisher": "Mark Meek campaign site (VoteMarkMeek.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under 'Mark's Priorities', 'Lowering the Cost of Living' (third person). Same excerpt as i6; this statement claims all four costs and nothing more.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mark-meek-i2",
+      "topic": "taxes",
+      "statement": "On his campaign website, the opening letter refers to putting money back into families' pockets with Oregon's Child Tax Credit.",
+      "excerpt": "put money back into families’ pockets with Oregon's Child Tax Credit",
+      "source": {
+        "url": "http://www.VoteMarkMeek.com",
+        "publisher": "Mark Meek campaign site (VoteMarkMeek.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "paraphrase_faithful"
+        ],
+        "note": "Phrase is in the page's opening letter, which is first person, not third person; 'is credited with' mischaracterised the voice and the subject of the verb is not in the excerpt. Reworded to refer to the opening letter and claim only the phrase; excerpt given with the page's curly apostrophe.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mark-meek-i3",
+      "topic": "housing",
+      "statement": "On his campaign website, Meek is described as working to build more housing people can afford.",
+      "excerpt": "Mark is working to build more housing people can afford",
+      "source": {
+        "url": "http://www.VoteMarkMeek.com",
+        "publisher": "Mark Meek campaign site (VoteMarkMeek.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under 'Reducing Homelessness' (third person).",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mark-meek-i4",
+      "topic": "homelessness",
+      "statement": "On his campaign website, Meek's priorities page states that homelessness in communities is unacceptable.",
+      "excerpt": "The homelessness in our communities is unacceptable.",
+      "source": {
+        "url": "http://www.VoteMarkMeek.com",
+        "publisher": "Mark Meek campaign site (VoteMarkMeek.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under 'Reducing Homelessness'. Statement attributes the sentence to the page ('states'), not as a description of Meek.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mark-meek-i5",
+      "topic": "addiction-mental-health",
+      "statement": "On his campaign website, Meek is described as fighting for student mental health services.",
+      "excerpt": "He's fighting for student mental health services",
+      "source": {
+        "url": "http://www.VoteMarkMeek.com",
+        "publisher": "Mark Meek campaign site (VoteMarkMeek.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present in an unlabeled paragraph in 'Mark's Priorities' after 'Safer streets and neighborhoods' (third person).",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mark-meek-i6",
+      "topic": "childcare",
+      "statement": "On his campaign website, Meek is described as continuing to fight to bring down the cost of housing, health care, prescription drugs, and childcare; childcare is one of four costs named and no childcare-specific measure is described.",
+      "excerpt": "keeps fighting to bring down the cost of housing, health care, prescription drugs, and childcare",
+      "source": {
+        "url": "http://www.VoteMarkMeek.com",
+        "publisher": "Mark Meek campaign site (VoteMarkMeek.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Shares one excerpt with i1. The excerpt names childcare as one of four costs (housing, health care, prescription drugs, childcare) and says nothing specific about childcare policy. Statement reworded to name all four and make no childcare-specific claim. Kept as a childcare-topic pointer; flagged as overlapping i1.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mark-meek-i7",
+      "topic": "public-safety",
+      "statement": "On his campaign website, Meek is described as supporting giving law enforcement the resources to fight crime and hold offenders accountable.",
+      "excerpt": "He supports giving law enforcement the resources to fight crime and hold offenders accountable",
+      "source": {
+        "url": "http://www.VoteMarkMeek.com",
+        "publisher": "Mark Meek campaign site (VoteMarkMeek.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under 'Safer streets and neighborhoods' (third person).",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mark-meek-i8",
+      "topic": "gun-policy",
+      "statement": "On his campaign website, Meek is described as supporting gun safety measures to keep weapons out of the hands of violent criminals.",
+      "excerpt": "common-sense gun safety measures to keep weapons out of the hands of violent criminals",
+      "source": {
+        "url": "http://www.VoteMarkMeek.com",
+        "publisher": "Mark Meek campaign site (VoteMarkMeek.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present in the same sentence as i7 ('...and common-sense gun safety measures to keep weapons out of the hands of violent criminals'). Statement omits the page's 'common-sense', which is neutral.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mark-meek-i9",
+      "topic": "infrastructure",
+      "statement": "On his campaign website, Meek is credited with championing the Willamette Falls Locks and Oregon City's waterfront revitalization.",
+      "excerpt": "Championed the Willamette Falls Locks and Oregon City's waterfront revitalization",
+      "source": {
+        "url": "http://www.VoteMarkMeek.com",
+        "publisher": "Mark Meek campaign site (VoteMarkMeek.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present in the bullet list under 'As our State Senator, Mark has:' (third person).",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mark-meek-i10",
+      "topic": "social-services",
+      "statement": "On his campaign website, Meek is credited with passing legislation to prevent elder abuse and raise residential care standards.",
+      "excerpt": "Mark passed legislation to prevent elder abuse and raise residential care standards",
+      "source": {
+        "url": "http://www.VoteMarkMeek.com",
+        "publisher": "Mark Meek campaign site (VoteMarkMeek.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under 'Standing Up for Seniors' (third person).",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mark-meek-i11",
+      "topic": "abortion",
+      "statement": "On his campaign website, Meek is described as continuing to defend access to abortion and birth control in Oregon.",
+      "excerpt": "He will keep defending access to abortion and birth control in Oregon.",
+      "source": {
+        "url": "http://www.VoteMarkMeek.com",
+        "publisher": "Mark Meek campaign site (VoteMarkMeek.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under 'Protecting Reproductive Freedom' (third person).",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "mark-meek-i12",
+      "topic": "elections-democracy",
+      "statement": "On his campaign website, Meek is credited with helping pass campaign finance reform to get big money out of politics.",
+      "excerpt": "Helped pass campaign finance reform to get big money out of politics",
+      "source": {
+        "url": "http://www.VoteMarkMeek.com",
+        "publisher": "Mark Meek campaign site (VoteMarkMeek.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present in the bullet list under 'As our State Senator, Mark has:' (third person).",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "environment: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "agriculture: nothing found (2026-10-19)",
+    "technology: nothing found (2026-10-19)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 10,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Race or-senate-20 swept 2026-10-19. Meek: 12 T2 items from a detailed site; Stroh: 6 T2 items from a short site, one rejected as duplicate. Disparity reflects available material; both sides rely on campaign sites only."
+  }
+}

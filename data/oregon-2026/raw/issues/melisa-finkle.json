@@ -1,0 +1,63 @@
+{
+  "id": "melisa-finkle",
+  "name": "Melisa Finkle",
+  "race_id": "or-senate-16",
+  "sweeps": ["2026-10-19"],
+  "positions": [
+    {
+      "id": "melisa-finkle-i1",
+      "topic": "healthcare",
+      "statement": "The Tillamook County Pioneer reported in August 2026 that the bills Finkle hopes to develop include proposals related to short- and long-term care safety.",
+      "excerpt": "proposals related to short‑ and long‑term care safety, rural infrastructure, and emergency preparedness",
+      "source": {
+        "url": "https://www.tillamookcountypioneer.net/?p=82903",
+        "publisher": "Tillamook County Pioneer (editor byline)",
+        "tier": "T3",
+        "published_at": "2026-08-18",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: not searched (low coverage)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {"step": "2", "issue": "housing", "query_or_url": "verified/candidates/melisa-finkle.json", "result": "already covered"},
+    {"step": "2", "issue": "homelessness", "query_or_url": "\"Melisa Finkle\" state senator Oregon homelessness", "result": "nothing relevant"},
+    {"step": "2", "issue": "transportation", "query_or_url": "verified/candidates/melisa-finkle.json", "result": "already covered"},
+    {"step": "2", "issue": "infrastructure", "query_or_url": "verified/candidates/melisa-finkle.json", "result": "already covered"},
+    {"step": "2", "issue": "public-safety", "query_or_url": "verified/candidates/melisa-finkle.json", "result": "already covered"},
+    {"step": "2", "issue": "local-business", "query_or_url": "verified/candidates/melisa-finkle.json", "result": "already covered"},
+    {"step": "2", "issue": "civil-rights", "query_or_url": "verified/candidates/melisa-finkle.json", "result": "already covered"},
+    {"step": "2", "issue": "economy", "query_or_url": "\"Melisa Finkle\" state senator Oregon economy jobs", "result": "nothing relevant"},
+    {"step": "2", "issue": "cost-of-living", "query_or_url": "\"Melisa Finkle\" state senator Oregon cost of living prices inflation", "result": "nothing relevant"},
+    {"step": "2", "issue": "taxes", "query_or_url": "\"Melisa Finkle\" state senator Oregon taxes", "result": "nothing relevant"},
+    {"step": "2", "issue": "healthcare", "query_or_url": "https://www.tillamookcountypioneer.net/?p=82903", "result": "used"},
+    {"step": "2", "issue": "all", "query_or_url": "https://www.ballotready.org/people/melisa-finkle", "result": "nothing relevant"},
+    {"step": "2", "issue": "addiction-mental-health", "query_or_url": "\"Melisa Finkle\" state senator Oregon addiction mental health drugs", "result": "nothing relevant"},
+    {"step": "2", "issue": "education", "query_or_url": "\"Melisa Finkle\" state senator Oregon education schools", "result": "nothing relevant"},
+    {"step": "2", "issue": "remaining", "query_or_url": "early stop after 6 searches in a row with nothing usable", "result": "not searched (low coverage)"}
+  ],
+  "collection_notes": "No confirmed campaign website, so step 1 (campaign issues page) skipped. Identity rests on the Tillamook County Pioneer and BallotReady pages both naming Melisa Finkle as the independent 2026 candidate for Oregon Senate District 16 (ten-year State of Oregon investigator), matching the existing verified bio. Same-name noise in results (Melisa Blake, Melissa Stupfel) was ignored. The Pioneer item is the paper's paraphrase, not a direct quote; topic healthcare is the closest fit for 'care safety'. Issues limited to state level: social-security-medicare, trade, foreign-policy skipped."
+}

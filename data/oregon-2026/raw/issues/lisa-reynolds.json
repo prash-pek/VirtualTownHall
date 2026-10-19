@@ -1,0 +1,238 @@
+{
+  "id": "lisa-reynolds",
+  "name": "Lisa Reynolds",
+  "race_id": "or-senate-17",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "lisa-reynolds-i1",
+      "topic": "homelessness",
+      "statement": "On her campaign priorities page, Reynolds says every person in Oregon must have a place to call home.",
+      "excerpt": "Housing is a basic human right, and every person in Oregon must have a place to call home.",
+      "source": {
+        "url": "https://www.lisafororegon.com/priorities",
+        "publisher": "Lisa Reynolds campaign site (lisafororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "lisa-reynolds-i2",
+      "topic": "addiction-mental-health",
+      "statement": "On her campaign priorities page, Reynolds says treatment options for those with Substance Use Disorder must increase markedly.",
+      "excerpt": "We must markedly increase treatment options for those with Substance Use Disorder.",
+      "source": {
+        "url": "https://www.lisafororegon.com/priorities",
+        "publisher": "Lisa Reynolds campaign site (lisafororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "lisa-reynolds-i3",
+      "topic": "childcare",
+      "statement": "On her campaign priorities page, Reynolds is described as advocating upstream investments to mitigate stress of poverty, including childcare challenges.",
+      "excerpt": "Lisa advocates for upstream investments to mitigate the stress of poverty (hunger, housing insecurity, childcare challenges).",
+      "source": {
+        "url": "https://www.lisafororegon.com/priorities",
+        "publisher": "Lisa Reynolds campaign site (lisafororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "lisa-reynolds-i4",
+      "topic": "public-safety",
+      "statement": "On her campaign priorities page, under gun violence prevention, Reynolds says all Oregonians should be safe in their homes and communities.",
+      "excerpt": "All Oregonians to be safe in their homes and their communities.",
+      "source": {
+        "url": "https://www.lisafororegon.com/priorities",
+        "publisher": "Lisa Reynolds campaign site (lisafororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "lisa-reynolds-i5",
+      "topic": "abortion",
+      "statement": "On her campaign priorities page, under 'Our Bodies, Our Decisions', Reynolds says Oregon has the strongest abortion protections in the US.",
+      "excerpt": "Oregon has the strongest abortion protections in the US,",
+      "source": {
+        "url": "https://www.lisafororegon.com/priorities",
+        "publisher": "Lisa Reynolds campaign site (lisafororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign issues page",
+      "query_or_url": "http://www.LisaForOregon.com",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "issue": "campaign issues page",
+      "query_or_url": "https://www.lisafororegon.com/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "verified/candidates/lisa-reynolds.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "verified/candidates/lisa-reynolds.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "verified/candidates/lisa-reynolds.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "verified/candidates/lisa-reynolds.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "verified/candidates/lisa-reynolds.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "verified/candidates/lisa-reynolds.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "https://www.lisafororegon.com/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "https://www.lisafororegon.com/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "https://www.lisafororegon.com/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "https://www.lisafororegon.com/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "abortion",
+      "query_or_url": "https://www.lisafororegon.com/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "\"Lisa Reynolds\" state senator Oregon economy jobs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Lisa Reynolds\" state senator Oregon cost of living prices inflation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "\"Lisa Reynolds\" state senator Oregon climate environment",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "\"Lisa Reynolds\" state senator Oregon energy utilities data centers",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "\"Lisa Reynolds\" state senator Oregon transportation roads transit electric vehicles fair share",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "\"Lisa Reynolds\" state senator Oregon water",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "\"Lisa Reynolds\" state senator Oregon wildfire forests",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd-17/",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "https://apps.oregonlegislature.gov/liz/2025R1/Downloads/PublicTestimonyDocument/137437",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "early stop",
+      "query_or_url": "6+ searches in a row with nothing usable; oregonvotes.gov page redirected to an unrelated SOS page",
+      "result": "nothing relevant"
+    }
+  ]
+}

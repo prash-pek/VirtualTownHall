@@ -1,0 +1,127 @@
+{
+  "id": "glenn-lancaster",
+  "name": "Glenn Lancaster",
+  "race_id": "or-senate-13",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "glenn-lancaster-i1",
+      "topic": "cost-of-living",
+      "statement": "On his campaign issues page, under 'Stop the Cost-of-Living Crisis', Lancaster says he would make affordability a priority so families can live, work and stay in Oregon.",
+      "excerpt": "Make affordability a priority so families can live, work, and stay in Oregon",
+      "source": {
+        "url": "https://glennlancaster.com/issues2/",
+        "publisher": "Glenn Lancaster campaign site (glennlancaster.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Rejected: campaign domain glennlancaster.com is not confirmed. It is not in the Voters' Pamphlet entry (p.38, which lists no website), not in his candidate file, and the only link found is an unlabeled icon on oregon.gop/2026-candidates, a page that says it is not authorized by any candidate. The campaign page also shows a Facebook link labeled \"for Mayor\". Text matches the page, but T2 status is not established.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "glenn-lancaster-i2",
+      "topic": "housing",
+      "statement": "On his campaign issues page, Lancaster says he would fix housing policies that drive up rent and home prices.",
+      "excerpt": "Fix housing policies that drive up rent and home prices",
+      "source": {
+        "url": "https://glennlancaster.com/issues2/",
+        "publisher": "Glenn Lancaster campaign site (glennlancaster.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Rejected: campaign domain glennlancaster.com is not confirmed. It is not in the Voters' Pamphlet entry (p.38, which lists no website), not in his candidate file, and the only link found is an unlabeled icon on oregon.gop/2026-candidates, a page that says it is not authorized by any candidate. The campaign page also shows a Facebook link labeled \"for Mayor\". Text matches the page, but T2 status is not established.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "glenn-lancaster-i3",
+      "topic": "homelessness",
+      "statement": "On his campaign issues page, Lancaster says he would demand real solutions to addiction and homelessness.",
+      "excerpt": "Demand real solutions to addiction and homelessness",
+      "source": {
+        "url": "https://glennlancaster.com/issues2/",
+        "publisher": "Glenn Lancaster campaign site (glennlancaster.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Rejected: campaign domain glennlancaster.com is not confirmed. It is not in the Voters' Pamphlet entry (p.38, which lists no website), not in his candidate file, and the only link found is an unlabeled icon on oregon.gop/2026-candidates, a page that says it is not authorized by any candidate. The campaign page also shows a Facebook link labeled \"for Mayor\". Text matches the page, but T2 status is not established.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "glenn-lancaster-i4",
+      "topic": "addiction-mental-health",
+      "statement": "On his campaign home page, Lancaster lists tackling addiction and homelessness among his priorities.",
+      "excerpt": "Tackle addiction and homelessness.",
+      "source": {
+        "url": "https://glennlancaster.com/",
+        "publisher": "Glenn Lancaster campaign site (glennlancaster.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Rejected: campaign domain glennlancaster.com is not confirmed. It is not in the Voters' Pamphlet entry (p.38, which lists no website), not in his candidate file, and the only link found is an unlabeled icon on oregon.gop/2026-candidates, a page that says it is not authorized by any candidate. The campaign page also shows a Facebook link labeled \"for Mayor\". Text matches the page, but T2 status is not established.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 0,
+    "rejected": 4,
+    "balance_notes": "Race or-senate-13 swept 2026-10-19. All 4 Lancaster items rejected because glennlancaster.com could not be confirmed as his campaign domain; the quotes were present on the page. Re-add if the domain is confirmed (e.g. ORESTAR filing, pamphlet, or a T3 outlet linking it)."
+  }
+}

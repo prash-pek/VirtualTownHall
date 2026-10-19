@@ -1,0 +1,279 @@
+{
+  "id": "rob-wagner",
+  "name": "Rob Wagner",
+  "race_id": "or-senate-19",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "rob-wagner-i1",
+      "topic": "cost-of-living",
+      "statement": "On his campaign priorities page, Wagner says across-the-board tariffs are making everything more expensive.",
+      "excerpt": "unconstitutional and irresponsible across-the-board tariffs are making everything more expensive",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign site (robwagnerfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under 'Pushing back against federal overreach'. Statement omits the page's 'unconstitutional and irresponsible' framing, which is neutral.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "rob-wagner-i2",
+      "topic": "immigration",
+      "statement": "On his campaign priorities page, Wagner says supporting immigrant and refugee neighbors is as important now as ever.",
+      "excerpt": "Supporting our immigrant and refugee neighbors is as important now as ever.",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign site (robwagnerfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under 'Pushing back against federal overreach'.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "rob-wagner-i3",
+      "topic": "civil-rights",
+      "statement": "On his campaign priorities page, Wagner says the U.S. Constitution guarantees due process and freedom of speech.",
+      "excerpt": "The United States Constitution guarantees due process and the freedom of speech.",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign site (robwagnerfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under 'Pushing back against federal overreach'.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "rob-wagner-i4",
+      "topic": "abortion",
+      "statement": "On his campaign priorities page, Wagner says protecting reproductive freedom and gender-affirming care in Oregon will continue to be a priority.",
+      "excerpt": "Protecting reproductive freedom and gender-affirming care in Oregon will continue to be a priority for me.",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign site (robwagnerfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under 'Protecting access to health care'.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "rob-wagner-i5",
+      "topic": "energy",
+      "statement": "On his campaign priorities page, under Defending our environment, Wagner's page includes the line 'made sure data centers pay their fair share of energy costs.'",
+      "excerpt": "made sure data centers pay their fair share of energy costs.",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign site (robwagnerfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt begins mid-sentence and the subject of 'made sure' was not visible, so 'were made to pay' implied an unstated actor or outcome. Statement reworded to what the excerpt says, with its section ('Defending our environment').",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "rob-wagner-i6",
+      "topic": "housing",
+      "statement": "On his campaign priorities page, Wagner says addressing Oregon's housing shortage is of critical importance.",
+      "excerpt": "The numbers make it clear that addressing our housing shortage is of such critical importance.",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign site (robwagnerfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under 'Housing and homelessness'.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "rob-wagner-i7",
+      "topic": "public-safety",
+      "statement": "On his campaign priorities page, Wagner says he believes gun safety is public safety and public health.",
+      "excerpt": "I believe that gun safety is public safety and public health.",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign site (robwagnerfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present under 'Safer communities'.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "rob-wagner-i8",
+      "topic": "gun-policy",
+      "statement": "On his campaign priorities page, Wagner says he has worked to keep firearms out of schools and create strong standards for safe storage of firearms.",
+      "excerpt": "I’ve worked to keep firearms out of schools, create strong standards for safe storage of firearms,",
+      "source": {
+        "url": "https://www.robwagnerfororegon.com/priorities/",
+        "publisher": "Rob Wagner campaign site (robwagnerfororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Verbatim including the curly apostrophe in 'I’ve' (checked against the page). Sentence continues past the trailing comma ('and was chief author and sponsor of the legislation that created the Task Force on Community Safety and Firearm Suicide Prevention'); statement does not claim that part.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "rob-wagner-i9",
+      "topic": "homelessness",
+      "statement": "In a March 2023 Senate President press release on the housing and homelessness package, Wagner said 'we' worked across the aisle and with House and Governor's office partners toward available, affordable housing for everyone.",
+      "excerpt": "Faced with a statewide housing and homelessness crisis, we worked across the aisle and with our partners in the House and Governor's office to put Oregon on a path toward a future where housing is available and affordable for everyone.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/wagner/Documents/HB 5019 and HB 2001 press release.pdf",
+        "publisher": "Oregon Legislature, Office of the Senate President (oregonlegislature.gov/wagner)",
+        "tier": "T1",
+        "published_at": "2023-03-21",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Quote confirmed in the March 21, 2023 press release (Office of the Senate President; text extracted from the PDF locally because WebFetch could not read it). Statement said 'the Legislature worked'; the quote says 'we worked across the aisle and with our partners in the House and Governor's office'. Reworded to the speaker's own framing and the release's subject; year retained.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "rob-wagner-i10",
+      "topic": "addiction-mental-health",
+      "statement": "In a March 2022 statement as Senate Majority Leader, Wagner said he was excited about a $132 million behavioral health workforce investment and directing $333 million toward evidence-based programs for opioid use disorder and other behavioral health issues.",
+      "excerpt": "I’m excited about our recent $132 million investment in behavioral health workforce and our action to direct $333 million in incoming funds towards evidence-based programs to treat opioid use disorder and other behavioral health issues.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/senatedemocrats/Documents/Senate Majority Leader Rob Wagner Statement on Adjournment of the 2022 Legislative Session.pdf",
+        "publisher": "Oregon Senate Democrats (oregonlegislature.gov)",
+        "tier": "T1",
+        "published_at": "2022-03-04",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Quote confirmed in the March 4, 2022 press release (Senate Majority Leader statement, 2022 session adjournment). Statement dropped the $132 million behavioral health workforce figure and 'and other behavioral health issues'. Reworded to the full excerpt; year retained.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "rob-wagner-i11",
+      "topic": "childcare",
+      "statement": "In a March 2022 statement as Senate Majority Leader, Wagner said the session made targeted investments to drive down everyday costs, including addressing child care costs by stabilizing Oregon's child care workforce.",
+      "excerpt": "addressing child care costs by stabilizing Oregon’s child care workforce.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/senatedemocrats/Documents/Senate Majority Leader Rob Wagner Statement on Adjournment of the 2022 Legislative Session.pdf",
+        "publisher": "Oregon Senate Democrats (oregonlegislature.gov)",
+        "tier": "T1",
+        "published_at": "2022-03-04",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Quote confirmed in the March 4, 2022 statement. It is the end of a sentence about targeted investments to drive down everyday costs (rent, health care access for lower-income Oregonians, child care costs). Statement reworded to say so; year retained.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "rob-wagner-i12",
+      "topic": "local-business",
+      "statement": "In a March 2022 statement as Senate Majority Leader, Wagner said the session's work to build an economy for working families and small businesses meant reducing barriers to people starting and expanding small business.",
+      "excerpt": "It meant reducing barriers to people starting and expanding small business.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/senatedemocrats/Documents/Senate Majority Leader Rob Wagner Statement on Adjournment of the 2022 Legislative Session.pdf",
+        "publisher": "Oregon Senate Democrats (oregonlegislature.gov)",
+        "tier": "T1",
+        "published_at": "2022-03-04",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Quote confirmed in the March 4, 2022 statement. The sentence says building an economy that works for working families and small businesses 'meant reducing barriers to people starting and expanding small business'; it does not say 'legislation included'. Reworded to the statement's wording; year retained.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "taxes: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "agriculture: nothing found (2026-10-19)",
+    "infrastructure: nothing found (2026-10-19)",
+    "technology: nothing found (2026-10-19)",
+    "labor: nothing found (2026-10-19)",
+    "social-services: not searched (low coverage) (2026-10-19)",
+    "elections-democracy: not searched (low coverage) (2026-10-19)",
+    "veterans: not searched (low coverage) (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "Race or-senate-19 swept 2026-10-19. Wagner: 12 items (8 T2, 4 T1 dated 2022-2023); Dirksen: 3 T2. Difference reflects available material (broader site plus Senate President record). Older T1 items carry their year in the statement."
+  }
+}

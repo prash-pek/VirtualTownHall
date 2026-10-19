@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
-import { PublishForm, ReviewItems, StatusTag } from "@/components/ops/review";
+import { GroupedReviewItems, PublishForm, ReviewItems, StatusTag } from "@/components/ops/review";
 import { getCandidateReview, getQueue } from "@/lib/review/queue";
 
 import { requireAdminPage } from "../../admin-gate";
@@ -63,7 +63,7 @@ export default async function CandidateReview({ params }: { params: Promise<{ sl
         </section>
       )}
       <h2 className="font-display text-xl font-semibold">Sourced items</h2>
-      <ReviewItems kind="candidate" items={items} />
+      <GroupedReviewItems kind="candidate" items={items} />
       <h2 className="font-display text-xl font-semibold">Endorsements</h2>
       <ReviewItems kind="endorsement" items={r.endorsements} />
     </main>

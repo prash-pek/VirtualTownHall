@@ -1,0 +1,236 @@
+{
+  "id": "kenneth-landgraver-iii",
+  "name": "Kenneth (Kent) R Landgraver III",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "kenneth-landgraver-iii-i1",
+      "topic": "homelessness",
+      "statement": "In an October 2024 KOIN candidate questionnaire for the same District 3 seat, Landgraver names homelessness, addiction and policing as the biggest problem and proposes the mayor declare an emergency.",
+      "excerpt": "I propose the mayor declares an emergency, mobilize a whole government response",
+      "source": {
+        "url": "https://digital-release.koin.com/?p=1984475",
+        "publisher": "KOIN 6 (candidate questionnaire, Oct 2024)",
+        "tier": "T3",
+        "published_at": "2024-10-03",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "kenneth-landgraver-iii-i2",
+      "topic": "addiction-mental-health",
+      "statement": "In the same October 2024 KOIN questionnaire, Landgraver says he would like to see less homelessness and more mental health services in his district.",
+      "excerpt": "Less homelessness, more mental health services, policing of the appropriate type served safely",
+      "source": {
+        "url": "https://digital-release.koin.com/?p=1984475",
+        "publisher": "KOIN 6 (candidate questionnaire, Oct 2024)",
+        "tier": "T3",
+        "published_at": "2024-10-03",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "housing: nothing found (2026-10-19)",
+    "economy: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "verified/candidates/kenneth-landgraver-iii.json",
+      "result": "already covered"
+    },
+    {
+      "step": "1",
+      "issue": "all",
+      "query_or_url": "campaign issues page",
+      "result": "nothing relevant (no confirmed website_url)"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"Kent Landgraver\" Portland City Council District 3 housing rent ; fetched https://www.katu.com/news/know-your-candidates/kent-landgraver-portland-city-council-district-3 (no answers in text)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Kenneth Landgraver\" Portland council homelessness ; fetched https://digital-release.koin.com/?p=1984475",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "https://digital-release.koin.com/?p=1984475 (reused fetched page)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "\"Kent Landgraver\" Portland City Council economy jobs",
+      "result": "nothing relevant (only 350PDX 2024 voter guide, excluded advocacy guide)"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Kent Landgraver\" Portland City Council taxes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "\"Kent Landgraver\" Portland City Council transportation roads transit",
+      "result": "nothing relevant (only 350PDX 2024 voter guide, excluded advocacy guide)"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "\"Kent Landgraver\" Portland City Council climate environment",
+      "result": "nothing relevant (only 350PDX 2024 voter guide, excluded advocacy guide)"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Kent Landgraver\" Portland City Council cost of living",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Kent Landgraver\" Portland City Council health care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "\"Kent Landgraver\" Portland City Council education schools",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"Kent Landgraver\" Portland City Council child care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "agriculture",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "infrastructure",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "technology",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "labor",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "local-business",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "abortion",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "veterans",
+      "query_or_url": "",
+      "result": "not searched (low coverage)"
+    }
+  ],
+  "collection_notes": "Identity: the 2024 KOIN questionnaire is by 'Kent Landgraver', age 64, Scientific Instrument Technician, 31 years Oregon Army National Guard, living/working in District 3, matching the 2026 pamphlet and filing form (same occupation, Guard service, seat). Items are dated 2024 in the statement. KATU 2024 Know Your Candidates page fetched but contained no answers. 350PDX 2024 voter guide (advocacy guide) not used. Stopped after 8 consecutive searches with nothing usable."
+}

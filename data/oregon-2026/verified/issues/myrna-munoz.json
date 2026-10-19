@@ -1,0 +1,192 @@
+{
+  "id": "myrna-munoz",
+  "name": "Myrna A Munoz",
+  "race_id": "or-senate-15",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "myrna-munoz-i1",
+      "topic": "housing",
+      "statement": "On the issues page of the campaign site, Muñoz lists investing in affordable housing for communities.",
+      "excerpt": "Investing in affordable housing for our communities.",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Domain confirmed by Voters' Pamphlet (p.39, myrnaforsenate.com). Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "myrna-munoz-i2",
+      "topic": "cost-of-living",
+      "statement": "On the issues page of the campaign site, Muñoz says housing costs strain family budgets.",
+      "excerpt": "housing costs strain family budgets",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Domain confirmed by Voters' Pamphlet (p.39, myrnaforsenate.com). Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "myrna-munoz-i3",
+      "topic": "energy",
+      "statement": "On the issues page of the campaign site, the text says corporate interests are driving up electricity bills with a build-out of AI data centers.",
+      "excerpt": "powerful corporate interests are threatening that model and driving up electricity bills with a reckless build-out of AI data centers",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Corrected. Excerpt was cut mid-sentence and the statement dropped the subject. Page blames \"powerful corporate interests\" and a \"reckless build-out of AI data centers\"; excerpt widened and statement reworded neutrally (the word \"reckless\" is the site's, and is left out of the statement). Site is in third person.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "myrna-munoz-i4",
+      "topic": "environment",
+      "statement": "On the issues page of the campaign site, the text says Muñoz is committed to strengthening transparency, community input and environmental safeguards.",
+      "excerpt": "strengthening transparency, community input, and environmental safeguards",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Corrected. Page is third person (\"Myrna is committed\"); statement reworded, \"they\" removed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "myrna-munoz-i5",
+      "topic": "agriculture",
+      "statement": "On the issues page of the campaign site, Muñoz says Oregon's land use system protects farms, forests and natural landscapes.",
+      "excerpt": "protects our farms, forests, and natural landscapes",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Domain confirmed by Voters' Pamphlet (p.39, myrnaforsenate.com). Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "myrna-munoz-i6",
+      "topic": "civil-rights",
+      "statement": "On the issues page of the campaign site, the text says Muñoz will fight in the legislature for policies that strengthen due process and prevent racial profiling.",
+      "excerpt": "fight for policies that strengthen due process, prevent racial profiling",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Corrected. Page is third person (\"she will fight\"); statement reworded to include \"in the legislature\".",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "myrna-munoz-i7",
+      "topic": "public-safety",
+      "statement": "On the issues page of the campaign site, the text says Muñoz will fight for policies that ensure local resources are focused on keeping communities safe.",
+      "excerpt": "local resources are focused on keeping our communities safe",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Corrected. Sentence is \"she will fight for policies that ... ensure local resources are focused on keeping our communities safe\"; statement reworded accordingly.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "myrna-munoz-i8",
+      "topic": "labor",
+      "statement": "On the issues page of the campaign site, Muñoz supports protecting workers' rights so economic growth benefits families and small businesses.",
+      "excerpt": "Protecting workers' rights so economic growth benefits families and small businesses",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Corrected. Trailing period removed; the source sentence continues (\"rather than only the largest corporations\").",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "homelessness: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "abortion: nothing found (2026-10-19)",
+    "wildfire: not searched (low coverage) (2026-10-19)",
+    "transportation: not searched (low coverage) (2026-10-19)",
+    "infrastructure: not searched (low coverage) (2026-10-19)",
+    "local-business: not searched (low coverage) (2026-10-19)",
+    "social-services: not searched (low coverage) (2026-10-19)",
+    "elections-democracy: not searched (low coverage) (2026-10-19)",
+    "veterans: not searched (low coverage) (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 5,
+    "rejected": 0,
+    "balance_notes": "Race or-senate-15 swept 2026-10-19. Muñoz 8 items (T2), Hutchison 2 items (1 T2, 1 T3). Muñoz's campaign site has a full issues page; Hutchison's has a short goals list. Differences reflect available material, not unequal effort; gaps are documented."
+  }
+}

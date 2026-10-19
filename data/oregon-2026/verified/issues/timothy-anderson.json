@@ -1,0 +1,121 @@
+{
+  "id": "timothy-anderson",
+  "name": "Timothy (TJ) Anderson",
+  "race_id": "portland-council-d4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "timothy-anderson-i1",
+      "topic": "homelessness",
+      "statement": "In a Portland Tribune candidate profile, Anderson names business vacancy, homelessness and police response times as the biggest issues facing Portland and says they should be addressed together.",
+      "excerpt": "I see a three-headed beast facing Portland: business vacancy, homelessness, and police response times.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-4-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "timothy-anderson-i2",
+      "topic": "economy",
+      "statement": "In a Portland Tribune candidate profile, Anderson says vacant businesses weaken neighborhoods and reduce opportunities, and that Portland should address vacancy, homelessness and police response with measurable goals and accountability.",
+      "excerpt": "Vacant businesses weaken neighborhoods and reduce opportunities",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-4-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "timothy-anderson-i3",
+      "topic": "taxes",
+      "statement": "In a Portland Mercury candidate profile, Anderson lists making sure tax dollars are accountable among his priorities.",
+      "excerpt": "My priorities are making sure tax dollars are accountable,",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpts are consecutive fragments of one sentence on the page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "timothy-anderson-i4",
+      "topic": "local-business",
+      "statement": "In a Portland Mercury candidate profile, Anderson lists making sure small businesses can thrive among his priorities.",
+      "excerpt": "small businesses can thrive,",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpts are consecutive fragments of one sentence on the page.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "housing: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Part B of the portland-council-d4 race (6 of 12 candidates). Item counts: see report. Gaps documented; no per-candidate spot-search run (budget)."
+  }
+}

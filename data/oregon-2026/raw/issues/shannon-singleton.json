@@ -1,0 +1,230 @@
+{
+  "id": "shannon-singleton",
+  "name": "Shannon Singleton",
+  "race_id": "multnomah-county-chair",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "shannon-singleton-i1",
+      "topic": "homelessness",
+      "statement": "Singleton's campaign site says too many county neighbors are experiencing or at risk of becoming homeless.",
+      "excerpt": "Too many of our neighbors are experiencing or at risk of becoming homeless",
+      "source": {
+        "url": "https://www.shannonsingleton.org",
+        "publisher": "Shannon Singleton campaign site (shannonsingleton.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "shannon-singleton-i2",
+      "topic": "addiction-mental-health",
+      "statement": "Singleton's campaign site says some county residents are unable to access the addiction and mental health care they need.",
+      "excerpt": "unable to access the addiction and mental health care they need,",
+      "source": {
+        "url": "https://www.shannonsingleton.org",
+        "publisher": "Shannon Singleton campaign site (shannonsingleton.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "shannon-singleton-i3",
+      "topic": "homelessness",
+      "statement": "The Portland Mercury reported in March 2026 that Singleton described the county's Homeless Services Department as overly focused on emergency response such as unsheltered homelessness and shelters.",
+      "excerpt": "overly focused on that emergency response—unsheltered homelessness and shelters",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/2026/03/10/48369037/inside-the-race-for-county-chair-financial-woes-homeless-services-and-capitulating-to-trump",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-03-10",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "shannon-singleton-i4",
+      "topic": "taxes",
+      "statement": "The Portland Mercury reported in March 2026 that Singleton said the county is not in a position to add new programs and should focus on core services.",
+      "excerpt": "We're not in a position to be adding new programs",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/2026/03/10/48369037/inside-the-race-for-county-chair-financial-woes-homeless-services-and-capitulating-to-trump",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-03-10",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "shannon-singleton-i5",
+      "topic": "immigration",
+      "statement": "The Portland Mercury reported in March 2026 that Singleton said she does not believe anything can keep Oregon, Portland and Multnomah County from being a federal target and wants the county to continue to fight.",
+      "excerpt": "I do not believe there is anything we can do that makes Oregon and Portland and Multnomah County not a target",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/2026/03/10/48369037/inside-the-race-for-county-chair-financial-woes-homeless-services-and-capitulating-to-trump",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-03-10",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "shannon-singleton-i6",
+      "topic": "taxes",
+      "statement": "Willamette Week's October 2026 endorsement editorial said Singleton used budget amendments to build the 2025-26 county budget on recurring funds.",
+      "excerpt": "Only Singleton's judicious use of amendments to build the 2025–26 budget on recurring funds",
+      "source": {
+        "url": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-multnomah-county/",
+        "publisher": "Willamette Week (editorial endorsement)",
+        "tier": "T3",
+        "published_at": "2026-10-14",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign",
+      "query_or_url": "https://www.shannonsingleton.org",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "existing items in verified/candidates/shannon-singleton.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "existing items in verified/candidates/shannon-singleton.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "existing items in verified/candidates/shannon-singleton.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "local-business",
+      "query_or_url": "existing items in verified/candidates/shannon-singleton.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "existing items in verified/candidates/shannon-singleton.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-security-medicare",
+      "query_or_url": "issues.json levels exclude local offices",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "trade",
+      "query_or_url": "issues.json levels exclude local offices",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "foreign-policy",
+      "query_or_url": "issues.json levels exclude local offices",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Shannon Singleton\" cost of living prices",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Shannon Singleton\" Multnomah County chair taxes",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Shannon Singleton\" Multnomah County health care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "\"Shannon Singleton\" commissioner Oregon education schools",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"Shannon Singleton\" commissioner Oregon child care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "\"Shannon Singleton\" commissioner Oregon guns firearms",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "\"Shannon Singleton\" commissioner Oregon climate environment",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "\"Shannon Singleton\" commissioner Oregon energy utilities data centers",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness/taxes/immigration",
+      "query_or_url": "https://www.portlandmercury.com/news/2026/03/10/48369037/inside-the-race-for-county-chair-financial-woes-homeless-services-and-capitulating-to-trump",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-multnomah-county/",
+      "result": "used"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "rachel-armitage",
+  "name": "Rachel Armitage",
+  "race_id": "or-senate-16",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "rachel-armitage-i1",
+      "topic": "education",
+      "statement": "In a February 2026 statement reported by the Tillamook County Pioneer on her filing, Armitage says Senate District 16 deserves good schools, along with affordable housing and health care and family-wage jobs.",
+      "excerpt": "Senate District 16 deserves the best: affordable housing and health care, family-wage jobs, good schools",
+      "source": {
+        "url": "https://www.tillamookcountypioneer.net/formerly-appointed-state-senator-rachel-armitage-files-for-open-senate-district-16-seat/",
+        "publisher": "Tillamook County Pioneer",
+        "tier": "T3",
+        "published_at": "2026-02-19",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Quote is from Armitage in her filing statement (filed 2026-02-18, article 2026-02-19). Excerpt ends mid-sentence; the sentence then continues to a government that works for everyone, which the statement does not claim. Not misleading.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "rachel-armitage-i2",
+      "topic": "infrastructure",
+      "statement": "The Tillamook County Pioneer reported in February 2026 that, during her earlier Senate service, Armitage secured funding for infrastructure projects including a courthouse renovation.",
+      "excerpt": "Armitage secured funding for crucial infrastructure projects, including $2 million for a courthouse renovation",
+      "source": {
+        "url": "https://www.tillamookcountypioneer.net/formerly-appointed-state-senator-rachel-armitage-files-for-open-senate-district-16-seat/",
+        "publisher": "Tillamook County Pioneer",
+        "tier": "T3",
+        "published_at": "2026-02-19",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Excerpt widened to include the subject and verb (\"Armitage secured funding for crucial infrastructure projects\"). Statement already attributes the claim to the Pioneer as a report about her earlier Senate service; article gives no date for the funding, and the statement adds none.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "public-safety: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race or-senate-16 swept 2026-10-19 with the same issue list and stop rules for all three candidates. Bangs: 11 T2 from a full campaign priorities page; Finkle: 1 T3 (no campaign site found); Armitage: 2 T3 (Pioneer filing story). Counts reflect available material, not unequal effort; pamphlet statements (T1) not yet collected for any of the three."
+  }
+}

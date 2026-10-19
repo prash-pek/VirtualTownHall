@@ -1,0 +1,182 @@
+{
+  "id": "glenn-lancaster",
+  "name": "Glenn Lancaster",
+  "race_id": "or-senate-13",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "glenn-lancaster-i1",
+      "topic": "cost-of-living",
+      "statement": "On his campaign issues page, under 'Stop the Cost-of-Living Crisis', Lancaster says he would make affordability a priority so families can live, work and stay in Oregon.",
+      "excerpt": "Make affordability a priority so families can live, work, and stay in Oregon",
+      "source": {
+        "url": "https://glennlancaster.com/issues2/",
+        "publisher": "Glenn Lancaster campaign site (glennlancaster.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "glenn-lancaster-i2",
+      "topic": "housing",
+      "statement": "On his campaign issues page, Lancaster says he would fix housing policies that drive up rent and home prices.",
+      "excerpt": "Fix housing policies that drive up rent and home prices",
+      "source": {
+        "url": "https://glennlancaster.com/issues2/",
+        "publisher": "Glenn Lancaster campaign site (glennlancaster.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "glenn-lancaster-i3",
+      "topic": "homelessness",
+      "statement": "On his campaign issues page, Lancaster says he would demand real solutions to addiction and homelessness.",
+      "excerpt": "Demand real solutions to addiction and homelessness",
+      "source": {
+        "url": "https://glennlancaster.com/issues2/",
+        "publisher": "Glenn Lancaster campaign site (glennlancaster.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "glenn-lancaster-i4",
+      "topic": "addiction-mental-health",
+      "statement": "On his campaign home page, Lancaster lists tackling addiction and homelessness among his priorities.",
+      "excerpt": "Tackle addiction and homelessness.",
+      "source": {
+        "url": "https://glennlancaster.com/",
+        "publisher": "Glenn Lancaster campaign site (glennlancaster.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "cost-of-living",
+      "query_or_url": "https://glennlancaster.com/issues2/",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "issue": "housing",
+      "query_or_url": "https://glennlancaster.com/issues2/",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "issue": "homelessness",
+      "query_or_url": "https://glennlancaster.com/issues2/",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "issue": "addiction-mental-health",
+      "query_or_url": "https://glennlancaster.com/",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "verified/candidates/glenn-lancaster.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "verified/candidates/glenn-lancaster.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "verified/candidates/glenn-lancaster.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "\"Glenn Lancaster\" state senate Oregon economy jobs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Glenn Lancaster\" Senate District 13 Oregon health care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"Glenn Lancaster\" Senate Oregon child care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "\"Glenn Lancaster\" Senate Oregon guns firearms",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "\"Glenn Lancaster\" Senate Oregon energy utilities data centers; fetched wweek.com 2026-10-14 endorsements",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "\"Glenn Lancaster\" Senate Oregon climate environment",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "https://oregoncapitalchronicle.com/voter-guides/2026-general-election/",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "issue": "*",
+      "query_or_url": "https://ballotpedia.org/Glenn_Lancaster",
+      "result": "nothing relevant (fetch returned empty)"
+    }
+  ],
+  "collection_notes": "Early stop after 6 searches in a row with nothing usable (economy, healthcare, childcare, guns, energy, environment). Campaign site glennlancaster.com is not in the candidate file (website_url null); the domain is linked from his entry on https://oregon.gop/2026-candidates/ (fetched 2026-10-19; link unlabeled, last of four icons) and matches his Wilsonville Spokesman/Ballotpedia profile, so T2 items cite it. Reviewer may want to set website_url. A search summary attributed a 'market dictates where good energy comes from' climate quote to Lancaster; the WW page shows it is Jeff Helfrich (SD 26), so it was not used. Oregon Capital Chronicle voter guide (only Lancaster answered) returned 403; its answers are unread. Federal-only issues (social-security-medicare, trade, foreign-policy) skipped per levels."
+}

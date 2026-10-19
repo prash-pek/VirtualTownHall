@@ -1,0 +1,203 @@
+{
+  "id": "eric-zimmerman",
+  "name": "Eric Zimmerman",
+  "race_id": "portland-council-d4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "eric-zimmerman-i1",
+      "topic": "homelessness",
+      "statement": "On his campaign issues page, Zimmerman says opening more TASS shelter sites should be the city's highest priority because it is a shelter program that is working.",
+      "excerpt": "Opening more TASS sites should be the highest priority for the city because it\u2019s a shelter program that is working.",
+      "source": {
+        "url": "https://ez4pdx.com/issues/",
+        "publisher": "Eric Zimmerman campaign site (ez4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "eric-zimmerman-i2",
+      "topic": "addiction-mental-health",
+      "statement": "On his campaign issues page, Zimmerman says public drug use is illegal and affects everyone.",
+      "excerpt": "Public drug use is illegal and it affects everyone.",
+      "source": {
+        "url": "https://ez4pdx.com/issues/",
+        "publisher": "Eric Zimmerman campaign site (ez4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "eric-zimmerman-i3",
+      "topic": "transportation",
+      "statement": "On his campaign issues page, Zimmerman says Portland can be a hub of transportation options and accessibility innovations.",
+      "excerpt": "Portland can be a hub of transportation options and accessibility innovations.",
+      "source": {
+        "url": "https://ez4pdx.com/issues/",
+        "publisher": "Eric Zimmerman campaign site (ez4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "eric-zimmerman-i4",
+      "topic": "local-business",
+      "statement": "On his campaign issues page, Zimmerman says neighborhood main streets should get city support as business and cultural hubs for neighborhoods.",
+      "excerpt": "They should get the city support they deserve as business and cultural hubs for our neighborhoods.",
+      "source": {
+        "url": "https://ez4pdx.com/issues/",
+        "publisher": "Eric Zimmerman campaign site (ez4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "eric-zimmerman-i5",
+      "topic": "taxes",
+      "statement": "KPTV reported in February 2026 that Zimmerman and Mayor Keith Wilson seek to raise Portland's business tax exemption to $75,000 for tax year 2026 and $100,000 for 2027.",
+      "excerpt": "Zimmerman and Wilson seek to raise that exemption to $75,000 for the 2026 tax year, and to $100,000 for 2027.",
+      "source": {
+        "url": "https://www.kptv.com/2026/02/16/portland-mayor-councilman-seek-increase-tax-exemption-businesses/",
+        "publisher": "KPTV",
+        "tier": "T3",
+        "published_at": "2026-02-15",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "eric-zimmerman-i6",
+      "topic": "immigration",
+      "statement": "In his 2025 year-in-review newsletter on his council page, Zimmerman's office says the city strongly believes immigrants are valued members of the community.",
+      "excerpt": "We strongly believe that immigrants are valued members of our community.",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/4/eric-zimmerman/news/2025/12/31/2025-newsletter-year-review",
+        "publisher": "City of Portland, Councilor Zimmerman's office (portland.gov)",
+        "tier": "T2",
+        "published_at": "2025-12-31",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "eric-zimmerman-i7",
+      "topic": "infrastructure",
+      "statement": "In his 2025 year-in-review newsletter, Zimmerman's office says Council passed the Sidewalk Improvement and Pavement Project (SIPP).",
+      "excerpt": "Council passed the Sidewalk Improvement and Pavement Project (SIPP).",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/4/eric-zimmerman/news/2025/12/31/2025-newsletter-year-review",
+        "publisher": "City of Portland, Councilor Zimmerman's office (portland.gov)",
+        "tier": "T2",
+        "published_at": "2025-12-31",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "homelessness, addiction-mental-health, transportation, local-business",
+      "query_or_url": "https://ez4pdx.com/issues/",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Eric Zimmerman\" Portland councilor Oregon taxes; fetched kptv.com 2026/02/16 article",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "immigration, infrastructure",
+      "query_or_url": "https://www.portland.gov/council/districts/4/eric-zimmerman/news/2025/12/31/2025-newsletter-year-review",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "verified/candidates/eric-zimmerman.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "verified/candidates/eric-zimmerman.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "verified/candidates/eric-zimmerman.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "\"Eric Zimmerman\" Portland councilor Oregon economy jobs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Eric Zimmerman\" Portland councilor Oregon cost of living prices inflation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Eric Zimmerman\" Portland councilor Oregon health care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "\"Eric Zimmerman\" Portland councilor Oregon education schools",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"Eric Zimmerman\" Portland councilor Oregon child care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "\"Eric Zimmerman\" Portland councilor Oregon guns firearms",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Identity rests on the confirmed campaign site ez4pdx.com, his portland.gov District 4 office newsletter, and the KPTV article naming Councilor Eric Zimmerman with Mayor Keith Wilson. Early stop after 6 consecutive searches (economy through gun-policy) with nothing usable. Search-result summaries were not used as sources. Newsletter and campaign page statements are tiered T2 (stated priorities on office/campaign pages) consistent with the verified file."
+}

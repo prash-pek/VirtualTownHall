@@ -1,0 +1,315 @@
+{
+  "id": "myrna-munoz",
+  "name": "Myrna A Munoz",
+  "race_id": "or-senate-15",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "myrna-munoz-i1",
+      "topic": "housing",
+      "statement": "On the issues page of the campaign site, Muñoz lists investing in affordable housing for communities.",
+      "excerpt": "Investing in affordable housing for our communities.",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "myrna-munoz-i2",
+      "topic": "cost-of-living",
+      "statement": "On the issues page of the campaign site, Muñoz says housing costs strain family budgets.",
+      "excerpt": "housing costs strain family budgets",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "myrna-munoz-i3",
+      "topic": "energy",
+      "statement": "On the issues page of the campaign site, Muñoz criticizes the build-out of AI data centers as driving up electricity bills.",
+      "excerpt": "driving up electricity bills",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "myrna-munoz-i4",
+      "topic": "environment",
+      "statement": "On the issues page of the campaign site, Muñoz says they are committed to strengthening transparency, community input and environmental safeguards.",
+      "excerpt": "strengthening transparency, community input, and environmental safeguards",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "myrna-munoz-i5",
+      "topic": "agriculture",
+      "statement": "On the issues page of the campaign site, Muñoz says Oregon's land use system protects farms, forests and natural landscapes.",
+      "excerpt": "protects our farms, forests, and natural landscapes",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "myrna-munoz-i6",
+      "topic": "civil-rights",
+      "statement": "On the issues page of the campaign site, Muñoz says they would fight for policies that strengthen due process and prevent racial profiling.",
+      "excerpt": "fight for policies that strengthen due process, prevent racial profiling",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "myrna-munoz-i7",
+      "topic": "public-safety",
+      "statement": "On the issues page of the campaign site, Muñoz says they want local resources focused on keeping communities safe.",
+      "excerpt": "local resources are focused on keeping our communities safe",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "myrna-munoz-i8",
+      "topic": "labor",
+      "statement": "On the issues page of the campaign site, Muñoz supports protecting workers' rights so economic growth benefits families and small businesses.",
+      "excerpt": "Protecting workers' rights so economic growth benefits families and small businesses.",
+      "source": {
+        "url": "https://myrnaforsenate.com/issues",
+        "publisher": "Myrna Muñoz campaign site (myrnaforsenate.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "homelessness: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "abortion: nothing found (2026-10-19)",
+    "wildfire: not searched (low coverage) (2026-10-19)",
+    "transportation: not searched (low coverage) (2026-10-19)",
+    "infrastructure: not searched (low coverage) (2026-10-19)",
+    "local-business: not searched (low coverage) (2026-10-19)",
+    "social-services: not searched (low coverage) (2026-10-19)",
+    "elections-democracy: not searched (low coverage) (2026-10-19)",
+    "veterans: not searched (low coverage) (2026-10-19)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign",
+      "query_or_url": "https://myrnaforsenate.com; https://myrnaforsenate.com/issues",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "existing items in verified/candidates/myrna-munoz.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "existing items in verified/candidates/myrna-munoz.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "existing items in verified/candidates/myrna-munoz.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "existing items in verified/candidates/myrna-munoz.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "existing items in verified/candidates/myrna-munoz.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "technology",
+      "query_or_url": "existing items in verified/candidates/myrna-munoz.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "https://myrnaforsenate.com/issues",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "https://myrnaforsenate.com/issues",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "https://myrnaforsenate.com/issues",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "https://myrnaforsenate.com/issues",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "agriculture",
+      "query_or_url": "https://myrnaforsenate.com/issues",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights",
+      "query_or_url": "https://myrnaforsenate.com/issues",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "https://myrnaforsenate.com/issues",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "labor",
+      "query_or_url": "https://myrnaforsenate.com/issues",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Myrna Muñoz\" state senate Oregon homelessness (search)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "\"Myrna Muñoz\" state senate Oregon addiction-mental-health (search)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"Myrna Muñoz\" state senate Oregon childcare (search)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "\"Myrna Muñoz\" state senate Oregon gun-policy (search); ballotpedia.org/Myrna_Munoz fetch returned no text",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "\"Myrna Muñoz\" state senate Oregon water (search)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "abortion",
+      "query_or_url": "\"Myrna Muñoz\" state senate Oregon abortion (search)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "not searched (early stop)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "not searched (early stop)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "infrastructure",
+      "query_or_url": "not searched (early stop)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "local-business",
+      "query_or_url": "not searched (early stop)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "not searched (early stop)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "not searched (early stop)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "veterans",
+      "query_or_url": "not searched (early stop)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "Mother PAC page (motherpac.org/?p=6065) surfaced in search; advocacy endorser, not used as evidence of position",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Identity: items come from myrnaforsenate.com, the campaign domain already confirmed via the 2026 voters' pamphlet (website_verified_via in the verified file). Search results also surface Rep. Lesly Munoz (sister, District 22); none of her material was used. Issues page wording came via WebFetch; social-security-medicare, trade, foreign-policy skipped (federal-only)."
+}

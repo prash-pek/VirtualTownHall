@@ -1,0 +1,135 @@
+{
+  "id": "lisa-reynolds",
+  "name": "Lisa Reynolds",
+  "race_id": "or-senate-17",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "lisa-reynolds-i1",
+      "topic": "homelessness",
+      "statement": "On her campaign priorities page, Reynolds says every person in Oregon must have a place to call home.",
+      "excerpt": "Housing is a basic human right, and every person in Oregon must have a place to call home.",
+      "source": {
+        "url": "https://www.lisafororegon.com/priorities",
+        "publisher": "Lisa Reynolds campaign site (lisafororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date. Domain lisafororegon.com confirmed by candidate file (Voters Pamphlet).",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "lisa-reynolds-i2",
+      "topic": "addiction-mental-health",
+      "statement": "On her campaign priorities page, Reynolds says treatment options for those with Substance Use Disorder must increase markedly.",
+      "excerpt": "We must markedly increase treatment options for those with Substance Use Disorder.",
+      "source": {
+        "url": "https://www.lisafororegon.com/priorities",
+        "publisher": "Lisa Reynolds campaign site (lisafororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "lisa-reynolds-i3",
+      "topic": "social-services",
+      "statement": "On her campaign priorities page, in the End Child Poverty section, Reynolds is described as advocating upstream investments to mitigate the stress of poverty (hunger, housing insecurity, childcare challenges).",
+      "excerpt": "Lisa advocates for upstream investments to mitigate the stress of poverty (hunger, housing insecurity, childcare challenges).",
+      "source": {
+        "url": "https://www.lisafororegon.com/priorities",
+        "publisher": "Lisa Reynolds campaign site (lisafororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Page names childcare only as one example of poverty-related stress and describes no childcare policy, so the childcare topic overstated it. Moved to social-services and reworded to the page text. Childcare added to gaps.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "lisa-reynolds-i4",
+      "topic": "public-safety",
+      "statement": "On her campaign priorities page, under gun violence prevention, Reynolds says all Oregonians should be safe in their homes and communities.",
+      "excerpt": "All Oregonians to be safe in their homes and their communities.",
+      "source": {
+        "url": "https://www.lisafororegon.com/priorities",
+        "publisher": "Lisa Reynolds campaign site (lisafororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "lisa-reynolds-i5",
+      "topic": "abortion",
+      "statement": "On her campaign priorities page, under 'Our Bodies, Our Decisions', Reynolds says Oregon has the strongest abortion protections in the US.",
+      "excerpt": "Oregon has the strongest abortion protections in the US",
+      "source": {
+        "url": "https://www.lisafororegon.com/priorities",
+        "publisher": "Lisa Reynolds campaign site (lisafororegon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Trailing comma trimmed; page continues \"thanks to 2023's HB 2002\", not claimed in the statement. Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "childcare: nothing found (2026-10-19)",
+    "economy: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Race or-senate-17 swept 2026-10-19 with the same issue list and stop rules. Reynolds: 5 T2 from her campaign priorities page; Chee: no usable material found (no site or coverage), all issues gapped. Disparity reflects availability; pamphlet statements (T1) not yet collected."
+  }
+}

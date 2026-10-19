@@ -1,0 +1,237 @@
+{
+  "id": "keir-legree",
+  "name": "Keir Legree",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "keir-legree-i1",
+      "topic": "homelessness",
+      "statement": "On his campaign site, Legree says continuing to manage street homelessness is not good enough and calls for an approach focused on ending it.",
+      "excerpt": "Continuing to manage street homelessness isn't good enough. We need a new approach focused on ending it.",
+      "source": {
+        "url": "https://www.keir4pdx.com",
+        "publisher": "Keir Legree campaign site (keir4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "keir-legree-i2",
+      "topic": "housing",
+      "statement": "On his campaign site, Legree says he would dedicate a greater share of the city budget to building and preserving truly affordable housing.",
+      "excerpt": "By dedicating a greater share of our city budget toward building and preserving truly affordable housing",
+      "source": {
+        "url": "https://www.keir4pdx.com",
+        "publisher": "Keir Legree campaign site (keir4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "keir-legree-i3",
+      "topic": "addiction-mental-health",
+      "statement": "On his campaign site, in a section on people experiencing chronic street homelessness, Legree says active addiction, serious mental illness and behavioral-health challenges can become major barriers to returning to stable housing.",
+      "excerpt": "active addiction, serious mental illness, and behavioral-health challenges can become major barriers",
+      "source": {
+        "url": "https://www.keir4pdx.com",
+        "publisher": "Keir Legree campaign site (keir4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement omitted what the 'barriers' are to; added context from the page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "keir-legree-i4",
+      "topic": "cost-of-living",
+      "statement": "On his campaign site, Legree cites Portland households paying over $2,000 a year in combined water and sewer bills.",
+      "excerpt": "With Portland households now paying over $2,000 a year in combined water and sewer bills",
+      "source": {
+        "url": "https://www.keir4pdx.com",
+        "publisher": "Keir Legree campaign site (keir4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "keir-legree-i5",
+      "topic": "local-business",
+      "statement": "On his campaign site, Legree says it is time to stop treating families and small businesses as blank checks.",
+      "excerpt": "it is time to stop treating families and small businesses as blank checks.",
+      "source": {
+        "url": "https://www.keir4pdx.com",
+        "publisher": "Keir Legree campaign site (keir4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "keir-legree-i6",
+      "topic": "water",
+      "statement": "On his campaign site, Legree says there have been no reports of anyone getting sick from drinking water since 2017.",
+      "excerpt": "there have been no reports of anyone getting sick from drinking water since 2017.",
+      "source": {
+        "url": "https://www.keir4pdx.com",
+        "publisher": "Keir Legree campaign site (keir4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Legree's own factual assertion on his site, unsourced there; statement attributes it to him.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "keir-legree-i7",
+      "topic": "environment",
+      "statement": "On his campaign site, describing a one-year bottle and can redemption pilot he would ask the state to authorize, Legree says Portland residents could still conveniently recycle bottles and cans within the city.",
+      "excerpt": "Portland residents could still conveniently recycle bottles and cans within the city.",
+      "source": {
+        "url": "https://www.keir4pdx.com",
+        "publisher": "Keir Legree campaign site (keir4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement omitted that this describes his proposed redemption pilot; added context.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "keir-legree-i8",
+      "topic": "education",
+      "statement": "On his campaign site, Legree says encampments near schools and youth centers should receive especially urgent attention.",
+      "excerpt": "Encampments near schools and youth centers should receive especially urgent attention.",
+      "source": {
+        "url": "https://www.keir4pdx.com",
+        "publisher": "Keir Legree campaign site (keir4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "keir-legree-i9",
+      "topic": "labor",
+      "statement": "On his campaign site, Legree lists predictable scheduling for police, with stable shift patterns to curb forced overtime.",
+      "excerpt": "Predictable Scheduling: Introduce stable shift patterns to curb forced overtime.",
+      "source": {
+        "url": "https://www.keir4pdx.com",
+        "publisher": "Keir Legree campaign site (keir4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "keir-legree-i10",
+      "topic": "elections-democracy",
+      "statement": "On his campaign site, Legree says that under ranked-choice voting your vote can still count toward your next choice.",
+      "excerpt": "your vote can still count toward your next choice.",
+      "source": {
+        "url": "https://www.keir4pdx.com",
+        "publisher": "Keir Legree campaign site (keir4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 8,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Part B of the portland-council-d3 race. Item counts and tiers: see report. Gaps documented; per-candidate spot-search skipped (budget)."
+  }
+}

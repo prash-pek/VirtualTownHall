@@ -1,0 +1,188 @@
+{
+  "id": "michele-stroh",
+  "name": "Michele Stroh",
+  "race_id": "or-senate-20",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "michele-stroh-i1",
+      "topic": "cost-of-living",
+      "statement": "On her campaign website, Stroh says groceries, gas, housing and childcare all cost more, and that Salem's answer is always another tax.",
+      "excerpt": "Groceries, gas, housing, childcare — everything costs more, and Salem’s answer is always another tax.",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "michele-stroh-i2",
+      "topic": "economy",
+      "statement": "On the campaign website, Stroh says Oregonians are working harder and getting less.",
+      "excerpt": "Oregonians are working harder and getting less.",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "michele-stroh-i3",
+      "topic": "homelessness",
+      "statement": "On the campaign website, Stroh says Oregon has spent billions and the homelessness crisis has grown.",
+      "excerpt": "Oregon has spent billions and the crisis has grown.",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "michele-stroh-i4",
+      "topic": "addiction-mental-health",
+      "statement": "On the campaign website, Stroh's homelessness section includes treatment for addiction under the heading 'Compassion means results'.",
+      "excerpt": "Compassion means results — treatment for addiction",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "michele-stroh-i5",
+      "topic": "childcare",
+      "statement": "On the campaign website, Stroh says that when they could not find the right childcare, they left banking to start a small business.",
+      "excerpt": "When I couldn’t find the right childcare, I left the banking world to start a small business",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "michele-stroh-i6",
+      "topic": "local-business",
+      "statement": "On the campaign website, Stroh says they left banking to start a small business after not finding the right childcare.",
+      "excerpt": "I left the banking world to start a small business",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "healthcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "multiple",
+      "query_or_url": "https://votestroh.com/",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "already has items",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "already has items",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "already has items",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "already has items",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "already has items",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Michele Stroh\" state senate Oregon health care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "\"Michele Stroh\" state senate Oregon guns firearms",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "\"Michele Stroh\" state senate Oregon climate environment",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "\"Michele Stroh\" state senate Oregon energy utilities data centers",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "\"Michele Stroh\" state senate Oregon water",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "\"Michele Stroh\" state senate Oregon wildfire forests",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Items come from votestroh.com, the campaign domain already confirmed in verified/candidates/michele-stroh.json (linked from the SOS voters' pamphlet). Federal-only issues skipped (state office). Early stop after 6 consecutive searches (healthcare through wildfire) found nothing; the only search hits about her were an unclaimed GoodParty profile and a BallotReady listing, not used."
+}

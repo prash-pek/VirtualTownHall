@@ -1,0 +1,241 @@
+{
+  "id": "kimberly-tucker",
+  "name": "Kimberly Tucker",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "kimberly-tucker-i1",
+      "topic": "addiction-mental-health",
+      "statement": "On her campaign site's Big Three page, Tucker says a lack of mental health care underlies many of the city's most complex issues.",
+      "excerpt": "At the root of many of our most complex issues is a mental healthcare desert.",
+      "source": {
+        "url": "https://kimberlyforpdxd3.com/the-big-three",
+        "publisher": "Kimberly Tucker campaign site (kimberlyforpdxd3.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "kimberly-tucker-i2",
+      "topic": "homelessness",
+      "statement": "On her campaign's Other Issues page, in the section on the unhoused population, Tucker writes \"In the meantime, don't make our neighbors without permanent addresses go unseen.\"",
+      "excerpt": "don't make our neighbors without permanent addresses go unseen.",
+      "source": {
+        "url": "https://kimberlyforpdxd3.com/the-other-issues",
+        "publisher": "Kimberly Tucker campaign site (kimberlyforpdxd3.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement said 'urges residents'; page addresses no specific audience. Reworded to quote.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "kimberly-tucker-i3",
+      "topic": "housing",
+      "statement": "On her campaign's Other Issues page, in the section on the unhoused population, Tucker says the current system is beyond broken.",
+      "excerpt": "our current system is beyond broken.",
+      "source": {
+        "url": "https://kimberlyforpdxd3.com/the-other-issues",
+        "publisher": "Kimberly Tucker campaign site (kimberlyforpdxd3.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Section heading on page is 'Our Unhoused Population', not 'Housing and Homelessness'. Reworded.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "kimberly-tucker-i4",
+      "topic": "public-safety",
+      "statement": "On her campaign's Other Issues page, Tucker says police response times are too long.",
+      "excerpt": "Police response times are too long.",
+      "source": {
+        "url": "https://kimberlyforpdxd3.com/the-other-issues",
+        "publisher": "Kimberly Tucker campaign site (kimberlyforpdxd3.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "kimberly-tucker-i5",
+      "topic": "immigration",
+      "statement": "On her campaign's Other Issues page, Tucker says she wants no new ICE facilities, under a section titled 'Get and Keep ICE Out'.",
+      "excerpt": "we need to ensure that all of our neighbors are safe. This means no new ICE facilities",
+      "source": {
+        "url": "https://kimberlyforpdxd3.com/the-other-issues",
+        "publisher": "Kimberly Tucker campaign site (kimberlyforpdxd3.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "'in Portland' is not in the excerpt; removed and section named.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "kimberly-tucker-i6",
+      "topic": "transportation",
+      "statement": "On her campaign's Other Issues page, Tucker says sustainability includes maintaining or increasing public and low-emission transit options.",
+      "excerpt": "This includes a focus on how to maintain or increase public and low emission transit options,",
+      "source": {
+        "url": "https://kimberlyforpdxd3.com/the-other-issues",
+        "publisher": "Kimberly Tucker campaign site (kimberlyforpdxd3.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "kimberly-tucker-i7",
+      "topic": "environment",
+      "statement": "On her campaign's Other Issues page, Tucker says sustainability should be at the forefront of most city decisions.",
+      "excerpt": "Sustainability should be at the forefront of the majority of our decisions.",
+      "source": {
+        "url": "https://kimberlyforpdxd3.com/the-other-issues",
+        "publisher": "Kimberly Tucker campaign site (kimberlyforpdxd3.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "kimberly-tucker-i8",
+      "topic": "local-business",
+      "statement": "On her campaign's Other Issues page, Tucker says Portland is and should remain a small business city.",
+      "excerpt": "Portland is and should remain a small business city.",
+      "source": {
+        "url": "https://kimberlyforpdxd3.com/the-other-issues",
+        "publisher": "Kimberly Tucker campaign site (kimberlyforpdxd3.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "kimberly-tucker-i9",
+      "topic": "cost-of-living",
+      "statement": "On her campaign's Other Issues page, Tucker says each city councilor's personal office budget should be in line with national standards.",
+      "excerpt": "each city councilor's personal office budget is in line with national standards.",
+      "source": {
+        "url": "https://kimberlyforpdxd3.com/the-other-issues",
+        "publisher": "Kimberly Tucker campaign site (kimberlyforpdxd3.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "kimberly-tucker-i10",
+      "topic": "elections-democracy",
+      "statement": "On her campaign's Big Three page, Tucker says accessible, jargon-free cost-benefit analyses of city programs should be mandatory.",
+      "excerpt": "Easily accessible, publicly available, and jargon-free cost-benefit analyses should be mandatory",
+      "source": {
+        "url": "https://kimberlyforpdxd3.com/the-big-three",
+        "publisher": "Kimberly Tucker campaign site (kimberlyforpdxd3.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "taxes: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 3,
+    "rejected": 0,
+    "balance_notes": "Part B of the portland-council-d3 race. Item counts and tiers: see report. Gaps documented; per-candidate spot-search skipped (budget)."
+  }
+}

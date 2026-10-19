@@ -1,0 +1,228 @@
+{
+  "id": "terry-parker",
+  "name": "Terry Parker",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "terry-parker-i1",
+      "topic": "infrastructure",
+      "statement": "In its 2026 District 3 candidate guide, the Portland Mercury reports Parker says Portland needs a \"maintenance first\" policy for streets and parks.",
+      "excerpt": "The candidate says Portland needs a “maintenance first” policy for streets and parks,",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "terry-parker-i2",
+      "topic": "addiction-mental-health",
+      "statement": "In its 2026 District 3 candidate guide, the Portland Mercury quotes Parker saying the city should crack down on drug dealing.",
+      "excerpt": "Vigorously crack down on drug dealing.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "terry-parker-i3",
+      "topic": "transportation",
+      "statement": "In a 2024 OPB candidate questionnaire, Parker said maintaining roadway surfaces and infrastructure must be the top priority.",
+      "excerpt": "Maintaining our roadway surfaces and infrastructure must be the top priority.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/30/meet-terry-parker-candidate-for-portland-city-council-district-3/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "terry-parker-i4",
+      "topic": "transportation",
+      "statement": "In a 2024 KATU candidate questionnaire, Parker said his primary reason for running is that PBOT's public engagement process has broken down.",
+      "excerpt": "The primary reason I am running is because PBOT's public engagement process has completely broken down.",
+      "source": {
+        "url": "https://www.katu.com/news/know-your-candidates/terry-parker-portland-city-council-district-3",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2024-10-16",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "recency"
+        ],
+        "note": "Page is dated 2024-10-16 (statement already says 2024); published_at filled in.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "terry-parker-i5",
+      "topic": "homelessness",
+      "statement": "In a 2024 OPB candidate questionnaire, Parker, asked about arresting and jailing people who camp on public property, answered yes and said 'tough love coupled with compassionate camping ban enforcement is needed.'",
+      "excerpt": "Yes. Tough love coupled with compassionate camping ban enforcement is needed.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/30/meet-terry-parker-candidate-for-portland-city-council-district-3/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement dropped the word 'compassionate' from the quoted phrase; restored.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "terry-parker-i6",
+      "topic": "taxes",
+      "statement": "In a 2024 OPB candidate questionnaire, Parker said he would eliminate the annual $35 arts tax on individuals.",
+      "excerpt": "I would eliminate the annual $35.00 arts tax on individuals.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/30/meet-terry-parker-candidate-for-portland-city-council-district-3/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "terry-parker-i7",
+      "topic": "environment",
+      "statement": "In a 2024 OPB candidate questionnaire, asked whether he supports putting the Clean Energy Fund measure back on the ballot, Parker answered \"Not at this time.\"",
+      "excerpt": "Not at this time.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/30/meet-terry-parker-candidate-for-portland-city-council-district-3/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "terry-parker-i8",
+      "topic": "housing",
+      "statement": "In a 2024 OPB candidate questionnaire answer on large multi-household housing construction, Parker said the first step is to further streamline the permitting and inspection processes.",
+      "excerpt": "first step is to further streamline the permitting and inspection processes",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/30/meet-terry-parker-candidate-for-portland-city-council-district-3/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim",
+          "paraphrase_faithful"
+        ],
+        "note": "Original excerpt was a sentence fragment that did not support 'proposed changes to permitting'; replaced with the page's actual permitting sentence.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "terry-parker-i9",
+      "topic": "cost-of-living",
+      "statement": "In a 2024 KATU candidate questionnaire (answer on why he is running), Parker said working-class families and seniors on fixed incomes are seeing their purchasing power erode due to inflation while their incomes are reduced by new and increased taxes.",
+      "excerpt": "Self-sufficient working class families with modest incomes and senior citizens on fixed incomes are seeing their purchasing power erode due to inflation while having their incomes reduced due to new and increased taxes.",
+      "source": {
+        "url": "https://www.katu.com/news/know-your-candidates/terry-parker-portland-city-council-district-3",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim",
+          "paraphrase_faithful",
+          "recency"
+        ],
+        "note": "Excerpt was cut mid-sentence; extended. Statement now states what the sentence says. Page dated 2024-10-16.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 4,
+    "rejected": 0,
+    "balance_notes": "Race portland-council-d3 Part A swept 2026-10-19 with the same issue list and stop rules. Item counts reflect what exists per candidate; see report issues-portland-council-d3-2026-10-19-partA.md."
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "id": "david-russ",
+  "name": "David Russ",
+  "race_id": "or-us-house-6",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "david-russ-i1",
+      "topic": "taxes",
+      "statement": "On his campaign home page, Russ lists ending the IRS 'manhunt' of 1099 employers and employees among his small-business and farm priorities.",
+      "excerpt": "End the IRS manhunt of 1099 employers and employees.",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "david-russ-i2",
+      "topic": "local-business",
+      "statement": "On his campaign home page, Russ lists protecting small businesses and family farms as a priority.",
+      "excerpt": "Protect Small Businesses & Family Farms",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement mentioned stopping subsidies, which is not in the excerpt (a separate line on the page); reworded to match the excerpt.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "david-russ-i3",
+      "topic": "labor",
+      "statement": "On his campaign home page, Russ lists a Minimum Employment Act under his 'Affordability for Working Families' heading.",
+      "excerpt": "Minimum Employment Act",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "david-russ-i4",
+      "topic": "trade",
+      "statement": "On his campaign home page, Russ lists returning manufacturing to America under his 'Affordability for Working Families' heading.",
+      "excerpt": "Return Manufacturing to America",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "david-russ-i5",
+      "topic": "immigration",
+      "statement": "On his campaign home page, Russ lists making it a federal felony to aid or abet what he calls 'illegal border crossers'.",
+      "excerpt": "Make it a federal felony to aide and/or abet illegal border crossers",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "neutral_wording"
+        ],
+        "note": "Added attribution to Russ's own term 'illegal border crossers'. Excerpt keeps his spelling 'aide'.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "david-russ-i6",
+      "topic": "immigration",
+      "statement": "On his campaign home page, Russ lists ending federal subsidy and loan programs that target non-citizens.",
+      "excerpt": "End Federal subsidy/loan programs targeting non-citizens.",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "david-russ-i7",
+      "topic": "infrastructure",
+      "statement": "On his campaign home page, Russ lists ending federal control of local schools, utilities, businesses and infrastructure.",
+      "excerpt": "End Federal Control of our Local Schools, Utilities, Businesses and Infrastructure",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "housing: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "public-safety: not searched (low coverage) (2026-10-19)",
+    "gun-policy: not searched (low coverage) (2026-10-19)",
+    "environment: not searched (low coverage) (2026-10-19)",
+    "energy: not searched (low coverage) (2026-10-19)",
+    "water: not searched (low coverage) (2026-10-19)",
+    "wildfire: not searched (low coverage) (2026-10-19)",
+    "transportation: not searched (low coverage) (2026-10-19)",
+    "technology: not searched (low coverage) (2026-10-19)",
+    "social-services: not searched (low coverage) (2026-10-19)",
+    "social-security-medicare: not searched (low coverage) (2026-10-19)",
+    "abortion: not searched (low coverage) (2026-10-19)",
+    "elections-democracy: not searched (low coverage) (2026-10-19)",
+    "veterans: not searched (low coverage) (2026-10-19)",
+    "foreign-policy: not searched (low coverage) (2026-10-19)",
+    "civil-rights: not searched (low coverage) (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "See reports/verification/issues-or-us-house-6-2026-10-19.md"
+  }
+}

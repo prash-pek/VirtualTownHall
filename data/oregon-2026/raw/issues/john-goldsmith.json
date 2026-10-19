@@ -1,0 +1,262 @@
+{
+  "id": "john-goldsmith",
+  "name": "John J Goldsmith",
+  "race_id": "portland-council-d4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "john-goldsmith-i1",
+      "topic": "homelessness",
+      "statement": "The Cardinal Times lists a camping plan, along with clean streets and safety, among the priorities for Portland City Council District 4 candidate John Goldsmith.",
+      "excerpt": "Clean streets and camping plan, sustainability in the power grid and safety.",
+      "source": {
+        "url": "https://cardinaltimes.org/27913/news/meet-the-candidates-running-for-portland-city-council-district-4/",
+        "publisher": "The Cardinal Times",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "john-goldsmith-i2",
+      "topic": "energy",
+      "statement": "The Cardinal Times lists sustainability in the power grid, along with clean streets, a camping plan and safety, among John Goldsmith's priorities for Portland City Council District 4.",
+      "excerpt": "Clean streets and camping plan, sustainability in the power grid and safety.",
+      "source": {
+        "url": "https://cardinaltimes.org/27913/news/meet-the-candidates-running-for-portland-city-council-district-4/",
+        "publisher": "The Cardinal Times",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "john-goldsmith-i3",
+      "topic": "public-safety",
+      "statement": "The Cardinal Times lists safety, along with clean streets, a camping plan and sustainability in the power grid, among John Goldsmith's priorities for Portland City Council District 4.",
+      "excerpt": "Clean streets and camping plan, sustainability in the power grid and safety.",
+      "source": {
+        "url": "https://cardinaltimes.org/27913/news/meet-the-candidates-running-for-portland-city-council-district-4/",
+        "publisher": "The Cardinal Times",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "housing: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage) (2026-10-19)",
+    "environment: not searched (low coverage) (2026-10-19)",
+    "water: not searched (low coverage) (2026-10-19)",
+    "wildfire: not searched (low coverage) (2026-10-19)",
+    "agriculture: not searched (low coverage) (2026-10-19)",
+    "transportation: not searched (low coverage) (2026-10-19)",
+    "infrastructure: not searched (low coverage) (2026-10-19)",
+    "technology: not searched (low coverage) (2026-10-19)",
+    "labor: not searched (low coverage) (2026-10-19)",
+    "local-business: not searched (low coverage) (2026-10-19)",
+    "social-services: not searched (low coverage) (2026-10-19)",
+    "abortion: not searched (low coverage) (2026-10-19)",
+    "immigration: not searched (low coverage) (2026-10-19)",
+    "civil-rights: not searched (low coverage) (2026-10-19)",
+    "elections-democracy: not searched (low coverage) (2026-10-19)",
+    "veterans: not searched (low coverage) (2026-10-19)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign",
+      "query_or_url": "https://www.johngoldsmith4pdx.net (HTTP 503)",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "\"John Goldsmith\" Portland city council Oregon economy jobs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"John Goldsmith\" Portland city council Oregon housing rent",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "https://cardinaltimes.org/27913/news/meet-the-candidates-running-for-portland-city-council-district-4/ (search: \"John Goldsmith\" Portland city council Oregon homelessness)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "https://www.koin.com/news/politics/john-j-goldsmith-candidate-questionnaire-for-portland-city-council-district-4/ (HTTP 403)",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "https://cardinaltimes.org/27913/news/meet-the-candidates-running-for-portland-city-council-district-4/ (page already fetched)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "https://cardinaltimes.org/27913/news/meet-the-candidates-running-for-portland-city-council-district-4/ (page already fetched)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"John Goldsmith\" Portland city council Oregon cost of living prices inflation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"John Goldsmith\" Portland city council Oregon taxes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"John Goldsmith\" Portland city council Oregon health care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "\"John Goldsmith\" Portland city council Oregon addiction mental health drugs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "\"John Goldsmith\" Portland city council Oregon education schools",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"John Goldsmith\" Portland city council Oregon child care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness/energy/public-safety (extra fetches)",
+      "query_or_url": "portlandtribune.com 2026-10-13 Q&A; portlandmercury.com 2026 and 2024 D4 guides; opb.org 2026-10-07 (no Goldsmith positions; Tribune says he did not respond)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "agriculture",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "infrastructure",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "technology",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "labor",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "local-business",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "abortion",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "veterans",
+      "query_or_url": "6 searches in a row with nothing usable (cost-of-living to child care)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Candidate has no existing positions, so no issue was 'already covered'. Federal-only issues (social-security-medicare, trade, foreign-policy) skipped per levels. Campaign site returned 503; KOIN questionnaire returned 403. Only usable source is The Cardinal Times (a student-run outlet, not in COLLECTOR.md's T3 list; tier T3 assigned, verifier should confirm acceptability). Match rests on the article naming him as a 2026 District 4 candidate. WebSearch summaries wrongly attributed other candidates' 2024 Mercury positions to Goldsmith; fetching showed his Mercury section has none, so none were used."
+}

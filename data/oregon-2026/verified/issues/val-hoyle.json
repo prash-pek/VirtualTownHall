@@ -1,0 +1,308 @@
+{
+  "id": "val-hoyle",
+  "name": "Val Hoyle",
+  "race_id": "or-us-house-4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "val-hoyle-i1",
+      "topic": "housing",
+      "statement": "On her House website's housing page, Hoyle says she supports expanding affordable and workforce housing.",
+      "excerpt": "I support expanding affordable and workforce housing.",
+      "source": {
+        "url": "https://hoyle.house.gov/issues/housing",
+        "publisher": "Office of U.S. Rep. Val Hoyle (hoyle.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the page by an independent fetch. Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i2",
+      "topic": "homelessness",
+      "statement": "In a January 2024 joint press release on HUD homelessness funding for Oregon, Hoyle is quoted calling the $60 million in federal funds an important lifeline.",
+      "excerpt": "This $60 million in federal funds offers an important lifeline",
+      "source": {
+        "url": "https://hoyle.house.gov/media/press-releases/merkley-wyden-blumenauer-bonamici-hoyle-salinas-announce-over-60-million-to-combat-homelessness-across-oregon",
+        "publisher": "Office of U.S. Rep. Val Hoyle (hoyle.house.gov)",
+        "tier": "T1",
+        "published_at": "2024-01-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the page by an independent fetch.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i3",
+      "topic": "education",
+      "statement": "On her House website's education page, Hoyle says that as a first-generation college student she understands the value of making higher education affordable.",
+      "excerpt": "As a first-generation college student, I understand the value of investing in higher education and ensuring it is affordable.",
+      "source": {
+        "url": "https://hoyle.house.gov/issues/education-and-apprenticeships",
+        "publisher": "Office of U.S. Rep. Val Hoyle (hoyle.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the page by an independent fetch. Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i4",
+      "topic": "environment",
+      "statement": "On her House website's environment page, Hoyle says she strongly supports managing natural resources to protect the environment and special places.",
+      "excerpt": "I strongly support managing our natural resources to protect our environment and special places",
+      "source": {
+        "url": "https://hoyle.house.gov/issues/environment-and-climate-change",
+        "publisher": "Office of U.S. Rep. Val Hoyle (hoyle.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the page by an independent fetch. Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i5",
+      "topic": "water",
+      "statement": "On her House website's environment page, Hoyle's office describes her Southwestern Oregon Watershed and Salmon Protection Act as protecting local rivers, clean drinking water and salmon habitat.",
+      "excerpt": "would permanently protect Southwestern Oregon rivers, clean drinking water, wild salmon habitats",
+      "source": {
+        "url": "https://hoyle.house.gov/issues/environment-and-climate-change",
+        "publisher": "Office of U.S. Rep. Val Hoyle (hoyle.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed; page says 'My bill, the Southwestern Oregon Watershed and Salmon Protection Act, would permanently protect ... from mining pollution'.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i6",
+      "topic": "transportation",
+      "statement": "On her House website's transportation page, Hoyle says she is proud to fight for the Fourth District's transportation and infrastructure needs.",
+      "excerpt": "I’m proud to fight for the Fourth Congressional District’s transportation and infrastructure needs in Congress.",
+      "source": {
+        "url": "https://hoyle.house.gov/issues/transportation-and-infrastructure",
+        "publisher": "Office of U.S. Rep. Val Hoyle (hoyle.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the page by an independent fetch. Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i7",
+      "topic": "infrastructure",
+      "statement": "On her House website's infrastructure page, Hoyle says she is committed to ensuring rural and coastal communities are not left behind.",
+      "excerpt": "I am committed to ensuring that our rural and coastal communities are not left behind.",
+      "source": {
+        "url": "https://hoyle.house.gov/issues/transportation-and-infrastructure",
+        "publisher": "Office of U.S. Rep. Val Hoyle (hoyle.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the page by an independent fetch. Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i8",
+      "topic": "veterans",
+      "statement": "On her House website's veterans page, Hoyle says the country made a promise to veterans and she intends to see it through.",
+      "excerpt": "Our country made a promise to our veterans, and I have every intention of seeing it through.",
+      "source": {
+        "url": "https://hoyle.house.gov/issue/veterans",
+        "publisher": "Office of U.S. Rep. Val Hoyle (hoyle.house.gov)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the page by an independent fetch. Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i9",
+      "topic": "wildfire",
+      "statement": "In a September 2025 press release, Hoyle's office says she joined Oregon lawmakers in a letter to USDA opposing plans that the release says would weaken wildfire response.",
+      "excerpt": "Oregon lawmakers warn USDA plan would weaken wildfire response, disrupt critical research, and jeopardize 246 local jobs.",
+      "source": {
+        "url": "https://hoyle.house.gov/media/press-releases/hoyle-joins-oregon-lawmakers-in-standing-up-for-wildfire-response-and-research",
+        "publisher": "Office of U.S. Rep. Val Hoyle (hoyle.house.gov)",
+        "tier": "T1",
+        "published_at": "2025-09-04",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the page by an independent fetch.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i10",
+      "topic": "agriculture",
+      "statement": "In a March 2025 press release, Hoyle says her district feeds the world and that she wants to highlight women farmers, naming a farmer as her State of the Union guest.",
+      "excerpt": "My district feeds the world, and I am proud to bring attention to her work to highlight women farmers.",
+      "source": {
+        "url": "https://hoyle.house.gov/media/press-releases/rep-hoyle-statement-on-attending-state-of-the-union-with-guest-marie-bowers",
+        "publisher": "Office of U.S. Rep. Val Hoyle (hoyle.house.gov)",
+        "tier": "T1",
+        "published_at": "2025-03-03",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the page by an independent fetch.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i11",
+      "topic": "technology",
+      "statement": "OPB reported in September 2026 that, in an interview with KLCC, Hoyle said she wants federal legislation on AI quickly.",
+      "excerpt": "What I want is federal legislation and federal legislation quickly.",
+      "source": {
+        "url": "https://opb.org/article/2026/09/21/val-hoyle-monique-despain-oregon-ai-data-centers",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-09-21",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the page by an independent fetch.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i12",
+      "topic": "labor",
+      "statement": "In a January 2025 press release, Hoyle says two semiconductor manufacturers should adopt neutrality agreements that let workers organize without fear of retribution.",
+      "excerpt": "Both companies should adopt neutrality agreements that allow workers to organize without the fear of retribution.",
+      "source": {
+        "url": "https://hoyle.house.gov/media/press-releases/hoyle-semiconductor-manufacturers-workers-unionize",
+        "publisher": "Office of U.S. Rep. Val Hoyle (hoyle.house.gov)",
+        "tier": "T1",
+        "published_at": "2025-01-10",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the page by an independent fetch.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i13",
+      "topic": "foreign-policy",
+      "statement": "In an April 2026 statement on Iran, Hoyle says she is again calling on Congress to vote on the War Powers Resolution.",
+      "excerpt": "I am once again calling on Congress to vote on the War Powers Resolution and put a stop to this—now.",
+      "source": {
+        "url": "https://hoyle.house.gov/media/press-releases/rep-hoyles-statement-on-president-trumps-threats-to-iran",
+        "publisher": "Office of U.S. Rep. Val Hoyle (hoyle.house.gov)",
+        "tier": "T1",
+        "published_at": "2026-04-07",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed on the page by an independent fetch.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "val-hoyle-i14",
+      "topic": "elections-democracy",
+      "statement": "KOIN reported in February 2026 that the Vote at Home Act, which the article says Hoyle introduced in the House in 2025, aims to bring Oregon's voting model nationwide.",
+      "excerpt": "The bill aims to bring Oregon’s voting model nationwide",
+      "source": {
+        "url": "https://digital-release.koin.com/?p=2497150",
+        "publisher": "KOIN",
+        "tier": "T3",
+        "published_at": "2026-02-20",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt trimmed (page continues 'by giving eligible voters the option to vote by mail', no period) and statement reworded: the sentence does not name Hoyle or the chamber; the article separately says she introduced the House version in 2025.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "public-safety: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "local-business: nothing found (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 13,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-4 swept 2026-10-19 with the same issue list and stop rules for all three candidates. Hoyle: 14 new items (12 T1 house.gov, 2 T3), 7 issues gapped. Higher T1 count reflects her official House site, not extra search effort."
+  }
+}

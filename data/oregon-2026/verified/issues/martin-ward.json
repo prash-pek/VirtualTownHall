@@ -1,0 +1,127 @@
+{
+  "id": "martin-ward",
+  "name": "Martin Ward",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "martin-ward-i1",
+      "topic": "homelessness",
+      "statement": "In OPB's September 2024 candidate profile for Portland mayor, Ward said his goal was no homeless people on the streets by the end of his first term.",
+      "excerpt": "Having no homeless on the streets by the end of my first term due to my homeless policies.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/30/meet-martin-ward-candidate-for-portland-mayor/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Identity: 2024 OPB mayoral answers matched to the 2026 District 3 candidate by name only; no source says it is the same person.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "martin-ward-i2",
+      "topic": "homelessness",
+      "statement": "In the same 2024 OPB profile, Ward said that as shelter options are made available, officials may use force.",
+      "excerpt": "As these options are made available, we may use force.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/30/meet-martin-ward-candidate-for-portland-mayor/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Identity: 2024 OPB mayoral answers matched to the 2026 District 3 candidate by name only; no source says it is the same person.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "martin-ward-i3",
+      "topic": "addiction-mental-health",
+      "statement": "In OPB's September 2024 mayoral candidate profile, Ward said addressing addiction and mental health would probably take longer because many people have these issues, but that they are not always debilitated by them.",
+      "excerpt": "Addiction and mental health will probably take a little longer as many people have these issues, but they're not always debilitated by them",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/30/meet-martin-ward-candidate-for-portland-mayor/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim",
+          "paraphrase_faithful",
+          "low_confidence"
+        ],
+        "note": "Sentence continues on the page with 'but they're not always debilitated by them'; excerpt and statement extended. Low confidence. Identity: 2024 OPB mayoral answers matched to the 2026 District 3 candidate by name only; no source says it is the same person.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "martin-ward-i4",
+      "topic": "environment",
+      "statement": "In OPB's September 2024 mayoral candidate profile, Ward said he planned to cut the Portland Clean Energy Fund completely.",
+      "excerpt": "I plan on cutting the Portland Clean Energy Fund completely.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/09/30/meet-martin-ward-candidate-for-portland-mayor/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-09-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Identity: 2024 OPB mayoral answers matched to the 2026 District 3 candidate by name only; no source says it is the same person.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race portland-council-d3 Part A swept 2026-10-19 with the same issue list and stop rules. Item counts reflect what exists per candidate; see report issues-portland-council-d3-2026-10-19-partA.md."
+  }
+}
