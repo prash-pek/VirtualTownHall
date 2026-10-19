@@ -1,0 +1,224 @@
+{
+  "id": "matt-schulte",
+  "name": "Matt Schulte",
+  "race_id": "portland-council-d4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "matt-schulte-i1",
+      "topic": "homelessness",
+      "statement": "On his campaign site's About page, Schulte says he would launch ReBoot Portland to address a major issue identified by the new PSU/Pathways report.",
+      "excerpt": "Launch ReBoot Portland to confront a major issue identified by both the new PSU/Pathways report",
+      "source": {
+        "url": "https://mattschulte.wordpress.com/about/",
+        "publisher": "Matt Schulte campaign site (mattschulte.wordpress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "matt-schulte-i2",
+      "topic": "housing",
+      "statement": "On his campaign site's About page, Schulte describes a Portland Affordability Rule that would keep growth in City-controlled household costs below the three-year average growth in Portland median household income.",
+      "excerpt": "keeping growth in City-controlled household costs below the three-year average growth in Portland median household income.",
+      "source": {
+        "url": "https://mattschulte.wordpress.com/about/",
+        "publisher": "Matt Schulte campaign site (mattschulte.wordpress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "matt-schulte-i3",
+      "topic": "energy",
+      "statement": "On his campaign site's About page, Schulte describes a Load-Value Standard that would require large new power users, like data centers, to demonstrate what Portland receives.",
+      "excerpt": "requiring large new power users, like Data Centers, to demonstrate what Portland receives",
+      "source": {
+        "url": "https://mattschulte.wordpress.com/about/",
+        "publisher": "Matt Schulte campaign site (mattschulte.wordpress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "matt-schulte-i4",
+      "topic": "water",
+      "statement": "On his campaign site's About page, Schulte lists completing design and permitting for flushing channels to address the Ross Island algae bloom.",
+      "excerpt": "Complete the design and permitting for flushing channels to address the Ross Island algae bloom.",
+      "source": {
+        "url": "https://mattschulte.wordpress.com/about/",
+        "publisher": "Matt Schulte campaign site (mattschulte.wordpress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "matt-schulte-i5",
+      "topic": "transportation",
+      "statement": "On his campaign site's About page, Schulte lists completing the Safe Routes priority network around every District 4 elementary school.",
+      "excerpt": "Complete the Safe Routes priority network around every District 4 elementary school.",
+      "source": {
+        "url": "https://mattschulte.wordpress.com/about/",
+        "publisher": "Matt Schulte campaign site (mattschulte.wordpress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "taxes: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign-page",
+      "query_or_url": "https://mattschulte.org (301 to https://mattschulte.wordpress.com/)",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "issue": "campaign-page",
+      "query_or_url": "https://mattschulte.wordpress.com/initiatives-plans-ideas/",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Matt Schulte\" city council Oregon homelessness Portland; then https://mattschulte.wordpress.com/about/",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"Matt Schulte\" city council Oregon housing rent (answered by About page)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "https://mattschulte.wordpress.com/about/ (already fetched)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "https://mattschulte.wordpress.com/about/ (already fetched)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "https://mattschulte.wordpress.com/about/ (already fetched)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Matt Schulte\" city council Oregon taxes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Matt Schulte\" city council Oregon cost of living prices inflation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "\"Matt Schulte\" city council Oregon addiction mental health drugs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Matt Schulte\" city council Oregon health care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "\"Matt Schulte\" city council Oregon education schools",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"Matt Schulte\" city council Oregon child care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "verified/candidates/matt-schulte.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "infrastructure",
+      "query_or_url": "verified/candidates/matt-schulte.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "verified/candidates/matt-schulte.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "verified/candidates/matt-schulte.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-security-medicare",
+      "query_or_url": "issues.json levels exclude local",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "trade",
+      "query_or_url": "issues.json levels exclude local",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "foreign-policy",
+      "query_or_url": "issues.json levels exclude local",
+      "result": "already covered"
+    }
+  ],
+  "collection_notes": "Campaign site mattschulte.org (confirmed in verified candidate file) 301-redirects to mattschulte.wordpress.com, whose header reads 'Matt Schulte - Candidate for Portland City Council - District 4'; items rest on that. Individual policy posts were not fetched (URLs not returned by tools); About page text was used. Namesake Matt Schultes in Nebraska appeared in searches and were ignored. Early stop after 8 searches in a row with nothing usable."
+}
