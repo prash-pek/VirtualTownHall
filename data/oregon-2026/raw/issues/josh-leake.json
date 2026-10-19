@@ -1,0 +1,246 @@
+{
+  "id": "josh-leake",
+  "name": "Josh Leake",
+  "race_id": "portland-council-d4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "josh-leake-i1",
+      "topic": "addiction-mental-health",
+      "statement": "On the campaign site home page, Leake lists ending the drug emergency as Priority 01 and includes treatment on demand.",
+      "excerpt": "Treatment on demand.",
+      "source": {
+        "url": "https://joshforportland.com",
+        "publisher": "Josh Leake campaign site (joshforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "josh-leake-i2",
+      "topic": "addiction-mental-health",
+      "statement": "On the campaign site home page, Leake's drug emergency priority describes a team of a physician, psychologist, pharmacist, benefits navigator, police and an ACLU attorney.",
+      "excerpt": "Deploy MD, psychologist, pharmacist, Trillium/OHP navigator, police + ACLU attorney team",
+      "source": {
+        "url": "https://joshforportland.com",
+        "publisher": "Josh Leake campaign site (joshforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "josh-leake-i3",
+      "topic": "local-business",
+      "statement": "On the campaign site home page, Leake's Priority 03 on arts and culture says arts fill empty storefronts and keep small businesses alive.",
+      "excerpt": "Arts fills empty storefronts, drives tourism, keeps small businesses alive.",
+      "source": {
+        "url": "https://joshforportland.com",
+        "publisher": "Josh Leake campaign site (joshforportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "homelessness: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign issues page",
+      "query_or_url": "https://joshforportland.com (and /priorities, which returned no priority text)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "verified/candidates/josh-leake.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "verified/candidates/josh-leake.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "verified/candidates/josh-leake.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "verified/candidates/josh-leake.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "verified/candidates/josh-leake.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Josh Leake\" Portland council District 4 homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "\"Josh Leake\" Portland council District 4 transportation roads transit",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Josh Leake\" Portland council District 4 cost of living prices",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Josh Leake\" Portland council District 4 taxes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "\"Josh Leake\" Portland council District 4 education schools",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"Josh Leake\" Portland council District 4 child care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "https://joshforportland.com (reused page)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "local-business",
+      "query_or_url": "https://joshforportland.com (reused page)",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "agriculture",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "infrastructure",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "technology",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "labor",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "abortion",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "veterans",
+      "query_or_url": "not searched",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Identity rests on the campaign site joshforportland.com, which is confirmed in the candidate file. Early stop after 6 consecutive searches with nothing usable. /priorities page returned no text via WebFetch; items come from the home page. Federal-only issues skipped per levels."
+}
