@@ -4,8 +4,9 @@ import { z } from "zod";
 
 import { getCatalog, getJurisdictionRefs } from "@/lib/ballot/catalog";
 import { geocodeAddress } from "@/lib/ballot/census";
-import { matchJurisdictions } from "@/lib/ballot/districts";
+import { matchJurisdictions, matchZip } from "@/lib/ballot/districts";
 import { coveredStates, defaultState, isStateCode } from "@/lib/ballot/states";
+import { lookupOregonZip, zipPattern } from "@/lib/ballot/zips";
 import { checkLimit } from "@/lib/ratelimit";
 
 const body = z.object({
@@ -14,7 +15,7 @@ const body = z.object({
 });
 
 /**
- * Suggests races and measures for an address. The address is used for this lookup only and is not
+ * Suggests races and measures for an address or a ZIP. Either is used for this lookup only and is not
  * stored. Suggestions are a starting point; the voter adds and removes items freely.
  */
 export async function POST(request: Request) {
@@ -24,6 +25,30 @@ export async function POST(request: Request) {
   const ip = ipAddress(request) ?? request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ?? "unknown";
   const { success } = await checkLimit("ballotLookupPerIp", ip);
   if (!success) return NextResponse.json({ error: "rate_limited" }, { status: 429 });
+
+  const [catalog, refs] = await Promise.all([getCatalog(), getJurisdictionRefs()]);
+  const keysIn = (set: string[]) =>
+    [...catalog.races, ...catalog.measures].filter((i) => set.includes(i.jurisdictionSlug)).map((i) => i.key);
+
+  // A ZIP alone is looked up in our own table, so it never leaves the server. It can cross district
+  // lines, so races that cover only part of it come back separately for the voter to pick from.
+  if (zipPattern.test(parsed.data.address)) {
+    const zip = parsed.data.address.slice(0, 5);
+    if (!coveredStates.includes(parsed.data.state)) {
+      return NextResponse.json({ matchedAddress: `ZIP ${zip}`, covered: false, suggested: [], nearby: [] });
+    }
+    const zipDistricts = lookupOregonZip(zip);
+    if (!zipDistricts) return NextResponse.json({ error: "zip_not_found" }, { status: 404 });
+    const { matched, possible, nearby } = matchZip(zipDistricts, refs);
+    return NextResponse.json({
+      matchedAddress: `ZIP ${zip}`,
+      zip: true,
+      covered: true,
+      suggested: keysIn(matched),
+      possible: keysIn(possible),
+      nearby: keysIn(nearby),
+    });
+  }
 
   let districts;
   try {
@@ -38,14 +63,12 @@ export async function POST(request: Request) {
     return NextResponse.json({ matchedAddress: districts.matchedAddress, covered: false, suggested: [], nearby: [] });
   }
 
-  const [catalog, refs] = await Promise.all([getCatalog(), getJurisdictionRefs()]);
   const { matched, nearby } = matchJurisdictions(districts, refs);
-  const inSet = (set: string[]) => (item: { jurisdictionSlug: string }) => set.includes(item.jurisdictionSlug);
 
   return NextResponse.json({
     matchedAddress: districts.matchedAddress,
     covered: true,
-    suggested: [...catalog.races.filter(inSet(matched)), ...catalog.measures.filter(inSet(matched))].map((i) => i.key),
-    nearby: [...catalog.races.filter(inSet(nearby)), ...catalog.measures.filter(inSet(nearby))].map((i) => i.key),
+    suggested: keysIn(matched),
+    nearby: keysIn(nearby),
   });
 }

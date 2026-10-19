@@ -30,7 +30,7 @@ export default function Home() {
             required
             minLength={5}
             maxLength={200}
-            placeholder="Street address, city, ZIP"
+            placeholder="ZIP code or street address"
             autoComplete="street-address"
             className="input flex-1"
           />
@@ -48,7 +48,7 @@ export default function Home() {
             Start
           </button>
         </div>
-        <p className="note">We don&apos;t store your address. We just use it to find the races you can vote in.</p>
+        <p className="note">A ZIP is quickest. A street address gets an exact match. We don&apos;t store either.</p>
       </form>
       <Link href="/ballot" className="link self-start">
         Or just look around

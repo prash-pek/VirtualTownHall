@@ -48,7 +48,7 @@ const icons = {
 const steps: { title: string; body: string; icon: keyof typeof icons; kind: Kind; loopsBack?: boolean }[] = [
   {
     title: "Tell us where you live",
-    body: "Your address suggests the races and measures on your ballot. We don’t store it.",
+    body: "Your ZIP or address suggests the races and measures on your ballot. We don’t store it.",
     icon: "address",
     kind: "plain",
   },

@@ -44,6 +44,7 @@ export function BallotBuilder({
   const [address, setAddress] = useState(initialAddress);
   const [state, setState] = useState<StateCode>(initialState);
   const [nearbyKeys, setNearbyKeys] = useState<BallotKey[]>([]);
+  const [possibleKeys, setPossibleKeys] = useState<BallotKey[]>([]);
   const [status, setStatus] = useState<string | null>(null);
   const [query, setQuery] = useState("");
   const [browseAll, setBrowseAll] = useState(false);
@@ -104,7 +105,9 @@ export function BallotBuilder({
       const data = (await res.json()) as {
         matchedAddress?: string;
         covered?: boolean;
+        zip?: boolean;
         suggested?: unknown;
+        possible?: unknown;
         nearby?: unknown;
         error?: string;
       };
@@ -112,9 +115,11 @@ export function BallotBuilder({
         setStatus(
           data.error === "address_not_found"
             ? "We couldn't find that address. Try adding the city and ZIP, or add your races yourself below."
-            : data.error === "rate_limited"
-              ? "That's a lot of lookups at once. Give it a minute, or add your races yourself below."
-              : "Address lookup isn't working right now. You can still add your races yourself below.",
+            : data.error === "zip_not_found"
+              ? "We couldn't find that ZIP in Oregon. Try your street address, or add your races yourself below."
+              : data.error === "rate_limited"
+                ? "That's a lot of lookups at once. Give it a minute, or add your races yourself below."
+                : "Address lookup isn't working right now. You can still add your races yourself below.",
         );
         return;
       }
@@ -126,9 +131,13 @@ export function BallotBuilder({
       }
       const suggested = sanitizeBallot(data.suggested);
       add(suggested);
+      const possible = sanitizeBallot(data.possible);
       setNearbyKeys(sanitizeBallot(data.nearby));
+      setPossibleKeys(possible);
       setStatus(
-        `Found ${suggested.length} races and measures for ${data.matchedAddress}. Check them against your paper ballot.`,
+        data.zip && possible.length > 0
+          ? `Found ${suggested.length} races and measures for all of ${data.matchedAddress}. Your ZIP crosses district lines, so pick the rest below, or enter your street address for an exact match.`
+          : `Found ${suggested.length} races and measures for ${data.matchedAddress}. Check them against your paper ballot.`,
       );
     } catch {
       setStatus("Address lookup isn't working right now. You can still add your races yourself below.");
@@ -147,6 +156,7 @@ export function BallotBuilder({
 
   const mine = items.flatMap((k) => byKey.get(k) ?? []);
   const nearby = nearbyKeys.flatMap((k) => (items.includes(k) ? [] : (byKey.get(k) ?? [])));
+  const possible = possibleKeys.flatMap((k) => (items.includes(k) ? [] : (byKey.get(k) ?? [])));
   const results = useMemo(() => {
     const q = query.trim().toLowerCase();
     if (!q) return browseAll ? all : [];
@@ -182,7 +192,7 @@ export function BallotBuilder({
             id="address"
             value={address}
             onChange={(e) => setAddress(e.target.value)}
-            placeholder="Street address, city, ZIP"
+            placeholder="ZIP code or street address"
             autoComplete="street-address"
             className="input flex-1"
           />
@@ -206,7 +216,7 @@ export function BallotBuilder({
             Suggest my ballot
           </button>
         </form>
-        <p className="note">We don&apos;t store your address. We just use it to find the races you can vote in.</p>
+        <p className="note">A ZIP is quickest. A street address gets an exact match. We don&apos;t store either.</p>
         {status && (
           <p
             role="status"
@@ -247,7 +257,7 @@ export function BallotBuilder({
           </div>
         ) : mine.length === 0 ? (
           <p className="border border-dashed border-line-strong bg-paper p-5 text-muted">
-            Nothing here yet. Enter your address above, or add items below.
+            Nothing here yet. Enter your ZIP or address above, or add items below.
           </p>
         ) : (
           <div className="flex flex-col gap-4">
@@ -299,6 +309,25 @@ export function BallotBuilder({
             >
               Undo
             </button>
+          </div>
+        )}
+        {possible.length > 0 && (
+          <div className="flex flex-col gap-2 border border-dashed border-line-strong bg-paper p-4">
+            <div className="flex items-baseline justify-between gap-3">
+              <h3 className="side-label">Depends on your street</h3>
+              <button type="button" onClick={() => add(possible.map((i) => i.key))} className="link text-sm">
+                Add all of these
+              </button>
+            </div>
+            <p className="note">
+              Your ZIP is split between these districts. Add the ones on your paper ballot, or enter your street address
+              above for an exact match.
+            </p>
+            <ul className="flex flex-col">
+              {possible.map((i) => (
+                <ItemRow key={i.key} item={i} action={<AddButton onClick={() => add([i.key])} />} />
+              ))}
+            </ul>
           </div>
         )}
         {nearby.length > 0 && (

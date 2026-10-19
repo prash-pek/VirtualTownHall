@@ -1,6 +1,12 @@
 import { describe, expect, it } from "vitest";
 
-import { matchJurisdictions, normalizeName, parseCensusResponse, type JurisdictionRef } from "@/lib/ballot/districts";
+import {
+  matchJurisdictions,
+  matchZip,
+  normalizeName,
+  parseCensusResponse,
+  type JurisdictionRef,
+} from "@/lib/ballot/districts";
 import { withState } from "@/lib/ballot/states";
 import { sanitizeBallot } from "@/lib/ballot/types";
 
@@ -72,6 +78,45 @@ describe("matchJurisdictions", () => {
       ["or", "multnomah-county", "city-of-portland", "or-cd-3", "or-sd-17", "or-hd-33", "pps", "mult-circuit"].sort(),
     );
     expect(nearby).toEqual(["mult-water"]);
+  });
+});
+
+describe("matchZip", () => {
+  it("suggests what covers the whole ZIP and lists split districts as possible", () => {
+    const { matched, possible, nearby } = matchZip(
+      {
+        county: [["Multnomah", 1]],
+        city: [["Portland", 0.9]],
+        cd: [[3, 1]],
+        sd: [[17, 1]],
+        hd: [
+          [33, 0.6],
+          [34, 0.4],
+        ],
+      },
+      refs,
+    );
+    expect(matched.sort()).toEqual(["or", "multnomah-county", "or-cd-3", "or-sd-17", "mult-circuit"].sort());
+    expect(possible.sort()).toEqual(["city-of-portland", "or-hd-33", "or-hd-34"].sort());
+    expect(nearby.sort()).toEqual(["pps", "mult-water"].sort());
+  });
+
+  it("treats a county-wide office in a split county as possible", () => {
+    const { matched, possible } = matchZip(
+      {
+        county: [
+          ["Washington", 0.7],
+          ["Multnomah", 0.3],
+        ],
+        city: [],
+        cd: [[1, 1]],
+        sd: [],
+        hd: [],
+      },
+      refs,
+    );
+    expect(matched.sort()).toEqual(["or", "or-cd-1"].sort());
+    expect(possible.sort()).toEqual(["washington-county", "multnomah-county", "wash-circuit", "mult-circuit"].sort());
   });
 });
 

@@ -59,8 +59,8 @@ export function DiscussionPanel({
 }) {
   // On a race page the selection is shared with the candidate cards (AskProvider); elsewhere it's local.
   const shared = useAsk();
-  // Nobody is selected to start: the voter picks who they want to hear from.
-  const [local, setLocal] = useState<string[]>([]);
+  // Everyone is selected to start, so the voter can ask right away and narrow it down if they like.
+  const [local, setLocal] = useState<string[]>(() => (sides ?? []).map((s) => s.id));
   const selected = shared?.selected ?? local;
   const setSelected = shared?.setSelected ?? setLocal;
   const [rounds, setRounds] = useState<Round[]>([]);

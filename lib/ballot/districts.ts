@@ -93,3 +93,70 @@ export function matchJurisdictions(d: CensusDistricts, all: JurisdictionRef[]): 
   }
   return { matched, nearby };
 }
+
+/** One ZIP's overlap with each layer: [name or district number, share of the ZIP's land area]. */
+export type ZipDistricts = {
+  county: [string, number][];
+  city: [string, number][];
+  cd: [number, number][];
+  sd: [number, number][];
+  hd: [number, number][];
+};
+
+export type ZipSuggestion = Suggestion & {
+  /** Jurisdictions that cover only part of the ZIP. The voter picks the ones on their ballot. */
+  possible: string[];
+};
+
+/**
+ * Matches a ZIP the same way as an address, except that a ZIP can cross district lines. Jurisdictions
+ * that cover the whole ZIP are suggested; ones that cover only part of it come back as `possible`.
+ */
+export function matchZip(z: ZipDistricts, all: JurisdictionRef[]): ZipSuggestion {
+  // County and legislative districts tile the state, so one entry means the whole ZIP. Cities don't.
+  const level = <K>(parts: [K, number][], key: K, tiles: boolean): "whole" | "part" | null => {
+    const hit = parts.find(([k]) => k === key);
+    if (!hit) return null;
+    return hit[1] >= 0.99 || (tiles && parts.length === 1) ? "whole" : "part";
+  };
+  const counties = z.county.map(([n, s]): [string, number] => [normalizeName(`${n} County`), s]);
+  const cities = z.city.map(([n, s]): [string, number] => [normalizeName(`City of ${n}`), s]);
+  const countyLevel = new Map<string, "whole" | "part">();
+  for (const j of all) {
+    if (j.type !== "county") continue;
+    const l = level(counties, normalizeName(j.name), true);
+    if (l) countyLevel.set(j.slug, l);
+  }
+  const district = (slug: string, prefix: string, parts: [number, number][]) => {
+    const n = Number.parseInt(slug.slice(prefix.length), 10);
+    return slug.startsWith(prefix) ? level(parts, n, true) : null;
+  };
+
+  const matched: string[] = [];
+  const possible: string[] = [];
+  const nearby: string[] = [];
+  for (const j of all) {
+    const parentLevel = j.parentSlug ? (countyLevel.get(j.parentSlug) ?? null) : null;
+    const l =
+      j.type === "state"
+        ? "whole"
+        : j.type === "county"
+          ? (countyLevel.get(j.slug) ?? null)
+          : j.type === "city"
+            ? level(cities, normalizeName(j.name), false)
+            : j.type === "congressional_district"
+              ? district(j.slug, "or-cd-", z.cd)
+              : j.type === "state_senate_district"
+                ? district(j.slug, "or-sd-", z.sd)
+                : j.type === "state_house_district"
+                  ? district(j.slug, "or-hd-", z.hd)
+                  : j.type === "other"
+                    ? parentLevel
+                    : null;
+    if (l === "whole") matched.push(j.slug);
+    else if (l === "part") possible.push(j.slug);
+    // Census has no ZIP maps for school and special districts, so the voter decides.
+    else if ((j.type === "special_district" || j.type === "school_district") && parentLevel) nearby.push(j.slug);
+  }
+  return { matched, possible, nearby };
+}

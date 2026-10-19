@@ -13,10 +13,11 @@ export default function PrivacyPage() {
       </p>
 
       <section>
-        <h2>Your address</h2>
+        <h2>Your address or ZIP</h2>
         <p>
           We use your address only to look up which races and measures are likely on your ballot. To do that we send it
-          to the U.S. Census Bureau&apos;s address lookup. We don&apos;t store your address.
+          to the U.S. Census Bureau&apos;s address lookup. If you enter just a ZIP, we look it up in our own table and
+          it doesn&apos;t leave our site. We don&apos;t store your address or ZIP.
         </p>
       </section>
 

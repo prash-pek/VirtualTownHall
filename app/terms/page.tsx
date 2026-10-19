@@ -26,7 +26,8 @@ export default function TermsPage() {
           pamphlet before you vote. Answers are not statements by the candidates or campaigns.
         </p>
         <p>
-          The races and measures we suggest for your address are a best guess. Your official ballot is the final word.
+          The races and measures we suggest for your address or ZIP are a best guess. Your official ballot is the final
+          word.
         </p>
       </section>
 
