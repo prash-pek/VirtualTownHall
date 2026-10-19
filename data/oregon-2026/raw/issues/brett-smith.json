@@ -1,0 +1,256 @@
+{
+  "id": "brett-smith",
+  "name": "Brett Smith",
+  "race_id": "or-governor",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "brett-smith-i1",
+      "topic": "cost-of-living",
+      "statement": "On his campaign home page, Smith says a single adult working full time in Oregon needs $26.46 an hour to cover basic needs without public assistance.",
+      "excerpt": "A single adult working full time in Oregon needs $26.46 an hour to cover basic needs without public assistance.",
+      "source": {
+        "url": "https://brett-smith.us",
+        "publisher": "Brett Smith campaign site (brett-smith.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "brett-smith-i2",
+      "topic": "energy",
+      "statement": "On his campaign home page, Smith calls for a permanent moratorium on data centers and describes himself as the only anti data center candidate.",
+      "excerpt": "Permanent Moratorium.",
+      "source": {
+        "url": "https://brett-smith.us",
+        "publisher": "Brett Smith campaign site (brett-smith.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "brett-smith-i3",
+      "topic": "elections-democracy",
+      "statement": "On his campaign home page, Smith calls to stomp out dark money in Oregon elections through a proposed constitutional amendment.",
+      "excerpt": "STOMP OUT DARK MONEY IN OREGON ELECTIONS.",
+      "source": {
+        "url": "https://brett-smith.us",
+        "publisher": "Brett Smith campaign site (brett-smith.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "housing: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "public-safety: not searched (low coverage) (2026-10-19)",
+    "water: not searched (low coverage) (2026-10-19)",
+    "wildfire: not searched (low coverage) (2026-10-19)",
+    "agriculture: not searched (low coverage) (2026-10-19)",
+    "transportation: not searched (low coverage) (2026-10-19)",
+    "veterans: not searched (low coverage) (2026-10-19)",
+    "abortion: not searched (low coverage) (2026-10-19)",
+    "immigration: not searched (low coverage) (2026-10-19)",
+    "economy: not searched (low coverage) (2026-10-19)",
+    "environment: not searched (low coverage) (2026-10-19)",
+    "infrastructure: not searched (low coverage) (2026-10-19)",
+    "labor: not searched (low coverage) (2026-10-19)",
+    "social-services: not searched (low coverage) (2026-10-19)",
+    "gun-policy: not searched (low coverage) (2026-10-19)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign",
+      "query_or_url": "https://brett-smith.us",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights",
+      "query_or_url": "https://brett-smith.us/q-a (only disability rights; civil-rights already covered)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "existing items in verified/candidates/brett-smith.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "existing items in verified/candidates/brett-smith.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "existing items in verified/candidates/brett-smith.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights",
+      "query_or_url": "existing items in verified/candidates/brett-smith.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "technology",
+      "query_or_url": "existing items in verified/candidates/brett-smith.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "local-business",
+      "query_or_url": "existing items in verified/candidates/brett-smith.json",
+      "result": "already covered"
+    },
+    {
+      "step": "1",
+      "issue": "cost-of-living",
+      "query_or_url": "https://brett-smith.us",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "issue": "energy",
+      "query_or_url": "https://brett-smith.us",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "issue": "elections-democracy",
+      "query_or_url": "https://brett-smith.us",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "issue": "campaign",
+      "query_or_url": "OPB 2026-07-23 VanderHart article (opb.org); no issue positions beyond interview quotes about the race",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"Brett Smith\" governor Oregon housing rent; Street Roots 2026-05-05 candidates piece fetched, does not mention Smith",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Brett Smith\" governor Oregon homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "\"Brett Smith\" governor Oregon addiction mental health drugs (results about Sen. Brock Smith, a different person)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"Brett Smith\" governor Oregon child care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "agriculture",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "veterans",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "abortion",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "infrastructure",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "labor",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "not searched (6 searches in a row empty)",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Identity: brett-smith.us is the Pacific Green nominee's site, confirmed by the 2026 Voters' Pamphlet (see verified candidate file) and OPB 2026-07-23. Data center and healthcare content on the site matches the pamphlet statement. Early stop applied after several searches yielded only background. Early stop: 6 consecutive empty searches reached after the housing, homelessness, addiction and child care searches; brett-smith.us home page does not address most remaining issues."
+}
