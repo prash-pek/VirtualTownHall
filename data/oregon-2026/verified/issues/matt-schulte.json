@@ -1,0 +1,140 @@
+{
+  "id": "matt-schulte",
+  "name": "Matt Schulte",
+  "race_id": "portland-council-d4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "matt-schulte-i1",
+      "topic": "homelessness",
+      "statement": "On his campaign site's About page, Schulte says he would launch ReBoot Portland to address continuity of care, which the page says a PSU/Pathways report and the city's Homeless Services Department director identified as a major issue.",
+      "excerpt": "Launch ReBoot Portland to confront a major issue identified by both the new PSU/Pathways report and HSD Director Nathaniel VerGow in a recent Street Roots interview: Continuity of care.",
+      "source": {
+        "url": "https://mattschulte.wordpress.com/about/",
+        "publisher": "Matt Schulte campaign site (mattschulte.wordpress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim",
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt was cut off mid-sentence; extended it and reworded the statement to say what the bullet says.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "matt-schulte-i2",
+      "topic": "housing",
+      "statement": "On his campaign site's About page, Schulte describes a Portland Affordability Rule that would keep growth in City-controlled household costs below the three-year average growth in Portland median household income.",
+      "excerpt": "keeping growth in City-controlled household costs below the three-year average growth in Portland median household income.",
+      "source": {
+        "url": "https://mattschulte.wordpress.com/about/",
+        "publisher": "Matt Schulte campaign site (mattschulte.wordpress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Page text begins \"Propose the Portland Affordability Rule that I developed,\"; excerpt is a contiguous fragment. Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "matt-schulte-i3",
+      "topic": "energy",
+      "statement": "On his campaign site's About page, Schulte describes a Load-Value Standard that would require large new power users, like data centers, to demonstrate what Portland receives.",
+      "excerpt": "requiring large new power users, like Data Centers, to demonstrate what Portland receives",
+      "source": {
+        "url": "https://mattschulte.wordpress.com/about/",
+        "publisher": "Matt Schulte campaign site (mattschulte.wordpress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "matt-schulte-i4",
+      "topic": "water",
+      "statement": "On his campaign site's About page, Schulte lists completing design and permitting for flushing channels to address the Ross Island algae bloom.",
+      "excerpt": "Complete the design and permitting for flushing channels to address the Ross Island algae bloom.",
+      "source": {
+        "url": "https://mattschulte.wordpress.com/about/",
+        "publisher": "Matt Schulte campaign site (mattschulte.wordpress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "matt-schulte-i5",
+      "topic": "transportation",
+      "statement": "On his campaign site's About page, Schulte lists completing the Safe Routes priority network around every District 4 elementary school.",
+      "excerpt": "Complete the Safe Routes priority network around every District 4 elementary school.",
+      "source": {
+        "url": "https://mattschulte.wordpress.com/about/",
+        "publisher": "Matt Schulte campaign site (mattschulte.wordpress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "taxes: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race portland-council-d4 swept 2026-10-19 with the same issue list and stop rules. Schulte: 5 items, all T2 from one About page; 18 issues gapped."
+  }
+}

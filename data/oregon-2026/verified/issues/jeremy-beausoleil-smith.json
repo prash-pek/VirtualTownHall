@@ -1,0 +1,281 @@
+{
+  "id": "jeremy-beausoleil-smith",
+  "name": "Jeremy Beausoleil Smith",
+  "race_id": "portland-council-d4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "jeremy-beausoleil-smith-i1",
+      "topic": "cost-of-living",
+      "statement": "On the Infrastructure for All section of his campaign platform page, Beausoleil Smith refers to the cost of living crisis the nation is facing in discussing alternatives to driving.",
+      "excerpt": "the cost of living crisis the nation is facing",
+      "source": {
+        "url": "https://jeremy4pdx.com/platform-and-issues",
+        "publisher": "Jeremy Beausoleil Smith campaign site (jeremy4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim",
+          "paraphrase_faithful"
+        ],
+        "note": "Trimmed the trailing period (page continues) and corrected the section named in the statement (Infrastructure for All, under Fight Rising Costs).",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-i2",
+      "topic": "transportation",
+      "statement": "On his campaign platform page, Beausoleil Smith says recent public transit cuts have left many people in the city feeling stranded.",
+      "excerpt": "Recent public transit cuts have left many people in the city feeling stranded",
+      "source": {
+        "url": "https://jeremy4pdx.com/platform-and-issues",
+        "publisher": "Jeremy Beausoleil Smith campaign site (jeremy4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-i3",
+      "topic": "social-services",
+      "statement": "On his campaign platform page, Beausoleil Smith says the city should prepare for 2050 by investing in a strong social safety net.",
+      "excerpt": "I believe city government should prepare Portland for 2050 by investing in a strong social safety net",
+      "source": {
+        "url": "https://jeremy4pdx.com/platform-and-issues",
+        "publisher": "Jeremy Beausoleil Smith campaign site (jeremy4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Page continues the sentence (\"while being a responsible steward of taxpayer dollars\"); excerpt extended to include the 2050 clause the statement relies on.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-i4",
+      "topic": "homelessness",
+      "statement": "In an April 2026 OpGov.News interview, Beausoleil Smith is quoted saying he will not accept that a single person is living on the streets.",
+      "excerpt": "I will not accept that a single person is living on the streets.",
+      "source": {
+        "url": "https://opgov.news/articles/portland-council-candidate-jeremy-beausoleil-smith-shares-his-ideas-with-opgovnews",
+        "publisher": "OpGov.News",
+        "tier": "T3",
+        "published_at": "2026-04-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "OpGov.News is not on the COLLECTOR T3 list; the page labels the article Opinion, says the site is in active development and that AI summaries may be incomplete, and runs a Member Voices section. Does not meet policy section 1 for T3.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-i5",
+      "topic": "homelessness",
+      "statement": "On his campaign platform page, Beausoleil Smith describes Portland Street Response as connecting people on the street to housing, substance use treatment, medical care and other resources.",
+      "excerpt": "connects folks on the street to housing, substance use treatment, medical care",
+      "source": {
+        "url": "https://jeremy4pdx.com/platform-and-issues",
+        "publisher": "Jeremy Beausoleil Smith campaign site (jeremy4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Trailing period not on page (sentence continues); trimmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-i6",
+      "topic": "environment",
+      "statement": "On his campaign platform page, Beausoleil Smith says Forest Park is one of Portland's greatest treasures and must be protected from external threats.",
+      "excerpt": "Forest Park is one of Portland’s greatest treasures and we must protect it from external threats.",
+      "source": {
+        "url": "https://jeremy4pdx.com/platform-and-issues",
+        "publisher": "Jeremy Beausoleil Smith campaign site (jeremy4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-i7",
+      "topic": "energy",
+      "statement": "On his campaign platform page, Beausoleil Smith says he supports a publicly owned electrical utility governed by and accountable to the people it serves.",
+      "excerpt": "I support a publicly owned electrical utility governed by and accountable to the people it serves.",
+      "source": {
+        "url": "https://jeremy4pdx.com/platform-and-issues",
+        "publisher": "Jeremy Beausoleil Smith campaign site (jeremy4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-i8",
+      "topic": "water",
+      "statement": "On his campaign platform page, Beausoleil Smith states that the Ross Island Lagoon develops toxic algae blooms every summer.",
+      "excerpt": "Every summer, the Ross Island Lagoon develops toxic algae blooms",
+      "source": {
+        "url": "https://jeremy4pdx.com/platform-and-issues",
+        "publisher": "Jeremy Beausoleil Smith campaign site (jeremy4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-i9",
+      "topic": "local-business",
+      "statement": "On his campaign platform page, Beausoleil Smith says anyone with a good idea and a strong work ethic should be able to afford to start a business.",
+      "excerpt": "anyone with a good idea and a strong work ethic can afford to start a business",
+      "source": {
+        "url": "https://jeremy4pdx.com/platform-and-issues",
+        "publisher": "Jeremy Beausoleil Smith campaign site (jeremy4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-i10",
+      "topic": "immigration",
+      "statement": "On his campaign platform page, Beausoleil Smith says Portland must remain a sanctuary for immigrant neighbors regardless of immigration status.",
+      "excerpt": "Portland must remain a sanctuary for our immigrant neighbors, regardless of immigration status.",
+      "source": {
+        "url": "https://jeremy4pdx.com/platform-and-issues",
+        "publisher": "Jeremy Beausoleil Smith campaign site (jeremy4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-i11",
+      "topic": "labor",
+      "statement": "On his campaign platform page, Beausoleil Smith says that as a councilor he would make sure city tax dollars never cross a picket line.",
+      "excerpt": "as your councilor, I’ll make sure your tax dollars never cross a picket line.",
+      "source": {
+        "url": "https://jeremy4pdx.com/platform-and-issues",
+        "publisher": "Jeremy Beausoleil Smith campaign site (jeremy4pdx.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeremy-beausoleil-smith-i12",
+      "topic": "taxes",
+      "statement": "In an April 2026 OpGov.News interview, Beausoleil Smith is quoted saying he knows how to be a good steward of the taxpayer dollar.",
+      "excerpt": "I know how to be a good steward of the taxpayer dollar.",
+      "source": {
+        "url": "https://opgov.news/articles/portland-council-candidate-jeremy-beausoleil-smith-shares-his-ideas-with-opgovnews",
+        "publisher": "OpGov.News",
+        "tier": "T3",
+        "published_at": "2026-04-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Same source problem as i4 (OpGov.News, opinion-labeled, not a listed T3 outlet).",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "agriculture: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 3,
+    "rejected": 2,
+    "balance_notes": "Race portland-council-d4 swept 2026-10-19. Beausoleil Smith: 12 collected, 2 OpGov.News items rejected (not a listed T3 outlet), 10 T2 remain; 11 issues gapped."
+  }
+}

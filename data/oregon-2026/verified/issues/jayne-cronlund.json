@@ -1,0 +1,352 @@
+{
+  "id": "jayne-cronlund",
+  "name": "Jayne Cronlund",
+  "race_id": "portland-council-d4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "jayne-cronlund-i1",
+      "topic": "housing",
+      "statement": "On the plan page of her campaign site, Cronlund says she would start addressing housing by working with the Portland Housing Bureau to hold nonprofit partners accountable.",
+      "excerpt": "I would start addressing this by working with Portland Housing Bureau (PHB) to hold our nonprofit partners accountable",
+      "source": {
+        "url": "https://www.jayneforaflourishingportland.com/plan",
+        "publisher": "Jayne Cronlund campaign site (jayneforaflourishingportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Excerpt is on the page, but the domain jayneforaflourishingportland.com is not confirmed. The Voters' Pamphlet statement (multco.us) lists jayneforaflourishingfuture.com, no T1/T3 page found names the -portland domain, and the cited page states no domain. Only circumstantial match: the site's contact email friendsofjayneportland@gmail.com equals the pamphlet email. Fails VERIFIER check 4 (tier); do not publish as T2 until the domain is confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i2",
+      "topic": "housing",
+      "statement": "Willamette Week reported in its October 2026 endorsement that Cronlund focused on making sure the Portland Housing Bureau holds affordable housing organizations accountable for keeping their buildings safe and clean.",
+      "excerpt": "making sure the Portland Housing Bureau holds affordable housing organizations' feet to the fire",
+      "source": {
+        "url": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-portland-city-council/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-10-14",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Quote is from Willamette Week editorial text; it is WW's description, correctly attributed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i3",
+      "topic": "homelessness",
+      "statement": "In a Portland Tribune candidate Q&A, Cronlund says tangible progress toward goals such as reducing homelessness is unclear despite voters approving tax measures.",
+      "excerpt": "Tangible progress toward goals like reducing homelessness are murky despite voters approving tax measures.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-4-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i4",
+      "topic": "public-safety",
+      "statement": "On the plan page of her campaign site, Cronlund says a city's ultimate safety comes from a strong social fabric and not a police state.",
+      "excerpt": "A city’s ultimate safety comes from a strong social fabric and not a police state.",
+      "source": {
+        "url": "https://www.jayneforaflourishingportland.com/plan",
+        "publisher": "Jayne Cronlund campaign site (jayneforaflourishingportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Excerpt is on the page, but the domain jayneforaflourishingportland.com is not confirmed. The Voters' Pamphlet statement (multco.us) lists jayneforaflourishingfuture.com, no T1/T3 page found names the -portland domain, and the cited page states no domain. Only circumstantial match: the site's contact email friendsofjayneportland@gmail.com equals the pamphlet email. Fails VERIFIER check 4 (tier); do not publish as T2 until the domain is confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i5",
+      "topic": "public-safety",
+      "statement": "On the plan page of her campaign site, Cronlund says she would propose a step-by-step increase in the number of police officers.",
+      "excerpt": "I would propose stairstepping our way to increase police officers",
+      "source": {
+        "url": "https://www.jayneforaflourishingportland.com/plan",
+        "publisher": "Jayne Cronlund campaign site (jayneforaflourishingportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Excerpt is on the page, but the domain jayneforaflourishingportland.com is not confirmed. The Voters' Pamphlet statement (multco.us) lists jayneforaflourishingfuture.com, no T1/T3 page found names the -portland domain, and the cited page states no domain. Only circumstantial match: the site's contact email friendsofjayneportland@gmail.com equals the pamphlet email. Fails VERIFIER check 4 (tier); do not publish as T2 until the domain is confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i6",
+      "topic": "environment",
+      "statement": "On the plan page of her campaign site, Cronlund says the city will need to balance supporting job creation with neighborhood and climate impacts.",
+      "excerpt": "We will need to strike a balance between supporting this job creation and neighborhood and climate impacts.",
+      "source": {
+        "url": "https://www.jayneforaflourishingportland.com/plan",
+        "publisher": "Jayne Cronlund campaign site (jayneforaflourishingportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Excerpt is on the page, but the domain jayneforaflourishingportland.com is not confirmed. The Voters' Pamphlet statement (multco.us) lists jayneforaflourishingfuture.com, no T1/T3 page found names the -portland domain, and the cited page states no domain. Only circumstantial match: the site's contact email friendsofjayneportland@gmail.com equals the pamphlet email. Fails VERIFIER check 4 (tier); do not publish as T2 until the domain is confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i7",
+      "topic": "local-business",
+      "statement": "On the plan page of her campaign site, Cronlund describes small business owners as an integral, creative force in the city.",
+      "excerpt": "Small business owners are an integral, creative force in this City.",
+      "source": {
+        "url": "https://www.jayneforaflourishingportland.com/plan",
+        "publisher": "Jayne Cronlund campaign site (jayneforaflourishingportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Excerpt is on the page, but the domain jayneforaflourishingportland.com is not confirmed. The Voters' Pamphlet statement (multco.us) lists jayneforaflourishingfuture.com, no T1/T3 page found names the -portland domain, and the cited page states no domain. Only circumstantial match: the site's contact email friendsofjayneportland@gmail.com equals the pamphlet email. Fails VERIFIER check 4 (tier); do not publish as T2 until the domain is confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i8",
+      "topic": "local-business",
+      "statement": "Willamette Week reported in its October 2026 endorsement that Cronlund described a vision focused on reviving empty storefronts.",
+      "excerpt": "Cronlund, 57, articulated a compelling and specific vision focused on reviving empty storefronts",
+      "source": {
+        "url": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-portland-city-council/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2026-10-14",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i9",
+      "topic": "taxes",
+      "statement": "On the plan page of her campaign site, Cronlund says she would create an online guide showing people where their property tax dollars go.",
+      "excerpt": "I will create an online guide for people to understand where their property tax dollars go",
+      "source": {
+        "url": "https://www.jayneforaflourishingportland.com/plan",
+        "publisher": "Jayne Cronlund campaign site (jayneforaflourishingportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Excerpt is on the page, but the domain jayneforaflourishingportland.com is not confirmed. The Voters' Pamphlet statement (multco.us) lists jayneforaflourishingfuture.com, no T1/T3 page found names the -portland domain, and the cited page states no domain. Only circumstantial match: the site's contact email friendsofjayneportland@gmail.com equals the pamphlet email. Fails VERIFIER check 4 (tier); do not publish as T2 until the domain is confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i10",
+      "topic": "taxes",
+      "statement": "In a Portland Tribune candidate Q&A, Cronlund says the tax burden on income earners is among the highest nationally.",
+      "excerpt": "The tax burden on income earners is nationally among the highest.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-4-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i11",
+      "topic": "cost-of-living",
+      "statement": "On the plan page of her campaign site, Cronlund states that the cost of living in Portland is 19% higher than the national average.",
+      "excerpt": "The cost of living in Portland is 19% higher than the national average.",
+      "source": {
+        "url": "https://www.jayneforaflourishingportland.com/plan",
+        "publisher": "Jayne Cronlund campaign site (jayneforaflourishingportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Excerpt is on the page, but the domain jayneforaflourishingportland.com is not confirmed. The Voters' Pamphlet statement (multco.us) lists jayneforaflourishingfuture.com, no T1/T3 page found names the -portland domain, and the cited page states no domain. Only circumstantial match: the site's contact email friendsofjayneportland@gmail.com equals the pamphlet email. Fails VERIFIER check 4 (tier); do not publish as T2 until the domain is confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i12",
+      "topic": "labor",
+      "statement": "On the plan page of her campaign site, Cronlund says Portland residents need living wage jobs in order to thrive.",
+      "excerpt": "Portland citizens need living wage jobs in order to thrive",
+      "source": {
+        "url": "https://www.jayneforaflourishingportland.com/plan",
+        "publisher": "Jayne Cronlund campaign site (jayneforaflourishingportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Excerpt is on the page, but the domain jayneforaflourishingportland.com is not confirmed. The Voters' Pamphlet statement (multco.us) lists jayneforaflourishingfuture.com, no T1/T3 page found names the -portland domain, and the cited page states no domain. Only circumstantial match: the site's contact email friendsofjayneportland@gmail.com equals the pamphlet email. Fails VERIFIER check 4 (tier); do not publish as T2 until the domain is confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i13",
+      "topic": "infrastructure",
+      "statement": "In a Portland Tribune candidate Q&A, Cronlund says the city's aging infrastructure requires significant investments.",
+      "excerpt": "Our aging infrastructure requires significant investments.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-4-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i14",
+      "topic": "elections-democracy",
+      "statement": "On the plan page of her campaign site, Cronlund says she would provide a one-page, easy-to-read annual report as part of building trust in city officials.",
+      "excerpt": "I will provide a one-page, easy-to-read annual report",
+      "source": {
+        "url": "https://www.jayneforaflourishingportland.com/plan",
+        "publisher": "Jayne Cronlund campaign site (jayneforaflourishingportland.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Excerpt is on the page, but the domain jayneforaflourishingportland.com is not confirmed. The Voters' Pamphlet statement (multco.us) lists jayneforaflourishingfuture.com, no T1/T3 page found names the -portland domain, and the cited page states no domain. Only circumstantial match: the site's contact email friendsofjayneportland@gmail.com equals the pamphlet email. Fails VERIFIER check 4 (tier); do not publish as T2 until the domain is confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jayne-cronlund-i15",
+      "topic": "elections-democracy",
+      "statement": "In a Portland Mercury candidate profile, Cronlund says she will be a voice for essential services, fiscal transparency and rebuilding trust with citizens.",
+      "excerpt": "I will be a voice for focusing on essential services, improving fiscal transparency and rebuilding trust with citizens.",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "All checks passed.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 0,
+    "rejected": 9,
+    "balance_notes": "Race portland-council-d4 swept 2026-10-19. Cronlund: 15 collected; 9 T2 rejected because the campaign domain cited is unconfirmed, leaving 6 T3 items; 15 issues gapped."
+  }
+}

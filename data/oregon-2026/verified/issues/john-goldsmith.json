@@ -1,0 +1,109 @@
+{
+  "id": "john-goldsmith",
+  "name": "John J Goldsmith",
+  "race_id": "portland-council-d4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "john-goldsmith-i1",
+      "topic": "homelessness",
+      "statement": "The Cardinal Times lists a camping plan, along with clean streets and safety, among the priorities for Portland City Council District 4 candidate John Goldsmith.",
+      "excerpt": "Clean streets and camping plan, sustainability in the power grid and safety.",
+      "source": {
+        "url": "https://cardinaltimes.org/27913/news/meet-the-candidates-running-for-portland-city-council-district-4/",
+        "publisher": "The Cardinal Times",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "The Cardinal Times is a student newspaper (Lincoln High School). It is not in the COLLECTOR T3 list or the data-sourcing-policy T3 examples, and a student publication is not a named outlet with the editorial standards policy section 1 requires. All three items also repeat one list of priorities, not distinct positions. Quote itself is on the page (2026-10-13, Isaac Phillips and Sirena Chen).",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "john-goldsmith-i2",
+      "topic": "energy",
+      "statement": "The Cardinal Times lists sustainability in the power grid, along with clean streets, a camping plan and safety, among John Goldsmith's priorities for Portland City Council District 4.",
+      "excerpt": "Clean streets and camping plan, sustainability in the power grid and safety.",
+      "source": {
+        "url": "https://cardinaltimes.org/27913/news/meet-the-candidates-running-for-portland-city-council-district-4/",
+        "publisher": "The Cardinal Times",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "The Cardinal Times is a student newspaper (Lincoln High School). It is not in the COLLECTOR T3 list or the data-sourcing-policy T3 examples, and a student publication is not a named outlet with the editorial standards policy section 1 requires. All three items also repeat one list of priorities, not distinct positions. Quote itself is on the page (2026-10-13, Isaac Phillips and Sirena Chen).",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "john-goldsmith-i3",
+      "topic": "public-safety",
+      "statement": "The Cardinal Times lists safety, along with clean streets, a camping plan and sustainability in the power grid, among John Goldsmith's priorities for Portland City Council District 4.",
+      "excerpt": "Clean streets and camping plan, sustainability in the power grid and safety.",
+      "source": {
+        "url": "https://cardinaltimes.org/27913/news/meet-the-candidates-running-for-portland-city-council-district-4/",
+        "publisher": "The Cardinal Times",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "The Cardinal Times is a student newspaper (Lincoln High School). It is not in the COLLECTOR T3 list or the data-sourcing-policy T3 examples, and a student publication is not a named outlet with the editorial standards policy section 1 requires. All three items also repeat one list of priorities, not distinct positions. Quote itself is on the page (2026-10-13, Isaac Phillips and Sirena Chen).",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "housing: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage) (2026-10-19)",
+    "environment: not searched (low coverage) (2026-10-19)",
+    "water: not searched (low coverage) (2026-10-19)",
+    "wildfire: not searched (low coverage) (2026-10-19)",
+    "agriculture: not searched (low coverage) (2026-10-19)",
+    "transportation: not searched (low coverage) (2026-10-19)",
+    "infrastructure: not searched (low coverage) (2026-10-19)",
+    "technology: not searched (low coverage) (2026-10-19)",
+    "labor: not searched (low coverage) (2026-10-19)",
+    "local-business: not searched (low coverage) (2026-10-19)",
+    "social-services: not searched (low coverage) (2026-10-19)",
+    "abortion: not searched (low coverage) (2026-10-19)",
+    "immigration: not searched (low coverage) (2026-10-19)",
+    "civil-rights: not searched (low coverage) (2026-10-19)",
+    "elections-democracy: not searched (low coverage) (2026-10-19)",
+    "veterans: not searched (low coverage) (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 0,
+    "rejected": 3,
+    "balance_notes": "Race portland-council-d4 swept 2026-10-19. Goldsmith: 3 items all from a student newspaper, rejected. No usable items remain; 24 issues gapped. Low coverage reflects no campaign website (per Portland Mercury) rather than search effort."
+  }
+}
