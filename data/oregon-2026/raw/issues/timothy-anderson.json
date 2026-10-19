@@ -1,0 +1,160 @@
+{
+  "id": "timothy-anderson",
+  "name": "Timothy (TJ) Anderson",
+  "race_id": "portland-council-d4",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "timothy-anderson-i1",
+      "topic": "homelessness",
+      "statement": "In a Portland Tribune candidate profile, Anderson names business vacancy, homelessness and police response times as the biggest issues facing Portland and says they should be addressed together.",
+      "excerpt": "I see a three-headed beast facing Portland: business vacancy, homelessness, and police response times.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-4-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "timothy-anderson-i2",
+      "topic": "economy",
+      "statement": "In a Portland Tribune candidate profile, Anderson says vacant businesses weaken neighborhoods and reduce opportunities, and that Portland should address vacancy, homelessness and police response with measurable goals and accountability.",
+      "excerpt": "Vacant businesses weaken neighborhoods and reduce opportunities",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-4-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "timothy-anderson-i3",
+      "topic": "taxes",
+      "statement": "In a Portland Mercury candidate profile, Anderson lists making sure tax dollars are accountable among his priorities.",
+      "excerpt": "My priorities are making sure tax dollars are accountable,",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "timothy-anderson-i4",
+      "topic": "local-business",
+      "statement": "In a Portland Mercury candidate profile, Anderson lists making sure small businesses can thrive among his priorities.",
+      "excerpt": "small businesses can thrive,",
+      "source": {
+        "url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-11",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "housing: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "all",
+      "query_or_url": "campaign issues page: skipped, website_url is null in candidate file (tjandersonforportland.com seen in search results only, not confirmed via pamphlet/official page/T3)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "verified/candidates/timothy-anderson.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"Timothy Anderson\" Portland City Council District 4 housing rent",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"TJ Anderson\" Portland council District 4 homelessness",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness/economy",
+      "query_or_url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-4-candidates-their-priorities-experience-and-fun-facts/",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "taxes/local-business",
+      "query_or_url": "https://www.portlandmercury.com/news/meet-the-candidates-for-city-council-district-4/",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"TJ Anderson\" Portland City Council District 4 cost of living prices inflation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"TJ Anderson\" Portland City Council District 4 health care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "\"TJ Anderson\" Portland City Council District 4 addiction mental health drugs; fetched OPB 2026-10-07 page: federal-funding/substance-abuse sentence is about a different candidate (Josh Leake), not Anderson",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "\"TJ Anderson\" Portland City Council District 4 schools education",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"TJ Anderson\" Portland City Council District 4 child care",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Identity: searches and the Portland Tribune/Mercury profiles refer to TJ Anderson, District 4 candidate; matches the verified file (Mercury profile used there). Early stop after 6 consecutive searches with nothing usable (housing was before the homelessness hit). Search-result summaries mixed in other candidates' content (an OPB sentence on federal funding and substance abuse belongs to Josh Leake), so only fetched text was used. Not used: Portland Civic Lab voter guide, OpGov.News, Cardinal Times, 350PDX (not listed T3 outlets or advocacy). Tribune excerpts: the fetch tool returned the Vacant businesses sentence in fragments; the excerpt is its first clause."
+}
