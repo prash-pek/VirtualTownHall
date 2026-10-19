@@ -202,3 +202,13 @@ describe("sideLinks", () => {
     expect(sideLinks({ officialUrl: null, websiteUrl: null })).toEqual([]);
   });
 });
+
+describe("topicLabel", () => {
+  it("drops internal prefixes", async () => {
+    const { topicLabel } = await import("@/lib/ballot/issues");
+    expect(topicLabel("custom:background")).toBe("Background");
+    expect(topicLabel("custom:city-budget")).toBe("City budget");
+    expect(topicLabel("other: ferry service")).toBe("Ferry service");
+    expect(topicLabel(null)).toBeNull();
+  });
+});

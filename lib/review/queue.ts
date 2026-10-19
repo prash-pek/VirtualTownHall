@@ -3,6 +3,7 @@ import "server-only";
 import { and, asc, desc, eq, inArray, ne, sql } from "drizzle-orm";
 
 import { appendAudit } from "@/lib/audit/log";
+import { topicLabel } from "@/lib/ballot/issues";
 import { getDb } from "@/lib/db/client";
 import {
   ballotMeasures,
@@ -272,7 +273,7 @@ export async function getCandidateReview(slug: string) {
   );
   const items: ReviewItem[] = rows.map(({ kind, topic, ...r }) => ({
     ...r,
-    label: [kind.replace("_", " "), topic].filter(Boolean).join(" · "),
+    label: [kind.replace("_", " "), topicLabel(topic)].filter(Boolean).join(" · "),
     verification: checks.get(r.id) ?? null,
   }));
   return { candidate: c, items, endorsements: await endorsementReview(eq(endorsements.candidateId, c.id)) };

@@ -16,6 +16,18 @@ export function issueLabel(topic: string | null | undefined): string | null {
 }
 
 /**
+ * A readable label for any topic tag, for /ops: the issue label when there is one, otherwise the tag without
+ * its internal "custom:" or "other:" prefix ("custom:background" reads "Background").
+ */
+export function topicLabel(topic: string | null | undefined): string | null {
+  if (!topic) return null;
+  const known = issueLabel(topic);
+  if (known) return known;
+  const words = topic.replace(/^(custom|other)\s*:\s*/i, "").replace(/[-_]+/g, " ").trim();
+  return words ? words.charAt(0).toUpperCase() + words.slice(1) : null;
+}
+
+/**
  * The issues a race has sources on, most widely covered first: how many candidates have something on it,
  * then how many items. Only issues at least one candidate has a published item on.
  */
