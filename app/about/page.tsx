@@ -84,7 +84,11 @@ export default function AboutPage() {
           <a className="link" href="https://outsetinno.com" rel="noopener noreferrer">
             Outset Innovation
           </a>
-          , an agency in Portland, Oregon that brings creative solutions to complicated problems.
+          , an agency in Portland, Oregon that brings creative solutions to complicated problems.{" "}
+          <a className="link" href="mailto:prashanth.peketi@outsetinno.com">
+            Reach out
+          </a>{" "}
+          if you&apos;d like to see more.
         </p>
       </div>
     </main>
