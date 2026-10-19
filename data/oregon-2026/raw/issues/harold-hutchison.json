@@ -1,0 +1,160 @@
+{
+  "id": "harold-hutchison",
+  "name": "Harold Hutchison",
+  "race_id": "or-senate-15",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "harold-hutchison-i1",
+      "topic": "elections-democracy",
+      "statement": "On his campaign website, Hutchison lists restoring elections confidence among his legislative goals.",
+      "excerpt": "Restore Elections Confidence",
+      "source": {
+        "url": "https://haroldhutchison.carrd.co",
+        "publisher": "Harold Hutchison campaign site (haroldhutchison.carrd.co)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "harold-hutchison-i2",
+      "topic": "abortion",
+      "statement": "Willamette Week reported in its October 2026 legislative endorsements that Hutchison said doctors who perform abortions are evil.",
+      "excerpt": "He said doctors who perform abortions are evil.",
+      "source": {
+        "url": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+        "publisher": "Willamette Week, WW's Fall 2026 Endorsements: Oregon Legislature",
+        "tier": "T3",
+        "published_at": "2026-10-14",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "housing: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "public-safety: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "immigration: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign issues page",
+      "query_or_url": "https://haroldhutchison.carrd.co",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "verified p2",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "verified p4",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "verified p6",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "verified p1,p8",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights",
+      "query_or_url": "verified p3,p5,p7,p9,p10",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"Harold Hutchison\" Oregon Senate 15 housing rent",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Harold Hutchison\" Oregon Senate 15 homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Harold Hutchison\" Oregon Senate 15 cost of living prices inflation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "\"Harold Hutchison\" Oregon Senate 15 public safety police crime",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "\"Harold Hutchison\" Oregon Senate 15 guns firearms",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "\"Harold Hutchison\" Oregon Senate 15 climate environment",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "\"Harold Hutchison\" Oregon Senate 15 energy utilities data centers",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "\"Harold Hutchison\" Oregon Senate 15 immigration",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "\"Harold Hutchison\" Oregon Senate 15 addiction mental health drugs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "abortion/elections",
+      "query_or_url": "\"Harold Hutchison\" Oregon Senate District 15 candidate questionnaire 2026 -> fetched WW endorsements page",
+      "result": "used"
+    }
+  ],
+  "collection_notes": "Campaign site is the confirmed website_url (verified via pamphlet). WW article is T3 and names Hutchison in the SD15 section; ballot name spelled Hutchison (BallotReady uses Hutchinson). Abortion: pamphlet p7 (tagged civil-rights) also states opposition; WW item added under abortion since no item carried that topic. Early stop after 6 consecutive empty searches. WW's other statements (health-topic instruction claims, evaluative remarks) not used as editorial."
+}
