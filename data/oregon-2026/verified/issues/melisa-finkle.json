@@ -1,0 +1,59 @@
+{
+  "id": "melisa-finkle",
+  "name": "Melisa Finkle",
+  "race_id": "or-senate-16",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "melisa-finkle-i1",
+      "topic": "healthcare",
+      "statement": "The Tillamook County Pioneer reported in August 2026 that the bills Melisa Finkle hopes to develop include proposals related to short- and long-term care safety, rural infrastructure, and emergency preparedness.",
+      "excerpt": "proposals related to short‑ and long‑term care safety, rural infrastructure, and emergency preparedness",
+      "source": {
+        "url": "https://www.tillamookcountypioneer.net/?p=82903",
+        "publisher": "Tillamook County Pioneer (editor byline)",
+        "tier": "T3",
+        "published_at": "2026-08-18",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Original statement named only the care-safety item from a three-part list in the excerpt; reworded to include all three and to name Finkle in full. Attributed to the Pioneer (editor byline, no named author); the article says her public-sector oversight background shapes the bills. Article dated 2026-08-18; she is an independent candidate for SD 16. T3 acceptable.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: not searched (low coverage)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race or-senate-16 swept 2026-10-19 with the same issue list and stop rules for all three candidates. Bangs: 11 T2 from a full campaign priorities page; Finkle: 1 T3 (no campaign site found); Armitage: 2 T3 (Pioneer filing story). Counts reflect available material, not unequal effort; pamphlet statements (T1) not yet collected for any of the three."
+  }
+}
