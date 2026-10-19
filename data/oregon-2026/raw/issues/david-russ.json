@@ -1,0 +1,320 @@
+{
+  "id": "david-russ",
+  "name": "David Russ",
+  "race_id": "or-us-house-6",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "david-russ-i1",
+      "topic": "taxes",
+      "statement": "On his campaign home page, Russ lists ending the IRS 'manhunt' of 1099 employers and employees among his small-business and farm priorities.",
+      "excerpt": "End the IRS manhunt of 1099 employers and employees.",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "david-russ-i2",
+      "topic": "local-business",
+      "statement": "On his campaign home page, Russ lists protecting small businesses and family farms as a priority, including stopping subsidies that only benefit large corporations.",
+      "excerpt": "Protect Small Businesses & Family Farms",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "david-russ-i3",
+      "topic": "labor",
+      "statement": "On his campaign home page, Russ lists a Minimum Employment Act under his 'Affordability for Working Families' heading.",
+      "excerpt": "Minimum Employment Act",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "david-russ-i4",
+      "topic": "trade",
+      "statement": "On his campaign home page, Russ lists returning manufacturing to America under his 'Affordability for Working Families' heading.",
+      "excerpt": "Return Manufacturing to America",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "david-russ-i5",
+      "topic": "immigration",
+      "statement": "On his campaign home page, Russ lists making it a federal felony to aid or abet illegal border crossers.",
+      "excerpt": "Make it a federal felony to aide and/or abet illegal border crossers",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "david-russ-i6",
+      "topic": "immigration",
+      "statement": "On his campaign home page, Russ lists ending federal subsidy and loan programs that target non-citizens.",
+      "excerpt": "End Federal subsidy/loan programs targeting non-citizens.",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "david-russ-i7",
+      "topic": "infrastructure",
+      "statement": "On his campaign home page, Russ lists ending federal control of local schools, utilities, businesses and infrastructure.",
+      "excerpt": "End Federal Control of our Local Schools, Utilities, Businesses and Infrastructure",
+      "source": {
+        "url": "https://RussIsForUS.com",
+        "publisher": "David Russ campaign site (RussIsForUS.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "housing: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "public-safety: not searched (low coverage) (2026-10-19)",
+    "gun-policy: not searched (low coverage) (2026-10-19)",
+    "environment: not searched (low coverage) (2026-10-19)",
+    "energy: not searched (low coverage) (2026-10-19)",
+    "water: not searched (low coverage) (2026-10-19)",
+    "wildfire: not searched (low coverage) (2026-10-19)",
+    "transportation: not searched (low coverage) (2026-10-19)",
+    "technology: not searched (low coverage) (2026-10-19)",
+    "social-services: not searched (low coverage) (2026-10-19)",
+    "social-security-medicare: not searched (low coverage) (2026-10-19)",
+    "abortion: not searched (low coverage) (2026-10-19)",
+    "elections-democracy: not searched (low coverage) (2026-10-19)",
+    "veterans: not searched (low coverage) (2026-10-19)",
+    "foreign-policy: not searched (low coverage) (2026-10-19)",
+    "civil-rights: not searched (low coverage) (2026-10-19)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign",
+      "query_or_url": "https://RussIsForUS.com",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "existing items in verified/candidates/david-russ.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "agriculture",
+      "query_or_url": "existing items in verified/candidates/david-russ.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "existing items in verified/candidates/david-russ.json",
+      "result": "already covered"
+    },
+    {
+      "step": "1",
+      "issue": "taxes",
+      "query_or_url": "RussIsForUS.com",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "issue": "local-business",
+      "query_or_url": "RussIsForUS.com",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "issue": "labor",
+      "query_or_url": "RussIsForUS.com",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "issue": "trade",
+      "query_or_url": "RussIsForUS.com",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "issue": "immigration",
+      "query_or_url": "RussIsForUS.com",
+      "result": "used"
+    },
+    {
+      "step": "1",
+      "issue": "infrastructure",
+      "query_or_url": "RussIsForUS.com",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"David Russ\" congressional candidate Oregon cost of living prices inflation (results only 2022/2024 profiles, no statement)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"David Russ\" congressional candidate Oregon housing rent homelessness (results only 2022/2024 profiles, no statement)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"David Russ\" congressional candidate Oregon homelessness (results only 2022/2024 profiles, no statement)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"David Russ\" congressional candidate Oregon health care (results only 2022/2024 profiles, no statement)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "\"David Russ\" congressional candidate Oregon addiction mental health drugs (results only 2022/2024 profiles, no statement)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"David Russ\" congressional candidate Oregon child care (results only 2022/2024 profiles, no statement)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "technology",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "social-security-medicare",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "abortion",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "veterans",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "foreign-policy",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    }
+  ]
+}
