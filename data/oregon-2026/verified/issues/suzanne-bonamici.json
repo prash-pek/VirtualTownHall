@@ -1,0 +1,473 @@
+{
+  "id": "suzanne-bonamici",
+  "name": "Suzanne Bonamici",
+  "race_id": "or-us-house-1",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "suzanne-bonamici-i1",
+      "topic": "housing",
+      "statement": "On her campaign priorities page, Bonamici lists creating more affordable housing as a priority.",
+      "excerpt": "Creating more affordable housing",
+      "source": {
+        "url": "https://www.bonamiciforcongress.com/priorities/",
+        "publisher": "Suzanne Bonamici campaign site (bonamiciforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i2",
+      "topic": "housing",
+      "statement": "In a February 2025 release, Bonamici announced a package of legislation to address the housing crisis in Oregon and across the country.",
+      "excerpt": "announced her package of legislation to address the housing crisis in Oregon and across the country.",
+      "source": {
+        "url": "https://bonamici.house.gov/media/press-releases/bonamici-rolls-out-legislative-agenda-address-housing-crisis",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici (bonamici.house.gov)",
+        "tier": "T1",
+        "published_at": "2025-02-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i3",
+      "topic": "homelessness",
+      "statement": "A February 2025 release says Bonamici's Project Turnkey Act, part of her housing legislation package, would provide funding to convert unused buildings into affordable housing and emergency shelters and enhance services for people experiencing homelessness.",
+      "excerpt": "enhance services for people experiencing homelessness",
+      "source": {
+        "url": "https://bonamici.house.gov/media/press-releases/bonamici-rolls-out-legislative-agenda-address-housing-crisis",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici (bonamici.house.gov)",
+        "tier": "T1",
+        "published_at": "2025-02-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt sits in a sentence about the Project Turnkey Act, not the whole package; statement reworded accordingly.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i4",
+      "topic": "education",
+      "statement": "On her campaign priorities page, Bonamici lists strengthening education and making college more affordable as a priority.",
+      "excerpt": "Strengthening education and making college more affordable",
+      "source": {
+        "url": "https://www.bonamiciforcongress.com/priorities/",
+        "publisher": "Suzanne Bonamici campaign site (bonamiciforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i5",
+      "topic": "environment",
+      "statement": "On her campaign priorities page, Bonamici lists confronting the climate crisis and creating a clean energy economy as a priority.",
+      "excerpt": "Confronting the climate crisis and creating a clean energy economy",
+      "source": {
+        "url": "https://www.bonamiciforcongress.com/priorities/",
+        "publisher": "Suzanne Bonamici campaign site (bonamiciforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i6",
+      "topic": "energy",
+      "statement": "In a January 2026 release on a bipartisan water power bill, Bonamici is quoted saying water power technologies have great potential to provide cheaper, cleaner and more resilient energy.",
+      "excerpt": "Water power technologies have tremendous potential to provide cheaper, cleaner, and more resilient energy",
+      "source": {
+        "url": "https://bonamici.house.gov/media/press-releases/bonamici-begich-introduce-bipartisan-bill-strengthen-water-power",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici (bonamici.house.gov)",
+        "tier": "T1",
+        "published_at": "2026-01-21",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i7",
+      "topic": "gun-policy",
+      "statement": "On her campaign priorities page, Bonamici lists preventing gun violence in our communities as a priority.",
+      "excerpt": "Preventing gun violence in our communities",
+      "source": {
+        "url": "https://www.bonamiciforcongress.com/priorities/",
+        "publisher": "Suzanne Bonamici campaign site (bonamiciforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i8",
+      "topic": "labor",
+      "statement": "On her campaign priorities page, Bonamici lists supporting working families as a priority.",
+      "excerpt": "Supporting working families",
+      "source": {
+        "url": "https://www.bonamiciforcongress.com/priorities/",
+        "publisher": "Suzanne Bonamici campaign site (bonamiciforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i9",
+      "topic": "local-business",
+      "statement": "On her campaign priorities page, Bonamici lists fighting for small businesses as a priority.",
+      "excerpt": "Fighting for small businesses",
+      "source": {
+        "url": "https://www.bonamiciforcongress.com/priorities/",
+        "publisher": "Suzanne Bonamici campaign site (bonamiciforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i10",
+      "topic": "social-security-medicare",
+      "statement": "On her campaign priorities page, Bonamici lists protecting Social Security and standing up for older Americans as a priority.",
+      "excerpt": "Protecting Social Security and Standing up for older Americans",
+      "source": {
+        "url": "https://www.bonamiciforcongress.com/priorities/",
+        "publisher": "Suzanne Bonamici campaign site (bonamiciforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i11",
+      "topic": "abortion",
+      "statement": "On her campaign priorities page, Bonamici lists defending reproductive rights as a priority.",
+      "excerpt": "Defending reproductive rights",
+      "source": {
+        "url": "https://www.bonamiciforcongress.com/priorities/",
+        "publisher": "Suzanne Bonamici campaign site (bonamiciforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i12",
+      "topic": "elections-democracy",
+      "statement": "On her campaign priorities page, Bonamici lists protecting democracy and voting rights as a priority.",
+      "excerpt": "Protecting democracy and voting rights",
+      "source": {
+        "url": "https://www.bonamiciforcongress.com/priorities/",
+        "publisher": "Suzanne Bonamici campaign site (bonamiciforcongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i13",
+      "topic": "childcare",
+      "statement": "In a July 2026 release, Bonamici said she introduced the Daycare Not Detentions Act to redirect $70 billion of funding from ICE and CBP to federal child care programs.",
+      "excerpt": "introduced the Daycare Not Detentions Act to redirect $70 billion of funding",
+      "source": {
+        "url": "https://bonamici.house.gov/media/press-releases/bonamici-introduces-legislation-redirect-70b-ice-cbp-child-care",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici (bonamici.house.gov)",
+        "tier": "T1",
+        "published_at": "2026-07-23",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement said 'early childhood programs' and 'immigration enforcement'; reworded to the page's ICE/CBP and child care programs.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i14",
+      "topic": "public-safety",
+      "statement": "In an October 2026 joint release announcing federal public safety awards for Oregon, Bonamici is quoted saying she is grateful a grant will help make communities safer.",
+      "excerpt": "I'm grateful this grant will support this initiative, improve lives, and make our communities safer.",
+      "source": {
+        "url": "https://bonamici.house.gov/media/press-releases/wyden-merkley-bonamici-salinas-hoyle-dexter-announce-43-million-support-public",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici (bonamici.house.gov)",
+        "tier": "T1",
+        "published_at": "2026-10-07",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Quote is about a $500,000 DOJ grant to Beaverton for its Behavioral Health Court; statement stays general.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i15",
+      "topic": "agriculture",
+      "statement": "In a February 2026 release on a bipartisan specialty crops export bill, Bonamici is quoted saying specialty crops are a vital part of Oregon's economy.",
+      "excerpt": "The specialty crops are a vital part of Oregon's economy",
+      "source": {
+        "url": "https://bonamici.house.gov/media/press-releases/bonamici-valadao-wyden-crapo-introduce-bipartisan-legislation-boost-exports",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici (bonamici.house.gov)",
+        "tier": "T1",
+        "published_at": "2026-02-25",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i16",
+      "topic": "transportation",
+      "statement": "In a May 2026 joint release on federal airport funding, Bonamici is quoted saying investing in regional airports keeps Oregonians connected.",
+      "excerpt": "Investing in regional airports keeps Oregonians connected, including in rural communities like Tillamook County",
+      "source": {
+        "url": "https://bonamici.house.gov/media/press-releases/oregon-airports-receive-nearly-19-million-federal-investment",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici (bonamici.house.gov)",
+        "tier": "T1",
+        "published_at": "2026-05-18",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i17",
+      "topic": "technology",
+      "statement": "In a January 2026 statement, Bonamici said her framework establishes a coordinated, human-centered approach to AI in education and the workforce.",
+      "excerpt": "My framework establishes a coordinated, human-centered approach to AI in education and the workforce.",
+      "source": {
+        "url": "https://bonamici.house.gov/media/statements/bonamici-announces-human-centered-framework-address-ai-education-and-workforce",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici (bonamici.house.gov)",
+        "tier": "T1",
+        "published_at": "2026-01-15",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i18",
+      "topic": "water",
+      "statement": "In a December 2021 announcement, Bonamici said Oregon would receive over $92 million to strengthen drinking and wastewater systems.",
+      "excerpt": "Oregon will receive over $92 million to strengthen drinking and wastewater systems across the state",
+      "source": {
+        "url": "https://bonamici.house.gov/media/in-the-news/oregon-receive-over-92m-clean-drinking-water",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici (bonamici.house.gov)",
+        "tier": "T1",
+        "published_at": "2021-12-22",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Page is an in-the-news summary of a KOIN article; sentence attributed to Bonamici. Dated 2021 in the statement.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i19",
+      "topic": "social-services",
+      "statement": "In a May 2025 release on the House Republican tax bill, Bonamici said the bill would lead to a significant reduction in food benefits for families.",
+      "excerpt": "This bill would lead to a significant reduction in food benefits for families.",
+      "source": {
+        "url": "https://bonamici.house.gov/media/press-releases/bonamici-condemns-gop-tax-bill-would-devastate-medicaid-snap",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici (bonamici.house.gov)",
+        "tier": "T1",
+        "published_at": "2025-05-22",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt supports only the food benefits sentence; the 'largest Medicaid cut in history' claim is on the page but not in the excerpt, so removed from the statement.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i20",
+      "topic": "trade",
+      "statement": "In a February 2026 statement on the Supreme Court tariffs decision, Bonamici said tariffs are taxes and that Trump's tariff policies have raised costs.",
+      "excerpt": "Tariffs are taxes, and Donald Trump's chaotic tariff policies have been raising costs and causing economic uncertainty.",
+      "source": {
+        "url": "https://bonamici.house.gov/media/statements/bonamici-statement-scotus-tariffs-decision",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici (bonamici.house.gov)",
+        "tier": "T1",
+        "published_at": "2026-02-20",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "suzanne-bonamici-i21",
+      "topic": "veterans",
+      "statement": "In a June 2026 release, Bonamici and Rep. DelBene introduced the Manufacturing Jobs for Veterans Act, which would invest $50 million in veteran manufacturing pilot programs.",
+      "excerpt": "The Manufacturing Jobs for Veterans Act would invest $50 million into creating veteran manufacturing pilot programs",
+      "source": {
+        "url": "https://bonamici.house.gov/media/press-releases/delbene-bonamici-introduce-bill-boost-manufacturing-job-opportunities-veterans",
+        "publisher": "Office of U.S. Rep. Suzanne Bonamici (bonamici.house.gov)",
+        "tier": "T1",
+        "published_at": "2026-06-04",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [
+    {
+      "id": "suzanne-bonamici-i22",
+      "topic": "social-services",
+      "statement": "Bonamici voted Nay on House passage of H.R. 1 (listed by the Clerk as the 'One Big Beautiful Act') on May 22, 2025 (Roll Call 145, 215-214).",
+      "excerpt": "On Passage … H.R. 1 … One Big Beautiful Act … Bonamici Nay",
+      "source": {
+        "url": "https://clerk.house.gov/evs/2025/roll145.xml",
+        "publisher": "Office of the Clerk, U.S. House of Representatives",
+        "tier": "T1",
+        "published_at": "2025-05-22",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Clerk page titles the bill 'One Big Beautiful Act'; statement aligned. Totals: 215 yeas, 214 nays, 1 present, 2 not voting. Excerpt uses ellipses to abbreviate the roll-call entry.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "infrastructure: nothing found (2026-10-19)",
+    "civil-rights: nothing found (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 18,
+    "corrected": 4,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-1 swept 2026-10-19 with the same issue list and stop rules for both candidates. Bonamici: 22 new items (13 T1, 9 T2), 5 issues gapped. Higher count reflects her incumbent record and a campaign priorities page, not extra search effort. Kahl: 7 T2 items from one campaign page."
+  }
+}
