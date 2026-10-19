@@ -1,0 +1,230 @@
+{
+  "id": "rachel-armitage",
+  "name": "Rachel Armitage",
+  "race_id": "or-senate-16",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "rachel-armitage-i1",
+      "topic": "education",
+      "statement": "In a February 2026 statement reported by the Tillamook County Pioneer on her filing, Armitage says Senate District 16 deserves good schools, along with affordable housing and health care and family-wage jobs.",
+      "excerpt": "Senate District 16 deserves the best: affordable housing and health care, family-wage jobs, good schools",
+      "source": {
+        "url": "https://www.tillamookcountypioneer.net/formerly-appointed-state-senator-rachel-armitage-files-for-open-senate-district-16-seat/",
+        "publisher": "Tillamook County Pioneer",
+        "tier": "T3",
+        "published_at": "2026-02-19",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "rachel-armitage-i2",
+      "topic": "infrastructure",
+      "statement": "The Tillamook County Pioneer reported in February 2026 that, during her earlier Senate service, Armitage secured funding for infrastructure projects including a courthouse renovation.",
+      "excerpt": "including $2 million for a courthouse renovation",
+      "source": {
+        "url": "https://www.tillamookcountypioneer.net/formerly-appointed-state-senator-rachel-armitage-files-for-open-senate-district-16-seat/",
+        "publisher": "Tillamook County Pioneer",
+        "tier": "T3",
+        "published_at": "2026-02-19",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "public-safety: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign",
+      "query_or_url": "https://www.SenateDistrict16.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "3",
+      "issue": "education, infrastructure",
+      "query_or_url": "https://www.tillamookcountypioneer.net/formerly-appointed-state-senator-rachel-armitage-files-for-open-senate-district-16-seat/",
+      "result": "used"
+    },
+    {
+      "step": "3",
+      "issue": "elections-democracy",
+      "query_or_url": "https://oregoncapitalchronicle.com/?p=20351 ; https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-oregon-sd16/",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "existing items in verified/candidates/rachel-armitage.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "local-business",
+      "query_or_url": "existing items in verified/candidates/rachel-armitage.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "existing items in verified/candidates/rachel-armitage.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "existing items in verified/candidates/rachel-armitage.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "existing items in verified/candidates/rachel-armitage.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "existing items in verified/candidates/rachel-armitage.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Rachel Armitage\" state senate Oregon cost-of-living",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Rachel Armitage\" state senate Oregon taxes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Rachel Armitage\" state senate Oregon homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "\"Rachel Armitage\" state senate Oregon addiction-mental-health",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"Rachel Armitage\" state senate Oregon childcare",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "\"Rachel Armitage\" state senate Oregon public-safety",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "\"Rachel Armitage\" state senate Oregon environment",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "\"Rachel Armitage\" state senate Oregon energy",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "not searched",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "not searched",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "agriculture",
+      "query_or_url": "not searched",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "not searched",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "technology",
+      "query_or_url": "not searched",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "labor",
+      "query_or_url": "not searched",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "abortion",
+      "query_or_url": "not searched",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "not searched",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights",
+      "query_or_url": "not searched",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "not searched",
+      "result": "not searched (low coverage)"
+    },
+    {
+      "step": "2",
+      "issue": "veterans",
+      "query_or_url": "not searched",
+      "result": "not searched (low coverage)"
+    }
+  ]
+}
