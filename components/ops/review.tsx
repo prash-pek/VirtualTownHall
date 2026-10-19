@@ -56,6 +56,18 @@ export function PublishForm({
   );
 }
 
+/** Publishes one measure or candidate (or its new drafts) from the "Still to publish" list. */
+export function PublishNowForm({ kind, slug, label }: { kind: SubjectKind; slug: string; label: string }) {
+  return (
+    <form action={publishAction}>
+      <input type="hidden" name="kind" value={kind} />
+      <input type="hidden" name="slug" value={slug} />
+      <input type="hidden" name="publish" value="1" />
+      <button className="btn-primary px-3 py-1 text-sm">{label}</button>
+    </form>
+  );
+}
+
 /** One button for every draft measure and every candidate with content. Hidden items stay hidden. */
 export function PublishEverythingForm({ count }: { count: number }) {
   if (count === 0) return null;

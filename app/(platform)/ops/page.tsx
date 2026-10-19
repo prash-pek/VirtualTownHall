@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-import { PublishEverythingForm, PublishRaceForm, StatusTag } from "@/components/ops/review";
+import { PublishEverythingForm, PublishNowForm, PublishRaceForm, StatusTag } from "@/components/ops/review";
 import { getQueue } from "@/lib/review/queue";
 
 import { requireAdminPage } from "./admin-gate";
@@ -15,6 +15,33 @@ export default async function OpsHome() {
   const q = await getQueue();
   const done = (xs: { status: string }[]) => xs.filter((x) => x.status === "published").length;
   const candidates = q.races.flatMap((r) => r.candidates);
+  const isDraft = (s: string) => s === "draft" || s === "in_review";
+  // Everything voters can't see yet, so it's listed first instead of buried in the race list.
+  const toPublish = [
+    ...q.measures
+      .filter((m) => isDraft(m.status))
+      .map((m) => ({
+        kind: "measure" as const,
+        slug: m.slug,
+        context: `Measure ${m.number} · ${m.jurisdiction}`,
+        name: m.title,
+        detail: "Not yet published",
+        button: "Publish",
+      })),
+    ...q.races.flatMap((r) =>
+      r.candidates
+        .filter((c) => isDraft(c.status) || (c.status === "published" && c.pending > 0))
+        .map((c) => ({
+          kind: "candidate" as const,
+          slug: c.slug,
+          context: r.label,
+          name: c.name,
+          detail:
+            c.status === "published" ? `${c.pending} new to review` : `Not yet published · ${c.items} sourced items`,
+          button: c.status === "published" ? `Publish ${c.pending} new` : "Publish",
+        })),
+    ),
+  ];
 
   return (
     <main className="page">
@@ -34,6 +61,38 @@ export default async function OpsHome() {
           Questions our sources couldn&apos;t answer
         </Link>
       </p>
+
+      <section className="flex flex-col gap-3">
+        <h2 className="font-display text-2xl font-semibold">
+          Still to publish <span className="note">{toPublish.length}</span>
+        </h2>
+        {toPublish.length === 0 ? (
+          <p className="card text-muted">Nothing waiting. Everything with content is published.</p>
+        ) : (
+          <ul className="card flex flex-col p-0">
+            {toPublish.map((t) => (
+              <li
+                key={`${t.kind}-${t.slug}`}
+                className="flex items-start justify-between gap-3 border-b border-line px-4 py-3 last:border-b-0"
+              >
+                <div>
+                  <p className="eyebrow">{t.context}</p>
+                  <Link href={`/ops/${t.kind}s/${t.slug}`} className="font-medium hover:text-olive">
+                    {t.name}
+                  </Link>
+                  <p className="note">
+                    {t.detail} ·{" "}
+                    <Link href={`/ops/${t.kind}s/${t.slug}`} className="link">
+                      Review
+                    </Link>
+                  </p>
+                </div>
+                <PublishNowForm kind={t.kind} slug={t.slug} label={t.button} />
+              </li>
+            ))}
+          </ul>
+        )}
+      </section>
 
       <PublishEverythingForm
         count={
