@@ -1,0 +1,102 @@
+{
+  "id": "brett-smith",
+  "name": "Brett Smith",
+  "race_id": "or-governor",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "brett-smith-i1",
+      "topic": "cost-of-living",
+      "statement": "On his campaign home page, Smith says a single adult working full time in Oregon needs $26.46 an hour to cover basic needs without public assistance.",
+      "excerpt": "A single adult working full time in Oregon needs $26.46 an hour to cover basic needs without public assistance.",
+      "source": {
+        "url": "https://brett-smith.us",
+        "publisher": "Brett Smith campaign site (brett-smith.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated campaign page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "brett-smith-i2",
+      "topic": "energy",
+      "statement": "On his campaign home page, under a 'Data Centers' heading, Smith lists a 'Permanent Moratorium.'",
+      "excerpt": "Permanent Moratorium.",
+      "source": {
+        "url": "https://brett-smith.us",
+        "publisher": "Brett Smith campaign site (brett-smith.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement went beyond the excerpt (the 'only anti data center candidate' claim is a separate line). Reworded to what the excerpt shows: a 'Permanent Moratorium.' entry under the page's 'Data Centers' heading. Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "brett-smith-i3",
+      "topic": "elections-democracy",
+      "statement": "On his campaign home page, Smith's heading calls to stomp out dark money in Oregon elections.",
+      "excerpt": "STOMP OUT DARK MONEY IN OREGON ELECTIONS",
+      "source": {
+        "url": "https://brett-smith.us",
+        "publisher": "Brett Smith campaign site (brett-smith.us)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim",
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt trimmed to the page text (no trailing period). Statement reworded; the constitutional-amendment detail is not in the excerpt. Undated page.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "housing: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "public-safety: not searched (low coverage) (2026-10-19)",
+    "water: not searched (low coverage) (2026-10-19)",
+    "wildfire: not searched (low coverage) (2026-10-19)",
+    "agriculture: not searched (low coverage) (2026-10-19)",
+    "transportation: not searched (low coverage) (2026-10-19)",
+    "veterans: not searched (low coverage) (2026-10-19)",
+    "abortion: not searched (low coverage) (2026-10-19)",
+    "immigration: not searched (low coverage) (2026-10-19)",
+    "economy: not searched (low coverage) (2026-10-19)",
+    "environment: not searched (low coverage) (2026-10-19)",
+    "infrastructure: not searched (low coverage) (2026-10-19)",
+    "labor: not searched (low coverage) (2026-10-19)",
+    "social-services: not searched (low coverage) (2026-10-19)",
+    "gun-policy: not searched (low coverage) (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Race or-governor swept 2026-10-19 with the same issue list and stop rules for all three candidates. Smith: 3 items (all T2, one campaign page), 18 gaps. Kotek: 20 items (15 T2, 5 T3), 1 gap. Drazan: 14 items (9 T2, 4 T3, 1 T1), 10 gaps. Smith's low count reflects a one-page site and little coverage, but his gaps include 'not searched (low coverage)' for 13 issues, so effort was lighter than for the major-party candidates. Spot-search found OPB pieces on Smith (2026-07-23, 2026-09-16) and The Ballot Brief not collected."
+  }
+}
