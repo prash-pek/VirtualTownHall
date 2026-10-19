@@ -56,4 +56,5 @@ worthwhile. No independent spot-searches were run this week (token budget); all 
 | Collector, Shannon Singleton | 83.6k | 20 |
 | Collector, Julia Brim-Edwards | 91.1k | 27 |
 | Collector, Sharon Meieran | 81.4k | 19 |
-| Verifier, all three | see round-2 ledger | |
+| Verifier, all three | 84.1k | 22 |
+| Total | 340.2k | 88 |
