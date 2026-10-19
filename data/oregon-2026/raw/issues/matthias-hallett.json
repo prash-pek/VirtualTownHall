@@ -1,0 +1,89 @@
+{
+  "id": "matthias-hallett",
+  "name": "Matthias Hallett",
+  "race_id": "portland-council-d3",
+  "sweeps": ["2026-10-19"],
+  "positions": [
+    {
+      "id": "matthias-hallett-i1",
+      "topic": "homelessness",
+      "statement": "On his campaign homepage, Hallett says rampant homelessness and open drug markets are taking over Portland's streets.",
+      "excerpt": "Rampant homelessness and open drug markets are taking over our streets.",
+      "source": {"url": "https://www.matthiashallett.com", "publisher": "Matthias Hallett campaign site (matthiashallett.com)", "tier": "T2", "published_at": null, "retrieved_at": "2026-10-19"},
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "matthias-hallett-i2",
+      "topic": "cost-of-living",
+      "statement": "On his campaign homepage, Hallett asks why City Council keeps increasing the taxes and fees he says cause residents' financial struggle.",
+      "excerpt": "why is City Council perpetually increasing the taxes and fees causing the struggle?",
+      "source": {"url": "https://www.matthiashallett.com", "publisher": "Matthias Hallett campaign site (matthiashallett.com)", "tier": "T2", "published_at": null, "retrieved_at": "2026-10-19"},
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "matthias-hallett-i3",
+      "topic": "local-business",
+      "statement": "On his campaign's Re-Vision page, Hallett says the city should treat entrepreneurs as partners in building a stronger city.",
+      "excerpt": "treat entrepreneurs as partners in building a stronger city",
+      "source": {"url": "https://www.matthiashallett.com/revision", "publisher": "Matthias Hallett campaign site (matthiashallett.com)", "tier": "T2", "published_at": null, "retrieved_at": "2026-10-19"},
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "matthias-hallett-i4",
+      "topic": "elections-democracy",
+      "statement": "On his campaign homepage, Hallett says he will demand full transparency and hold the City accountable for every tax dollar.",
+      "excerpt": "I’ll constantly demand full and complete transparency and hold the City accountable for every tax dollar",
+      "source": {"url": "https://www.matthiashallett.com", "publisher": "Matthias Hallett campaign site (matthiashallett.com)", "tier": "T2", "published_at": null, "retrieved_at": "2026-10-19"},
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "matthias-hallett-i5",
+      "topic": "environment",
+      "statement": "The Portland Mercury's September 2026 candidate guide lists the Safer Portland initiative in its Hallett entry and describes the initiative as aimed at diverting Portland Clean Energy Fund money to police hiring.",
+      "excerpt": "the Safer Portland initiative which aimed to divert money from the Portland Clean Energy Fund to police hiring",
+      "source": {"url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/", "publisher": "Portland Mercury", "tier": "T3", "published_at": "2026-09-09", "retrieved_at": "2026-10-19"},
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "health-care: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "labor: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "technology: nothing found (2026-10-19)",
+    "immigration: nothing found (2026-10-19)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {"step": "1", "issue": "campaign issues page", "query_or_url": "https://www.matthiashallett.com and https://www.matthiashallett.com/revision", "result": "used"},
+    {"step": "2", "issue": "economy", "query_or_url": "already covered (p2, p5)", "result": "already covered"},
+    {"step": "2", "issue": "taxes", "query_or_url": "already covered (p4)", "result": "already covered"},
+    {"step": "2", "issue": "housing", "query_or_url": "already covered (p3)", "result": "already covered"},
+    {"step": "2", "issue": "public-safety", "query_or_url": "already covered (p1)", "result": "already covered"},
+    {"step": "2", "issue": "social-services", "query_or_url": "already covered (p6)", "result": "already covered"},
+    {"step": "2", "issue": "healthcare", "query_or_url": "\"Matthias Hallett\" council Oregon health care", "result": "nothing relevant"},
+    {"step": "2", "issue": "addiction-mental-health", "query_or_url": "\"Matthias Hallett\" council Oregon addiction mental health drugs", "result": "nothing relevant"},
+    {"step": "2", "issue": "transportation", "query_or_url": "\"Matthias Hallett\" council Oregon transportation roads transit", "result": "nothing relevant"},
+    {"step": "2", "issue": "education", "query_or_url": "\"Matthias Hallett\" council Oregon education schools", "result": "nothing relevant"},
+    {"step": "2", "issue": "environment", "query_or_url": "\"Matthias Hallett\" council Oregon climate environment; fetched Portland Mercury D3 guide", "result": "used"},
+    {"step": "2", "issue": "labor", "query_or_url": "\"Matthias Hallett\" council Oregon workers wages unions", "result": "nothing relevant"},
+    {"step": "2", "issue": "energy", "query_or_url": "\"Matthias Hallett\" council Oregon energy utilities data centers", "result": "nothing relevant"},
+    {"step": "2", "issue": "childcare", "query_or_url": "\"Matthias Hallett\" council Oregon child care", "result": "nothing relevant"},
+    {"step": "2", "issue": "gun-policy", "query_or_url": "\"Matthias Hallett\" council Oregon guns firearms", "result": "nothing relevant"},
+    {"step": "2", "issue": "water", "query_or_url": "\"Matthias Hallett\" council Oregon water", "result": "nothing relevant"},
+    {"step": "2", "issue": "technology", "query_or_url": "\"Matthias Hallett\" council Oregon technology artificial intelligence", "result": "nothing relevant"},
+    {"step": "2", "issue": "immigration", "query_or_url": "\"Matthias Hallett\" council Oregon immigration", "result": "nothing relevant"}
+  ],
+  "collection_notes": "Identity rests on the campaign site matthiashallett.com (printed in the county voters' pamphlet statement, per verified candidate file) and Portland Tribune/Mercury/OPB coverage of the D3 council race. Item i5 is lower confidence: the Mercury excerpt names the Safer Portland initiative in Hallett's entry but the quoted fragment does not itself include a verb saying he supports it; the statement is worded to say only what the excerpt shows. Early stop after 6 searches in a row with nothing usable (energy through immigration); remaining 6 issues logged as not searched. Issues covered by the campaign pages (homelessness, cost-of-living, local-business, elections-democracy) got no separate search."
+}
