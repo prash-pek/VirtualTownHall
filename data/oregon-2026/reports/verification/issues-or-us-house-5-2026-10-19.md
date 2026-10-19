@@ -50,5 +50,5 @@ None.
 | Collector, Janelle Bynum | 121.6k | 59 |
 | Collector, Andrea Townsend | 70.7k | 13 |
 | Collector, Patti Adair | 82.4k | 16 |
-| Verifier, all three | about 90k | about 28 |
-| Total | about 365k | about 116 |
+| Verifier, all three | 89.8k | 30 |
+| Total | 364.5k | 118 |
