@@ -1,0 +1,416 @@
+{
+  "id": "janelle-bynum",
+  "name": "Janelle S Bynum",
+  "race_id": "or-us-house-5",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "janelle-bynum-i1",
+      "topic": "housing",
+      "statement": "On her campaign housing page, Bynum says she has worked with both parties on efforts to lower the cost of housing.",
+      "excerpt": "Janelle has worked with both parties on efforts to lower the cost of housing",
+      "source": {
+        "url": "https://janellebynum.com/issues/lowering-the-cost-of-housing",
+        "publisher": "Janelle Bynum campaign site (janellebynum.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found; campaign domain matches website_url in candidate file; undated page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i2",
+      "topic": "housing",
+      "statement": "In a May 2026 release, Bynum said three of her bills in the House-passed H.R. 6644 housing package would help build housing and lower costs.",
+      "excerpt": "These bills put us on track to build the housing we need to finally lower costs.",
+      "source": {
+        "url": "https://bynum.house.gov/media/press-releases/bynum-passes-3-housing-bills-through-house",
+        "publisher": "Office of U.S. Rep. Janelle Bynum",
+        "tier": "T1",
+        "published_at": "2026-05-20",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found; release dated 2026-05-20 names H.R. 6644 and her three bills.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i3",
+      "topic": "homelessness",
+      "statement": "On her campaign homelessness page, Bynum says that in Congress she is continuing work to end homelessness.",
+      "excerpt": "In Congress, she is continuing the work to end homelessness in our communities.",
+      "source": {
+        "url": "https://www.janellebynum.com/issues/ending-homelessness",
+        "publisher": "Janelle Bynum campaign site (janellebynum.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; statement faithful.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i4",
+      "topic": "homelessness",
+      "statement": "Her office's May 2026 release says the House-passed housing package included her Incentivizing Local Solutions to Homelessness Act.",
+      "excerpt": "Incentivizing Local Solutions to Homelessness Act",
+      "source": {
+        "url": "https://bynum.house.gov/media/press-releases/bynum-passes-3-housing-bills-through-house",
+        "publisher": "Office of U.S. Rep. Janelle Bynum",
+        "tier": "T1",
+        "published_at": "2026-05-20",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found; release says package included the act.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i5",
+      "topic": "environment",
+      "statement": "On her campaign climate page, Bynum is described as supporting more clean energy and a transition away from fossil fuels.",
+      "excerpt": "She is supporting efforts to generate more clean energy",
+      "source": {
+        "url": "https://janellebynum.com/issues/taking-climate-action",
+        "publisher": "Janelle Bynum campaign site (janellebynum.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found; page also says 'transition away from fossil fuels' in the same sentence.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i6",
+      "topic": "energy",
+      "statement": "Her official issues page lists a July 2026 release saying Bynum introduced legislation to improve electricity price transparency.",
+      "excerpt": "Congresswoman Bynum Introduces Legislation to Improve Electricity Price Transparency",
+      "source": {
+        "url": "https://bynum.house.gov/issues/costs-jobs",
+        "publisher": "Office of U.S. Rep. Janelle Bynum",
+        "tier": "T1",
+        "published_at": "2026-07-10",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Release title found on official issues page, dated 2026-07-10. Statement is based on the headline only.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i7",
+      "topic": "wildfire",
+      "statement": "In a May 2026 release, Bynum says she has been working in Congress to prepare for and respond to wildfires.",
+      "excerpt": "I've been working to make sure that we're equipped to prevent and respond to wildfires in Congress.",
+      "source": {
+        "url": "https://bynum.house.gov/media/press-releases/bynum-leads-wildfire-preparedness-events-deschutes-county",
+        "publisher": "Office of U.S. Rep. Janelle Bynum",
+        "tier": "T1",
+        "published_at": "2026-05-04",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; statement faithful.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i8",
+      "topic": "abortion",
+      "statement": "On her campaign page, Bynum is described as fighting in Congress to defend reproductive rights and codify Roe v. Wade.",
+      "excerpt": "In Congress, she is fighting to defend reproductive rights and codify Roe v. Wade at the federal level.",
+      "source": {
+        "url": "https://www.janellebynum.com/issues/protecting-reproductive-rights",
+        "publisher": "Janelle Bynum campaign site (janellebynum.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; statement faithful.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i9",
+      "topic": "cost-of-living",
+      "statement": "Her official issues page says her top priorities are lowering costs, creating more jobs, and improving Oregonians' quality of life.",
+      "excerpt": "Her top priorities are lowering costs, creating more jobs, and improving Oregonians’ quality of life.",
+      "source": {
+        "url": "https://bynum.house.gov/issues/costs-jobs",
+        "publisher": "Office of U.S. Rep. Janelle Bynum",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found; undated page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i10",
+      "topic": "water",
+      "statement": "A February 2026 release from Bynum's office says she celebrated $1,092,000 in funding for an Oregon City water transmission main project.",
+      "excerpt": "The Congresswoman first celebrated $1,092,000 in funding for the Water Transmission Main Project at Oregon City Hall",
+      "source": {
+        "url": "https://bynum.house.gov/media/press-releases/bynum-celebrates-delivery-funding-milwaukie-and-oregon-city",
+        "publisher": "Office of U.S. Rep. Janelle Bynum",
+        "tier": "T1",
+        "published_at": "2026-02-18",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; statement faithful.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i11",
+      "topic": "agriculture",
+      "statement": "Her office's April 30, 2026 release on her vote against H.R. 7567, the House Republican Farm Bill, quotes Bynum saying she will never vote to hurt farmers or rural communities.",
+      "excerpt": "I’ll never vote to hurt our farmers or our rural communities.",
+      "source": {
+        "url": "https://bynum.house.gov/media/press-releases/congresswoman-bynum-stands-rural-communities-votes-against-republican-bill",
+        "publisher": "Office of U.S. Rep. Janelle Bynum",
+        "tier": "T1",
+        "published_at": "2026-04-30",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement said the vote itself; excerpt quotes only her words. Reworded to attribute the quote and name the release context. The page (fetched) does state she voted against H.R. 7567 and describes it as put forth by House Republicans, but that sentence is not in the excerpt.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i12",
+      "topic": "infrastructure",
+      "statement": "An April 2026 release from Bynum's office on her community project funding requests says funds for the Rivergrove Water District request would replace aging asbestos cement water pipes.",
+      "excerpt": "Funds will be used to replace aging asbestos cement water pipes.",
+      "source": {
+        "url": "https://bynum.house.gov/media/press-releases/bynum-requests-over-36-million-oregon",
+        "publisher": "Office of U.S. Rep. Janelle Bynum",
+        "tier": "T1",
+        "published_at": "2026-04-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt supports only the pipe replacement; Mt. Angel reservoir claim dropped from the statement (it is on the page but not in the excerpt).",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i13",
+      "topic": "labor",
+      "statement": "In a March 2025 release on a roundtable with labor leaders, Bynum said wins for labor and working families are wins for communities.",
+      "excerpt": "I know firsthand that wins for labor and working families are wins for our communities,",
+      "source": {
+        "url": "https://bynum.house.gov/media/press-releases/bynum-hosts-roundtable-oregon-labor-leaders",
+        "publisher": "Office of U.S. Rep. Janelle Bynum",
+        "tier": "T1",
+        "published_at": "2025-03-21",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; statement faithful.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i14",
+      "topic": "local-business",
+      "statement": "KTVZ reported in June 2025 that three of Bynum's bipartisan small-business bills passed the House and moved to the Senate.",
+      "excerpt": "Three of her bipartisan bills aimed at helping small businesses pass the House and are now headed to the U.S. Senate.",
+      "source": {
+        "url": "https://bynum.house.gov/media/in-the-news/oregon-congresswoman-janelle-bynum-sees-three-bipartisan-bills-pass-house-now",
+        "publisher": "KTVZ News (via bynum.house.gov in-the-news)",
+        "tier": "T3",
+        "published_at": "2025-06-24",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "tier"
+        ],
+        "note": "Article date is 2025-06-24 (KTVZ, per URL); bynum.house.gov reposted it 2025-06-26. published_at corrected. Excerpt found.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i15",
+      "topic": "veterans",
+      "statement": "A March 2026 release says Bynum introduced the Supporting VA Families Act, which would guarantee unpaid parental leave for all VA employees.",
+      "excerpt": "would guarantee the unpaid parental leave policy for all VA employees",
+      "source": {
+        "url": "https://bynum.house.gov/media/press-releases/bynum-introduces-two-bipartisan-bills-support-va-workers-and-veterans",
+        "publisher": "Office of U.S. Rep. Janelle Bynum",
+        "tier": "T1",
+        "published_at": "2026-03-25",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; statement faithful.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i16",
+      "topic": "elections-democracy",
+      "statement": "A July 2026 release says Bynum and Oregon colleagues wrote to the administration about its plan to require states to submit voter registration lists to the federal government.",
+      "excerpt": "which would require states to submit their voter registration lists to the federal government for review.",
+      "source": {
+        "url": "https://bynum.house.gov/media/press-releases/bynum-oregon-delegation-demand-reversal-trump-administrations-plan-suppress",
+        "publisher": "Office of U.S. Rep. Janelle Bynum",
+        "tier": "T1",
+        "published_at": "2026-07-15",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; statement faithful.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i17",
+      "topic": "public-safety",
+      "statement": "A 2024 campaign release says that in the Oregon legislature Bynum worked on bipartisan legislation to recriminalize fentanyl and other drugs.",
+      "excerpt": "In the legislature, Janelle Bynum worked on bipartisan legislation to recriminalize fentanyl and other dangerous drugs",
+      "source": {
+        "url": "https://www.janellebynum.com/news/icymi-janelle-bynum-supports-public-safety",
+        "publisher": "Janelle Bynum campaign site (janellebynum.com)",
+        "tier": "T2",
+        "published_at": "2024-10-15",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found; dated 2024-10-15 and the statement dates it. Older than preferred but dated.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i18",
+      "topic": "trade",
+      "statement": "In an April 2025 release responding to President Trump's tariff announcement, Bynum said families cannot afford to pay more for groceries, gas, car repairs or any other everyday item.",
+      "excerpt": "Our families can't afford to pay more for groceries, gas, repairs to their cars, or any other everyday item.",
+      "source": {
+        "url": "https://bynum.house.gov/media/press-releases/bynum-blasts-trump-increasing-prices-families",
+        "publisher": "Office of U.S. Rep. Janelle Bynum",
+        "tier": "T1",
+        "published_at": "2025-04-02",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Removed 'because of tariffs' causal wording; the quoted sentence does not mention tariffs, though the release is a response to the tariff announcement.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "janelle-bynum-i19",
+      "topic": "trade",
+      "statement": "Her official issues page cites a February 2026 KOIN report that Bynum introduced a bill to help small businesses affected by tariffs.",
+      "excerpt": "introduced a bill on Friday aiming to help small businesses impacted by tariffs imposed by the Trump administration.",
+      "source": {
+        "url": "https://bynum.house.gov/issues/costs-jobs",
+        "publisher": "KOIN (listed on bynum.house.gov issues page)",
+        "tier": "T3",
+        "published_at": "2026-02-20",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found; KOIN item (Feb 20, 2026) listed on her official issues page; attributed to KOIN.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "technology: nothing found (2026-10-19)",
+    "social-services: nothing found (2026-10-19)",
+    "social-security-medicare: nothing found (2026-10-19)",
+    "civil-rights: nothing found (2026-10-19)",
+    "foreign-policy: nothing found (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 15,
+    "corrected": 4,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-5 swept 2026-10-19 with the same issue list and stop rules. Bynum (D, incumbent): 19 items (12 T1 bynum.house.gov, 5 T2 campaign site, 2 T3), 9 issues gapped. Adair (R): 8 items, all T2 from PattiForCongress.com (one priorities page plus home page), 16 issues gapped (5 nothing found, 11 not searched after early stop). Townsend (Pacific Green): 0 items, no campaign website, 30 issues gapped (mostly not searched, low coverage). Differences reflect available material (incumbent .gov pages, one-page challenger site, no site for Townsend), not unequal effort."
+  }
+}

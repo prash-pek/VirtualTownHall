@@ -1,0 +1,197 @@
+{
+  "id": "patti-adair",
+  "name": "Patti Adair",
+  "race_id": "or-us-house-5",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "patti-adair-i1",
+      "topic": "cost-of-living",
+      "statement": "On her campaign priorities page, Adair lists making everyday life more affordable for working-class Oregonians.",
+      "excerpt": "Make everyday life more affordable for working-class Oregonians.",
+      "source": {
+        "url": "https://www.PattiForCongress.com/priorities",
+        "publisher": "Patti Adair campaign site (PattiForCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; statement faithful.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "patti-adair-i2",
+      "topic": "public-safety",
+      "statement": "On her campaign priorities page, Adair says she would fully support law enforcement to keep communities safe.",
+      "excerpt": "Fully support law enforcement to keep our communities safe.",
+      "source": {
+        "url": "https://www.PattiForCongress.com/priorities",
+        "publisher": "Patti Adair campaign site (PattiForCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; statement faithful.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "patti-adair-i3",
+      "topic": "economy",
+      "statement": "On her campaign priorities page, Adair lists unleashing economic growth and supporting small businesses.",
+      "excerpt": "Unleash economic growth and support small businesses.",
+      "source": {
+        "url": "https://www.PattiForCongress.com/priorities",
+        "publisher": "Patti Adair campaign site (PattiForCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; statement faithful.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "patti-adair-i4",
+      "topic": "energy",
+      "statement": "On her campaign priorities page, Adair says she would propose legislation requiring Big Tech to be transparent about the impacts data centers have on air quality.",
+      "excerpt": "Propose legislation that requires Big Tech to be transparent about the impacts data centers have on air quality",
+      "source": {
+        "url": "https://www.PattiForCongress.com/priorities",
+        "publisher": "Patti Adair campaign site (PattiForCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Fetch tool returned only the first part of the sentence (quote-length limit); excerpt trimmed to the confirmed text. The page reportedly continues with water quality and electricity costs, not confirmed verbatim; recheck next week.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "patti-adair-i5",
+      "topic": "housing",
+      "statement": "On the 'Proven Record' section of her campaign priorities page, Adair says she testified in support of accessory dwelling units (SB 391).",
+      "excerpt": "Testified for SB 391 in support of Accessory Dwelling Units in coordination with SB 762",
+      "source": {
+        "url": "https://www.PattiForCongress.com/priorities",
+        "publisher": "Patti Adair campaign site (PattiForCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found under 'Patti's Proven Record', as the statement says.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "patti-adair-i6",
+      "topic": "elections-democracy",
+      "statement": "On her campaign priorities page, Adair lists banning insider trading by Members of Congress.",
+      "excerpt": "Ban insider trading by Members of Congress.",
+      "source": {
+        "url": "https://www.PattiForCongress.com/priorities",
+        "publisher": "Patti Adair campaign site (PattiForCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; statement faithful.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "patti-adair-i7",
+      "topic": "childcare",
+      "statement": "On her campaign priorities page, Adair lists increasing the Child Tax Credit limit.",
+      "excerpt": "Increase the Child Tax Credit limit.",
+      "source": {
+        "url": "https://www.PattiForCongress.com/priorities",
+        "publisher": "Patti Adair campaign site (PattiForCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found; topic mapping to childcare is loose (Child Tax Credit).",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "patti-adair-i8",
+      "topic": "veterans",
+      "statement": "On her campaign home page, Adair's biography says that as a county commissioner she worked across the aisle to advocate for veterans, among other goals.",
+      "excerpt": "worked across the aisle to improve community safety, protect natural resources, and advocate for veterans",
+      "source": {
+        "url": "https://www.PattiForCongress.com",
+        "publisher": "Patti Adair campaign site (PattiForCongress.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found; page does not name the district, but search results (Oregon Capital Chronicle, OPB) confirm Adair is the OR-5 Republican nominee.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "homelessness: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "agriculture: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "social-security-medicare: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "trade: not searched (low coverage)",
+    "foreign-policy: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 7,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race or-us-house-5 swept 2026-10-19 with the same issue list and stop rules. Bynum (D, incumbent): 19 items (12 T1 bynum.house.gov, 5 T2 campaign site, 2 T3), 9 issues gapped. Adair (R): 8 items, all T2 from PattiForCongress.com (one priorities page plus home page), 16 issues gapped (5 nothing found, 11 not searched after early stop). Townsend (Pacific Green): 0 items, no campaign website, 30 issues gapped (mostly not searched, low coverage). Differences reflect available material (incumbent .gov pages, one-page challenger site, no site for Townsend), not unequal effort."
+  }
+}
