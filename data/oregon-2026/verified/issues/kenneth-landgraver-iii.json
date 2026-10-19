@@ -22,9 +22,10 @@
       "verification": {
         "status": "corrected",
         "checks_failed": [
-          "attribution"
+          "attribution",
+          "low_confidence"
         ],
-        "note": "Added that KOIN published the answers under the name Kent Landgraver; identity linked via the photo file name Kenneth-R-Landgraver-III. Moderate confidence.",
+        "note": "Added that KOIN published the answers under the name Kent Landgraver; identity linked via the photo file name Kenneth-R-Landgraver-III. Moderate confidence. Low confidence. Identity: KOIN's 2024 page names \"Kent Landgraver\"; the link to the 2026 candidate rests on the photo file name and the same seat.",
         "verified_at": "2026-10-19"
       }
     },
@@ -43,8 +44,10 @@
       "swept_at": "2026-10-19",
       "verification": {
         "status": "verified",
-        "checks_failed": [],
-        "note": "",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Low confidence. Identity: KOIN's 2024 page names \"Kent Landgraver\"; the link to the 2026 candidate rests on the photo file name and the same seat.",
         "verified_at": "2026-10-19"
       }
     }

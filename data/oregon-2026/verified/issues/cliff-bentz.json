@@ -174,9 +174,10 @@
         "checks_failed": [
           "attribution",
           "tier",
-          "paraphrase_faithful"
+          "paraphrase_faithful",
+          "low_confidence"
         ],
-        "note": "Page is an 'In The News' item on Bentz's site (May 20, 2026) that appears to republish a summary of an E&E News article (page links to it, author not named). The words are third-party text, not Bentz's, and the page does not say he introduced the bill. Reworded to attribute to the item. Tier left T1 because it is hosted on the official site, but the text is not his; reviewer should decide whether to publish.",
+        "note": "Page is an 'In The News' item on Bentz's site (May 20, 2026) that appears to republish a summary of an E&E News article (page links to it, author not named). The words are third-party text, not Bentz's, and the page does not say he introduced the bill. Reworded to attribute to the item. Tier left T1 because it is hosted on the official site, but the text is not his; reviewer should decide whether to publish. Low confidence. Source type: an E&E News summary reposted on his House site, not his own words.",
         "verified_at": "2026-10-19"
       }
     },

@@ -71,6 +71,7 @@ Run `python3 data/oregon-2026/pipeline/validate.py raw <file>` and fix every err
 1. `validate.py strip raw/issues/<id>.json /tmp/<id>.json`, then a separate Sonnet verifier follows `VERIFIER.md`
    on that copy and writes `verified/issues/<id>.json` (same shape, `verification` on every item,
    `verification_summary`). Report: `reports/verification/issues-<race-id>-<date>.md`, including the balance check
-   across the race.
+   across the race. Items the verifier keeps but isn't sure of get `low_confidence` in `checks_failed` with the
+   reason in `note` (VERIFIER.md check 8); /ops lists them first under "Needs a look".
 2. `validate.py verified verified/issues/*.json`.
 3. Merge to `main`. The deploy's `seed:verified` imports new items as drafts. Prash reviews and publishes them in /ops.

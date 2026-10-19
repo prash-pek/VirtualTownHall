@@ -105,7 +105,10 @@ export function ReviewItems({ kind, items }: { kind: ItemKind; items: ReviewItem
         >
           <div className="flex items-baseline justify-between gap-3">
             <p className="eyebrow">{i.label}</p>
-            <StatusTag status={i.status} />
+            <span className="flex items-baseline gap-2">
+              {i.needsLook && i.status !== "rejected" && <span className="preview-tag">Needs a look</span>}
+              <StatusTag status={i.status} />
+            </span>
           </div>
           <p>{i.statement}</p>
           {i.excerpt && <blockquote className="note border-l-2 border-line pl-3 italic">“{i.excerpt}”</blockquote>}
@@ -130,5 +133,31 @@ export function ReviewItems({ kind, items }: { kind: ItemKind; items: ReviewItem
         </li>
       ))}
     </ul>
+  );
+}
+
+/**
+ * Items the verifier flagged as low confidence first, so they get read before publishing; the rest after.
+ * A single plain list when nothing is flagged.
+ */
+export function GroupedReviewItems({ kind, items }: { kind: ItemKind; items: ReviewItem[] }) {
+  const flagged = items.filter((i) => i.needsLook && i.status !== "rejected");
+  if (flagged.length === 0) return <ReviewItems kind={kind} items={items} />;
+  const rest = items.filter((i) => !flagged.includes(i));
+  return (
+    <>
+      <h3 className="eyebrow">
+        Needs a look <span className="note">{flagged.length}</span>
+      </h3>
+      <p className="note">
+        The verifier wasn&apos;t fully sure about these (identity, date or source type). Read its note, then keep or
+        hide each one.
+      </p>
+      <ReviewItems kind={kind} items={flagged} />
+      <h3 className="eyebrow">
+        Looks fine <span className="note">{rest.length}</span>
+      </h3>
+      <ReviewItems kind={kind} items={rest} />
+    </>
   );
 }

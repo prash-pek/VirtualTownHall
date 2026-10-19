@@ -21,8 +21,10 @@
       "swept_at": "2026-10-19",
       "verification": {
         "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Source type: PDF on his own site titled as Portland Civic Lab guide material (an excluded AI-summary site); kept as his own answers, but a judgment call.",
         "verified_at": "2026-10-19"
       }
     },
@@ -41,8 +43,10 @@
       "swept_at": "2026-10-19",
       "verification": {
         "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Source type: PDF on his own site titled as Portland Civic Lab guide material (an excluded AI-summary site); kept as his own answers, but a judgment call.",
         "verified_at": "2026-10-19"
       }
     },
@@ -82,9 +86,10 @@
       "verification": {
         "status": "corrected",
         "checks_failed": [
-          "paraphrase_faithful"
+          "paraphrase_faithful",
+          "low_confidence"
         ],
-        "note": "Statement said 'decision'; page says 'discussion'. Reworded. Answers 'Keep funding camp removals at current levels?'.",
+        "note": "Statement said 'decision'; page says 'discussion'. Reworded. Answers 'Keep funding camp removals at current levels?'. Low confidence. Source type: PDF on his own site titled as Portland Civic Lab guide material (an excluded AI-summary site); kept as his own answers, but a judgment call.",
         "verified_at": "2026-10-19"
       }
     },
@@ -103,8 +108,10 @@
       "swept_at": "2026-10-19",
       "verification": {
         "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Source type: PDF on his own site titled as Portland Civic Lab guide material (an excluded AI-summary site); kept as his own answers, but a judgment call.",
         "verified_at": "2026-10-19"
       }
     },
@@ -123,8 +130,10 @@
       "swept_at": "2026-10-19",
       "verification": {
         "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Source type: PDF on his own site titled as Portland Civic Lab guide material (an excluded AI-summary site); kept as his own answers, but a judgment call.",
         "verified_at": "2026-10-19"
       }
     },
@@ -143,8 +152,10 @@
       "swept_at": "2026-10-19",
       "verification": {
         "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Source type: PDF on his own site titled as Portland Civic Lab guide material (an excluded AI-summary site); kept as his own answers, but a judgment call.",
         "verified_at": "2026-10-19"
       }
     },
@@ -163,8 +174,10 @@
       "swept_at": "2026-10-19",
       "verification": {
         "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Source type: PDF on his own site titled as Portland Civic Lab guide material (an excluded AI-summary site); kept as his own answers, but a judgment call.",
         "verified_at": "2026-10-19"
       }
     },
@@ -183,8 +196,10 @@
       "swept_at": "2026-10-19",
       "verification": {
         "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Source type: PDF on his own site titled as Portland Civic Lab guide material (an excluded AI-summary site); kept as his own answers, but a judgment call.",
         "verified_at": "2026-10-19"
       }
     },
@@ -268,8 +283,10 @@
       "swept_at": "2026-10-19",
       "verification": {
         "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Source type: PDF on his own site titled as Portland Civic Lab guide material (an excluded AI-summary site); kept as his own answers, but a judgment call.",
         "verified_at": "2026-10-19"
       }
     }

@@ -21,8 +21,10 @@
       "swept_at": "2026-10-19",
       "verification": {
         "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Identity: 2024 OPB mayoral answers matched to the 2026 District 3 candidate by name only; no source says it is the same person.",
         "verified_at": "2026-10-19"
       }
     },
@@ -41,8 +43,10 @@
       "swept_at": "2026-10-19",
       "verification": {
         "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Identity: 2024 OPB mayoral answers matched to the 2026 District 3 candidate by name only; no source says it is the same person.",
         "verified_at": "2026-10-19"
       }
     },
@@ -63,9 +67,10 @@
         "status": "corrected",
         "checks_failed": [
           "excerpt_verbatim",
-          "paraphrase_faithful"
+          "paraphrase_faithful",
+          "low_confidence"
         ],
-        "note": "Sentence continues on the page with 'but they're not always debilitated by them'; excerpt and statement extended.",
+        "note": "Sentence continues on the page with 'but they're not always debilitated by them'; excerpt and statement extended. Low confidence. Identity: 2024 OPB mayoral answers matched to the 2026 District 3 candidate by name only; no source says it is the same person.",
         "verified_at": "2026-10-19"
       }
     },
@@ -84,8 +89,10 @@
       "swept_at": "2026-10-19",
       "verification": {
         "status": "verified",
-        "checks_failed": [],
-        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt found on page; attribution, tier and wording checked. Low confidence. Identity: 2024 OPB mayoral answers matched to the 2026 District 3 candidate by name only; no source says it is the same person.",
         "verified_at": "2026-10-19"
       }
     }

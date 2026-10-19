@@ -27,6 +27,7 @@ export default async function OpsHome() {
         name: m.title,
         detail: "Not yet published",
         button: "Publish",
+        needsLook: 0,
       })),
     ...q.races.flatMap((r) =>
       r.candidates
@@ -37,11 +38,16 @@ export default async function OpsHome() {
           context: r.label,
           name: c.name,
           detail:
-            c.status === "published" ? `${c.pending} new to review` : `Not yet published · ${c.items} sourced items`,
+            (c.status === "published" ? `${c.pending} new to review` : `Not yet published · ${c.items} sourced items`) +
+            (c.needsLook > 0 ? ` · ${c.needsLook} need a look` : ""),
           button: c.status === "published" ? `Publish ${c.pending} new` : "Publish",
+          needsLook: c.needsLook,
         })),
     ),
   ];
+  // Low-confidence items get read first: candidates with flagged items move to the top, in ballot order.
+  const flaggedFirst = [...toPublish.filter((t) => t.needsLook > 0), ...toPublish.filter((t) => !(t.needsLook > 0))];
+  const flaggedCount = toPublish.filter((t) => t.needsLook > 0).length;
 
   return (
     <main className="page">
@@ -66,14 +72,20 @@ export default async function OpsHome() {
         <h2 className="font-display text-2xl font-semibold">
           Still to publish <span className="note">{toPublish.length}</span>
         </h2>
+        {flaggedCount > 0 && (
+          <p className="note">
+            {flaggedCount} at the top have items the verifier flagged as low confidence. Open those first; the rest
+            looked fine to the verifier.
+          </p>
+        )}
         {toPublish.length === 0 ? (
           <p className="card text-muted">Nothing waiting. Everything with content is published.</p>
         ) : (
           <ul className="card flex flex-col p-0">
-            {toPublish.map((t) => (
+            {flaggedFirst.map((t, n) => (
               <li
                 key={`${t.kind}-${t.slug}`}
-                className="flex items-start justify-between gap-3 border-b border-line px-4 py-3 last:border-b-0"
+                className={`flex items-start justify-between gap-3 border-b border-line px-4 py-3 last:border-b-0 ${n === flaggedCount && n > 0 ? "border-t-2 border-t-line" : ""}`}
               >
                 <div>
                   <p className="eyebrow">{t.context}</p>
@@ -172,6 +184,7 @@ export default async function OpsHome() {
                       <p className="note">
                         {c.items} sourced items
                         {c.status === "published" && c.pending > 0 && ` · ${c.pending} new to review`}
+                        {c.needsLook > 0 && ` · ${c.needsLook} need a look`}
                       </p>
                     </div>
                     <StatusTag status={c.status} />

@@ -5,6 +5,7 @@ import { and, asc, desc, eq, inArray, ne, sql } from "drizzle-orm";
 import { appendAudit } from "@/lib/audit/log";
 import { topicLabel } from "@/lib/ballot/issues";
 import { getDb } from "@/lib/db/client";
+import { LOW_CONFIDENCE_CHECKS, needsALook } from "@/lib/review/confidence";
 import {
   ballotMeasures,
   candidateItems,
@@ -43,6 +44,8 @@ export type QueueCandidate = {
   items: number;
   /** Items and endorsements still in draft, such as a weekly issue sweep added to a published candidate. */
   pending: number;
+  /** Draft items the verifier flagged as low confidence (see lib/review/confidence.ts). */
+  needsLook: number;
 };
 
 /** A race with the candidates that have content to review (or are already published). */
@@ -57,6 +60,11 @@ export type QueueRace = {
 const reviewable = (c: { items: number; status: string }) => c.items > 0 || c.status === "published";
 
 /** Draft items and endorsements on a candidate (new content waiting for review). */
+const lowConfidence = sql.raw(`array[${LOW_CONFIDENCE_CHECKS.map((c) => `'${c}'`).join(", ")}]::text[]`);
+
+/** Draft items whose latest verification flags doubt, so a person should look before publishing. */
+const needsLookSql = sql<number>`(select count(*)::int from ${candidateItems} ci where ci.candidate_id = ${candidates.id} and ci.status in ('draft', 'in_review') and (select v.checks_failed from ${verifications} v where v.subject_type = 'candidate_item' and v.subject_id = ci.id order by v.created_at desc limit 1) && ${lowConfidence})`;
+
 const pendingSql = sql<number>`((select count(*)::int from ${candidateItems} ci where ci.candidate_id = ${candidates.id} and ci.status in ('draft', 'in_review')) + (select count(*)::int from ${endorsements} e where e.candidate_id = ${candidates.id} and e.status in ('draft', 'in_review')))`;
 
 /** Whether publishing would change anything: a draft candidate, or a published one with new drafts. */
@@ -97,6 +105,7 @@ export async function getQueue() {
         status: candidates.status,
         items: sql<number>`(select count(*)::int from ${candidateItems} ci where ci.candidate_id = ${candidates.id} and ci.status <> 'rejected')`,
         pending: pendingSql,
+        needsLook: needsLookSql,
       })
       .from(candidates)
       .innerJoin(races, eq(candidates.raceId, races.id))
@@ -130,7 +139,14 @@ export async function getQueue() {
       byRace.set(c.raceSlug, race);
     }
     if (reviewable(c))
-      race.candidates.push({ slug: c.slug, name: c.name, status: c.status, items: c.items, pending: c.pending });
+      race.candidates.push({
+        slug: c.slug,
+        name: c.name,
+        status: c.status,
+        items: c.items,
+        pending: c.pending,
+        needsLook: c.needsLook,
+      });
     else race.withoutContent++;
   }
   const allRaces = [...byRace.values()];
@@ -151,17 +167,31 @@ export type ReviewItem = {
   tier: string | null;
   status: QueueStatus;
   verification: string | null;
+  /** The verifier flagged doubt on this item (see lib/review/confidence.ts). */
+  needsLook: boolean;
 };
 
+type LatestCheck = { text: string; needsLook: boolean };
+
 async function latestVerifications(subjectType: string, ids: string[]) {
-  if (ids.length === 0) return new Map<string, string>();
+  const out = new Map<string, LatestCheck>();
+  if (ids.length === 0) return out;
   const rows = await getDb()
-    .select({ subjectId: verifications.subjectId, status: verifications.status, note: verifications.note })
+    .select({
+      subjectId: verifications.subjectId,
+      status: verifications.status,
+      note: verifications.note,
+      checksFailed: verifications.checksFailed,
+    })
     .from(verifications)
     .where(and(eq(verifications.subjectType, subjectType), inArray(verifications.subjectId, ids)))
     .orderBy(desc(verifications.createdAt));
-  const out = new Map<string, string>();
-  for (const r of rows) if (!out.has(r.subjectId)) out.set(r.subjectId, r.note ? `${r.status}: ${r.note}` : r.status);
+  for (const r of rows)
+    if (!out.has(r.subjectId))
+      out.set(r.subjectId, {
+        text: r.note ? `${r.status}: ${r.note}` : r.status,
+        needsLook: needsALook(r.checksFailed),
+      });
   return out;
 }
 
@@ -190,7 +220,8 @@ async function endorsementReview(where: ReturnType<typeof eq>): Promise<ReviewIt
   return rows.map(({ side, endorser, endorserType, ...r }) => ({
     ...r,
     label: `Endorsed by ${endorser} (${endorserType})${side ? ` · ${side.toUpperCase()}` : ""}`,
-    verification: checks.get(r.id) ?? null,
+    verification: checks.get(r.id)?.text ?? null,
+    needsLook: checks.get(r.id)?.needsLook ?? false,
   }));
 }
 
@@ -225,7 +256,8 @@ export async function getMeasureReview(slug: string) {
       a.kind === "explainer"
         ? "Neutral explanation"
         : `${a.side.toUpperCase()} ${a.kind}${a.author ? ` · ${a.author}` : ""}`,
-    verification: checks.get(a.id) ?? null,
+    verification: checks.get(a.id)?.text ?? null,
+    needsLook: checks.get(a.id)?.needsLook ?? false,
   }));
   return { measure: m, items, endorsements: await endorsementReview(eq(endorsements.measureId, m.id)) };
 }
@@ -274,7 +306,8 @@ export async function getCandidateReview(slug: string) {
   const items: ReviewItem[] = rows.map(({ kind, topic, ...r }) => ({
     ...r,
     label: [kind.replace("_", " "), topicLabel(topic)].filter(Boolean).join(" · "),
-    verification: checks.get(r.id) ?? null,
+    verification: checks.get(r.id)?.text ?? null,
+    needsLook: checks.get(r.id)?.needsLook ?? false,
   }));
   return { candidate: c, items, endorsements: await endorsementReview(eq(endorsements.candidateId, c.id)) };
 }

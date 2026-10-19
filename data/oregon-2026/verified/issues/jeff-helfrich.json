@@ -105,9 +105,10 @@
         "status": "corrected",
         "checks_failed": [
           "attribution",
-          "paraphrase_faithful"
+          "paraphrase_faithful",
+          "low_confidence"
         ],
-        "note": "Page is credited to \"Office of Rep. Jeff Helfrich\" with no reporter byline; the words are his office statement, not outlet reporting. Statement reworded to say the outlet published a statement from his office. Tier kept T3 (news outlet) but the content is the candidate office's own text.",
+        "note": "Page is credited to \"Office of Rep. Jeff Helfrich\" with no reporter byline; the words are his office statement, not outlet reporting. Statement reworded to say the outlet published a statement from his office. Tier kept T3 (news outlet) but the content is the candidate office's own text. Low confidence. Source type: published by Columbia Gorge News but credited to his own office (a release), so this is closer to T2 than independent reporting.",
         "verified_at": "2026-10-19"
       }
     },
@@ -128,9 +129,10 @@
         "status": "corrected",
         "checks_failed": [
           "attribution",
-          "paraphrase_faithful"
+          "paraphrase_faithful",
+          "low_confidence"
         ],
-        "note": "Same page as i5, credited to \"Office of Rep. Jeff Helfrich\"; the words are his own statement. Statement reworded to attribute it to his office statement as published by the outlet.",
+        "note": "Same page as i5, credited to \"Office of Rep. Jeff Helfrich\"; the words are his own statement. Statement reworded to attribute it to his office statement as published by the outlet. Low confidence. Source type: published by Columbia Gorge News but credited to his own office (a release), so this is closer to T2 than independent reporting.",
         "verified_at": "2026-10-19"
       }
     },
@@ -171,9 +173,10 @@
         "status": "corrected",
         "checks_failed": [
           "attribution",
-          "paraphrase_faithful"
+          "paraphrase_faithful",
+          "low_confidence"
         ],
-        "note": "Page is a \"Rep. Jeffrey Helfrich (R-Hood River) media release\" with no reporter byline, dated 2026-09-09 (announced Sept. 8). The five-part proposal is described as legislative concepts he requested. Statement reworded to attribute to the media release as published by the outlet.",
+        "note": "Page is a \"Rep. Jeffrey Helfrich (R-Hood River) media release\" with no reporter byline, dated 2026-09-09 (announced Sept. 8). The five-part proposal is described as legislative concepts he requested. Statement reworded to attribute to the media release as published by the outlet. Low confidence. Source type: published by Columbia Gorge News but credited to his own office (a release), so this is closer to T2 than independent reporting.",
         "verified_at": "2026-10-19"
       }
     },
