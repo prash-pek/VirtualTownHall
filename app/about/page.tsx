@@ -38,6 +38,37 @@ export default function AboutPage() {
           </p>
         </section>
 
+        <section className="flex flex-col gap-3">
+          <h2>How we find sources</h2>
+          <p>
+            Every answer comes from a source we&apos;ve collected and checked ahead of time. We don&apos;t search the
+            web while you ask, and the AI doesn&apos;t answer from what it happens to know.
+          </p>
+          <ul className="flex list-disc flex-col gap-2 pl-5">
+            <li>
+              We start with official records: voters&apos; pamphlets, election filings, measure text and voting records.
+            </li>
+            <li>Then the candidates&apos; own words, from their campaign websites and official pages.</li>
+            <li>
+              Then local reporting, from outlets like OPB, Willamette Week and the Portland Mercury, plus published
+              endorsements.
+            </li>
+            <li>
+              Each week we look for where every candidate stands on common issues, like housing, homelessness, taxes and
+              energy.
+            </li>
+            <li>
+              A second check confirms each source says what we say it does, and a person reviews it before it goes live.
+            </li>
+          </ul>
+          <p>
+            Some outlets, including The Oregonian, block automated reading, so we include their reporting only when
+            someone adds it by hand. When our sources don&apos;t cover your question, we say so and point you to the
+            candidate&apos;s own pages so you can look for yourself. If something looks wrong, use &ldquo;Report a
+            mistake&rdquo; under any answer.
+          </p>
+        </section>
+
         <p>
           <Link href="/ballot" className="link">
             Start on your ballot
