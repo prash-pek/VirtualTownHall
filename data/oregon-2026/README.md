@@ -45,6 +45,8 @@ IDs are lowercase kebab-case slugs: candidates `firstname-lastname` (append `-2`
   "website_verified_via": "url of the T1/T3 source that confirms the campaign domain",
   "official_url": "incumbents only: the office's own page (filled by pipeline/fill_links.py from verified sources)",
   "official_url_via": "which verified item it came from",
+  "pamphlet_url": "the voters' pamphlet for this candidate or their race (fill_links.py); the fallback link",
+  "pamphlet_url_via": "where it came from",
   "bio": [ ITEM ],
   "positions": [ ITEM ],
   "voting_record": [ ITEM ],

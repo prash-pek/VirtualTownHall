@@ -184,5 +184,7 @@
     "rejected": 0,
     "balance_notes": "Race maywood-park-council (vote for 3): Bussema 10, Collins 8, Holly 8, Ripley Feller 7, Akers 1 item; all T1 (pamphlet statements and city roster). Four filed readable statements and got comparable coverage. Akers's thin profile is a source-access gap, not missed effort: the county Candidate Index lists 'Jim Akers M-50' (no asterisk, so he filed), but his statement file is an image with no machine-readable text (verifier confirmed) and the full pamphlet text the fetch tool receives stops at M-34. No T3 coverage exists for any candidate (spot-searches returned only county documents). Roster (cityofmaywoodpark.com/government/council-staff) lists Jim Akers (Mayor), Kevin Bussema (Council President), Jeff Baltzell, Miriam Berman, Thomas Welander; Collins, Holly and Ripley Feller are absent, so incumbent=false is supported for them. Website winnholly.com printed in the statement. Pronouns: the statement gives none, so the profile now refers to Holly by name."
   },
-  "endorsements": []
+  "endorsements": [],
+  "pamphlet_url": "https://multco.us/file/maywood_park_councilor_winn_holly/download",
+  "pamphlet_url_via": "cited source of verified item winn-holly-b1"
 }

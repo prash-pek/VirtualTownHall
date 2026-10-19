@@ -46,6 +46,7 @@ export type CandidateProfile = {
   occupation: string | null;
   websiteUrl: string | null;
   officialUrl: string | null;
+  pamphletUrl: string | null;
   claimed: boolean;
   draft: boolean;
   bio: SourcedItem[];
@@ -127,6 +128,7 @@ export async function getRaceProfiles(raceSlug: string, preview: boolean): Promi
       occupation: candidates.occupation,
       websiteUrl: candidates.websiteUrl,
       officialUrl: candidates.officialUrl,
+      pamphletUrl: candidates.pamphletUrl,
       profileSource: candidates.profileSource,
       isVerified: candidates.isVerified,
       status: candidates.status,
@@ -196,6 +198,7 @@ export async function getRaceProfiles(raceSlug: string, preview: boolean): Promi
       occupation: shown.includes(c) ? c.occupation : null,
       websiteUrl: shown.includes(c) ? c.websiteUrl : null,
       officialUrl: shown.includes(c) ? c.officialUrl : null,
+      pamphletUrl: shown.includes(c) ? c.pamphletUrl : null,
       claimed: c.profileSource === "candidate" && c.isVerified,
       draft: c.status !== "published",
       bio: own.filter((i) => i.kind === "bio").map(toItem),

@@ -59,7 +59,7 @@ export type DiscussResult = {
   responses: (SideAnswer & {
     label: string;
     sources: { n: number; url: string | null; publisher: string | null }[];
-    /** For a side our sources don't cover: the candidate's own pages, so the voter can look themselves. */
+    /** For a candidate: their own pages (or the voters' pamphlet), on every answer, so the voter can look themselves. */
     links?: SideLink[];
   })[];
   /** The question's issue id (or "other: …"); never the question itself. */
@@ -229,9 +229,8 @@ export async function discuss(
     responses: answers.map((a) => ({
       ...a,
       label: pack.sides.find((s) => s.id === a.side)?.label ?? a.side,
-      ...(a.covered === false && pack.kind === "race"
-        ? { links: pack.sides.find((s) => s.id === a.side)?.links ?? [] }
-        : {}),
+      // Every candidate's answer carries their links, covered or not: we can't judge what a voter finds relevant.
+      ...(pack.kind === "race" ? { links: pack.sides.find((s) => s.id === a.side)?.links ?? [] } : {}),
       sources: a.sourceIds.flatMap((n) => {
         const s = sources.find((x) => x.n === n);
         return s ? [{ n, url: s.url, publisher: s.publisher }] : [];
