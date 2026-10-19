@@ -1,0 +1,119 @@
+{
+  "id": "sharon-meieran",
+  "name": "Sharon Meieran",
+  "race_id": "multnomah-county-chair",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "sharon-meieran-i1",
+      "topic": "homelessness",
+      "statement": "On her campaign site, Meieran says unsheltered homelessness in Multnomah County has quintupled in five years.",
+      "excerpt": "Yet unsheltered homelessness has quintupled in five years.",
+      "source": {
+        "url": "https://fix-multco.com/",
+        "publisher": "Fixing Multnomah County (Sharon Meieran campaign site, fix-multco.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "fix-multco.com is the campaign site (page links 'Sharon for Chair', her copyright); fixmultco.com, the website_url in her candidate file, 301-redirects to it.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "sharon-meieran-i2",
+      "topic": "homelessness",
+      "statement": "On her campaign site, Meieran says hundreds of people are dying unsheltered every year.",
+      "excerpt": "Hundreds of people are dying unsheltered every year.",
+      "source": {
+        "url": "https://fix-multco.com/",
+        "publisher": "Fixing Multnomah County (Sharon Meieran campaign site, fix-multco.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Same site as i1.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "sharon-meieran-i3",
+      "topic": "addiction-mental-health",
+      "statement": "On her campaign site, Meieran says mental illness and addiction remain largely untreated.",
+      "excerpt": "Mental illness and addiction remain largely untreated.",
+      "source": {
+        "url": "https://fix-multco.com/",
+        "publisher": "Fixing Multnomah County (Sharon Meieran campaign site, fix-multco.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Same site as i1.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "sharon-meieran-i4",
+      "topic": "housing",
+      "statement": "In an April 2021 Willamette Week article, Meieran, then a county commissioner, said she supported bolstering supportive housing and long-term rent assistance.",
+      "excerpt": "I am aligned with and really support the aim to bolster supportive housing and long-term rent assistance",
+      "source": {
+        "url": "https://www.wweek.com/news/city/2021/04/25/multnomah-county-commissioner-sharon-meieran-wants-more-aggressive-plan-to-shelter-homeless-people",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2021-04-25",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Dated April 2021 in the statement; she was a commissioner then. WebFetch followed a 301 to the http www URL.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "See reports/verification/issues-multnomah-county-chair-2026-10-19.md."
+  }
+}
