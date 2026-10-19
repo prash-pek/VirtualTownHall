@@ -1,0 +1,260 @@
+{
+  "id": "tiffany-koyama-lane",
+  "name": "Tiffany Koyama Lane",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "tiffany-koyama-lane-i1",
+      "topic": "housing",
+      "statement": "Koyama Lane's council page lists among her legislative wins an ordinance for $56 million in rent assistance and eviction defense (Keep Portland Housed).",
+      "excerpt": "Passed ordinance for $56 million for rent assistance and eviction defense,",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane/wins",
+        "publisher": "City of Portland (Councilor Koyama Lane's office page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-i2",
+      "topic": "housing",
+      "statement": "Koyama Lane's council page lists a co-sponsored resolution directing the City Administrator to study alternative housing financing and ownership models (Social Housing Study).",
+      "excerpt": "Co-sponsored a resolution directing the City Administrator to study alternative housing financing and ownership models",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane/wins",
+        "publisher": "City of Portland (Councilor Koyama Lane's office page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-i3",
+      "topic": "technology",
+      "statement": "Koyama Lane's council page lists a co-sponsored ordinance for a first-in-Oregon ban on AI pricing algorithms used by corporate landlords.",
+      "excerpt": "Co-sponsored ordinance to establish a first-in-Oregon ban on the AI pricing algorithms corporate landlords use",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane/wins",
+        "publisher": "City of Portland (Councilor Koyama Lane's office page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-i4",
+      "topic": "energy",
+      "statement": "Koyama Lane's council page lists a co-sponsored amendment package on the Critical Energy Infrastructure Hub adding zoning review and community input requirements.",
+      "excerpt": "Co-sponsored amendment package to add stronger zoning review, expand community input requirements",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane/wins",
+        "publisher": "City of Portland (Councilor Koyama Lane's office page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-i5",
+      "topic": "energy",
+      "statement": "Koyama Lane's council page says she sponsored and led Council to unanimously pass a data center transparency resolution urging the City Administrator to refrain from signing data center non-disclosure agreements (NDAs).",
+      "excerpt": "Sponsored and led Council to unanimously pass a resolution urging the City Administrator to refrain from signing data center non-disclosure agreements (NDAs)",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane/wins",
+        "publisher": "City of Portland (Councilor Koyama Lane's office page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim",
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt ended before the subject of the signing; extended to 'data center non-disclosure agreements (NDAs)'. Page header is 'Data Center Transparency'.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-i6",
+      "topic": "environment",
+      "statement": "Koyama Lane's council page lists a budget amendment she sponsored to restore $3.2 million and prevent cuts to Urban Forestry (tree canopy protections).",
+      "excerpt": "Sponsored budget amendment to restore $3.2 million to prevent cuts to Urban Forestry",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane/wins",
+        "publisher": "City of Portland (Councilor Koyama Lane's office page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-i7",
+      "topic": "water",
+      "statement": "Koyama Lane's council page lists a budget note she sponsored for regular public reporting on the City's water utility rate study.",
+      "excerpt": "Sponsored budget note for regular public reporting on the City's water utility rate study",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane/wins",
+        "publisher": "City of Portland (Councilor Koyama Lane's office page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-i8",
+      "topic": "addiction-mental-health",
+      "statement": "Koyama Lane's council page lists a co-sponsored ordinance creating a psychedelics health and safety code.",
+      "excerpt": "Co-sponsored ordinance for psychedelics health and safety code",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane/wins",
+        "publisher": "City of Portland (Councilor Koyama Lane's office page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-i9",
+      "topic": "civil-rights",
+      "statement": "Koyama Lane's council page says she sponsored and spearheaded an ordinance defending transgender rights (LGBTQIA2S+ Protections Package).",
+      "excerpt": "Sponsored and spearheaded a landmark ordinance defending transgender rights",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane/wins",
+        "publisher": "City of Portland (Councilor Koyama Lane's office page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-i10",
+      "topic": "immigration",
+      "statement": "Koyama Lane's council page lists a co-sponsored emergency ordinance codifying Portland's sanctuary status.",
+      "excerpt": "Co-sponsored an emergency ordinance codifying Portland's sanctuary status",
+      "source": {
+        "url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane/wins",
+        "publisher": "City of Portland (Councilor Koyama Lane's office page)",
+        "tier": "T1",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tiffany-koyama-lane-i11",
+      "topic": "public-safety",
+      "statement": "In a July 10, 2026 City of Portland bulletin, Koyama Lane says she and four colleagues are co-sponsoring an ordinance to amend the FY 2026-27 budget to restore public safety, civilian responders for property and vehicle crime reports, and more.",
+      "excerpt": "I am co-sponsoring an ordinance to amend the FY 2026-27 Budget to restore and protect public safety, senior centers, parks maintenance, fire rescue, high-risk environmental positions such as water and transportation, civilian responders for property and vehicle crimes reports, emergency response, and more.",
+      "source": {
+        "url": "https://content.govdelivery.com/accounts/ORPORTLAND_ENT/bulletins/41ff43f",
+        "publisher": "City of Portland (Councilor Koyama Lane budget bulletin)",
+        "tier": "T1",
+        "published_at": "2026-07-10",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim",
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt cut off before 'civilian responders'; extended. Statement now lists the co-sponsors and the other items instead of narrowing to public safety.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-19)",
+    "homelessness: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "labor: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 9,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Race portland-council-d3 Part A swept 2026-10-19 with the same issue list and stop rules. Item counts reflect what exists per candidate; see report issues-portland-council-d3-2026-10-19-partA.md."
+  }
+}

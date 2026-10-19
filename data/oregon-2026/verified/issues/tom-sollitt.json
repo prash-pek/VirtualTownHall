@@ -1,0 +1,300 @@
+{
+  "id": "tom-sollitt",
+  "name": "Tom Sollitt",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "tom-sollitt-i1",
+      "topic": "taxes",
+      "statement": "In a Portland Civic Lab questionnaire response posted on his campaign site, Sollitt says he wants to show the city uses existing money wisely before asking residents for more.",
+      "excerpt": "Before asking Portlanders for more money, I want to demonstrate that we are using what they already give us wisely.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/Portland-Civic-Lab-voters-guide_-review-and-clarifications-for-Tom-Sollitt-1.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), Portland Civic Lab questionnaire response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tom-sollitt-i2",
+      "topic": "housing",
+      "statement": "In a Portland Civic Lab questionnaire response on his campaign site, Sollitt says he would focus first on preserving existing naturally occurring affordable housing and making better use of current resources.",
+      "excerpt": "On housing, I would focus first on preserving existing naturally occurring affordable housing and making better use of the resources we already have.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/Portland-Civic-Lab-voters-guide_-review-and-clarifications-for-Tom-Sollitt-1.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), Portland Civic Lab questionnaire response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tom-sollitt-i3",
+      "topic": "homelessness",
+      "statement": "In a League of Women Voters VOTE411 response posted on his campaign site, Sollitt says he would follow through on the 2024 City-County agreement for Multnomah County to lead shelter and wraparound services.",
+      "excerpt": "I would follow through on the 2024 Intergovernmental Agreement between the City and Multnomah County and the approach it established for the County to take the lead on shelter and wraparound services.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/League-of-Women-Voters-VOTE411.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), League of Women Voters VOTE411 response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tom-sollitt-i4",
+      "topic": "homelessness",
+      "statement": "In a Portland Civic Lab questionnaire response on his campaign site, Sollitt says he would pause any discussion about increasing or reducing camp-removal funding until there is a clear accounting of the program.",
+      "excerpt": "No. I would pause any discussion about increasing or reducing funding until we have a clear accounting of the program in order to right-size funding.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/Portland-Civic-Lab-voters-guide_-review-and-clarifications-for-Tom-Sollitt-1.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), Portland Civic Lab questionnaire response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement said 'decision'; page says 'discussion'. Reworded. Answers 'Keep funding camp removals at current levels?'.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tom-sollitt-i5",
+      "topic": "environment",
+      "statement": "In a Portland Civic Lab questionnaire response on his campaign site, Sollitt says he supports continued investment in clean energy, efficiency, building electrification and climate resilience, including through the Portland Clean Energy Community Benefits Fund.",
+      "excerpt": "I support continued investment in clean energy, energy efficiency, building electrification and climate resilience, including through the Portland Clean Energy Community Benefits Fund.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/Portland-Civic-Lab-voters-guide_-review-and-clarifications-for-Tom-Sollitt-1.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), Portland Civic Lab questionnaire response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tom-sollitt-i6",
+      "topic": "energy",
+      "statement": "In a Portland Civic Lab questionnaire response on his campaign site, Sollitt says he supports restricting new AI data centers in Portland.",
+      "excerpt": "I support restricting new AI data centers in Portland.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/Portland-Civic-Lab-voters-guide_-review-and-clarifications-for-Tom-Sollitt-1.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), Portland Civic Lab questionnaire response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tom-sollitt-i7",
+      "topic": "water",
+      "statement": "In a Portland Civic Lab questionnaire response on his campaign site, Sollitt says he would not support further water rate increases for the Bull Run filtration plant without first exhausting alternatives to reduce the burden on ratepayers.",
+      "excerpt": "I would not support additional rate increases without first exhausting meaningful alternatives to reduce the burden on ratepayers.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/Portland-Civic-Lab-voters-guide_-review-and-clarifications-for-Tom-Sollitt-1.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), Portland Civic Lab questionnaire response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tom-sollitt-i8",
+      "topic": "transportation",
+      "statement": "In a Portland Civic Lab questionnaire response on his campaign site, Sollitt says he would eliminate the monthly street repair fee.",
+      "excerpt": "I would eliminate the monthly street repair fee.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/Portland-Civic-Lab-voters-guide_-review-and-clarifications-for-Tom-Sollitt-1.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), Portland Civic Lab questionnaire response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tom-sollitt-i9",
+      "topic": "infrastructure",
+      "statement": "In a Portland Civic Lab questionnaire response on his campaign site, Sollitt calls safe, accessible sidewalks basic transportation infrastructure and says maintenance responsibility should not become a barrier to keeping them usable.",
+      "excerpt": "Safe, accessible sidewalks are basic transportation infrastructure, and we should not allow responsibility for maintaining them to become a barrier to keeping them usable.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/Portland-Civic-Lab-voters-guide_-review-and-clarifications-for-Tom-Sollitt-1.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), Portland Civic Lab questionnaire response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tom-sollitt-i10",
+      "topic": "economy",
+      "statement": "In a League of Women Voters VOTE411 response on his campaign site, Sollitt says addressing income inequality is fundamentally about access to opportunity, and cites increasing housing supply and reducing transportation costs.",
+      "excerpt": "For me, addressing income inequality is fundamentally about access to opportunity. As housing costs push people farther from Portland’s job centers and services, we should increase housing supply, particularly through transit-oriented development, and reduce transportation costs where we can.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/League-of-Women-Voters-VOTE411.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), League of Women Voters VOTE411 response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Excerpt lacked the housing supply and transportation cost clause the statement relies on; extended to the page text.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tom-sollitt-i11",
+      "topic": "cost-of-living",
+      "statement": "In an Oregonian/OregonLive questionnaire response posted on his campaign site, Sollitt names restoring and increasing the City Auditor's capacity for independent audits as the one thing he would do on affordability.",
+      "excerpt": "I would support restoring and increasing the capacity of the Auditor’s Office to conduct independent audits and evaluations.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/Portland-City-Council-questionnaire-from-The-Oregonian_OregonLive.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), Oregonian/OregonLive questionnaire response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tom-sollitt-i12",
+      "topic": "local-business",
+      "statement": "In an Oregonian/OregonLive questionnaire response on his campaign site, Sollitt says city bureaus could use flexible dollars for prevention such as lighting, barriers, or targeted programs that help businesses install gates and other security measures.",
+      "excerpt": "That could include better lighting, barriers, maintenance, safer public-space design, or targeted programs that help businesses install gates and other security measures.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/Portland-City-Council-questionnaire-from-The-Oregonian_OregonLive.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), Oregonian/OregonLive questionnaire response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "excerpt_verbatim"
+        ],
+        "note": "Original statement dropped the 'could include' framing and bureau context; excerpt was a fragment. Both fixed from the page.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "tom-sollitt-i13",
+      "topic": "elections-democracy",
+      "statement": "In a Portland Civic Lab questionnaire response on his campaign site, Sollitt says there should be no secret deals or NDAs that prevent meaningful public scrutiny of major industrial or energy-intensive projects.",
+      "excerpt": "There should not be secret deals or NDAs that prevent meaningful public scrutiny.",
+      "source": {
+        "url": "https://www.tomforpdx.com/s/Portland-Civic-Lab-voters-guide_-review-and-clarifications-for-Tom-Sollitt-1.pdf",
+        "publisher": "Tom Sollitt campaign site (tomforpdx.com), Portland Civic Lab questionnaire response",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "agriculture: not searched (low coverage) (2026-10-19)",
+    "technology: not searched (low coverage) (2026-10-19)",
+    "labor: not searched (low coverage) (2026-10-19)",
+    "social-services: not searched (low coverage) (2026-10-19)",
+    "abortion: not searched (low coverage) (2026-10-19)",
+    "immigration: not searched (low coverage) (2026-10-19)",
+    "civil-rights: not searched (low coverage) (2026-10-19)",
+    "veterans: not searched (low coverage) (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 10,
+    "corrected": 3,
+    "rejected": 0,
+    "balance_notes": "Race portland-council-d3 Part A swept 2026-10-19 with the same issue list and stop rules. Item counts reflect what exists per candidate; see report issues-portland-council-d3-2026-10-19-partA.md."
+  }
+}

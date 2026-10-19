@@ -1,0 +1,121 @@
+{
+  "id": "ali-beaudoin",
+  "name": "Ali Beaudoin",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "ali-beaudoin-i1",
+      "topic": "cost-of-living",
+      "statement": "In a Portland Tribune Q&A, Beaudoin says residents consistently raise the cost of living, housing affordability, public safety, homelessness and how the City spends taxpayer dollars.",
+      "excerpt": "I hear residents consistently raise the cost of living, housing affordability, public safety, homelessness, and concerns about how the City spends taxpayer dollars.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-3-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "ali-beaudoin-i2",
+      "topic": "homelessness",
+      "statement": "In a Portland Tribune Q&A, Beaudoin says Portland needs to ensure homelessness resources are producing measurable results.",
+      "excerpt": "ensure homelessness resources are producing measurable results.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-3-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "ali-beaudoin-i3",
+      "topic": "public-safety",
+      "statement": "In a Portland Tribune Q&A, Beaudoin says Portland needs to maintain effective public safety responses.",
+      "excerpt": "maintain effective public safety responses",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-3-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "ali-beaudoin-i4",
+      "topic": "local-business",
+      "statement": "In a Portland Tribune Q&A, Beaudoin says the city should look at practical ways to support local businesses and activate vacant spaces.",
+      "excerpt": "We should look at practical ways to support local businesses, activate vacant spaces, expand opportunities for residents, and make better use of the resources we already have.",
+      "source": {
+        "url": "https://portlandtribune.com/2026/10/13/meet-the-portland-city-council-district-3-candidates-their-priorities-experience-and-fun-facts/",
+        "publisher": "Portland Tribune",
+        "tier": "T3",
+        "published_at": "2026-10-13",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt found on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race portland-council-d3 Part A swept 2026-10-19 with the same issue list and stop rules. Item counts reflect what exists per candidate; see report issues-portland-council-d3-2026-10-19-partA.md."
+  }
+}

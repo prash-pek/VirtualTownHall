@@ -1,0 +1,85 @@
+{
+  "id": "kenneth-landgraver-iii",
+  "name": "Kenneth (Kent) R Landgraver III",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "kenneth-landgraver-iii-i1",
+      "topic": "homelessness",
+      "statement": "In an October 2024 KOIN candidate questionnaire (published under the name Kent Landgraver) for Portland City Council District 3, Landgraver names homelessness, addiction and policing as the biggest problem and proposes the mayor declare an emergency.",
+      "excerpt": "I propose the mayor declares an emergency, mobilize a whole government response",
+      "source": {
+        "url": "https://digital-release.koin.com/?p=1984475",
+        "publisher": "KOIN 6 (candidate questionnaire, Oct 2024)",
+        "tier": "T3",
+        "published_at": "2024-10-03",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution"
+        ],
+        "note": "Added that KOIN published the answers under the name Kent Landgraver; identity linked via the photo file name Kenneth-R-Landgraver-III. Moderate confidence.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "kenneth-landgraver-iii-i2",
+      "topic": "addiction-mental-health",
+      "statement": "In the same October 2024 KOIN questionnaire, Landgraver says he would like to see less homelessness and more mental health services in his district.",
+      "excerpt": "Less homelessness, more mental health services, policing of the appropriate type served safely",
+      "source": {
+        "url": "https://digital-release.koin.com/?p=1984475",
+        "publisher": "KOIN 6 (candidate questionnaire, Oct 2024)",
+        "tier": "T3",
+        "published_at": "2024-10-03",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "housing: nothing found (2026-10-19)",
+    "economy: nothing found (2026-10-19)",
+    "taxes: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "healthcare: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Part B of the portland-council-d3 race. Item counts and tiers: see report. Gaps documented; per-candidate spot-search skipped (budget)."
+  }
+}

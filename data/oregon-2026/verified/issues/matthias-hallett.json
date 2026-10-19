@@ -1,0 +1,138 @@
+{
+  "id": "matthias-hallett",
+  "name": "Matthias Hallett",
+  "race_id": "portland-council-d3",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "matthias-hallett-i1",
+      "topic": "homelessness",
+      "statement": "On his campaign homepage, Hallett says rampant homelessness and open drug markets are taking over Portland's streets.",
+      "excerpt": "Rampant homelessness and open drug markets are taking over our streets.",
+      "source": {
+        "url": "https://www.matthiashallett.com",
+        "publisher": "Matthias Hallett campaign site (matthiashallett.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "matthias-hallett-i2",
+      "topic": "cost-of-living",
+      "statement": "On his campaign homepage, Hallett asks why City Council keeps increasing the taxes and fees he says cause residents' financial struggle.",
+      "excerpt": "why is City Council perpetually increasing the taxes and fees causing the struggle?",
+      "source": {
+        "url": "https://www.matthiashallett.com",
+        "publisher": "Matthias Hallett campaign site (matthiashallett.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "matthias-hallett-i3",
+      "topic": "local-business",
+      "statement": "On his campaign's Re-Vision page, Hallett says \"We treat entrepreneurs as partners in building a stronger city, not obstacles to an ideological agenda.\"",
+      "excerpt": "treat entrepreneurs as partners in building a stronger city",
+      "source": {
+        "url": "https://www.matthiashallett.com/revision",
+        "publisher": "Matthias Hallett campaign site (matthiashallett.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement said 'the city should treat'; page is campaign voice 'We treat ... not obstacles to an ideological agenda'. Reworded to quote.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "matthias-hallett-i4",
+      "topic": "elections-democracy",
+      "statement": "On his campaign homepage, Hallett says he will demand full transparency and hold the City accountable for every tax dollar.",
+      "excerpt": "I’ll constantly demand full and complete transparency and hold the City accountable for every tax dollar",
+      "source": {
+        "url": "https://www.matthiashallett.com",
+        "publisher": "Matthias Hallett campaign site (matthiashallett.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated page; statement implies no date.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "matthias-hallett-i5",
+      "topic": "environment",
+      "statement": "The Portland Mercury's September 2026 candidate guide lists the Safer Portland initiative in its Hallett entry and describes the initiative as aimed at diverting Portland Clean Energy Fund money to police hiring.",
+      "excerpt": "the Safer Portland initiative which aimed to divert money from the Portland Clean Energy Fund to police hiring",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-candidates-for-city-council-district-3/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Mercury's description of the Safer Portland initiative in the Hallett entry; attributed to the outlet.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "health-care: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "transportation: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "labor: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "technology: nothing found (2026-10-19)",
+    "immigration: nothing found (2026-10-19)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Part B of the portland-council-d3 race. Item counts and tiers: see report. Gaps documented; per-candidate spot-search skipped (budget)."
+  }
+}
