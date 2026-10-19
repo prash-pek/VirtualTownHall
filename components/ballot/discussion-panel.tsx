@@ -39,13 +39,13 @@ const uncovered = (a: Answer) => a.sourceIds.length === 0 && !noAnswer(a);
 /** Not covered directly, but the answer points to the closest related source. */
 const related = (a: Answer) => a.covered === false && a.sourceIds.length > 0;
 
-/** "Look for yourself" links from the candidate's stored pages, or a plain note that we have none. */
+/** The candidate's stored pages on every answer, or a plain note that we have none. */
 function LookYourself({ a }: { a: Answer }) {
   if (!a.links) return null;
   if (a.links.length === 0) return <p className="note">We don&apos;t have a website on file for {a.label}.</p>;
   return (
     <p className="text-sm">
-      Look for yourself:{" "}
+      {a.covered === false || a.sourceIds.length === 0 ? "Look for yourself" : "Learn more"}:{" "}
       {a.links.map((l, i) => (
         <span key={l.url}>
           {i > 0 && " · "}

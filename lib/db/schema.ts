@@ -280,6 +280,8 @@ export const candidates = pgTable(
     websiteUrl: text("website_url"),
     /** The office's own page for an incumbent (link bank; see data/oregon-2026/pipeline/fill_links.py). */
     officialUrl: text("official_url"),
+    /** The voters' pamphlet the candidate is in (their statement, or the pamphlet for their race). Fallback link. */
+    pamphletUrl: text("pamphlet_url"),
     profileSource: profileSource("profile_source").notNull().default("public_seed"),
     ownerUserId: text("owner_user_id"),
     claimedAt: timestamp("claimed_at", { withTimezone: true }),

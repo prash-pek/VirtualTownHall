@@ -23,5 +23,7 @@
     "corrected": 0,
     "rejected": 0,
     "balance_notes": "Empty profile is a source-access gap, not missed effort: the county pamphlet Candidate Index lists her statement at M-39 (no asterisk, so she filed), but both her individual statement file (multco.us/file/fairview_pos_4_jenni_weber/download) and the full pamphlet are unreadable to the fetch tool (the scan has no machine-readable text; the full pamphlet text stops at M-34). Spot-search '\"Jenni Weber\" Fairview city council 2026' returned only other states' Fairviews. Unopposed race. Incumbency left null: Fairview's own site blocks automated fetching (robots) and no other official roster was found."
-  }
+  },
+  "pamphlet_url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+  "pamphlet_url_via": "county pamphlet of the office listing fairview-council-pos-4 (multco.us)"
 }

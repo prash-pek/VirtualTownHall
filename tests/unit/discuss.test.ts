@@ -180,6 +180,7 @@ describe("coverage and topics", () => {
     };
     expect(buildPack(pack).text).toContain("[1] (Energy, utilities and data centers) Ann spoke");
     expect(systemPrompt("race")).toMatch(/covered/);
+    expect(systemPrompt("race")).toMatch(/Never repeat a private person's name/);
   });
 });
 
@@ -200,6 +201,11 @@ describe("sideLinks", () => {
       { label: "Campaign website", url: "https://jeffmerkley.com" },
     ]);
     expect(sideLinks({ officialUrl: null, websiteUrl: null })).toEqual([]);
+    const vp = "https://sos.oregon.gov/vp.pdf";
+    expect(sideLinks({ officialUrl: null, websiteUrl: null, pamphletUrl: vp })).toEqual([
+      { label: "Voters' pamphlet", url: vp },
+    ]);
+    expect(sideLinks({ officialUrl: null, websiteUrl: "https://a.com", pamphletUrl: vp })).toHaveLength(1);
   });
 });
 
