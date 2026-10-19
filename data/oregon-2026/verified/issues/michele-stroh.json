@@ -1,0 +1,166 @@
+{
+  "id": "michele-stroh",
+  "name": "Michele Stroh",
+  "race_id": "or-senate-20",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "michele-stroh-i1",
+      "topic": "cost-of-living",
+      "statement": "On her campaign website, Stroh says groceries, gas, housing and childcare all cost more, and that Salem's answer is always another tax.",
+      "excerpt": "Groceries, gas, housing, childcare — everything costs more, and Salem’s answer is always another tax.",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Present in the opening 'A call for common-sense governance' section; curly apostrophe in 'Salem’s' matches the excerpt.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "michele-stroh-i2",
+      "topic": "economy",
+      "statement": "On the campaign website, the opening section begins with the line 'Oregonians are working harder and getting less.'",
+      "excerpt": "Oregonians are working harder and getting less.",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Loose general line: the opening sentence of the 'A call for common-sense governance' section, stating no policy or position. Statement reworded to say it is a general line in that section and to claim nothing about economic policy.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "michele-stroh-i3",
+      "topic": "homelessness",
+      "statement": "On the campaign website, the Real Results on Homelessness section begins: 'Oregon has spent billions and the crisis has grown.'",
+      "excerpt": "Oregon has spent billions and the crisis has grown.",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt is the first line of the 'Real Results on Homelessness' section; 'crisis' is homelessness only by the section context. Statement now names the section and quotes the line.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "michele-stroh-i4",
+      "topic": "addiction-mental-health",
+      "statement": "On the campaign website, the Real Results on Homelessness section includes treatment for addiction among its approaches, under the line 'Compassion means results.'",
+      "excerpt": "Compassion means results — treatment for addiction",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Excerpt is a fragment inside the 'Real Results on Homelessness' section, which lists several approaches; it is not confirmed as a heading. Statement reworded to say the section includes treatment for addiction among its approaches and no more.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "michele-stroh-i5",
+      "topic": "childcare",
+      "statement": "On the campaign website, Stroh says that when she couldn't find the right childcare, she left the banking world to start a small business.",
+      "excerpt": "When I couldn’t find the right childcare, I left the banking world to start a small business",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Statement used 'they' for a first-person line from the candidate's biography section ('Hey, I'm Michele Stroh'). Reworded to 'she' and quoted.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "michele-stroh-i6",
+      "topic": "local-business",
+      "statement": "On the campaign website, Stroh says they left banking to start a small business after not finding the right childcare.",
+      "excerpt": "I left the banking world to start a small business",
+      "source": {
+        "url": "https://votestroh.com/",
+        "publisher": "Michele Stroh campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Duplicate of michele-stroh-i5: the excerpt is the second half of the same sentence and adds no small-business policy or position beyond her personal story already captured under childcare.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "healthcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)",
+    "local-business: no standalone small-business policy found; the only mention is her childcare/small-business story (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 4,
+    "rejected": 1,
+    "balance_notes": "Race or-senate-20 swept 2026-10-19. Stroh: 5 usable T2 items (1 rejected duplicate); Meek: 12 T2. Disparity reflects site depth; no T1/T3 material collected for either."
+  }
+}
