@@ -19,6 +19,7 @@
     "db:studio": "drizzle-kit studio",
     "seed:inventory": "tsx scripts/import-inventory.ts",
     "seed:verified": "tsx scripts/import-verified.ts",
+    "seed:check": "tsx scripts/check-import.ts",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "vercel-build": "tsx scripts/predeploy.ts && next build"
