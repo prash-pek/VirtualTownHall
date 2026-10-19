@@ -1,0 +1,176 @@
+{
+  "id": "sharon-meieran",
+  "name": "Sharon Meieran",
+  "race_id": "multnomah-county-chair",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "sharon-meieran-i1",
+      "topic": "homelessness",
+      "statement": "On her campaign site, Meieran says unsheltered homelessness in Multnomah County has quintupled in five years.",
+      "excerpt": "Yet unsheltered homelessness has quintupled in five years.",
+      "source": {
+        "url": "https://fix-multco.com/",
+        "publisher": "Fixing Multnomah County (Sharon Meieran campaign site, fix-multco.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "sharon-meieran-i2",
+      "topic": "homelessness",
+      "statement": "On her campaign site, Meieran says hundreds of people are dying unsheltered every year.",
+      "excerpt": "Hundreds of people are dying unsheltered every year.",
+      "source": {
+        "url": "https://fix-multco.com/",
+        "publisher": "Fixing Multnomah County (Sharon Meieran campaign site, fix-multco.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "sharon-meieran-i3",
+      "topic": "addiction-mental-health",
+      "statement": "On her campaign site, Meieran says mental illness and addiction remain largely untreated.",
+      "excerpt": "Mental illness and addiction remain largely untreated.",
+      "source": {
+        "url": "https://fix-multco.com/",
+        "publisher": "Fixing Multnomah County (Sharon Meieran campaign site, fix-multco.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    },
+    {
+      "id": "sharon-meieran-i4",
+      "topic": "housing",
+      "statement": "In an April 2021 Willamette Week article, Meieran, then a county commissioner, said she supported bolstering supportive housing and long-term rent assistance.",
+      "excerpt": "I am aligned with and really support the aim to bolster supportive housing and long-term rent assistance",
+      "source": {
+        "url": "https://www.wweek.com/news/city/2021/04/25/multnomah-county-commissioner-sharon-meieran-wants-more-aggressive-plan-to-shelter-homeless-people",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2021-04-25",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-19)",
+    "cost-of-living: nothing found (2026-10-19)",
+    "education: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign issues page",
+      "query_or_url": "https://fix-multco.com/ (fixmultco.com redirects); https://fix-multco.com/issues",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "verified file p2",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "verified file p3",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "verified file p6, p9",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "verified file p8",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "https://fix-multco.com/",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "https://fix-multco.com/",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"Sharon Meieran\" Multnomah County chair Oregon housing rent; fetched wweek.com 2021-04-25 article",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "\"Sharon Meieran\" Multnomah County chair Oregon economy jobs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Sharon Meieran\" Multnomah County chair Oregon cost of living prices inflation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "\"Sharon Meieran\" Multnomah County chair Oregon education schools",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"Sharon Meieran\" Multnomah County chair Oregon child care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "\"Sharon Meieran\" Multnomah County chair Oregon guns firearms",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "\"Sharon Meieran\" Multnomah County chair Oregon climate environment",
+      "result": "nothing relevant"
+    }
+  ],
+  "collection_notes": "Identity: all items are the former Multnomah County Commissioner running for County Chair in 2026 (campaign site fix-multco.com is the confirmed website_url in the candidate file; the 2021 Willamette Week item names her as a county commissioner). Early stop after 6 consecutive searches with nothing usable (economy through environment). Industry search results returned only background/older material. The fix-multco.com/issues page held no quotable issue positions beyond those already used."
+}
