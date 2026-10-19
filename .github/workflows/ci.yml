@@ -65,6 +65,8 @@ jobs:
           echo "first $first, second $second"; test "$first" = "$second"
           test "$(psql "$DATABASE_URL" -tAc "select count(*) from candidate_items")" -gt 0
           test "$(psql "$DATABASE_URL" -tAc "select count(*) from candidate_items where status <> 'draft'")" = "0"
+      - name: Database matches the data files
+        run: npm run seed:check
       - name: Verify counts and audit_log append-only
         run: |
           expected=$(node -e 'const d=require("./data/oregon-2026/inventory.json");console.log([d.jurisdictions,d.races,d.candidates,d.measures].map(a=>a.length).join("|"))')

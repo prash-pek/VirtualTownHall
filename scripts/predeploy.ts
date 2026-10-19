@@ -1,6 +1,7 @@
 /**
  * Runs on Vercel before `next build` (package.json "vercel-build"). Applies migrations and the
- * idempotent inventory and verified-content imports, but only for production deployments (the `main` branch): there is
+ * idempotent inventory and verified-content imports, then checks that the database matches the data
+ * files (a mismatch fails the deploy). Only for production deployments (the `main` branch): there is
  * one shared Neon database, so preview deployments must not migrate it ahead of review.
  */
 import { execSync } from "node:child_process";
@@ -13,6 +14,6 @@ if (env !== "production") {
   process.exit(0);
 }
 
-for (const script of ["db:migrate", "seed:inventory", "seed:verified"]) {
+for (const script of ["db:migrate", "seed:inventory", "seed:verified", "seed:check"]) {
   execSync(`npm run -s ${script}`, { stdio: "inherit" });
 }
