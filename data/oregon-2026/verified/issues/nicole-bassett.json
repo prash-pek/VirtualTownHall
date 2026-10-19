@@ -1,0 +1,154 @@
+{
+  "id": "nicole-bassett",
+  "name": "Nicole Bassett",
+  "race_id": "or-senate-26",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "nicole-bassett-i1",
+      "topic": "taxes",
+      "statement": "Bassett's campaign website lists prioritizing a tax system that funds schools.",
+      "excerpt": "prioritizing a tax system that funds schools",
+      "source": {
+        "url": "https://www.bassettfororegon.com/",
+        "publisher": "Nicole Bassett campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim; it sits in a list under \"Keeping Rural Communities Livable\". Domain confirmed by the pamphlet via website_verified_via in the candidate file; page names Bassett for State Senate District 26.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "nicole-bassett-i2",
+      "topic": "cost-of-living",
+      "statement": "Bassett's campaign website says rising costs for rent, groceries and prescriptions must be addressed because they are stretching families thin.",
+      "excerpt": "At the same time, we have to address rising costs—rent, groceries, and prescriptions—that are stretching families thin.",
+      "source": {
+        "url": "https://www.bassettfororegon.com/",
+        "publisher": "Nicole Bassett campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source; attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "nicole-bassett-i3",
+      "topic": "local-business",
+      "statement": "Bassett's campaign website says farmers and small business owners carry more risk with less support.",
+      "excerpt": "Our farmers and small business owners carry more risk with less support.",
+      "source": {
+        "url": "https://www.bassettfororegon.com/",
+        "publisher": "Nicole Bassett campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source; attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "nicole-bassett-i4",
+      "topic": "agriculture",
+      "statement": "Bassett's campaign website says Oregon's land use laws have helped preserve farms and forests and must be upheld.",
+      "excerpt": "Oregon's land use laws have helped preserve our farms and forests, and we must uphold them",
+      "source": {
+        "url": "https://www.bassettfororegon.com/",
+        "publisher": "Nicole Bassett campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source; attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "nicole-bassett-i5",
+      "topic": "water",
+      "statement": "Bassett's campaign website says watersheds are essential to health, farms and the economy and must be protected.",
+      "excerpt": "Our watersheds are essential to our health, our farms, and our economy, and they must be protected.",
+      "source": {
+        "url": "https://www.bassettfororegon.com/",
+        "publisher": "Nicole Bassett campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source; attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "nicole-bassett-i6",
+      "topic": "energy",
+      "statement": "Bassett's campaign website says investments and efficiencies are needed to bring a clean energy grid to the state.",
+      "excerpt": "Investments and efficiencies are needed to bring a clean energy grid for the state.",
+      "source": {
+        "url": "https://www.bassettfororegon.com/",
+        "publisher": "Nicole Bassett campaign website",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim at the cited source; attribution, tier and wording confirmed.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "homelessness: nothing found (2026-10-19)",
+    "addiction-mental-health: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "public-safety: nothing found (2026-10-19)",
+    "gun-policy: nothing found (2026-10-19)",
+    "wildfire: nothing found (2026-10-19)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 6,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "SD26: Bassett 6 new items (all T2 from her campaign site), 15 issues gapped, 9 of them \"not searched (low coverage)\". Helfrich 11 new items (4 T1, 2 T2, 5 T3), 10 gapped. Bassett got less search depth than Helfrich; her third-party coverage is absent."
+  }
+}

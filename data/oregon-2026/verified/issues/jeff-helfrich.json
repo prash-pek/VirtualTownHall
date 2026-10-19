@@ -1,0 +1,268 @@
+{
+  "id": "jeff-helfrich",
+  "name": "Jeff Helfrich",
+  "race_id": "or-senate-26",
+  "sweeps": [
+    "2026-10-19"
+  ],
+  "positions": [
+    {
+      "id": "jeff-helfrich-i1",
+      "topic": "abortion",
+      "statement": "On his campaign priorities page, Helfrich says they are pro-life.",
+      "excerpt": "I am pro-life",
+      "source": {
+        "url": "http://www.HelfrichforOregon.com/priorities",
+        "publisher": "Jeff Helfrich campaign site (HelfrichforOregon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated campaign page; identity via website_url, which the candidate file confirms through the Voters' Pamphlet. Page text: \"I am pro-life and pro-Second Amendment.\"",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeff-helfrich-i2",
+      "topic": "gun-policy",
+      "statement": "On his campaign priorities page, Helfrich says he is pro-life and pro-Second Amendment.",
+      "excerpt": "pro-Second Amendment",
+      "source": {
+        "url": "http://www.HelfrichforOregon.com/priorities",
+        "publisher": "Jeff Helfrich campaign site (HelfrichforOregon.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Page says in the first person \"I am pro-life and pro-Second Amendment.\" Statement reworded to match the first-person claim.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeff-helfrich-i3",
+      "topic": "housing",
+      "statement": "In a February 2023 press release on an appointment to the Governor's Housing Production Advisory Council, Helfrich says Oregon must increase the number of homes built to be more affordable.",
+      "excerpt": "if we want to make Oregon a more affordable place to live and work, we must increase the number of homes built.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/Helfrich/PressReleases/Representative%20Helfrich%20Appointed%20to%20Governors%20Housing%20Production%20Advisory%20Council.pdf",
+        "publisher": "Oregon Legislature (oregonlegislature.gov)",
+        "tier": "T1",
+        "published_at": "2023-02-03",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against the saved PDF text (pdftotext): excerpt present verbatim in his quoted statement, dated February 3, 2023.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeff-helfrich-i4",
+      "topic": "addiction-mental-health",
+      "statement": "In a February 2024 House Republican Leader press release, Helfrich says the overdose increase is the direct result of Oregon enabling drug use with Measure 110 and urges passage of HB 4036.",
+      "excerpt": "A 1500% increase in overdoses is the direct result of Oregon enabling drug use with Measure 110.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/houserepublicans/Documents/021924%20HOUSE%20REPUBLICAN%20LEADER%20RESPONDS%20INCREASE%20IN%20OVERDOSES.pdf",
+        "publisher": "Oregon Legislature, House Republican Office (oregonlegislature.gov)",
+        "tier": "T1",
+        "published_at": "2024-02-19",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against the saved PDF text (pdftotext): excerpt present verbatim, release dated February 19, 2024; HB 4036 named in the same quote.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeff-helfrich-i5",
+      "topic": "cost-of-living",
+      "statement": "In a January 2025 statement from his office published by Columbia Gorge News, Helfrich said Oregon needs to get back to basics and focus on lowering the cost of living and setting students up for success.",
+      "excerpt": "needs to get back to basics and focus on lowering the cost of living, setting students up for success",
+      "source": {
+        "url": "https://www.columbiagorgenews.com/news/legislature-news-helfrich-begins-third-term-as-state-representative/article_1195021c-d7c7-11ef-9d3d-079841519bf0.html",
+        "publisher": "Columbia Gorge News",
+        "tier": "T3",
+        "published_at": "2025-01-20",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "paraphrase_faithful"
+        ],
+        "note": "Page is credited to \"Office of Rep. Jeff Helfrich\" with no reporter byline; the words are his office statement, not outlet reporting. Statement reworded to say the outlet published a statement from his office. Tier kept T3 (news outlet) but the content is the candidate office's own text.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeff-helfrich-i6",
+      "topic": "homelessness",
+      "statement": "In a January 2025 statement from his office published by Columbia Gorge News, Helfrich said Oregon should focus on ridding communities of drugs, crime, and homelessness.",
+      "excerpt": "ridding communities of drugs, crime, and homelessness",
+      "source": {
+        "url": "https://www.columbiagorgenews.com/news/legislature-news-helfrich-begins-third-term-as-state-representative/article_1195021c-d7c7-11ef-9d3d-079841519bf0.html",
+        "publisher": "Columbia Gorge News",
+        "tier": "T3",
+        "published_at": "2025-01-20",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "paraphrase_faithful"
+        ],
+        "note": "Same page as i5, credited to \"Office of Rep. Jeff Helfrich\"; the words are his own statement. Statement reworded to attribute it to his office statement as published by the outlet.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeff-helfrich-i7",
+      "topic": "wildfire",
+      "statement": "In a September 2024 House Republican press release, Helfrich says the Legislature should make a good-faith, bipartisan effort to reform its forestry management approach.",
+      "excerpt": "The legislature should make a good-faith, bipartisan effort to reform its forestry management approach to better balance safety and concern for the environment.",
+      "source": {
+        "url": "https://www.oregonlegislature.gov/reschke/Documents/PE%20-%20House%20Republicans%20Call%20for%20Changes%20to%20Wildfire%20Prevention%20Policies.pdf",
+        "publisher": "Oregon Legislature, House Republican Caucus (oregonlegislature.gov)",
+        "tier": "T1",
+        "published_at": "2024-09-04",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Checked against the saved PDF text (pdftotext): excerpt present verbatim in his quote, release dated Sep 4, 2024.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeff-helfrich-i8",
+      "topic": "agriculture",
+      "statement": "Columbia Gorge News published a September 2026 media release from Helfrich proposing a five-part family farm package that includes freezing agricultural minimum wage increases for two years.",
+      "excerpt": "Freeze agricultural minimum wage increases for two years.",
+      "source": {
+        "url": "https://www.columbiagorgenews.com/free_news/helfrich-moves-to-freeze-new-costs-threatening-oregon-family-farms/article_a7e7f14a-467b-4fe2-b35a-506c655ffa66.html",
+        "publisher": "Columbia Gorge News",
+        "tier": "T3",
+        "published_at": "2026-09-09",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "paraphrase_faithful"
+        ],
+        "note": "Page is a \"Rep. Jeffrey Helfrich (R-Hood River) media release\" with no reporter byline, dated 2026-09-09 (announced Sept. 8). The five-part proposal is described as legislative concepts he requested. Statement reworded to attribute to the media release as published by the outlet.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeff-helfrich-i9",
+      "topic": "transportation",
+      "statement": "In an undated Gorge Radio report on a legislative short session, the outlet reported that Helfrich's goal is for road maintenance and preservation to come first in whatever the Oregon Department of Transportation receives.",
+      "excerpt": "maintenance and preservation of roads come first in whatever the Oregon Department of Transportation receives",
+      "source": {
+        "url": "https://gorgeradio.com/transportation-funding-central-to-oregon-legislative-session/",
+        "publisher": "Gorge Radio",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "recency",
+          "paraphrase_faithful"
+        ],
+        "note": "Page has no date; text refers to a 35-day short session and \"last year's gas tax increase\". The reporter writes in indirect speech that \"his goal is to make sure maintenance and preservation of roads come first in whatever the Oregon Department of Transportation receives\". Statement reworded to flag the missing date and the outlet paraphrase. Year not stated on the page; none added.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeff-helfrich-i10",
+      "topic": "veterans",
+      "statement": "In a February 2024 letter to committee co-chairs and members, Helfrich asked that $400,000 be allocated to the Vietnam War Memorial Fund.",
+      "excerpt": "Please allocate the needed $400,000 to the Vietnam War Memorial Fund.",
+      "source": {
+        "url": "https://apps.oregonlegislature.gov/liz/2024R1/Downloads/PublicTestimonyDocument/112940",
+        "publisher": "Oregon Legislature, public testimony (oregonlegislature.gov)",
+        "tier": "T1",
+        "published_at": "2024-02-14",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Letter is addressed to \"Co-Chairs, Vice Co-Chairs and Committee Members\" and does not name budget committees. Statement reworded to match. Dated February 14, 2024 on the letter.",
+        "verified_at": "2026-10-19"
+      }
+    },
+    {
+      "id": "jeff-helfrich-i11",
+      "topic": "elections-democracy",
+      "statement": "In a May 2024 Oregon Capital Chronicle report republished by Jefferson Public Radio, House Republican Leader Helfrich wrote that, without a specific plan to prevent similar delays, he finds it hard to have \"complete faith\" in vote-by-mail.",
+      "excerpt": "I find it hard to blindly have the same 'complete faith' in the vote-by-mail system",
+      "source": {
+        "url": "https://www.ijpr.org/politics-government/2024-05-17/oregon-house-republican-leader-used-minor-ballot-delivery-delay-to-question-election-integrity",
+        "publisher": "Jefferson Public Radio (ijpr.org)",
+        "tier": "T3",
+        "published_at": "2024-05-17",
+        "retrieved_at": "2026-10-19"
+      },
+      "swept_at": "2026-10-19",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "attribution",
+          "paraphrase_faithful"
+        ],
+        "note": "Article is an Oregon Capital Chronicle report (Julia Shumway) republished by JPR on 2024-05-17. Excerpt is verbatim, including the inner quotes around 'complete faith' (continues \"in the vote-by-mail system\"). Preceding clause on the page: \"Unless I hear a specific plan to prevent similar delays\". Statement reworded to credit the Capital Chronicle report as republished and to use the page's condition.",
+        "verified_at": "2026-10-19"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "healthcare: nothing found (2026-10-19)",
+    "childcare: nothing found (2026-10-19)",
+    "environment: nothing found (2026-10-19)",
+    "water: nothing found (2026-10-19)",
+    "infrastructure: nothing found (2026-10-19)",
+    "technology: nothing found (2026-10-19)",
+    "labor: nothing found (2026-10-19)",
+    "social-services: nothing found (2026-10-19)",
+    "immigration: nothing found (2026-10-19)",
+    "civil-rights: nothing found (2026-10-19)"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 7,
+    "rejected": 0,
+    "balance_notes": "SD26: Helfrich 11 new items (4 T1 Legislature PDFs, 2 T2 campaign page, 5 T3), 10 issues gapped. Bassett 6 new items (all T2, one site). Bassett got less search depth (9 issues not searched); the T1 spread reflects Helfrich's legislative record. Neither has Voters' Pamphlet items in this sweep; both have them in the earlier verified candidate files."
+  }
+}
