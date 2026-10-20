@@ -1,0 +1,93 @@
+{
+  "id": "bruce-broussard",
+  "name": "Bruce Broussard",
+  "race_id": "multnomah-county-commissioner-d2",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "homelessness: nothing found (2026-10-20)",
+    "cost-of-living: nothing found (2026-10-20)",
+    "taxes: nothing found (2026-10-20)",
+    "healthcare: nothing found (2026-10-20)",
+    "addiction-mental-health: nothing found (2026-10-20)",
+    "public-safety: nothing found (2026-10-20)",
+    "education: not searched (low coverage)",
+    "childcare: not searched (low coverage)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "all",
+      "query_or_url": "campaign issues page",
+      "result": "not found: no confirmed website_url in candidate file"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Bruce Broussard\" Multnomah County Commissioner Oregon homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Bruce Broussard\" Multnomah County Commissioner Oregon cost of living prices inflation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Bruce Broussard\" Multnomah County Commissioner Oregon taxes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Bruce Broussard\" Multnomah County Commissioner Oregon health care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "\"Bruce Broussard\" Multnomah County Commissioner Oregon addiction mental health drugs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "\"Bruce Broussard\" Multnomah County Commissioner Oregon public safety police crime",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "",
+      "result": "already covered"
+    }
+  ]
+}
