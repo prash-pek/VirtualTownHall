@@ -1,0 +1,185 @@
+{
+  "id": "steve-callaway",
+  "name": "Steve Callaway",
+  "race_id": "washington-county-commissioner-d4",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "steve-callaway-i1",
+      "topic": "local-business",
+      "statement": "The Banks Post reported in May 2026 that Callaway said small businesses are the heart and soul of their communities.",
+      "excerpt": "our small businesses are the heart and soul of our communities",
+      "source": {
+        "url": "https://www.bankspost.com/steve-callaway-seeks-washington-county-district-4-seat/",
+        "publisher": "The Banks Post (Chas Hundley, \"Steve Callaway seeks Washington County District 4 seat\")",
+        "tier": "T3",
+        "published_at": "2026-05-09",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20"
+    },
+    {
+      "id": "steve-callaway-i2",
+      "topic": "water",
+      "statement": "The Banks Post reported in May 2026 that Callaway said the county should begin taking real actions to give relief to low-income Clean Water Services customers.",
+      "excerpt": "begin to take real actions to provide some relief",
+      "source": {
+        "url": "https://www.bankspost.com/steve-callaway-seeks-washington-county-district-4-seat/",
+        "publisher": "The Banks Post (Chas Hundley, \"Steve Callaway seeks Washington County District 4 seat\")",
+        "tier": "T3",
+        "published_at": "2026-05-09",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20"
+    },
+    {
+      "id": "steve-callaway-i3",
+      "topic": "elections-democracy",
+      "statement": "The Banks Post reported in May 2026 that Callaway said Clean Water Services lacked transparency and accountability, a concern behind his interest in county government.",
+      "excerpt": "it didn't feel like there was a lot of transparency or accountability with what they were doing",
+      "source": {
+        "url": "https://www.bankspost.com/steve-callaway-seeks-washington-county-district-4-seat/",
+        "publisher": "The Banks Post (Chas Hundley, \"Steve Callaway seeks Washington County District 4 seat\")",
+        "tier": "T3",
+        "published_at": "2026-05-09",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20"
+    },
+    {
+      "id": "steve-callaway-i4",
+      "topic": "infrastructure",
+      "statement": "The Banks Post reported in May 2026 that Callaway said the Washington County Courthouse is a hundred years old and does not serve current needs.",
+      "excerpt": "Our courthouse is a hundred years old, one of the oldest in the state, and it does not serve for the current needs of 2026,",
+      "source": {
+        "url": "https://www.bankspost.com/steve-callaway-seeks-washington-county-district-4-seat/",
+        "publisher": "The Banks Post (Chas Hundley, \"Steve Callaway seeks Washington County District 4 seat\")",
+        "tier": "T3",
+        "published_at": "2026-05-09",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "homelessness: nothing found (2026-10-20)",
+    "public-safety: nothing found (2026-10-20)",
+    "transportation: nothing found (2026-10-20)",
+    "education: nothing found (2026-10-20)",
+    "healthcare: nothing found (2026-10-20)",
+    "cost-of-living: nothing found (2026-10-20)",
+    "environment: nothing found (2026-10-20)",
+    "addiction-mental-health: not searched (low coverage)",
+    "childcare: not searched (low coverage)",
+    "gun-policy: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "veterans: not searched (low coverage)",
+    "campaign site electstevecallaway.com returned empty content to WebFetch (2026-10-20)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "all",
+      "query_or_url": "https://electstevecallaway.com and /issues",
+      "result": "nothing relevant (pages returned empty content)"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Steve Callaway\" Washington County commissioner Oregon homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "local-business, water, elections-democracy, infrastructure",
+      "query_or_url": "https://www.bankspost.com/steve-callaway-seeks-washington-county-district-4-seat/",
+      "result": "used (fetched via homelessness search; reused for four issues)"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "\"Steve Callaway\" county commissioner Oregon public safety police sheriff",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "\"Steve Callaway\" county commissioner Oregon transportation roads transit",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "\"Steve Callaway\" county commissioner Oregon education schools",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Steve Callaway\" county commissioner Oregon health care addiction mental health",
+      "result": "nothing relevant (combined query)"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Steve Callaway\" county commissioner Oregon cost of living prices",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "\"Steve Callaway\" county commissioner Oregon climate environment energy data centers",
+      "result": "nothing relevant (combined query)"
+    },
+    {
+      "step": "2",
+      "issue": "agriculture",
+      "query_or_url": "verified/candidates/steve-callaway.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "technology",
+      "query_or_url": "verified/candidates/steve-callaway.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "verified/candidates/steve-callaway.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "verified/candidates/steve-callaway.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "verified/candidates/steve-callaway.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "verified/candidates/steve-callaway.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "verified/candidates/steve-callaway.json",
+      "result": "already covered"
+    }
+  ],
+  "collection_notes": "Identity: Banks Post article is about the former Hillsboro mayor running for Washington County Commissioner District 4 in 2026. Items 1-4 come from one T3 article. The energy and addiction-mental-health searches were covered only by combined queries with environment and healthcare."
+}

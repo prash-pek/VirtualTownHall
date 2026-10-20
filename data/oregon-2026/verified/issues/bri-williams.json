@@ -1,0 +1,62 @@
+{
+  "id": "bri-williams",
+  "name": "Bri Williams",
+  "race_id": "multnomah-county-commissioner-d2",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "bri-williams-i1",
+      "topic": "addiction-mental-health",
+      "statement": "The Portland Mercury reports in its 2026 District 2 candidate profile that Williams wants the county to invest more heavily in behavioral health services.",
+      "excerpt": "invest more heavily in behavioral health services",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present in Williams's \"Why she's running\" section (\"she also wants the county to invest more heavily in behavioral health services\"); page dated 2026-09-26, updated 2026-09-27.",
+        "verified_at": "2026-10-20"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-20)",
+    "homelessness: nothing found (2026-10-20)",
+    "public-safety: nothing found (2026-10-20)",
+    "education: nothing found (2026-10-20)",
+    "childcare: nothing found (2026-10-20)",
+    "cost-of-living: not searched (low coverage) (2026-10-20)",
+    "taxes: not searched (low coverage) (2026-10-20)",
+    "gun-policy: not searched (low coverage) (2026-10-20)",
+    "environment: not searched (low coverage) (2026-10-20)",
+    "energy: not searched (low coverage) (2026-10-20)",
+    "water: not searched (low coverage) (2026-10-20)",
+    "wildfire: not searched (low coverage) (2026-10-20)",
+    "agriculture: not searched (low coverage) (2026-10-20)",
+    "transportation: not searched (low coverage) (2026-10-20)",
+    "infrastructure: not searched (low coverage) (2026-10-20)",
+    "technology: not searched (low coverage) (2026-10-20)",
+    "labor: not searched (low coverage) (2026-10-20)",
+    "social-services: not searched (low coverage) (2026-10-20)",
+    "abortion: not searched (low coverage) (2026-10-20)",
+    "immigration: not searched (low coverage) (2026-10-20)",
+    "civil-rights: not searched (low coverage) (2026-10-20)",
+    "elections-democracy: not searched (low coverage) (2026-10-20)",
+    "veterans: not searched (low coverage) (2026-10-20)"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race multnomah-county-commissioner-d2 swept 2026-10-20 with one issue list. Items: Williams 1 (T3), Broussard 0, Greene 1 (rejected), Zaghloul 15 (T3, all from 2024 council race), Ong Norris 0, Cruz 11 (T2), Robertson 4 (T2). Counts reflect what exists online (Cruz and Zaghloul have full issue pages or 2024 questionnaires); Broussard, Ong Norris and Greene had little or nothing findable."
+  }
+}

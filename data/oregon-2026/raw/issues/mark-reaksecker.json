@@ -1,0 +1,90 @@
+{
+  "id": "mark-reaksecker",
+  "name": "Mark Reaksecker",
+  "race_id": "clackamas-county-clerk",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "Campaign site markforcountyclerk.com fetched 2026-10-20: homepage has no issues or priorities page content",
+    "economy: nothing found (2026-10-20)",
+    "cost-of-living: nothing found (2026-10-20)",
+    "taxes: nothing found (2026-10-20)",
+    "housing: nothing found (2026-10-20)",
+    "homelessness: nothing found (2026-10-20)",
+    "healthcare: nothing found (2026-10-20)",
+    "addiction-mental-health: not searched (low coverage)",
+    "education: not searched (low coverage)",
+    "childcare: not searched (low coverage)",
+    "public-safety: not searched (low coverage)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "all",
+      "query_or_url": "https://markforcountyclerk.com",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "\"Mark Reaksecker\" county clerk Oregon economy jobs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "\"Mark Reaksecker\" county clerk Oregon cost of living prices inflation",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Mark Reaksecker\" county clerk Oregon taxes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"Mark Reaksecker\" county clerk Oregon housing rent",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Mark Reaksecker\" county clerk Oregon homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "\"Mark Reaksecker\" county clerk Oregon health care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "verified/candidates/mark-reaksecker.json",
+      "result": "already covered"
+    }
+  ],
+  "collection_notes": "Six consecutive searches (economy, cost-of-living, taxes, housing, homelessness, health care) returned no page mentioning the candidate; early stop applied. elections-democracy already covered by pamphlet items."
+}

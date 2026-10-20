@@ -1,0 +1,217 @@
+{
+  "id": "diana-helm",
+  "name": "Diana Helm",
+  "race_id": "clackamas-county-commissioner-pos-4",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "diana-helm-i1",
+      "topic": "homelessness",
+      "statement": "On her campaign site, Helm says she would address homelessness in the county through completion and operation of the Clackamas County Recovery Campus by 2027.",
+      "excerpt": "address homelessness in the County through completion and operations of the Clackamas County Recovery Campus by 2027.",
+      "source": {
+        "url": "https://votedianahelm.com",
+        "publisher": "Diana Helm campaign site (votedianahelm.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated campaign page; excerpt confirmed on page and domain confirmed in the Nov 3, 2026 Clackamas voters' pamphlet. Statement matches.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "diana-helm-i2",
+      "topic": "local-business",
+      "statement": "On her campaign site, Helm says enhancing living-wage jobs begins with supporting local small businesses.",
+      "excerpt": "Enhancing living-wage jobs begins by supporting our local small businesses.",
+      "source": {
+        "url": "https://votedianahelm.com",
+        "publisher": "Diana Helm campaign site (votedianahelm.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated campaign page; excerpt confirmed on page and domain confirmed in the Nov 3, 2026 Clackamas voters' pamphlet. Under \"Champion Small Business\".",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "diana-helm-i3",
+      "topic": "transportation",
+      "statement": "On her campaign site, Helm says she will continue to advocate for the Sunrise Corridor so freight can move safely through the county.",
+      "excerpt": "I will continue to advocate for the Sunrise Corridor so freight can move safely through the county",
+      "source": {
+        "url": "https://votedianahelm.com",
+        "publisher": "Diana Helm campaign site (votedianahelm.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated campaign page; excerpt confirmed on page and domain confirmed in the Nov 3, 2026 Clackamas voters' pamphlet. Under \"Safe & Vibrant Communities\".",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "diana-helm-i4",
+      "topic": "environment",
+      "statement": "Her campaign site describes Helm as a strong advocate for clean air, water and environmental stewardship of natural resources.",
+      "excerpt": "A strong advocate for clean air, water, and environmental stewardship of our natural resources",
+      "source": {
+        "url": "https://votedianahelm.com",
+        "publisher": "Diana Helm campaign site (votedianahelm.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated campaign page; excerpt confirmed on page and domain confirmed in the Nov 3, 2026 Clackamas voters' pamphlet. Self-description in About section.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "diana-helm-i5",
+      "topic": "cost-of-living",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Helm says commissioners can focus on streamlining permitting to lower construction costs and work with service providers to rein in system development charges and permit expenses.",
+      "excerpt": "we can focus on streamlining the permitting process to lower construction costs and work collaboratively with service providers to rein in SDCs and permit expenses.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Helm_Clackamas%20County%20position%204_1777936583069.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Excerpt verified against pdftotext of the fetched PDF. The PDF carries no date on its pages (file metadata 2026-05-04), so published_at set to null (collector used 2026-05-05). Excerpt confirmed on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "diana-helm-i6",
+      "topic": "immigration",
+      "statement": "Asked in an OPB questionnaire for the May 2026 primary whether Clackamas County should declare itself a sanctuary jurisdiction, Helm answered that the county follows state law and she would defer to County Counsel.",
+      "excerpt": "We are following state law and I would defer to County Counsel to answer this.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Helm_Clackamas%20County%20position%204_1777936583069.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Excerpt verified against pdftotext of the fetched PDF. The PDF carries no date on its pages (file metadata 2026-05-04), so published_at set to null (collector used 2026-05-05). Excerpt confirmed on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "diana-helm-i7",
+      "topic": "labor",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Helm says the county can support workforce affordability through higher-wage job growth, job training programs, and partnerships with local employers and community colleges.",
+      "excerpt": "We can also support workforce affordability by encouraging job growth in higher-wage sectors, investing in job training programs, and partnering with local employers and community colleges.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Helm_Clackamas%20County%20position%204_1777936583069.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Excerpt verified against pdftotext of the fetched PDF. The PDF carries no date on its pages (file metadata 2026-05-04), so published_at set to null (collector used 2026-05-05). Topic fit is loose: answer is about workforce affordability and job training, filed under labor. Excerpt confirmed (answer to the OPB cost-of-living question).",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "diana-helm-i8",
+      "topic": "homelessness",
+      "statement": "In OPB questionnaire answers for the May 2026 primary, Helm says many seniors are near homelessness due to rising costs, and suggests possibly freezing property taxes for people 65 and over within an income range.",
+      "excerpt": "many senior citizens are on the brink of homelessness due to rising costs. Getting ahead of it, potentially by freezing property taxes for those 65 and over within a certain income range",
+      "source": {
+        "url": "https://www.opb.org/pdf/Helm_Clackamas%20County%20position%204_1777936583069.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Excerpt verified against pdftotext of the fetched PDF. The PDF carries no date on its pages (file metadata 2026-05-04), so published_at set to null (collector used 2026-05-05). Excerpt confirmed on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "diana-helm-i9",
+      "topic": "energy",
+      "statement": "OPB reported that at a July 7, 2026 county policy discussion on data centers, Helm said of data centers, \"Well, we can and we should.\"",
+      "excerpt": "\"Just saying 'data center,' people get up in arms — 'Oh, we can't have those here,'\" Helm said during a policy discussion on data centers on July 7. \"Well, we can and we should.\"",
+      "source": {
+        "url": "https://www.opb.org/article/2026/07/07/data-centers-clackamas-county-commissioners-discuss/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2026-07-08",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "neutral_wording",
+          "paraphrase_faithful"
+        ],
+        "note": "Quote is on the page (OPB, 2026-07-08, updated 2026-07-15) but is not a current stance: OPB's 2026-08-05 article reports Helm reversed and now seeks a countywide data-center moratorium through the 2027 session, and her voters' pamphlet says she led the effort for a moratorium on large data centers. Presenting the July line alone as her energy stance would mislead. Not fixable without a new source; the Aug 5 OPB article or the pamphlet could be collected next sweep.",
+        "verified_at": "2026-10-20"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "healthcare: nothing found (2026-10-20)",
+    "addiction-mental-health: nothing found (2026-10-20)",
+    "education: nothing found (2026-10-20)",
+    "childcare: nothing found (2026-10-20)",
+    "gun-policy: nothing found (2026-10-20)",
+    "water: nothing found (2026-10-20)",
+    "wildfire: nothing found (2026-10-20)",
+    "agriculture: nothing found (2026-10-20)",
+    "infrastructure: nothing found (2026-10-20)",
+    "abortion: nothing found (2026-10-20)",
+    "civil-rights: nothing found (2026-10-20)",
+    "elections-democracy: nothing found (2026-10-20)",
+    "veterans: nothing found (2026-10-20)"
+  ],
+  "verification_summary": {
+    "verified": 4,
+    "corrected": 4,
+    "rejected": 1,
+    "balance_notes": "Helm: 9 submitted (4 T2, 5 T3), 8 kept, 1 rejected; 13 issues gapped. Smith: 13 submitted, 11 kept; his campaign site and pamphlet statement cover more topics. Both used the same OPB questionnaire. Difference reflects available material, not unequal effort; Helm has a thinner campaign site and her data-center coverage is a news story, which was superseded."
+  }
+}

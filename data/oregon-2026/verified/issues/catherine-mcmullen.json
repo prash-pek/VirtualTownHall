@@ -1,0 +1,102 @@
+{
+  "id": "catherine-mcmullen",
+  "name": "Catherine McMullen",
+  "race_id": "clackamas-county-clerk",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "catherine-mcmullen-i1",
+      "topic": "elections-democracy",
+      "statement": "On her campaign site, McMullen says elections must be accurate, secure and transparent.",
+      "excerpt": "elections must be accurate, secure, and transparent",
+      "source": {
+        "url": "https://clackamasvoice.org",
+        "publisher": "Catherine McMullen campaign (clackamasvoice.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated campaign page; statement implies no date. Excerpt confirmed on page by fetch 2026-10-20.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "catherine-mcmullen-i2",
+      "topic": "elections-democracy",
+      "statement": "On her campaign site, McMullen lists safe and secure election administration among her accomplishments as clerk.",
+      "excerpt": "Safe and secure election administration",
+      "source": {
+        "url": "https://clackamasvoice.org",
+        "publisher": "Catherine McMullen campaign (clackamasvoice.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated campaign page; statement implies no date. Excerpt confirmed on page by fetch 2026-10-20.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "catherine-mcmullen-i3",
+      "topic": "technology",
+      "statement": "On her campaign site, McMullen lists implementing Track Your Ballot, with 50,000 voters subscribed, among her accomplishments.",
+      "excerpt": "Implementation of Track Your Ballot – 50,000 voters subscribed!",
+      "source": {
+        "url": "https://clackamasvoice.org",
+        "publisher": "Catherine McMullen campaign (clackamasvoice.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated campaign page; statement implies no date. Excerpt confirmed on page by fetch 2026-10-20.",
+        "verified_at": "2026-10-20"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-20)",
+    "cost-of-living: not searched (low coverage) (2026-10-20)",
+    "taxes: nothing found (2026-10-20)",
+    "housing: nothing found (2026-10-20)",
+    "homelessness: nothing found (2026-10-20)",
+    "healthcare: not searched (low coverage) (2026-10-20)",
+    "addiction-mental-health: not searched (low coverage) (2026-10-20)",
+    "education: not searched (low coverage) (2026-10-20)",
+    "childcare: not searched (low coverage) (2026-10-20)",
+    "public-safety: not searched (low coverage) (2026-10-20)",
+    "gun-policy: not searched (low coverage) (2026-10-20)",
+    "environment: not searched (low coverage) (2026-10-20)",
+    "energy: not searched (low coverage) (2026-10-20)",
+    "water: not searched (low coverage) (2026-10-20)",
+    "wildfire: not searched (low coverage) (2026-10-20)",
+    "agriculture: not searched (low coverage) (2026-10-20)",
+    "transportation: not searched (low coverage) (2026-10-20)",
+    "infrastructure: not searched (low coverage) (2026-10-20)",
+    "labor: not searched (low coverage) (2026-10-20)",
+    "local-business: not searched (low coverage) (2026-10-20)",
+    "abortion: not searched (low coverage) (2026-10-20)",
+    "immigration: nothing found (2026-10-20)",
+    "veterans: not searched (low coverage) (2026-10-20)"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "McMullen (incumbent) has 3 T2 items from her campaign site; Reaksecker has 0 (campaign site has no issue content). One spot-search run; no T1/T2 issue material found for either."
+  }
+}

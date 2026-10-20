@@ -1,0 +1,302 @@
+{
+  "id": "rw-smith",
+  "name": "R W Smith",
+  "race_id": "clackamas-county-commissioner-pos-4",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "rw-smith-i1",
+      "topic": "cost-of-living",
+      "statement": "On his campaign site, under reducing costs for working families, Smith says Clackamas needs to be more affordable.",
+      "excerpt": "Clackamas needs to be more affordable.",
+      "source": {
+        "url": "https://friendsofremysmith.org",
+        "publisher": "R.W. Smith campaign (friendsofremysmith.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Undated campaign page; excerpt confirmed on page and domain confirmed in the Nov 3, 2026 Clackamas voters' pamphlet. Thin: a one-line heading statement (\"Clackamas needs to be more affordable\") with no specific policy; kept as a stated priority.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "rw-smith-i2",
+      "topic": "cost-of-living",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Smith says he would push for clearer public accounting of where county costs come from, including utility increases, contracts and capital projects.",
+      "excerpt": "I will push for clearer public accounting of where costs are coming from, including utility increases, service contracts, and capital projects.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Smith_Clackamas%20County%20position%204_1777936706977.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Excerpt verified against pdftotext of the fetched PDF. The PDF carries no date on its pages (file metadata 2026-05-04), so published_at set to null (collector used 2026-05-05). Excerpt confirmed on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "rw-smith-i3",
+      "topic": "homelessness",
+      "statement": "On his campaign site, under ending unsheltered homelessness, Smith says unhoused neighbors must be moved off the streets and into recovery-oriented care.",
+      "excerpt": "We must move unhoused neighbors off our streets and into recovery-oriented care.",
+      "source": {
+        "url": "https://friendsofremysmith.org",
+        "publisher": "R.W. Smith campaign (friendsofremysmith.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated campaign page; excerpt confirmed on page and domain confirmed in the Nov 3, 2026 Clackamas voters' pamphlet. Under \"END UNSHELTERED HOMELESSNESS\".",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "rw-smith-i4",
+      "topic": "homelessness",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Smith says ending unsheltered homelessness requires shelter capacity, behavioral health services, addiction treatment and pathways back into stable housing.",
+      "excerpt": "Ending unsheltered homelessness requires more than one tool. It means shelter capacity, behavioral health services, addiction treatment, and clear pathways back into stable housing.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Smith_Clackamas%20County%20position%204_1777936706977.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Excerpt verified against pdftotext of the fetched PDF. The PDF carries no date on its pages (file metadata 2026-05-04), so published_at set to null (collector used 2026-05-05). Excerpt confirmed on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "rw-smith-i5",
+      "topic": "addiction-mental-health",
+      "statement": "On his campaign site, under ending unsheltered homelessness, Smith says more treatment options and more shelter beds are needed for people experiencing severe addiction and mental health challenges.",
+      "excerpt": "We need more treatment options and more shelter beds for people experiencing severe addiction and mental health challenges.",
+      "source": {
+        "url": "https://friendsofremysmith.org",
+        "publisher": "R.W. Smith campaign (friendsofremysmith.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim"
+        ],
+        "note": "Undated campaign page; excerpt confirmed on page and domain confirmed in the Nov 3, 2026 Clackamas voters' pamphlet. Collector excerpt was truncated; page sentence continues \"and mental health challenges\". Excerpt and statement extended to the full sentence.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "rw-smith-i6",
+      "topic": "energy",
+      "statement": "On his campaign site, in opposing large-scale data centers, Smith says residents should know who pays for them and how they affect local electricity costs and reliability.",
+      "excerpt": "Residents should know who pays for these and how they affect local electricity costs and reliability.",
+      "source": {
+        "url": "https://friendsofremysmith.org",
+        "publisher": "R.W. Smith campaign (friendsofremysmith.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated campaign page; excerpt confirmed on page and domain confirmed in the Nov 3, 2026 Clackamas voters' pamphlet. Under \"OPPOSE LARGE-SCALE DATA CENTERS IN CLACKAMAS COUNTY\".",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "rw-smith-i7",
+      "topic": "water",
+      "statement": "On his campaign site, in opposing large-scale data centers, Smith says the county's water should prioritize families, farms, rivers, fish and future generations over industrial development.",
+      "excerpt": "Clackamas County’s water should prioritize families, farms, rivers, fish, and future generations over industrial development.",
+      "source": {
+        "url": "https://friendsofremysmith.org",
+        "publisher": "R.W. Smith campaign (friendsofremysmith.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "excerpt_verbatim",
+          "paraphrase_faithful"
+        ],
+        "note": "Undated campaign page; excerpt confirmed on page and domain confirmed in the Nov 3, 2026 Clackamas voters' pamphlet. Sentence continues \"over industrial development\"; omitting it changed the meaning. Excerpt and statement extended.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "rw-smith-i8",
+      "topic": "agriculture",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Smith says rural Clackamas has an opportunity to support small-scale food production through targeted tax incentives.",
+      "excerpt": "In rural parts of Clackamas County, there is an opportunity to support small scale food production through targeted tax incentives.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Smith_Clackamas%20County%20position%204_1777936706977.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Excerpt verified against pdftotext of the fetched PDF. The PDF carries no date on its pages (file metadata 2026-05-04), so published_at set to null (collector used 2026-05-05). Excerpt confirmed on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "rw-smith-i9",
+      "topic": "infrastructure",
+      "statement": "On his campaign site, in opposing large-scale data centers, Smith says data centers consume vast amounts of electricity, requiring new substations and infrastructure.",
+      "excerpt": "Data centers consume vast amounts of electricity, requiring new substations and infrastructure.",
+      "source": {
+        "url": "https://friendsofremysmith.org",
+        "publisher": "R.W. Smith campaign (friendsofremysmith.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Undated campaign page; excerpt confirmed on page and domain confirmed in the Nov 3, 2026 Clackamas voters' pamphlet. Loose topic fit: electricity and substation demand from data centers, filed under infrastructure; the energy topic already holds a data-center item.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "rw-smith-i10",
+      "topic": "immigration",
+      "statement": "In answers to an OPB questionnaire for the May 2026 primary, Smith says Clackamas County should be clear that local agencies do not take part in federal immigration enforcement without a judicial warrant.",
+      "excerpt": "I believe Clackamas County should be clear that local agencies do not participate in federal immigration enforcement without a judicial warrant.",
+      "source": {
+        "url": "https://www.opb.org/pdf/Smith_Clackamas%20County%20position%204_1777936706977.pdf",
+        "publisher": "OPB (candidate questionnaire)",
+        "tier": "T3",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Excerpt verified against pdftotext of the fetched PDF. The PDF carries no date on its pages (file metadata 2026-05-04), so published_at set to null (collector used 2026-05-05). Excerpt confirmed on page; attribution, tier and wording checked.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "rw-smith-i11",
+      "topic": "immigration",
+      "statement": "On his campaign site, under keeping the community safe, Smith says the county will stand up for its neighbors while the federal government is targeting immigrants.",
+      "excerpt": "While the federal government is targeting immigrants, we will stand up for our neighbors",
+      "source": {
+        "url": "https://friendsofremysmith.org",
+        "publisher": "R.W. Smith campaign (friendsofremysmith.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Undated campaign page; excerpt confirmed on page and domain confirmed in the Nov 3, 2026 Clackamas voters' pamphlet. Under \"KEEP OUR COMMUNITY SAFE\". \"We\" is the campaign voice; statement attributes it to Smith.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "rw-smith-i12",
+      "topic": "social-services",
+      "statement": "On his campaign site, under keeping the community safe, Smith says he will ensure families have access to the support they need.",
+      "excerpt": "ensure families have access to the support they need",
+      "source": {
+        "url": "https://friendsofremysmith.org",
+        "publisher": "R.W. Smith campaign (friendsofremysmith.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Generic fragment (\"ensure families have access to the support they need\") from the same sentence as rw-smith-i11; no specific social-services position stated. Rejected as not a position.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "rw-smith-i13",
+      "topic": "elections-democracy",
+      "statement": "On his campaign site, Smith says local government should work openly and responsibly for the people it serves.",
+      "excerpt": "the local government should work openly and responsibly for the people it serves.",
+      "source": {
+        "url": "https://friendsofremysmith.org",
+        "publisher": "R.W. Smith campaign (friendsofremysmith.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "topic_fit"
+        ],
+        "note": "Intro line explaining why he is running (\"the local government should work openly and responsibly for the people it serves\"); a general value statement, not a position on elections or democracy. Rejected for topic fit.",
+        "verified_at": "2026-10-20"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "education: nothing found (2026-10-20)",
+    "childcare: nothing found (2026-10-20)",
+    "gun-policy: nothing found (2026-10-20)",
+    "wildfire: nothing found (2026-10-20)",
+    "transportation: nothing found (2026-10-20)",
+    "labor: nothing found (2026-10-20)",
+    "local-business: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 5,
+    "corrected": 6,
+    "rejected": 2,
+    "balance_notes": "Smith: 13 submitted (9 T2, 4 T3), 11 kept (7 T2, 4 T3), 2 rejected; 10 issues gapped. All items are about R.W. Smith, not Tootie Smith. Helm: 9 submitted (4 T2, 5 T3), 8 kept. Same OPB questionnaire for both; Smith's campaign site covers more topics than Helm's, so counts reflect available material, not unequal effort."
+  }
+}

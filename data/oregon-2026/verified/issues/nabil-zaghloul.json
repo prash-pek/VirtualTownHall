@@ -1,0 +1,366 @@
+{
+  "id": "nabil-zaghloul",
+  "name": "Nabil Zaghloul",
+  "race_id": "multnomah-county-commissioner-d2",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "nabil-zaghloul-i1",
+      "topic": "economy",
+      "statement": "In a 2024 Willamette Week interview for Portland City Council District 2, Zaghloul proposed creating 5,000 new jobs in green industries and technology sectors.",
+      "excerpt": "I propose creating 5,000 new jobs in green industries and technology sectors",
+      "source": {
+        "url": "https://www.wweek.com/news/2024/09/25/city-council-entrance-interview-nabil-zaghloul/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2024-09-25",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. WW page names him as Director of Multnomah County's Bienestar de la Familia program, but is dated 2024-09-25 (2024 council race) and does not mention a 2026 candidacy. Low confidence: the link to the 2026 District 2 county candidate rests on the name and job title only.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i2",
+      "topic": "economy",
+      "statement": "In KATU's 2024 Know Your Candidates profile for Portland City Council District 2, Zaghloul proposed targeted economic development initiatives in underserved neighborhoods to create jobs.",
+      "excerpt": "Implement targeted economic development initiatives in underserved neighborhoods to create jobs",
+      "source": {
+        "url": "https://www.katu.com/news/know-your-candidates/nabil-zaghloul-portland-city-council-district-2",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2024-10-16",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "KATU page (2024-10-16) does not name Bienestar de la Familia or a job title; it says only that he has served Multnomah County nearly three decades. Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. Low confidence: identity link to the 2026 candidate is not explicit on the page; statement dates it to the 2024 council run.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i3",
+      "topic": "taxes",
+      "statement": "In OPB's 2024 candidate questionnaire for Portland City Council District 2, Zaghloul wrote \"We are the second highest-taxed municipality behind New York City\" in an answer on taxes; the sentence continues past the excerpt.",
+      "excerpt": "We are the second highest-taxed municipality behind New York City,",
+      "source": {
+        "url": "https://www.opb.org/article/2024/10/01/portland-city-council-nabil-zaghloul-district-2-politics/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-10-02",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "low_confidence"
+        ],
+        "note": "Statement quoted rather than rewritten to \"Portland is\"; the sentence continues (\"so before creating new levies or taxes,\") and the excerpt is a fragment. OPB page (2024-10-02) lists occupation as Director for Social Service Programs at Multnomah County and does not name Bienestar de la Familia. Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. Low confidence: identity link to the 2026 candidate is not explicit on the page; statement dates it to the 2024 council run.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i4",
+      "topic": "housing",
+      "statement": "In KATU's 2024 profile for Portland City Council District 2, Zaghloul said he would look into public housing and incentives to encourage development of new housing.",
+      "excerpt": "I will also look into public housing and incentives to encourage development of new housing",
+      "source": {
+        "url": "https://www.katu.com/news/know-your-candidates/nabil-zaghloul-portland-city-council-district-2",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2024-10-16",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "KATU page (2024-10-16) does not name Bienestar de la Familia or a job title; it says only that he has served Multnomah County nearly three decades. Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. Low confidence: identity link to the 2026 candidate is not explicit on the page; statement dates it to the 2024 council run.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i5",
+      "topic": "housing",
+      "statement": "In a 2024 Willamette Week interview for Portland City Council District 2, Zaghloul proposed investing in affordable housing and youth training programs.",
+      "excerpt": "I’m proposing to invest in affordable housing and youth training programs",
+      "source": {
+        "url": "https://www.wweek.com/news/2024/09/25/city-council-entrance-interview-nabil-zaghloul/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2024-09-25",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. WW page names him as Director of Multnomah County's Bienestar de la Familia program, but is dated 2024-09-25 (2024 council race) and does not mention a 2026 candidacy. Low confidence: the link to the 2026 District 2 county candidate rests on the name and job title only.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i6",
+      "topic": "homelessness",
+      "statement": "In a 2024 Willamette Week interview for Portland City Council District 2, Zaghloul said that when individuals refuse placements and services over and over, the city needs to enforce the law.",
+      "excerpt": "when individuals refuse placements and services over and over and over, I think we need to enforce the law.",
+      "source": {
+        "url": "https://www.wweek.com/news/2024/09/25/city-council-entrance-interview-nabil-zaghloul/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2024-09-25",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "low_confidence"
+        ],
+        "note": "Removed the clause about not targeting the homeless community; it is not in the excerpt and was not checked against the page text. Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. WW page names him as Director of Multnomah County's Bienestar de la Familia program, but is dated 2024-09-25 (2024 council race) and does not mention a 2026 candidacy. Low confidence: the link to the 2026 District 2 county candidate rests on the name and job title only.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i7",
+      "topic": "homelessness",
+      "statement": "In KATU's 2024 profile for Portland City Council District 2, Zaghloul said he would continue the work begun on safe rest villages and expand the program.",
+      "excerpt": "I will continue the work already begun on the safe rest villages, expanding the program",
+      "source": {
+        "url": "https://www.katu.com/news/know-your-candidates/nabil-zaghloul-portland-city-council-district-2",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2024-10-16",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "KATU page (2024-10-16) does not name Bienestar de la Familia or a job title; it says only that he has served Multnomah County nearly three decades. Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. Low confidence: identity link to the 2026 candidate is not explicit on the page; statement dates it to the 2024 council run.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i8",
+      "topic": "addiction-mental-health",
+      "statement": "In KATU's 2024 profile for Portland City Council District 2, Zaghloul said his approach would include addiction centers, health clinics and counseling programs.",
+      "excerpt": "This will include addiction centers, health clinics, counseling programs and so much more.",
+      "source": {
+        "url": "https://www.katu.com/news/know-your-candidates/nabil-zaghloul-portland-city-council-district-2",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2024-10-16",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "KATU page (2024-10-16) does not name Bienestar de la Familia or a job title; it says only that he has served Multnomah County nearly three decades. Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. Low confidence: identity link to the 2026 candidate is not explicit on the page; statement dates it to the 2024 council run.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i9",
+      "topic": "education",
+      "statement": "In KATU's 2024 profile for Portland City Council District 2, Zaghloul said the city needs to support the next generation with education and training.",
+      "excerpt": "We need to support the next generation of Portlanders with the education and training they need to be successful.",
+      "source": {
+        "url": "https://www.katu.com/news/know-your-candidates/nabil-zaghloul-portland-city-council-district-2",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2024-10-16",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "KATU page (2024-10-16) does not name Bienestar de la Familia or a job title; it says only that he has served Multnomah County nearly three decades. Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. Low confidence: identity link to the 2026 candidate is not explicit on the page; statement dates it to the 2024 council run.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i10",
+      "topic": "public-safety",
+      "statement": "In a 2024 Willamette Week interview for Portland City Council District 2, Zaghloul said he supports increasing police capacity to ensure public safety.",
+      "excerpt": "Police presence deters crime activities. I am in support of increasing the capacity of police to ensure public safety and protection.",
+      "source": {
+        "url": "https://www.wweek.com/news/2024/09/25/city-council-entrance-interview-nabil-zaghloul/",
+        "publisher": "Willamette Week",
+        "tier": "T3",
+        "published_at": "2024-09-25",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. WW page names him as Director of Multnomah County's Bienestar de la Familia program, but is dated 2024-09-25 (2024 council race) and does not mention a 2026 candidacy. Low confidence: the link to the 2026 District 2 county candidate rests on the name and job title only.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i11",
+      "topic": "public-safety",
+      "statement": "In OPB's 2024 candidate questionnaire for Portland City Council District 2, Zaghloul wrote that public safety is his top priority.",
+      "excerpt": "Public safety is my top priority.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/10/01/portland-city-council-nabil-zaghloul-district-2-politics/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-10-02",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "OPB page (2024-10-02) lists occupation as Director for Social Service Programs at Multnomah County and does not name Bienestar de la Familia. Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. Low confidence: identity link to the 2026 candidate is not explicit on the page; statement dates it to the 2024 council run.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i12",
+      "topic": "environment",
+      "statement": "In OPB's 2024 candidate questionnaire for Portland City Council District 2, Zaghloul wrote that climate change is a real existential crisis that needs to be addressed.",
+      "excerpt": "Climate change is a real existential crisis that we need to address yesterday.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/10/01/portland-city-council-nabil-zaghloul-district-2-politics/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-10-02",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "OPB page (2024-10-02) lists occupation as Director for Social Service Programs at Multnomah County and does not name Bienestar de la Familia. Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. Low confidence: identity link to the 2026 candidate is not explicit on the page; statement dates it to the 2024 council run.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i13",
+      "topic": "transportation",
+      "statement": "In OPB's 2024 candidate questionnaire for Portland City Council District 2, Zaghloul wrote that he would prioritize improved surfacing of existing degraded lanes for all users.",
+      "excerpt": "I would prioritize improved surfacing of existing degraded lanes for all users.",
+      "source": {
+        "url": "https://www.opb.org/article/2024/10/01/portland-city-council-nabil-zaghloul-district-2-politics/",
+        "publisher": "OPB",
+        "tier": "T3",
+        "published_at": "2024-10-02",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "OPB page (2024-10-02) lists occupation as Director for Social Service Programs at Multnomah County and does not name Bienestar de la Familia. Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. Low confidence: identity link to the 2026 candidate is not explicit on the page; statement dates it to the 2024 council run.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i14",
+      "topic": "infrastructure",
+      "statement": "In KATU's 2024 profile for Portland City Council District 2, Zaghloul said Portland needs more housing, well maintained infrastructure and a feeling of safety.",
+      "excerpt": "we need more housing, well maintained infrastructure, and a feeling of safety.",
+      "source": {
+        "url": "https://www.katu.com/news/know-your-candidates/nabil-zaghloul-portland-city-council-district-2",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2024-10-16",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "KATU page (2024-10-16) does not name Bienestar de la Familia or a job title; it says only that he has served Multnomah County nearly three decades. Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. Low confidence: identity link to the 2026 candidate is not explicit on the page; statement dates it to the 2024 council run.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "nabil-zaghloul-i15",
+      "topic": "local-business",
+      "statement": "In KATU's 2024 profile for Portland City Council District 2, Zaghloul said efforts should focus on supporting small businesses through policies that streamline the permitting process.",
+      "excerpt": "we need to focus efforts on supporting small businesses through policies that streamline the permitting process",
+      "source": {
+        "url": "https://www.katu.com/news/know-your-candidates/nabil-zaghloul-portland-city-council-district-2",
+        "publisher": "KATU",
+        "tier": "T3",
+        "published_at": "2024-10-16",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [
+          "low_confidence"
+        ],
+        "note": "KATU page (2024-10-16) does not name Bienestar de la Familia or a job title; it says only that he has served Multnomah County nearly three decades. Identity: the 2026 Portland Mercury candidate profile (already in the candidate file) says Zaghloul directs Multnomah County's Bienestar de la Familia program. Low confidence: identity link to the 2026 candidate is not explicit on the page; statement dates it to the 2024 council run.",
+        "verified_at": "2026-10-20"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "cost-of-living: nothing found (2026-10-20)",
+    "healthcare: nothing found (2026-10-20)",
+    "childcare: nothing found (2026-10-20)",
+    "gun-policy: nothing found (2026-10-20)",
+    "energy: nothing found (2026-10-20)",
+    "water: nothing found (2026-10-20)",
+    "wildfire: nothing found (2026-10-20)",
+    "agriculture: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 13,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Race multnomah-county-commissioner-d2 swept 2026-10-20 with one issue list. Items: Williams 1 (T3), Broussard 0, Greene 1 (rejected), Zaghloul 15 (T3, all from 2024 council race), Ong Norris 0, Cruz 11 (T2), Robertson 4 (T2). Counts reflect what exists online (Cruz and Zaghloul have full issue pages or 2024 questionnaires); Broussard, Ong Norris and Greene had little or nothing findable."
+  }
+}
