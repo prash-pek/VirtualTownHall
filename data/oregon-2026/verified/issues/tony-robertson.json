@@ -1,0 +1,117 @@
+{
+  "id": "tony-robertson",
+  "name": "Tony Robertson",
+  "race_id": "multnomah-county-commissioner-d2",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "tony-robertson-i1",
+      "topic": "homelessness",
+      "statement": "On his campaign priorities page, under housing and homelessness, Robertson says the homelessness and housing emergency has gone on for too long.",
+      "excerpt": "The homelessness and housing emergency has been going on for too long.",
+      "source": {
+        "url": "https://www.tonyrobertson.org/priorities",
+        "publisher": "Tony Robertson campaign site (tonyrobertson.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Heading on page is \"move forward on housing & homelessness\"; excerpt present. Page does not name Multnomah County or District 2; campaign domain confirmed via the County voters' pamphlet statement (T1). Undated page.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "tony-robertson-i2",
+      "topic": "economy",
+      "statement": "On his campaign priorities page, under strengthening the economy, Robertson says it is hard to get a job.",
+      "excerpt": "It's hard to get a job.",
+      "source": {
+        "url": "https://www.tonyrobertson.org/priorities",
+        "publisher": "Tony Robertson campaign site (tonyrobertson.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim on his campaign priorities page; statement says only what the page says. Page does not name Multnomah County or District 2; domain confirmed via the County voters' pamphlet statement (T1). Undated page.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "tony-robertson-i3",
+      "topic": "cost-of-living",
+      "statement": "On his campaign priorities page, under strengthening the economy, Robertson says life is very expensive right now.",
+      "excerpt": "life is so expensive right now.",
+      "source": {
+        "url": "https://www.tonyrobertson.org/priorities",
+        "publisher": "Tony Robertson campaign site (tonyrobertson.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim on his campaign priorities page; statement says only what the page says. Page does not name Multnomah County or District 2; domain confirmed via the County voters' pamphlet statement (T1). Undated page.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "tony-robertson-i4",
+      "topic": "addiction-mental-health",
+      "statement": "On his campaign priorities page, under maximizing access to behavioral health services, Robertson says many neighbors are experiencing behavioral health crises every day.",
+      "excerpt": "Many of our neighbors living inside and outside are experiencing behavioral health crises every day.",
+      "source": {
+        "url": "https://www.tonyrobertson.org/priorities",
+        "publisher": "Tony Robertson campaign site (tonyrobertson.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [],
+        "note": "Reworded the section reference to match the page heading (\"maximize access to behavioral health services\"). Excerpt present. Domain confirmed via pamphlet (T1); page does not name the county or district.",
+        "verified_at": "2026-10-20"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "public-safety: nothing found (2026-10-20)",
+    "childcare: nothing found (2026-10-20)",
+    "civil-rights: nothing found (2026-10-20)",
+    "transportation: nothing found (2026-10-20)",
+    "education: nothing found (2026-10-20)",
+    "labor: nothing found (2026-10-20)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 1,
+    "rejected": 0,
+    "balance_notes": "Race multnomah-county-commissioner-d2 swept 2026-10-20 with one issue list. Items: Williams 1 (T3), Broussard 0, Greene 1 (rejected), Zaghloul 15 (T3, all from 2024 council race), Ong Norris 0, Cruz 11 (T2), Robertson 4 (T2). Counts reflect what exists online (Cruz and Zaghloul have full issue pages or 2024 questionnaires); Broussard, Ong Norris and Greene had little or nothing findable."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "herman-greene",
+  "name": "Herman Greene",
+  "race_id": "multnomah-county-commissioner-d2",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "herman-greene-i1",
+      "topic": "gun-policy",
+      "statement": "In a September 2026 Portland Mercury candidate Q&A, Greene says he has worked in violence prevention and stood with families affected by gun violence and crisis.",
+      "excerpt": "standing with families impacted by gun violence and crisis.",
+      "source": {
+        "url": "https://www.portlandmercury.com/election-2026/meet-the-multnomah-county-commissioner-candidates-for-district-2/",
+        "publisher": "Portland Mercury",
+        "tier": "T3",
+        "published_at": "2026-09-26",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "rejected",
+        "checks_failed": [
+          "paraphrase_faithful"
+        ],
+        "note": "Quote is present (Portland Mercury, 2026-09-26): \"I have spent years working in violence prevention, supporting young people, and standing with families impacted by gun violence and crisis.\" It describes his past work, not a stated gun-policy position, and the page gives no gun-policy stance. Not fixable without a new source.",
+        "verified_at": "2026-10-20"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-20)",
+    "cost-of-living: nothing found (2026-10-20)",
+    "taxes: not searched (low coverage)",
+    "healthcare: nothing found (2026-10-20)",
+    "addiction-mental-health: nothing found (2026-10-20)",
+    "education: nothing found (2026-10-20)",
+    "childcare: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)",
+    "Early stop: 6 consecutive searches (2026-10-20) returned nothing about Greene; remaining issues not searched"
+  ],
+  "verification_summary": {
+    "verified": 0,
+    "corrected": 0,
+    "rejected": 1,
+    "balance_notes": "Race multnomah-county-commissioner-d2 swept 2026-10-20 with one issue list. Items: Williams 1 (T3), Broussard 0, Greene 1 (rejected), Zaghloul 15 (T3, all from 2024 council race), Ong Norris 0, Cruz 11 (T2), Robertson 4 (T2). Counts reflect what exists online (Cruz and Zaghloul have full issue pages or 2024 questionnaires); Broussard, Ong Norris and Greene had little or nothing findable."
+  }
+}
