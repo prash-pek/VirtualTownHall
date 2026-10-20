@@ -1,0 +1,62 @@
+{
+  "id": "james-rhodes",
+  "name": "James Rhodes",
+  "race_id": "clackamas-county-sheriff",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "james-rhodes-i1",
+      "topic": "addiction-mental-health",
+      "statement": "On his campaign plan page, Rhodes says he would target fentanyl dealers and commercial drug traffickers while supporting programs that reduce crime and recidivism.",
+      "excerpt": "Target fentanyl dealers and commercial drug traffickers while supporting programs that actually reduce crime and recidivism.",
+      "source": {
+        "url": "https://www.electsheriffrhodes.com/theplan",
+        "publisher": "Elect Sheriff Rhodes campaign site (electsheriffrhodes.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt confirmed verbatim under 'Hard Drugs Off Our Streets'. Page names James Rhodes, Sheriff, Clackamas County; no year shown (only 'Election Day is November 3'), consistent with the 2026 race. Undated page.",
+        "verified_at": "2026-10-20"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "homelessness: nothing found (2026-10-20)",
+    "immigration: nothing found (2026-10-20)",
+    "gun-policy: nothing found (2026-10-20)",
+    "wildfire: nothing found (2026-10-20)",
+    "elections-democracy: nothing found (2026-10-20)",
+    "economy: not searched (low coverage)",
+    "cost-of-living: not searched (low coverage)",
+    "housing: not searched (low coverage)",
+    "healthcare: not searched (low coverage)",
+    "education: not searched (low coverage)",
+    "childcare: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "verification_summary": {
+    "verified": 1,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Sheriff race swept 2026-10-20. Rhodes: 1 T2 item. O'Neil: 0 items because his campaign site returned only a bot-check page (not bypassed). Gap is access-driven; effort not equal."
+  }
+}
