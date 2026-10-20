@@ -1,0 +1,257 @@
+{
+  "id": "tony-robertson",
+  "name": "Tony Robertson",
+  "race_id": "multnomah-county-commissioner-d2",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "tony-robertson-i1",
+      "topic": "homelessness",
+      "statement": "On his campaign priorities page, under housing and homelessness, Robertson says the homelessness and housing emergency has gone on for too long.",
+      "excerpt": "The homelessness and housing emergency has been going on for too long.",
+      "source": {
+        "url": "https://www.tonyrobertson.org/priorities",
+        "publisher": "Tony Robertson campaign site (tonyrobertson.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20"
+    },
+    {
+      "id": "tony-robertson-i2",
+      "topic": "economy",
+      "statement": "On his campaign priorities page, under strengthening the economy, Robertson says it is hard to get a job.",
+      "excerpt": "It's hard to get a job.",
+      "source": {
+        "url": "https://www.tonyrobertson.org/priorities",
+        "publisher": "Tony Robertson campaign site (tonyrobertson.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20"
+    },
+    {
+      "id": "tony-robertson-i3",
+      "topic": "cost-of-living",
+      "statement": "On his campaign priorities page, under strengthening the economy, Robertson says life is very expensive right now.",
+      "excerpt": "life is so expensive right now.",
+      "source": {
+        "url": "https://www.tonyrobertson.org/priorities",
+        "publisher": "Tony Robertson campaign site (tonyrobertson.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20"
+    },
+    {
+      "id": "tony-robertson-i4",
+      "topic": "addiction-mental-health",
+      "statement": "On his campaign priorities page, under behavioral health access, Robertson says many neighbors are experiencing behavioral health crises every day.",
+      "excerpt": "Many of our neighbors living inside and outside are experiencing behavioral health crises every day.",
+      "source": {
+        "url": "https://www.tonyrobertson.org/priorities",
+        "publisher": "Tony Robertson campaign site (tonyrobertson.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "public-safety: nothing found (2026-10-20)",
+    "childcare: nothing found (2026-10-20)",
+    "civil-rights: nothing found (2026-10-20)",
+    "transportation: nothing found (2026-10-20)",
+    "education: nothing found (2026-10-20)",
+    "labor: nothing found (2026-10-20)",
+    "gun-policy: not searched (low coverage)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "agriculture: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: not searched (low coverage)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign-site",
+      "query_or_url": "https://www.tonyrobertson.org and /priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "already covered (p1)",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "already covered (p3)",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "healthcare",
+      "query_or_url": "already covered (p2)",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "local-business",
+      "query_or_url": "already covered (p4)",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "social-services",
+      "query_or_url": "already covered (p5)",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "https://www.tonyrobertson.org/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "https://www.tonyrobertson.org/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "cost-of-living",
+      "query_or_url": "https://www.tonyrobertson.org/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "https://www.tonyrobertson.org/priorities",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "\"Tony Robertson\" Multnomah County Commissioner Oregon public safety police crime",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "childcare",
+      "query_or_url": "\"Tony Robertson\" Multnomah County Commissioner Oregon child care",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights",
+      "query_or_url": "\"Tony Robertson\" Multnomah County Commissioner Oregon civil rights",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "transportation",
+      "query_or_url": "\"Tony Robertson\" Multnomah County Commissioner Oregon transportation roads transit",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "education",
+      "query_or_url": "\"Tony Robertson\" Multnomah County Commissioner Oregon education schools",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "labor",
+      "query_or_url": "\"Tony Robertson\" Multnomah County Commissioner Oregon workers wages unions",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "environment",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "energy",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "water",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "agriculture",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "infrastructure",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "technology",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "abortion",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "veterans",
+      "query_or_url": "not searched (early stop after 6 searches in a row with nothing usable)",
+      "result": "nothing relevant"
+    }
+  ]
+}
