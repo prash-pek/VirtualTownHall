@@ -1,0 +1,122 @@
+{
+  "id": "steve-callaway",
+  "name": "Steve Callaway",
+  "race_id": "washington-county-commissioner-d4",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "steve-callaway-i1",
+      "topic": "local-business",
+      "statement": "The Banks Post reported in May 2026 that Callaway said small businesses are the heart and soul of their communities.",
+      "excerpt": "our small businesses are the heart and soul of our communities",
+      "source": {
+        "url": "https://www.bankspost.com/steve-callaway-seeks-washington-county-district-4-seat/",
+        "publisher": "The Banks Post (Chas Hundley, \"Steve Callaway seeks Washington County District 4 seat\")",
+        "tier": "T3",
+        "published_at": "2026-05-09",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim on the cited page.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "steve-callaway-i2",
+      "topic": "water",
+      "statement": "The Banks Post reported in May 2026 that Callaway named a low-income Clean Water Services rate as a priority and said the county needs to begin to take real actions to provide some relief.",
+      "excerpt": "begin to take real actions to provide some relief",
+      "source": {
+        "url": "https://www.bankspost.com/steve-callaway-seeks-washington-county-district-4-seat/",
+        "publisher": "The Banks Post (Chas Hundley, \"Steve Callaway seeks Washington County District 4 seat\")",
+        "tier": "T3",
+        "published_at": "2026-05-09",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "low_confidence"
+        ],
+        "note": "Quote is direct Callaway speech, but the page ties it to residents being squeezed; the link to Clean Water Services is the reporter's context (priority: a low-income rate for CWS customers struggling to pay bills). Statement reworded to separate the reporter's description from the quote and to drop 'give relief to low-income customers' as his words. Context read via WebFetch summary, so kept low_confidence.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "steve-callaway-i3",
+      "topic": "elections-democracy",
+      "statement": "The Banks Post reported in May 2026 that Callaway, discussing Clean Water Services, said it did not feel like there was a lot of transparency or accountability with what the agency was doing.",
+      "excerpt": "it didn't feel like there was a lot of transparency or accountability with what they were doing",
+      "source": {
+        "url": "https://www.bankspost.com/steve-callaway-seeks-washington-county-district-4-seat/",
+        "publisher": "The Banks Post (Chas Hundley, \"Steve Callaway seeks Washington County District 4 seat\")",
+        "tier": "T3",
+        "published_at": "2026-05-09",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "corrected",
+        "checks_failed": [
+          "paraphrase_faithful",
+          "low_confidence"
+        ],
+        "note": "Quote present as direct Callaway speech, said in criticism of Clean Water Services after he cited former chair Andy Duyck as a model of transparency. Removed 'a concern behind his interest in county government', which the page text as read does not support. Topic 'elections-democracy' is a loose fit (agency transparency). Antecedent of 'they' read via WebFetch summary.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "steve-callaway-i4",
+      "topic": "infrastructure",
+      "statement": "The Banks Post reported in May 2026 that Callaway said the Washington County Courthouse is a hundred years old and does not serve current needs.",
+      "excerpt": "Our courthouse is a hundred years old, one of the oldest in the state, and it does not serve for the current needs of 2026,",
+      "source": {
+        "url": "https://www.bankspost.com/steve-callaway-seeks-washington-county-district-4-seat/",
+        "publisher": "The Banks Post (Chas Hundley, \"Steve Callaway seeks Washington County District 4 seat\")",
+        "tier": "T3",
+        "published_at": "2026-05-09",
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim on the cited page.",
+        "verified_at": "2026-10-20"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "homelessness: nothing found (2026-10-20)",
+    "public-safety: nothing found (2026-10-20)",
+    "transportation: nothing found (2026-10-20)",
+    "education: nothing found (2026-10-20)",
+    "healthcare: nothing found (2026-10-20)",
+    "cost-of-living: nothing found (2026-10-20)",
+    "environment: nothing found (2026-10-20)",
+    "addiction-mental-health: not searched (low coverage)",
+    "childcare: not searched (low coverage)",
+    "gun-policy: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "wildfire: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "civil-rights: not searched (low coverage)",
+    "veterans: not searched (low coverage)",
+    "campaign site electstevecallaway.com returned empty content to WebFetch (2026-10-20)"
+  ],
+  "verification_summary": {
+    "verified": 2,
+    "corrected": 2,
+    "rejected": 0,
+    "balance_notes": "Race washington-county-commissioner-d4. Callaway: 4 new items (all T3, one Banks Post article); campaign site returned empty to WebFetch; 17 gaps incl. 10 'not searched (low coverage)'. Sinclair has 9 T2 items from her site."
+  }
+}

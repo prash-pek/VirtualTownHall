@@ -1,0 +1,96 @@
+{
+  "id": "pam-treece",
+  "name": "Pam Treece",
+  "race_id": "washington-county-commissioner-at-large",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "pam-treece-i1",
+      "topic": "homelessness",
+      "statement": "On her campaign site, Treece says she supports new shelters and expanded services for people experiencing homelessness and housing instability.",
+      "excerpt": "Pam is supporting new shelters and expanded services to help those experiencing homelessness and housing instability.",
+      "source": {
+        "url": "https://www.pamforwashingtoncounty.com",
+        "publisher": "Pam Treece campaign site (pamforwashingtoncounty.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim on the cited page. Undated page; statement implies no date.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "pam-treece-i2",
+      "topic": "local-business",
+      "statement": "On her campaign site, Treece says she will use her local economic development expertise to support local businesses and jobs.",
+      "excerpt": "Pam will use her expertise in local economic development to support our local businesses and jobs.",
+      "source": {
+        "url": "https://www.pamforwashingtoncounty.com",
+        "publisher": "Pam Treece campaign site (pamforwashingtoncounty.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim on the cited page. Undated page; statement implies no date.",
+        "verified_at": "2026-10-20"
+      }
+    },
+    {
+      "id": "pam-treece-i3",
+      "topic": "civil-rights",
+      "statement": "On her campaign site, Treece describes herself as a champion for celebrating the diversity of Washington County.",
+      "excerpt": "Pam is a champion for celebrating the incredible diversity of our county",
+      "source": {
+        "url": "https://www.pamforwashingtoncounty.com",
+        "publisher": "Pam Treece campaign site (pamforwashingtoncounty.com)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20",
+      "verification": {
+        "status": "verified",
+        "checks_failed": [],
+        "note": "Excerpt present verbatim on the cited page. Undated page; statement implies no date.",
+        "verified_at": "2026-10-20"
+      }
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "environment: not searched (low coverage) (2026-10-20)",
+    "energy: not searched (low coverage) (2026-10-20)",
+    "water: not searched (low coverage) (2026-10-20)",
+    "wildfire: not searched (low coverage) (2026-10-20)",
+    "agriculture: not searched (low coverage) (2026-10-20)",
+    "infrastructure: not searched (low coverage) (2026-10-20)",
+    "labor: not searched (low coverage) (2026-10-20)",
+    "social-services: not searched (low coverage) (2026-10-20)",
+    "abortion: not searched (low coverage) (2026-10-20)",
+    "elections-democracy: not searched (low coverage) (2026-10-20)",
+    "veterans: not searched (low coverage) (2026-10-20)",
+    "cost-of-living: nothing found (2026-10-20)",
+    "healthcare: nothing found (2026-10-20)",
+    "addiction-mental-health: nothing found (2026-10-20)",
+    "education: nothing found (2026-10-20)",
+    "childcare: nothing found (2026-10-20)",
+    "gun-policy: nothing found (2026-10-20)"
+  ],
+  "verification_summary": {
+    "verified": 3,
+    "corrected": 0,
+    "rejected": 0,
+    "balance_notes": "Race washington-county-commissioner-at-large. Treece: 3 new items (all T2, one-page campaign site); 17 issues gapped, 11 of them 'not searched (low coverage)', so search depth was less than for Fai (12 items). A later sweep should cover her."
+  }
+}
