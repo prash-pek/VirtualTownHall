@@ -1,0 +1,146 @@
+{
+  "id": "catherine-mcmullen",
+  "name": "Catherine McMullen",
+  "race_id": "clackamas-county-clerk",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [
+    {
+      "id": "catherine-mcmullen-i1",
+      "topic": "elections-democracy",
+      "statement": "On her campaign site, McMullen says elections must be accurate, secure and transparent.",
+      "excerpt": "elections must be accurate, secure, and transparent",
+      "source": {
+        "url": "https://clackamasvoice.org",
+        "publisher": "Catherine McMullen campaign (clackamasvoice.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20"
+    },
+    {
+      "id": "catherine-mcmullen-i2",
+      "topic": "elections-democracy",
+      "statement": "On her campaign site, McMullen lists safe and secure election administration among her accomplishments as clerk.",
+      "excerpt": "Safe and secure election administration",
+      "source": {
+        "url": "https://clackamasvoice.org",
+        "publisher": "Catherine McMullen campaign (clackamasvoice.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20"
+    },
+    {
+      "id": "catherine-mcmullen-i3",
+      "topic": "technology",
+      "statement": "On her campaign site, McMullen lists implementing Track Your Ballot, with 50,000 voters subscribed, among her accomplishments.",
+      "excerpt": "Implementation of Track Your Ballot – 50,000 voters subscribed!",
+      "source": {
+        "url": "https://clackamasvoice.org",
+        "publisher": "Catherine McMullen campaign (clackamasvoice.org)",
+        "tier": "T2",
+        "published_at": null,
+        "retrieved_at": "2026-10-20"
+      },
+      "swept_at": "2026-10-20"
+    }
+  ],
+  "voting_record": [],
+  "gaps": [
+    "economy: nothing found (2026-10-20)",
+    "cost-of-living: not searched (low coverage) (2026-10-20)",
+    "taxes: nothing found (2026-10-20)",
+    "housing: nothing found (2026-10-20)",
+    "homelessness: nothing found (2026-10-20)",
+    "healthcare: not searched (low coverage) (2026-10-20)",
+    "addiction-mental-health: not searched (low coverage) (2026-10-20)",
+    "education: not searched (low coverage) (2026-10-20)",
+    "childcare: not searched (low coverage) (2026-10-20)",
+    "public-safety: not searched (low coverage) (2026-10-20)",
+    "gun-policy: not searched (low coverage) (2026-10-20)",
+    "environment: not searched (low coverage) (2026-10-20)",
+    "energy: not searched (low coverage) (2026-10-20)",
+    "water: not searched (low coverage) (2026-10-20)",
+    "wildfire: not searched (low coverage) (2026-10-20)",
+    "agriculture: not searched (low coverage) (2026-10-20)",
+    "transportation: not searched (low coverage) (2026-10-20)",
+    "infrastructure: not searched (low coverage) (2026-10-20)",
+    "labor: not searched (low coverage) (2026-10-20)",
+    "local-business: not searched (low coverage) (2026-10-20)",
+    "abortion: not searched (low coverage) (2026-10-20)",
+    "immigration: nothing found (2026-10-20)",
+    "veterans: not searched (low coverage) (2026-10-20)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign issues page",
+      "query_or_url": "https://clackamasvoice.org",
+      "result": "used"
+    },
+    {
+      "step": "2",
+      "issue": "civil-rights, social-services",
+      "query_or_url": "verified/candidates/catherine-mcmullen.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "\"Catherine McMullen\" Clackamas County Clerk Oregon elections voting ethics",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "economy",
+      "query_or_url": "\"Catherine McMullen\" Clackamas County Clerk Oregon economy jobs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "\"Catherine McMullen\" Clackamas County Clerk Oregon taxes",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "housing",
+      "query_or_url": "\"Catherine McMullen\" Clackamas County Clerk Oregon housing rent",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "technology",
+      "query_or_url": "\"Catherine McMullen\" Clackamas County Clerk Oregon technology artificial intelligence",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "\"Catherine McMullen\" Clackamas County Clerk Oregon immigration",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Catherine McMullen\" Clackamas County Clerk Oregon homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "elections-democracy",
+      "query_or_url": "https://apps.oregonlegislature.gov/liz/2025R1/Downloads/PublicTestimonyDocument/121592",
+      "result": "nothing relevant (PDF unreadable via WebFetch)"
+    },
+    {
+      "step": "2",
+      "issue": "remaining local issues",
+      "query_or_url": "early stop after 6 searches in a row with nothing usable",
+      "result": "not searched (low coverage)"
+    }
+  ]
+}
