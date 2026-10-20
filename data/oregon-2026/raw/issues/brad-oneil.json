@@ -1,0 +1,105 @@
+{
+  "id": "brad-oneil",
+  "name": "Brad O'Neil",
+  "race_id": "clackamas-county-sheriff",
+  "sweeps": [
+    "2026-10-20"
+  ],
+  "positions": [],
+  "voting_record": [],
+  "gaps": [
+    "economy: not searched (low coverage)",
+    "cost-of-living: not searched (low coverage)",
+    "housing: not searched (low coverage)",
+    "homelessness: nothing found (2026-10-20)",
+    "healthcare: not searched (low coverage)",
+    "addiction-mental-health: nothing found (2026-10-20)",
+    "education: not searched (low coverage)",
+    "childcare: not searched (low coverage)",
+    "gun-policy: nothing found (2026-10-20)",
+    "environment: not searched (low coverage)",
+    "energy: not searched (low coverage)",
+    "water: not searched (low coverage)",
+    "wildfire: nothing found (2026-10-20)",
+    "agriculture: not searched (low coverage)",
+    "transportation: not searched (low coverage)",
+    "infrastructure: not searched (low coverage)",
+    "technology: not searched (low coverage)",
+    "labor: not searched (low coverage)",
+    "local-business: not searched (low coverage)",
+    "social-services: not searched (low coverage)",
+    "abortion: not searched (low coverage)",
+    "immigration: nothing found (2026-10-20)",
+    "civil-rights: not searched (low coverage)",
+    "elections-democracy: not searched (low coverage)",
+    "veterans: nothing found (2026-10-20)"
+  ],
+  "collection_log": [
+    {
+      "step": "1",
+      "issue": "campaign",
+      "query_or_url": "https://www.oneilforsheriff.com",
+      "result": "blocked"
+    },
+    {
+      "step": "2",
+      "issue": "public-safety",
+      "query_or_url": "existing items in verified/candidates/brad-oneil.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "taxes",
+      "query_or_url": "existing items in verified/candidates/brad-oneil.json",
+      "result": "already covered"
+    },
+    {
+      "step": "2",
+      "issue": "homelessness",
+      "query_or_url": "\"Brad O'Neil\" Clackamas County sheriff Oregon homelessness",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "addiction-mental-health",
+      "query_or_url": "\"Brad O'Neil\" Clackamas County sheriff Oregon addiction mental health drugs",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "immigration",
+      "query_or_url": "\"Brad O'Neil\" Clackamas County sheriff Oregon immigration ICE",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "gun-policy",
+      "query_or_url": "\"Brad O'Neil\" Clackamas County sheriff Oregon guns firearms",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "wildfire",
+      "query_or_url": "\"Brad O'Neil\" Clackamas County sheriff Oregon wildfire forests",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "veterans",
+      "query_or_url": "\"Brad O'Neil\" Clackamas County sheriff Oregon veterans",
+      "result": "nothing relevant"
+    },
+    {
+      "step": "2",
+      "issue": "(all)",
+      "query_or_url": "https://www.opb.org/article/2026/10/09/clackamas-county-sheriff-office-veterans-vie-for-top-position/",
+      "result": "nothing relevant (only levy/budget/board items, already covered)"
+    },
+    {
+      "step": "2",
+      "issue": "(all)",
+      "query_or_url": "https://onyourballot.vote411.org/race-detail.do?id=6727580",
+      "result": "nothing relevant (O'Neil has not responded)"
+    }
+  ]
+}
