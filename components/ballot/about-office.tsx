@@ -1,3 +1,4 @@
+import { Citation } from "@/components/ballot/sourced";
 import type { OfficeDescription } from "@/lib/ballot/offices";
 import type { Incumbency } from "@/lib/ballot/incumbency";
 
@@ -49,13 +50,10 @@ export function AboutOffice({
   return (
     <section aria-label="About this office" className="flex max-w-3xl flex-col gap-2 border-l-2 border-gold pl-4">
       {description && (
-        <>
-          <p className="text-[15px] leading-relaxed text-ink-soft">{description.text}</p>
-          <p className="note">
-            A general description of this kind of office, not this seat in particular. Source:{" "}
-            <ExternalLink href={description.sourceUrl}>{description.sourceName}</ExternalLink>
-          </p>
-        </>
+        <p className="text-[15px] leading-relaxed text-ink-soft">
+          {description.text}{" "}
+          <Citation excerpt={null} publisher={description.sourceName} sourceUrl={description.sourceUrl} />
+        </p>
       )}
       {incumbency && (
         <p className="text-[15px] text-ink-soft">

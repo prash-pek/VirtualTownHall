@@ -123,28 +123,39 @@ export function WalkPosition({ itemKey }: { itemKey: BallotKey }) {
   );
 }
 
-/** "Your call": the voter picks; nothing is preselected. Stored in this browser only. */
+/**
+ * "Your call": the voter picks; nothing is preselected. Stored in this browser only. A confirmed ranked-choice
+ * race opens on ranking (`ranking`), with "Pick one instead" for voters who only want to note one name.
+ */
 export function YourChoice({
   itemKey,
   label,
   options,
+  ranking,
   children,
 }: {
   itemKey: BallotKey;
   label: string;
   options: Option[];
-  /** Extra controls inside the box, e.g. the race shortlist. */
+  /** The ranking control, only for ranked-choice races. Shown instead of the one-pick list by default. */
+  ranking?: React.ReactNode;
+  /** Extra controls inside the box when picking one, e.g. the race shortlist. */
   children?: React.ReactNode;
 }) {
   const [choice, setChoice] = useState<Choice | null>(null);
   const [saved, setSaved] = useState(false);
   const [ballot, setBallot] = useState<BallotKey[]>([]);
+  const [mode, setMode] = useState<"rank" | "pick">(ranking ? "rank" : "pick");
   useEffect(() => {
     void Promise.resolve([readChoices()[itemKey] ?? null, readBallot()] as const).then(([c, b]) => {
       setChoice(c);
       setBallot(b);
+      // Someone who already picked one name here comes back to the view they used.
+      if (ranking && c && c !== undecided && c !== skipped) setMode("pick");
     });
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- read once per item
   }, [itemKey]);
+  const ranks = ranking && mode === "rank";
 
   const at = ballot.indexOf(itemKey);
   const prev = at > 0 ? ballot[at - 1] : undefined;
@@ -154,7 +165,11 @@ export function YourChoice({
     setSaved(true);
     writeChoice(itemKey, value);
   };
-  const all: Option[] = [...options, { value: undecided, label: "Not sure yet" }, { value: skipped, label: "Skip" }];
+  const all: Option[] = [
+    ...(ranks ? [] : options),
+    { value: undecided, label: "Not sure yet" },
+    { value: skipped, label: "Skip" },
+  ];
 
   return (
     <>
@@ -168,6 +183,31 @@ export function YourChoice({
           </h2>
           {saved && <p className="text-[13.5px] font-semibold text-olive">Saved in this browser</p>}
         </div>
+        {ranking && (
+          <div role="group" aria-label="How to mark this race" className="flex flex-wrap gap-2 text-sm">
+            {(
+              [
+                ["rank", "Rank them"],
+                ["pick", "Pick one"],
+              ] as const
+            ).map(([m, text]) => (
+              <button
+                key={m}
+                type="button"
+                aria-pressed={mode === m}
+                onClick={() => setMode(m)}
+                className={`min-h-9 px-3 ${
+                  mode === m
+                    ? "border-2 border-ink font-semibold"
+                    : "border border-line-strong text-ink-soft hover:border-ink"
+                }`}
+              >
+                {text}
+              </button>
+            ))}
+          </div>
+        )}
+        {ranks && ranking}
         <fieldset className="grid grid-cols-[repeat(auto-fill,minmax(220px,1fr))] gap-2">
           <legend className="sr-only">{label}</legend>
           {all.map((o) => {
@@ -196,7 +236,7 @@ export function YourChoice({
             );
           })}
         </fieldset>
-        {children}
+        {!ranks && children}
         <p className="note">Only you see this. It stays on this device.</p>
       </section>
       <nav aria-label="Ballot items, bottom" className="no-print flex flex-wrap justify-between gap-3">

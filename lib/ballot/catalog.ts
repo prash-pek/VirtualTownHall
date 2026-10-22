@@ -23,6 +23,8 @@ export const getCatalog = cache(async (): Promise<Catalog> => {
         slug: races.slug,
         office: races.office,
         districtLabel: races.districtLabel,
+        seats: races.seats,
+        rankedChoice: races.rankedChoice,
         jurisdiction: jurisdictions.name,
         jurisdictionSlug: jurisdictions.slug,
         jurisdictionType: jurisdictions.type,
@@ -65,6 +67,8 @@ export const getCatalog = cache(async (): Promise<Catalog> => {
       jurisdiction: r.jurisdiction,
       jurisdictionSlug: r.jurisdictionSlug,
       group: raceGroup(raceLevel(r)),
+      seats: r.seats,
+      rankedChoice: r.rankedChoice,
       candidates: (byRace.get(r.id) ?? []).map(({ slug, name, party, incumbent }) => ({
         slug,
         name,
