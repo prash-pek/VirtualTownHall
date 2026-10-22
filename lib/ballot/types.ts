@@ -34,10 +34,23 @@ export function isRace(item: CatalogItem): item is CatalogRace {
   return item.key.startsWith("race:");
 }
 
+/**
+ * A race's display name, e.g. "County Commissioner, District 2".
+ * Some offices already name their seat ("Judge of the Circuit Court, 4th District, Position 2"),
+ * so the seat is only added when the office doesn't already end with it. A bare number
+ * ("2") is a district, so it reads "District 2".
+ */
+export function raceTitle(office: string, districtLabel: string | null | undefined): string {
+  const seat = districtLabel?.trim();
+  if (!seat) return office;
+  const o = office.trim().toLowerCase();
+  const s = seat.toLowerCase();
+  if (o.endsWith(s) && !/[a-z0-9]/.test(o.charAt(o.length - s.length - 1))) return office;
+  return `${office}, ${/^\d+$/.test(seat) ? `District ${seat}` : seat}`;
+}
+
 export function itemTitle(item: CatalogItem): string {
-  return isRace(item)
-    ? `${item.office}${item.districtLabel ? `, ${item.districtLabel}` : ""}`
-    : `Measure ${item.number}: ${item.title}`;
+  return isRace(item) ? raceTitle(item.office, item.districtLabel) : `Measure ${item.number}: ${item.title}`;
 }
 
 export function itemHref(item: CatalogItem) {

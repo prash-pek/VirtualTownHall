@@ -22,6 +22,7 @@ import {
   type SideAnswer,
   type SideLink,
 } from "./pack";
+import { raceTitle } from "@/lib/ballot/types";
 
 /**
  * Sonnet 5.5 at low effort (Prash, 2026-10-16): it matched Opus 5.5 on every quality measure in the
@@ -83,7 +84,7 @@ async function loadPack(itemKey: string, preview: boolean): Promise<ItemPack> {
     const profiles = await getRaceProfiles(slug, preview);
     return {
       kind: "race",
-      title: [race.office, race.districtLabel].filter(Boolean).join(", "),
+      title: raceTitle(race.office, race.districtLabel),
       background: [],
       sides: profiles.map((p) => ({
         id: p.slug,

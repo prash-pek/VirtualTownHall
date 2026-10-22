@@ -5,6 +5,7 @@ import { GroupedReviewItems, PublishForm, ReviewItems, StatusTag } from "@/compo
 import { getCandidateReview, getQueue } from "@/lib/review/queue";
 
 import { requireAdminPage } from "../../admin-gate";
+import { raceTitle } from "@/lib/ballot/types";
 
 export const dynamic = "force-dynamic";
 
@@ -25,7 +26,7 @@ export default async function CandidateReview({ params }: { params: Promise<{ sl
         ← Review queue
       </Link>
       <div>
-        <p className="eyebrow">{[c.office, c.districtLabel].filter(Boolean).join(", ")}</p>
+        <p className="eyebrow">{raceTitle(c.office, c.districtLabel)}</p>
         <h1 className="title mt-1">{c.name}</h1>
         <div className="title-rule" />
         <p className="note mt-2">

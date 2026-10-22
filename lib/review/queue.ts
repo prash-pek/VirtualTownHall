@@ -17,6 +17,7 @@ import {
   sources,
   verifications,
 } from "@/lib/db/schema";
+import { raceTitle } from "@/lib/ballot/types";
 
 /**
  * Admin review queue (TRD v2 §6, phase 3). A reviewer publishes a whole measure or candidate at once:
@@ -132,7 +133,7 @@ export async function getQueue() {
     if (!race) {
       race = {
         slug: c.raceSlug,
-        label: [c.office, c.districtLabel].filter(Boolean).join(", "),
+        label: raceTitle(c.office, c.districtLabel),
         candidates: [],
         withoutContent: 0,
       };
