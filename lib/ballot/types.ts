@@ -23,6 +23,8 @@ export type CatalogMeasure = {
   jurisdictionSlug: string;
   /** Section of the printed ballot, e.g. "County measures". */
   group: string;
+  /** Official ballot title (caption and question), used only to match search words like "police" or "bonds". */
+  keywords?: string;
 };
 
 /** Races and measures are each already in printed-ballot order; races come before measures. */
