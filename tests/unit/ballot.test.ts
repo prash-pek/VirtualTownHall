@@ -8,7 +8,7 @@ import {
   type JurisdictionRef,
 } from "@/lib/ballot/districts";
 import { withState } from "@/lib/ballot/states";
-import { sanitizeBallot } from "@/lib/ballot/types";
+import { raceTitle, sanitizeBallot } from "@/lib/ballot/types";
 
 const census = {
   result: {
@@ -136,4 +136,28 @@ describe("withState", () => {
     expect(withState("5055 N Greeley Ave 97217", "OR")).toBe("5055 N Greeley Ave 97217");
     expect(withState("1600 Pennsylvania Ave NW, Washington", "DC")).toBe("1600 Pennsylvania Ave NW, Washington, DC");
   });
+});
+
+describe("raceTitle", () => {
+  it("doesn't repeat a seat the office already names", () => {
+    expect(raceTitle("Judge of the Circuit Court, 4th District, Position 2", "Position 2")).toBe(
+      "Judge of the Circuit Court, 4th District, Position 2",
+    );
+  });
+  it("reads a bare number as a district", () => {
+    expect(raceTitle("County Commissioner", "2")).toBe("County Commissioner, District 2");
+    expect(raceTitle("US Representative", "3")).toBe("US Representative, District 3");
+  });
+  it("keeps named seats and offices with no seat", () => {
+    expect(raceTitle("City Councilor", "Position 4")).toBe("City Councilor, Position 4");
+    expect(raceTitle("Director", "Sub-District 4 (unexpired term)")).toBe("Director, Sub-District 4 (unexpired term)");
+    expect(raceTitle("Governor", null)).toBe("Governor");
+  });
+  it("doesn't treat a longer number as a match", () => {
+    expect(raceTitle("Judge, Position 12", "Position 2")).toBe("Judge, Position 12, Position 2");
+  });
+});
+
+it("raceTitle: a bare number only matches a whole trailing number", () => {
+  expect(raceTitle("Judge, Position 12", "2")).toBe("Judge, Position 12, District 2");
 });
