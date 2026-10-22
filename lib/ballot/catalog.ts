@@ -45,6 +45,7 @@ export const getCatalog = cache(async (): Promise<Catalog> => {
         slug: ballotMeasures.slug,
         number: ballotMeasures.number,
         title: ballotMeasures.title,
+        ballotLabel: ballotMeasures.ballotLabel,
         jurisdiction: jurisdictions.name,
         jurisdictionSlug: jurisdictions.slug,
         jurisdictionType: jurisdictions.type,
@@ -82,6 +83,8 @@ export const getCatalog = cache(async (): Promise<Catalog> => {
       jurisdiction: m.jurisdiction,
       jurisdictionSlug: m.jurisdictionSlug,
       group: measureGroup(measureLevel(m)),
+      // The official ballot title is filed text, like candidate names; it only feeds search.
+      ...(m.ballotLabel ? { keywords: m.ballotLabel.slice(0, 600) } : {}),
     })),
   };
 });

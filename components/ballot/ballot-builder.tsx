@@ -7,7 +7,6 @@ import { defaultState, isStateCode, usStates, type StateCode } from "@/lib/ballo
 import { readBallot, writeBallot } from "@/lib/ballot/storage";
 import {
   inBallotOrder,
-  isRace,
   itemHref,
   itemTitle,
   sanitizeBallot,
@@ -16,12 +15,8 @@ import {
   type CatalogItem,
 } from "@/lib/ballot/types";
 
-function searchText(item: CatalogItem) {
-  const parts = isRace(item)
-    ? [item.office, item.districtLabel, ...item.candidates.map((c) => c.name)]
-    : ["measure", item.number, item.title];
-  return [...parts, item.jurisdiction].join(" ").toLowerCase();
-}
+import { AddItems } from "./add-items";
+import { AddButton, ItemRow } from "./item-row";
 
 /** Step 2 of the voter flow: check the suggested list against the paper ballot. */
 export function BallotBuilder({
@@ -46,11 +41,10 @@ export function BallotBuilder({
   const [nearbyKeys, setNearbyKeys] = useState<BallotKey[]>([]);
   const [possibleKeys, setPossibleKeys] = useState<BallotKey[]>([]);
   const [status, setStatus] = useState<string | null>(null);
-  const [query, setQuery] = useState("");
-  const [browseAll, setBrowseAll] = useState(false);
   const [looking, setLooking] = useState(false);
   const [removed, setRemoved] = useState<CatalogItem | null>(null);
   const autoLookedUp = useRef(false);
+  const searchRef = useRef<HTMLInputElement>(null);
 
   // Load: the browser copy, merged with the profile copy when signed in.
   useEffect(() => {
@@ -157,11 +151,6 @@ export function BallotBuilder({
   const mine = items.flatMap((k) => byKey.get(k) ?? []);
   const nearby = nearbyKeys.flatMap((k) => (items.includes(k) ? [] : (byKey.get(k) ?? [])));
   const possible = possibleKeys.flatMap((k) => (items.includes(k) ? [] : (byKey.get(k) ?? [])));
-  const results = useMemo(() => {
-    const q = query.trim().toLowerCase();
-    if (!q) return browseAll ? all : [];
-    return all.filter((i) => searchText(i).includes(q));
-  }, [all, query, browseAll]);
   const first = mine[0];
   // Catalog order is ballot order, so consecutive items in the same ballot section form one group.
   const groups = mine.reduce<{ name: string; start: number; items: { item: CatalogItem; n: number }[] }[]>(
@@ -243,6 +232,10 @@ export function BallotBuilder({
           >
             Oregon My Vote
           </a>
+          . Missing something?{" "}
+          <button type="button" className="link" onClick={() => searchRef.current?.focus()}>
+            Search to add it
+          </button>
           .
         </p>
         {!loaded || (looking && mine.length === 0) ? (
@@ -362,99 +355,7 @@ export function BallotBuilder({
         )}
       </section>
 
-      <section className="flex flex-col gap-3 border border-line bg-paper p-5">
-        <h2 className="section-title">Add an item</h2>
-        <div className="relative">
-          <svg
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="1.8"
-            strokeLinecap="round"
-            aria-hidden
-            className="pointer-events-none absolute top-1/2 left-3 size-5 -translate-y-1/2 text-muted"
-          >
-            <circle cx="11" cy="11" r="6.5" />
-            <path d="M16 16l4.5 4.5" />
-          </svg>
-          <input
-            type="search"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search by office, candidate, measure number or place"
-            aria-label="Search races and measures"
-            className="input w-full pl-10"
-          />
-        </div>
-        {!query.trim() && (
-          <button onClick={() => setBrowseAll((v) => !v)} className="link self-start text-sm">
-            {browseAll ? "Hide the full list" : `Browse all ${all.length} races and measures`}
-          </button>
-        )}
-        {query.trim() && results.length === 0 && <p className="note">No matches.</p>}
-        {results.length > 0 && (
-          <ul className="flex flex-col border border-line">
-            {results.map((i) => (
-              <ItemRow
-                key={i.key}
-                item={i}
-                action={
-                  items.includes(i.key) ? (
-                    <span className="px-2 text-sm font-semibold text-olive">Added</span>
-                  ) : (
-                    <AddButton onClick={() => add([i.key])} />
-                  )
-                }
-              />
-            ))}
-          </ul>
-        )}
-      </section>
+      <AddItems all={all} added={items} onAdd={(key) => add([key])} onRemove={remove} inputRef={searchRef} />
     </div>
-  );
-}
-
-function ItemRow({
-  item,
-  index,
-  action,
-  showPlace = true,
-}: {
-  item: CatalogItem;
-  index?: number;
-  action: React.ReactNode;
-  /** In a group where every item has the same place, the place is left off each row. */
-  showPlace?: boolean;
-}) {
-  return (
-    <li className="flex items-start justify-between gap-3 border-b border-line px-4 py-3 last:border-b-0">
-      <div className="flex gap-3">
-        {index !== undefined && (
-          <span className="w-6 shrink-0 pt-0.5 text-right text-sm font-semibold text-muted">{index}.</span>
-        )}
-        <div>
-          {(showPlace || !isRace(item)) && (
-            <p className="text-[12.5px] text-muted">
-              {isRace(item) ? item.jurisdiction : showPlace ? `Measure · ${item.jurisdiction}` : "Measure"}
-            </p>
-          )}
-          <Link href={itemHref(item)} className="font-semibold hover:text-olive">
-            {itemTitle(item)}
-          </Link>
-          {isRace(item) && item.candidates.length > 0 && (
-            <p className="note">{item.candidates.map((c) => c.name).join(", ")}</p>
-          )}
-        </div>
-      </div>
-      {action}
-    </li>
-  );
-}
-
-function AddButton({ onClick }: { onClick: () => void }) {
-  return (
-    <button onClick={onClick} className="btn shrink-0 px-3 py-1 text-sm">
-      + Add
-    </button>
   );
 }

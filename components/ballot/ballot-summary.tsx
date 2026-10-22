@@ -89,7 +89,7 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
           return (
             <li
               key={i.key}
-              className="flex items-start justify-between gap-4 border-b border-line px-4 py-3 last:border-b-0"
+              className="relative flex items-start justify-between gap-4 border-b border-line px-4 py-3 last:border-b-0 hover:bg-cream has-[a:focus-visible]:bg-cream"
             >
               <div className="flex gap-3">
                 <span className="w-6 shrink-0 text-right text-sm text-muted">{n + 1}.</span>
@@ -97,7 +97,13 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
                   <p className="text-[12.5px] text-muted">
                     {isRace(i) ? i.jurisdiction : `Measure · ${i.jurisdiction}`}
                   </p>
-                  <p className="font-semibold">{itemTitle(i)}</p>
+                  {/* The whole row is the link: its ::after covers the row, other links sit above it. */}
+                  <Link
+                    href={itemHref(i)}
+                    className="font-semibold after:absolute after:inset-0 after:content-[''] hover:text-olive focus-visible:outline-none focus-visible:after:outline-2 focus-visible:after:-outline-offset-2 focus-visible:after:outline-ink"
+                  >
+                    {itemTitle(i)}
+                  </Link>
                 </div>
               </div>
               <div className="shrink-0 text-right">
@@ -108,7 +114,7 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
                     <p className="border border-dashed border-line-strong px-2 py-0.5 text-sm font-semibold text-ink-soft">
                       Not sure yet
                     </p>
-                    <Link href={itemHref(i)} className="no-print link text-sm">
+                    <Link href={itemHref(i)} className="no-print link relative z-10 text-sm">
                       Go back
                     </Link>
                   </>
@@ -128,7 +134,7 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
                         href={`${itemHref(i)}?ask=${shortlistOf(i)
                           .map((c) => c.slug)
                           .join(",")}#ask`}
-                        className="no-print link text-sm"
+                        className="no-print link relative z-10 text-sm"
                       >
                         Ask your shortlist
                       </Link>
