@@ -54,6 +54,23 @@ export const verifiedCandidateSchema = z.looseObject({
   gaps: z.array(z.string()).default([]),
 });
 
+/** data/oregon-2026/pamphlet-headlines.json (pipeline/pamphlet_headlines.py). */
+export const pamphletHeadlinesSchema = z.looseObject({
+  candidates: z.record(
+    z.string(),
+    z.looseObject({
+      occupation: z.string().nullish(),
+      occupational_background: z.string().nullish(),
+      educational_background: z.string().nullish(),
+      prior_governmental_experience: z.string().nullish(),
+      other: z.array(z.object({ label: z.string(), text: z.string() })).nullish(),
+      source: z.object({ title: z.string(), url: z.url(), page: z.number().int() }),
+    }),
+  ),
+  not_found: z.array(z.string()).default([]),
+});
+export type PamphletHeadlines = z.infer<typeof pamphletHeadlinesSchema>;
+
 /** A candidate's weekly issue sweeps (data/oregon-2026/verified/issues/<id>.json, see ISSUE_SWEEP.md). */
 export const verifiedIssueSweepSchema = z.looseObject({
   id: z.string(),

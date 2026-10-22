@@ -11,6 +11,7 @@ import { checkInventoryIntegrity, inventorySchema, type Inventory } from "./inve
 import { planVerified, type VerifiedPlan } from "./plan";
 import {
   outletSlateSchema,
+  pamphletHeadlinesSchema,
   verifiedCandidateSchema,
   verifiedIssueSweepSchema,
   verifiedMeasureSchema,
@@ -50,12 +51,21 @@ export async function loadVerified(dir: string): Promise<{ plan: VerifiedPlan; f
     return out;
   }
 
+  // Pamphlet background lines (pipeline/pamphlet_headlines.py), next to the verified folder.
+  const headlinesPath = join(dir, "..", "pamphlet-headlines.json");
+  const headlinesText = await readFile(headlinesPath, "utf8").catch((e: NodeJS.ErrnoException) => {
+    if (e.code === "ENOENT") return null;
+    throw e;
+  });
+  if (headlinesText) fingerprint.update(`${headlinesPath}\0${headlinesText}\0`);
+
   const plan = planVerified({
     candidates: await readAll(join(dir, "candidates"), (v) => verifiedCandidateSchema.parse(v)),
     measures: await readAll(join(dir, "measures"), (v) => verifiedMeasureSchema.parse(v)),
     // Weekly issue sweeps (ISSUE_SWEEP.md) add items to candidates.
     sweeps: await readAll(join(dir, "issues"), (v) => verifiedIssueSweepSchema.parse(v), true),
     slates: await readAll(join(dir, "..", "endorsements", "outlets"), (v) => outletSlateSchema.parse(v), true),
+    headlines: headlinesText ? pamphletHeadlinesSchema.parse(JSON.parse(headlinesText)) : undefined,
   });
   return { plan, fingerprint: short(fingerprint) };
 }

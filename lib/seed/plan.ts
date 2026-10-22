@@ -13,7 +13,8 @@ import {
   type VerifiedItem,
   type VerifiedMeasure,
 } from "./verified";
-import type { outletSlateSchema } from "./verified";
+import type { outletSlateSchema, PamphletHeadlines } from "./verified";
+import type { PamphletBackground } from "../db/schema";
 import type { z } from "zod";
 
 type OutletSlate = z.infer<typeof outletSlateSchema>;
@@ -94,7 +95,20 @@ export type VerifiedPlan = {
   items: PlannedItem[];
   arguments: PlannedArgument[];
   endorsements: PlannedEndorsement[];
+  /** Pamphlet background lines per candidate; null means no pamphlet statement was found. */
+  backgrounds: { slug: string; background: PamphletBackground | null }[];
 };
+
+/** The headlines file (snake_case, nulls) as stored on the candidate row (camelCase, empty fields left out). */
+export function toBackground(h: PamphletHeadlines["candidates"][string]): PamphletBackground {
+  const b: PamphletBackground = { source: h.source };
+  if (h.occupation) b.occupation = h.occupation;
+  if (h.occupational_background) b.occupationalBackground = h.occupational_background;
+  if (h.educational_background) b.educationalBackground = h.educational_background;
+  if (h.prior_governmental_experience) b.priorGovernmentalExperience = h.prior_governmental_experience;
+  if (h.other?.length) b.other = h.other;
+  return b;
+}
 
 const isoDate = (d: string | null | undefined) => (d && /^\d{4}-\d{2}-\d{2}$/.test(d) ? d : null);
 
@@ -108,6 +122,7 @@ export function planVerified(input: {
   measures: VerifiedMeasure[];
   sweeps: VerifiedIssueSweep[];
   slates: OutletSlate[];
+  headlines?: PamphletHeadlines;
 }): VerifiedPlan {
   const plan: VerifiedPlan = {
     sources: new Map(),
@@ -116,6 +131,7 @@ export function planVerified(input: {
     items: [],
     arguments: [],
     endorsements: [],
+    backgrounds: [],
   };
   const seen = new Set<string>();
   const once = (key: string) => (seen.has(key) ? false : (seen.add(key), true));
@@ -274,6 +290,12 @@ export function planVerified(input: {
           contentHash: endorsementHash(`measure:${e.measure_id}:${e.pick}`, e, e.source),
         });
     }
+
+  if (input.headlines) {
+    for (const [slug, h] of Object.entries(input.headlines.candidates))
+      plan.backgrounds.push({ slug, background: toBackground(h) });
+    for (const slug of input.headlines.not_found) plan.backgrounds.push({ slug, background: null });
+  }
 
   return plan;
 }

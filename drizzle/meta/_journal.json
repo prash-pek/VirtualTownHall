@@ -64,6 +64,13 @@
       "when": 1792385681511,
       "tag": "0008_candidate_pamphlet_url",
       "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1792642875966,
+      "tag": "0009_pamphlet_background",
+      "breakpoints": true
     }
   ]
 }

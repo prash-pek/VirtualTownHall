@@ -20,7 +20,7 @@ import { Pool } from "pg";
 
 import { databaseUrlUnpooled } from "../lib/env";
 import * as schema from "../lib/db/schema";
-import { checkVerified, inOrder } from "../lib/seed/check";
+import { checkVerified, inOrder, stableJson } from "../lib/seed/check";
 import { loadVerified } from "../lib/seed/load";
 import type { PlannedCandidateFields, PlannedMeasureFields } from "../lib/seed/plan";
 import type { VerifiedItem } from "../lib/seed/verified";
@@ -53,9 +53,7 @@ const BATCH = 500;
 const chunks = <T>(rows: T[]): T[][] =>
   Array.from({ length: Math.ceil(rows.length / BATCH) }, (_, i) => rows.slice(i * BATCH, (i + 1) * BATCH));
 const same = (want: object, row: object) =>
-  Object.entries(want).every(
-    ([k, v]) => JSON.stringify(v ?? null) === JSON.stringify((row as Record<string, unknown>)[k] ?? null),
-  );
+  Object.entries(want).every(([k, v]) => stableJson(v) === stableJson((row as Record<string, unknown>)[k]));
 const verification = (subjectType: string, subjectId: string, v: VerifiedItem["verification"]) => ({
   subjectType,
   subjectId,
@@ -72,6 +70,7 @@ const stats = {
   items: 0,
   arguments: 0,
   endorsements: 0,
+  backgrounds: 0,
   skippedMissing: 0,
 };
 
@@ -89,6 +88,7 @@ try {
           websiteUrl: c.websiteUrl,
           officialUrl: c.officialUrl,
           pamphletUrl: c.pamphletUrl,
+          pamphletBackground: c.pamphletBackground,
           gaps: c.gaps,
         })
         .from(c),
@@ -149,6 +149,23 @@ try {
             pamphlet_url = v."pamphletUrl", gaps = v.gaps, updated_at = now()
         from jsonb_to_recordset(${JSON.stringify(rows)}::jsonb)
           as v(id uuid, occupation text, "websiteUrl" text, "officialUrl" text, "pamphletUrl" text, gaps text[])
+        where c.id = v.id`);
+    // Pamphlet background lines. Covers every inventory candidate, not only those with verified files.
+    const bySlug = new Map(candidateRows.map((r) => [r.slug, r]));
+    const backgroundUpdates = plan.backgrounds.flatMap((b) => {
+      const row = bySlug.get(b.slug);
+      if (!row) {
+        console.warn(`candidate ${b.slug} has pamphlet background lines but is not in the database`);
+        return [];
+      }
+      return same({ pamphletBackground: b.background }, row) ? [] : [{ id: row.id, background: b.background }];
+    });
+    stats.backgrounds = backgroundUpdates.length;
+    for (const rows of chunks(backgroundUpdates))
+      await tx.execute(sql`
+        update candidates c
+        set pamphlet_background = v.background, updated_at = now()
+        from jsonb_to_recordset(${JSON.stringify(rows)}::jsonb) as v(id uuid, background jsonb)
         where c.id = v.id`);
     for (const rows of chunks(measureUpdates))
       await tx.execute(sql`
