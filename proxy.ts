@@ -21,27 +21,19 @@ const withClerk = clerkMiddleware(
 );
 
 /**
- * Beta lock: while BETA_PASSWORD is set, nothing but the unlock page answers until this browser has
- * the unlock cookie. Pages redirect to /unlock; API routes (including the paid discussion) get 401.
+ * Beta lock: while BETA_PASSWORD is set, anyone can look at the pages, but every API route (address
+ * lookup, discussion, saved ballot) answers 401 until this browser has the unlock cookie. The pages
+ * show the password box where a voter would start (see components/beta-unlock.tsx).
  */
 async function betaGate(req: NextRequest): Promise<NextResponse | null> {
   const password = betaPassword();
   if (!password) return null;
-  if (isOpenPath(req.nextUrl.pathname)) return null;
+  const { pathname } = req.nextUrl;
+  if (!pathname.startsWith("/api/") && !pathname.startsWith("/trpc/")) return null;
+  if (isOpenPath(pathname)) return null;
   if (await hasValidBetaCookie(req.cookies.get(BETA_COOKIE)?.value, password)) return null;
 
-  let res: NextResponse;
-  if (req.nextUrl.pathname.startsWith("/api/") || req.nextUrl.pathname.startsWith("/trpc/")) {
-    res = NextResponse.json(
-      { error: { code: "beta_locked", message: "This site is in a private beta" } },
-      { status: 401 },
-    );
-  } else {
-    const url = new URL("/unlock", req.url);
-    const next = req.nextUrl.pathname + req.nextUrl.search;
-    if (next !== "/") url.searchParams.set("next", next);
-    res = NextResponse.redirect(url, 307);
-  }
+  const res = NextResponse.json({ error: "beta_locked" }, { status: 401 });
   res.headers.set("X-Robots-Tag", "noindex, nofollow");
   res.headers.set("Cache-Control", "no-store");
   return res;

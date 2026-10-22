@@ -1,9 +1,12 @@
 import Link from "next/link";
 
+import { BetaUnlock } from "@/components/beta-unlock";
 import { HowItWorks } from "@/components/how-it-works";
+import { betaLocked } from "@/lib/beta-lock-status";
 import { defaultState, usStates } from "@/lib/ballot/states";
 
-export default function Home() {
+export default async function Home() {
+  const locked = await betaLocked();
   return (
     <main className="page gap-10 py-16">
       <div>
@@ -19,37 +22,41 @@ export default function Home() {
         </p>
       </div>
       <HowItWorks />
-      <form action="/ballot" method="get" className="card flex flex-col gap-3">
-        <label htmlFor="address" className="eyebrow">
-          Where do you live?
-        </label>
-        <div className="flex flex-col gap-2 sm:flex-row">
-          <input
-            id="address"
-            name="address"
-            required
-            minLength={5}
-            maxLength={200}
-            placeholder="ZIP code or street address"
-            autoComplete="street-address"
-            className="input flex-1"
-          />
-          <label htmlFor="state" className="sr-only">
-            State
+      {locked ? (
+        <BetaUnlock next="/" />
+      ) : (
+        <form action="/ballot" method="get" className="card flex flex-col gap-3">
+          <label htmlFor="address" className="eyebrow">
+            Where do you live?
           </label>
-          <select id="state" name="state" defaultValue={defaultState} autoComplete="address-level1" className="input">
-            {usStates.map(([code, name]) => (
-              <option key={code} value={code}>
-                {name}
-              </option>
-            ))}
-          </select>
-          <button type="submit" className="btn-primary">
-            Start
-          </button>
-        </div>
-        <p className="note">A ZIP is quickest. A street address gets an exact match. We don&apos;t store either.</p>
-      </form>
+          <div className="flex flex-col gap-2 sm:flex-row">
+            <input
+              id="address"
+              name="address"
+              required
+              minLength={5}
+              maxLength={200}
+              placeholder="ZIP code or street address"
+              autoComplete="street-address"
+              className="input flex-1"
+            />
+            <label htmlFor="state" className="sr-only">
+              State
+            </label>
+            <select id="state" name="state" defaultValue={defaultState} autoComplete="address-level1" className="input">
+              {usStates.map(([code, name]) => (
+                <option key={code} value={code}>
+                  {name}
+                </option>
+              ))}
+            </select>
+            <button type="submit" className="btn-primary">
+              Start
+            </button>
+          </div>
+          <p className="note">A ZIP is quickest. A street address gets an exact match. We don&apos;t store either.</p>
+        </form>
+      )}
       <Link href="/ballot" className="link self-start">
         Or just look around
       </Link>

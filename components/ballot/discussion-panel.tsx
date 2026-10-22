@@ -18,6 +18,7 @@ type Answer = {
 type Round = { question: string; responses: Answer[]; sig?: string };
 
 const errors: Record<string, string> = {
+  beta_locked: "Questions are open to beta testers. Enter the beta password to ask.",
   rate_limited: "That's a lot of questions at once. Give it a minute and try again.",
   no_content: "We don't have sources for this one yet.",
   unavailable: "Questions aren't switched on yet.",
