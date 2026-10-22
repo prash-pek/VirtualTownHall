@@ -97,11 +97,6 @@ export default async function RacePage({
               <h2 id="candidates" className="section-title">
                 The candidates
               </h2>
-              {/* Every profile is built from public sources until candidates can claim theirs (phase 2), so the
-                  note covers every card at once instead of a badge on each. */}
-              <p className="note">
-                Listed in the same order as the official filings. Every profile is from the public record only.
-              </p>
               <CandidateList candidates={profiles.map((p) => ({ slug: p.slug, name: p.name }))}>
                 {profiles.map((c) => (
                   <CandidateEntry key={c.slug} c={c} canAsk={canAsk} />
