@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { AskJump, AskProvider, AskToggle } from "@/components/ballot/ask-context";
 import { AboutOffice } from "@/components/ballot/about-office";
 import { DiscussionPanel } from "@/components/ballot/discussion-panel";
+import { BetaUnlock } from "@/components/beta-unlock";
 import { NotReady } from "@/components/ballot/not-ready";
 import { PamphletBackground } from "@/components/ballot/pamphlet-background";
 import { EndorsedBy } from "@/components/ballot/endorsed-by";
@@ -13,6 +14,7 @@ import { StepBar, WalkPosition, YourChoice } from "@/components/ballot/walk-thro
 import { getSession } from "@/lib/auth/session";
 import { hasRole } from "@/lib/auth/roles";
 import { getCatalog } from "@/lib/ballot/catalog";
+import { betaLocked } from "@/lib/beta-lock-status";
 import { getRaceProfiles, type CandidateProfile } from "@/lib/ballot/content";
 import { raceIncumbency } from "@/lib/ballot/incumbency";
 import { issueLabel, topIssues } from "@/lib/ballot/issues";
@@ -40,7 +42,7 @@ export default async function RacePage({
   const race = (await getCatalog()).races.find((r) => r.slug === slug);
   if (!race) notFound();
   const preview = hasRole(await getSession(), "admin");
-  const profiles = await getRaceProfiles(slug, preview);
+  const [profiles, locked] = await Promise.all([getRaceProfiles(slug, preview), betaLocked()]);
 
   const sides = profiles.map((p) => ({ id: p.slug, label: p.name }));
   // Questions can only be answered from published sources, so the ask box waits until something is published.
@@ -72,7 +74,12 @@ export default async function RacePage({
             aria-label="Ask the candidates"
             className="scroll-mt-4 lg:sticky lg:top-4 lg:order-2 lg:max-h-[calc(100dvh-2rem)] lg:overflow-y-auto"
           >
-            {canAsk ? (
+            {canAsk && locked ? (
+              <BetaUnlock
+                next={`/races/${slug}`}
+                intro="To ask questions, enter the beta password you were given. You can read everything on this page without it."
+              />
+            ) : canAsk ? (
               <DiscussionPanel
                 itemKey={race.key}
                 sides={sides}

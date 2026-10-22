@@ -111,9 +111,11 @@ export function BallotBuilder({
             ? "We couldn't find that address. Try adding the city and ZIP, or add your races yourself below."
             : data.error === "zip_not_found"
               ? "We couldn't find that ZIP in Oregon. Try your street address, or add your races yourself below."
-              : data.error === "rate_limited"
-                ? "That's a lot of lookups at once. Give it a minute, or add your races yourself below."
-                : "Address lookup isn't working right now. You can still add your races yourself below.",
+              : data.error === "beta_locked"
+                ? "Enter the beta password above to look up your ballot. You can still add your races yourself below."
+                : data.error === "rate_limited"
+                  ? "That's a lot of lookups at once. Give it a minute, or add your races yourself below."
+                  : "Address lookup isn't working right now. You can still add your races yourself below.",
         );
         return;
       }

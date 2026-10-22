@@ -2,8 +2,10 @@ import type { Metadata } from "next";
 
 import { StepBar } from "@/components/ballot/walk-through";
 import { BallotBuilder } from "@/components/ballot/ballot-builder";
+import { BetaUnlock } from "@/components/beta-unlock";
 import { getSession } from "@/lib/auth/session";
 import { getCatalog } from "@/lib/ballot/catalog";
+import { betaLocked } from "@/lib/beta-lock-status";
 import { defaultState, isStateCode } from "@/lib/ballot/states";
 
 export const dynamic = "force-dynamic";
@@ -14,7 +16,12 @@ export default async function BallotPage({
 }: {
   searchParams: Promise<{ address?: string; state?: string }>;
 }) {
-  const [catalog, session, { address, state }] = await Promise.all([getCatalog(), getSession(), searchParams]);
+  const [catalog, session, { address, state }, locked] = await Promise.all([
+    getCatalog(),
+    getSession(),
+    searchParams,
+    betaLocked(),
+  ]);
   return (
     <>
       <StepBar current="ballot" />
@@ -28,6 +35,7 @@ export default async function BallotPage({
             missing.
           </p>
         </div>
+        {locked && <BetaUnlock next="/ballot" />}
         <BallotBuilder
           catalog={catalog}
           signedIn={session !== null}

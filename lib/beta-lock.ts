@@ -1,6 +1,6 @@
 /**
- * Beta password lock. While BETA_PASSWORD is set, every page and API route sits behind one shared
- * password; unset it and the site is open again. Runs in the proxy, so it only uses Web Crypto.
+ * Beta password lock. While BETA_PASSWORD is set, pages stay viewable but every API route sits
+ * behind one shared password; unset it and the site is open again. Runs in the proxy, so it only uses Web Crypto.
  *
  * The cookie holds an HMAC of the password, never the password itself. Changing the password
  * changes the HMAC, which signs every tester out.
