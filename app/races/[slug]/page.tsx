@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
 import { AskJump, AskProvider, AskToggle } from "@/components/ballot/ask-context";
+import { AboutOffice } from "@/components/ballot/about-office";
 import { DiscussionPanel } from "@/components/ballot/discussion-panel";
 import { NotReady } from "@/components/ballot/not-ready";
 import { EndorsedBy } from "@/components/ballot/endorsed-by";
@@ -12,7 +13,9 @@ import { getSession } from "@/lib/auth/session";
 import { hasRole } from "@/lib/auth/roles";
 import { getCatalog } from "@/lib/ballot/catalog";
 import { getRaceProfiles, type CandidateProfile } from "@/lib/ballot/content";
+import { raceIncumbency } from "@/lib/ballot/incumbency";
 import { issueLabel, topIssues } from "@/lib/ballot/issues";
+import { describeOffice } from "@/lib/ballot/offices";
 import { itemTitle } from "@/lib/ballot/types";
 
 export const dynamic = "force-dynamic";
@@ -56,6 +59,10 @@ export default async function RacePage({
           <h1 className="title mt-1">{itemTitle(race)}</h1>
           <div className="title-rule" />
         </div>
+        <AboutOffice
+          description={describeOffice(race.office, race.jurisdiction, race.jurisdictionSlug)}
+          incumbency={raceIncumbency(race.slug, race.candidates)}
+        />
         {preview && profiles.some((p) => p.draft) && <PreviewBanner />}
         {/* Phones: the ask box comes first. Desktop: cards on the left, the ask box stays in view on the right. */}
         <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_minmax(360px,420px)] lg:items-start">

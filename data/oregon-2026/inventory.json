@@ -6370,48 +6370,54 @@
       "name": "Peren Tiemann",
       "race_id": "lake-oswego-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/lake_oswego_certified_candidates.pdf/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/lake_oswego_certified_candidates.pdf/download",
+      "incumbent_source_url": "https://www.ci.oswego.or.us/citycouncil/mayor-and-council"
     },
     {
       "id": "bryan-guiney",
       "name": "Bryan Guiney",
       "race_id": "lake-oswego-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/lake_oswego_certified_candidates.pdf/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/lake_oswego_certified_candidates.pdf/download",
+      "incumbent_source_url": "https://www.ci.oswego.or.us/citycouncil/mayor-and-council"
     },
     {
       "id": "patrick-walsh",
       "name": "Patrick Walsh",
       "race_id": "lake-oswego-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/lake_oswego_certified_candidates.pdf/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/lake_oswego_certified_candidates.pdf/download",
+      "incumbent_source_url": "https://www.ci.oswego.or.us/citycouncil/mayor-and-council"
     },
     {
       "id": "heather-ramsey",
       "name": "Heather Ramsey",
       "race_id": "lake-oswego-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/lake_oswego_certified_candidates.pdf/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/lake_oswego_certified_candidates.pdf/download",
+      "incumbent_source_url": "https://www.ci.oswego.or.us/citycouncil/mayor-and-council"
     },
     {
       "id": "neil-tunmore",
       "name": "Neil Tunmore",
       "race_id": "lake-oswego-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/lake_oswego_certified_candidates.pdf/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/lake_oswego_certified_candidates.pdf/download",
+      "incumbent_source_url": "https://www.ci.oswego.or.us/citycouncil/mayor-and-council"
     },
     {
       "id": "suzanne-miles",
       "name": "Suzanne Miles",
       "race_id": "lake-oswego-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/lake_oswego_certified_candidates.pdf/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/lake_oswego_certified_candidates.pdf/download",
+      "incumbent_source_url": "https://www.ci.oswego.or.us/citycouncil/mayor-and-council"
     },
     {
       "id": "keith-kudrna",
@@ -6654,16 +6660,18 @@
       "name": "Charlene Gothard",
       "race_id": "wood-village-council-pos-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.woodvillageor.gov/government/city-council/"
     },
     {
       "id": "christine-bierman",
       "name": "Christine Bierman",
       "race_id": "wood-village-council-pos-4",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.woodvillageor.gov/government/city-council/"
     },
     {
       "id": "alex-parise",
@@ -6710,96 +6718,108 @@
       "name": "Brad Hunter",
       "race_id": "east-multnomah-swcd-zone-3",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://multco.us/file/emswcd_zone_3_brad_hunter/download"
     },
     {
       "id": "ronda-zakocs",
       "name": "Ronda Zakocs",
       "race_id": "west-multnomah-swcd-at-large-2",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/west-multnomah-soil-water-conservation-district-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/west-multnomah-soil-water-conservation-district-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://wmswcd.org/board-members/"
     },
     {
       "id": "elizabeth-offensend",
       "name": "Elizabeth Offensend",
       "race_id": "west-multnomah-swcd-zone-4",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/west-multnomah-soil-water-conservation-district-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/west-multnomah-soil-water-conservation-district-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://wmswcd.org/board-members/"
     },
     {
       "id": "terri-preeg-riggsby",
       "name": "Terri Preeg Riggsby",
       "race_id": "west-multnomah-swcd-zone-5",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/west-multnomah-soil-water-conservation-district-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/west-multnomah-soil-water-conservation-district-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://wmswcd.org/board-members/"
     },
     {
       "id": "joy-vandervort-fields",
       "name": "Joy VanDervort Fields",
       "race_id": "west-multnomah-swcd-zone-5",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/west-multnomah-soil-water-conservation-district-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/west-multnomah-soil-water-conservation-district-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://wmswcd.org/board-members/"
     },
     {
       "id": "shari-freshman",
       "name": "Shari Freshman",
       "race_id": "west-multnomah-swcd-zone-5",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/west-multnomah-soil-water-conservation-district-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/west-multnomah-soil-water-conservation-district-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://wmswcd.org/board-members/"
     },
     {
       "id": "andy-krieck",
       "name": "Andy Krieck",
       "race_id": "columbia-river-pud-subdivision-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/ballot_content_-_nov._2026/download",
+      "incumbent_source_url": "https://www.crpud.net/my-pud/board-of-directors/board-members/"
     },
     {
       "id": "yuval-golan",
       "name": "Yuval Golan",
       "race_id": "interlachen-water-pud-sub-district-2",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/yuval_golan_candidate_filing/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/yuval_golan_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/file/yuval_golan_candidate_filing/download"
     },
     {
       "id": "michael-vest",
       "name": "Michael Vest",
       "race_id": "interlachen-water-pud-sub-district-3",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/michael_vest_candidate_filing/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/michael_vest_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/file/michael_vest_candidate_filing/download"
     },
     {
       "id": "colby-riley",
       "name": "Colby E Riley",
       "race_id": "rockwood-water-pud-sub-district-2",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/colby_e._riley_candidate_filing-0/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/colby_e._riley_candidate_filing-0/download",
+      "incumbent_source_url": "https://www.rwpud.org/about-us/board-of-directors/"
     },
     {
       "id": "nicholas-engels",
       "name": "Nicholas Engels",
       "race_id": "rockwood-water-pud-sub-district-4",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/nicholas_engels_candidate_filing/download"
+      "incumbent": true,
+      "filing_source_url": "https://multco.us/file/nicholas_engels_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/file/nicholas_engels_candidate_filing/download"
     },
     {
       "id": "christine-brown",
       "name": "Christine E Brown",
       "race_id": "rockwood-water-pud-sub-district-5",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://multco.us/file/christine_e_brown_candidate_filing/download"
+      "incumbent": false,
+      "filing_source_url": "https://multco.us/file/christine_e_brown_candidate_filing/download",
+      "incumbent_source_url": "https://multco.us/file/christine_e_brown_candidate_filing/download"
     },
     {
       "id": "nafisa-fai",
@@ -6978,24 +6998,27 @@
       "name": "Mallory Hiefield",
       "race_id": "forest-grove-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-forest-grove-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-forest-grove-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://forestgrove-or.gov/362/Elections"
     },
     {
       "id": "matthew-knight",
       "name": "Matthew S Knight",
       "race_id": "forest-grove-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-forest-grove-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-forest-grove-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://forestgrove-or.gov/362/Elections"
     },
     {
       "id": "john-lepari",
       "name": "John LePari",
       "race_id": "forest-grove-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-forest-grove-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-forest-grove-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://forestgrove-or.gov/362/Elections"
     },
     {
       "id": "karen-martinez",
@@ -7010,16 +7033,18 @@
       "name": "Chris Mejia",
       "race_id": "forest-grove-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-forest-grove-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-forest-grove-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://forestgrove-or.gov/362/Elections"
     },
     {
       "id": "sandra-pereyda",
       "name": "Sandra Pereyda",
       "race_id": "forest-grove-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-forest-grove-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-forest-grove-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://forestgrove-or.gov/362/Elections"
     },
     {
       "id": "mariana-valenzuela",
@@ -7034,16 +7059,18 @@
       "name": "William E Martin",
       "race_id": "gaston-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-gaston-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-gaston-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/gaston.aspx"
     },
     {
       "id": "scott-glavan",
       "name": "Scott Glavan",
       "race_id": "gaston-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-gaston-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-gaston-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/gaston.aspx"
     },
     {
       "id": "scott-hoodenpyl",
@@ -7074,80 +7101,90 @@
       "name": "Diana Jackson",
       "race_id": "hillsboro-council-ward-1a",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000"
     },
     {
       "id": "luis-garcia",
       "name": "Luis Garcia",
       "race_id": "hillsboro-council-ward-1a",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000"
     },
     {
       "id": "cristian-salgado",
       "name": "Cristian Salgado",
       "race_id": "hillsboro-council-ward-1a",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000"
     },
     {
       "id": "sarah-marugg",
       "name": "Sarah Marugg",
       "race_id": "hillsboro-council-ward-1a",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000"
     },
     {
       "id": "ivette-pantoja",
       "name": "Ivette Pantoja",
       "race_id": "hillsboro-council-ward-2a",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000"
     },
     {
       "id": "karim-delgado",
       "name": "Karim Delgado",
       "race_id": "hillsboro-council-ward-2a",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000"
     },
     {
       "id": "titonian-wallace-sr",
       "name": "Titonian Wallace Sr",
       "race_id": "hillsboro-council-ward-3a",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000"
     },
     {
       "id": "dorian-russell",
       "name": "Dorian Russell",
       "race_id": "hillsboro-council-ward-3a",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000"
     },
     {
       "id": "kimberly-culbertson",
       "name": "Kimberly Culbertson",
       "race_id": "hillsboro-council-ward-3a",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/32732/639165162401330000"
     },
     {
       "id": "craig-dirksen",
       "name": "Craig Dirksen",
       "race_id": "king-city-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-king-city-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-king-city-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.ci.king-city.or.us/councilors_-_bios.php"
     },
     {
       "id": "sandy-cunningham",
@@ -7170,24 +7207,27 @@
       "name": "Howard Suesserman",
       "race_id": "king-city-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-king-city-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-king-city-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.ci.king-city.or.us/councilors_-_bios.php"
     },
     {
       "id": "gretchen-buehner",
       "name": "Gretchen E Buehner",
       "race_id": "king-city-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-king-city-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-king-city-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.ci.king-city.or.us/councilors_-_bios.php"
     },
     {
       "id": "james-minor-sr",
       "name": "James Minor Sr",
       "race_id": "king-city-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-king-city-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-king-city-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.ci.king-city.or.us/councilors_-_bios.php"
     },
     {
       "id": "anna-warrington",
@@ -7242,40 +7282,45 @@
       "name": "Tim Rosener",
       "race_id": "sherwood-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-sherwood-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-sherwood-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.sherwoodoregon.gov/government/city-council/"
     },
     {
       "id": "taylor-giles",
       "name": "Taylor Giles",
       "race_id": "sherwood-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-sherwood-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-sherwood-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.sherwoodoregon.gov/government/city-council/"
     },
     {
       "id": "keith-mays",
       "name": "Keith Mays",
       "race_id": "sherwood-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-sherwood-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-sherwood-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.sherwoodoregon.gov/government/city-council/"
     },
     {
       "id": "doug-scott",
       "name": "Doug Scott",
       "race_id": "sherwood-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-sherwood-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-sherwood-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.sherwoodoregon.gov/government/city-council/"
     },
     {
       "id": "yi-kang-hu",
       "name": "Yi-Kang Hu",
       "race_id": "tigard-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.tigard-or.gov/your-government/council/meet-the-council"
     },
     {
       "id": "bill-monahan",
@@ -7330,8 +7375,9 @@
       "name": "Tom Anderson",
       "race_id": "tigard-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.tigard-or.gov/your-government/council/meet-the-council/councilor-anderson"
     },
     {
       "id": "john-goodhouse",
@@ -7354,152 +7400,171 @@
       "name": "Octavio Gonzalez",
       "race_id": "tualatin-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information"
     },
     {
       "id": "valerie-pratt",
       "name": "Valerie Pratt",
       "race_id": "tualatin-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information"
     },
     {
       "id": "maria-antonieta-reyes",
       "name": "Maria Antonieta Reyes",
       "race_id": "tualatin-council-pos-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information"
     },
     {
       "id": "bridget-brooks",
       "name": "Bridget Brooks",
       "race_id": "tualatin-council-pos-3",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information"
     },
     {
       "id": "beth-dittman",
       "name": "Beth Dittman",
       "race_id": "tualatin-council-pos-5",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.tualatinoregon.gov/citycouncil/elections-information"
     },
     {
       "id": "sam-scull",
       "name": "Sam Scull",
       "race_id": "wilsonville-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026-0/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026-0/download?inline",
+      "incumbent_source_url": "https://wilsonvilleoregon.gov/directory-listing/sam-scull"
     },
     {
       "id": "adrienne-scritsmier",
       "name": "Adrienne Scritsmier",
       "race_id": "wilsonville-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026-0/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026-0/download?inline",
+      "incumbent_source_url": "https://www.wilsonvilleoregon.gov/citycouncil"
     },
     {
       "id": "jennie-hill",
       "name": "Jennie Hill",
       "race_id": "wilsonville-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026-0/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026-0/download?inline",
+      "incumbent_source_url": "https://www.wilsonvilleoregon.gov/citycouncil"
     },
     {
       "id": "katie-dunwell",
       "name": "Katie Dunwell",
       "race_id": "wilsonville-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026-0/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-tualatin-certified-candidates-nov-2026-0/download?inline",
+      "incumbent_source_url": "https://wilsonvilleoregon.gov/administration/page/katie-dunwell-resigns-city-council"
     },
     {
       "id": "joan-joyce",
       "name": "Joan Joyce",
       "race_id": "rivergrove-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-rivergrove-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-rivergrove-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/"
     },
     {
       "id": "david-dull",
       "name": "David M Dull",
       "race_id": "rivergrove-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-rivergrove-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-rivergrove-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/"
     },
     {
       "id": "leah-silber",
       "name": "Leah Silber",
       "race_id": "rivergrove-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-rivergrove-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-rivergrove-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/"
     },
     {
       "id": "curt-taylor",
       "name": "Curt Taylor",
       "race_id": "rivergrove-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-rivergrove-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-rivergrove-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/"
     },
     {
       "id": "brett-egusa",
       "name": "Brett Egusa",
       "race_id": "rivergrove-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-rivergrove-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-rivergrove-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/"
     },
     {
       "id": "doug-mclean",
       "name": "Doug McLean",
       "race_id": "rivergrove-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-rivergrove-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/city-rivergrove-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://www.cityofrivergrove.org/government/city-council/"
     },
     {
       "id": "olivia-duren",
       "name": "Olivia Duren",
       "race_id": "tualatin-swcd-zone-4",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/tualatin-soil-water-conservation-district-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/tualatin-soil-water-conservation-district-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://tualatinswcd.org/our-story/our-board/"
     },
     {
       "id": "ethan-vanderzanden",
       "name": "Ethan VanderZanden",
       "race_id": "tualatin-swcd-zone-5",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/tualatin-soil-water-conservation-district-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/tualatin-soil-water-conservation-district-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://tualatinswcd.org/our-story/our-board/"
     },
     {
       "id": "laura-graham",
       "name": "Laura Graham",
       "race_id": "tualatin-swcd-zone-5",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/tualatin-soil-water-conservation-district-certified-candidates-nov-2026/download?inline"
+      "incumbent": false,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/tualatin-soil-water-conservation-district-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://tualatinswcd.org/our-story/our-board/"
     },
     {
       "id": "dean-moberg",
       "name": "Dean P Moberg",
       "race_id": "tualatin-swcd-at-large-2",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/tualatin-soil-water-conservation-district-certified-candidates-nov-2026/download?inline"
+      "incumbent": true,
+      "filing_source_url": "https://www.washingtoncountyor.gov/elections/documents/tualatin-soil-water-conservation-district-certified-candidates-nov-2026/download?inline",
+      "incumbent_source_url": "https://tualatinswcd.org/our-story/our-board/"
     },
     {
       "id": "catherine-mcmullen",
@@ -7606,248 +7671,279 @@
       "name": "Brian D Hodson",
       "race_id": "canby-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1c8ce09a-1e32-43a6-bc12-14b0a2e161d1"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1c8ce09a-1e32-43a6-bc12-14b0a2e161d1",
+      "incumbent_source_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf"
     },
     {
       "id": "shawn-varwig",
       "name": "Shawn Varwig",
       "race_id": "canby-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1c8ce09a-1e32-43a6-bc12-14b0a2e161d1"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1c8ce09a-1e32-43a6-bc12-14b0a2e161d1",
+      "incumbent_source_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf"
     },
     {
       "id": "scott-cantonwine",
       "name": "Scott Cantonwine",
       "race_id": "canby-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1c8ce09a-1e32-43a6-bc12-14b0a2e161d1"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1c8ce09a-1e32-43a6-bc12-14b0a2e161d1",
+      "incumbent_source_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf"
     },
     {
       "id": "andrew-mullins",
       "name": "Andrew Mullins",
       "race_id": "canby-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1c8ce09a-1e32-43a6-bc12-14b0a2e161d1"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1c8ce09a-1e32-43a6-bc12-14b0a2e161d1",
+      "incumbent_source_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf"
     },
     {
       "id": "melody-thompson",
       "name": "Melody Thompson",
       "race_id": "canby-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1c8ce09a-1e32-43a6-bc12-14b0a2e161d1"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1c8ce09a-1e32-43a6-bc12-14b0a2e161d1",
+      "incumbent_source_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf"
     },
     {
       "id": "brian-ayres",
       "name": "Brian Ayres",
       "race_id": "canby-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1c8ce09a-1e32-43a6-bc12-14b0a2e161d1"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1c8ce09a-1e32-43a6-bc12-14b0a2e161d1",
+      "incumbent_source_url": "https://www.canbyoregon.gov/sites/default/files/fileattachments/city_council/meeting/31008/01-07-2026_cc_meeting_minutes.pdf"
     },
     {
       "id": "jonathan-metcalf",
       "name": "Jonathan Metcalf",
       "race_id": "estacada-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/6cd17110-5b2a-4cf9-91ad-072ce8bad7b5"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/6cd17110-5b2a-4cf9-91ad-072ce8bad7b5",
+      "incumbent_source_url": "https://www.cityofestacada.org/city-council-election/"
     },
     {
       "id": "sean-drinkwine",
       "name": "Sean Drinkwine",
       "race_id": "estacada-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/6cd17110-5b2a-4cf9-91ad-072ce8bad7b5"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/6cd17110-5b2a-4cf9-91ad-072ce8bad7b5",
+      "incumbent_source_url": "https://www.cityofestacada.org/city-council-election/"
     },
     {
       "id": "melissa-hill",
       "name": "Melissa A Hill",
       "race_id": "estacada-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/6cd17110-5b2a-4cf9-91ad-072ce8bad7b5"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/6cd17110-5b2a-4cf9-91ad-072ce8bad7b5",
+      "incumbent_source_url": "https://www.cityofestacada.org/city-council-election/"
     },
     {
       "id": "richard-tipton",
       "name": "Richard L Tipton",
       "race_id": "estacada-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/6cd17110-5b2a-4cf9-91ad-072ce8bad7b5"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/6cd17110-5b2a-4cf9-91ad-072ce8bad7b5",
+      "incumbent_source_url": "https://www.cityofestacada.org/city-council-election/"
     },
     {
       "id": "ryan-austin",
       "name": "Ryan Austin",
       "race_id": "estacada-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/6cd17110-5b2a-4cf9-91ad-072ce8bad7b5"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/6cd17110-5b2a-4cf9-91ad-072ce8bad7b5",
+      "incumbent_source_url": "https://www.cityofestacada.org/city-council-election/"
     },
     {
       "id": "michael-milch",
       "name": "Michael Milch",
       "race_id": "gladstone-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1bb210b0-c31e-4d9b-be0a-c753591d88bc"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1bb210b0-c31e-4d9b-be0a-c753591d88bc",
+      "incumbent_source_url": "https://www.ci.gladstone.or.us/citycouncil/page/meet-your-council"
     },
     {
       "id": "bill-osburn",
       "name": "Bill Osburn",
       "race_id": "gladstone-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1bb210b0-c31e-4d9b-be0a-c753591d88bc"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1bb210b0-c31e-4d9b-be0a-c753591d88bc",
+      "incumbent_source_url": "https://www.ci.gladstone.or.us/citycouncil/page/meet-your-council"
     },
     {
       "id": "antonette-perry",
       "name": "Antonette (Toni) Perry",
       "race_id": "gladstone-council-pos-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1bb210b0-c31e-4d9b-be0a-c753591d88bc"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1bb210b0-c31e-4d9b-be0a-c753591d88bc",
+      "incumbent_source_url": "https://www.ci.gladstone.or.us/citycouncil/page/meet-your-council"
     },
     {
       "id": "vanessa-huckaby",
       "name": "Vanessa Huckaby",
       "race_id": "gladstone-council-pos-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1bb210b0-c31e-4d9b-be0a-c753591d88bc"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1bb210b0-c31e-4d9b-be0a-c753591d88bc",
+      "incumbent_source_url": "https://www.ci.gladstone.or.us/citycouncil/page/meet-your-council"
     },
     {
       "id": "gabrielle-blaug",
       "name": "Gabrielle Blaug",
       "race_id": "gladstone-council-pos-3",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1bb210b0-c31e-4d9b-be0a-c753591d88bc"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1bb210b0-c31e-4d9b-be0a-c753591d88bc",
+      "incumbent_source_url": "https://www.ci.gladstone.or.us/citycouncil/page/meet-your-council"
     },
     {
       "id": "josh-smith",
       "name": "Josh Smith",
       "race_id": "gladstone-council-pos-5",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1bb210b0-c31e-4d9b-be0a-c753591d88bc"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1bb210b0-c31e-4d9b-be0a-c753591d88bc",
+      "incumbent_source_url": "https://www.ci.gladstone.or.us/citycouncil/page/meet-your-council"
     },
     {
       "id": "joshua-callahan",
       "name": "Joshua V Callahan",
       "race_id": "happy-valley-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/c5220412-6dbc-4162-bace-01109659eba1"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/c5220412-6dbc-4162-bace-01109659eba1",
+      "incumbent_source_url": "https://www.happyvalleyor.gov/general-election-november-3-2026-open-positions/"
     },
     {
       "id": "david-sharyan",
       "name": "David Sharyan",
       "race_id": "happy-valley-council-pos-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/c5220412-6dbc-4162-bace-01109659eba1"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/c5220412-6dbc-4162-bace-01109659eba1",
+      "incumbent_source_url": "https://www.happyvalleyor.gov/general-election-november-3-2026-open-positions/"
     },
     {
       "id": "marchelle-paholsky",
       "name": "Marchelle Paholsky",
       "race_id": "happy-valley-council-pos-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/c5220412-6dbc-4162-bace-01109659eba1"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/c5220412-6dbc-4162-bace-01109659eba1",
+      "incumbent_source_url": "https://www.happyvalleyor.gov/general-election-november-3-2026-open-positions/"
     },
     {
       "id": "brett-sherman",
       "name": "Brett M Sherman",
       "race_id": "happy-valley-council-pos-3",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/c5220412-6dbc-4162-bace-01109659eba1"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/c5220412-6dbc-4162-bace-01109659eba1",
+      "incumbent_source_url": "https://www.happyvalleyor.gov/city-hall/city-council/"
     },
     {
       "id": "tara-schoffstall",
       "name": "Tara Schoffstall",
       "race_id": "johnson-city-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1651bcbc-f426-4af8-b10e-bc77368cd265"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1651bcbc-f426-4af8-b10e-bc77368cd265",
+      "incumbent_source_url": "https://www.johnsoncityoregon.gov/"
     },
     {
       "id": "jacqualine-moritz",
       "name": "Jacqualine (Jackie) Moritz",
       "race_id": "johnson-city-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1651bcbc-f426-4af8-b10e-bc77368cd265"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1651bcbc-f426-4af8-b10e-bc77368cd265",
+      "incumbent_source_url": "https://www.johnsoncityoregon.gov/"
     },
     {
       "id": "vicki-espenel",
       "name": "Vicki Espenel",
       "race_id": "johnson-city-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1651bcbc-f426-4af8-b10e-bc77368cd265"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/1651bcbc-f426-4af8-b10e-bc77368cd265",
+      "incumbent_source_url": "https://www.johnsoncityoregon.gov/"
     },
     {
       "id": "lisa-batey",
       "name": "Lisa Batey",
       "race_id": "milwaukie-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836",
+      "incumbent_source_url": "https://milwaukieoregon.gov/node/124341"
     },
     {
       "id": "leslie-wright",
       "name": "Leslie Wright",
       "race_id": "milwaukie-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836",
+      "incumbent_source_url": "https://milwaukieoregon.gov/node/124341"
     },
     {
       "id": "will-anderson",
       "name": "Will Anderson",
       "race_id": "milwaukie-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836",
+      "incumbent_source_url": "https://milwaukieoregon.gov/node/124341"
     },
     {
       "id": "allie-ball",
       "name": "Allie Ball",
       "race_id": "milwaukie-council-pos-2",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836",
+      "incumbent_source_url": "https://www.milwaukieoregon.gov/government/city_council/index.php"
     },
     {
       "id": "jennifer-murphy",
       "name": "Jennifer Murphy",
       "race_id": "milwaukie-council-pos-2",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836",
+      "incumbent_source_url": "https://www.milwaukieoregon.gov/government/city_council/index.php"
     },
     {
       "id": "nick-hess",
       "name": "Nick Hess",
       "race_id": "milwaukie-council-pos-2",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836",
+      "incumbent_source_url": "https://www.milwaukieoregon.gov/government/city_council/index.php"
     },
     {
       "id": "rebecca-stavenjord",
       "name": "Rebecca Stavenjord",
       "race_id": "milwaukie-council-pos-4",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836",
+      "incumbent_source_url": "https://www.milwaukieoregon.gov/government/city_council/index.php"
     },
     {
       "id": "kc-bisenius",
@@ -7863,72 +7959,81 @@
       "name": "Monica Bergmann",
       "race_id": "molalla-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5b0f9507-07da-4606-9959-252ac8ac8907"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5b0f9507-07da-4606-9959-252ac8ac8907",
+      "incumbent_source_url": "https://www.cityofmolalla.com/Government/Molalla-City-Council"
     },
     {
       "id": "sheila-howe",
       "name": "Sheila Howe",
       "race_id": "molalla-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5b0f9507-07da-4606-9959-252ac8ac8907"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5b0f9507-07da-4606-9959-252ac8ac8907",
+      "incumbent_source_url": "https://www.cityofmolalla.com/Government/Molalla-City-Council"
     },
     {
       "id": "damon-mabee",
       "name": "Damon Mabee",
       "race_id": "oregon-city-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f",
+      "incumbent_source_url": "https://orcity.org/933"
     },
     {
       "id": "adam-marl",
       "name": "Adam Marl",
       "race_id": "oregon-city-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f",
+      "incumbent_source_url": "https://orcity.org/933"
     },
     {
       "id": "rodney-la-barr",
       "name": "Rodney La Barr",
       "race_id": "oregon-city-mayor",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f",
+      "incumbent_source_url": "https://orcity.org/933"
     },
     {
       "id": "betty-mumm",
       "name": "Betty Mumm",
       "race_id": "oregon-city-commissioner",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f",
+      "incumbent_source_url": "https://orcity.org/933"
     },
     {
       "id": "james-nicita",
       "name": "James Nicita",
       "race_id": "oregon-city-commissioner",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f",
+      "incumbent_source_url": "https://orcity.org/933"
     },
     {
       "id": "paul-espe",
       "name": "Paul Espe",
       "race_id": "oregon-city-commissioner",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f",
+      "incumbent_source_url": "https://orcity.org/933"
     },
     {
       "id": "gordon-lawrence",
       "name": "Gordon J Lawrence",
       "race_id": "oregon-city-commissioner",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f",
+      "incumbent_source_url": "https://orcity.org/933"
     },
     {
       "id": "kathleen-walker",
@@ -7983,8 +8088,9 @@
       "name": "Kevin J Bonnington",
       "race_id": "west-linn-council",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/64cf9be3-3c13-4e9b-bdbd-14a4d2ce1f29"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/64cf9be3-3c13-4e9b-bdbd-14a4d2ce1f29",
+      "incumbent_source_url": "https://westlinnoregon.gov/citycouncil/councilor-kevin-bonnington"
     },
     {
       "id": "kate-nelson",
@@ -7999,116 +8105,129 @@
       "name": "Rhett L Bernstein",
       "race_id": "west-linn-municipal-judge",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/64cf9be3-3c13-4e9b-bdbd-14a4d2ce1f29"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/64cf9be3-3c13-4e9b-bdbd-14a4d2ce1f29",
+      "incumbent_source_url": "https://westlinnoregon.gov/municipalcourt/municipal-judge"
     },
     {
       "id": "roger-fantz",
       "name": "Roger Fantz",
       "race_id": "clackamas-swcd-at-large-2",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/93311f5e-eb12-4f0f-8eb7-daca63226d57"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/93311f5e-eb12-4f0f-8eb7-daca63226d57",
+      "incumbent_source_url": "https://conservationdistrict.org/our-people"
     },
     {
       "id": "nicki-passarella",
       "name": "Nicki Passarella",
       "race_id": "clackamas-swcd-zone-1",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/93311f5e-eb12-4f0f-8eb7-daca63226d57"
+      "incumbent": false,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/93311f5e-eb12-4f0f-8eb7-daca63226d57",
+      "incumbent_source_url": "https://conservationdistrict.org/our-people"
     },
     {
       "id": "joan-zuber",
       "name": "Joan Zuber",
       "race_id": "clackamas-swcd-zone-4",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/93311f5e-eb12-4f0f-8eb7-daca63226d57"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/93311f5e-eb12-4f0f-8eb7-daca63226d57",
+      "incumbent_source_url": "https://conservationdistrict.org/our-people"
     },
     {
       "id": "don-guttridge",
       "name": "Don Guttridge",
       "race_id": "clackamas-swcd-zone-5",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://docs.clackamas.us/documents/drupal/93311f5e-eb12-4f0f-8eb7-daca63226d57"
+      "incumbent": true,
+      "filing_source_url": "https://docs.clackamas.us/documents/drupal/93311f5e-eb12-4f0f-8eb7-daca63226d57",
+      "incumbent_source_url": "https://conservationdistrict.org/our-people"
     },
     {
       "id": "shayne-kleinschmit",
       "name": "Shayne Kleinschmit",
       "race_id": "mt-angel-monitor-fire-district-directors",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
+      "incumbent": false,
+      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "incumbent_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
     },
     {
       "id": "aaron-bielemeier",
       "name": "Aaron G Bielemeier",
       "race_id": "mt-angel-monitor-fire-district-directors",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
+      "incumbent": false,
+      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "incumbent_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
     },
     {
       "id": "lori-pavlicek",
       "name": "Lori M Pavlicek",
       "race_id": "mt-angel-monitor-fire-district-directors",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
+      "incumbent": false,
+      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "incumbent_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
     },
     {
       "id": "paul-iverson",
       "name": "Paul Iverson",
       "race_id": "mt-angel-monitor-fire-district-directors",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
+      "incumbent": false,
+      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "incumbent_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
     },
     {
       "id": "phil-wiesner",
       "name": "Phil Wiesner",
       "race_id": "mt-angel-monitor-fire-district-directors",
       "party": null,
-      "incumbent": null,
-      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
+      "incumbent": false,
+      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "incumbent_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
     },
     {
       "id": "kevin-cameron",
       "name": "Kevin Cameron",
       "race_id": "marion-county-commissioner-pos-1",
       "party": "Republican",
-      "incumbent": null,
-      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
+      "incumbent": true,
+      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "incumbent_source_url": "https://www.co.marion.or.us/BOC"
     },
     {
       "id": "sara-duncan",
       "name": "Sara Duncan",
       "race_id": "marion-county-commissioner-pos-1",
       "party": "Democrat",
-      "incumbent": null,
+      "incumbent": false,
       "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
       "nominating_parties": [
         "Democrat",
         "Independent",
         "Working Families"
-      ]
+      ],
+      "incumbent_source_url": "https://www.co.marion.or.us/BOC"
     },
     {
       "id": "colm-willis",
       "name": "Colm Willis",
       "race_id": "marion-county-commissioner-pos-2",
       "party": "Republican",
-      "incumbent": null,
-      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf"
+      "incumbent": true,
+      "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+      "incumbent_source_url": "https://www.co.marion.or.us/BOC"
     },
     {
       "id": "maria-hinojos-pressey",
       "name": "Maria Hinojos Pressy",
       "race_id": "marion-county-commissioner-pos-2",
       "party": "Democrat",
-      "incumbent": null,
+      "incumbent": false,
       "filing_source_url": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
       "nominating_parties": [
         "Democrat",
@@ -8117,7 +8236,8 @@
       ],
       "name_variants": [
         "Maria Hinojos Pressey"
-      ]
+      ],
+      "incumbent_source_url": "https://www.co.marion.or.us/BOC"
     },
     {
       "id": "samual-brentano",
