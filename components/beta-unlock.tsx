@@ -14,7 +14,7 @@ export function BetaUnlock({
       <p className="eyebrow">Private beta</p>
       <p className="text-[15.5px] leading-relaxed text-ink-soft">{intro}</p>
       <label htmlFor="beta-password" className="font-medium">
-        Beta password
+        Password
       </label>
       <div className="flex flex-col gap-2 sm:flex-row">
         <input
