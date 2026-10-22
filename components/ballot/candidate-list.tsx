@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, useContext, useState } from "react";
+import { createContext, useContext, useRef, useState } from "react";
 
 type Collapse = {
   closed: Set<string>;
@@ -12,6 +12,9 @@ const CollapseContext = createContext<Collapse | null>(null);
 
 /** Races with more candidates than this start with every card folded. */
 const foldAbove = 4;
+
+/** Up to this many candidates, the jump bar shows a chip per name; above it, one menu. */
+const chipLimit = 6;
 
 const cardId = (slug: string) => `candidate-${slug}`;
 
@@ -43,29 +46,57 @@ export function CandidateList({
       return next;
     });
   const allClosed = candidates.every((c) => closed.has(c.slug));
+  const bar = useRef<HTMLElement>(null);
   const jump = (slug: string) => {
     open(slug);
-    // After the card opens, bring its top just under the jump bar.
-    requestAnimationFrame(() => document.getElementById(cardId(slug))?.scrollIntoView({ block: "start" }));
+    // After the card opens, bring its top just under the sticky jump bar.
+    requestAnimationFrame(() => {
+      const card = document.getElementById(cardId(slug));
+      if (!card) return;
+      const offset = (bar.current?.offsetHeight ?? 0) + 8;
+      window.scrollTo({ top: card.getBoundingClientRect().top + window.scrollY - offset });
+      card.querySelector<HTMLButtonElement>("button[aria-expanded]")?.focus({ preventScroll: true });
+    });
   };
+  // A handful of names fit as chips; a crowded race gets one compact menu so the bar stays one line.
+  const asMenu = candidates.length > chipLimit;
 
   return (
     <CollapseContext.Provider value={{ closed, toggle, open }}>
       {candidates.length > 1 && (
         <nav
+          ref={bar}
           aria-label="Jump to a candidate"
           className="no-print sticky top-0 z-10 -mx-1 flex flex-wrap items-center gap-1.5 border-b border-line bg-cream px-1 py-2"
         >
-          {candidates.map((c) => (
-            <button
-              key={c.slug}
-              type="button"
-              onClick={() => jump(c.slug)}
-              className="min-h-8 border border-line-strong bg-paper px-2.5 text-[13.5px] hover:border-ink"
-            >
-              {c.name}
-            </button>
-          ))}
+          {asMenu ? (
+            <label className="flex items-center gap-2 text-[13.5px]">
+              <span className="text-muted">Jump to</span>
+              <select
+                value=""
+                onChange={(e) => e.target.value && jump(e.target.value)}
+                className="min-h-9 max-w-[16rem] border border-line-strong bg-paper px-2 text-[14px]"
+              >
+                <option value="">Choose a candidate ({candidates.length})</option>
+                {candidates.map((c) => (
+                  <option key={c.slug} value={c.slug}>
+                    {c.name}
+                  </option>
+                ))}
+              </select>
+            </label>
+          ) : (
+            candidates.map((c) => (
+              <button
+                key={c.slug}
+                type="button"
+                onClick={() => jump(c.slug)}
+                className="min-h-8 border border-line-strong bg-paper px-2.5 text-[13.5px] hover:border-ink"
+              >
+                {c.name}
+              </button>
+            ))
+          )}
           <button
             type="button"
             onClick={() => setClosed(allClosed ? new Set() : new Set(candidates.map((c) => c.slug)))}
@@ -100,7 +131,7 @@ export function CandidateCard({
   const isOpen = !c?.closed.has(slug);
   const bodyId = `${cardId(slug)}-body`;
   return (
-    <li id={cardId(slug)} className="scroll-mt-14 border border-line bg-paper">
+    <li id={cardId(slug)} className="border border-line bg-paper">
       <div className="flex flex-wrap items-start justify-between gap-2 px-4 py-3">
         <button
           type="button"
