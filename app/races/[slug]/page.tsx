@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 
 import { AskJump, AskProvider, AskToggle } from "@/components/ballot/ask-context";
 import { AboutOffice } from "@/components/ballot/about-office";
+import { CandidateCard, CandidateList } from "@/components/ballot/candidate-list";
 import { DiscussionPanel } from "@/components/ballot/discussion-panel";
 import { BetaUnlock } from "@/components/beta-unlock";
 import { NotReady } from "@/components/ballot/not-ready";
@@ -96,17 +97,26 @@ export default async function RacePage({
               <h2 id="candidates" className="section-title">
                 The candidates
               </h2>
-              <ul className="grid gap-4">
+              {/* Every profile is built from public sources until candidates can claim theirs (phase 2), so the
+                  note covers every card at once instead of a badge on each. */}
+              <p className="note">
+                Listed in the same order as the official filings. Every profile is from the public record only.
+              </p>
+              <CandidateList candidates={profiles.map((p) => ({ slug: p.slug, name: p.name }))}>
                 {profiles.map((c) => (
-                  <CandidateCard key={c.slug} c={c} canAsk={canAsk} />
+                  <CandidateEntry key={c.slug} c={c} canAsk={canAsk} />
                 ))}
-              </ul>
-              <p className="note">Listed in the same order as the official filings.</p>
+              </CandidateList>
             </section>
             <YourChoice
               itemKey={race.key}
               label={itemTitle(race)}
               options={race.candidates.map((c) => ({ value: c.slug, label: c.name }))}
+              ranking={
+                race.rankedChoice ? (
+                  <Shortlist itemKey={race.key} candidates={race.candidates} ranked seats={race.seats} />
+                ) : undefined
+              }
             >
               <Shortlist itemKey={race.key} candidates={race.candidates} />
             </YourChoice>
@@ -119,62 +129,49 @@ export default async function RacePage({
 }
 
 /** How many positions show on the card before "More". Enough to compare at a glance without long scrolling. */
-const shownPositions = 3;
+const shownPositions = 2;
 
-function CandidateCard({ c, canAsk }: { c: CandidateProfile; canAsk: boolean }) {
+function CandidateEntry({ c, canAsk }: { c: CandidateProfile; canAsk: boolean }) {
   const intro = c.bio[0];
   const highlights = c.positions.slice(0, shownPositions);
   const more = [...c.positions.slice(shownPositions), ...c.bio.slice(1), ...c.votingRecord];
+  // The pamphlet occupation is the candidate's own words, so it wins over the filing's occupation field.
+  const occupation = c.pamphletBackground?.occupation ?? c.occupation;
+  const links = [
+    c.officialUrl && { href: c.officialUrl, text: "Official page" },
+    c.websiteUrl && { href: c.websiteUrl, text: "Campaign website" },
+  ].filter((l): l is { href: string; text: string } => !!l);
   return (
-    <li className="flex flex-col gap-3 border border-line bg-paper p-5">
-      <div className="flex flex-wrap items-start justify-between gap-2">
-        <div>
-          <h3 className="font-display text-[22px] leading-tight font-semibold">{c.name}</h3>
-          <p className="mt-0.5 text-[13.5px] text-muted">
-            {/* The pamphlet block below shows their occupation in their own words, so it isn't repeated here. */}
-            {[
-              c.party ?? "No party listed",
-              c.incumbent ? "Incumbent" : null,
-              c.pamphletBackground?.occupation ? null : c.occupation,
-            ]
-              .filter(Boolean)
-              .join(" · ")}
-          </p>
-        </div>
-        <div className="flex items-center gap-2">
-          {/* Every profile is built from public sources until candidates can claim theirs (phase 2), so every
-              card carries the same tag. Showing it on some cards and not others reads as unequal treatment. */}
-          <span className="badge">Public record only</span>
-          {canAsk && <AskToggle id={c.slug} name={c.name} />}
-        </div>
-      </div>
+    <CandidateCard
+      slug={c.slug}
+      name={c.name}
+      meta={[c.party ?? "No party listed", c.incumbent ? "Incumbent" : null, occupation].filter(Boolean).join(" · ")}
+      actions={canAsk ? <AskToggle id={c.slug} name={c.name} /> : undefined}
+    >
       {c.pamphletBackground !== undefined && (
         <PamphletBackground background={c.pamphletBackground} pamphletUrl={c.pamphletUrl} />
       )}
       {intro ? (
         <Sourced item={intro} className="text-[15px] leading-relaxed text-ink-soft" />
       ) : (
-        <p className="note">Nothing published on this candidate yet.</p>
+        <p className="note">Nothing else published on this candidate yet.</p>
       )}
       {highlights.length > 0 && (
-        <div className="flex flex-col gap-2 border-l-2 border-line pl-3">
-          <p className="side-label text-muted">Where they stand</p>
-          <ul className="flex flex-col gap-2">
-            {highlights.map((p, n) => (
-              <li key={n} className="text-[15px] text-ink-soft">
-                {issueLabel(p.topic) && <span className="font-semibold text-ink">{issueLabel(p.topic)}: </span>}
-                <Sourced item={p} className="inline" />
-              </li>
-            ))}
-          </ul>
-        </div>
+        <ul className="flex flex-col gap-1.5">
+          {highlights.map((p, n) => (
+            <li key={n} className="text-[15px] text-ink-soft">
+              {issueLabel(p.topic) && <span className="font-semibold text-ink">{issueLabel(p.topic)}: </span>}
+              <Sourced item={p} className="inline" />
+            </li>
+          ))}
+        </ul>
       )}
       {more.length > 0 && (
         <details>
           <summary className="link cursor-pointer py-1 text-sm">
             More on {c.name} ({more.length})
           </summary>
-          <ul className="mt-3 flex flex-col gap-3">
+          <ul className="mt-2 flex flex-col gap-2.5">
             {more.map((i, n) => (
               <li key={n}>
                 <Sourced item={i} className="text-[15px] text-ink-soft" />
@@ -184,17 +181,12 @@ function CandidateCard({ c, canAsk }: { c: CandidateProfile; canAsk: boolean }) 
         </details>
       )}
       <EndorsedBy endorsements={c.endorsements} />
-      <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm">
-        {c.officialUrl && (
-          <a href={c.officialUrl} className="link" target="_blank" rel="noopener noreferrer">
-            Official page
+      <p className="flex flex-wrap gap-x-4 gap-y-1 text-sm">
+        {links.map((l) => (
+          <a key={l.text} href={l.href} className="link" target="_blank" rel="noopener noreferrer">
+            {l.text}
           </a>
-        )}
-        {c.websiteUrl && (
-          <a href={c.websiteUrl} className="link" target="_blank" rel="noopener noreferrer">
-            Campaign website
-          </a>
-        )}
+        ))}
         {contactEmail && (
           <a
             href={`mailto:${contactEmail}?subject=${encodeURIComponent(`Candidate profile: ${c.name}`)}`}
@@ -203,7 +195,7 @@ function CandidateCard({ c, canAsk }: { c: CandidateProfile; canAsk: boolean }) 
             Are you this candidate? Let us know
           </a>
         )}
-      </div>
-    </li>
+      </p>
+    </CandidateCard>
   );
 }

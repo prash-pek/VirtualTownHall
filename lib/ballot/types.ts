@@ -11,6 +11,13 @@ export type CatalogRace = {
   jurisdictionSlug: string;
   /** Section of the printed ballot this race sits in, e.g. "State House" (lib/ballot/order.ts). */
   group: string;
+  /** How many people win this race (3 per Portland council district). Null when the filing doesn't say. */
+  seats?: number | null;
+  /**
+   * Set in the inventory only for races confirmed ranked-choice by official sources (Portland city offices
+   * under the 2022 charter, Multnomah County offices from November 2026). Everything else is a single pick.
+   */
+  rankedChoice?: boolean;
   candidates: CatalogCandidate[];
 };
 
