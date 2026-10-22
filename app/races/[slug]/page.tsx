@@ -132,9 +132,11 @@ export default async function RacePage({
 const shownPositions = 2;
 
 function CandidateEntry({ c, canAsk }: { c: CandidateProfile; canAsk: boolean }) {
-  const intro = c.bio[0];
+  // With the pamphlet lines up top, the first bio line mostly repeats them, so it moves under "More".
+  const hasBackground = !!c.pamphletBackground;
+  const intro = hasBackground ? undefined : c.bio[0];
   const highlights = c.positions.slice(0, shownPositions);
-  const more = [...c.positions.slice(shownPositions), ...c.bio.slice(1), ...c.votingRecord];
+  const more = [...c.positions.slice(shownPositions), ...c.bio.slice(hasBackground ? 0 : 1), ...c.votingRecord];
   // The pamphlet occupation is the candidate's own words, so it wins over the filing's occupation field.
   const occupation = c.pamphletBackground?.occupation ?? c.occupation;
   const links = [
@@ -154,7 +156,7 @@ function CandidateEntry({ c, canAsk }: { c: CandidateProfile; canAsk: boolean })
       {intro ? (
         <Sourced item={intro} className="text-[15px] leading-relaxed text-ink-soft" />
       ) : (
-        <p className="note">Nothing else published on this candidate yet.</p>
+        !hasBackground && highlights.length === 0 && <p className="note">Nothing published on this candidate yet.</p>
       )}
       {highlights.length > 0 && (
         <ul className="flex flex-col gap-1.5">
@@ -180,8 +182,11 @@ function CandidateEntry({ c, canAsk }: { c: CandidateProfile; canAsk: boolean })
           </ul>
         </details>
       )}
-      <EndorsedBy endorsements={c.endorsements} />
-      <p className="flex flex-wrap gap-x-4 gap-y-1 text-sm">
+      {c.endorsements.length > 0 && <EndorsedBy endorsements={c.endorsements} />}
+      <p className="flex flex-wrap gap-x-4 gap-y-1 border-t border-line pt-2.5 text-sm">
+        {c.endorsements.length === 0 && (
+          <span className="note">No endorsements on record in the sources we checked.</span>
+        )}
         {links.map((l) => (
           <a key={l.text} href={l.href} className="link" target="_blank" rel="noopener noreferrer">
             {l.text}

@@ -44,18 +44,26 @@ export function PamphletBackground({
   return (
     <div className="text-[14.5px] leading-snug text-ink-soft">
       <dl className="grid gap-x-3 gap-y-1 sm:grid-cols-[8.5rem_1fr]">
-        {lines.map((l) => (
+        {lines.map((l, n) => (
           <div key={l.label} className="contents">
             <dt className="font-semibold text-ink">{l.label}</dt>
-            <dd>{l.text}</dd>
+            <dd>
+              {l.text}
+              {/* One source for the whole block, after its last line. */}
+              {n === lines.length - 1 && (
+                <>
+                  {" "}
+                  <Citation
+                    excerpt={null}
+                    publisher={`${background.source.title}, page ${background.source.page}`}
+                    sourceUrl={pageLink(background)}
+                  />
+                </>
+              )}
+            </dd>
           </div>
         ))}
       </dl>
-      <Citation
-        excerpt={null}
-        publisher={`${background.source.title}, page ${background.source.page}`}
-        sourceUrl={pageLink(background)}
-      />
     </div>
   );
 }

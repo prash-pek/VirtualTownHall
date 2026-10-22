@@ -10,6 +10,9 @@ type Collapse = {
 
 const CollapseContext = createContext<Collapse | null>(null);
 
+/** Races with more candidates than this start with every card folded. */
+const foldAbove = 4;
+
 const cardId = (slug: string) => `candidate-${slug}`;
 
 /**
@@ -23,7 +26,10 @@ export function CandidateList({
   candidates: { slug: string; name: string }[];
   children: React.ReactNode;
 }) {
-  const [closed, setClosed] = useState<Set<string>>(new Set());
+  // A crowded race (Portland council has 20+) starts folded to a list of names; small races start open.
+  const [closed, setClosed] = useState<Set<string>>(
+    () => new Set(candidates.length > foldAbove ? candidates.map((c) => c.slug) : []),
+  );
   const toggle = (slug: string) =>
     setClosed((cur) => {
       const next = new Set(cur);
