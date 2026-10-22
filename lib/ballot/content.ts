@@ -11,6 +11,7 @@ import {
   measureArguments,
   races,
   sources,
+  type PamphletBackground,
 } from "@/lib/db/schema";
 
 /**
@@ -47,6 +48,11 @@ export type CandidateProfile = {
   websiteUrl: string | null;
   officialUrl: string | null;
   pamphletUrl: string | null;
+  /**
+   * Word-for-word background lines from the candidate's pamphlet statement. Null when no statement was
+   * found; undefined when the candidate's profile isn't shown yet (draft).
+   */
+  pamphletBackground?: PamphletBackground | null;
   claimed: boolean;
   draft: boolean;
   bio: SourcedItem[];
@@ -129,6 +135,7 @@ export async function getRaceProfiles(raceSlug: string, preview: boolean): Promi
       websiteUrl: candidates.websiteUrl,
       officialUrl: candidates.officialUrl,
       pamphletUrl: candidates.pamphletUrl,
+      pamphletBackground: candidates.pamphletBackground,
       profileSource: candidates.profileSource,
       isVerified: candidates.isVerified,
       status: candidates.status,
@@ -199,6 +206,7 @@ export async function getRaceProfiles(raceSlug: string, preview: boolean): Promi
       websiteUrl: shown.includes(c) ? c.websiteUrl : null,
       officialUrl: shown.includes(c) ? c.officialUrl : null,
       pamphletUrl: shown.includes(c) ? c.pamphletUrl : null,
+      pamphletBackground: shown.includes(c) ? (c.pamphletBackground ?? null) : undefined,
       claimed: c.profileSource === "candidate" && c.isVerified,
       draft: c.status !== "published",
       bio: own.filter((i) => i.kind === "bio").map(toItem),

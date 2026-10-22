@@ -265,6 +265,20 @@ export type PersonaConfig = {
   [key: string]: unknown;
 };
 
+/**
+ * The labeled background lines from a candidate's voters' pamphlet statement, copied word for word
+ * (data/oregon-2026/pipeline/pamphlet_headlines.py). Null when no statement was found.
+ */
+export type PamphletBackground = {
+  occupation?: string;
+  occupationalBackground?: string;
+  educationalBackground?: string;
+  priorGovernmentalExperience?: string;
+  /** Optional lines some candidates add, such as Civic Leadership or Community Service. */
+  other?: { label: string; text: string }[];
+  source: { title: string; url: string; page: number };
+};
+
 export const candidates = pgTable(
   "candidates",
   {
@@ -282,6 +296,7 @@ export const candidates = pgTable(
     officialUrl: text("official_url"),
     /** The voters' pamphlet the candidate is in (their statement, or the pamphlet for their race). Fallback link. */
     pamphletUrl: text("pamphlet_url"),
+    pamphletBackground: jsonb("pamphlet_background").$type<PamphletBackground>(),
     profileSource: profileSource("profile_source").notNull().default("public_seed"),
     ownerUserId: text("owner_user_id"),
     claimedAt: timestamp("claimed_at", { withTimezone: true }),

@@ -12,6 +12,7 @@ raw/candidates/<id>.json    # collector output, one file per candidate
 raw/measures/<id>.json      # collector output, one file per measure
 verified/candidates/<id>.json
 verified/measures/<id>.json # verifier output (same shape + verification fields)
+pamphlet-headlines.json     # pamphlet background lines per candidate, word for word (pipeline/pamphlet_headlines.py)
 reports/                    # collection and verification reports
 ```
 

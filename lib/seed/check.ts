@@ -27,6 +27,15 @@ export async function inOrder<T extends readonly unknown[]>(
   return out as { [K in keyof T]: Awaited<T[K]> };
 }
 
+/** JSON with object keys sorted, so a jsonb column (Postgres reorders keys) compares equal to the files. */
+export function stableJson(v: unknown): string {
+  return JSON.stringify(v ?? null, (_, x) =>
+    x && typeof x === "object" && !Array.isArray(x)
+      ? Object.fromEntries(Object.entries(x).sort(([a], [b]) => (a < b ? -1 : a > b ? 1 : 0)))
+      : x,
+  );
+}
+
 /** Stop listing after this many, so a wholesale mismatch doesn't flood the build log. */
 const MAX_PROBLEMS = 50;
 
@@ -41,7 +50,7 @@ class Problems {
   diff(what: string, expected: Record<string, unknown>, actual: Record<string, unknown>) {
     for (const [k, v] of Object.entries(expected)) {
       const a = actual[k];
-      if (JSON.stringify(v ?? null) !== JSON.stringify(a ?? null))
+      if (stableJson(v) !== stableJson(a))
         this.add(
           `${what}: ${k} is ${JSON.stringify(a ?? null)} in the database, ${JSON.stringify(v ?? null)} in the files`,
         );
@@ -191,6 +200,7 @@ export async function checkVerified(db: Queryable, plan: VerifiedPlan): Promise<
         websiteUrl: c.websiteUrl,
         officialUrl: c.officialUrl,
         pamphletUrl: c.pamphletUrl,
+        pamphletBackground: c.pamphletBackground,
         gaps: c.gaps,
       })
       .from(c),
@@ -252,6 +262,10 @@ export async function checkVerified(db: Queryable, plan: VerifiedPlan): Promise<
     if (!row)
       p.add(`candidate ${e.slug} has verified content but is not in the database (missing from inventory.json?)`);
     else p.diff(`candidate ${e.slug}`, e.fields, row);
+  }
+  for (const b of plan.backgrounds) {
+    const row = candidateBySlug.get(b.slug);
+    if (row) p.diff(`candidate ${b.slug}`, { pamphletBackground: b.background }, row);
   }
   const measureBySlug = new Map(measures.map((r) => [r.slug, r]));
   for (const e of plan.measures) {

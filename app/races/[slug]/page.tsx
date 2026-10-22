@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { AskJump, AskProvider, AskToggle } from "@/components/ballot/ask-context";
 import { DiscussionPanel } from "@/components/ballot/discussion-panel";
 import { NotReady } from "@/components/ballot/not-ready";
+import { PamphletBackground } from "@/components/ballot/pamphlet-background";
 import { EndorsedBy } from "@/components/ballot/endorsed-by";
 import { Shortlist } from "@/components/ballot/shortlist";
 import { PreviewBanner, Sourced } from "@/components/ballot/sourced";
@@ -116,7 +117,14 @@ function CandidateCard({ c, canAsk }: { c: CandidateProfile; canAsk: boolean }) 
         <div>
           <h3 className="font-display text-[22px] leading-tight font-semibold">{c.name}</h3>
           <p className="mt-0.5 text-[13.5px] text-muted">
-            {[c.party ?? "No party listed", c.incumbent ? "Incumbent" : null, c.occupation].filter(Boolean).join(" · ")}
+            {/* The pamphlet block below shows their occupation in their own words, so it isn't repeated here. */}
+            {[
+              c.party ?? "No party listed",
+              c.incumbent ? "Incumbent" : null,
+              c.pamphletBackground?.occupation ? null : c.occupation,
+            ]
+              .filter(Boolean)
+              .join(" · ")}
           </p>
         </div>
         <div className="flex items-center gap-2">
@@ -126,6 +134,9 @@ function CandidateCard({ c, canAsk }: { c: CandidateProfile; canAsk: boolean }) 
           {canAsk && <AskToggle id={c.slug} name={c.name} />}
         </div>
       </div>
+      {c.pamphletBackground !== undefined && (
+        <PamphletBackground background={c.pamphletBackground} pamphletUrl={c.pamphletUrl} />
+      )}
       {intro ? (
         <Sourced item={intro} className="text-[15px] leading-relaxed text-ink-soft" />
       ) : (
