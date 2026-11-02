@@ -121,7 +121,7 @@ export function BallotSummary({ catalog }: { catalog: Catalog }) {
                 ) : null}
                 {isRace(i) && shortlistOf(i).length > 0 && (
                   <div className={label ? "mt-1" : ""}>
-                    <p className="text-[12.5px] text-muted">Your shortlist</p>
+                    <p className="text-[12.5px] text-muted">{i.rankedChoice ? "Your ranking" : "Your shortlist"}</p>
                     <ol className="text-[15px] font-semibold">
                       {shortlistOf(i).map((c, r) => (
                         <li key={c.slug}>
