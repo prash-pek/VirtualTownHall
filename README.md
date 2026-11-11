@@ -9,6 +9,6 @@ portfolio section (`#growing`) below the fold. Enter or Space on the focused spr
 
 - `logo-wordmark.png` is `logo.png` with the sprout removed; `sprout.png` is the sprout alone
   (box x 592–778, y 22–226 of the 800 × 406 logo). Together they rebuild `logo.png` exactly.
-- `THRESHOLD` (0.55) and `PAINT` (the accent the sprout is painted in) sit at the top of the script.
+- `THRESHOLD` (0.55) and `PAINT` (coral `#ff8a65`, the accent the sprout is painted in) sit at the top of the script.
 - Every visit starts locked (no memory of past unlocks); a page restored with the Back button reloads locked too.
 - With JavaScript off the page is the plain coming-soon page.
