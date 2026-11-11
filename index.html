@@ -220,8 +220,8 @@
 
   // Share of the sprout that has to be painted before it unlocks.
   const THRESHOLD = 0.55;
-  const KEY = 'oi-bloom';
-  const MINT = '#92edc1';
+  // Colour the sprout is painted in. Placeholder until design picks the accent.
+  const PAINT = '#ffc857';
   const BOX_W = 186, BOX_H = 204;        // sprout box in logo.png pixels
   const MASK_SCALE = 2;                  // mask resolution, per logo pixel
   const GRID = 3;                        // logo pixels per coverage cell
@@ -232,19 +232,10 @@
   const growing = document.getElementById('growing');
   const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  const store = {
-    get() { try { return localStorage.getItem(KEY) === '1'; } catch (e) { return false; } },
-    set() { try { localStorage.setItem(KEY, '1'); } catch (e) {} },
-    clear() { try { localStorage.removeItem(KEY); } catch (e) {} },
-  };
-
-  const params = new URLSearchParams(location.search);
-  if (params.has('reset')) {
-    store.clear();
-    params.delete('reset');
-    const q = params.toString();
-    history.replaceState(null, '', location.pathname + (q ? '?' + q : '') + location.hash);
-  }
+  // Every visit starts locked. A page restored from the back/forward cache is reloaded so it does too,
+  // and a leftover #growing in the URL is dropped.
+  addEventListener('pageshow', ev => { if (ev.persisted) location.reload(); });
+  if (location.hash) history.replaceState(null, '', location.pathname + location.search);
 
   // Load the sprout first. Until it's ready the page stays exactly as it was.
   const sproutImg = new Image();
@@ -261,7 +252,6 @@
     canvas.setAttribute('role', 'img');
     canvas.setAttribute('aria-label', 'Outset Innovation sprout');
 
-    const already = store.get();
     let open = false;
 
     // Mask: what has been painted, in fixed sprout-box coordinates, so resizing keeps it.
@@ -278,7 +268,7 @@
     for (let i = 0; i < gw * gh; i++) if (shape[i * 4 + 3] > 40) inside.push(i);
 
     // Layers sized to the on-screen canvas.
-    let solid, locked, paint, scale = 1;
+    let solid, accent, locked, paint, scale = 1;
     function build() {
       const r = canvas.getBoundingClientRect();
       if (!r.width) return;
@@ -290,6 +280,12 @@
 
       solid = makeCanvas(w, h);
       solid.getContext('2d').drawImage(sproutImg, 0, 0, w, h);
+      accent = makeCanvas(w, h);
+      const a = accent.getContext('2d');
+      a.drawImage(solid, 0, 0);
+      a.globalCompositeOperation = 'source-in';
+      a.fillStyle = PAINT;
+      a.fillRect(0, 0, w, h);
 
       // Locked look: faint fill plus an outline 2 logo-px wide, centered on the edge.
       locked = makeCanvas(w, h);
@@ -327,15 +323,15 @@
         if (!solid) return;
         const w = canvas.width, h = canvas.height;
         ctx.clearRect(0, 0, w, h);
-        if (fade >= 1) { ctx.drawImage(solid, 0, 0); return; }
+        if (fade >= 1) { ctx.drawImage(accent, 0, 0); return; }
         ctx.drawImage(locked, 0, 0);
         const p = paint.getContext('2d');
         p.globalCompositeOperation = 'copy';
         p.drawImage(mask, 0, 0, w, h);
         p.globalCompositeOperation = 'source-in';
-        p.drawImage(solid, 0, 0);
+        p.drawImage(accent, 0, 0);
         ctx.drawImage(paint, 0, 0);
-        if (fade > 0) { ctx.globalAlpha = fade; ctx.drawImage(solid, 0, 0); ctx.globalAlpha = 1; }
+        if (fade > 0) { ctx.globalAlpha = fade; ctx.drawImage(accent, 0, 0); ctx.globalAlpha = 1; }
       });
     }
     const redraw = () => { dirty = true; frame(); };
@@ -401,22 +397,12 @@
       ev.preventDefault(); unlock(true);
     });
 
-    // Triple-tap the grown sprout to put it back (for testing).
-    let taps = [];
-    canvas.addEventListener('click', () => {
-      if (!open) return;
-      const now = performance.now();
-      taps = taps.filter(t => now - t < 700).concat(now);
-      if (taps.length >= 3) { store.clear(); location.reload(); }
-    });
-
     function unlock(animate) {
       if (open) return;
       open = true;
       root.classList.remove('locked');
       document.body.classList.add('open');
       growing.hidden = false;
-      store.set();
       const motion = animate && !reduced;
 
       if (motion) {
@@ -455,7 +441,7 @@
     word.onload = () => {
       logo.src = word.src;
       logo.parentNode.appendChild(canvas);
-      if (already) unlock(false); else root.classList.add('locked');
+      root.classList.add('locked');
       build();
       if (window.ResizeObserver) new ResizeObserver(build).observe(canvas);
       else addEventListener('resize', build);
