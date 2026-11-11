@@ -38,7 +38,7 @@
   #sprout {
     position: absolute; left: 74%; top: 5.4187%; width: 23.25%; height: 50.2463%;
     touch-action: none; outline: none;
-    cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24'%3E%3Ccircle cx='12' cy='12' r='9' fill='rgba(146,237,193,.18)' stroke='%2392edc1' stroke-width='2'/%3E%3C/svg%3E") 12 12, crosshair;
+    cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24'%3E%3Ccircle cx='12' cy='12' r='9' fill='rgba(255,138,101,.2)' stroke='%23ff8a65' stroke-width='2'/%3E%3C/svg%3E") 12 12, crosshair;
   }
   #sprout:focus-visible { outline: 2px solid var(--mint); outline-offset: 4px; }
   .open #sprout { touch-action: auto; cursor: default; }
@@ -220,7 +220,7 @@
 
   // Share of the sprout that has to be painted before it unlocks.
   const THRESHOLD = 0.55;
-  // Colour the sprout is painted in ("coral bloom"). The wordmark stays mint.
+  // Colour of the sprout: its faint outline, the paint and the grown sprout ("coral bloom"). The wordmark stays mint.
   const PAINT = '#ff8a65';
   const BOX_W = 186, BOX_H = 204;        // sprout box in logo.png pixels
   const MASK_SCALE = 2;                  // mask resolution, per logo pixel
@@ -305,11 +305,12 @@
       l.globalCompositeOperation = 'destination-out';
       l.drawImage(ero, 0, 0);
       l.globalCompositeOperation = 'source-in';
-      l.fillStyle = 'rgba(146,237,193,.45)';
+      l.fillStyle = PAINT;
+      l.globalAlpha = 0.8;
       l.fillRect(0, 0, w, h);
       l.globalCompositeOperation = 'destination-over';
       l.globalAlpha = 0.08;
-      l.drawImage(solid, 0, 0);
+      l.drawImage(accent, 0, 0);
 
       paint = makeCanvas(w, h);
       dirty = true; frame();
