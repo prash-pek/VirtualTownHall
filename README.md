@@ -52,10 +52,14 @@ Any Postgres 16+ with PostGIS works locally, for example `docker run -e POSTGRES
 
 ## Auth
 
-Roles (`voter`, `candidate`, `admin`) live in Clerk `publicMetadata.role` and are set out of band. In the Clerk dashboard, open **Sessions → Customize session token** and add:
+TownHall uses the shared Outset sign-in: one Clerk app ("Outset Innovation", production domain `outsetinno.com`, Vercel Marketplace resource `clerk-amethyst-engine`) for every app on a `*.outsetinno.com` subdomain, so a sign-in carries over between them. Production keys only work on `*.outsetinno.com`; `*.vercel.app` previews can't sign in.
+
+Each user's Clerk **private** metadata lists the apps they may use, e.g. `{ "apps": ["townhall", "ladder"] }`. Pages stay readable by anyone. The voter API (address lookup, discussion, saved ballot) needs a signed-in user with `townhall` on that list (`proxy.ts`, `lib/auth/app-access.ts`); the pages show a sign-in box, or a "you don't have access yet" note, where a voter would start. To let someone in, add `townhall` to their `apps` list (merge, don't overwrite).
+
+Roles (`voter`, `candidate`, `admin`) live in Clerk `publicMetadata.role` and are set out of band. In the Clerk dashboard (Production), open **Sessions → Customize session token**; it must contain:
 
 ```json
-{ "metadata": "{{user.public_metadata}}" }
+{ "apps": "{{user.private_metadata.apps}}", "metadata": "{{user.public_metadata}}" }
 ```
 
 Pages and route handlers call `requireRole()`. Candidate-scoped data must go through `canManageCandidate()`.

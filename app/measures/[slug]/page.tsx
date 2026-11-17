@@ -3,15 +3,14 @@ import { notFound } from "next/navigation";
 
 import { AskJump } from "@/components/ballot/ask-context";
 import { DiscussionPanel } from "@/components/ballot/discussion-panel";
-import { BetaUnlock } from "@/components/beta-unlock";
+import { AccessGate } from "@/components/access-gate";
 import { NotReady } from "@/components/ballot/not-ready";
 import { EndorsedBy } from "@/components/ballot/endorsed-by";
 import { PreviewBanner, Sourced } from "@/components/ballot/sourced";
 import { StepBar, WalkPosition, YourChoice } from "@/components/ballot/walk-through";
-import { getSession } from "@/lib/auth/session";
+import { getAppAccess, getSession } from "@/lib/auth/session";
 import { hasRole } from "@/lib/auth/roles";
 import { getCatalog } from "@/lib/ballot/catalog";
-import { betaLocked } from "@/lib/beta-lock-status";
 import { getMeasureDetail, type Endorsement, type MeasureArgument } from "@/lib/ballot/content";
 
 export const dynamic = "force-dynamic";
@@ -29,7 +28,7 @@ export default async function MeasurePage({ params }: { params: Promise<{ slug: 
   const measure = (await getCatalog()).measures.find((m) => m.slug === slug);
   if (!measure) notFound();
   const preview = hasRole(await getSession(), "admin");
-  const [d, locked] = await Promise.all([getMeasureDetail(slug, preview), betaLocked()]);
+  const [d, access] = await Promise.all([getMeasureDetail(slug, preview), getAppAccess()]);
   // Explanations are neutral even when collection filed them under a side; they never sit under YES or NO.
   const neutral = d?.arguments.filter((a) => a.kind === "explainer") ?? [];
   const endorsed = (s: "yes" | "no") => d?.endorsements.filter((e) => e.side === s) ?? [];
@@ -58,10 +57,11 @@ export default async function MeasurePage({ params }: { params: Promise<{ slug: 
             {/* Same test the discussion endpoint uses: something official or an argument must be published. */}
             {d &&
             (d.summary || d.yesMeans || d.noMeans || d.fiscalImpact || d.arguments.length || d.endorsements.length) ? (
-              locked ? (
-                <BetaUnlock
+              access !== "ok" ? (
+                <AccessGate
+                  access={access}
                   next={`/measures/${slug}`}
-                  intro="To ask questions, enter the beta password you were given. You can read everything on this page without it."
+                  intro="To ask questions, sign in with the account you were invited with. You can read everything on this page without it."
                 />
               ) : (
                 <DiscussionPanel
