@@ -18,7 +18,11 @@ function apiDenied(error: "sign_in_required" | "no_access", status: 401 | 403) {
 
 /** The address the visitor used. The Host header, not nextUrl, which can be the server's own name. */
 function hostOf(req: NextRequest) {
-  return (req.headers.get("x-forwarded-host") ?? req.headers.get("host") ?? req.nextUrl.hostname).split(":")[0]?.toLowerCase() ?? "";
+  return (
+    (req.headers.get("x-forwarded-host") ?? req.headers.get("host") ?? req.nextUrl.hostname)
+      .split(":")[0]
+      ?.toLowerCase() ?? ""
+  );
 }
 
 /**
