@@ -2,7 +2,7 @@ import { clerkMiddleware, createRouteMatcher } from "@clerk/nextjs/server";
 import { NextResponse, type NextFetchEvent, type NextRequest } from "next/server";
 
 import { APP_ID, appAccess, isApiPath, isOpenApiPath, PRIVATE_BETA } from "@/lib/auth/app-access";
-import { VISIT_COOKIE, VISIT_COOKIE_OPTIONS, sendVisit, shouldRecordVisit } from "@/lib/auth/record-visit";
+import { VISIT_COOKIE, VISIT_COOKIE_OPTIONS, placeOf, sendVisit, shouldRecordVisit } from "@/lib/auth/record-visit";
 import { signInUrl, signUpUrl } from "@/lib/auth/urls";
 
 const isCandidateAdmin = createRouteMatcher(["/admin(.*)", "/api/admin(.*)"]);
@@ -31,7 +31,7 @@ function hostOf(req: NextRequest) {
  */
 async function recordVisit(req: NextRequest, ev: NextFetchEvent, getToken: () => Promise<string | null>) {
   if (!shouldRecordVisit(hostOf(req), req.cookies.has(VISIT_COOKIE))) return;
-  if (!sendVisit(APP_ID, await getToken(), (p) => ev.waitUntil(p))) return;
+  if (!sendVisit({ app: APP_ID, ...placeOf(req.headers) }, await getToken(), (p) => ev.waitUntil(p))) return;
   const res = NextResponse.next();
   res.cookies.set(VISIT_COOKIE, "1", VISIT_COOKIE_OPTIONS);
   return res;
