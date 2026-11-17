@@ -1,7 +1,8 @@
 import { clerkMiddleware, createRouteMatcher } from "@clerk/nextjs/server";
-import { NextResponse, type NextRequest } from "next/server";
+import { NextResponse, type NextFetchEvent, type NextRequest } from "next/server";
 
-import { appAccess, isApiPath, isOpenApiPath, PRIVATE_BETA } from "@/lib/auth/app-access";
+import { APP_ID, appAccess, isApiPath, isOpenApiPath, PRIVATE_BETA } from "@/lib/auth/app-access";
+import { VISIT_COOKIE, VISIT_COOKIE_OPTIONS, sendVisit, shouldRecordVisit } from "@/lib/auth/record-visit";
 import { signInUrl, signUpUrl } from "@/lib/auth/urls";
 
 const isCandidateAdmin = createRouteMatcher(["/admin(.*)", "/api/admin(.*)"]);
@@ -15,17 +16,35 @@ function apiDenied(error: "sign_in_required" | "no_access", status: 401 | 403) {
   return res;
 }
 
+/** The address the visitor used. The Host header, not nextUrl, which can be the server's own name. */
+function hostOf(req: NextRequest) {
+  return (req.headers.get("x-forwarded-host") ?? req.headers.get("host") ?? req.nextUrl.hostname).split(":")[0]?.toLowerCase() ?? "";
+}
+
+/**
+ * Reports the visit to the Outset access console (lib/auth/record-visit.ts) at most once every
+ * 30 minutes, without waiting for it. Returns the response that sets the cookie, or nothing.
+ */
+async function recordVisit(req: NextRequest, ev: NextFetchEvent, getToken: () => Promise<string | null>) {
+  if (!shouldRecordVisit(hostOf(req), req.cookies.has(VISIT_COOKIE))) return;
+  if (!sendVisit(APP_ID, await getToken(), (p) => ev.waitUntil(p))) return;
+  const res = NextResponse.next();
+  res.cookies.set(VISIT_COOKIE, "1", VISIT_COOKIE_OPTIONS);
+  return res;
+}
+
 /**
  * Shared Outset sign-in. Anyone can look at the pages. The API routes behind them (address
  * lookup, discussion, saved ballot) need a signed-in user whose access list includes TownHall;
  * the pages show a sign-in or "no access yet" box where a voter would start. /ops and /admin send
- * signed-out visitors to sign-in.
+ * signed-out visitors to sign-in. Signed-in visitors with access are counted in the access
+ * console's usage chart (recordVisit).
  *
  * First line of defence only: pages and route handlers re-check roles with requireRole(), and
  * the data layer scopes queries by owner (TRD v2 §10).
  */
 const withClerk = clerkMiddleware(
-  async (auth, req) => {
+  async (auth, req, ev) => {
     const { pathname } = req.nextUrl;
     if (isApiPath(pathname) && !isOpenApiPath(pathname)) {
       const { userId, sessionClaims } = await auth();
@@ -40,6 +59,8 @@ const withClerk = clerkMiddleware(
         return NextResponse.rewrite(new URL("/no-access", req.url));
       }
     }
+    const { userId, sessionClaims, getToken } = await auth();
+    if (appAccess(userId, sessionClaims?.apps) === "ok") return recordVisit(req, ev, () => getToken());
   },
   { signInUrl, signUpUrl },
 );
