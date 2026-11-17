@@ -1,12 +1,12 @@
 import Link from "next/link";
 
-import { BetaUnlock } from "@/components/beta-unlock";
+import { AccessGate } from "@/components/access-gate";
+import { getAppAccess } from "@/lib/auth/session";
 import { HowItWorks } from "@/components/how-it-works";
-import { betaLocked } from "@/lib/beta-lock-status";
 import { defaultState, usStates } from "@/lib/ballot/states";
 
 export default async function Home() {
-  const locked = await betaLocked();
+  const access = await getAppAccess();
   return (
     <main className="page gap-10 py-16">
       <div>
@@ -22,8 +22,8 @@ export default async function Home() {
         </p>
       </div>
       <HowItWorks />
-      {locked ? (
-        <BetaUnlock next="/" />
+      {access !== "ok" ? (
+        <AccessGate access={access} next="/" />
       ) : (
         <form action="/ballot" method="get" className="card flex flex-col gap-3">
           <label htmlFor="address" className="eyebrow">

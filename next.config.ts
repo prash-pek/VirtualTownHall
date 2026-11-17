@@ -17,6 +17,8 @@ const nextConfig: NextConfig = {
     return [
       { source: "/townhallai", destination: "/", permanent: true },
       { source: "/townhallai/:path*", destination: "/:path*", permanent: true },
+      // The beta password page was replaced by the shared Outset sign-in.
+      { source: "/unlock", destination: "/sign-in", permanent: false },
     ];
   },
   async headers() {
